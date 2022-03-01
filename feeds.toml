@@ -48,6 +48,16 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
+[yonhapnews]
+title = "연합뉴스 ─ 네이버TV"
+url = "https://tv.naver.com/yonhapnews/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+
 [ytnnews24]
 title = "뉴스는 YTN ─ 네이버TV"
 url = "https://tv.naver.com/ytnnews24/clips"
