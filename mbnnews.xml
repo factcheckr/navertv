@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 13:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 14:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘부터 방역패스 중단…내일 개학 학교발 확진 폭증 우려]]></title>
+            <link>https://tv.naver.com/v/25406340</link>
+            <guid>https://tv.naver.com/v/25406340</guid>
+            <pubDate>Tue, 01 Mar 2022 14:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_296/mCoeS_1646142248033z8YLY_JPEG/cover_cover_20220301223727_20_552_1293835_360_7_0_20220301224301266.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백운기의 뉴스와이드] 사전투표 D-3…여야 "투표율을 올려라"]]></title>
             <link>https://tv.naver.com/v/25404831</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Mar 2022 06:27:01 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220301_20/ZTNkx_1646092575648aJaTm_JPEG/cover_cover_20220301084735_20_605_1293803_360_7_0_20220301085501234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 2022] 대선 투표용지 인쇄 시작…23만 확진자 대책 고심]]></title>
-            <link>https://tv.naver.com/v/25394861</link>
-            <guid>https://tv.naver.com/v/25394861</guid>
-            <pubDate>Tue, 01 Mar 2022 06:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_287/tlQQb_16460921999807W3p2_JPEG/cover_cover_20220301084511_20_605_1293802_360_7_0_20220301084901231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
