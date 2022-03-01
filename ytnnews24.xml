@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 08:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 09:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 이재명·김동연, 단일화 회동 "정치개혁·통합정부 합의"]]></title>
+            <link>https://tv.naver.com/v/25401756</link>
+            <guid>https://tv.naver.com/v/25401756</guid>
+            <pubDate>Tue, 01 Mar 2022 09:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_286/aJdhs_1646125559070WV93U_JPEG/cover_cover_202203011753227037_t_20220301180502591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보] 이재명, 김동연과 곧 회동...후보 단일화 여부 관심]]></title>
             <link>https://tv.naver.com/v/25401064</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Mar 2022 06:01:38 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220301_100/RRdED_1646108357095uvN4L_JPEG/cover_cover_202203010516008325_t_20220301131902353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['새로운 백년의 꿈', 대한민국 임시정부 기념관 개관]]></title>
-            <link>https://tv.naver.com/v/25397492</link>
-            <guid>https://tv.naver.com/v/25397492</guid>
-            <pubDate>Tue, 01 Mar 2022 06:01:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_16/pDVPK_1646107662255dwxEh_JPEG/cover_cover_202203011304276875_t_20220301130701912.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
