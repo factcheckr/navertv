@@ -8,9 +8,29 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
+[imnews]
+title = "MBC뉴스 ─ 네이버TV"
+url = "https://tv.naver.com/imnews/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+
 [sbsnews8]
 title = "SBS뉴스 ─ 네이버TV"
 url = "https://tv.naver.com/sbsnews8/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+
+[jtbcnews]
+title = "JTBC뉴스 ─ 네이버TV"
+url = "https://tv.naver.com/jtbcnews/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
 titleSelector = "dt.title"
 linkSelector = "dt.title a"
