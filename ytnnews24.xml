@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 16:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 17:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 우크라 관리 "러시아, 키예프 TV 타워 공습...5명 사망"]]></title>
+            <link>https://tv.naver.com/v/25409165</link>
+            <guid>https://tv.naver.com/v/25409165</guid>
+            <pubDate>Tue, 01 Mar 2022 17:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_272/Rgy20_16461551558133aDf6_JPEG/cover_cover_202203020151404192_t_20220302021905580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젤렌스키 "EU는 우크라이나와 함께한다는 것 증명하라"]]></title>
             <link>https://tv.naver.com/v/25408655</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Mar 2022 13:24:45 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220301_131/sse42_1646140892885PlVwC_JPEG/cover_cover_202203012217246968_t_20220301222102353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['새로운 백년의 꿈', 대한민국 임시정부 기념관 개관]]></title>
-            <link>https://tv.naver.com/v/25405927</link>
-            <guid>https://tv.naver.com/v/25405927</guid>
-            <pubDate>Tue, 01 Mar 2022 13:24:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_242/eBIIw_1646140681843i5r3x_JPEG/cover_cover_202203012214290717_t_20220301221712523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
