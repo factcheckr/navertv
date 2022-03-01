@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 06:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 07:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문 대통령 기념사 주요 내용은?]]></title>
+            <link>https://tv.naver.com/v/25399326</link>
+            <guid>https://tv.naver.com/v/25399326</guid>
+            <pubDate>Tue, 01 Mar 2022 07:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[5:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_80/UnL4O_1646117004870Lky2K_JPEG/cover_cover_20220301153014_20_731_1293814_360_7_0_20220301154101248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제103주년  3·1절 기념식]]></title>
+            <link>https://tv.naver.com/v/25399260</link>
+            <guid>https://tv.naver.com/v/25399260</guid>
+            <pubDate>Tue, 01 Mar 2022 07:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[51:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_222/h9T6H_1646116923363JESB8_JPEG/cover_cover_20220301152029_20_731_1293813_360_7_0_20220301153601324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신문브리핑 4 "방역패스 결국 스톱" 외 주요기사]]></title>
             <link>https://tv.naver.com/v/25396126</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 01 Mar 2022 06:27:01 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_234/kpxB8_1646049382685fEHVr_JPEG/cover_cover_20220228204829_20_552_1293783_360_7_0_20220228205501255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북 "탄도미사일은 정찰위성 실험"…군, L-SAM 무기 공개]]></title>
-            <link>https://tv.naver.com/v/25389200</link>
-            <guid>https://tv.naver.com/v/25389200</guid>
-            <pubDate>Tue, 01 Mar 2022 06:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_49/HErrO_1646049121037l76Rh_JPEG/cover_cover_20220228203455_20_552_1293780_360_7_0_20220228205101257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사실확인] 공동주택이라도 '내 집'에선 흡연 가능하다?]]></title>
-            <link>https://tv.naver.com/v/25389161</link>
-            <guid>https://tv.naver.com/v/25389161</guid>
-            <pubDate>Tue, 01 Mar 2022 06:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_153/tt4Zh_1646049020068BpA7N_JPEG/cover_cover_20220228204424_20_552_1293782_360_7_0_20220228204901241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
