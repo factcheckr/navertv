@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 10:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 11:18:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 1일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25403480</link>
+            <guid>https://tv.naver.com/v/25403480</guid>
+            <pubDate>Tue, 01 Mar 2022 11:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220301_111/FPeoW_1646132215940JXvrh_JPEG/cover_2022030190057_thumb_075017_20220301195602142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대선후보 4인 손 맞잡자 李 "이러다 다 걸려" 尹 "그럼 더 편해" 安 "확률적으로"]]></title>
             <link>https://tv.naver.com/v/25398592</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Mar 2022 06:26:46 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220228_261/FXfHb_1646052429660Rxrqt_JPEG/cover_2022022890130_thumb_094056_20220228214608554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["셀프방역? 장애인에겐 고립"…장애인 코로나 사망률, 비장애인 4배 넘어]]></title>
-            <link>https://tv.naver.com/v/25390255</link>
-            <guid>https://tv.naver.com/v/25390255</guid>
-            <pubDate>Tue, 01 Mar 2022 06:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220228_297/HE4xM_1646052148598K9dhI_JPEG/cover_2022022890126_thumb_093954_20220228214113410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
