@@ -58,9 +58,29 @@ imageSelector = "div.cds_type a img"
 contentSelector = "span.tm_b"
 waitUntil = "networkidle"
 
+[tvchosunnews]
+title = "TV조선 뉴스 ─ 네이버TV"
+url = "https://tv.naver.com/tvchosunnews/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+
 [channelanews]
 title = "채널A뉴스 ─ 네이버TV"
 url = "https://tv.naver.com/channelanews/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+
+[mbnnews]
+title = "MBN 뉴스 ─ 네이버TV"
+url = "https://tv.naver.com/mbnnews/clips"
 entrySelector = "div[class^='cds _MM_CARD']"
 titleSelector = "dt.title"
 linkSelector = "dt.title a"
