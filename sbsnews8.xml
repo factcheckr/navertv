@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 13:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 14:20:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대선토론] 이재명-윤석열 '대장동' 신경전…"특검하자" vs "녹취록 공개돼"]]></title>
+            <link>https://tv.naver.com/v/25428761</link>
+            <guid>https://tv.naver.com/v/25428761</guid>
+            <pubDate>Wed, 02 Mar 2022 14:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[5:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_124/z5KWD_1646228620621T2EBC_JPEG/cover_0000957469_001_20220302224101972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대선토론] 안철수-이재명 '재난지원금' 논쟁…"공평함 필요" vs "배제 이유 없어"]]></title>
+            <link>https://tv.naver.com/v/25428369</link>
+            <guid>https://tv.naver.com/v/25428369</guid>
+            <pubDate>Wed, 02 Mar 2022 14:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_111/Wwrax_1646227582572eRNVs_JPEG/cover_0000957467_001_20220302222501211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대선토론] 심상정 "안희정 성폭력 2차 가해자 조치해야" 이재명 "바로 찾기 어려워"]]></title>
             <link>https://tv.naver.com/v/25427873</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 12:33:48 GMT</pubDate>
             <content:encoded><![CDATA[3:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_2/71GrW_1646220605437Qn86z_JPEG/cover_0000957449_001_20220302202801232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스브스뉴스] "그런 회사라면 취업해도 문제다!" 유형별 MBTI 채용 리액션]]></title>
-            <link>https://tv.naver.com/v/25425683</link>
-            <guid>https://tv.naver.com/v/25425683</guid>
-            <pubDate>Wed, 02 Mar 2022 12:33:49 GMT</pubDate>
-            <content:encoded><![CDATA[5:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_207/SCYA0_1646220565567P1EIg_JPEG/cover_0000957450_001_20220302202601232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 선수 완파…"상금은 우크라이나 군대에"]]></title>
-            <link>https://tv.naver.com/v/25425122</link>
-            <guid>https://tv.naver.com/v/25425122</guid>
-            <pubDate>Wed, 02 Mar 2022 11:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_276/49ZjP_16462198510368Fo37_JPEG/cover_0000957446_001_20220302200612410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
