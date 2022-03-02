@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 11:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 12:34:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스프라임] '이재명 캠프' 진성준 vs '윤석열 캠프' 최형두]]></title>
+            <link>https://tv.naver.com/v/25425280</link>
+            <guid>https://tv.naver.com/v/25425280</guid>
+            <pubDate>Wed, 02 Mar 2022 12:34:04 GMT</pubDate>
+            <content:encoded><![CDATA[20:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_277/FZ9OV_1646220173031gK11t_JPEG/cover_cover_MYH20220302021000038_20220302201102373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일 오늘보다 포근…중서부·전북 미세먼지 나쁨]]></title>
             <link>https://tv.naver.com/v/25424944</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 09:19:56 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_249/0stGB_1646210308792FyvGL_JPEG/cover_cover_MYH20220302017800038_20220302173803233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라 놓고 갈라진 남북…"강력규탄" vs "미 패권정책 탓"]]></title>
-            <link>https://tv.naver.com/v/25421634</link>
-            <guid>https://tv.naver.com/v/25421634</guid>
-            <pubDate>Wed, 02 Mar 2022 09:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_34/DgHM7_1646210255489qB29h_JPEG/cover_cover_MYH20220302017700038_20220302173711242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
