@@ -4,9 +4,33 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 08:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 3월 3일 종합뉴스 예고]]></title>
+            <link>https://tv.naver.com/v/25450758</link>
+            <guid>https://tv.naver.com/v/25450758</guid>
+            <pubDate>Thu, 03 Mar 2022 09:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_142/F2KC1_1646297624615FGQh0_JPEG/cover_cover_20220303174857_20_845_1293952_360_7_0_20220303175301219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 대장동부터 페미니즘까지]]></title>
+            <link>https://tv.naver.com/v/25450456</link>
+            <guid>https://tv.naver.com/v/25450456</guid>
+            <pubDate>Thu, 03 Mar 2022 09:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[5:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_183/T9dL1_1646297099554xjlDa_JPEG/cover_cover_20220303172835_20_812_1293951_360_7_0_20220303174301235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 尹-安 전격 단일화…대선판 요동?]]></title>
+            <link>https://tv.naver.com/v/25450341</link>
+            <guid>https://tv.naver.com/v/25450341</guid>
+            <pubDate>Thu, 03 Mar 2022 09:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[49:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_217/kV27J_1646296962964i9tEL_JPEG/cover_cover_20220303171949_20_812_1293950_360_7_0_20220303173901246.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 3월 3일 목요일 오프닝]]></title>
             <link>https://tv.naver.com/v/25449721</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 23:21:43 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_246/aE8yE_16462600754782lnOv_JPEG/cover_cover_20220303071325_20_605_1293917_360_7_0_20220303072701236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 2022] 이재명, 통합정부 세불리기…원포인트 본회의 제안]]></title>
-            <link>https://tv.naver.com/v/25428506</link>
-            <guid>https://tv.naver.com/v/25428506</guid>
-            <pubDate>Wed, 02 Mar 2022 14:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_11/db0MW_1646227936114qNPD3_JPEG/cover_cover_20220302195247_20_552_1293896_360_7_0_20220302223101221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백운기의 뉴스와이드] '대선 D-7' 여론조사 초접전…막판 변수는?]]></title>
-            <link>https://tv.naver.com/v/25428049</link>
-            <guid>https://tv.naver.com/v/25428049</guid>
-            <pubDate>Wed, 02 Mar 2022 13:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[57:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_37/bOxPO_1646226968940Df1dA_JPEG/cover_cover_20220302204619_20_536_1293913_360_7_0_20220302221201202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합뉴스 날씨]일교차 큰 환절기 건강 유의…미세먼지 가득한 서쪽지역]]></title>
-            <link>https://tv.naver.com/v/25426831</link>
-            <guid>https://tv.naver.com/v/25426831</guid>
-            <pubDate>Wed, 02 Mar 2022 12:34:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_296/kkt94_1646222993413dEzNE_JPEG/cover_cover_20220302204137_20_552_1293912_360_7_0_20220302210901232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
