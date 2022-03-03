@@ -4,9 +4,33 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 06:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 07:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스외전 Zoom人] "안철수 표는 반반 갈린다‥'관망' 중도층엔 영향 클 것"]]></title>
+            <link>https://tv.naver.com/v/25447580</link>
+            <guid>https://tv.naver.com/v/25447580</guid>
+            <pubDate>Thu, 03 Mar 2022 07:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[21:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_123/Huxhz_1646291872864E3wB0_JPEG/cover_cover_14news_20220303_151210_1_7_Large_20220303161327207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스외전 코로나 브리핑] "확산 둔화, 1~2주 후 정점‥20만 명대 초반 예상"]]></title>
+            <link>https://tv.naver.com/v/25447572</link>
+            <guid>https://tv.naver.com/v/25447572</guid>
+            <pubDate>Thu, 03 Mar 2022 07:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[6:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_284/WEjTP_1646291665157ebqwT_JPEG/cover_cover_14news_20220303_142222_1_5_Large_20220303161311150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스외전 포커스] "단일화 효과, 상징성에 그칠 수도‥결국 '투표'가 승부 가를 것"]]></title>
+            <link>https://tv.naver.com/v/25447565</link>
+            <guid>https://tv.naver.com/v/25447565</guid>
+            <pubDate>Thu, 03 Mar 2022 07:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[14:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_227/LiJHK_1646291784020nBpmu_JPEG/cover_cover_14news_20220303_141301_1_3_Large_20220303161302398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 대응 중앙방역대책본부 브리핑]]></title>
             <link>https://tv.naver.com/v/25444943</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 03 Mar 2022 01:20:52 GMT</pubDate>
             <content:encoded><![CDATA[10:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_6/ZiSHW_1646264157757Bx8Hu_JPEG/cover_cover_h2022030305_20220303083403223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스특보] 국민의힘 윤석열, 국민의당 안철수 공동 기자회견]]></title>
-            <link>https://tv.naver.com/v/25437250</link>
-            <guid>https://tv.naver.com/v/25437250</guid>
-            <pubDate>Thu, 03 Mar 2022 01:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[25:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_85/TSMaH_1646264201645EVSvM_JPEG/1646264194871.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 갈수록 포근, 서쪽 공기 탁해‥동쪽 건조 극심]]></title>
-            <link>https://tv.naver.com/v/25436880</link>
-            <guid>https://tv.naver.com/v/25436880</guid>
-            <pubDate>Wed, 02 Mar 2022 23:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_190/klFwB_16462618417740T3xi_JPEG/cover_cover_today_20220303_074138_2_26_Large_20220303075703053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스투데이] 윤석열-안철수, 단일화 잠정 합의]]></title>
-            <link>https://tv.naver.com/v/25436829</link>
-            <guid>https://tv.naver.com/v/25436829</guid>
-            <pubDate>Wed, 02 Mar 2022 23:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:46:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_43/nWXF3_1646264171742oE2rK_JPEG/1646264170572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
