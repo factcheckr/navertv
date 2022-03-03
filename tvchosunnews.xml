@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 01:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈분석] 대선 D-6, 야권 단일화…대선 막판 변수?]]></title>
+            <link>https://tv.naver.com/v/25439244</link>
+            <guid>https://tv.naver.com/v/25439244</guid>
+            <pubDate>Thu, 03 Mar 2022 02:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[59:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_284/Q0YXo_1646271872051juTmu_JPEG/cover_2022030390013_thumb_103116_20220303103601879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['6명·10시'에서 '8명·11시'로…정부, 거리두기 완화 검토]]></title>
             <link>https://tv.naver.com/v/25438594</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 14:20:23 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_170/wTSYD_1646227997871w3zOs_JPEG/cover_2022030290105_thumb_102958_20220302223123124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전망보다 한주 빠른 22만명 확진…정부 "거리두기 조기완화 검토"]]></title>
-            <link>https://tv.naver.com/v/25428512</link>
-            <guid>https://tv.naver.com/v/25428512</guid>
-            <pubDate>Wed, 02 Mar 2022 14:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_284/9qSWB_1646227946281cpkze_JPEG/cover_2022030290103_thumb_102735_20220302223116067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
