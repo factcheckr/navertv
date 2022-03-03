@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 06:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TV조선, '3.9대선 선거방송' 20시간 라이브 진행]]></title>
+            <link>https://tv.naver.com/v/25445650</link>
+            <guid>https://tv.naver.com/v/25445650</guid>
+            <pubDate>Thu, 03 Mar 2022 06:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_46/lGsK5_1646286387522JODL6_JPEG/cover_2022030390053_thumb_024456_20220303144601847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['밤 11시까지' 등…정부, 거리두기 조기 완화 검토]]></title>
             <link>https://tv.naver.com/v/25442419</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 02 Mar 2022 14:20:23 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220302_24/IOhTx_1646228539904JXLJF_JPEG/cover_2022030290109_thumb_103719_20220302224102234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진단키트부터 받은 등교 첫날…"5월까지 5~11세 절반 넘게 감염"]]></title>
-            <link>https://tv.naver.com/v/25428514</link>
-            <guid>https://tv.naver.com/v/25428514</guid>
-            <pubDate>Wed, 02 Mar 2022 14:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220302_170/wTSYD_1646227997871w3zOs_JPEG/cover_2022030290105_thumb_102958_20220302223123124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
