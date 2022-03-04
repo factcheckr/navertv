@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 13:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 14:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBC 뉴스특보] 강풍 타고 번진 산불‥밤샘 진화작업 이어]]></title>
+            <link>https://tv.naver.com/v/25477157</link>
+            <guid>https://tv.naver.com/v/25477157</guid>
+            <pubDate>Fri, 04 Mar 2022 14:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:20:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_192/ZAqen_16464031006535PhdX_JPEG/1646394793570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[축구장 '4천7백여 개' 불타‥거센 바람에 진화 난항]]></title>
             <link>https://tv.naver.com/v/25476506</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 11:17:04 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_158/qpM4c_1646392009752baPKM_JPEG/cover_cover_desk_20220304_200011_1_10_Large_20220304200603023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확진·사망 또 최다‥정점은 언제? 변수는 '숨은 감염자']]></title>
-            <link>https://tv.naver.com/v/25474374</link>
-            <guid>https://tv.naver.com/v/25474374</guid>
-            <pubDate>Fri, 04 Mar 2022 11:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_57/Y2U5Z_1646391957078akTVA_JPEG/cover_cover_desk_20220304_195745_1_9_Large_20220304200520243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
