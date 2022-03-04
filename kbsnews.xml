@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 14:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 15:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 정부, 울진 산불 ‘재난 사태 선포’]]></title>
+            <link>https://tv.naver.com/v/25477544</link>
+            <guid>https://tv.naver.com/v/25477544</guid>
+            <pubDate>Fri, 04 Mar 2022 15:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_153/1ddIV_1646405089216meJmN_JPEG/cover_0011224225_001_20220304234401239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보] 구룡마을 불, 대모산으로 번져…5시간 만에 완진]]></title>
             <link>https://tv.naver.com/v/25477122</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 12:33:20 GMT</pubDate>
             <content:encoded><![CDATA[0:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_131/9VhFi_1646396144370X5ryd_JPEG/cover_0011224187_001_20220304211531546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고흥 남양면 육용오리농장 고병원성 AI 확인]]></title>
-            <link>https://tv.naver.com/v/25475595</link>
-            <guid>https://tv.naver.com/v/25475595</guid>
-            <pubDate>Fri, 04 Mar 2022 12:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_168/lOp5g_1646396137405b134G_JPEG/cover_0011224186_001_20220304211524081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
