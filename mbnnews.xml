@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 03:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 04:27:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 3월 4일 낮 12시]]></title>
+            <link>https://tv.naver.com/v/25465368</link>
+            <guid>https://tv.naver.com/v/25465368</guid>
+            <pubDate>Fri, 04 Mar 2022 04:27:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_113/kElPx_1646367464020lXSSx_JPEG/cover_cover_20220304131240_20_845_1294023_360_7_0_20220304131701239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오세훈 서울시장, 대선 사전투표소 현장 점검]]></title>
             <link>https://tv.naver.com/v/25462970</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Mar 2022 22:21:39 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_131/sA5ab_16463459989269zHmy_JPEG/cover_cover_20220304071313_20_605_1293988_360_7_0_20220304071901226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[194회_기상 전망과 산불 예방법]]></title>
-            <link>https://tv.naver.com/v/25460010</link>
-            <guid>https://tv.naver.com/v/25460010</guid>
-            <pubDate>Thu, 03 Mar 2022 22:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[14:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_280/zyCQs_1646342525884hkJBW_JPEG/cover_cover_20220304060344_20_849_1293987_360_7_0_20220304061601261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
