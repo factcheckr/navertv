@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 02:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/25464326</link>
+            <guid>https://tv.naver.com/v/25464326</guid>
+            <pubDate>Fri, 04 Mar 2022 03:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_5/thdwu_1646363739741TtuEW_JPEG/cover_0000957874_001_20220304121501219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엉문현답] 변으로 코로나 감염될 수 있나요?]]></title>
+            <link>https://tv.naver.com/v/25463996</link>
+            <guid>https://tv.naver.com/v/25463996</guid>
+            <pubDate>Fri, 04 Mar 2022 03:23:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_243/ZryYr_1646362648448ABt9q_JPEG/cover_0000957870_001_20220304115701229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] '유럽 최대 원전' 인근 연기 포착…"폭발 땐 체르노빌 10배"]]></title>
             <link>https://tv.naver.com/v/25463385</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 01:25:50 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_181/jlEsP_1646351238087cj73y_JPEG/cover_0000957801_001_20220304084601629.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤사이 경북 성주 · 인천 강화서 산불]]></title>
-            <link>https://tv.naver.com/v/25461003</link>
-            <guid>https://tv.naver.com/v/25461003</guid>
-            <pubDate>Fri, 04 Mar 2022 01:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_179/u9Ae7_16463511635361806c_JPEG/cover_0000957802_001_20220304084512421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 폭격 속 '피아노 연주'…세계 울린 우크라 소년]]></title>
-            <link>https://tv.naver.com/v/25460905</link>
-            <guid>https://tv.naver.com/v/25460905</guid>
-            <pubDate>Fri, 04 Mar 2022 01:25:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_13/diFQw_1646350601064dL5gW_JPEG/cover_0000957812_001_20220304083601229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

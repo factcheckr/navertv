@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 02:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 3월 4일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/25464472</link>
+            <guid>https://tv.naver.com/v/25464472</guid>
+            <pubDate>Fri, 04 Mar 2022 03:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_291/Bdgbj_1646364207785SoXp1_JPEG/cover_cover_MYH20220304010100038_20220304122302560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 악플 논란 기성용 "후배한테 욕먹어도…"]]></title>
             <link>https://tv.naver.com/v/25463588</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 01:26:11 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_118/tDlpl_1646351668579XFSdD_JPEG/cover_cover_MYH20220304006300038_20220304085402744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러 "대화 준비됐지만 군시설 계속 파괴할 것"]]></title>
-            <link>https://tv.naver.com/v/25461061</link>
-            <guid>https://tv.naver.com/v/25461061</guid>
-            <pubDate>Fri, 04 Mar 2022 01:26:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_129/v7xa4_1646351551946mDkUq_JPEG/cover_cover_MYH20220304006400038_20220304085209817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
