@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 01:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 02:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_133/3tndJ_1646309547764vcjUi_JPEG/cover_0000223215_001_20220303210701932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[여론보다]‘尹으로 단일화’ 물었더니 효과는 ‘반반’?]]></title>
-            <link>https://tv.naver.com/v/25454788</link>
-            <guid>https://tv.naver.com/v/25454788</guid>
-            <pubDate>Thu, 03 Mar 2022 12:34:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_241/Zj94N_1646309276999e6czi_JPEG/cover_0000223214_001_20220303210642173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[李 “역사와 국민 믿는다”…與, 당혹감 속 “역풍 불 것”]]></title>
             <link>https://tv.naver.com/v/25454785</link>
             <guid>https://tv.naver.com/v/25454785</guid>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 03 Mar 2022 10:23:38 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_240/Hu56T_1646302504003T84NH_JPEG/cover_0000223209_001_20220303191432373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[철창 속 눈물 ‘뚝뚝’…‘전쟁 반대’ 외친 아이들까지 구금한 러시아]]></title>
+            <link>https://tv.naver.com/v/25445113</link>
+            <guid>https://tv.naver.com/v/25445113</guid>
+            <pubDate>Fri, 04 Mar 2022 02:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_220/Fz8rX_1646285371863xVAmM_JPEG/cover_0000223190_001_20220303142814029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
