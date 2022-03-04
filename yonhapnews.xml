@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 10:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 11:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Fri, 04 Mar 2022 06:25:25 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_93/xytMx_1646374120746WpGvc_JPEG/1646374010640.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Broken Karaoke] Billlie - GingaMingaYo│What fate awaits them...? 👀 빌리 '긴가민가요'ㅣTongTongCulture]]></title>
+            <link>https://tv.naver.com/v/25466823</link>
+            <guid>https://tv.naver.com/v/25466823</guid>
+            <pubDate>Fri, 04 Mar 2022 11:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[6:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_66/NBaEs_1646371868917s61Pa_PNG/1646371377877.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[전국서 사전투표…李·尹, 배우자 동행 없이 '홀로투표']]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Mar 2022 04:27:02 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_96/Ob7Mp_1646279803879FVVqE_JPEG/1646279689623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라 헤르손 러시아군에 점령…마리우폴도 포위돼]]></title>
-            <link>https://tv.naver.com/v/25442339</link>
-            <guid>https://tv.naver.com/v/25442339</guid>
-            <pubDate>Thu, 03 Mar 2022 04:27:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_6/ISFCr_1646278551865FGYD1_JPEG/1646278519136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

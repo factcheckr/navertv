@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 10:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 11:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 4일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25474164</link>
+            <guid>https://tv.naver.com/v/25474164</guid>
+            <pubDate>Fri, 04 Mar 2022 11:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_80/JlykM_1646391097928u3XYr_JPEG/cover_2022030490063_thumb_074651_20220304195102058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규확진 26만명대…내일부터 식당·카페 '밤 11시까지' 연장]]></title>
             <link>https://tv.naver.com/v/25467711</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Mar 2022 13:24:56 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_177/0g04G_1646311637586Vln56_JPEG/cover_2022030390127_thumb_094353_20220303214618006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시 '35층룰' 없애고 용적률은 그대로…스카이라인 확 바뀐다]]></title>
-            <link>https://tv.naver.com/v/25455499</link>
-            <guid>https://tv.naver.com/v/25455499</guid>
-            <pubDate>Thu, 03 Mar 2022 13:24:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_127/nMhGT_1646311637648Y3nHb_JPEG/cover_2022030390125_thumb_094346_20220303214601949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
