@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 09:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울진 산불 확산…산불재난 국가위기경보 ‘심각’ 발령]]></title>
+            <link>https://tv.naver.com/v/25471276</link>
+            <guid>https://tv.naver.com/v/25471276</guid>
+            <pubDate>Fri, 04 Mar 2022 09:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_263/uRcAC_1646382692648I8M5b_JPEG/cover_0000223255_001_20220304173101758.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여론보다]‘尹으로 단일화’ 물었더니 효과는 ‘반반’?]]></title>
             <link>https://tv.naver.com/v/25470831</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Mar 2022 12:34:33 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220303_195/9T3VJ_1646309283991JWhLh_JPEG/cover_0000223213_001_20220303210632090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자정 넘어 윤석열-안철수 회동…2시간 반 대화에선?]]></title>
-            <link>https://tv.naver.com/v/25454779</link>
-            <guid>https://tv.naver.com/v/25454779</guid>
-            <pubDate>Thu, 03 Mar 2022 12:34:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220303_298/L4XtP_1646309299867MCCi9_JPEG/cover_0000223212_001_20220303210622356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
