@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 03:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 04:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울진·삼척 산불 확산…전국에 화재위험경보 ‘심각’ 첫 발령]]></title>
+            <link>https://tv.naver.com/v/25481909</link>
+            <guid>https://tv.naver.com/v/25481909</guid>
+            <pubDate>Sat, 05 Mar 2022 04:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_7/3KSDg_1646452282292tDBpk_JPEG/cover_0000223297_001_20220305125001871.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아는 기자]높은 사전투표율, 누구에게 유리할까]]></title>
             <link>https://tv.naver.com/v/25475170</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 12:34:28 GMT</pubDate>
             <content:encoded><![CDATA[10:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_28/R3wDI_1646393688115bY0fS_JPEG/cover_0000223260_001_20220304202901768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“아빠는 무사해”…춤추는 우크라 군인]]></title>
-            <link>https://tv.naver.com/v/25473596</link>
-            <guid>https://tv.naver.com/v/25473596</guid>
-            <pubDate>Fri, 04 Mar 2022 10:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_122/dRPuX_1646388945658e6For_JPEG/cover_0000223269_001_20220304191512899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

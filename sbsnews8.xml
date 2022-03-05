@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 03:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 04:27:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산불로 통신 장애 발생…휴대전화 · 인터넷 불통]]></title>
+            <link>https://tv.naver.com/v/25482223</link>
+            <guid>https://tv.naver.com/v/25482223</guid>
+            <pubDate>Sat, 05 Mar 2022 04:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_52/3HthU_1646454288845sN2vR_JPEG/cover_0000958104_001_20220305132401242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동해안 동시다발 산불…삼척 피해 면적 260ha 추정]]></title>
+            <link>https://tv.naver.com/v/25482176</link>
+            <guid>https://tv.naver.com/v/25482176</guid>
+            <pubDate>Sat, 05 Mar 2022 04:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_49/l8peU_1646454146343Xe8c9_JPEG/cover_0000958103_001_20220305132101210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[울진 주불 진화 총력…산불 대응 3단계 발령]]></title>
+            <link>https://tv.naver.com/v/25482081</link>
+            <guid>https://tv.naver.com/v/25482081</guid>
+            <pubDate>Sat, 05 Mar 2022 04:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_272/v2mGk_1646453588930kuSKb_JPEG/cover_0000958102_001_20220305131202110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10년 내 최대 규모의 산불…현재 상황 · 원인은?]]></title>
             <link>https://tv.naver.com/v/25481195</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 20:21:56 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_294/73x27_1646424757312sqEKg_JPEG/cover_0000958011_001_20220305051201257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼척으로 번진 불…LNG 기지 위협]]></title>
-            <link>https://tv.naver.com/v/25479749</link>
-            <guid>https://tv.naver.com/v/25479749</guid>
-            <pubDate>Fri, 04 Mar 2022 20:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_38/joZ8b_1646424487310Fmpzz_JPEG/cover_0000958006_001_20220305050711074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 해 10배 커진 시장…NFT의 빛과 그림자]]></title>
-            <link>https://tv.naver.com/v/25479723</link>
-            <guid>https://tv.naver.com/v/25479723</guid>
-            <pubDate>Fri, 04 Mar 2022 20:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_233/OCnXp_1646424073785S6q1h_JPEG/cover_0000958012_001_20220305045901201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기름값 급등…소비자물가 상승률 4% '턱밑']]></title>
-            <link>https://tv.naver.com/v/25479707</link>
-            <guid>https://tv.naver.com/v/25479707</guid>
-            <pubDate>Fri, 04 Mar 2022 20:21:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_254/bIwdR_1646423670849QdnWR_JPEG/cover_0000958004_001_20220305045320185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
