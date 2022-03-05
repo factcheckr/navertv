@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 04:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[world now_영상] 60m 빙벽이 와르르‥지구 온난화 영향]]></title>
+            <link>https://tv.naver.com/v/25483020</link>
+            <guid>https://tv.naver.com/v/25483020</guid>
+            <pubDate>Sat, 05 Mar 2022 05:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_51/Dw1dk_1646457142278GMhGM_JPEG/cover_cover_s2022030501_20220305141202674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 강풍·건조한 날씨에 곳곳 산불 피해]]></title>
             <link>https://tv.naver.com/v/25481935</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 05 Mar 2022 01:18:02 GMT</pubDate>
             <content:encoded><![CDATA[6:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_98/06Qb4_1646439201969kt3GM_JPEG/cover_cover_unity_20220305_075439_1_6_Large_20220305091143789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["인민을 위해 요리하라“ 평양의 요리사]]></title>
-            <link>https://tv.naver.com/v/25480348</link>
-            <guid>https://tv.naver.com/v/25480348</guid>
-            <pubDate>Sat, 05 Mar 2022 01:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[11:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_297/lKqO7_1646439288889HcCKL_JPEG/cover_cover_unity_20220305_075136_1_5_Large_20220305091133711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
