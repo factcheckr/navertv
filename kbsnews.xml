@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 15:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 16:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 동해 산불 이 시각 확산 상황은?]]></title>
+            <link>https://tv.naver.com/v/25491558</link>
+            <guid>https://tv.naver.com/v/25491558</guid>
+            <pubDate>Sat, 05 Mar 2022 16:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220306_239/HSZSw_1646496534475N7ff8_JPEG/cover_0011224570_001_20220306010801250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 울진 산불, 이 시각 현장]]></title>
+            <link>https://tv.naver.com/v/25491539</link>
+            <guid>https://tv.naver.com/v/25491539</guid>
+            <pubDate>Sat, 05 Mar 2022 16:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220306_56/5DtlH_1646496416966gsc8q_JPEG/cover_0011224571_001_20220306010609585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보] 영월 산불 이틀째…민가 피해 방지 총력]]></title>
             <link>https://tv.naver.com/v/25490751</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 05 Mar 2022 14:18:39 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_5/khMOm_1646486599753IQ6hq_JPEG/cover_0011224475_001_20220305222248393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 최고 사전투표율…누가 유리할까?]]></title>
-            <link>https://tv.naver.com/v/25489983</link>
-            <guid>https://tv.naver.com/v/25489983</guid>
-            <pubDate>Sat, 05 Mar 2022 14:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_130/qWCnM_1646486609026Hgchr_JPEG/cover_0011224474_001_20220305222237756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“금강송을 지켜라”…산림·소방대원 투혼]]></title>
-            <link>https://tv.naver.com/v/25489978</link>
-            <guid>https://tv.naver.com/v/25489978</guid>
-            <pubDate>Sat, 05 Mar 2022 14:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_296/buBwW_1646486593295FyTY0_JPEG/cover_0011224473_001_20220305222226577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
