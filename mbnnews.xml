@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 01:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 02:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘부터 식당·카페 등 밤 11시까지 영업…"선거 앞둔 정치방역" 논란]]></title>
+            <link>https://tv.naver.com/v/25480762</link>
+            <guid>https://tv.naver.com/v/25480762</guid>
+            <pubDate>Sat, 05 Mar 2022 02:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_39/waVyl_1646443713331xm9IR_JPEG/cover_cover_20220305102134_20_552_1294072_360_7_0_20220305102701215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울진 산불 민가 태우고 삼척으로 번져…원전·LNG기지도 위협]]></title>
             <link>https://tv.naver.com/v/25480536</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 11:18:10 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_127/aAUUw_1646391028275cgW5T_JPEG/cover_cover_20220304194318_20_552_1294038_360_7_0_20220304194901230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 2022] 이재명·윤석열 나 홀로 투표…문 대통령 메시지 신경전]]></title>
-            <link>https://tv.naver.com/v/25474074</link>
-            <guid>https://tv.naver.com/v/25474074</guid>
-            <pubDate>Fri, 04 Mar 2022 11:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_255/40smt_1646390768015oB9vg_JPEG/cover_cover_20220304193959_20_552_1294037_360_7_0_20220304194501212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

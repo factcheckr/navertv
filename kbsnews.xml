@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 01:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 02:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말오전 날씨] 주말 대형 화재 비상…전국 미세먼지 주의]]></title>
+            <link>https://tv.naver.com/v/25480906</link>
+            <guid>https://tv.naver.com/v/25480906</guid>
+            <pubDate>Sat, 05 Mar 2022 02:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_257/h7eRm_1646444744800sXL3I_JPEG/cover_0011224357_001_20220305104501213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 신규 확진 25만 4,327명…재택 치료 1백만 명 넘어]]></title>
+            <link>https://tv.naver.com/v/25480713</link>
+            <guid>https://tv.naver.com/v/25480713</guid>
+            <pubDate>Sat, 05 Mar 2022 02:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_98/uxjTZ_1646443217336VPlaF_JPEG/cover_0011224354_001_20220305102001256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[합참 “북한, 동해상으로 미상 발사체 발사”…엿새 만에 또 무력시위]]></title>
             <link>https://tv.naver.com/v/25480690</link>
@@ -22,6 +38,14 @@
             <pubDate>Sat, 05 Mar 2022 01:17:52 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_46/DOWEa_16464430093652ChOn_JPEG/cover_0011224352_001_20220305101609877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 곳곳에서 산불 이어져…이 시각 제보영상]]></title>
+            <link>https://tv.naver.com/v/25480682</link>
+            <guid>https://tv.naver.com/v/25480682</guid>
+            <pubDate>Sat, 05 Mar 2022 02:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[7:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_89/TYiER_16464431058917C06C_JPEG/cover_0011224351_001_20220305101601241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특보] 앞으로 산불 확산 상황은?]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 22:16:31 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_95/MuaZ1_1646431259118HJlw2_JPEG/cover_0011224301_001_20220305070010830.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터 영업시간 1시간 연장…완화 배경 논란]]></title>
-            <link>https://tv.naver.com/v/25480009</link>
-            <guid>https://tv.naver.com/v/25480009</guid>
-            <pubDate>Fri, 04 Mar 2022 22:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_276/LKuvS_1646431247289E8WRr_JPEG/cover_0011224300_001_20220305070001307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말 날씨] 삼척까지 산불 확산…주말 대형 화재 비상]]></title>
-            <link>https://tv.naver.com/v/25479991</link>
-            <guid>https://tv.naver.com/v/25479991</guid>
-            <pubDate>Fri, 04 Mar 2022 22:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_239/OJHin_1646430518700J4anv_JPEG/cover_0011224299_001_20220305064810686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야 모두 사전 투표 독려…투표 열기 놓고 엇갈린 셈법]]></title>
-            <link>https://tv.naver.com/v/25479990</link>
-            <guid>https://tv.naver.com/v/25479990</guid>
-            <pubDate>Fri, 04 Mar 2022 22:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_96/T5y8x_16464305348935UVGS_JPEG/cover_0011224298_001_20220305064801318.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
