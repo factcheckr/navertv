@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 07:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 08:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] '이재명 단일화' 김동연 "윤석열, 나한테 함께 하자고 입당 권해"]]></title>
+            <link>https://tv.naver.com/v/25497461</link>
+            <guid>https://tv.naver.com/v/25497461</guid>
+            <pubDate>Sun, 06 Mar 2022 08:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220306_299/fSVGp_1646554191433KVyTA_JPEG/cover_cover_20220306170436_20_868_1294127_360_7_0_20220306170901232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동해시로 번진 강릉 산불…야간 진화 작업에도 진화 어려움]]></title>
             <link>https://tv.naver.com/v/25496728</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 05 Mar 2022 12:32:11 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220305_213/y4YZp_1646479829133u7oxQ_JPEG/cover_cover_20220305202306_20_552_1294095_360_7_0_20220305202901256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 2022] 이재명, '안방' 경기도서 "절박감이 승리의 무기"…성남서도 유세]]></title>
-            <link>https://tv.naver.com/v/25488625</link>
-            <guid>https://tv.naver.com/v/25488625</guid>
-            <pubDate>Sat, 05 Mar 2022 12:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220305_106/N9Llh_1646479606042b1iGP_JPEG/cover_cover_20220305201910_20_552_1294094_360_7_0_20220305202501298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
