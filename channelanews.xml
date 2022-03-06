@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 03:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 04:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경북 울진 산불 사흘째 이어져…진화율 30%]]></title>
+            <link>https://tv.naver.com/v/25494691</link>
+            <guid>https://tv.naver.com/v/25494691</guid>
+            <pubDate>Sun, 06 Mar 2022 04:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220306_208/Uytdm_1646538457354FLk6k_JPEG/cover_0000223333_001_20220306124601834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국 10여 곳 동시 산불 피해…울진 산불 “도로변서 최초 발화”]]></title>
             <link>https://tv.naver.com/v/25489433</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 12:34:28 GMT</pubDate>
             <content:encoded><![CDATA[4:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_186/ekybJ_1646394805025J25lv_JPEG/cover_0000223273_001_20220304205101771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마크맨]李, 횡단하며 “안심 안보”…尹, 부산서 “함 해보입시다”]]></title>
-            <link>https://tv.naver.com/v/25475075</link>
-            <guid>https://tv.naver.com/v/25475075</guid>
-            <pubDate>Fri, 04 Mar 2022 12:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_123/d0gMx_1646394576197gx3fe_JPEG/cover_0000223274_001_20220304204701741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
