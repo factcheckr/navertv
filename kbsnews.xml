@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 19:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 20:22:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] ‘산불상황도’로 본 이 시각 진화 상황]]></title>
+            <link>https://tv.naver.com/v/25504586</link>
+            <guid>https://tv.naver.com/v/25504586</guid>
+            <pubDate>Sun, 06 Mar 2022 20:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_235/Ow2rB_1646598027270Hnj9T_JPEG/cover_0011224873_001_20220307051909009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 강릉·동해 산불 계속…진화율 50%]]></title>
+            <link>https://tv.naver.com/v/25504583</link>
+            <guid>https://tv.naver.com/v/25504583</guid>
+            <pubDate>Sun, 06 Mar 2022 20:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_239/C22v2_1646597989352eFdnh_JPEG/cover_0011224872_001_20220307051901222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 울진·삼척 산불…“오늘 주불 진화 목표”]]></title>
+            <link>https://tv.naver.com/v/25504570</link>
+            <guid>https://tv.naver.com/v/25504570</guid>
+            <pubDate>Sun, 06 Mar 2022 20:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_183/i2jKz_1646597577611Px20v_JPEG/cover_0011224871_001_20220307051201234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보 날씨] 건조특보 확대…산불 조심하세요!]]></title>
             <link>https://tv.naver.com/v/25502950</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 06 Mar 2022 14:18:04 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220306_136/Ml8Lz_1646573374257Ufsq2_JPEG/cover_0011224762_001_20220306222829548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 산불 발화지점 가보니…산림당국 공식 조사 돌입]]></title>
-            <link>https://tv.naver.com/v/25501109</link>
-            <guid>https://tv.naver.com/v/25501109</guid>
-            <pubDate>Sun, 06 Mar 2022 14:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220306_180/iSkqL_1646573362393VJsal_JPEG/cover_0011224761_001_20220306222817952.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 文, 울진·삼척 특별재난지역 선포…복구비 지원·공공요금 감면]]></title>
-            <link>https://tv.naver.com/v/25501108</link>
-            <guid>https://tv.naver.com/v/25501108</guid>
-            <pubDate>Sun, 06 Mar 2022 14:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220306_132/veLD5_1646573355906e0yXx_JPEG/cover_0011224760_001_20220306222806733.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 대피 주민들 생계 막막…온정의 손길 이어져]]></title>
-            <link>https://tv.naver.com/v/25501105</link>
-            <guid>https://tv.naver.com/v/25501105</guid>
-            <pubDate>Sun, 06 Mar 2022 14:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220306_85/Fzxp9_1646573339619Rv9mQ_JPEG/cover_0011224759_001_20220306222755583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
