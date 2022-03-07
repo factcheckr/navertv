@@ -4,7 +4,7 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 07 Mar 2022 02:41:38 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_179/NKiKS_1646620872194ydCdQ_JPEG/cover_cover_MYH20220307008900641_20220307114003018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 신규확진 21만716명…위중증 환자 955명]]></title>
+            <link>https://tv.naver.com/v/25509040</link>
+            <guid>https://tv.naver.com/v/25509040</guid>
+            <pubDate>Mon, 07 Mar 2022 03:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[13:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_132/Oceun_1646621093262j1fLB_JPEG/cover_cover_MYH20220307009000038_20220307113830357.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[뉴스포커스] 사전투표 관리 부실 논란…후보들 수도권 총력전]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Mar 2022 01:20:46 GMT</pubDate>
             <content:encoded><![CDATA[14:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_248/0EK7D_1646609623729xVrVq_JPEG/cover_cover_MYH20220304017300038_20220307082509722.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빙속 정재원 코로나 확진…월드컵 파이널 출전 무산]]></title>
-            <link>https://tv.naver.com/v/25506026</link>
-            <guid>https://tv.naver.com/v/25506026</guid>
-            <pubDate>Mon, 07 Mar 2022 01:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_86/qEmO0_1646609123569UXEA3_JPEG/cover_cover_MYH20220307005200038_20220307082502537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
