@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 04:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 05:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[전북] 대선 이틀 앞…막판 지지 호소 ‘치열’]]></title>
+            <link>https://tv.naver.com/v/25512663</link>
+            <guid>https://tv.naver.com/v/25512663</guid>
+            <pubDate>Mon, 07 Mar 2022 05:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_122/xgCk4_1646630274414yP6Cc_JPEG/cover_0011224985_001_20220307141701201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 강릉·동해 산불 계속…90% 진화]]></title>
+            <link>https://tv.naver.com/v/25512337</link>
+            <guid>https://tv.naver.com/v/25512337</guid>
+            <pubDate>Mon, 07 Mar 2022 05:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_101/aAqjY_1646629488686M9JDX_JPEG/cover_0011225175_001_20220307140401245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송영길 민주당 대표, 서울 신촌 유세 중 피습…생명엔 지장 없어]]></title>
             <link>https://tv.naver.com/v/25511330</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 07 Mar 2022 02:41:02 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_38/5zQ6C_16466187436847fNMP_JPEG/cover_0011225113_001_20220307110501215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지구촌 더뉴스] 미 고속도로 한복판서 폭파 작업 벌어진 이유?]]></title>
-            <link>https://tv.naver.com/v/25508313</link>
-            <guid>https://tv.naver.com/v/25508313</guid>
-            <pubDate>Mon, 07 Mar 2022 02:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_155/u1q8C_1646618685892GHIvK_JPEG/cover_0011225112_001_20220307110420003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지구촌 더뉴스] “러시아산은 안 됩니다”…고양이마저 퇴출]]></title>
-            <link>https://tv.naver.com/v/25508307</link>
-            <guid>https://tv.naver.com/v/25508307</guid>
-            <pubDate>Mon, 07 Mar 2022 02:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_24/2yiNr_1646618689140VYgop_JPEG/cover_0011225111_001_20220307110412243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
