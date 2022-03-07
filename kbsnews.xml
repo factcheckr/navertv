@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 20:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 21:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 강릉·동해 산불 진화율 95%…주불 진화 기대]]></title>
+            <link>https://tv.naver.com/v/25529402</link>
+            <guid>https://tv.naver.com/v/25529402</guid>
+            <pubDate>Mon, 07 Mar 2022 21:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_242/1znjq_1646687816201nBCOL_JPEG/cover_0011225611_001_20220308061610917.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 산불 닷새째, 주불 진화 더뎌…헬기 80여 대 투입·진화 총력]]></title>
+            <link>https://tv.naver.com/v/25529401</link>
+            <guid>https://tv.naver.com/v/25529401</guid>
+            <pubDate>Mon, 07 Mar 2022 21:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_44/Os1ax_1646687800908GuqaM_JPEG/cover_0011225610_001_20220308061601298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국 양회(兩會)개막…우크라이나 전쟁, 중국의 속내는?]]></title>
             <link>https://tv.naver.com/v/25528337</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 07 Mar 2022 14:18:52 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_258/IU1qZ_1646661929766yPhaH_JPEG/cover_0011225560_001_20220307230510077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울주군 산불 진화…건조 특보 속 화재 유의]]></title>
-            <link>https://tv.naver.com/v/25525952</link>
-            <guid>https://tv.naver.com/v/25525952</guid>
-            <pubDate>Mon, 07 Mar 2022 14:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_154/JMtXy_1646661968077mwX1x_JPEG/cover_0011225559_001_20220307230501258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 오늘 낮 최고 10.3도…내일 0~15도]]></title>
-            <link>https://tv.naver.com/v/25525436</link>
-            <guid>https://tv.naver.com/v/25525436</guid>
-            <pubDate>Mon, 07 Mar 2022 14:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_38/R89Kn_1646660544064XzVuC_JPEG/cover_0011225557_001_20220307224201232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
