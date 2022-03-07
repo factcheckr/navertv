@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨]건조특보 확대·강화]]></title>
+            <link>https://tv.naver.com/v/25516404</link>
+            <guid>https://tv.naver.com/v/25516404</guid>
+            <pubDate>Mon, 07 Mar 2022 07:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_210/VbRHH_1646637594985u8wUh_JPEG/cover_0000223386_001_20220307161901754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기표한 용지 나눠주고, 쓰레기봉투에 보관 ‘대혼란’]]></title>
             <link>https://tv.naver.com/v/25513481</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 06 Mar 2022 08:24:21 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220306_216/599u8_1646551643822FBwbL_JPEG/cover_0000223340_001_20220306162601834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[앞으로 뉴스]최대 100만 원…긴급 고용안정 지원금]]></title>
-            <link>https://tv.naver.com/v/25495318</link>
-            <guid>https://tv.naver.com/v/25495318</guid>
-            <pubDate>Sun, 06 Mar 2022 05:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220306_167/HpUo7_1646542510745cUvQk_JPEG/cover_0000223341_001_20220306135401833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
