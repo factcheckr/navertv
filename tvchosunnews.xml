@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:27:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울진 산불 진화 나흘째…동해 산불은 진화율 90% '주불 진화 임박']]></title>
+            <link>https://tv.naver.com/v/25514374</link>
+            <guid>https://tv.naver.com/v/25514374</guid>
+            <pubDate>Mon, 07 Mar 2022 06:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_120/cG3O3_1646633829847SPeSG_JPEG/cover_2022030790074_thumb_031415_20220307151601899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울진 산불 오늘 고비…동해산불 진화율 90% '주불 진화 임박']]></title>
             <link>https://tv.naver.com/v/25511201</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 06 Mar 2022 11:17:08 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220306_31/004kO_1646563308088G9XOC_JPEG/cover_2022030690091_thumb_073950_20220306194113985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 메마른 대기, 산불 주의…당분간 비소식 없어요]]></title>
-            <link>https://tv.naver.com/v/25499124</link>
-            <guid>https://tv.naver.com/v/25499124</guid>
-            <pubDate>Sun, 06 Mar 2022 11:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220306_261/4AwS4_1646563301859sLJIt_JPEG/cover_2022030690089_thumb_073921_20220306194108095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
