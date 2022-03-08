@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 01:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 02:38:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 07 Mar 2022 08:25:50 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220307_160/u1Jc6_1646640219726LpGYK_JPEG/1646639226506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 또 탄도미사일 쏘고 이번엔 '정찰위성 시험" 주장 | 티븨가이드北]]></title>
+            <link>https://tv.naver.com/v/25516931</link>
+            <guid>https://tv.naver.com/v/25516931</guid>
+            <pubDate>Tue, 08 Mar 2022 02:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220307_299/ZrVMJ_1646638529583Dumgu_PNG/1646638486811.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[의용군 자원 '가짜 사나이' 이근, 우크라 입국 아직 안한듯]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Mar 2022 09:20:31 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220304_50/r251A_1646383795897nmdq3_JPEG/1646383017435.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라 최대 원전 포격으로 화재…"러시아군, 원전단지 점령"]]></title>
-            <link>https://tv.naver.com/v/25471104</link>
-            <guid>https://tv.naver.com/v/25471104</guid>
-            <pubDate>Fri, 04 Mar 2022 08:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220304_280/gtbGb_16463821785898J6DR_JPEG/1646382122140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

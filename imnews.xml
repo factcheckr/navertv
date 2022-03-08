@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 01:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 02:38:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] ‘코로나19’ 중앙재난안전대책본부 브리핑]]></title>
+            <link>https://tv.naver.com/v/25532570</link>
+            <guid>https://tv.naver.com/v/25532570</guid>
+            <pubDate>Tue, 08 Mar 2022 02:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[7:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_114/EQq0k_1646705501280Ed8Iz_JPEG/f6d83951-9e84-11ec-bcec-505dac8c35ff_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['천년고찰' 불영사 턱밑까지‥방염포 입은 석탑]]></title>
             <link>https://tv.naver.com/v/25531210</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Mar 2022 23:20:05 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_32/CbHjZ_1646693864674dYq3U_JPEG/cover_cover_today_20220308_065902_2_17_Large_20220308075716000.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈톡] 전쟁 공포 속 피난민 달랜 소녀의 '렛 잇 고']]></title>
-            <link>https://tv.naver.com/v/25529836</link>
-            <guid>https://tv.naver.com/v/25529836</guid>
-            <pubDate>Mon, 07 Mar 2022 23:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_66/ZAFuR_1646693844073hc8SE_JPEG/cover_cover_today_20220308_065724_2_16_Large_20220308075707741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
