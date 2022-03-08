@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 21:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 22:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 9일 '뉴스 퍼레이드' 오프닝]]></title>
+            <link>https://tv.naver.com/v/25549672</link>
+            <guid>https://tv.naver.com/v/25549672</guid>
+            <pubDate>Tue, 08 Mar 2022 22:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_249/ACeSA_1646778087134WPi3x_JPEG/cover_2022030990002_thumb_071930_20220309072101804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화려한 볼거리에 따뜻한 감성…오후 6시부터 개표방송]]></title>
             <link>https://tv.naver.com/v/25546947</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 02:38:38 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_280/xXvRD_16467058209025mV5C_JPEG/cover_2022030890056_thumb_111140_20220308111602983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확진자도 투표함에 '직접 투표'…선관위장 사과없이 '뒷북 대책']]></title>
-            <link>https://tv.naver.com/v/25531172</link>
-            <guid>https://tv.naver.com/v/25531172</guid>
-            <pubDate>Tue, 08 Mar 2022 01:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_247/d7oXv_1646701620274RlViv_JPEG/cover_2022030790115_thumb_100309_20220308100602691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
