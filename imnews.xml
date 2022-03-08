@@ -4,16 +4,24 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[대선 D-1‥여야 후보 마지막 '총력전']]></title>
+            <link>https://tv.naver.com/v/25537054</link>
+            <guid>https://tv.naver.com/v/25537054</guid>
+            <pubDate>Tue, 08 Mar 2022 06:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_198/BqKs2_16467190899863RHH1_JPEG/cover_cover_14news_20220308_142652_1_4_Large_20220308145710096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[산불 닷새째, 진화 총력‥헬기 105대 투입]]></title>
-            <link>https://tv.naver.com/v/25535842</link>
-            <guid>https://tv.naver.com/v/25535842</guid>
-            <pubDate>Tue, 08 Mar 2022 05:18:36 GMT</pubDate>
+            <link>https://tv.naver.com/v/25537048</link>
+            <guid>https://tv.naver.com/v/25537048</guid>
+            <pubDate>Tue, 08 Mar 2022 06:25:08 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_18/g00hR_1646715695987oOPbF_JPEG/cover_cover_14news_20220308_135756_1_2_Large_20220308140103008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_255/QCAmu_1646719057701dlvrK_JPEG/cover_cover_14news_20220308_135756_1_2_Large_20220308145702736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[World Now_영상] '친러시아 지역'인 줄 알았는데‥'맨몸'으로 저항]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 01:16:48 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_197/H0Wew_1646700459357REMlv_JPEG/cover_cover_0930_20220308_094203_1_7_Large_20220308094702662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주서 서울까지 마지막 유세‥"갈아치워야"]]></title>
-            <link>https://tv.naver.com/v/25530840</link>
-            <guid>https://tv.naver.com/v/25530840</guid>
-            <pubDate>Tue, 08 Mar 2022 01:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_25/nH5h9_1646700292044eeMaW_JPEG/cover_cover_0930_20220308_094047_1_6_Large_20220308094410078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

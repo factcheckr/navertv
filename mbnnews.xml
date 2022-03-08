@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 05:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 06:26:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBN 주최 윤석열 대선 후보 '청년 공약' 메타버스 대담]]></title>
+            <link>https://tv.naver.com/v/25537025</link>
+            <guid>https://tv.naver.com/v/25537025</guid>
+            <pubDate>Tue, 08 Mar 2022 06:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[10:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_155/3x90E_1646719213702wWzOD_JPEG/cover_cover_20220308144823_20_731_1294273_360_7_0_20220308145601289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엠픽] 송영길 머리 내려치는 70대 유튜버..현장서 체포]]></title>
             <link>https://tv.naver.com/v/25535296</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Mar 2022 23:21:11 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_12/Ulm5m_1646693272007w3qlJ_JPEG/cover_cover_20220308074114_20_605_1294240_360_7_0_20220308074701214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 2022] '김만배 녹취록' 파문…민주 "특검해야" 국민의힘 "정치공작"]]></title>
-            <link>https://tv.naver.com/v/25529721</link>
-            <guid>https://tv.naver.com/v/25529721</guid>
-            <pubDate>Mon, 07 Mar 2022 23:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_78/poaqD_1646693045462Euylh_JPEG/cover_cover_20220308073646_20_605_1294239_360_7_0_20220308074301243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
