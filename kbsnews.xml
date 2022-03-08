@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 13:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 14:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘정확하고 재미있게’ 미리보는 KBS 개표방송]]></title>
+            <link>https://tv.naver.com/v/25546540</link>
+            <guid>https://tv.naver.com/v/25546540</guid>
+            <pubDate>Tue, 08 Mar 2022 14:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_208/HXQJU_1646746162282zqNBQ_JPEG/cover_0011226201_001_20220308222801232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[풀영상] 제20대 대선 방송연설 - 이재명 후보]]></title>
+            <link>https://tv.naver.com/v/25546511</link>
+            <guid>https://tv.naver.com/v/25546511</guid>
+            <pubDate>Tue, 08 Mar 2022 14:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[19:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_136/ImstU_1646746253276bYGLv_JPEG/cover_0011226302_001_20220308222601276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[D-1 안갯속 초박빙 승부…두 후보의 ‘말말말’]]></title>
             <link>https://tv.naver.com/v/25546444</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 13:25:04 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_259/cNyER_1646745400655HIAtc_JPEG/cover_0011226143_001_20220308221547740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고령의 강제동원 피해자들 ‘시간과의 싸움’]]></title>
-            <link>https://tv.naver.com/v/25546311</link>
-            <guid>https://tv.naver.com/v/25546311</guid>
-            <pubDate>Tue, 08 Mar 2022 13:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_291/bZbbp_1646745398397ln668_JPEG/cover_0011226277_001_20220308221539641.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꿀벌 실종 전남 43%…벌통 10만 개 피해]]></title>
-            <link>https://tv.naver.com/v/25546308</link>
-            <guid>https://tv.naver.com/v/25546308</guid>
-            <pubDate>Tue, 08 Mar 2022 13:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_2/BRuIq_1646745396781MfXP6_JPEG/cover_0011226276_001_20220308221530967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

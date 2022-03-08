@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 13:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 14:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9일 저녁 6시 JTBC 개표 방송 '비전 어게인']]></title>
+            <link>https://tv.naver.com/v/25547060</link>
+            <guid>https://tv.naver.com/v/25547060</guid>
+            <pubDate>Tue, 08 Mar 2022 14:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_232/wPRRD_1646748208706jFV6K_JPEG/cover_0000291831_001_20220308230301714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 대체로 맑고 봄 날씨…'건조특보' 9일도 이어져]]></title>
             <link>https://tv.naver.com/v/25546488</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 11:18:05 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_25/X0Vsj_1646736949782dMclu_JPEG/cover_0000291840_001_20220308195501725.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일 저녁 6시 JTBC 개표 방송 '비전 어게인']]></title>
-            <link>https://tv.naver.com/v/25543679</link>
-            <guid>https://tv.naver.com/v/25543679</guid>
-            <pubDate>Tue, 08 Mar 2022 11:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_220/5HqxT_16467365156048O3gf_JPEG/cover_0000291831_001_20220308194801776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
