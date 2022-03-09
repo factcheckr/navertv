@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 06:26:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 07:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[대선 2022] 이 시각 대전 투표소…꾸준한 발길 이어져]]></title>
+            <link>https://tv.naver.com/v/25554461</link>
+            <guid>https://tv.naver.com/v/25554461</guid>
+            <pubDate>Wed, 09 Mar 2022 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_6/oYzBA_1646809086217LOuK3_JPEG/cover_cover_20220309155235_20_673_1294362_360_7_0_20220309155701210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대선 2022] 이 시각 서울투표소…800만 서울 표심은?]]></title>
+            <link>https://tv.naver.com/v/25554427</link>
+            <guid>https://tv.naver.com/v/25554427</guid>
+            <pubDate>Wed, 09 Mar 2022 07:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_51/kgR3v_1646808960170wzkng_JPEG/cover_cover_20220309154810_20_673_1294361_360_7_0_20220309155501213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[대선 2022] 이 시각 광주 투표소…높은 '사전 투표율' 호남 표심 어디로?]]></title>
             <link>https://tv.naver.com/v/25553833</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 01:22:19 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_134/m4UNg_1646783549571E66k3_JPEG/cover_cover_20220309084145_20_605_1294332_360_7_0_20220309085101203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 서울투표소…유권자 발길 이어져]]></title>
-            <link>https://tv.naver.com/v/25550253</link>
-            <guid>https://tv.naver.com/v/25550253</guid>
-            <pubDate>Wed, 09 Mar 2022 01:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_8/hnPZ3_1646783383563Wc7PH_JPEG/cover_cover_20220309071825_20_605_1294318_360_7_0_20220309084901222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 2022] 이 시각 대전 투표소…순조로운 투표]]></title>
-            <link>https://tv.naver.com/v/25550234</link>
-            <guid>https://tv.naver.com/v/25550234</guid>
-            <pubDate>Wed, 09 Mar 2022 01:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_298/rTWE7_1646783276233GoOqp_JPEG/cover_cover_20220309083659_20_605_1294331_360_7_0_20220309084701239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
