@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 01:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 02:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크랩] “특정 후보 연상시킨다?” 투표 도장까지 바꾼 사연]]></title>
+            <link>https://tv.naver.com/v/25550843</link>
+            <guid>https://tv.naver.com/v/25550843</guid>
+            <pubDate>Wed, 09 Mar 2022 02:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_117/hyaDM_16467888889435CfOF_JPEG/cover_0011226518_001_20220309102001245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규 확진 34만 2,446명…누적 500만 명 넘어]]></title>
             <link>https://tv.naver.com/v/25550703</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 01:21:02 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_4/bwgUU_1646783273875H4VPN_JPEG/cover_0011226482_001_20220309084734163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대전서 70대 노동자 추락사…중대재해법 조사 중]]></title>
-            <link>https://tv.naver.com/v/25550240</link>
-            <guid>https://tv.naver.com/v/25550240</guid>
-            <pubDate>Wed, 09 Mar 2022 01:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_260/kH2LW_1646783262613hfm7O_JPEG/cover_0011226481_001_20220309084726559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
