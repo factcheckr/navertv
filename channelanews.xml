@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 08:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 09:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 09 Mar 2022 08:25:12 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_279/DfqKq_16468142681827yoEa_JPEG/cover_0000223531_001_20220309172323338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS에 투표 인증샷 ‘가득’…촬영 시 주의 사항은?]]></title>
+            <link>https://tv.naver.com/v/25555668</link>
+            <guid>https://tv.naver.com/v/25555668</guid>
+            <pubDate>Wed, 09 Mar 2022 09:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[6:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_58/jsfOC_1646814383478v94NE_JPEG/cover_0000223526_001_20220309172301736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민의힘, 막바지 투표 독려…尹 “투표로 정권교체”]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 01:22:10 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_268/JQk34_1646784844482ThpFl_JPEG/cover_0000223482_001_20220309091301767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사저에 이사 트럭 줄줄이…박근혜 입주는 언제?]]></title>
-            <link>https://tv.naver.com/v/25544757</link>
-            <guid>https://tv.naver.com/v/25544757</guid>
-            <pubDate>Tue, 08 Mar 2022 12:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_107/JwMK5_1646740361684allpT_JPEG/cover_0000223452_001_20220308205104290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
