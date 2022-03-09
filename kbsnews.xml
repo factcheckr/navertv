@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 02:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 03:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 시각 부산 투표소]]></title>
+            <link>https://tv.naver.com/v/25551925</link>
+            <guid>https://tv.naver.com/v/25551925</guid>
+            <pubDate>Wed, 09 Mar 2022 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_116/cisPe_1646795989813PMNxg_JPEG/cover_0011226540_001_20220309121911240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시각 서울 종로 투표소 현장]]></title>
+            <link>https://tv.naver.com/v/25551922</link>
+            <guid>https://tv.naver.com/v/25551922</guid>
+            <pubDate>Wed, 09 Mar 2022 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_163/xkULS_1646795988815j33Cp_JPEG/cover_0011226539_001_20220309121901242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크랩] “특정 후보 연상시킨다?” 투표 도장까지 바꾼 사연]]></title>
             <link>https://tv.naver.com/v/25550843</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 01:21:02 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_244/A1aX9_1646783290632pNcXn_JPEG/cover_0011226484_001_20220309084749717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백마강 국가정원 조성사업 정부투자심사 통과]]></title>
-            <link>https://tv.naver.com/v/25550242</link>
-            <guid>https://tv.naver.com/v/25550242</guid>
-            <pubDate>Wed, 09 Mar 2022 01:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_34/Juhgb_1646783282951DdC0E_JPEG/cover_0011226483_001_20220309084741752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정의당, 현대제철 특별감독·대표이사 처벌 요구]]></title>
-            <link>https://tv.naver.com/v/25550241</link>
-            <guid>https://tv.naver.com/v/25550241</guid>
-            <pubDate>Wed, 09 Mar 2022 01:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_4/bwgUU_1646783273875H4VPN_JPEG/cover_0011226482_001_20220309084734163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
