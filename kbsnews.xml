@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 18:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 19:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 이재명 “윤석열 후보 축하…분열과 갈등 넘어 통합의 시대 열어달라”]]></title>
+            <link>https://tv.naver.com/v/25562058</link>
+            <guid>https://tv.naver.com/v/25562058</guid>
+            <pubDate>Wed, 09 Mar 2022 19:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_196/jcL6P_1646853297088esS0r_JPEG/cover_0011226717_001_20220310041401244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 윤석열 후보 ‘당선 확실’…국민의힘 개표상황실 ‘환호’]]></title>
+            <link>https://tv.naver.com/v/25562048</link>
+            <guid>https://tv.naver.com/v/25562048</guid>
+            <pubDate>Wed, 09 Mar 2022 19:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_30/wILQR_1646853162521q2cXm_JPEG/cover_0011226719_001_20220310041209766.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘당선 확실’ 윤석열 후보, 자택에서 여의도로 출발 - 개표방송]]></title>
+            <link>https://tv.naver.com/v/25562040</link>
+            <guid>https://tv.naver.com/v/25562040</guid>
+            <pubDate>Wed, 09 Mar 2022 19:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_49/pDzHc_1646852991308purIF_PNG/cover_0011226718_001_20220310040910190.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이재명 후보, 자택에서 출발…여의도로 이동 - 개표방송]]></title>
             <link>https://tv.naver.com/v/25561825</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 12:34:01 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_128/U1cRE_1646829233328iihcI_JPEG/cover_0011226658_001_20220309213301206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 중앙선관위]]></title>
-            <link>https://tv.naver.com/v/25558933</link>
-            <guid>https://tv.naver.com/v/25558933</guid>
-            <pubDate>Wed, 09 Mar 2022 12:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_12/BQLUU_1646829168056pWPXh_JPEG/cover_0011226657_001_20220309213201231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 윤석열 후보 자택 앞]]></title>
-            <link>https://tv.naver.com/v/25558909</link>
-            <guid>https://tv.naver.com/v/25558909</guid>
-            <pubDate>Wed, 09 Mar 2022 12:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_138/rdyMs_1646828979006KOz5z_JPEG/cover_0011226656_001_20220309212901229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 이재명 후보 자택 앞…긴장감 고조]]></title>
-            <link>https://tv.naver.com/v/25558894</link>
-            <guid>https://tv.naver.com/v/25558894</guid>
-            <pubDate>Wed, 09 Mar 2022 12:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_153/ttIcE_1646828928437A8a9w_JPEG/cover_0011226655_001_20220309212801252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

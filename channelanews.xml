@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 18:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 19:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 후보, 자택에서 나와 지지자들과 인사]]></title>
+            <link>https://tv.naver.com/v/25561881</link>
+            <guid>https://tv.naver.com/v/25561881</guid>
+            <pubDate>Wed, 09 Mar 2022 19:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[9:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_198/qNIMb_1646850834355ARYwc_JPEG/cover_0000223589_001_20220310032901769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘 당직자들 “윤석열 대통령” 연호]]></title>
+            <link>https://tv.naver.com/v/25561879</link>
+            <guid>https://tv.naver.com/v/25561879</guid>
+            <pubDate>Wed, 09 Mar 2022 19:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_260/OIx5K_1646850583241QAvqH_JPEG/cover_0000223588_001_20220310032801844.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 국민의힘 후보 자택 앞 경찰들 배치]]></title>
             <link>https://tv.naver.com/v/25561489</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 11:18:46 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_203/GqUI3_1646821923657RFwMi_JPEG/cover_0000223546_001_20220309193101775.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아는 기자]투표율 80% 넘을까? 개표와 당선 윤곽은?]]></title>
-            <link>https://tv.naver.com/v/25557413</link>
-            <guid>https://tv.naver.com/v/25557413</guid>
-            <pubDate>Wed, 09 Mar 2022 11:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[5:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_141/WR5e6_1646821962091xBnb9_JPEG/cover_0000223544_001_20220309192943804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 “투표율 80% 정도 나와야 안정적 승리 가능”]]></title>
-            <link>https://tv.naver.com/v/25557411</link>
-            <guid>https://tv.naver.com/v/25557411</guid>
-            <pubDate>Wed, 09 Mar 2022 11:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_139/8fOq7_1646821820504QCqiv_JPEG/cover_0000223542_001_20220309192935760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
