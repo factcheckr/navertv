@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 12:35:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 13:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경기도 출구조사 결과…이재명 50.8%, 윤석열 45.9%]]></title>
+            <link>https://tv.naver.com/v/25559260</link>
+            <guid>https://tv.naver.com/v/25559260</guid>
+            <pubDate>Wed, 09 Mar 2022 13:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[7:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_189/fMAu9_1646830638478Pyp97_JPEG/cover_0000223567_001_20220309215401825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현재 개표 진행 중…당선인 윤곽 새벽 1시 반쯤]]></title>
+            <link>https://tv.naver.com/v/25559199</link>
+            <guid>https://tv.naver.com/v/25559199</guid>
+            <pubDate>Wed, 09 Mar 2022 13:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_211/KJdY6_1646830280873Y0wfU_JPEG/cover_0000223569_001_20220309215001870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[지상파 3사 출구조사]윤석열 48.4%, 이재명 47.8%]]></title>
             <link>https://tv.naver.com/v/25558887</link>
@@ -22,14 +38,6 @@
             <pubDate>Wed, 09 Mar 2022 12:35:03 GMT</pubDate>
             <content:encoded><![CDATA[8:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_198/qCGRo_1646828844661OnzSV_JPEG/cover_0000223570_001_20220309212201837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현재 개표 진행 중…당선인 윤곽 새벽 1시 반쯤 나올 듯]]></title>
-            <link>https://tv.naver.com/v/25558762</link>
-            <guid>https://tv.naver.com/v/25558762</guid>
-            <pubDate>Wed, 09 Mar 2022 12:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_185/pwK3P_16468282980698iQsS_JPEG/cover_0000223569_001_20220309211701751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[채널A 예측조사]윤석열 47.6%, 이재명 46.6%]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 10:23:43 GMT</pubDate>
             <content:encoded><![CDATA[16:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_104/N7qH6_16468198839964aXla_JPEG/cover_0000223536_001_20220309184938056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투표율 75% 넘을까…여야 모두 투표 독려]]></title>
-            <link>https://tv.naver.com/v/25556909</link>
-            <guid>https://tv.naver.com/v/25556909</guid>
-            <pubDate>Wed, 09 Mar 2022 10:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[18:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_279/y52QC_1646820030533nVYiG_JPEG/cover_0000223535_001_20220309184901754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
