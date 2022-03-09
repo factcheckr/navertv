@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 13:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 14:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[출구조사] 이재명 47.8%, 윤석열 48.4%…0.6%p격차 초박빙]]></title>
+            <link>https://tv.naver.com/v/25559634</link>
+            <guid>https://tv.naver.com/v/25559634</guid>
+            <pubDate>Wed, 09 Mar 2022 14:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_196/UxDkb_1646832321585cRQVx_JPEG/cover_0011226647_001_20220309222401230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스9 날씨] 내일도 맑고 건조한 날씨…미세먼지 주의]]></title>
             <link>https://tv.naver.com/v/25559469</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 12:34:01 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_243/cuoen_16468268375060auy8_JPEG/cover_0011226643_001_20220309205301202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 대구 개표소]]></title>
-            <link>https://tv.naver.com/v/25558333</link>
-            <guid>https://tv.naver.com/v/25558333</guid>
-            <pubDate>Wed, 09 Mar 2022 12:34:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_70/i3SCh_1646826374422dfjre_JPEG/cover_0011226642_001_20220309204503254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
