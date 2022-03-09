@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 23:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 01:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[순조롭게 투표 시작…19대 대선 투표율 넘을까?]]></title>
+            <link>https://tv.naver.com/v/25550390</link>
+            <guid>https://tv.naver.com/v/25550390</guid>
+            <pubDate>Wed, 09 Mar 2022 01:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_268/JQk34_1646784844482ThpFl_JPEG/cover_0000223482_001_20220309091301767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사저에 이사 트럭 줄줄이…박근혜 입주는 언제?]]></title>
             <link>https://tv.naver.com/v/25544757</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Mar 2022 12:35:10 GMT</pubDate>
             <content:encoded><![CDATA[12:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220308_247/Y5bg5_1646740303641RN6sI_JPEG/cover_0000223446_001_20220308204501846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 “내가 대통령 되면 탄핵? 민주당 할테면 하라”]]></title>
-            <link>https://tv.naver.com/v/25544619</link>
-            <guid>https://tv.naver.com/v/25544619</guid>
-            <pubDate>Tue, 08 Mar 2022 12:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[15:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_221/eEyL2_1646740295573CXY4D_JPEG/cover_0000223445_001_20220308204401844.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
