@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 14:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 15:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[본투표 당일…투표용지 2장 배부 해프닝]]></title>
+            <link>https://tv.naver.com/v/25560239</link>
+            <guid>https://tv.naver.com/v/25560239</guid>
+            <pubDate>Wed, 09 Mar 2022 15:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[29:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_90/oKbt9_1646836121412I9pwM_JPEG/cover_0000223573_001_20220309231801833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알파A가 본 이재명·윤석열 당선 확률]]></title>
             <link>https://tv.naver.com/v/25560007</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 11:18:46 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220309_47/ycLbI_1646821817688LGGvj_JPEG/cover_0000223538_001_20220309192901826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누굴 찍었지?…스타들 아리송 인증샷]]></title>
-            <link>https://tv.naver.com/v/25557223</link>
-            <guid>https://tv.naver.com/v/25557223</guid>
-            <pubDate>Wed, 09 Mar 2022 10:23:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220309_227/ieDG1_16468208074180aftK_JPEG/cover_0000223554_001_20220309191301760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
