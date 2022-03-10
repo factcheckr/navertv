@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 20:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 21:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[197회_강풍 대처와 산불 예방 요령]]></title>
+            <link>https://tv.naver.com/v/25582705</link>
+            <guid>https://tv.naver.com/v/25582705</guid>
+            <pubDate>Thu, 10 Mar 2022 21:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[14:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_253/9246e_1646946944488TYbC3_JPEG/cover_cover_20220311060215_20_849_1294508_360_7_0_20220311061001289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]맑고 건조함 속 탁한 대기질…내일 남부 일부 빗방울]]></title>
             <link>https://tv.naver.com/v/25578204</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Mar 2022 11:19:31 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_53/q6R66_1646908678204saSTv_JPEG/cover_cover_20220310193251_20_552_1294475_360_7_0_20220310193701240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대선 2022] 민주 지도부 총사퇴…윤호중 비대위 체제로 전환]]></title>
-            <link>https://tv.naver.com/v/25576521</link>
-            <guid>https://tv.naver.com/v/25576521</guid>
-            <pubDate>Thu, 10 Mar 2022 11:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_135/ZdpB8_1646908567995giWd8_JPEG/cover_cover_20220310192942_20_552_1294474_360_7_0_20220310193501249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
