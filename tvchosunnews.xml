@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 10:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 11:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 10일 '뉴스 9' 헤드라인]]></title>
+            <link>https://tv.naver.com/v/25577206</link>
+            <guid>https://tv.naver.com/v/25577206</guid>
+            <pubDate>Thu, 10 Mar 2022 11:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_228/em2Lc_1646911042665Jp2zV_JPEG/cover_2022031090105_thumb_081443_20220310201602764.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["통합의 정치 할 것"…국민의힘 선대본부 해단식]]></title>
             <link>https://tv.naver.com/v/25568914</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 19:18:07 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_119/yp3og_1646853084300yPltV_JPEG/cover_2022031090008_thumb_040541_20220310041101734.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "모든 것은 저의 부족함 때문…尹 통합·화합 시대 열어주길"]]></title>
-            <link>https://tv.naver.com/v/25562025</link>
-            <guid>https://tv.naver.com/v/25562025</guid>
-            <pubDate>Wed, 09 Mar 2022 19:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_238/UMfft_1646852846899ra6OG_JPEG/cover_2022031090009_thumb_040002_20220310040601809.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
