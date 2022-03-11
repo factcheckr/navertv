@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 14:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 15:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['국민통합' 최우선이라는데...여가부 폐지 벌써 갈등]]></title>
+            <link>https://tv.naver.com/v/25599815</link>
+            <guid>https://tv.naver.com/v/25599815</guid>
+            <pubDate>Fri, 11 Mar 2022 15:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_39/AVZoR_1647011654298zMkxL_JPEG/cover_cover_202203120009530896_t_20220312001302282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일도 4월 중순처럼 포근...오후부터 곳곳에 빗방울]]></title>
             <link>https://tv.naver.com/v/25599024</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Mar 2022 12:34:56 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_98/fTAmq_1646997501211XS7nv_JPEG/cover_cover_202203112010548218_t_20220311201722205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴있저] 취임해도 '여소야대' 정국...국정 운영 전망은?]]></title>
-            <link>https://tv.naver.com/v/25596849</link>
-            <guid>https://tv.naver.com/v/25596849</guid>
-            <pubDate>Fri, 11 Mar 2022 12:34:56 GMT</pubDate>
-            <content:encoded><![CDATA[25:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_193/JtFBO_1646998023697S7VI4_JPEG/cover_cover_202203111915529292_t_20220311201702426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
