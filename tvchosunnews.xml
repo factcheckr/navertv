@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 10:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 11:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 11일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25596381</link>
+            <guid>https://tv.naver.com/v/25596381</guid>
+            <pubDate>Fri, 11 Mar 2022 11:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_196/M83vA_1646995609993PWWWx_JPEG/cover_2022031190072_thumb_074253_20220311194602263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹 당선인에게 바란다, 캐슬린 스티븐스 전 미국대사 한국어 인터뷰]]></title>
             <link>https://tv.naver.com/v/25590611</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Mar 2022 12:35:08 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_94/fz7ao_1646914041611OjJUo_JPEG/cover_2022031090153_thumb_090201_20220310210621696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해발 1000ｍ고지서 화마와 싸운다…공중진화대원 '악전고투']]></title>
-            <link>https://tv.naver.com/v/25578064</link>
-            <guid>https://tv.naver.com/v/25578064</guid>
-            <pubDate>Thu, 10 Mar 2022 12:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_18/c5Mzy_1646914049178ltsei_JPEG/cover_2022031090155_thumb_090217_20220310210615054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
