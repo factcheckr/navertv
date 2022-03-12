@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 06:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 07:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 김은혜 당선인 대변인 브리핑…인수위 등 관련]]></title>
+            <link>https://tv.naver.com/v/25606386</link>
+            <guid>https://tv.naver.com/v/25606386</guid>
+            <pubDate>Sat, 12 Mar 2022 07:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[17:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_264/5f4Ci_1647069062208AGt6q_JPEG/cover_0011228146_001_20220312160701226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규 확진 38만 명 넘어 ‘최다’…“다음 주 유행 정점”]]></title>
             <link>https://tv.naver.com/v/25605007</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Mar 2022 22:20:39 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220312_75/I67aD_164703660363192iuO_JPEG/cover_0011228073_001_20220312070919530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유모차만 태웠는데 출발한 전동차…아찔한 사고 반복 이유는?]]></title>
-            <link>https://tv.naver.com/v/25602052</link>
-            <guid>https://tv.naver.com/v/25602052</guid>
-            <pubDate>Fri, 11 Mar 2022 22:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_112/bwvEn_16470365990438J1jf_JPEG/cover_0011228072_001_20220312070910708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
