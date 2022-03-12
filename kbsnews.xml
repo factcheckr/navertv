@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 21:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 22:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[베이징 동계패럴림픽 오늘 폐막]]></title>
+            <link>https://tv.naver.com/v/25612792</link>
+            <guid>https://tv.naver.com/v/25612792</guid>
+            <pubDate>Sat, 12 Mar 2022 22:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_9/Y03zO_1647122378167XR1RS_JPEG/cover_0011228282_001_20220313061501219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일까지 전국 봄비…서울 한낮 16℃]]></title>
             <link>https://tv.naver.com/v/25612790</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 12 Mar 2022 13:22:19 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220312_135/MKCNL_1647090538305nm5gg_JPEG/cover_0011228182_001_20220312220758314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다음 승부처는 6월 지방선거…여야 재격돌]]></title>
-            <link>https://tv.naver.com/v/25610387</link>
-            <guid>https://tv.naver.com/v/25610387</guid>
-            <pubDate>Sat, 12 Mar 2022 13:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_190/J8iFF_1647090513235MvJI6_JPEG/cover_0011228181_001_20220312220747532.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
