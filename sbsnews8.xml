@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 05:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 06:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제보] 선배의 폭행, 졸업 이틀 전에야 징계…'꿈' 멈췄다]]></title>
+            <link>https://tv.naver.com/v/25605897</link>
+            <guid>https://tv.naver.com/v/25605897</guid>
+            <pubDate>Sat, 12 Mar 2022 06:25:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_126/AzuDi_1647066223040TItJT_JPEG/cover_0000959632_001_20220312152201215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['소고' '캐스터네츠' 나오는 요새 아이돌 콘서트 굿즈 [인사이드 케이팝 EP.01]]]></title>
             <link>https://tv.naver.com/v/25604501</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Mar 2022 13:24:43 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_274/0Wo9C_1647002607816YDS1X_JPEG/cover_0000959645_001_20220311214301245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허구연, KBO 총재 후보…"팬이 먼저다"]]></title>
-            <link>https://tv.naver.com/v/25598037</link>
-            <guid>https://tv.naver.com/v/25598037</guid>
-            <pubDate>Fri, 11 Mar 2022 13:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_87/hDebv_1647002508356e7emU_JPEG/cover_0000959644_001_20220311214111497.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
