@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 03:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 04:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신문브리핑 4 "민주당 의총 "윤호중 비대위 안일" 집단 반발" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/25604262</link>
+            <guid>https://tv.naver.com/v/25604262</guid>
+            <pubDate>Sat, 12 Mar 2022 04:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[9:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_52/C1Ldr_1647055348457Jk90m_JPEG/cover_cover_20220312121200_20_606_1294608_360_7_0_20220312121801252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신문브리핑 3 "국민의힘, 尹 당선인 공약 '여가부 폐지' 놓고 시끌" 외 주요기사]]></title>
             <link>https://tv.naver.com/v/25604245</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Mar 2022 12:35:20 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_215/Nf2IT_1646997649044kQ9aa_JPEG/cover_cover_20220311201120_20_552_1294572_360_7_0_20220311201901233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 "'평생 집밥 해줄게' 10년 지켜"…정치 관여 없이 내조만]]></title>
-            <link>https://tv.naver.com/v/25596819</link>
-            <guid>https://tv.naver.com/v/25596819</guid>
-            <pubDate>Fri, 11 Mar 2022 11:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_103/Nzlgf_1646997389279iMbzP_JPEG/cover_cover_20220311201028_20_552_1294571_360_7_0_20220311201501231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

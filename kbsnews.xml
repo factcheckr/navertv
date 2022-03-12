@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 03:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 04:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말오후 날씨] 흐리고 밤부터 비…한낮 포근]]></title>
+            <link>https://tv.naver.com/v/25604305</link>
+            <guid>https://tv.naver.com/v/25604305</guid>
+            <pubDate>Sat, 12 Mar 2022 04:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_193/0JgDy_16470554054939EK7k_JPEG/cover_0011228128_001_20220312122301214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽에 부천 대형 쇼핑몰 화재…3명 부상·10명 대피]]></title>
             <link>https://tv.naver.com/v/25604282</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Mar 2022 22:20:39 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220312_112/bwvEn_16470365990438J1jf_JPEG/cover_0011228072_001_20220312070910708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건설현장 안전감시단 ‘당근마켓’ 채용…“경험·자격증 없어도 OK”]]></title>
-            <link>https://tv.naver.com/v/25602051</link>
-            <guid>https://tv.naver.com/v/25602051</guid>
-            <pubDate>Fri, 11 Mar 2022 22:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_124/N0l2R_1647036588691Lzpdi_JPEG/cover_0011228071_001_20220312070901234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
