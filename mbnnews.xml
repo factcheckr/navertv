@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 07:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 08:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['예술로 희망을 전하다' 방방곡곡 페스타 오늘(12일) MBN서 다시 본다]]></title>
+            <link>https://tv.naver.com/v/25606773</link>
+            <guid>https://tv.naver.com/v/25606773</guid>
+            <pubDate>Sat, 12 Mar 2022 08:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_205/imgJd_1647070929997wmLQV_JPEG/cover_cover_20220312163511_20_675_1294614_360_7_0_20220312164101268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신문브리핑 4 "민주당 의총 "윤호중 비대위 안일" 집단 반발" 외 주요기사]]></title>
             <link>https://tv.naver.com/v/25604262</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Mar 2022 12:35:20 GMT</pubDate>
             <content:encoded><![CDATA[5:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_23/jaFKG_1646997929756G9eFr_JPEG/cover_cover_20220311201644_20_552_1294573_360_7_0_20220311202301335.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[파워엘리트] '윤석열 복심' 장제원 비서실장은 누구?]]></title>
-            <link>https://tv.naver.com/v/25596886</link>
-            <guid>https://tv.naver.com/v/25596886</guid>
-            <pubDate>Fri, 11 Mar 2022 12:35:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_215/Nf2IT_1646997649044kQ9aa_JPEG/cover_cover_20220311201120_20_552_1294572_360_7_0_20220311201901233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
