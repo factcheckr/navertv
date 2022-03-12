@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 23:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 01:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Fri, 11 Mar 2022 02:44:51 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_262/XJBVm_1646966032169EDm5B_JPEG/1646964568585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리빙톡] 터지면 사망한다?…술·담배 즐긴다면 주의!]]></title>
+            <link>https://tv.naver.com/v/25585403</link>
+            <guid>https://tv.naver.com/v/25585403</guid>
+            <pubDate>Sat, 12 Mar 2022 01:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_146/64LVY_1646964909432Fn9HI_JPEG/1646964678200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["오미크론 열흘 안에 하루 최대 37만명 전망"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Mar 2022 20:21:59 GMT</pubDate>
             <content:encoded><![CDATA[5:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220310_53/v32Rx_1646855638011LPWNJ_JPEG/1646855621874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 출신 첫 대통령 윤석열…26년 '검사 외길' 인생의 대반전]]></title>
-            <link>https://tv.naver.com/v/25562168</link>
-            <guid>https://tv.naver.com/v/25562168</guid>
-            <pubDate>Wed, 09 Mar 2022 20:21:59 GMT</pubDate>
-            <content:encoded><![CDATA[6:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220310_300/xVtmD_1646855529937nJCCN_JPEG/1646855387693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
