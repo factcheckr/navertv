@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 19:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 20:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 3월 13일]]></title>
+            <link>https://tv.naver.com/v/25612696</link>
+            <guid>https://tv.naver.com/v/25612696</guid>
+            <pubDate>Sat, 12 Mar 2022 20:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[30:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_59/yO9zD_1647115435577ikMsi_JPEG/cover_cover_MYH20220311017000038_20220313050102070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아, 우크라이나 침공…국제 질서 재편 흐름은? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/25610285</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 12 Mar 2022 07:18:57 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220312_33/TtOyJ_1647067403308jqLM5_JPEG/cover_cover_MYH20220312006400038_20220312154302382.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 주말 공기 '답답'…밤부터 수도권·강원 단비]]></title>
-            <link>https://tv.naver.com/v/25605735</link>
-            <guid>https://tv.naver.com/v/25605735</guid>
-            <pubDate>Sat, 12 Mar 2022 06:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_113/nLgaZ_1647064993094xVJLS_JPEG/cover_cover_MYH20220312006100038_20220312150202870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
