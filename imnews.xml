@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 13:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 14:21:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Sun, 13 Mar 2022 11:17:41 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220313_14/78qyj_16471701055137MsJg_JPEG/cover_cover_desk_20220313_200415_1_8_Large_20220313201400001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주요 도시 초토화‥키이우 도심 진격 목전]]></title>
-            <link>https://tv.naver.com/v/25620240</link>
-            <guid>https://tv.naver.com/v/25620240</guid>
-            <pubDate>Sun, 13 Mar 2022 11:17:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_59/av3p2_16471700790483RxXh_JPEG/cover_cover_desk_20220313_200221_1_7_Large_20220313201352891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정점 진입 임박‥내일부터 가족 확진돼도 등교]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 12 Mar 2022 22:20:20 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220313_120/4XzcF_1647123228768LXA50_JPEG/cover_cover_today_20220313_070543_1_5_Large_20220313071334529.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오후 9시까지 33만 7천여 명‥30만 명대 중후반 예상]]></title>
+            <link>https://tv.naver.com/v/25612873</link>
+            <guid>https://tv.naver.com/v/25612873</guid>
+            <pubDate>Sun, 13 Mar 2022 14:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_279/tRifA_1647123215663Fh0ai_JPEG/cover_cover_today_20220313_070516_1_4_Large_20220313071326705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
