@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 10:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 11:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 당선인, "여가부 폐지" 재확인…민주당, 박지현 발탁]]></title>
+            <link>https://tv.naver.com/v/25620200</link>
+            <guid>https://tv.naver.com/v/25620200</guid>
+            <pubDate>Sun, 13 Mar 2022 11:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_273/LgIqa_16471699986310snDT_JPEG/cover_0000959887_001_20220313201211875.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령직 인수위원장에 안철수 임명…"공동정부 첫걸음"]]></title>
+            <link>https://tv.naver.com/v/25620195</link>
+            <guid>https://tv.naver.com/v/25620195</guid>
+            <pubDate>Sun, 13 Mar 2022 11:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_66/9lu4F_16471699978966S3js_JPEG/cover_0000959886_001_20220313201201229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/25620032</link>
+            <guid>https://tv.naver.com/v/25620032</guid>
+            <pubDate>Sun, 13 Mar 2022 11:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_281/KLzmy_1647169482822SyoFb_JPEG/cover_0000959884_001_20220313200401262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열 당선인, 인수위원장 안철수 · 부위원장 권영세 임명]]></title>
             <link>https://tv.naver.com/v/25616465</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 12 Mar 2022 12:31:35 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220312_232/iOCO6_1647086975640RFtmu_JPEG/cover_0000959778_001_20220312210901237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 수도권 시작, 전국에 비…제주도 최고 80mm]]></title>
-            <link>https://tv.naver.com/v/25609696</link>
-            <guid>https://tv.naver.com/v/25609696</guid>
-            <pubDate>Sat, 12 Mar 2022 12:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_32/ABQNE_1647086921764nrxw4_JPEG/cover_0000959779_001_20220312210809933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/25609693</link>
-            <guid>https://tv.naver.com/v/25609693</guid>
-            <pubDate>Sat, 12 Mar 2022 12:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_9/MVXZC_1647086894539Ue3l3_JPEG/cover_0000959780_001_20220312210801258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["자가검사키트, 목으로 하면 더 정확"…소문 사실일까]]></title>
-            <link>https://tv.naver.com/v/25609683</link>
-            <guid>https://tv.naver.com/v/25609683</guid>
-            <pubDate>Sat, 12 Mar 2022 12:31:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220312_134/Wpovy_16470869173181eQAs_JPEG/cover_0000959686_001_20220312210704422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
