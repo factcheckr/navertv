@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 03:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 04:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아 0.02초…스노보드 이상호 월드컵 동메달]]></title>
+            <link>https://tv.naver.com/v/25614626</link>
+            <guid>https://tv.naver.com/v/25614626</guid>
+            <pubDate>Sun, 13 Mar 2022 04:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_118/a2sXC_16471449187509DIRY_JPEG/cover_0000223779_001_20220313131501763.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인수위원장 安 사실상 내정…인수위원 인선 최종 조율]]></title>
             <link>https://tv.naver.com/v/25609278</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Mar 2022 12:35:12 GMT</pubDate>
             <content:encoded><![CDATA[3:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220311_163/fryJs_1646999573842H0zsg_JPEG/cover_0000223729_001_20220311205101714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘낙선’ 이재명 거취 놓고 민주당 게시판 ‘시끌’]]></title>
-            <link>https://tv.naver.com/v/25597032</link>
-            <guid>https://tv.naver.com/v/25597032</guid>
-            <pubDate>Fri, 11 Mar 2022 12:35:12 GMT</pubDate>
-            <content:encoded><![CDATA[5:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220311_192/FbO88_1646998265895WwA0j_JPEG/cover_0000223719_001_20220311202829078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
