@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 12:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 13:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[백운기의 뉴스와이드] 안철수 인수위원장 임명 "인수위는 점령군 아냐"]]></title>
+            <link>https://tv.naver.com/v/25642122</link>
+            <guid>https://tv.naver.com/v/25642122</guid>
+            <pubDate>Mon, 14 Mar 2022 13:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:07:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_34/UJFpH_1647261646466h6bX9_JPEG/cover_cover_20220314211114_20_536_1294751_360_7_0_20220314213601312.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]고마운 봄비, 오늘 저녁까지…내일 짙은 안개에 미세먼지]]></title>
             <link>https://tv.naver.com/v/25641715</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Mar 2022 09:21:49 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_93/chvWq_1647247916815EXk0t_JPEG/cover_cover_20220314174548_20_845_1294722_360_7_0_20220314175101223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 프레스룸] 2030 전면 배치]]></title>
-            <link>https://tv.naver.com/v/25637735</link>
-            <guid>https://tv.naver.com/v/25637735</guid>
-            <pubDate>Mon, 14 Mar 2022 09:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[8:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_20/W9twt_1647247272048IsuJw_JPEG/cover_cover_20220314172323_20_812_1294721_360_7_0_20220314173801301.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
