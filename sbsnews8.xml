@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 02:42:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 03:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 당선인, 통의동 첫 출근…안철수와 차담회]]></title>
+            <link>https://tv.naver.com/v/25630696</link>
+            <guid>https://tv.naver.com/v/25630696</guid>
+            <pubDate>Mon, 14 Mar 2022 03:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_34/0MKxi_1647227633424r4bmL_JPEG/cover_0000960010_001_20220314121301244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/25630637</link>
+            <guid>https://tv.naver.com/v/25630637</guid>
+            <pubDate>Mon, 14 Mar 2022 03:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_5/rP7es_1647227376807OyniM_JPEG/cover_0000960009_001_20220314120901237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌아온 포켓몬빵 '품절 대란'…2030이 열광하는 이유]]></title>
             <link>https://tv.naver.com/v/25629450</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 13 Mar 2022 13:22:47 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220313_4/K150H_1647175719273qy9uN_JPEG/cover_0000959896_001_20220313214645297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["우리가 무너지면 당신들도"…우크라의 절박한 호소]]></title>
-            <link>https://tv.naver.com/v/25622198</link>
-            <guid>https://tv.naver.com/v/25622198</guid>
-            <pubDate>Sun, 13 Mar 2022 13:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_107/u5h5t_1647175686467rXwpm_JPEG/cover_0000959894_001_20220313214635520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동거 가족 확진돼도 '등교 가능'…접종 여부 상관없다]]></title>
-            <link>https://tv.naver.com/v/25622196</link>
-            <guid>https://tv.naver.com/v/25622196</guid>
-            <pubDate>Sun, 13 Mar 2022 13:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220313_137/f1KOF_164717564984808B4b_JPEG/cover_0000959893_001_20220313214622217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
