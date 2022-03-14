@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 18:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 19:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보이스피싱, 이젠 편의점 종업원까지 노려]]></title>
+            <link>https://tv.naver.com/v/25645542</link>
+            <guid>https://tv.naver.com/v/25645542</guid>
+            <pubDate>Mon, 14 Mar 2022 19:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_291/Cg3FR_16472854083454EelV_JPEG/cover_0011229090_001_20220315041609296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서범수 의원·허언욱 전 부시장 울산시장 출마선언]]></title>
             <link>https://tv.naver.com/v/25645097</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Mar 2022 15:22:52 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_123/Ou4Lo_16472696706317jBIr_JPEG/cover_0011229158_001_20220314235414767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산경찰, 벽보 훼손 등 선거법 위반 19명 적발]]></title>
-            <link>https://tv.naver.com/v/25644196</link>
-            <guid>https://tv.naver.com/v/25644196</guid>
-            <pubDate>Mon, 14 Mar 2022 15:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_183/DTvoJ_1647269661117N95Wz_JPEG/cover_0011229157_001_20220314235406523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
