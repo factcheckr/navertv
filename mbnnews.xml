@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 19:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 21:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[199회_코로나19 유행 진단과 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/25666938</link>
+            <guid>https://tv.naver.com/v/25666938</guid>
+            <pubDate>Tue, 15 Mar 2022 21:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[14:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_176/748PJ_1647378865392Nv6DH_JPEG/cover_cover_20220316060023_20_849_1294828_360_7_0_20220316060801302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]낮기온 쑥쑥↑…서쪽 중심 탁한 공기]]></title>
             <link>https://tv.naver.com/v/25662446</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Mar 2022 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[19:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_260/U4xAG_1647339186469jkGr6_JPEG/cover_cover_20220315185545_20_673_1294797_360_7_0_20220315190501211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-문 대통령-윤석열 내일 오찬 회동…'MB 사면' 논의?]]></title>
-            <link>https://tv.naver.com/v/25659457</link>
-            <guid>https://tv.naver.com/v/25659457</guid>
-            <pubDate>Tue, 15 Mar 2022 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[18:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_40/KQaUg_1647338937852KrMAf_JPEG/cover_cover_20220315185101_20_673_1294796_360_7_0_20220315190101227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
