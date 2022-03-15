@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 06:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 07:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 러시아 생방송 뉴스 중 난입해 "전쟁 반대!" 외친 여성의 정체는?]]></title>
+            <link>https://tv.naver.com/v/25655420</link>
+            <guid>https://tv.naver.com/v/25655420</guid>
+            <pubDate>Tue, 15 Mar 2022 07:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_117/YsnN5_1647328380001Rt9z6_JPEG/cover_0000960303_001_20220315161201222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스딱] "자녀 결혼식" 잠시 풀어줬더니, 그새 또 훔치다 걸렸다]]></title>
             <link>https://tv.naver.com/v/25654089</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Mar 2022 01:22:30 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_129/AjlGi_1647301600562L1fkz_JPEG/cover_0000960199_001_20220315084611624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 'KBO에 로비 의혹' 에이클라 압수수색]]></title>
-            <link>https://tv.naver.com/v/25647028</link>
-            <guid>https://tv.naver.com/v/25647028</guid>
-            <pubDate>Tue, 15 Mar 2022 01:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_159/6B6Hf_1647301559337KsYSq_JPEG/cover_0000960196_001_20220315084510944.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
