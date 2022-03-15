@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 10:25:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 11:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 15일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25660208</link>
+            <guid>https://tv.naver.com/v/25660208</guid>
+            <pubDate>Tue, 15 Mar 2022 11:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_40/DJhSi_16473412044847z4CL_JPEG/cover_2022031590080_thumb_074426_20220315194601931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월 15일 '뉴스 퍼레이드' 클로징]]></title>
             <link>https://tv.naver.com/v/25647034</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Mar 2022 14:20:43 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220314_141/m1rmh_1647264488614ezhdG_JPEG/cover_2022031490101_thumb_102110_20220314222721106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신속검사로 확진판정 첫날 동네병원 '북새통'…"아침에 지침 통보"]]></title>
-            <link>https://tv.naver.com/v/25643215</link>
-            <guid>https://tv.naver.com/v/25643215</guid>
-            <pubDate>Mon, 14 Mar 2022 14:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220314_37/GLXBr_1647264492605SNOFn_JPEG/cover_2022031490099_thumb_102107_20220314222714183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
