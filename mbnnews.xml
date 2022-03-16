@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 12:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 13:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[백운기의 뉴스와이드] 문 대통령-윤석열 당선인 회동 '4시간 전' 당일 취소…왜?]]></title>
+            <link>https://tv.naver.com/v/25684735</link>
+            <guid>https://tv.naver.com/v/25684735</guid>
+            <pubDate>Wed, 16 Mar 2022 13:26:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:06:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_68/QinMf_1647434253908aV3XG_JPEG/cover_cover_20220316211113_20_536_1294893_360_7_0_20220316213302040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]내일 전국 봄비…제주 최대 100mm↑, 강원 산지 최대 30cm]]></title>
             <link>https://tv.naver.com/v/25684408</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Mar 2022 09:21:16 GMT</pubDate>
             <content:encoded><![CDATA[45:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220316_295/2egZJ_1647419663000G5HpO_JPEG/cover_cover_20220316171508_20_812_1294864_360_7_0_20220316173101244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[프레스룸 날씨] 완연한 봄기운…내일 전국에 비 소식]]></title>
-            <link>https://tv.naver.com/v/25678370</link>
-            <guid>https://tv.naver.com/v/25678370</guid>
-            <pubDate>Wed, 16 Mar 2022 08:25:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_28/a2Z46_1647418675615qGPjM_JPEG/cover_cover_20220316171220_20_812_1294863_360_7_0_20220316171701230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
