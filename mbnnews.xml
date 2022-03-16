@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 07:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 08:25:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 완연한 봄기운…내일 전국에 비 소식]]></title>
+            <link>https://tv.naver.com/v/25678370</link>
+            <guid>https://tv.naver.com/v/25678370</guid>
+            <pubDate>Wed, 16 Mar 2022 08:25:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_28/a2Z46_1647418675615qGPjM_JPEG/cover_cover_20220316171220_20_812_1294863_360_7_0_20220316171701230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 3월 16일 낮 12시]]></title>
             <link>https://tv.naver.com/v/25672468</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Mar 2022 13:27:45 GMT</pubDate>
             <content:encoded><![CDATA[1:07:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220315_114/U4Zfv_164734804142571Svw_JPEG/cover_cover_20220315211025_20_536_1294824_360_7_0_20220315213601256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대담] 권영세 "문 정부 공공기관 정치적 인사, 거취 생각해야"]]></title>
-            <link>https://tv.naver.com/v/25662028</link>
-            <guid>https://tv.naver.com/v/25662028</guid>
-            <pubDate>Tue, 15 Mar 2022 12:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[6:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220315_155/sEL2N_16473467894447JYJp_JPEG/cover_cover_20220315210915_20_552_1294823_360_7_0_20220315211601287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
