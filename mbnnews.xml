@@ -4,14 +4,30 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:25:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 3월 17일 목요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/25705125</link>
+            <guid>https://tv.naver.com/v/25705125</guid>
+            <pubDate>Thu, 17 Mar 2022 08:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_5/za8ZU_1647505108808kyiDa_JPEG/cover_cover_20220317171425_20_812_1294939_360_7_0_20220317171801262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 전국 봄비 흠뻑… 강원 산지 '대설주의보']]></title>
+            <link>https://tv.naver.com/v/25705047</link>
+            <guid>https://tv.naver.com/v/25705047</guid>
+            <pubDate>Thu, 17 Mar 2022 08:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_130/bEwj5_1647504958354YQ1kT_JPEG/cover_cover_20220317171024_20_812_1294938_360_7_0_20220317171501277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회동 무산된 윤 당선인, 시민 틈에서 김치찌개 오찬]]></title>
             <link>https://tv.naver.com/v/25702915</link>
             <guid>https://tv.naver.com/v/25702915</guid>
-            <pubDate>Thu, 17 Mar 2022 07:20:46 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2022 08:25:45 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_288/6cqfV_1647500210401xs17v_JPEG/cover_cover_20220316193706_20_552_1294870_360_7_0_20220317155501279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 16 Mar 2022 23:21:43 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_9/951AV_1647471234826NpACe_JPEG/cover_cover_20220317074831_20_605_1294905_360_7_0_20220317075301241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일 인수위 현판식…오늘 인수위 추가 인선 발표]]></title>
-            <link>https://tv.naver.com/v/25693238</link>
-            <guid>https://tv.naver.com/v/25693238</guid>
-            <pubDate>Wed, 16 Mar 2022 23:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_214/LDr9E_1647471025862jpbLJ_JPEG/cover_cover_20220317074603_20_605_1294904_360_7_0_20220317075001271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MB 사면 신경전…"결자해지" vs "취임 뒤 직접 해라"]]></title>
-            <link>https://tv.naver.com/v/25693231</link>
-            <guid>https://tv.naver.com/v/25693231</guid>
-            <pubDate>Wed, 16 Mar 2022 23:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_272/YcMlU_1647470998524kJXtN_JPEG/cover_cover_20220317074325_20_605_1294903_360_7_0_20220317074901274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
