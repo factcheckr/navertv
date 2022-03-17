@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 06:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 07:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 키워드로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/25703553</link>
+            <guid>https://tv.naver.com/v/25703553</guid>
+            <pubDate>Thu, 17 Mar 2022 07:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_30/801AJ_16475014031430lLFV_JPEG/cover_0011231159_001_20220317161501208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[코로나19-중앙방역대책본부] “오미크론 변이 세부계통 BA.2, 국내에서도 증가 추세”]]></title>
             <link>https://tv.naver.com/v/25701984</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Mar 2022 04:26:41 GMT</pubDate>
             <content:encoded><![CDATA[4:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_159/2p21Z_1647489084622E0T3e_JPEG/cover_0011231091_001_20220317125001288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주택 화재로 장애인 가족 참변…방화 가능성 수사]]></title>
-            <link>https://tv.naver.com/v/25698621</link>
-            <guid>https://tv.naver.com/v/25698621</guid>
-            <pubDate>Thu, 17 Mar 2022 04:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_81/F0Pku_16474885105990E2wk_JPEG/cover_0011231090_001_20220317124111171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
