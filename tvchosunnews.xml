@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 10:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 11:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 17일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25708208</link>
+            <guid>https://tv.naver.com/v/25708208</guid>
+            <pubDate>Thu, 17 Mar 2022 11:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_174/SfD43_164751401432415Kvx_JPEG/cover_2022031790078_thumb_074316_20220317194601916.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규확진 62만1328명 '폭증'…정부, 거리두기 고심]]></title>
             <link>https://tv.naver.com/v/25702544</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Mar 2022 13:26:02 GMT</pubDate>
             <content:encoded><![CDATA[3:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220316_213/UJYg2_1647435167354od1st_JPEG/cover_2022031690117_thumb_094731_20220316215109705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신규확진 첫 40만명대…정부, 1급 감염병 완화 검토 "일상회복 머지않아"]]></title>
-            <link>https://tv.naver.com/v/25684987</link>
-            <guid>https://tv.naver.com/v/25684987</guid>
-            <pubDate>Wed, 16 Mar 2022 13:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_202/pose5_16474348147128yOa2_JPEG/cover_2022031690113_thumb_094328_20220316214602681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
