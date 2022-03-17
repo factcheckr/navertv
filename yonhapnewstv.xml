@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 19:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 20:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤 9시까지 39만여명 확진…오늘 40만명대 중반 전망]]></title>
+            <link>https://tv.naver.com/v/25713528</link>
+            <guid>https://tv.naver.com/v/25713528</guid>
+            <pubDate>Thu, 17 Mar 2022 20:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_191/IETCh_1647547911623jmAa9_JPEG/cover_cover_MYH20220318000100640_20220318051102028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밤 9시까지 39만 3천여명 확진…어제보다 15만여명↓]]></title>
             <link>https://tv.naver.com/v/25711454</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Mar 2022 12:36:23 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_2/gSNAa_16475174137466XOP1_JPEG/cover_cover_MYH20220317018700038_20220317204302350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스프라임] 신규확진 60만명대 '폭증'…정부, 거리두기 고심]]></title>
-            <link>https://tv.naver.com/v/25709021</link>
-            <guid>https://tv.naver.com/v/25709021</guid>
-            <pubDate>Thu, 17 Mar 2022 12:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[14:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_216/flLNO_1647517559219Fal2a_JPEG/cover_cover_MYH20220317018600038_20220317203802643.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
