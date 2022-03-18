@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 02:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사흘간 신규 확진자 140만 명…방역완화 괜찮나]]></title>
+            <link>https://tv.naver.com/v/25718490</link>
+            <guid>https://tv.naver.com/v/25718490</guid>
+            <pubDate>Fri, 18 Mar 2022 03:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_174/3MQs6_1647573471844FvLw8_JPEG/cover_0000224047_001_20220318121701754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]“대통령 집무실까지 뛰어가면 30초” / 윤석열의 ‘슬림화’란? / “문 대통령 반성문?” 친문 의원들 ‘발끈’]]></title>
             <link>https://tv.naver.com/v/25711116</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Mar 2022 12:36:55 GMT</pubDate>
             <content:encoded><![CDATA[5:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_90/AKMaO_1647515804064wtn4m_JPEG/cover_0000224009_001_20220317201249368.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[與 “용산은 일본군 있던 곳”…‘尹 집무실’ 이전에 어깃장]]></title>
-            <link>https://tv.naver.com/v/25708624</link>
-            <guid>https://tv.naver.com/v/25708624</guid>
-            <pubDate>Thu, 17 Mar 2022 12:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[7:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_52/loBLX_1647515797352fkSMt_JPEG/cover_0000224008_001_20220317201236465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
