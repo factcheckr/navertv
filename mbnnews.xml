@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 12:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 13:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[백운기의 뉴스와이드] 대선 9일 만에 출범한 윤석열 인수위…과제는?]]></title>
+            <link>https://tv.naver.com/v/25730557</link>
+            <guid>https://tv.naver.com/v/25730557</guid>
+            <pubDate>Fri, 18 Mar 2022 13:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:08:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_210/Uuc47_1647607307197XqQWj_JPEG/cover_cover_20220318211251_20_536_1295058_360_7_0_20220318213501238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]강원 산간 폭설…주말 오전 중부 내륙에도 눈·비 집중]]></title>
             <link>https://tv.naver.com/v/25730338</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Mar 2022 10:24:21 GMT</pubDate>
             <content:encoded><![CDATA[18:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_37/4Yc0S_1647598208630UXOHq_JPEG/cover_cover_20220318185452_20_673_1295029_360_7_0_20220318190301244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김주하 AI가 전하는 3월 18일 종합뉴스 예고]]></title>
-            <link>https://tv.naver.com/v/25727788</link>
-            <guid>https://tv.naver.com/v/25727788</guid>
-            <pubDate>Fri, 18 Mar 2022 10:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_264/xsvzH_1647596983258kHE6S_JPEG/cover_cover_20220318184332_20_845_1295028_360_7_0_20220318184901271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
