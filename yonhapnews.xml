@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 01:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 02:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 18 Mar 2022 09:20:53 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_163/0Jjdl_1647593390427sWMWb_JPEG/1647591878651.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 당선 확정에 대한 북한의 반응은? [티븨가이드北]]]></title>
+            <link>https://tv.naver.com/v/25726319</link>
+            <guid>https://tv.naver.com/v/25726319</guid>
+            <pubDate>Sat, 19 Mar 2022 02:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_221/6cFC8_1647593193610lwmtR_JPEG/1647593137821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유럽, 우크라 전쟁 보고 '화들짝'…미국산 무기 확보 경쟁]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Mar 2022 03:22:26 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_8/TOFNl_1647485740014V9LPN_JPEG/1647485444139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 후쿠시마 규모 7.3 강진…원전 수조 냉각기능 한때 정지]]></title>
-            <link>https://tv.naver.com/v/25696817</link>
-            <guid>https://tv.naver.com/v/25696817</guid>
-            <pubDate>Thu, 17 Mar 2022 02:43:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_98/yHswg_1647482920886pHJdQ_JPEG/1647482750009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
