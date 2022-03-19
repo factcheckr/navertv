@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 05:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 06:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] "훈련 부족, 기강도 없다"...실체 드러난 러시아군]]></title>
+            <link>https://tv.naver.com/v/25737184</link>
+            <guid>https://tv.naver.com/v/25737184</guid>
+            <pubDate>Sat, 19 Mar 2022 06:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_100/mjDo1_16476675523784luJS_JPEG/cover_cover_202203191420540239_t_20220319142502163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[몰도바에서 보는 우크라이나...팔랑카로 밀려드는 피란민들]]></title>
             <link>https://tv.naver.com/v/25737084</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Mar 2022 01:17:02 GMT</pubDate>
             <content:encoded><![CDATA[0:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220319_48/fWta6_1647650717864nsgJi_JPEG/cover_cover_202203190844561943_t_20220319094501845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든, 러 지원 후과 경고...시진핑 "美, 러와 대화해야"]]></title>
-            <link>https://tv.naver.com/v/25734702</link>
-            <guid>https://tv.naver.com/v/25734702</guid>
-            <pubDate>Sat, 19 Mar 2022 01:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_77/cUOqT_1647650273072D5Kpc_JPEG/cover_cover_202203190909244704_t_20220319093701936.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
