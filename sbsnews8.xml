@@ -4,16 +4,24 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 07:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 08:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["누구보다 건강했는데…" 백신 접종 후 바뀐 운명]]></title>
-            <link>https://tv.naver.com/v/25736838</link>
-            <guid>https://tv.naver.com/v/25736838</guid>
-            <pubDate>Sat, 19 Mar 2022 05:18:23 GMT</pubDate>
+            <title><![CDATA[[단독] 한국 언론 최초 우크라이나 진입, 현장 상황은?]]></title>
+            <link>https://tv.naver.com/v/25738915</link>
+            <guid>https://tv.naver.com/v/25738915</guid>
+            <pubDate>Sat, 19 Mar 2022 08:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_59/a36Ew_1647676700860zbWXh_JPEG/cover_0000961215_001_20220319165601224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스토리] 백신으로 뒤바뀐 운명Ⅱ]]></title>
+            <link>https://tv.naver.com/v/25738563</link>
+            <guid>https://tv.naver.com/v/25738563</guid>
+            <pubDate>Sat, 19 Mar 2022 08:23:35 GMT</pubDate>
             <content:encoded><![CDATA[22:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_10/vNORg_1647666235784uXni2_JPEG/cover_0000961163_001_20220319135102687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_42/XvrgM_1647675364490y8jwS_JPEG/cover_0000961163_001_20220319162301214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울 양양고속도로 눈길 5중 추돌…한때 극심한 정체]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Mar 2022 13:25:30 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_268/HdSka_16476069205521aSvv_JPEG/cover_0000961103_001_20220318213401298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["일 잘하는 정부 돼야…민생 문제 집중" 인수위 공식 출범]]></title>
-            <link>https://tv.naver.com/v/25730533</link>
-            <guid>https://tv.naver.com/v/25730533</guid>
-            <pubDate>Fri, 18 Mar 2022 13:25:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_167/lsnew_1647606915276yXS8g_JPEG/cover_0000961104_001_20220318213348165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
