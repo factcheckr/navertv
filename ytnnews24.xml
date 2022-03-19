@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 06:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 07:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["다음 주까지 정점"..."이젠 '후유증'도 고민해야 할 때"]]></title>
+            <link>https://tv.naver.com/v/25738073</link>
+            <guid>https://tv.naver.com/v/25738073</guid>
+            <pubDate>Sat, 19 Mar 2022 07:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[19:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_229/4xRLI_1647672651926CL7yq_JPEG/cover_cover_202203191501059226_t_20220319154301965.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] "훈련 부족, 기강도 없다"...실체 드러난 러시아군]]></title>
             <link>https://tv.naver.com/v/25737184</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Mar 2022 01:17:02 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220319_82/sBW60_1647652441159vHucE_JPEG/cover_cover_202203190959016729_t_20220319101302237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주차된 차량·식당서 잇따라 불...방화 가능성 조사]]></title>
-            <link>https://tv.naver.com/v/25734740</link>
-            <guid>https://tv.naver.com/v/25734740</guid>
-            <pubDate>Sat, 19 Mar 2022 01:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_48/fWta6_1647650717864nsgJi_JPEG/cover_cover_202203190844561943_t_20220319094501845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
