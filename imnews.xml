@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 03:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 04:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 한낮에도 쌀쌀‥강원·경기 동부 비나 눈]]></title>
+            <link>https://tv.naver.com/v/25746748</link>
+            <guid>https://tv.naver.com/v/25746748</guid>
+            <pubDate>Sun, 20 Mar 2022 04:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_155/r2QpQ_1647746718498pgyh6_JPEG/cover_cover_noon_20220320_121328_1_6_Large_20220320122502311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울중앙지검, 사회적 약자 출석·귀가 지원 내일부터 시행]]></title>
             <link>https://tv.naver.com/v/25746688</link>
@@ -32,12 +40,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220320_201/CTQfJ_1647746320608zhjxN_JPEG/cover_cover_noon_20220320_121106_1_3_Large_20220320121803325.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MBC뉴스] 윤 당선인, '용산 집무실' 확정.."임기 첫날부터]]></title>
+            <title><![CDATA[[MBC뉴스] 윤 당선인, '용산 집무실' 확정.."임기 첫날부터 근무"]]></title>
             <link>https://tv.naver.com/v/25746666</link>
             <guid>https://tv.naver.com/v/25746666</guid>
             <pubDate>Sun, 20 Mar 2022 03:20:59 GMT</pubDate>
             <content:encoded><![CDATA[9:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_226/Aw7PQ_1647746190009QlvVV_JPEG/fe27be48-a7fb-11ec-b1ad-d4f5ef590144_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_258/XCpwX_1647746981902jS48p_JPEG/1647746977737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신규 확진 33만 4천708명‥내일부터 사적모임 8명 확대]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Mar 2022 12:33:02 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220319_205/A9ifk_1647691817465rYPxO_JPEG/cover_cover_desk_20220319_200705_1_4_Large_20220319210929653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 마장동 먹자 골목 큰 화재‥식당 9곳 불타]]></title>
-            <link>https://tv.naver.com/v/25741670</link>
-            <guid>https://tv.naver.com/v/25741670</guid>
-            <pubDate>Sat, 19 Mar 2022 12:33:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_31/6AJ3N_1647691795610oG2jh_JPEG/cover_cover_desk_20220319_200511_1_3_Large_20220319210921089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
