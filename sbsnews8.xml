@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 01:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 02:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 윤석열 당선인, 대통령실 용산이전 공식화 "국가미래 위해 내린 결단"]]></title>
+            <link>https://tv.naver.com/v/25746302</link>
+            <guid>https://tv.naver.com/v/25746302</guid>
+            <pubDate>Sun, 20 Mar 2022 02:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[8:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_81/EzwnH_1647743919197vDrSN_JPEG/cover_0000961295_001_20220320113601233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 당선인, 국방 · 외교 청사 직접 답사…신중론도 '솔솔']]></title>
             <link>https://tv.naver.com/v/25745631</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Mar 2022 23:21:08 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220319_278/Ehe8L_16476429711624Frrq_JPEG/cover_0000961158_001_20220319073501316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[섬진강 연어 회귀량 매년 감소…"지구 온난화 원인"]]></title>
-            <link>https://tv.naver.com/v/25734272</link>
-            <guid>https://tv.naver.com/v/25734272</guid>
-            <pubDate>Fri, 18 Mar 2022 23:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_54/LN14V_1647642947697Qh2bB_JPEG/cover_0000961159_001_20220319073428310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
