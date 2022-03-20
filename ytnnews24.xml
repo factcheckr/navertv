@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 17:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 18:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벨기에서 축제 인파에 차량 돌진해 6명 사망]]></title>
+            <link>https://tv.naver.com/v/25755731</link>
+            <guid>https://tv.naver.com/v/25755731</guid>
+            <pubDate>Sun, 20 Mar 2022 18:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_242/6nDHr_1647796997198komhO_JPEG/cover_cover_202203201947257388_t_20220321022302361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] "현존 체계로 방어 불가"...러, 푸틴이 자랑한 미사일 발사]]></title>
             <link>https://tv.naver.com/v/25755704</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Mar 2022 13:23:53 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220320_166/JD10a_16477820527668EDAk_JPEG/cover_cover_202203202201494315_t_20220320221302673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["국민과 소통 의지" vs "졸속 이전·안보 공백"]]></title>
-            <link>https://tv.naver.com/v/25753577</link>
-            <guid>https://tv.naver.com/v/25753577</guid>
-            <pubDate>Sun, 20 Mar 2022 13:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_64/oIWj0_1647781916203WU8H6_JPEG/cover_cover_202203202159429151_t_20220320221102019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
