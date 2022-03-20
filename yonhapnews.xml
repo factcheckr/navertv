@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 21:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 22:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Fri, 18 Mar 2022 08:25:14 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220318_105/0Q6Tn_1647588610980jNdNb_JPEG/1647588577240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[65세 이상 10명 중 1명 치매…6가지 예방 습관]]></title>
+            <link>https://tv.naver.com/v/25722604</link>
+            <guid>https://tv.naver.com/v/25722604</guid>
+            <pubDate>Sun, 20 Mar 2022 22:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220318_208/IoUih_1647584928336loC8m_JPEG/1647584799348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시진핑, 우크라이나 전쟁 직전에 대만 장악 검토해]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Mar 2022 04:27:22 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220317_258/Nj0hF_16474889388764Radn_JPEG/1647488280853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['중립국화 협상' 언급한 푸틴 "우크라 점령 계획없어"]]></title>
-            <link>https://tv.naver.com/v/25698456</link>
-            <guid>https://tv.naver.com/v/25698456</guid>
-            <pubDate>Thu, 17 Mar 2022 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220317_160/qhPy6_1647487861629qsVPP_JPEG/1647487349855.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
