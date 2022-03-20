@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 09:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 10:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7 날씨] 내일, 춘분…일교차 커요!]]></title>
+            <link>https://tv.naver.com/v/25751555</link>
+            <guid>https://tv.naver.com/v/25751555</guid>
+            <pubDate>Sun, 20 Mar 2022 10:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_31/Tvb0u_1647771511937Aelg3_JPEG/cover_0011232523_001_20220320191801317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경찰, 내일부터 교통사고 보험사기 집중 단속]]></title>
+            <link>https://tv.naver.com/v/25751450</link>
+            <guid>https://tv.naver.com/v/25751450</guid>
+            <pubDate>Sun, 20 Mar 2022 10:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_196/6GFC4_1647771018008nd4Wj_JPEG/cover_0011232522_001_20220320191001268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령 집무실 용산 이전 확정…“국민께 청와대 돌려드리겠다”]]></title>
+            <link>https://tv.naver.com/v/25751442</link>
+            <guid>https://tv.naver.com/v/25751442</guid>
+            <pubDate>Sun, 20 Mar 2022 10:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_143/yzX01_1647770987216d0M8m_JPEG/cover_0011232521_001_20220320190901258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스5 날씨] 내일(춘분) 일교차 커요!]]></title>
             <link>https://tv.naver.com/v/25750094</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 19 Mar 2022 14:20:03 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220319_284/RqXIC_1647696315481txTIi_JPEG/cover_0011232397_001_20220319222501219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종시-고려대 세종캠퍼스, 시민개방 복합운동장 조성 추진]]></title>
-            <link>https://tv.naver.com/v/25742225</link>
-            <guid>https://tv.naver.com/v/25742225</guid>
-            <pubDate>Sat, 19 Mar 2022 13:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_183/HO3l2_1647694595271jJN3h_JPEG/cover_0011232438_001_20220319215616841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충남도의회, 영유아 보육재난지원금 지급 근거 마련]]></title>
-            <link>https://tv.naver.com/v/25742222</link>
-            <guid>https://tv.naver.com/v/25742222</guid>
-            <pubDate>Sat, 19 Mar 2022 13:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_84/2QnKr_1647694584242v9Tc6_JPEG/cover_0011232437_001_20220319215609131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불법 도박사이트 운영 계좌 제공한 30대 징역형 집행유예]]></title>
-            <link>https://tv.naver.com/v/25742221</link>
-            <guid>https://tv.naver.com/v/25742221</guid>
-            <pubDate>Sat, 19 Mar 2022 13:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220319_238/FixAV_1647694575044I2ggf_JPEG/cover_0011232439_001_20220319215601331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
