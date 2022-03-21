@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 04:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 05:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인수위 본격 활동‥집무실 이전 여야 공방]]></title>
+            <link>https://tv.naver.com/v/25763043</link>
+            <guid>https://tv.naver.com/v/25763043</guid>
+            <pubDate>Mon, 21 Mar 2022 05:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_36/Z9VpP_1647839921383fP6Dv_JPEG/cover_cover_14news_20220321_135756_1_2_Large_20220321141805238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 봄 햇살 가득한 춘분‥큰 일교차 유의]]></title>
             <link>https://tv.naver.com/v/25760934</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Mar 2022 23:19:59 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_234/Ad0Oi_1647817151206FcD8w_JPEG/cover_cover_today_20220321_073207_2_21_Large_20220321075844568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 중국, 베이징 접경도시 '랑팡'서 546명 신규 감염]]></title>
-            <link>https://tv.naver.com/v/25756853</link>
-            <guid>https://tv.naver.com/v/25756853</guid>
-            <pubDate>Sun, 20 Mar 2022 23:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_237/e5i9a_1647817129969zvMUm_JPEG/cover_cover_today_20220321_072624_2_20_Large_20220321075836520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
