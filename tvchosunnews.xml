@@ -4,16 +4,24 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 10:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 11:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[3월 21일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25771946</link>
+            <guid>https://tv.naver.com/v/25771946</guid>
+            <pubDate>Mon, 21 Mar 2022 11:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_136/zUxK4_16478611053762cP7s_JPEG/cover_2022032190098_thumb_080513_20220321201101779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["이재명의 길 잇겠다"…염태영 전 수원시장, 경기도지사 출마 선언]]></title>
-            <link>https://tv.naver.com/v/25762144</link>
-            <guid>https://tv.naver.com/v/25762144</guid>
-            <pubDate>Mon, 21 Mar 2022 05:19:46 GMT</pubDate>
+            <link>https://tv.naver.com/v/25771665</link>
+            <guid>https://tv.naver.com/v/25771665</guid>
+            <pubDate>Mon, 21 Mar 2022 11:19:02 GMT</pubDate>
             <content:encoded><![CDATA[12:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_103/PMH2b_1647837407399HEeaz_JPEG/cover_2022032190067_thumb_012513_20220321133101786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_213/B8UKv_1647860836004m8crn_JPEG/cover_2022032190067_thumb_075628_20220321200101819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[尹 당선인, '용산시대' 선언…집무실 앞 시민공원으로]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Mar 2022 12:33:00 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220320_93/DMLkY_16477759319383v0ql_JPEG/cover_2022032090036_thumb_082538_20220320203101770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 "대통령 집무실 용산으로…제왕적 靑 벗어나 국민과 소통"]]></title>
-            <link>https://tv.naver.com/v/25752323</link>
-            <guid>https://tv.naver.com/v/25752323</guid>
-            <pubDate>Sun, 20 Mar 2022 12:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_241/rGXef_1647775636736ecBRq_JPEG/cover_2022032090022_thumb_082459_20220320202601897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
