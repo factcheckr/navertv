@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 05:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 06:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화성 서해안 군사 철조망 올해 상반기 모두 철거]]></title>
+            <link>https://tv.naver.com/v/25763171</link>
+            <guid>https://tv.naver.com/v/25763171</guid>
+            <pubDate>Mon, 21 Mar 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_210/hps3B_1647840262216fBJGQ_JPEG/cover_cover_20220321141903_20_689_1295176_360_7_0_20220321142401295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 3월 21일 낮 12시]]></title>
             <link>https://tv.naver.com/v/25762314</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Mar 2022 12:33:16 GMT</pubDate>
             <content:encoded><![CDATA[1:15:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220320_62/9f2W9_1647778614396V6f2r_JPEG/cover_cover_20220320204426_20_536_1295139_360_7_0_20220320211101257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 20일 MBN 종합뉴스 클로징]]></title>
-            <link>https://tv.naver.com/v/25752486</link>
-            <guid>https://tv.naver.com/v/25752486</guid>
-            <pubDate>Sun, 20 Mar 2022 12:33:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220320_35/2uqir_1647776452568vC61R_JPEG/cover_cover_20220320203715_20_552_1295138_360_7_0_20220320204001254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

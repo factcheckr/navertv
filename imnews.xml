@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 05:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 06:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열흘 만에 20만 명대‥사적모임 8명 확대]]></title>
+            <link>https://tv.naver.com/v/25763894</link>
+            <guid>https://tv.naver.com/v/25763894</guid>
+            <pubDate>Mon, 21 Mar 2022 06:26:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_278/ehr6I_1647842080169OL5iW_JPEG/cover_cover_14news_20220321_144115_1_4_Large_20220321145403899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인수위 본격 활동‥집무실 이전 여야 공방]]></title>
             <link>https://tv.naver.com/v/25763043</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Mar 2022 23:19:59 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_126/kd9kR_1647817159967AOzR5_JPEG/cover_cover_today_20220321_073341_2_22_Large_u_20220321075852691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[재택플러스] '포켓몬빵'은 인질?‥도 넘은 '끼워팔기']]></title>
-            <link>https://tv.naver.com/v/25756854</link>
-            <guid>https://tv.naver.com/v/25756854</guid>
-            <pubDate>Sun, 20 Mar 2022 23:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_234/Ad0Oi_1647817151206FcD8w_JPEG/cover_cover_today_20220321_073207_2_21_Large_20220321075844568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
