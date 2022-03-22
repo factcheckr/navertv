@@ -4,9 +4,33 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 20:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 21:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 오늘 전국 흐리고 포근...큰 일교차, 중서부 미세먼지↑]]></title>
+            <link>https://tv.naver.com/v/25798359</link>
+            <guid>https://tv.naver.com/v/25798359</guid>
+            <pubDate>Tue, 22 Mar 2022 21:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_161/hTv85_1647983023358DR8hq_JPEG/cover_cover_202203230559242917_t_20220323060301930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[앵커리포트] "국가안보 공백 우려" VS "연락사무소 폭파 때도 NSC 안 하더니"]]></title>
+            <link>https://tv.naver.com/v/25798316</link>
+            <guid>https://tv.naver.com/v/25798316</guid>
+            <pubDate>Tue, 22 Mar 2022 21:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_190/fv6Oi_1647981702813zwnD2_JPEG/cover_cover_202203230533168839_t_20220323054101994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[YTN 실시간뉴스] "軍 통수권자 책무 다할 것"..."우회 안 해"]]></title>
+            <link>https://tv.naver.com/v/25798290</link>
+            <guid>https://tv.naver.com/v/25798290</guid>
+            <pubDate>Tue, 22 Mar 2022 21:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_216/24rLi_1647980748383zhGMu_JPEG/cover_cover_202203230519491032_t_20220323052501980.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 오늘 전국 흐리고 곳곳 빗방울...서쪽 초미세먼지 주의]]></title>
             <link>https://tv.naver.com/v/25798276</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 22 Mar 2022 15:23:18 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_152/gJPHn_1647962537721Y57oc_JPEG/cover_cover_202203230016317910_t_20220323002102113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박근혜 전 대통령 내일 퇴원...대구 사저에서 대국민 메시지]]></title>
-            <link>https://tv.naver.com/v/25796600</link>
-            <guid>https://tv.naver.com/v/25796600</guid>
-            <pubDate>Tue, 22 Mar 2022 15:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_72/jQumE_1647962385614P8xBb_JPEG/cover_cover_202203230014254941_t_20220323001901954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나이트포커스] 이슈 블랙홀 된 '집무실 이전' 논란]]></title>
-            <link>https://tv.naver.com/v/25796387</link>
-            <guid>https://tv.naver.com/v/25796387</guid>
-            <pubDate>Tue, 22 Mar 2022 15:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[40:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_143/Uk7uo_1647961420920UB2eq_JPEG/cover_cover_202203222306585524_t_20220323000102509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자막뉴스] "올 것이 온 셈"...일본도 '역풍' 시작됐다]]></title>
-            <link>https://tv.naver.com/v/25796217</link>
-            <guid>https://tv.naver.com/v/25796217</guid>
-            <pubDate>Tue, 22 Mar 2022 15:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_230/spdRh_1647960712397yYLx7_JPEG/cover_cover_202203222334000291_t_20220322235102352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

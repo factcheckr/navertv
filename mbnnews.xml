@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 20:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 21:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[202회_코로나19 유행 진단과 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/25798376</link>
+            <guid>https://tv.naver.com/v/25798376</guid>
+            <pubDate>Tue, 22 Mar 2022 21:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[14:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_168/0z05z_1647983746872Bd38Y_JPEG/cover_cover_20220323060149_20_849_1295304_360_7_0_20220323061001330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]성큼 다가온 봄의 정령…중서부 탁한 공기에 내일 곳곳 빗방울]]></title>
             <link>https://tv.naver.com/v/25793545</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Mar 2022 11:18:46 GMT</pubDate>
             <content:encoded><![CDATA[19:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_273/SlNUC_1647943915422qfkVv_JPEG/cover_cover_20220322185228_20_673_1295267_360_7_0_20220322190501249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-국방부 벙커 위치 손짓, 군사기밀 누설?…윤석열 측 "동의 안 해"]]></title>
-            <link>https://tv.naver.com/v/25790993</link>
-            <guid>https://tv.naver.com/v/25790993</guid>
-            <pubDate>Tue, 22 Mar 2022 11:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[4:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_60/2Fl2x_1647943368860yyNkX_JPEG/cover_cover_20220322184920_20_673_1295266_360_7_0_20220322190101245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
