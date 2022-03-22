@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 01:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 02:55:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] ‘코로나19’ 중앙재난안전대책본부 브리핑]]></title>
+            <link>https://tv.naver.com/v/25780840</link>
+            <guid>https://tv.naver.com/v/25780840</guid>
+            <pubDate>Tue, 22 Mar 2022 02:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[8:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_238/TtZhw_16479150879200VBl1_JPEG/3cf33918-a985-11ec-be97-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] "언론인 표적 공격, 우크라 침공은 금지어"‥국경없는 기자회 인터뷰]]></title>
             <link>https://tv.naver.com/v/25779773</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Mar 2022 23:20:52 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_63/9joqm_1647903789578jaXoq_JPEG/cover_cover_today_20220322_065644_2_14_Large_20220322080250915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] "교도관 옷 입고 유유히"‥교도소 탈옥한 마약 두목]]></title>
-            <link>https://tv.naver.com/v/25778393</link>
-            <guid>https://tv.naver.com/v/25778393</guid>
-            <pubDate>Mon, 21 Mar 2022 23:20:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_212/KyA0A_1647903775084Vt4KN_JPEG/cover_cover_today_20220322_065644_2_13_Large_20220322080242838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
