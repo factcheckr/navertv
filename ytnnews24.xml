@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 18:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 19:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민간인 희생 950명 넘어...UN "무의미한 전쟁 멈춰야"]]></title>
+            <link>https://tv.naver.com/v/25797976</link>
+            <guid>https://tv.naver.com/v/25797976</guid>
+            <pubDate>Tue, 22 Mar 2022 19:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_12/tRriy_1647973807556s6E6y_JPEG/cover_cover_202203230324095985_t_20220323032901917.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 바이든 "푸틴이 곧 생화학무기 사용 고려...명확한 징후"]]></title>
             <link>https://tv.naver.com/v/25797843</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Mar 2022 15:23:19 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_122/i2NHs_1647958880607LysvK_JPEG/cover_cover_202203222317384889_t_20220322232102002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 정책 논의 덮어버린 '집무실 이전' 논란]]></title>
-            <link>https://tv.naver.com/v/25794889</link>
-            <guid>https://tv.naver.com/v/25794889</guid>
-            <pubDate>Tue, 22 Mar 2022 14:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_217/FXyJV_1647955777232PyDSp_JPEG/cover_cover_202203222226582154_t_20220322222911105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
