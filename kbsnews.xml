@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 13:29:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 14:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사기획 창] 석좌교수, 자격을 묻다]]></title>
+            <link>https://tv.naver.com/v/25795349</link>
+            <guid>https://tv.naver.com/v/25795349</guid>
+            <pubDate>Tue, 22 Mar 2022 14:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[47:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_262/VP9SQ_1647957634175ir3Uf_JPEG/cover_0011234070_001_20220322225801268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“불소 기준치 9배 초과”…오염토양 대량 반출 LH 고발]]></title>
+            <link>https://tv.naver.com/v/25795018</link>
+            <guid>https://tv.naver.com/v/25795018</guid>
+            <pubDate>Tue, 22 Mar 2022 14:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_297/LAJGC_1647956288295jPBqX_JPEG/cover_0011233971_001_20220322223701236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스9 헤드라인]]]></title>
             <link>https://tv.naver.com/v/25794835</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 22 Mar 2022 13:27:36 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220322_233/xjvjP_1647955299881rGjxu_JPEG/cover_0011234067_001_20220322222117099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘형제 3명 중·사상’ 30대 용의자 숨진 채 발견]]></title>
-            <link>https://tv.naver.com/v/25794700</link>
-            <guid>https://tv.naver.com/v/25794700</guid>
-            <pubDate>Tue, 22 Mar 2022 13:27:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_182/Q2jzC_16479552850946Mk7q_JPEG/cover_0011234066_001_20220322222109541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“낙동강 하류 재배 농산물도 녹조 독성 검출”]]></title>
-            <link>https://tv.naver.com/v/25794696</link>
-            <guid>https://tv.naver.com/v/25794696</guid>
-            <pubDate>Tue, 22 Mar 2022 13:27:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_188/91bFD_1647955277148xdm5z_JPEG/cover_0011234065_001_20220322222101597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
