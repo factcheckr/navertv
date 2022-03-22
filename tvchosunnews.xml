@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 10:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 11:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 22일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25792075</link>
+            <guid>https://tv.naver.com/v/25792075</guid>
+            <pubDate>Tue, 22 Mar 2022 11:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220322_56/hsQan_1647946903296cpJSL_JPEG/cover_2022032290078_thumb_075805_20220322200101825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아세안-인도 전기차 '각축장'…인센티브에 현대차·미쓰비시 잇따라 투자]]></title>
             <link>https://tv.naver.com/v/25783798</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Mar 2022 13:28:11 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220321_44/Tf7IJ_1647867439162oSbLz_JPEG/cover_2022032190147_thumb_095119_20220321215608481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[中광시자치구서 132명 태운 동방항공 여객기 산으로 추락]]></title>
-            <link>https://tv.naver.com/v/25774095</link>
-            <guid>https://tv.naver.com/v/25774095</guid>
-            <pubDate>Mon, 21 Mar 2022 13:28:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220321_265/aPRjd_16478674151901CTRq_JPEG/cover_2022032190145_thumb_095040_20220321215602066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
