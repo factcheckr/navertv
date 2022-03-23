@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 01:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 02:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] ‘코로나19’ 중앙재난안전대책본부 브리핑]]></title>
+            <link>https://tv.naver.com/v/25801638</link>
+            <guid>https://tv.naver.com/v/25801638</guid>
+            <pubDate>Wed, 23 Mar 2022 02:57:47 GMT</pubDate>
+            <content:encoded><![CDATA[8:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_164/qO4ej_1648001489037btp3Y_JPEG/68e98d08-aa4e-11ec-bc9a-505dac8c381b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 위중증 1천84명‥신규 확진 49만 881명]]></title>
             <link>https://tv.naver.com/v/25799842</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Mar 2022 23:21:18 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_289/2wpeT_1647989644004fT3W1_JPEG/cover_cover_today_20220323_065327_2_14_Large_20220323075346013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] '푸틴 소유 정황'‥8천 억 상당 요트 압류 위기]]></title>
-            <link>https://tv.naver.com/v/25798821</link>
-            <guid>https://tv.naver.com/v/25798821</guid>
-            <pubDate>Tue, 22 Mar 2022 23:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_293/QHFNO_1647989632680kEmRM_JPEG/cover_cover_today_20220323_065245_2_13_Large_20220323075337734.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
