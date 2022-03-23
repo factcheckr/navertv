@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:35:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 3월 23일 낮 12시]]></title>
+            <link>https://tv.naver.com/v/25802917</link>
+            <guid>https://tv.naver.com/v/25802917</guid>
+            <pubDate>Wed, 23 Mar 2022 03:35:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_129/mHLii_1648005466275b9ek9_JPEG/cover_cover_20220323121037_20_845_1295340_360_7_0_20220323121701251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신문브리핑 4 "박근혜 내일 달성 사저로…주민 "이제 이웃사촌, 반갑게 맞을 것"" 외 주요기사]]></title>
             <link>https://tv.naver.com/v/25802035</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Mar 2022 23:22:23 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_6/2aoK8_16479880984806wg8C_JPEG/cover_cover_20220323072312_20_605_1295306_360_7_0_20220323072701232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[202회_코로나19 유행 진단과 방역 수칙]]></title>
-            <link>https://tv.naver.com/v/25798376</link>
-            <guid>https://tv.naver.com/v/25798376</guid>
-            <pubDate>Tue, 22 Mar 2022 21:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[14:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_168/0z05z_1647983746872Bd38Y_JPEG/cover_cover_20220323060149_20_849_1295304_360_7_0_20220323061001330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
