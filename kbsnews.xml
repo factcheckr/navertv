@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 06:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 07:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[합참 “북한, 장거리 탄도미사일 1발 고각발사한 듯”]]></title>
+            <link>https://tv.naver.com/v/25830036</link>
+            <guid>https://tv.naver.com/v/25830036</guid>
+            <pubDate>Thu, 24 Mar 2022 07:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_153/USMoe_1648105738494Ki3Rc_JPEG/cover_0011235378_001_20220324160801247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박근혜 전 대통령 대구 달성군 사저 입주 “대한민국 발전에 힘 보탤 것”]]></title>
             <link>https://tv.naver.com/v/25828545</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 04:27:35 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_73/QJaYk_1648093176791XL61c_JPEG/cover_0011235303_001_20220324123901228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재산은닉 지능적 고액체납자 580여 명 추적]]></title>
-            <link>https://tv.naver.com/v/25825289</link>
-            <guid>https://tv.naver.com/v/25825289</guid>
-            <pubDate>Thu, 24 Mar 2022 04:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_246/ToUe2_16480928841257nWt7_JPEG/cover_0011235302_001_20220324123401294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
