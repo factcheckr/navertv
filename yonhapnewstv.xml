@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-03-24T01:37:30.664Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 24 Mar 2022 02:52:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 당선인, 한은총재 인사 비판…"바람직하지 않아"]]></title>
+            <link>https://tv.naver.com/v/25824423</link>
+            <guid>https://tv.naver.com/v/25824423</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_261/V79AG_1648089754832njxq3_JPEG/cover_cover_MYH20220324007400641_20220324114102253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 한낮 기온 쑥쑥 올라…동쪽 대기질 나쁨]]></title>
+            <link>https://tv.naver.com/v/25824312</link>
+            <guid>https://tv.naver.com/v/25824312</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_54/36Z6q_1648089394158OLV3V_JPEG/cover_cover_MYH20220324007600038_20220324113603186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미, 연일 중국 압박…"수출통제 어기면 문 닫을 것"]]></title>
+            <link>https://tv.naver.com/v/25824260</link>
+            <guid>https://tv.naver.com/v/25824260</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_257/muUjV_1648089241037mzgpb_JPEG/cover_cover_MYH20220324007100038_20220324113302168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 코로나 사망자 470명 최다…신규확진 40만명 육박]]></title>
+            <link>https://tv.naver.com/v/25824206</link>
+            <guid>https://tv.naver.com/v/25824206</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[19:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_181/6GPGU_1648089495353zbDOp_JPEG/cover_cover_MYH20220324006900038_20220324113003200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 문대통령 "회동에 협상 필요없어…당선인이 직접 판단해달라"]]></title>
+            <link>https://tv.naver.com/v/25824039</link>
+            <guid>https://tv.naver.com/v/25824039</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_148/KHkFe_1648088426313hvwXP_JPEG/cover_cover_MYH20220324006700038_20220324112002820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 문대통령 "윤당선인, 청와대 회동 직접 판단해야"]]></title>
+            <link>https://tv.naver.com/v/25823860</link>
+            <guid>https://tv.naver.com/v/25823860</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_75/rOMB4_1648087819973mGr2W_JPEG/cover_cover_MYH20220324006500038_20220324111002978.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 사망자 470명 최다…신규확진 40만명 육박]]></title>
+            <link>https://tv.naver.com/v/25823662</link>
+            <guid>https://tv.naver.com/v/25823662</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_124/drOxx_1648087263093eWlzx_JPEG/cover_cover_MYH20220324006400038_20220324110002934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 윤 당선인, 문대통령 이창용 한은 총재 지명 비판]]></title>
+            <link>https://tv.naver.com/v/25823244</link>
+            <guid>https://tv.naver.com/v/25823244</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_213/ROuDm_1648085961257e0ekd_JPEG/cover_cover_MYH20220324006300038_20220324103902371.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 윤 당선인 "박근혜 전 대통령 곧 찾아뵐 계획"]]></title>
+            <link>https://tv.naver.com/v/25823030</link>
+            <guid>https://tv.naver.com/v/25823030</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_53/Ysngb_1648085235981ctMTU_JPEG/cover_cover_MYH20220324006100038_20220324102703023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] 코로나19만 아니었다면…60회 맞았을 진해 군항제]]></title>
+            <link>https://tv.naver.com/v/25822933</link>
+            <guid>https://tv.naver.com/v/25822933</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_74/Y8JuH_1648084932989QU0B1_JPEG/cover_cover_MYH20220324005800640_20220324102102568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[녹취구성] 인수위, 법무부 업무보고 유예…"박범계 무례"]]></title>
+            <link>https://tv.naver.com/v/25822884</link>
+            <guid>https://tv.naver.com/v/25822884</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_183/rrXcD_1648084773726osl5n_JPEG/cover_cover_MYH20220324005900038_20220324101803141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 尹당선인측 "시진핑 주석과 통화, 이번주 내 이뤄질 것"]]></title>
+            <link>https://tv.naver.com/v/25822640</link>
+            <guid>https://tv.naver.com/v/25822640</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[15:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_58/5fOcf_1648084174763ofSPB_JPEG/cover_cover_MYH20220324005500038_20220324100302318.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박근혜 전 대통령 퇴원…"국민 염려 덕에 회복"]]></title>
+            <link>https://tv.naver.com/v/25822542</link>
+            <guid>https://tv.naver.com/v/25822542</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_77/U9eWk_1648083499278p1nLK_JPEG/cover_cover_MYH20220324005700641_20220324095702601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 한낮 봄기운 물씬…내일 밤 전국 많고 강한 비]]></title>
+            <link>https://tv.naver.com/v/25822282</link>
+            <guid>https://tv.naver.com/v/25822282</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_251/TxzHf_1648082319466dPYM1_JPEG/cover_cover_MYH20220324005400038_20220324093802891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 인수위, 법무부 업무보고 전격 유예]]></title>
+            <link>https://tv.naver.com/v/25821987</link>
+            <guid>https://tv.naver.com/v/25821987</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_290/s7ZZH_16480805688228jQHH_JPEG/cover_cover_MYH20220324005200038_20220324090902254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미, 러시아 '전쟁 범죄' 결론…"책임 물을 것"]]></title>
+            <link>https://tv.naver.com/v/25821878</link>
+            <guid>https://tv.naver.com/v/25821878</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_9/fEI4i_16480797139807nGc8_JPEG/cover_cover_MYH20220324005000641_20220324085403304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 박근혜 전 대통령 퇴원 "국민 염려 덕분에 건강 많이 회복"]]></title>
+            <link>https://tv.naver.com/v/25821793</link>
+            <guid>https://tv.naver.com/v/25821793</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_11/52uXc_1648079188137Paj0h_JPEG/cover_cover_MYH20220324004700038_20220324084502613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[출근길 인터뷰] 세계가 주목하는 전통한지…유네스코 등재 추진]]></title>
+            <link>https://tv.naver.com/v/25821685</link>
+            <guid>https://tv.naver.com/v/25821685</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_227/CX9BJ_1648078292168iNI1T_JPEG/cover_cover_MYH20220324004600038_20220324082902789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 낮동안 온화해…내일 밤부터 전국 비]]></title>
+            <link>https://tv.naver.com/v/25821589</link>
+            <guid>https://tv.naver.com/v/25821589</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_50/qlYhz_1648077473944U4wKQ_JPEG/cover_cover_MYH20220324004300038_20220324081702708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어젯밤 9시까지 38만여명 확진…오늘 40만명 안팎 전망]]></title>
+            <link>https://tv.naver.com/v/25821585</link>
+            <guid>https://tv.naver.com/v/25821585</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_38/3NyqS_164807738014078lzr_JPEG/cover_cover_MYH20220324004200038_20220324081603042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[핫클릭] LG유플러스 팀장급 직원 수십억원 횡령 뒤 잠적 外]]></title>
+            <link>https://tv.naver.com/v/25821555</link>
+            <guid>https://tv.naver.com/v/25821555</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_29/OXrdi_1648077069722C5ek7_JPEG/cover_cover_MYH20220324004100038_20220324081003297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박근혜 전 대통령 오늘 퇴원…현충원 거쳐 대구 사저로]]></title>
+            <link>https://tv.naver.com/v/25821539</link>
+            <guid>https://tv.naver.com/v/25821539</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_25/gBUNd_1648076929055Rrp7s_JPEG/cover_cover_MYH20220324004000641_20220324080802886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한밤중 아파트에서 불…1명 화상·9명 연기 흡입]]></title>
+            <link>https://tv.naver.com/v/25821503</link>
+            <guid>https://tv.naver.com/v/25821503</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_51/nSnHR_16480767279000wl95_JPEG/cover_cover_MYH20220324003900038_20220324080502549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포츠영상] 봄 배구 확정하는 우리카드 나경복의 스파이크]]></title>
+            <link>https://tv.naver.com/v/25821390</link>
+            <guid>https://tv.naver.com/v/25821390</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_225/nlJUm_1648075769099YbKyC_JPEG/cover_cover_MYH20220324003700038_20220324074609275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩 주가 역대 최고…안철수 지분 가치 3,270억]]></title>
+            <link>https://tv.naver.com/v/25821387</link>
+            <guid>https://tv.naver.com/v/25821387</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_269/WIkU5_1648075582144NnL1M_JPEG/cover_cover_MYH20220324003600038_20220324074602554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 '검찰총장 직무정지 취소소송' 내달 2심 시작]]></title>
+            <link>https://tv.naver.com/v/25821372</link>
+            <guid>https://tv.naver.com/v/25821372</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_277/rubNX_1648075476135H9jLD_JPEG/cover_cover_MYH20220324003500038_20220324074409706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인구 907만명 중국 선양시 코로나로 봉쇄 조치…외출 금지]]></title>
+            <link>https://tv.naver.com/v/25821370</link>
+            <guid>https://tv.naver.com/v/25821370</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_60/fmhPA_1648075471598qnQYT_JPEG/cover_cover_MYH20220324003400038_20220324074403014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19만 아니었다면…60회 맞았을 진해 군항제]]></title>
+            <link>https://tv.naver.com/v/25821364</link>
+            <guid>https://tv.naver.com/v/25821364</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_200/SVkhn_1648075387603I2g77_JPEG/cover_cover_MYH20220324003300641_20220324074202482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 3월 24일 라이브투데이 1부]]></title>
+            <link>https://tv.naver.com/v/25821355</link>
+            <guid>https://tv.naver.com/v/25821355</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_208/faYBp_1648075229216R251c_JPEG/cover_cover_MYH20220324003200038_20220324074002347.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸틴 "유럽에 러시아산 가스 팔 때 루블화로만 결제"]]></title>
+            <link>https://tv.naver.com/v/25821348</link>
+            <guid>https://tv.naver.com/v/25821348</guid>
+            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_179/jD6wI_1648075159275dX9Xh_JPEG/cover_cover_MYH20220324003100038_20220324073902048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
