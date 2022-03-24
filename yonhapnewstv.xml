@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 3월 24일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/25825072</link>
+            <guid>https://tv.naver.com/v/25825072</guid>
+            <pubDate>Thu, 24 Mar 2022 03:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_268/NlqxE_1648091908123344Dl_JPEG/cover_cover_MYH20220324008500038_20220324121802829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 한은 총재 지명 '진실공방'…퇴원 박 전 대통령 '대구사저'행]]></title>
+            <link>https://tv.naver.com/v/25824678</link>
+            <guid>https://tv.naver.com/v/25824678</guid>
+            <pubDate>Thu, 24 Mar 2022 03:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[44:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_51/LexDA_1648090642916mNFc5_JPEG/cover_cover_MYH20220324008100038_20220324115402885.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 당선인, 한은총재 인사 비판…"바람직하지 않아"]]></title>
             <link>https://tv.naver.com/v/25824423</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_200/SVkhn_1648075387603I2g77_JPEG/cover_cover_MYH20220324003300641_20220324074202482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이시각헤드라인] 3월 24일 라이브투데이 1부]]></title>
-            <link>https://tv.naver.com/v/25821355</link>
-            <guid>https://tv.naver.com/v/25821355</guid>
-            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_208/faYBp_1648075229216R251c_JPEG/cover_cover_MYH20220324003200038_20220324074002347.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸틴 "유럽에 러시아산 가스 팔 때 루블화로만 결제"]]></title>
-            <link>https://tv.naver.com/v/25821348</link>
-            <guid>https://tv.naver.com/v/25821348</guid>
-            <pubDate>Thu, 24 Mar 2022 02:51:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_179/jD6wI_1648075159275dX9Xh_JPEG/cover_cover_MYH20220324003100038_20220324073902048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 02:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 03:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[朴 전 대통령, 대구 사저 도착…지지자들 환영 인파]]></title>
+            <link>https://tv.naver.com/v/25825086</link>
+            <guid>https://tv.naver.com/v/25825086</guid>
+            <pubDate>Thu, 24 Mar 2022 03:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_157/JP83T_1648092027974tYptm_JPEG/cover_0000224317_001_20220324121901781.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라, 수도 방위 거점 탈환…러軍 집단 이탈도]]></title>
             <link>https://tv.naver.com/v/25823537</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Mar 2022 11:16:51 GMT</pubDate>
             <content:encoded><![CDATA[5:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_62/IPZaw_1648032647956FcKDn_JPEG/cover_0000224277_001_20220323194801899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 당선인, 朴 사저 방문?…만남 성사될지 주목]]></title>
-            <link>https://tv.naver.com/v/25813605</link>
-            <guid>https://tv.naver.com/v/25813605</guid>
-            <pubDate>Wed, 23 Mar 2022 11:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_286/UVYcz_1648032540276sgeHS_JPEG/cover_0000224278_001_20220323194655041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
