@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 03:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 04:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] '서울 19도' 낮 동안 포근…밤부터 전국에 비]]></title>
+            <link>https://tv.naver.com/v/25847949</link>
+            <guid>https://tv.naver.com/v/25847949</guid>
+            <pubDate>Fri, 25 Mar 2022 04:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_244/Ai24M_16481805869919pdJv_JPEG/cover_0000962461_001_20220325125601246.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문화현장] '비운의 천재 조각가' 권진규 탄생 100주년 기념 전시회]]></title>
+            <link>https://tv.naver.com/v/25847817</link>
+            <guid>https://tv.naver.com/v/25847817</guid>
+            <pubDate>Fri, 25 Mar 2022 04:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_132/qpOD0_16481801542304dKjU_JPEG/cover_0000962460_001_20220325124801245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리나라 가계 · 기업 빚, 경제규모 2.2배…사상 최고치]]></title>
+            <link>https://tv.naver.com/v/25847761</link>
+            <guid>https://tv.naver.com/v/25847761</guid>
+            <pubDate>Fri, 25 Mar 2022 04:27:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_76/4o43x_1648179990970HEXH9_JPEG/cover_0000962459_001_20220325124501210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북 "화성 17형 발사"…군, 다른 기종 가능성 추가 분석]]></title>
             <link>https://tv.naver.com/v/25847341</link>
@@ -14,14 +38,6 @@
             <pubDate>Fri, 25 Mar 2022 03:25:37 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_1/WKfeB_16481785760271XqOx_JPEG/cover_0000962455_001_20220325122201251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/25847245</link>
-            <guid>https://tv.naver.com/v/25847245</guid>
-            <pubDate>Fri, 25 Mar 2022 03:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_229/49JBP_16481783169897wn2L_JPEG/cover_0000962454_001_20220325121801193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엉문현답] 백신은 꼭 주사로만 맞을 수 있나요?]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 23:21:46 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_183/fDkki_1648162256126UvUCi_JPEG/cover_0000962375_001_20220325075002653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["키이우 주변 러군 후퇴"…미, 러 화학무기 사용 경고]]></title>
-            <link>https://tv.naver.com/v/25843061</link>
-            <guid>https://tv.naver.com/v/25843061</guid>
-            <pubDate>Thu, 24 Mar 2022 23:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_116/1GHzK_1648162205550xRzSl_JPEG/cover_0000962373_001_20220325074901203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 새 원내대표 박홍근 "정치보복 맞서겠다"]]></title>
-            <link>https://tv.naver.com/v/25843033</link>
-            <guid>https://tv.naver.com/v/25843033</guid>
-            <pubDate>Thu, 24 Mar 2022 23:21:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_292/zZGtR_1648162028781JVrhx_JPEG/cover_0000962372_001_20220325074601233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
