@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 07:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 08:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 3월 25일 금요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/25854800</link>
+            <guid>https://tv.naver.com/v/25854800</guid>
+            <pubDate>Fri, 25 Mar 2022 08:26:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_267/xGahG_1648195952949zkQ41_JPEG/cover_cover_20220325170901_20_812_1295500_360_7_0_20220325171201281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[6·1 지선-대구] 홍준표, 대구시장 출마…국민의힘 줄줄이 지방선거 출사표]]></title>
             <link>https://tv.naver.com/v/25850727</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 22:22:57 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_228/Vdwf7_16481603359796fiEM_JPEG/cover_cover_20220325071132_20_605_1295466_360_7_0_20220325071801979.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[203회_봄철 기상 전망과 산불 예방 요령]]></title>
-            <link>https://tv.naver.com/v/25842636</link>
-            <guid>https://tv.naver.com/v/25842636</guid>
-            <pubDate>Thu, 24 Mar 2022 21:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[15:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_60/nxfN6_1648156460931t7PRT_JPEG/cover_cover_20220325060155_20_849_1295465_360_7_0_20220325060801264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
