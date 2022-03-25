@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 01:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:49:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] ‘코로나19’ 중앙재난안전대책본부 브리핑]]></title>
+            <link>https://tv.naver.com/v/25845754</link>
+            <guid>https://tv.naver.com/v/25845754</guid>
+            <pubDate>Fri, 25 Mar 2022 02:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[8:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_104/FaZHy_1648174287221qhCqL_JPEG/bdee7cd4-abe0-11ec-9e39-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 위중증 1천85명‥신규 확진 33만 9천514명]]></title>
             <link>https://tv.naver.com/v/25844212</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 22:21:54 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_130/HkPyN_1648159600808JoqUP_JPEG/cover_cover_today_20220325_060548_1_3_Large_20220325070602509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펀드 부실 판매했지만‥국민연금 "함영주 찬성"]]></title>
-            <link>https://tv.naver.com/v/25842824</link>
-            <guid>https://tv.naver.com/v/25842824</guid>
-            <pubDate>Thu, 24 Mar 2022 22:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_34/T9InE_1648159311990lwFJr_JPEG/cover_cover_today_20220325_065236_2_11_Large_20220325070109778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
