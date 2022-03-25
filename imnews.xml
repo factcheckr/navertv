@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 09:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 10:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 있었는데 없어졌다? 사라진 정상석 미스터리]]></title>
+            <link>https://tv.naver.com/v/25856881</link>
+            <guid>https://tv.naver.com/v/25856881</guid>
+            <pubDate>Fri, 25 Mar 2022 10:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_74/CGV5V_1648200819796EPwWK_JPEG/cover_cover_220325_surak_640xxx_20220325183203087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 비 차츰 확대‥밤사이 전국 많은 비]]></title>
             <link>https://tv.naver.com/v/25854773</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 03:25:27 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_188/T1DZd_1648178444181Ec0Q6_JPEG/cover_cover_noon_20220325_121447_1_4_Large_20220325122010671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美, ICBM 확인 1시간 만에 대북 추가 제재]]></title>
-            <link>https://tv.naver.com/v/25847296</link>
-            <guid>https://tv.naver.com/v/25847296</guid>
-            <pubDate>Fri, 25 Mar 2022 03:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_297/dpdQC_16481784175997UXqo_JPEG/cover_cover_noon_20220325_121326_1_3_Large_20220325122003256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
