@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 10:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 11:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 25일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25858424</link>
+            <guid>https://tv.naver.com/v/25858424</guid>
+            <pubDate>Fri, 25 Mar 2022 11:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_278/xwdk8_1648205506170sBNio_JPEG/cover_2022032590067_thumb_074815_20220325195101828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 檢, '조국 셀프방어' 논란 공보준칙 바꾸겠다고 보고]]></title>
             <link>https://tv.naver.com/v/25845267</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 13:29:07 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_250/tRdlR_1648126038507oOfsR_JPEG/cover_2022032490119_thumb_094220_20220324214615271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이재명계' 박홍근, 與 새 원내대표로…친문주류 교체 '신호탄']]></title>
-            <link>https://tv.naver.com/v/25837738</link>
-            <guid>https://tv.naver.com/v/25837738</guid>
-            <pubDate>Thu, 24 Mar 2022 13:29:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_58/ZiJZi_1648126040665OYq3s_JPEG/cover_2022032490127_thumb_094438_20220324214608334.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
