@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 04:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 日, '北 ICBM 추정 물체' 낙하 장면 공개]]></title>
+            <link>https://tv.naver.com/v/25849210</link>
+            <guid>https://tv.naver.com/v/25849210</guid>
+            <pubDate>Fri, 25 Mar 2022 05:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_262/p3LZw_16481844781960enFy_JPEG/cover_0000293619_001_20220325140102314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤여정 시상자로 서는 '아카데미 시상식' 후보작 2편｜아침& 라이프]]></title>
             <link>https://tv.naver.com/v/25846232</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 13:28:36 GMT</pubDate>
             <content:encoded><![CDATA[2:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220324_195/wUYns_1648128359461sLQAQ_JPEG/cover_0000293562_001_20220324222501846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['전쟁 범죄' 낙인찍힌 푸틴…"국제재판소 세워야" 압박]]></title>
-            <link>https://tv.naver.com/v/25838674</link>
-            <guid>https://tv.naver.com/v/25838674</guid>
-            <pubDate>Thu, 24 Mar 2022 13:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220324_217/YovgW_1648128279828eJHst_JPEG/cover_0000293561_001_20220324222401778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
