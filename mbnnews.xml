@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 04:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 05:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 3월 25일 낮 12시]]></title>
+            <link>https://tv.naver.com/v/25867390</link>
+            <guid>https://tv.naver.com/v/25867390</guid>
+            <pubDate>Sat, 26 Mar 2022 05:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_124/bOrpl_1648271567721qJiX8_JPEG/cover_cover_20220325121920_20_845_1295498_360_7_0_20220326141201233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신문브리핑2"협치 표류기 된 정권 이양기…들리나요, 안보와 민생의 'SOS'"외주요기사]]></title>
             <link>https://tv.naver.com/v/25866138</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 13:07:05 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_149/OJ26S_16482086684691jVto_JPEG/cover_cover_20220325203648_20_552_1295526_360_7_0_20220325204201241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잇단 지하철 시위로 출근길 혼잡·지각 '속출']]></title>
-            <link>https://tv.naver.com/v/25859293</link>
-            <guid>https://tv.naver.com/v/25859293</guid>
-            <pubDate>Fri, 25 Mar 2022 13:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_288/BMcqV_1648208353442cEyYD_JPEG/cover_cover_20220325203246_20_552_1295525_360_7_0_20220325203801249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
