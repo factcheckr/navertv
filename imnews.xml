@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 06:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 07:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now_영상] 필리핀 '탈 화산' 또 분출‥"쓰나미 우려"]]></title>
+            <link>https://tv.naver.com/v/25868673</link>
+            <guid>https://tv.naver.com/v/25868673</guid>
+            <pubDate>Sat, 26 Mar 2022 07:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_99/Tayjj_16482778447434rTHI_JPEG/cover_cover_k220326-11_20220326155702489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["다시 만날 때까지 살아 남았으면"‥키이우로의 전화]]></title>
             <link>https://tv.naver.com/v/25868172</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 13:05:57 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_107/YX40k_1648208328874tr2Gz_JPEG/cover_cover_desk_20220325_202521_1_18_Large_20220325203803324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비판 속에도 회장 선임… 견제는 없는 금융권력?]]></title>
-            <link>https://tv.naver.com/v/25859273</link>
-            <guid>https://tv.naver.com/v/25859273</guid>
-            <pubDate>Fri, 25 Mar 2022 13:05:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_291/C0yUY_1648208276139qxfCb_JPEG/cover_cover_desk_20220325_203343_1_21_Large_20220325203702551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
