@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 01:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 02:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스브스뉴스] 쓰레기를 햇빛에 말리라고?; 착색된 플라스틱 1분 만에 닦아내기]]></title>
+            <link>https://tv.naver.com/v/25865513</link>
+            <guid>https://tv.naver.com/v/25865513</guid>
+            <pubDate>Sat, 26 Mar 2022 02:49:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_156/9x6tS_1648261318157HwCMo_JPEG/cover_0000962641_001_20220326111901209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스토리] 추천 알고리즘의 두 얼굴]]></title>
             <link>https://tv.naver.com/v/25864675</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Mar 2022 13:06:08 GMT</pubDate>
             <content:encoded><![CDATA[2:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220325_133/DT927_1648212651204T50Ef_JPEG/cover_0000962573_001_20220325214936344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] "러시아군, '쇳조각 폭탄'으로 민간 무차별 공격"]]></title>
-            <link>https://tv.naver.com/v/25860611</link>
-            <guid>https://tv.naver.com/v/25860611</guid>
-            <pubDate>Fri, 25 Mar 2022 13:06:08 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220325_120/PeZtp_1648212729404zXxf7_JPEG/cover_0000962576_001_20220325214925692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
