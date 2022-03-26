@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 20:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 21:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[204회_미세먼지와 황사 대처 요령]]></title>
+            <link>https://tv.naver.com/v/25875602</link>
+            <guid>https://tv.naver.com/v/25875602</guid>
+            <pubDate>Sat, 26 Mar 2022 21:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[14:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220327_53/Xi8z5_16483284050083kYPw_JPEG/cover_cover_20220327054219_20_849_1295587_360_7_0_20220327055401286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[토요오후와이드] 집무실 이전에 인사권 갈등…文-尹 충돌 해법은?]]></title>
             <link>https://tv.naver.com/v/25872444</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Mar 2022 01:26:24 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220326_230/0S5Rr_1648254888667I56Vi_JPEG/cover_cover_20220326092641_20_675_1295552_360_7_0_20220326093401273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['휘발유 보다 비싼 경유'에 화물차 한숨…"달릴수록 적자"]]></title>
-            <link>https://tv.naver.com/v/25864700</link>
-            <guid>https://tv.naver.com/v/25864700</guid>
-            <pubDate>Sat, 26 Mar 2022 01:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_111/mKs8O_1648254531063cNEji_JPEG/cover_cover_20220326092332_20_675_1295551_360_7_0_20220326092801241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
