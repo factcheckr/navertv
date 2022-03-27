@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 21:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 22:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 28일 굿모닝MBN 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/25887598</link>
+            <guid>https://tv.naver.com/v/25887598</guid>
+            <pubDate>Sun, 27 Mar 2022 22:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_181/vvTTn_1648419535731uWWd0_JPEG/cover_cover_20220328071235_20_605_1295626_360_7_0_20220328071801291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[일요오후와이드] 문재인-윤석열, 대선 19일 만에 첫 회동…협치 계기 될까?]]></title>
             <link>https://tv.naver.com/v/25883726</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 27 Mar 2022 01:38:34 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220327_232/xrwYD_1648340905376J28dM_JPEG/cover_cover_20220327092243_20_675_1295594_360_7_0_20220327092801315.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 정점 찍었나…먹는치료제 추가 도입]]></title>
-            <link>https://tv.naver.com/v/25876189</link>
-            <guid>https://tv.naver.com/v/25876189</guid>
-            <pubDate>Sun, 27 Mar 2022 01:38:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220327_95/uTOcB_1648340691326vGgUy_JPEG/cover_cover_20220327091934_20_675_1295593_360_7_0_20220327092401262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
