@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 01:38:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 02:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크랩] 꽃피는 날짜는 누가 어떻게 정하는 걸까?]]></title>
+            <link>https://tv.naver.com/v/25876792</link>
+            <guid>https://tv.naver.com/v/25876792</guid>
+            <pubDate>Sun, 27 Mar 2022 02:48:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220327_151/W2X63_1648346822347UNGUN_JPEG/cover_0011236734_001_20220327110509719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] ‘권력의 상징 공간’ 청와대 영욕의 74년]]></title>
             <link>https://tv.naver.com/v/25876296</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Mar 2022 13:23:16 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220326_74/pdbq6_1648300152416kAtXg_JPEG/cover_0011236613_001_20220326220840687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICBM 띄우기 나선 北…“美 개전의지 꺾는 게 목적”]]></title>
-            <link>https://tv.naver.com/v/25873328</link>
-            <guid>https://tv.naver.com/v/25873328</guid>
-            <pubDate>Sat, 26 Mar 2022 13:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_58/BL3uC_1648300184012UyEhK_JPEG/cover_0011236612_001_20220326220830008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
