@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 06:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 07:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 키워드로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/25896321</link>
+            <guid>https://tv.naver.com/v/25896321</guid>
+            <pubDate>Mon, 28 Mar 2022 07:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[6:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_157/5fQ4g_16484520036113ag8g_JPEG/cover_0011237266_001_20220328161801241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[코로나19-중앙방역대책본부] 지난주 일평균 확진자 약 35만 명…전주 대비 13.2% 감소]]></title>
             <link>https://tv.naver.com/v/25894364</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Mar 2022 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220328_10/AlVq3_1648438918258GkUI6_JPEG/cover_0011237199_001_20220328124110483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계속되는 공습…젤렌스키 “돈바스 문제 타협 원해”]]></title>
-            <link>https://tv.naver.com/v/25891788</link>
-            <guid>https://tv.naver.com/v/25891788</guid>
-            <pubDate>Mon, 28 Mar 2022 04:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_117/qKukq_1648438923229qEbK2_JPEG/cover_0011237198_001_20220328124101232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
