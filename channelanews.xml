@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 03:02:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정은 “우린 강해져야 한다”…추가 도발 시사]]></title>
+            <link>https://tv.naver.com/v/25891440</link>
+            <guid>https://tv.naver.com/v/25891440</guid>
+            <pubDate>Mon, 28 Mar 2022 03:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_119/iMYnM_1648437600678CsFLP_JPEG/cover_0000224495_001_20220328121901751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주당 서울시장 후보 인물난…송영길·임종석 거론]]></title>
             <link>https://tv.naver.com/v/25883704</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Mar 2022 12:33:11 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220326_260/Lz8vG_1648294186547Viqti_JPEG/cover_0000224451_001_20220326202803630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세금 158억 썼는데…임산부 전용몰 농산물 ‘곰팡이투성이’]]></title>
-            <link>https://tv.naver.com/v/25871815</link>
-            <guid>https://tv.naver.com/v/25871815</guid>
-            <pubDate>Sat, 26 Mar 2022 12:33:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220326_277/FsxDh_1648294147442nfF7V_JPEG/cover_0000224450_001_20220326202755074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
