@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 21:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 22:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[205회_코로나19 유행 진단과 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/25928552</link>
+            <guid>https://tv.naver.com/v/25928552</guid>
+            <pubDate>Tue, 29 Mar 2022 22:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[15:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_264/18uaz_1648588822435H5JWA_JPEG/cover_cover_20220330060447_20_849_1295786_360_7_0_20220330061401288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백운기의 뉴스와이드] 이준석 전장연 저격에 당내서도 "우려" / 靑 "김정숙 여사 옷, 사비로 구입"]]></title>
             <link>https://tv.naver.com/v/25924379</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 09:21:33 GMT</pubDate>
             <content:encoded><![CDATA[13:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220329_136/Q9OE0_1648543554980DViV5_JPEG/cover_cover_20220329172921_20_812_1295753_360_7_0_20220329174002554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 프레스룸] 이준석 연일 전장연 저격…왜?]]></title>
-            <link>https://tv.naver.com/v/25920135</link>
-            <guid>https://tv.naver.com/v/25920135</guid>
-            <pubDate>Tue, 29 Mar 2022 09:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[25:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_95/D7GMa_1648543585137oDbp3_JPEG/cover_cover_20220329172431_20_812_1295752_360_7_0_20220329173501277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
