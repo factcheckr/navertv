@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 13:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 14:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 16.7도…내일 오후부터 5mm 비]]></title>
+            <link>https://tv.naver.com/v/25925823</link>
+            <guid>https://tv.naver.com/v/25925823</guid>
+            <pubDate>Tue, 29 Mar 2022 14:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_206/gsXmo_1648562958054FYl5r_JPEG/cover_0011238407_001_20220329230901207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시사기획 창] 은둔형 외톨이는 무엇으로 사는가]]></title>
+            <link>https://tv.naver.com/v/25925707</link>
+            <guid>https://tv.naver.com/v/25925707</guid>
+            <pubDate>Tue, 29 Mar 2022 14:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[47:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_27/2Wb5x_1648562502877gYwpl_JPEG/cover_0011238406_001_20220329225901633.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[전북] 지방선거 출마 선언 정책·공약]]></title>
             <link>https://tv.naver.com/v/25925314</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 13:30:38 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220329_262/0wsQk_1648559612797RK7e3_JPEG/cover_0011238378_001_20220329221318132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미세먼지 불법 배출사업장 적발…점검 강화 필요]]></title>
-            <link>https://tv.naver.com/v/25925158</link>
-            <guid>https://tv.naver.com/v/25925158</guid>
-            <pubDate>Tue, 29 Mar 2022 13:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_34/rcx38_1648559640912fqWUd_JPEG/cover_0011238377_001_20220329221309948.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스9 헤드라인]]]></title>
-            <link>https://tv.naver.com/v/25925154</link>
-            <guid>https://tv.naver.com/v/25925154</guid>
-            <pubDate>Tue, 29 Mar 2022 13:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_12/nkg8h_1648559635432iDP68_JPEG/cover_0011238276_001_20220329221301337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
