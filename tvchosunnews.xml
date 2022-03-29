@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 10:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 11:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 29일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25923022</link>
+            <guid>https://tv.naver.com/v/25923022</guid>
+            <pubDate>Tue, 29 Mar 2022 11:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_238/k8Aul_1648551998024E9Lmb_JPEG/cover_2022032990091_thumb_080251_20220329200601911.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[청주 산부인과 병원서 큰 불…임산부, 신생아 등 16명 부상]]></title>
             <link>https://tv.naver.com/v/25913278</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Mar 2022 13:29:56 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220328_49/HaSjQ_1648473736716Jx7Gm_JPEG/cover_2022032890101_thumb_101938_20220328222109960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[따져보니] 격리 끝나도 '코로나 후유증' 호소…증상과 대책은?]]></title>
-            <link>https://tv.naver.com/v/25904320</link>
-            <guid>https://tv.naver.com/v/25904320</guid>
-            <pubDate>Mon, 28 Mar 2022 13:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220328_224/Pqdyd_1648473738257j7uOn_JPEG/cover_2022032890099_thumb_101910_20220328222101793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
