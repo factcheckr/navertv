@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 19:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 20:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['安 변수' 소멸로 총리 인선 속도…한덕수 유력 검토]]></title>
+            <link>https://tv.naver.com/v/25947534</link>
+            <guid>https://tv.naver.com/v/25947534</guid>
+            <pubDate>Wed, 30 Mar 2022 20:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_163/UZfLB_1648670807946rCo8T_JPEG/cover_cover_MYH20220331000100640_20220331050602254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생활날씨] 내일 비 그친 뒤 쌀쌀…해안가 짙은 안개]]></title>
             <link>https://tv.naver.com/v/25945436</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Mar 2022 11:18:46 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_212/7P7Kj_1648638246006L3KYS_JPEG/cover_cover_MYH20220330020100038_20220330200302860.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야, 추경 필요성 공감…선거법 개정엔 이견]]></title>
-            <link>https://tv.naver.com/v/25942811</link>
-            <guid>https://tv.naver.com/v/25942811</guid>
-            <pubDate>Wed, 30 Mar 2022 11:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_70/AuOMz_16486380229316Pbxn_JPEG/cover_cover_MYH20220330019900641_20220330195902044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
