@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 04:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 05:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규 확진 42만 명대…위중증 1,301명 · 사망 432명]]></title>
+            <link>https://tv.naver.com/v/25934466</link>
+            <guid>https://tv.naver.com/v/25934466</guid>
+            <pubDate>Wed, 30 Mar 2022 05:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_102/sEk9o_1648615956010gUKjT_JPEG/cover_0000963446_001_20220330135101204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[브리핑] 요양 시설 확진 무증상 돌봄 종사자, 격리 기간 3일까지 단축 가능]]></title>
+            <link>https://tv.naver.com/v/25934206</link>
+            <guid>https://tv.naver.com/v/25934206</guid>
+            <pubDate>Wed, 30 Mar 2022 05:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[6:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_137/ACcfa_1648615281113Fq08w_JPEG/cover_0000963462_001_20220330133901217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 오후부터 전국 봄비 확대…비 그친 뒤 다시 '쌀쌀']]></title>
             <link>https://tv.naver.com/v/25933426</link>
@@ -62,14 +78,6 @@
             <pubDate>Wed, 30 Mar 2022 03:36:41 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_137/D09DE_1648610755502PgO1z_JPEG/cover_0000963448_001_20220330122501215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신규 확진 42만 명대…위중증 1,301명 · 사망 432명]]></title>
-            <link>https://tv.naver.com/v/25932752</link>
-            <guid>https://tv.naver.com/v/25932752</guid>
-            <pubDate>Wed, 30 Mar 2022 03:36:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_232/FMSiX_1648610484743y13wU_JPEG/cover_0000963446_001_20220330122001206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 23:21:50 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_74/WAQxX_1648594082708gvrPf_JPEG/cover_0000963373_001_20220330074701233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["평양에 파편 비…폭발 만회하려 15형 발사 후 조작"]]></title>
-            <link>https://tv.naver.com/v/25928959</link>
-            <guid>https://tv.naver.com/v/25928959</guid>
-            <pubDate>Tue, 29 Mar 2022 23:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_98/8eap9_1648593909973FP5s7_JPEG/cover_0000963372_001_20220330074401236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
