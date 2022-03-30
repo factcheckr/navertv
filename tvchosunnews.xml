@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 10:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 11:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 30일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/25942839</link>
+            <guid>https://tv.naver.com/v/25942839</guid>
+            <pubDate>Wed, 30 Mar 2022 11:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_203/Kdx8r_1648638102722agJYd_JPEG/cover_2022033090127_thumb_075547_20220330200101796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안철수 "인수위원장 역할 후 내각 참여 안 해"]]></title>
             <link>https://tv.naver.com/v/25935639</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 13:31:34 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220329_90/h9thC_1648559846335H96Y9_JPEG/cover_2022032990144_thumb_101414_20220329221609304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윌스미스 폭행 규탄하는 할리우드…수상 취소 가능성도 제기]]></title>
-            <link>https://tv.naver.com/v/25925199</link>
-            <guid>https://tv.naver.com/v/25925199</guid>
-            <pubDate>Tue, 29 Mar 2022 13:31:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_66/OesYi_1648559833795wXXIb_JPEG/cover_2022032990142_thumb_101417_20220329221601969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
