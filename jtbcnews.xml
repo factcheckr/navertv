@@ -4,9 +4,25 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 08:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 09:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 지하철 시위 대신 매일 삭발식 "장애인 권리 예산 요구"]]></title>
+            <link>https://tv.naver.com/v/25940264</link>
+            <guid>https://tv.naver.com/v/25940264</guid>
+            <pubDate>Wed, 30 Mar 2022 09:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_88/nHHS4_1648630110955qO7Me_JPEG/cover_0000294122_001_20220330174801900.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3시 썰전라이브] 이재오 "문 대통령이 'MB 사면' 할 가능성 없어…당선인 공약이니 기다리면 돼"]]></title>
+            <link>https://tv.naver.com/v/25939694</link>
+            <guid>https://tv.naver.com/v/25939694</guid>
+            <pubDate>Wed, 30 Mar 2022 09:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[17:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_33/GmMMI_1648629015871lsRYs_JPEG/cover_0000294114_001_20220330172507963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[3시 썰전라이브] 이재오 "문 대통령 임기 내 MB 사면 가능성 없어보여"]]></title>
             <link>https://tv.naver.com/v/25938815</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 13:31:02 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220329_209/1mhe6_1648560428010HMNHP_JPEG/cover_0000294032_001_20220329222601783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생중계 된 '시상식 폭력'…윌스미스 "선 넘었고 잘못했다"]]></title>
-            <link>https://tv.naver.com/v/25925295</link>
-            <guid>https://tv.naver.com/v/25925295</guid>
-            <pubDate>Tue, 29 Mar 2022 13:31:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_170/jpnUX_1648560179712cIxzV_JPEG/cover_0000294030_001_20220329222201778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[속옷 입고 '흉기난동' 남성, 테이저건 한 방에 끝났다]]></title>
-            <link>https://tv.naver.com/v/25925271</link>
-            <guid>https://tv.naver.com/v/25925271</guid>
-            <pubDate>Tue, 29 Mar 2022 13:31:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220329_108/nfCrB_1648560054224lyTLL_JPEG/cover_0000294029_001_20220329222004063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
