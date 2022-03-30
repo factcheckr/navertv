@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 22:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 23:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 문재인 대통령 재산, 임기 후에 얼마나 늘었나?]]></title>
+            <link>https://tv.naver.com/v/25948145</link>
+            <guid>https://tv.naver.com/v/25948145</guid>
+            <pubDate>Wed, 30 Mar 2022 23:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_29/HmwPC_1648681899862ELlwa_JPEG/cover_cover_202203310807302966_t_20220331081102607.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 드디어 만난 중국-러시아...보란 듯이 '협력 강화']]></title>
             <link>https://tv.naver.com/v/25947873</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Mar 2022 18:26:49 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_132/V7jvm_1648663639261eEl7a_JPEG/cover_cover_202203310303565239_t_20220331030701977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 친일파라 부르지도 못하고...슬그머니 교체한 안내판]]></title>
-            <link>https://tv.naver.com/v/25947307</link>
-            <guid>https://tv.naver.com/v/25947307</guid>
-            <pubDate>Wed, 30 Mar 2022 18:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_218/amTEc_1648661169080vJSNP_JPEG/cover_cover_202203310219277295_t_20220331022503333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
