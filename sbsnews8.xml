@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 05:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 06:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상토크] 제주소년의 국가대표 도전기]]></title>
+            <link>https://tv.naver.com/v/25936535</link>
+            <guid>https://tv.naver.com/v/25936535</guid>
+            <pubDate>Wed, 30 Mar 2022 06:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_82/xUsJP_1648621438288NPQKR_JPEG/cover_0000963480_001_20220330152202306.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규 확진 42만 명대…위중증 1,301명 · 사망 432명]]></title>
             <link>https://tv.naver.com/v/25934466</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Mar 2022 23:21:50 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_119/5yXrB_16485943279385O7QH_JPEG/cover_0000963375_001_20220330075109756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기료 kWh당 6.9원 오른다…한전 '눈덩이 적자' 우려]]></title>
-            <link>https://tv.naver.com/v/25928987</link>
-            <guid>https://tv.naver.com/v/25928987</guid>
-            <pubDate>Tue, 29 Mar 2022 23:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_74/WAQxX_1648594082708gvrPf_JPEG/cover_0000963373_001_20220330074701233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
