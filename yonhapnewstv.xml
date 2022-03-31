@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 19:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 20:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["김정숙 여사 단골 디자이너 딸 채용"…靑 "지인 추천"]]></title>
+            <link>https://tv.naver.com/v/25969617</link>
+            <guid>https://tv.naver.com/v/25969617</guid>
+            <pubDate>Thu, 31 Mar 2022 20:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_11/rCXeo_1648757302659U3RDT_JPEG/cover_cover_MYH20220401000100640_20220401050802122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생활날씨] 밤사이 기온 '뚝'…내륙 서리, 짙은 안개]]></title>
             <link>https://tv.naver.com/v/25966704</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Mar 2022 12:38:28 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_161/AJtTs_1648727120373iMvKL_JPEG/cover_cover_MYH20220331017100038_20220331204402862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이시각헤드라인] 3월 31일 뉴스리뷰]]></title>
-            <link>https://tv.naver.com/v/25964199</link>
-            <guid>https://tv.naver.com/v/25964199</guid>
-            <pubDate>Thu, 31 Mar 2022 12:38:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_106/lC5Bt_1648726888551C5ASq_JPEG/cover_cover_MYH20220331017000038_20220331204102177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
