@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 01:38:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:58:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World now_영상] 8번 유산 끝에‥'멸종 위기' 코뿔소 출산]]></title>
+            <link>https://tv.naver.com/v/25950525</link>
+            <guid>https://tv.naver.com/v/25950525</guid>
+            <pubDate>Thu, 31 Mar 2022 02:57:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_113/vBjnR_1648693533585Q5WbF_JPEG/cover_cover_p20220331_8_20220331112502519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 위중증 1천315명‥신규 확진 32만 743명]]></title>
             <link>https://tv.naver.com/v/25948899</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Mar 2022 23:21:15 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_39/4eknH_16486812361693ltOf_JPEG/cover_cover_today_20220331_065308_2_13_Large_20220331080022023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 미국서 속도 내는 '완전자율주행' 시대]]></title>
-            <link>https://tv.naver.com/v/25948070</link>
-            <guid>https://tv.naver.com/v/25948070</guid>
-            <pubDate>Wed, 30 Mar 2022 23:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_36/kkZCN_1648681230618qNhki_JPEG/cover_cover_today_20220331_065223_2_12_Large_20220331080013128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
