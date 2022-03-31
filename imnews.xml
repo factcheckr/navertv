@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 09:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 10:25:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상M] 장애인 단체, '오늘 생일' 이준석에 케익 전달‥'백분 토론' 제안]]></title>
+            <link>https://tv.naver.com/v/25962463</link>
+            <guid>https://tv.naver.com/v/25962463</guid>
+            <pubDate>Thu, 31 Mar 2022 10:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_240/5CaIv_1648721808071k1Q6D_JPEG/cover_cover_s2022033122_20220331191604151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엠빅뉴스] “보험사가 자꾸 돈을 안 줘요” 제보자의 충격적 반전]]></title>
             <link>https://tv.naver.com/v/25960435</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Mar 2022 03:33:08 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220331_72/kAe9O_1648696824446ayuyz_JPEG/cover_cover_noon_20220331_121115_1_8_Large_20220331122002120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일부터 도시가스 요금 인상‥평균 1.8%]]></title>
-            <link>https://tv.naver.com/v/25951561</link>
-            <guid>https://tv.naver.com/v/25951561</guid>
-            <pubDate>Thu, 31 Mar 2022 03:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220331_53/jXB0i_1648696805364t5oTL_JPEG/cover_cover_noon_20220331_121035_1_7_Large_20220331121953947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
