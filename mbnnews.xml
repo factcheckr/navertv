@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 07:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 08:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 4월 1일 금요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/25982432</link>
+            <guid>https://tv.naver.com/v/25982432</guid>
+            <pubDate>Fri, 01 Apr 2022 08:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_202/0JFcd_1648800988664AjQvv_JPEG/cover_cover_20220401171239_20_812_1296003_360_7_0_20220401171601285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 주말까지 아침 쌀쌀…일교차 크게 벌어져요]]></title>
+            <link>https://tv.naver.com/v/25982375</link>
+            <guid>https://tv.naver.com/v/25982375</guid>
+            <pubDate>Fri, 01 Apr 2022 08:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_228/3REdL_1648800895346bMAo0_JPEG/cover_cover_20220401170958_20_812_1296002_360_7_0_20220401171401319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤석열, 제주 4·3 추념식 참석 [김주하 AI 뉴스]]]></title>
             <link>https://tv.naver.com/v/25975085</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 31 Mar 2022 23:23:15 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_73/0ApIi_1648766578954jj6vr_JPEG/cover_cover_20220401073731_20_605_1295967_360_7_0_20220401074201235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산업부 시작해 통일·교육·과기까지…검찰, '블랙리스트 수사' 확대]]></title>
-            <link>https://tv.naver.com/v/25970095</link>
-            <guid>https://tv.naver.com/v/25970095</guid>
-            <pubDate>Thu, 31 Mar 2022 23:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_241/iYw9x_1648766343308KBK3m_JPEG/cover_cover_20220401073358_20_605_1295966_360_7_0_20220401073801318.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청 "문 정부 청와대 특활비 역대최저…'옷값의혹' 유감"]]></title>
-            <link>https://tv.naver.com/v/25970086</link>
-            <guid>https://tv.naver.com/v/25970086</guid>
-            <pubDate>Thu, 31 Mar 2022 23:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_118/kP03D_1648766186629Bgjh0_JPEG/cover_cover_20220401072805_20_605_1295965_360_7_0_20220401073601925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
