@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 22:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 23:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 블루오리진 4차 우주여행 성공…“말로 표현 못 해”]]></title>
+            <link>https://tv.naver.com/v/26004578</link>
+            <guid>https://tv.naver.com/v/26004578</guid>
+            <pubDate>Sat, 02 Apr 2022 23:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_124/NF52k_1648940494051LCQ1K_PNG/cover_0011240999_001_20220403080101184.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[울산소방 이형우 소방위, ‘KBS 119상’ 대상 수상]]></title>
             <link>https://tv.naver.com/v/26004340</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Apr 2022 13:24:52 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220402_25/BMb0p_16489047266768MeFz_JPEG/cover_0011240957_001_20220402220509261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원 7,503명 신규 확진…나흘째 감소세]]></title>
-            <link>https://tv.naver.com/v/26001373</link>
-            <guid>https://tv.naver.com/v/26001373</guid>
-            <pubDate>Sat, 02 Apr 2022 13:24:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_184/s6AEm_16489047210343hxPn_JPEG/cover_0011240956_001_20220402220501250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

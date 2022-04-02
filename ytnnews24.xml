@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 22:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 23:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["러군, 북부에서 국경까지 밀려나...격전지 동부로 옮겨져"]]></title>
+            <link>https://tv.naver.com/v/26004490</link>
+            <guid>https://tv.naver.com/v/26004490</guid>
+            <pubDate>Sat, 02 Apr 2022 23:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_57/HS68o_1648938483658xJtcG_JPEG/cover_cover_202204030724227849_t_20220403072701959.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 봄기운 가득...아침·저녁 쌀쌀, 큰 일교차]]></title>
             <link>https://tv.naver.com/v/26004425</link>
@@ -61,7 +69,7 @@
             <guid>https://tv.naver.com/v/26004249</guid>
             <pubDate>Sat, 02 Apr 2022 20:21:29 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_114/e2FWR_1648930042231b8w4s_JPEG/cover_cover_202204030504400956_t_20220403050701818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_36/7HuWA_1648938365934txbSN_JPEG/cover_cover_202204030504400956_t_20220403050701818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[입주민 셔틀버스 또 논란...대법원 판례는 어떻길래?]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Apr 2022 16:29:03 GMT</pubDate>
             <content:encoded><![CDATA[3:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220403_176/uQKRK_1648916660102MiET5_JPEG/cover_cover_202204030051360159_t_20220403012303574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완만한 감소세...고령층 중증환자 여전]]></title>
-            <link>https://tv.naver.com/v/26003130</link>
-            <guid>https://tv.naver.com/v/26003130</guid>
-            <pubDate>Sat, 02 Apr 2022 16:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_146/ywtzl_1648915429551irSkz_JPEG/cover_cover_202204030055021698_t_20220403010301982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
