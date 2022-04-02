@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 21:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 22:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 봄기운 가득...아침·저녁 쌀쌀, 큰 일교차]]></title>
+            <link>https://tv.naver.com/v/26004425</link>
+            <guid>https://tv.naver.com/v/26004425</guid>
+            <pubDate>Sat, 02 Apr 2022 22:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_177/AZ3BL_1648936279193qq8YA_JPEG/cover_cover_202204030646582003_t_20220403065101776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 논현동 상가 건물에서 화재...30여 분만에 진화]]></title>
+            <link>https://tv.naver.com/v/26004351</link>
+            <guid>https://tv.naver.com/v/26004351</guid>
+            <pubDate>Sat, 02 Apr 2022 22:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_166/Yrrzx_1648934476120AGknz_JPEG/cover_cover_202204030433069009_t_20220403062101852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전북 무주 설천면 야산에 불...5시간 만에 완진]]></title>
             <link>https://tv.naver.com/v/26004347</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 02 Apr 2022 16:29:03 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220403_146/ywtzl_1648915429551irSkz_JPEG/cover_cover_202204030055021698_t_20220403010301982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 소속사 찾은 안철수..."공연계 정상화, 일상회복의 상징"]]></title>
-            <link>https://tv.naver.com/v/26003112</link>
-            <guid>https://tv.naver.com/v/26003112</guid>
-            <pubDate>Sat, 02 Apr 2022 16:29:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_31/ooIXc_1648915312879l3pmv_JPEG/cover_cover_202204030052428078_t_20220403010101860.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 내일 오늘보다 따뜻...전국 맑은 하늘]]></title>
-            <link>https://tv.naver.com/v/26002330</link>
-            <guid>https://tv.naver.com/v/26002330</guid>
-            <pubDate>Sat, 02 Apr 2022 15:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_208/jPBuY_1648910481877wtIWy_JPEG/cover_cover_202204022331048697_t_20220402234102348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
