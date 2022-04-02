@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 01:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 02:58:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신문브리핑1"새 정부 첫 총리 후보자, 한덕수 내정 확실시"외주요기사]]></title>
+            <link>https://tv.naver.com/v/25994296</link>
+            <guid>https://tv.naver.com/v/25994296</guid>
+            <pubDate>Sat, 02 Apr 2022 02:58:11 GMT</pubDate>
+            <content:encoded><![CDATA[18:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_33/VS0aw_1648868037777U90AJ_JPEG/cover_cover_20220402113702_20_606_1296057_360_7_0_20220402114701245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[6·1 지선] 유영하 변호사 대구시장 도전…"박근혜 전 대통령이 후원"]]></title>
             <link>https://tv.naver.com/v/25993841</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 11:20:19 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_226/inoBy_1648810505630cAFXp_JPEG/cover_cover_20220401194831_20_552_1296024_360_7_0_20220401195401285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['알박기 논란'에 금융권 인사 올스톱…정치적 인사 우려도]]></title>
-            <link>https://tv.naver.com/v/25985866</link>
-            <guid>https://tv.naver.com/v/25985866</guid>
-            <pubDate>Fri, 01 Apr 2022 11:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_43/eorIB_1648810262589BsAAh_JPEG/cover_cover_20220401194543_20_552_1296023_360_7_0_20220401195001282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
