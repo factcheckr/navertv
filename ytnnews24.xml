@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 14:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 15:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 오늘보다 따뜻...전국 맑은 하늘]]></title>
+            <link>https://tv.naver.com/v/26002330</link>
+            <guid>https://tv.naver.com/v/26002330</guid>
+            <pubDate>Sat, 02 Apr 2022 15:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_208/jPBuY_1648910481877wtIWy_JPEG/cover_cover_202204022331048697_t_20220402234102348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹 정부 첫 총리 한덕수 유력...청문회 문턱 넘을까]]></title>
+            <link>https://tv.naver.com/v/26002317</link>
+            <guid>https://tv.naver.com/v/26002317</guid>
+            <pubDate>Sat, 02 Apr 2022 15:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[35:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_277/MfcQs_1648910470122bFnX5_JPEG/cover_cover_202204022252079576_t_20220402233902384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['척하면 척' 인공지능 로봇...영세 상인에 도움]]></title>
             <link>https://tv.naver.com/v/26001897</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 02 Apr 2022 13:25:45 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220402_24/HOMyS_1648904788297rJi7U_JPEG/cover_cover_202204022158204371_t_20220402220502388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 소속사 찾은 안철수..."공연계 정상화, 일상회복의 상징"]]></title>
-            <link>https://tv.naver.com/v/26001350</link>
-            <guid>https://tv.naver.com/v/26001350</guid>
-            <pubDate>Sat, 02 Apr 2022 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_97/4UnrX_1648904654114cTjoX_JPEG/cover_cover_202204022158132984_t_20220402220312687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["尹, 한덕수 전문성 높게 사"...내일 총리 후보 발표]]></title>
-            <link>https://tv.naver.com/v/26001346</link>
-            <guid>https://tv.naver.com/v/26001346</guid>
-            <pubDate>Sat, 02 Apr 2022 13:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_49/lCSr1_1648904642800H0Pk1_JPEG/cover_cover_202204022158017377_t_20220402220303534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
