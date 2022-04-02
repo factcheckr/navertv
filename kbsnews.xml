@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 04:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 05:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크랩] 펜데믹 끝나면 더 큰 식량위기 온다?]]></title>
+            <link>https://tv.naver.com/v/25995809</link>
+            <guid>https://tv.naver.com/v/25995809</guid>
+            <pubDate>Sat, 02 Apr 2022 05:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[5:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_166/fCzmd_16488764357760hGB0_JPEG/cover_0011240873_001_20220402141101249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주말오후 날씨] 맑고 포근한 주말…큰 일교차 주의]]></title>
             <link>https://tv.naver.com/v/25994850</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 22:20:50 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220402_206/72q64_1648850518413REzYT_JPEG/cover_0011240827_001_20220402070110957.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, ‘인앱 결제 의무화’…‘갑질 방지법’ 회피?]]></title>
-            <link>https://tv.naver.com/v/25992878</link>
-            <guid>https://tv.naver.com/v/25992878</guid>
-            <pubDate>Fri, 01 Apr 2022 22:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_213/92EXa_1648850500649EsVnx_JPEG/cover_0011240826_001_20220402070101214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
