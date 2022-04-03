@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 23:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 01:44:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SDF다이어리] 같은 세상을 보지 못해도 우리는 같이 살아갈 수 있을까?]]></title>
+            <link>https://tv.naver.com/v/26005195</link>
+            <guid>https://tv.naver.com/v/26005195</guid>
+            <pubDate>Sun, 03 Apr 2022 01:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[13:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_283/ojZT2_1648949164264ngEzK_JPEG/cover_0000964236_001_20220403102002292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 아침, 저녁 아직 '쌀쌀'…일교차 주의]]></title>
             <link>https://tv.naver.com/v/26004373</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 23:21:41 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220402_246/eP9Na_1648854544552iytHE_JPEG/cover_0000964109_001_20220402080801720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해체하기 위해 모였다…독특한 목표를 세운 이 그룹]]></title>
-            <link>https://tv.naver.com/v/25993076</link>
-            <guid>https://tv.naver.com/v/25993076</guid>
-            <pubDate>Fri, 01 Apr 2022 23:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_6/o0SFe_1648853844088rl3Aa_JPEG/cover_0000964116_001_20220402075601255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
