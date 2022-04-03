@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 06:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 07:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[중계방송] 윤석열 대통령 당선인, 신임 국무총리 인선]]></title>
+            <link>https://tv.naver.com/v/26008622</link>
+            <guid>https://tv.naver.com/v/26008622</guid>
+            <pubDate>Sun, 03 Apr 2022 07:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[13:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_272/KrURx_1648968389134UdMHm_JPEG/a5e67167-b319-11ec-8527-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 휴일 포근한 햇살‥저녁엔 쌀쌀]]></title>
             <link>https://tv.naver.com/v/26006374</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Apr 2022 12:33:05 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220402_298/g4M5S_1648900680110n6j25_JPEG/cover_cover_desk_20220402_200038_1_1_Large_20220402205712163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ICBM 발사 책임 묻겠다‥"북한, 가상화폐 해킹·탈취" 폭로]]></title>
-            <link>https://tv.naver.com/v/26000530</link>
-            <guid>https://tv.naver.com/v/26000530</guid>
-            <pubDate>Sat, 02 Apr 2022 12:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_96/O9JqC_1648900672559Xxdzi_JPEG/cover_cover_desk_20220402_202132_1_9_Large_20220402205702915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
