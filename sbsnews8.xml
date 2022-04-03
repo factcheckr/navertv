@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 05:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 06:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 윤석열, 제주 4·3추념식 참석…보수 정당 당선인 처음]]></title>
+            <link>https://tv.naver.com/v/26007713</link>
+            <guid>https://tv.naver.com/v/26007713</guid>
+            <pubDate>Sun, 03 Apr 2022 06:25:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_253/NtbFQ_1648963656505GHSEU_PNG/cover_0000964274_001_20220403142501210.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] "농인 아미도 콘서트 즐겨야죠"…BTS콘서트 김민재 수어통역사를 만나다]]></title>
             <link>https://tv.naver.com/v/26006980</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Apr 2022 01:39:22 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220402_56/hsALp_16488617739745hoTy_JPEG/cover_0000964056_001_20220402100810873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스토리] 내 집 마련 가능할까?]]></title>
-            <link>https://tv.naver.com/v/25993227</link>
-            <guid>https://tv.naver.com/v/25993227</guid>
-            <pubDate>Sat, 02 Apr 2022 01:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[24:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220402_150/ZHPQc_1648856895414uUVet_JPEG/cover_0000964118_001_20220402083501217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
