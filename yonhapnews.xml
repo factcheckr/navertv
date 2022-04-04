@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 21:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 22:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 04 Apr 2022 07:22:45 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220404_173/j6qB7_1649056707551Up6n4_JPEG/1649056669291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원인 모를 '아침 두통' 왜?]]></title>
+            <link>https://tv.naver.com/v/26023142</link>
+            <guid>https://tv.naver.com/v/26023142</guid>
+            <pubDate>Mon, 04 Apr 2022 22:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_235/5IZai_1649049797065r1Te4_JPEG/1649049664864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[약탈품 집으로 부치는 러시아군…전쟁통에 우체국 북적]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 13:36:50 GMT</pubDate>
             <content:encoded><![CDATA[9:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220401_103/lGlry_1648795877960T9I54_JPEG/1648795652813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국가요 주제 뮤지컬 'K팝' 뉴욕 공연…루나 출연]]></title>
-            <link>https://tv.naver.com/v/25974534</link>
-            <guid>https://tv.naver.com/v/25974534</guid>
-            <pubDate>Fri, 01 Apr 2022 03:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220401_70/9B6j8_16487828663955yYIN_JPEG/1648782067856.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
