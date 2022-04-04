@@ -4,9 +4,33 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 4월 4일 월요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/26027210</link>
+            <guid>https://tv.naver.com/v/26027210</guid>
+            <pubDate>Mon, 04 Apr 2022 08:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_36/QTJfS_16490604367658Mz7e_JPEG/cover_cover_20220404171615_20_812_1296166_360_7_0_20220404172003012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 포근한 오후… 수도권·충남 대기질 나쁨]]></title>
+            <link>https://tv.naver.com/v/26027149</link>
+            <guid>https://tv.naver.com/v/26027149</guid>
+            <pubDate>Mon, 04 Apr 2022 08:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_13/zYy8E_1649060340307rqW3H_JPEG/cover_cover_20220404171328_20_812_1296165_360_7_0_20220404171801273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엠픽] 한국보도사진전 관람한 윤석열 당선인 "사진이 역사 바꿔"]]></title>
+            <link>https://tv.naver.com/v/26026494</link>
+            <guid>https://tv.naver.com/v/26026494</guid>
+            <pubDate>Mon, 04 Apr 2022 08:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_38/oBPQd_1649058785962vGIgY_JPEG/cover_cover_20220404164502_20_868_1296164_360_7_0_20220404165201328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 4월 4일 낮 12시]]></title>
             <link>https://tv.naver.com/v/26021414</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 03 Apr 2022 23:21:59 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220404_293/rOTe3_1649024663239GNmPB_JPEG/cover_cover_20220404071902_20_605_1296132_360_7_0_20220404072402935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["모임 10명·밤 12시"…동네 의원도 대면진료]]></title>
-            <link>https://tv.naver.com/v/26017682</link>
-            <guid>https://tv.naver.com/v/26017682</guid>
-            <pubDate>Sun, 03 Apr 2022 22:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_272/EnwkZ_1649024456751ByPy3_JPEG/cover_cover_20220404071623_20_605_1296131_360_7_0_20220404072001264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[일요오후와이드] 윤석열 당선인 초대 총리 후보 발표…한덕수 "큰 책임 느껴"]]></title>
-            <link>https://tv.naver.com/v/26013227</link>
-            <guid>https://tv.naver.com/v/26013227</guid>
-            <pubDate>Sun, 03 Apr 2022 12:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:15:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_99/Z91Cr_1648987238600L4k5U_JPEG/cover_cover_20220403202140_20_536_1296121_360_7_0_20220403205501250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합뉴스 날씨]봄 향기 짙은 휴일…당분간 큰 일교차 주의]]></title>
-            <link>https://tv.naver.com/v/26012948</link>
-            <guid>https://tv.naver.com/v/26012948</guid>
-            <pubDate>Sun, 03 Apr 2022 12:34:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220403_167/FW3xH_1648986052980kync4_JPEG/cover_cover_20220403203706_20_552_1296125_360_7_0_20220403204001322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
