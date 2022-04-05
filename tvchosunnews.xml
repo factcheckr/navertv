@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 10:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 11:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 5일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26053978</link>
+            <guid>https://tv.naver.com/v/26053978</guid>
+            <pubDate>Tue, 05 Apr 2022 11:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220405_76/zWXRw_1649157406890SF6E5_JPEG/cover_2022040590146_thumb_081046_20220405201602054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아침에 이슈] 민주당, 송영길 서울시장 출마 두고 내홍?]]></title>
             <link>https://tv.naver.com/v/26038870</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Apr 2022 13:32:11 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220404_133/lAayb_1649077044899YegSU_JPEG/cover_2022040490191_thumb_095224_20220404215615292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하남 위례신도시 청량산 불…주민 대피 문자 발송]]></title>
-            <link>https://tv.naver.com/v/26032847</link>
-            <guid>https://tv.naver.com/v/26032847</guid>
-            <pubDate>Mon, 04 Apr 2022 13:32:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220404_159/3c0E9_16490769836895uxQI_JPEG/cover_2022040490202_thumb_095445_20220404215608930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
