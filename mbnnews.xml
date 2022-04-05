@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 21:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 22:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봉화 산불 18시간째…소방헬기 투입해 총력 대응]]></title>
+            <link>https://tv.naver.com/v/26059951</link>
+            <guid>https://tv.naver.com/v/26059951</guid>
+            <pubDate>Tue, 05 Apr 2022 22:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_78/SfliB_16491972086016k9BX_JPEG/cover_cover_20220406071513_20_605_1296293_360_7_0_20220406071901258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[208회_코로나19 유행 진단과 방역 수칙]]></title>
             <link>https://tv.naver.com/v/26059661</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Apr 2022 10:22:50 GMT</pubDate>
             <content:encoded><![CDATA[7:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220405_293/7tHC6_1649153662969H0lfd_JPEG/cover_cover_20220405190534_20_673_1296259_360_7_0_20220405191101212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-3만 원대 '김건희 슬리퍼' 하루 만에 품절 대란]]></title>
-            <link>https://tv.naver.com/v/26052771</link>
-            <guid>https://tv.naver.com/v/26052771</guid>
-            <pubDate>Tue, 05 Apr 2022 10:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[8:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220405_64/cfRgo_1649153412944Ge3vF_JPEG/cover_cover_20220405190122_20_673_1296258_360_7_0_20220405190702961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
