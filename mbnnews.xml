@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 20:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 21:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[208회_코로나19 유행 진단과 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/26059661</link>
+            <guid>https://tv.naver.com/v/26059661</guid>
+            <pubDate>Tue, 05 Apr 2022 21:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[15:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_191/amvQr_1649193370320L5MHW_JPEG/cover_cover_20220406060130_20_849_1296292_360_7_0_20220406061001283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한·미, "포괄적 전략 동맹 격상"…"새로운 유엔 대북 결의"]]></title>
             <link>https://tv.naver.com/v/26056720</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Apr 2022 10:22:50 GMT</pubDate>
             <content:encoded><![CDATA[8:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220405_64/cfRgo_1649153412944Ge3vF_JPEG/cover_cover_20220405190122_20_673_1296258_360_7_0_20220405190702961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-유영하 "비공식 접촉 있었다"…박근혜-윤석열 만남 언제?]]></title>
-            <link>https://tv.naver.com/v/26052709</link>
-            <guid>https://tv.naver.com/v/26052709</guid>
-            <pubDate>Tue, 05 Apr 2022 10:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[6:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220405_272/JuKd2_1649153122325inxPw_JPEG/cover_cover_20220405185724_20_673_1296257_360_7_0_20220405190301237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
