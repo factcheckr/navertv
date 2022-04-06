@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 13:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 14:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 19.7도…내일 8~19도]]></title>
+            <link>https://tv.naver.com/v/26081279</link>
+            <guid>https://tv.naver.com/v/26081279</guid>
+            <pubDate>Wed, 06 Apr 2022 14:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_23/CkNjB_1649253981827LumvX_JPEG/cover_0011243525_001_20220406230601216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 2030, 덜 행복해지고 성별 간 인식차 커져]]></title>
             <link>https://tv.naver.com/v/26080675</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 13:32:03 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_201/86874_1649250796069wtFcY_JPEG/cover_0011243514_001_20220406221257849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[풀뿌리K] ‘백운·마령·성수’ 상수도 탁도 불량…개선 시급]]></title>
-            <link>https://tv.naver.com/v/26080322</link>
-            <guid>https://tv.naver.com/v/26080322</guid>
-            <pubDate>Wed, 06 Apr 2022 13:32:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_34/XyN2X_1649250804485d02wd_JPEG/cover_0011243513_001_20220406221249763.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
