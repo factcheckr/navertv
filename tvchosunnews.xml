@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 10:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 11:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 6일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26076933</link>
+            <guid>https://tv.naver.com/v/26076933</guid>
+            <pubDate>Wed, 06 Apr 2022 11:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_160/j7Z5Q_1649242007650o3gO1_JPEG/cover_2022040690139_thumb_074051_20220406194601981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['집무실 이전' 예비비 360억 오늘 의결…정책협의단, 尹 친서 백악관 전달]]></title>
             <link>https://tv.naver.com/v/26072826</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Apr 2022 13:30:49 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220405_28/TKIgj_1649162535986RnI0v_JPEG/cover_2022040590181_thumb_093658_20220405214110366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주보건환경硏, 직원 한명 영세업체에 年24억 수의계약]]></title>
-            <link>https://tv.naver.com/v/26055691</link>
-            <guid>https://tv.naver.com/v/26055691</guid>
-            <pubDate>Tue, 05 Apr 2022 13:30:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220405_135/JS37m_1649162535602B8fAk_JPEG/cover_2022040590185_thumb_093737_20220405214101808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
