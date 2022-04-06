@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 01:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:59:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] ‘코로나19’ 중앙재난안전대책본부 브리핑]]></title>
+            <link>https://tv.naver.com/v/26063208</link>
+            <guid>https://tv.naver.com/v/26063208</guid>
+            <pubDate>Wed, 06 Apr 2022 02:58:10 GMT</pubDate>
+            <content:encoded><![CDATA[9:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_266/03g2U_1649211087154sAlvh_JPEG/ba659aa7-b54e-11ec-9e39-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스피·코스닥 하락 출발‥고려아연 상승세]]></title>
             <link>https://tv.naver.com/v/26061313</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Apr 2022 23:22:06 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_73/1gLqh_1649199192196sWkcn_JPEG/cover_cover_today_20220406_070156_2_21_Large_20220406075231554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈톡] 개막 앞둔 카타르 월드컵‥경기장 주변 '허허벌판']]></title>
-            <link>https://tv.naver.com/v/26060172</link>
-            <guid>https://tv.naver.com/v/26060172</guid>
-            <pubDate>Tue, 05 Apr 2022 23:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_193/P9Cta_1649199164504w1G54_JPEG/cover_cover_today_20220406_065804_2_20_Large_20220406075221907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
