@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 20:23:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 21:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[209회_기상 전망과 강풍 대처 요령]]></title>
+            <link>https://tv.naver.com/v/26105879</link>
+            <guid>https://tv.naver.com/v/26105879</guid>
+            <pubDate>Thu, 07 Apr 2022 21:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[14:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_24/oWaxJ_1649365808994R1rGl_JPEG/cover_cover_20220408055650_20_849_1296461_360_7_0_20220408060401279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백운기의 뉴스와이드] 한동훈, 2년 만에 무혐의 / 대선 패배 한 달도 안 됐는데…이재명 거론 왜?]]></title>
             <link>https://tv.naver.com/v/26101191</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Apr 2022 10:23:48 GMT</pubDate>
             <content:encoded><![CDATA[5:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_218/huFqp_1649326057971yUB2n_JPEG/cover_cover_20220407190110_20_673_1296427_360_7_0_20220407190501226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-안민석 저격에 김동연 "뛰어나가기도 바쁜데"]]></title>
-            <link>https://tv.naver.com/v/26098857</link>
-            <guid>https://tv.naver.com/v/26098857</guid>
-            <pubDate>Thu, 07 Apr 2022 10:23:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_255/5OBmn_1649325897092sz0BB_JPEG/cover_cover_20220407185742_20_673_1296426_360_7_0_20220407190301242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
