@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 10:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 11:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 7일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26099828</link>
+            <guid>https://tv.naver.com/v/26099828</guid>
+            <pubDate>Thu, 07 Apr 2022 11:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_292/25EGx_1649329315823TxADl_JPEG/cover_2022040790112_thumb_075854_20220407200101770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[임대차법 현주소①] "전세갱신권? 그럼 관리비 2배 달라"…'꼼수'에 우는 세입자]]></title>
             <link>https://tv.naver.com/v/26096959</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 13:33:04 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_175/KT067_1649249237877OWtcR_JPEG/cover_2022040690175_thumb_094457_20220406214624857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['염습 가능'에 장례식장 100여곳 '코로나 사망자 보이콧']]></title>
-            <link>https://tv.naver.com/v/26079642</link>
-            <guid>https://tv.naver.com/v/26079642</guid>
-            <pubDate>Wed, 06 Apr 2022 13:33:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_272/uZvnL_1649249232683A6KAu_JPEG/cover_2022040690163_thumb_094334_20220406214615968.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
