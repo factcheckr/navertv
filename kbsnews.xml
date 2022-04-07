@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 13:32:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 14:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 21.1도…내일 맑고 7~20도]]></title>
+            <link>https://tv.naver.com/v/26103278</link>
+            <guid>https://tv.naver.com/v/26103278</guid>
+            <pubDate>Thu, 07 Apr 2022 14:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_93/2C0ti_1649341225514snBdW_JPEG/cover_0011244308_001_20220407232001265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이중선, 전주시장 예비후보 사퇴…“브로커 퇴출·정치 개선을”]]></title>
             <link>https://tv.naver.com/v/26102478</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Apr 2022 13:31:21 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_132/ug4Av_16493370083129fz8a_JPEG/cover_0011244272_001_20220407220954035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선관위, 합천·하동·거창·산청 선거법 위반 등 7명 고발]]></title>
-            <link>https://tv.naver.com/v/26102278</link>
-            <guid>https://tv.naver.com/v/26102278</guid>
-            <pubDate>Thu, 07 Apr 2022 13:31:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_183/eGISY_1649337005527Keqtn_JPEG/cover_0011244271_001_20220407220945989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
