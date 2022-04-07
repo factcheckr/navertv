@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:26:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 4월 7일 목요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/26096553</link>
+            <guid>https://tv.naver.com/v/26096553</guid>
+            <pubDate>Thu, 07 Apr 2022 08:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_134/puCtV_1649319443660z0hRf_JPEG/cover_cover_20220407171401_20_812_1296416_360_7_0_20220407171701239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 건조주의보 확대 … 서울 한낮에 16˚ C]]></title>
+            <link>https://tv.naver.com/v/26096487</link>
+            <guid>https://tv.naver.com/v/26096487</guid>
+            <pubDate>Thu, 07 Apr 2022 08:26:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_92/4mT11_1649319352995wD6x5_JPEG/cover_cover_20220407171035_20_812_1296415_360_7_0_20220407171501723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["확진자도 3차 접종 권고 검토" [김주하 AI 뉴스]]]></title>
             <link>https://tv.naver.com/v/26095049</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 23:22:35 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_296/A4Qfa_1649284559445kf2Pg_JPEG/cover_cover_20220407073101_20_605_1296379_360_7_0_20220407073501222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한덕수, 외국 회사에 주택 임대"…이번엔 '이해충돌' 논란]]></title>
-            <link>https://tv.naver.com/v/26085202</link>
-            <guid>https://tv.naver.com/v/26085202</guid>
-            <pubDate>Wed, 06 Apr 2022 23:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_184/YhK0W_1649284439069Xw8os_JPEG/cover_cover_20220407072544_20_605_1296378_360_7_0_20220407073301217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 당선인 측 "5월 말에나 용산 입주"…이사 계약 추진]]></title>
-            <link>https://tv.naver.com/v/26085169</link>
-            <guid>https://tv.naver.com/v/26085169</guid>
-            <pubDate>Wed, 06 Apr 2022 23:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_273/eMcbd_1649283839993qcuUm_JPEG/cover_cover_20220407071922_20_605_1296377_360_7_0_20220407072301204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
