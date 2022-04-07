@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 06:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 07:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["확진자도 3차 접종 권고 검토" [김주하 AI 뉴스]]]></title>
+            <link>https://tv.naver.com/v/26095049</link>
+            <guid>https://tv.naver.com/v/26095049</guid>
+            <pubDate>Thu, 07 Apr 2022 07:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_257/BTBqm_1649315965197j1K7q_JPEG/cover_cover_20220407161510_20_845_1296412_360_7_0_20220407161901231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 기준금리 인상 임박 [김주하 AI 뉴스]]]></title>
             <link>https://tv.naver.com/v/26090822</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 23:22:35 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_273/eMcbd_1649283839993qcuUm_JPEG/cover_cover_20220407071922_20_605_1296377_360_7_0_20220407072301204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 용산시대 첫걸음…360억 원 국무회의 통과]]></title>
-            <link>https://tv.naver.com/v/26085159</link>
-            <guid>https://tv.naver.com/v/26085159</guid>
-            <pubDate>Wed, 06 Apr 2022 22:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_105/WNj9p_16492837230428HCRU_JPEG/cover_cover_20220407071611_20_605_1296376_360_7_0_20220407072101214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
