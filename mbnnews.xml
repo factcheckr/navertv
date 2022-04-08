@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 07:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 08:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 4월 8일 금요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/26118194</link>
+            <guid>https://tv.naver.com/v/26118194</guid>
+            <pubDate>Fri, 08 Apr 2022 08:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_249/lfCti_1649405855232Wy18G_JPEG/cover_cover_20220408171332_20_812_1296497_360_7_0_20220408171704316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 동해안 '대형산불주의보'…완연한 봄날씨]]></title>
+            <link>https://tv.naver.com/v/26118147</link>
+            <guid>https://tv.naver.com/v/26118147</guid>
+            <pubDate>Fri, 08 Apr 2022 08:26:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_81/e6ily_1649405791416gxAVM_JPEG/cover_cover_20220408171129_20_812_1296496_360_7_0_20220408171503276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신문브리핑 1 "물가상승 4% 시대, 이게 끝이 아니다" 외 주요기사]]></title>
             <link>https://tv.naver.com/v/26113705</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 07 Apr 2022 23:22:36 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_155/mJSNf_1649370227310nQf5M_JPEG/cover_cover_20220408071820_20_605_1296463_360_7_0_20220408072301222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["대만서 한국인 6명 탄 선박 실종"…해경 헬기 추락 2명 사망]]></title>
-            <link>https://tv.naver.com/v/26106216</link>
-            <guid>https://tv.naver.com/v/26106216</guid>
-            <pubDate>Thu, 07 Apr 2022 22:22:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_122/pdPfk_1649370001044R5pyS_JPEG/cover_cover_20220408071614_20_605_1296462_360_7_0_20220408071904674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[209회_기상 전망과 강풍 대처 요령]]></title>
-            <link>https://tv.naver.com/v/26105879</link>
-            <guid>https://tv.naver.com/v/26105879</guid>
-            <pubDate>Thu, 07 Apr 2022 21:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[14:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_24/oWaxJ_1649365808994R1rGl_JPEG/cover_cover_20220408055650_20_849_1296461_360_7_0_20220408060401279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
