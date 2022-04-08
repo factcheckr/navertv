@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 10:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 11:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 8일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26121332</link>
+            <guid>https://tv.naver.com/v/26121332</guid>
+            <pubDate>Fri, 08 Apr 2022 11:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_65/ApLqA_1649415099587zMD7z_JPEG/cover_2022040890111_thumb_074524_20220408195102765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안철수, 현대차 연구소 찾아 "미래 모빌리티가 국가 과학국가 핵심"]]></title>
             <link>https://tv.naver.com/v/26118166</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Apr 2022 12:37:58 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_62/a4rEU_1649335034570AYn8s_JPEG/cover_2022040790143_thumb_093357_20220407213609397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비싸다는 지적에, 진단키트 '1000원' 내렸지만 불만 여전]]></title>
-            <link>https://tv.naver.com/v/26101447</link>
-            <guid>https://tv.naver.com/v/26101447</guid>
-            <pubDate>Thu, 07 Apr 2022 12:37:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_121/KaAsy_1649334737431YlAJ7_JPEG/cover_2022040790137_thumb_092808_20220407213122555.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
