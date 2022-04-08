@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 13:35:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 14:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] '윤핵관' 권성동 압승...당도 '윤심' 택했다]]></title>
+            <link>https://tv.naver.com/v/26124201</link>
+            <guid>https://tv.naver.com/v/26124201</guid>
+            <pubDate>Fri, 08 Apr 2022 14:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_132/MPt2l_1649425295526qrG6Q_JPEG/cover_cover_202204082237331395_t_20220408224102310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크렘린궁 "러시아군 상당한 손실"...나토, 다양한 무기 지원]]></title>
             <link>https://tv.naver.com/v/26124057</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 12:39:41 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_84/1zvaP_1649417287728tGuLo_JPEG/cover_cover_202204082024446883_t_20220408202702268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크렘린궁 "러시아군 상당한 손실"...나토, 다양한 무기 지원]]></title>
-            <link>https://tv.naver.com/v/26121810</link>
-            <guid>https://tv.naver.com/v/26121810</guid>
-            <pubDate>Fri, 08 Apr 2022 12:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_66/42lvt_16494169283780irdr_JPEG/cover_cover_202204082018130208_t_20220408202102524.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
