@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 04:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 05:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마라도 해상 해경 헬기 추락‥2명 사망·1명 실종]]></title>
+            <link>https://tv.naver.com/v/26113235</link>
+            <guid>https://tv.naver.com/v/26113235</guid>
+            <pubDate>Fri, 08 Apr 2022 05:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_120/XPWaP_164939493601329JA7_JPEG/cover_cover_14news_20220408_135619_1_2_Large_20220408141502681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 기온 껑충, 메마른 대기·불조심‥건조주의보 유의]]></title>
             <link>https://tv.naver.com/v/26111221</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 01:42:19 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_215/owgkK_16493765783928kN8K_JPEG/cover_cover_today_20220408_063329_2_1_Large_20220408090902771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 오늘부터 기온 껑충‥건조함 심해져, 산불 주의]]></title>
-            <link>https://tv.naver.com/v/26106558</link>
-            <guid>https://tv.naver.com/v/26106558</guid>
-            <pubDate>Thu, 07 Apr 2022 23:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_229/hboDg_1649373508427IOszh_JPEG/cover_cover_today_20220408_074356_2_46_Large_20220408081804063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
