@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 01:37:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 02:55:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 08 Apr 2022 09:21:25 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_7/1wrMD_1649407863618UleS4_JPEG/1649407302131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정은도 부동산에 지대한 관심…4차례나 시찰한 곳은?]]></title>
+            <link>https://tv.naver.com/v/26118768</link>
+            <guid>https://tv.naver.com/v/26118768</guid>
+            <pubDate>Sat, 09 Apr 2022 02:55:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_185/PN4Aq_1649407245534zinfE_PNG/1649407201207.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[크렘린궁 대변인 "우크라서 러시아군 상당한 손실"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Apr 2022 08:26:01 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220406_200/DxO9Q_1649231334662r745d_JPEG/1649230699744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔서 '부차 학살' 동영상 본 중국 "끔찍하긴한데…"]]></title>
-            <link>https://tv.naver.com/v/26071692</link>
-            <guid>https://tv.naver.com/v/26071692</guid>
-            <pubDate>Wed, 06 Apr 2022 08:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_257/w8fky_1649231005266cUONF_JPEG/1649230068882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
