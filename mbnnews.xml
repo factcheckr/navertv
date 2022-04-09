@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 08:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 09:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_286/NdGeS_1649463229257hHa0c_JPEG/cover_cover_20220409090509_20_675_1296546_360_7_0_20220409091301221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["러, 기차역 대량살상무기 공격…최소 50명 사망"]]></title>
-            <link>https://tv.naver.com/v/26128358</link>
-            <guid>https://tv.naver.com/v/26128358</guid>
-            <pubDate>Sat, 09 Apr 2022 01:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_118/mkEFF_1649462887960wOlIp_JPEG/cover_cover_20220409090151_20_675_1296545_360_7_0_20220409090701259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제주 마라도 해상서 헬기 추락…밤사이 구조 진행 상황은?]]></title>
             <link>https://tv.naver.com/v/26128332</link>
             <guid>https://tv.naver.com/v/26128332</guid>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 08 Apr 2022 12:40:05 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_203/4SKOg_1649418614539E8IMj_JPEG/cover_cover_20220408204129_20_552_1296529_360_7_0_20220408204901211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['태양절 열병식' 막바지 준비…붉은 물결에 '일심단결' 카드섹션]]></title>
+            <link>https://tv.naver.com/v/26122188</link>
+            <guid>https://tv.naver.com/v/26122188</guid>
+            <pubDate>Sat, 09 Apr 2022 09:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_30/ruyKq_1649418243212rniO6_JPEG/cover_cover_20220408203857_20_552_1296528_360_7_0_20220408204301236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
