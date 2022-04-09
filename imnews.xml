@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 03:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 04:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 초여름만큼 따뜻‥전국 산불 위험↑]]></title>
+            <link>https://tv.naver.com/v/26130926</link>
+            <guid>https://tv.naver.com/v/26130926</guid>
+            <pubDate>Sat, 09 Apr 2022 04:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_95/Q61W7_1649475138665YFANJ_JPEG/cover_cover_noon_20220409_122417_1_5_Large_20220409123202643.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한덕수, '주택 헐값 매입' 의혹에 "적정가격 매매"]]></title>
             <link>https://tv.naver.com/v/26130821</link>
@@ -14,6 +22,14 @@
             <pubDate>Sat, 09 Apr 2022 03:29:03 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_131/NN0iz_1649474786148YuVsK_JPEG/cover_cover_noon_20220409_122201_1_4_Large_20220409122602829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC뉴스] "러시아, 피란 기차역 집속탄 공격‥최소 50명 사망"]]></title>
+            <link>https://tv.naver.com/v/26130826</link>
+            <guid>https://tv.naver.com/v/26130826</guid>
+            <pubDate>Sat, 09 Apr 2022 04:27:04 GMT</pubDate>
+            <content:encoded><![CDATA[8:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_70/np99A_1649475334397oy02q_PNG/1649475332762.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["대만 해역서 발견된 시신 2구, 모두 우리 선원"]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 12:38:57 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_284/kcMkI_1649417800802WcEcQ_JPEG/cover_cover_desk_20220408_202955_1_20_Large_20220408203602986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초등생 두 아들 살해한 엄마‥"남편 도박빚 등 생활고"]]></title>
-            <link>https://tv.naver.com/v/26122030</link>
-            <guid>https://tv.naver.com/v/26122030</guid>
-            <pubDate>Fri, 08 Apr 2022 12:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_148/vI6dy_1649417681609z9wm9_JPEG/cover_cover_desk_20220408_202557_1_18_Large_20220408203403373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['무면허운전·음주측정 거부'‥ 노엘 장용준 징역 1년]]></title>
-            <link>https://tv.naver.com/v/26121984</link>
-            <guid>https://tv.naver.com/v/26121984</guid>
-            <pubDate>Fri, 08 Apr 2022 12:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_67/lKlpd_1649417518994ytE3G_JPEG/cover_cover_desk_20220408_202342_1_17_Large_20220408203112049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
