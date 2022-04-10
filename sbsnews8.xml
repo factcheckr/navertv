@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 03:36:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 04:27:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SDF다이어리] "지금은 우주적 상상이 필요할 때"]]></title>
+            <link>https://tv.naver.com/v/26142229</link>
+            <guid>https://tv.naver.com/v/26142229</guid>
+            <pubDate>Sun, 10 Apr 2022 04:26:44 GMT</pubDate>
+            <content:encoded><![CDATA[17:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_36/0hMpK_16495633975831hUyJ_JPEG/cover_0000965772_001_20220410125901219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전쟁이면 아무나 마구 죽여도 될까…푸틴, 전범으로 처벌하려면? (7분컷) [비디오머그]]]></title>
             <link>https://tv.naver.com/v/26141457</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Apr 2022 01:36:33 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_79/FE0Mp_1649460445263PTw1A_JPEG/cover_0000965633_001_20220409082630390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 한낮 기온 '쑥'…강원 동해안 강풍 · 건조주의보]]></title>
-            <link>https://tv.naver.com/v/26128109</link>
-            <guid>https://tv.naver.com/v/26128109</guid>
-            <pubDate>Sat, 09 Apr 2022 01:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_142/xO16R_16494604054904bs5D_JPEG/cover_0000965634_001_20220409082621069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
