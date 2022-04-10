@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 05:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 06:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 10 Apr 2022 05:20:04 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220410_138/V38hN_16495674352309O4TC_JPEG/cover_0000225160_001_20220410140949979.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당, 文 정부 임기 내 ‘검찰개혁 법안 국회 통과’ 천명]]></title>
+            <link>https://tv.naver.com/v/26143162</link>
+            <guid>https://tv.naver.com/v/26143162</guid>
+            <pubDate>Sun, 10 Apr 2022 06:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[25:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_204/o4rRn_16495680292242kcDc_JPEG/cover_0000225158_001_20220410140918739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지방선거 ‘최대 격전지’ 경기지사 경쟁 여야 모두 치열]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Apr 2022 13:35:11 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220408_271/u7F55_1649422698470yIS23_JPEG/cover_0000225106_001_20220408215711181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 당선인, TK 시작으로 민생행보…박근혜 회동 조율 중]]></title>
-            <link>https://tv.naver.com/v/26123419</link>
-            <guid>https://tv.naver.com/v/26123419</guid>
-            <pubDate>Fri, 08 Apr 2022 13:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220408_181/TMPE2_1649422697471tq8fD_JPEG/cover_0000225098_001_20220408215701824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
