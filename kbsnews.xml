@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 08:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 09:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[특보] 경북 군위에서 산불…산림청 ‘산불 2단계’ 발령]]></title>
+            <link>https://tv.naver.com/v/26145882</link>
+            <guid>https://tv.naver.com/v/26145882</guid>
+            <pubDate>Sun, 10 Apr 2022 09:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_223/X136I_1649581730548fw6HJ_JPEG/cover_0011245405_001_20220410180801252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[뉴스5 날씨] 서울 한낮 25.1도…내일도 평년 기온 웃돌아요!]]></title>
-            <link>https://tv.naver.com/v/26145328</link>
-            <guid>https://tv.naver.com/v/26145328</guid>
-            <pubDate>Sun, 10 Apr 2022 08:24:15 GMT</pubDate>
+            <link>https://tv.naver.com/v/26145671</link>
+            <guid>https://tv.naver.com/v/26145671</guid>
+            <pubDate>Sun, 10 Apr 2022 09:20:06 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_138/9W3J1_1649578459993sSYya_JPEG/cover_0011245401_001_20220410171401251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_224/Bx2rT_1649580622457zEfzV_JPEG/cover_0011245401_001_20220410175001237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지난달 외식 물가 6.6%↑…24년 만에 최대 폭]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Apr 2022 14:19:27 GMT</pubDate>
             <content:encoded><![CDATA[2:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_128/f2Ajl_1649510753043An34P_JPEG/cover_0011245218_001_20220409222440178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소아 절반 이상 코로나19 확진…후두염·경련 있으면 병원 찾아야]]></title>
-            <link>https://tv.naver.com/v/26137477</link>
-            <guid>https://tv.naver.com/v/26137477</guid>
-            <pubDate>Sat, 09 Apr 2022 14:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_211/zppAz_1649510722222rM3tf_JPEG/cover_0011245217_001_20220409222428931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
