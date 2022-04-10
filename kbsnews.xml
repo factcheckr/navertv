@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 13:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 14:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 지도로 본 강원 양구 산불 상황]]></title>
+            <link>https://tv.naver.com/v/26149640</link>
+            <guid>https://tv.naver.com/v/26149640</guid>
+            <pubDate>Sun, 10 Apr 2022 14:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_213/26aiF_1649598778386NcPQ0_JPEG/cover_0011245501_001_20220410225201233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 강원 양구 송청리 산불 확산 중…‘산불 3단계’ 발령]]></title>
+            <link>https://tv.naver.com/v/26149497</link>
+            <guid>https://tv.naver.com/v/26149497</guid>
+            <pubDate>Sun, 10 Apr 2022 14:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_109/FDGEM_16495980463248zbG7_JPEG/cover_0011245499_001_20220410224001901.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[군위 산불, ‘산불 2단계’ 발령…이 시각 상황]]></title>
             <link>https://tv.naver.com/v/26149247</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 10 Apr 2022 13:25:48 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220410_236/j5dZQ_16495955916678iMuC_JPEG/cover_0011245480_001_20220410215932643.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 속도제한 과도한 12개 구간 개선]]></title>
-            <link>https://tv.naver.com/v/26148986</link>
-            <guid>https://tv.naver.com/v/26148986</guid>
-            <pubDate>Sun, 10 Apr 2022 13:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_160/EYUVA_1649595585772OlWEO_JPEG/cover_0011245479_001_20220410215924637.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산교육청, 이달부터 ‘안심변호사제’ 본격 운영]]></title>
-            <link>https://tv.naver.com/v/26148980</link>
-            <guid>https://tv.naver.com/v/26148980</guid>
-            <pubDate>Sun, 10 Apr 2022 13:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_189/RtScx_1649595567734VHdmd_JPEG/cover_0011245477_001_20220410215909553.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
