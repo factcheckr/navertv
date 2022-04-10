@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 04:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 05:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] 경제부총리 추경호…국토 원희룡·여가 김현숙]]></title>
+            <link>https://tv.naver.com/v/26143190</link>
+            <guid>https://tv.naver.com/v/26143190</guid>
+            <pubDate>Sun, 10 Apr 2022 05:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[7:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_166/w3vII_1649567745797KLKjB_JPEG/1649567743582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 건조특보·산불 위험 비상‥휴일 고온 계속]]></title>
             <link>https://tv.naver.com/v/26141433</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Apr 2022 12:33:20 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220409_171/0X0M7_1649504763864soqlM_JPEG/cover_cover_desk_20220409_200830_1_4_Large_20220409204530546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 미사일 공격으로 난민 최소 50명 사망‥세계는 일제히 규탄]]></title>
-            <link>https://tv.naver.com/v/26136412</link>
-            <guid>https://tv.naver.com/v/26136412</guid>
-            <pubDate>Sat, 09 Apr 2022 12:33:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220409_167/gzlCq_1649504789777U1n3H_JPEG/cover_cover_desk_20220409_200630_1_3_Large_20220409204521159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
