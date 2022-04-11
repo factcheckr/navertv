@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 20:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 21:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강원 양구 · 경북 군위 산불 사흘째…강풍에 진화 난항]]></title>
+            <link>https://tv.naver.com/v/26172755</link>
+            <guid>https://tv.naver.com/v/26172755</guid>
+            <pubDate>Mon, 11 Apr 2022 21:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_4/jzIvg_1649711934581sdOvW_JPEG/cover_0000966122_001_20220412061801233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/26172264</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Apr 2022 14:20:15 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220411_259/0fwV0_16496839377204uv1q_JPEG/cover_0000966073_001_20220411223111567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양구 산불 진화율 75%…"쓰레기 태우다 불티 튀어"]]></title>
-            <link>https://tv.naver.com/v/26169841</link>
-            <guid>https://tv.naver.com/v/26169841</guid>
-            <pubDate>Mon, 11 Apr 2022 14:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_40/AVh75_16496839342666kS7e_JPEG/cover_0000966076_001_20220411223101298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

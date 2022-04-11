@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 20:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 21:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“사고 나흘 전 채석장 일부 붕괴”]]></title>
+            <link>https://tv.naver.com/v/26172735</link>
+            <guid>https://tv.naver.com/v/26172735</guid>
+            <pubDate>Mon, 11 Apr 2022 21:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_225/0NqZr_1649711539380hdTHc_JPEG/cover_0011246287_001_20220412061101202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[건조특보 속 또 담배꽁초 실화…“엄벌”]]></title>
             <link>https://tv.naver.com/v/26172608</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Apr 2022 15:23:36 GMT</pubDate>
             <content:encoded><![CDATA[5:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_228/wnqMm_1649689970851pE0LJ_JPEG/cover_0011246247_001_20220412001101203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7주만에 10만 명 아래로…‘포스트 오미크론’ 본격 논의]]></title>
-            <link>https://tv.naver.com/v/26171311</link>
-            <guid>https://tv.naver.com/v/26171311</guid>
-            <pubDate>Mon, 11 Apr 2022 15:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_165/JMXCd_1649689803202jf9xO_JPEG/cover_0011246246_001_20220412000908918.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
