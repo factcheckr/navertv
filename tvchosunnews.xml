@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 10:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 11:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 11일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26166109</link>
+            <guid>https://tv.naver.com/v/26166109</guid>
+            <pubDate>Mon, 11 Apr 2022 11:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220411_211/RVX5a_1649673699866r0rrh_JPEG/cover_2022041190128_thumb_073619_20220411194101823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양구 산불 이틀째, 축구장 870배 소실…"진화 헬기 재투입"]]></title>
             <link>https://tv.naver.com/v/26160383</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Apr 2022 11:19:15 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220410_111/EjtbJ_16495879052144KLT7_JPEG/cover_2022041090076_thumb_074915_20220410195117680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS "그래미 못 받아 눈물 났지만 기회 또 있어"]]></title>
-            <link>https://tv.naver.com/v/26147294</link>
-            <guid>https://tv.naver.com/v/26147294</guid>
-            <pubDate>Sun, 10 Apr 2022 11:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220410_116/9gaID_16495879383902zEXw_JPEG/cover_2022041090072_thumb_074729_20220410195109374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
