@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 윤 당선인, 박근혜 전 대통령 예방…“미안함 말씀드렸다”]]></title>
+            <link>https://tv.naver.com/v/26183485</link>
+            <guid>https://tv.naver.com/v/26183485</guid>
+            <pubDate>Tue, 12 Apr 2022 07:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_172/ox4XY_1649748006657XXXsq_JPEG/cover_0011246714_001_20220412161901223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 당선인, 박근혜 전 대통령 예방…“미안함 말씀드렸다”]]></title>
             <link>https://tv.naver.com/v/26182221</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Apr 2022 04:26:34 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_206/tskop_1649735714414vzCDt_JPEG/cover_0011246629_001_20220412125415486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“동부 전선서 곧 대공세”…독일 “우크라에 중화기 필요”]]></title>
-            <link>https://tv.naver.com/v/26178155</link>
-            <guid>https://tv.naver.com/v/26178155</guid>
-            <pubDate>Tue, 12 Apr 2022 04:26:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_17/cuQ1T_1649735697108efwym_JPEG/cover_0011246627_001_20220412125404698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
