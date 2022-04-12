@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 13:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 14:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] "면목 없고, 늘 죄송" 박근혜에 사과한 윤석열]]></title>
+            <link>https://tv.naver.com/v/26192394</link>
+            <guid>https://tv.naver.com/v/26192394</guid>
+            <pubDate>Tue, 12 Apr 2022 14:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_256/mvRIE_1649771973400YiaBF_JPEG/cover_cover_202204122253418171_t_20220412225902276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["러, 화학무기 사용...퇴각하며 곳곳 지뢰 설치"]]></title>
             <link>https://tv.naver.com/v/26191776</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Apr 2022 12:36:42 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_267/e3Czh_1649764446463ikdqx_JPEG/cover_cover_202204122051081234_t_20220412205301558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 "이재명 방탄법 밀어붙여" 강력 반발...4월 국회 전운 고조]]></title>
-            <link>https://tv.naver.com/v/26189617</link>
-            <guid>https://tv.naver.com/v/26189617</guid>
-            <pubDate>Tue, 12 Apr 2022 12:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_128/xjeoX_1649764189687BAn2I_JPEG/cover_cover_202204122046416121_t_20220412204902924.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
