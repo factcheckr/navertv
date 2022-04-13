@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 07:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 08:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 4월 13일 수요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/26207256</link>
+            <guid>https://tv.naver.com/v/26207256</guid>
+            <pubDate>Wed, 13 Apr 2022 08:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_1/phg3e_1649837853482mMucc_JPEG/cover_cover_20220413171405_20_812_1296828_360_7_0_20220413171701277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 전국에 반가운 봄비…고온현상 해소, 낮 기온 뚝]]></title>
+            <link>https://tv.naver.com/v/26207195</link>
+            <guid>https://tv.naver.com/v/26207195</guid>
+            <pubDate>Wed, 13 Apr 2022 08:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_179/trM6H_1649837755301ICTSm_JPEG/cover_cover_20220413171125_20_812_1296827_360_7_0_20220413171501290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김오수 "검수완박 '필사즉생' 저지" [김주하 AI 뉴스]]]></title>
             <link>https://tv.naver.com/v/26200304</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 12 Apr 2022 12:37:06 GMT</pubDate>
             <content:encoded><![CDATA[1:07:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_258/RuqP7_1649766407830wlabu_JPEG/cover_cover_20220412210846_20_536_1296789_360_7_0_20220412212201292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[종합뉴스 날씨]반가운 봄비로 고온 현상·건조 차츰 누그러져…]]></title>
-            <link>https://tv.naver.com/v/26190106</link>
-            <guid>https://tv.naver.com/v/26190106</guid>
-            <pubDate>Tue, 12 Apr 2022 12:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_31/3xHI4_1649765876562hyVP1_JPEG/cover_cover_20220412210603_20_552_1296788_360_7_0_20220412211701256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대표팀 향한 '98년생' 공격수들의 맹활약…벤투호 경쟁 더 뜨거워진다]]></title>
-            <link>https://tv.naver.com/v/26189902</link>
-            <guid>https://tv.naver.com/v/26189902</guid>
-            <pubDate>Tue, 12 Apr 2022 12:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220412_18/SOlDc_1649765677318NONX6_JPEG/cover_cover_20220412210235_20_552_1296787_360_7_0_20220412210701280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
