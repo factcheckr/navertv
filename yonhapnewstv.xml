@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-04-13T05:20:55.033Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 13 Apr 2022 06:28:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 봄비 내리며 쌀쌀…경북 동해안·해상 돌풍주의]]></title>
+            <link>https://tv.naver.com/v/26204298</link>
+            <guid>https://tv.naver.com/v/26204298</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_80/kxzv7_1649831130270AXDXG_JPEG/cover_cover_MYH20220413013100038_20220413152502357.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주노총 대규모 집회 강행…종묘공원 집결]]></title>
+            <link>https://tv.naver.com/v/26204248</link>
+            <guid>https://tv.naver.com/v/26204248</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_29/GaPRm_1649831047381Jhf6I_JPEG/cover_cover_MYH20220413013300641_20220413152302456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 김오수 검찰총장 "대형참사·부패범죄 어디서 수사했나…국민 피해"]]></title>
+            <link>https://tv.naver.com/v/26204197</link>
+            <guid>https://tv.naver.com/v/26204197</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[7:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_246/ik8el_16498310257949Xh1O_JPEG/cover_cover_MYH20220413013000038_20220413152102741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] 우크라, 변장한 푸틴 측근 체포…젤렌스키, 포로 맞교환 제안]]></title>
+            <link>https://tv.naver.com/v/26204058</link>
+            <guid>https://tv.naver.com/v/26204058</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_285/ZRbGO_16498306655197NaqX_JPEG/cover_cover_MYH20220413012700640_20220413151603125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정치+] 윤당선인, 내각 2차 인선 발표…법무장관에 한동훈]]></title>
+            <link>https://tv.naver.com/v/26203903</link>
+            <guid>https://tv.naver.com/v/26203903</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[15:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_259/ZLaJs_1649830752233xEH7J_JPEG/cover_cover_MYH20220413012800038_20220413151003038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 한동훈, 검수완박에 "법안 통과되면 국민 큰 고통…반드시 저지"]]></title>
+            <link>https://tv.naver.com/v/26203659</link>
+            <guid>https://tv.naver.com/v/26203659</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[11:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_225/PUAt3_1649830023645FpX8E_JPEG/cover_cover_MYH20220413012600038_20220413150203450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 질병청 "4차접종 4주 후 항체가, 3차접종 4개월 후의 18배"]]></title>
+            <link>https://tv.naver.com/v/26203573</link>
+            <guid>https://tv.naver.com/v/26203573</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[6:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_15/298dG_1649829702291FWWTf_JPEG/cover_cover_MYH20220413012900038_20220413145902518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 尹당선인, 법무부 장관에 한동훈 지명…비서실장 김대기]]></title>
+            <link>https://tv.naver.com/v/26203238</link>
+            <guid>https://tv.naver.com/v/26203238</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[13:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_197/KimYC_1649829122768vF0pJ_JPEG/cover_cover_MYH20220413012500038_20220413144502465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[경제읽기] 인수위 "탄소중립정책 대대적 수정"…경제 영향은?]]></title>
+            <link>https://tv.naver.com/v/26202354</link>
+            <guid>https://tv.naver.com/v/26202354</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[13:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_154/v1AIO_1649826825031dBSQ1_JPEG/cover_cover_MYH20220413011900038_20220413140803289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 4월 13일 뉴스현장]]></title>
+            <link>https://tv.naver.com/v/26202329</link>
+            <guid>https://tv.naver.com/v/26202329</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_282/lY8mB_16498264675068v3Dt_JPEG/cover_cover_MYH20220413012100038_20220413140702883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라, 변장한 푸틴 측근 체포…젤렌스키, 포로 맞교환 제안]]></title>
+            <link>https://tv.naver.com/v/26202233</link>
+            <guid>https://tv.naver.com/v/26202233</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_226/2EYFJ_1649826246548c0bEr_JPEG/cover_cover_MYH20220413011500038_20220413140303012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 충청 이남 내일 낮까지 봄비…기온 큰 폭 ↓]]></title>
+            <link>https://tv.naver.com/v/26202199</link>
+            <guid>https://tv.naver.com/v/26202199</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_290/mIWda_16498261277078O6WH_JPEG/cover_cover_MYH20220413011800038_20220413140102233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 인권보고서 "북, 학대 처벌 안해"…대장동 사건도 거론]]></title>
+            <link>https://tv.naver.com/v/26202140</link>
+            <guid>https://tv.naver.com/v/26202140</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_165/UJ82z_1649825880007fMtFY_JPEG/cover_cover_MYH20220413011400038_20220413135702331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커지는 화학무기 사용 논란…미 "믿을만한 정보 있어"]]></title>
+            <link>https://tv.naver.com/v/26202089</link>
+            <guid>https://tv.naver.com/v/26202089</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_29/36gtK_1649825707996FExAe_JPEG/cover_cover_MYH20220413011300038_20220413135403043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든, 러군 행위 '집단학살' 첫 규정…푸틴 "가짜 뉴스"]]></title>
+            <link>https://tv.naver.com/v/26202047</link>
+            <guid>https://tv.naver.com/v/26202047</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_172/BbG2o_1649825588951CQaGt_JPEG/cover_cover_MYH20220413011200038_20220413135204822.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돈바스는 '폭풍 전야'…교착 평화협상은 서로 '네 탓']]></title>
+            <link>https://tv.naver.com/v/26201969</link>
+            <guid>https://tv.naver.com/v/26201969</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_267/acuc9_1649825372656qoYFW_JPEG/cover_cover_MYH20220413011100641_20220413134803126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 금강산 골프장 건물 사라져…남측시설 철거 계속]]></title>
+            <link>https://tv.naver.com/v/26201902</link>
+            <guid>https://tv.naver.com/v/26201902</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_33/b6mbq_1649825124708FlBvp_JPEG/cover_cover_MYH20220413011000038_20220413134508813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["북 풍계리 핵실험 준비 정황…영변 핵개발 가능성도"]]></title>
+            <link>https://tv.naver.com/v/26201899</link>
+            <guid>https://tv.naver.com/v/26201899</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_23/GEiTx_1649825129112Wj0C6_JPEG/cover_cover_MYH20220413010800038_20220413134502378.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["북, ICBM·위성발사체로 다른 위성 공격 가능"]]></title>
+            <link>https://tv.naver.com/v/26201879</link>
+            <guid>https://tv.naver.com/v/26201879</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_207/f9d6h_1649825110107ah4Kh_JPEG/cover_cover_MYH20220413010700038_20220413134403031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 윤 당선인, 첫 법무장관에 한동훈 낙점]]></title>
+            <link>https://tv.naver.com/v/26201830</link>
+            <guid>https://tv.naver.com/v/26201830</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_122/RRA4k_1649824937679nN2H5_JPEG/cover_cover_MYH20220413010900038_20220413134203010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주노총 오늘 대규모 집회…경찰과 충돌 우려]]></title>
+            <link>https://tv.naver.com/v/26201744</link>
+            <guid>https://tv.naver.com/v/26201744</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_207/PsImq_1649824668172V5xN9_JPEG/cover_cover_MYH20220413010600038_20220413133720965.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스초점] 민주, '검수완박' 당론 채택…인수위, 검수완박 중단 촉구]]></title>
+            <link>https://tv.naver.com/v/26201736</link>
+            <guid>https://tv.naver.com/v/26201736</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[36:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_238/GZSAK_16498248854589fEu8_JPEG/cover_cover_MYH20220413010400038_20220413133702426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나라 안팎 물가 비상…'총재 없는 금리 인상' 대두]]></title>
+            <link>https://tv.naver.com/v/26201451</link>
+            <guid>https://tv.naver.com/v/26201451</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_17/i2Aom_1649824021997wfgjQ_JPEG/cover_cover_MYH20220413010200641_20220413132603293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 물가 8.5% 급등 또 신기록…연준 '빅스텝' 무게]]></title>
+            <link>https://tv.naver.com/v/26201341</link>
+            <guid>https://tv.naver.com/v/26201341</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_154/s3TMP_1649823678355YQBHq_JPEG/cover_cover_MYH20220413010100641_20220413132003090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 '파티게이트'…총리 부부 봉쇄 중 생일파티 범칙금]]></title>
+            <link>https://tv.naver.com/v/26201244</link>
+            <guid>https://tv.naver.com/v/26201244</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_290/XyFtc_16498233263158wco0_JPEG/cover_cover_MYH20220413010000038_20220413131502446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["'코로나 100일 로드맵'에 소상공인 손실보상도"]]></title>
+            <link>https://tv.naver.com/v/26201175</link>
+            <guid>https://tv.naver.com/v/26201175</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_215/xtSIg_1649823089920SmHvb_JPEG/cover_cover_MYH20220413009900038_20220413131102345.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화장시설 집중 운영 2주 연장…개장유골 화장 허용]]></title>
+            <link>https://tv.naver.com/v/26201158</link>
+            <guid>https://tv.naver.com/v/26201158</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_110/BaG7k_1649823026261j3Wa7_JPEG/cover_cover_MYH20220413009700038_20220413131002871.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권성동, 민주 향해 "'검수완박' 무제한 토론하자"]]></title>
+            <link>https://tv.naver.com/v/26201137</link>
+            <guid>https://tv.naver.com/v/26201137</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_37/35bvo_1649822961831UBrFw_JPEG/cover_cover_MYH20220413009500038_20220413130902275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인수위 "'검수완박'은 헌법파괴…즉각 중단해야"]]></title>
+            <link>https://tv.naver.com/v/26201118</link>
+            <guid>https://tv.naver.com/v/26201118</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_245/eQfaA_16498229155332ANfe_JPEG/cover_cover_MYH20220413009400038_20220413130810785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당, '송영길 출마' 서울시장 후보 전략공천 결정]]></title>
+            <link>https://tv.naver.com/v/26201115</link>
+            <guid>https://tv.naver.com/v/26201115</guid>
+            <pubDate>Wed, 13 Apr 2022 06:27:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_203/ghEpt_1649822906475woeAI_JPEG/cover_cover_MYH20220413009300038_20220413130802979.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
