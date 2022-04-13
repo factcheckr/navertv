@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/ytnnews24/clips</id>
-    <title>뉴스는 YTN ─ 네이버TV</title>
-    <updated>2022-04-13T22:21:28.558Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/ytnnews24/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스는 YTN ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 13 Apr 2022 23:21:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["기후변화가 고대 인류 대이동 일으켜" 확인]]></title>
+            <link>https://tv.naver.com/v/26216557</link>
+            <guid>https://tv.naver.com/v/26216557</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_270/XpMaM_164989195791634BwX_JPEG/cover_cover_202204140211081920_t_20220414081902234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹, 초대 법무장관에 한동훈 지명...사회부총리 김인철 발탁]]></title>
+            <link>https://tv.naver.com/v/26216226</link>
+            <guid>https://tv.naver.com/v/26216226</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_202/Uxme3_16498894436819uLAY_JPEG/cover_cover_202204140732285596_t_20220414073702491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 오전까지 곳곳 봄비...비 개인 뒤 흐림]]></title>
+            <link>https://tv.naver.com/v/26216169</link>
+            <guid>https://tv.naver.com/v/26216169</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_136/lVHTd_1649888483102Cueeb_JPEG/cover_cover_202204140633430129_t_20220414072102060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 오전까지 곳곳 산발적 비...낮 동안 흐리고 서늘]]></title>
+            <link>https://tv.naver.com/v/26216134</link>
+            <guid>https://tv.naver.com/v/26216134</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_128/eTpFV_16498880220241I2lh_JPEG/cover_cover_202204140708269734_t_20220414071301887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["기후변화가 고대 인류 대이동 일으켜" 확인]]></title>
+            <link>https://tv.naver.com/v/26216131</link>
+            <guid>https://tv.naver.com/v/26216131</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_147/G51fL_1649887921998B5CHn_JPEG/cover_cover_202204140322371082_t_20220414071102111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 핵 항모, 동해서 日자위대와 연합훈련..."대북 경고"]]></title>
+            <link>https://tv.naver.com/v/26216114</link>
+            <guid>https://tv.naver.com/v/26216114</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_129/lGEJ6_1649887527213BPDYt_JPEG/cover_cover_202204140700336284_t_20220414070512581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주노총, 종묘공원 결의 대회 강행...경찰 "집시법 위반 수사"]]></title>
+            <link>https://tv.naver.com/v/26216113</link>
+            <guid>https://tv.naver.com/v/26216113</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_98/LLlMi_1649887526920Tqhb5_JPEG/cover_cover_202204132330434315_t_20220414070502176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 뉴욕 경찰, 지하철 총격사건 용의자 맨해튼서 체포]]></title>
+            <link>https://tv.naver.com/v/26216090</link>
+            <guid>https://tv.naver.com/v/26216090</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_8/UrAoJ_1649887284377UfT53_JPEG/cover_cover_202204140611389137_t_20220414070102188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘 대구시장 후보 경선, 홍준표·김재원·유영하 압축]]></title>
+            <link>https://tv.naver.com/v/26216078</link>
+            <guid>https://tv.naver.com/v/26216078</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_24/Jv3CK_1649887161626GV3Cw_JPEG/cover_cover_202204140656210254_t_20220414065902226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["서울시장 양자 대결...오세훈 50.8% vs 송영길 39%"]]></title>
+            <link>https://tv.naver.com/v/26216069</link>
+            <guid>https://tv.naver.com/v/26216069</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_153/UQ8Ua_1649887039673DDRWf_JPEG/cover_cover_202204140654312787_t_20220414065702114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박범계, 한동훈 지명에 "文정부 법무부 부정 안 했으면"]]></title>
+            <link>https://tv.naver.com/v/26216063</link>
+            <guid>https://tv.naver.com/v/26216063</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_53/0UsuE_1649886915707zhLE4_JPEG/cover_cover_202204140651361806_t_20220414065502071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈 "검수완박 법안 처리 시도, 반드시 저지돼야"]]></title>
+            <link>https://tv.naver.com/v/26216051</link>
+            <guid>https://tv.naver.com/v/26216051</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_286/eGWD6_1649886794018NegFf_JPEG/cover_cover_202204140649402872_t_20220414065302089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美, 대중교통 마스크 의무화 또 연장...WHO "비상사태 유지"]]></title>
+            <link>https://tv.naver.com/v/26216045</link>
+            <guid>https://tv.naver.com/v/26216045</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_266/zyZgv_1649886711361F0q9k_JPEG/cover_cover_202204140648423868_t_20220414065101906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘부터 60세 이상 고령층 대상 4차 접종 시행]]></title>
+            <link>https://tv.naver.com/v/26216039</link>
+            <guid>https://tv.naver.com/v/26216039</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_229/74ke7_1649886558494hda7V_JPEG/cover_cover_202204140644242253_t_20220414064901798.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충남 천안에서 부부 두 쌍에 흉기 휘둘러 4명 사상...50대 검거]]></title>
+            <link>https://tv.naver.com/v/26215977</link>
+            <guid>https://tv.naver.com/v/26215977</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_52/fs6y2_16498854765415WF4m_JPEG/cover_cover_202204140621509337_t_20220414063101933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 금강산 골프장 건물 사라져...남측시설 철거 계속]]></title>
+            <link>https://tv.naver.com/v/26215940</link>
+            <guid>https://tv.naver.com/v/26215940</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_132/1Mexq_1649884995029Fo1Jt_JPEG/cover_cover_202204131013582819_t_20220414062302440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 총격 사건 용의자 체포...증오 범죄 등 동기 수사]]></title>
+            <link>https://tv.naver.com/v/26215929</link>
+            <guid>https://tv.naver.com/v/26215929</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_38/94U4P_1649884915926SHjD8_JPEG/cover_cover_202204140616426891_t_20220414062102086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[굿모닝] 한동훈 지명에 '같은 편'도 "부적절"]]></title>
+            <link>https://tv.naver.com/v/26215917</link>
+            <guid>https://tv.naver.com/v/26215917</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_16/INWcT_1649884673059LsbFU_JPEG/cover_cover_202204140613134381_t_20220414061701991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈 "검수완박 통과되면 국민 고통...반드시 저지"]]></title>
+            <link>https://tv.naver.com/v/26215902</link>
+            <guid>https://tv.naver.com/v/26215902</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_66/Wlq2a_1649884285622s96il_JPEG/cover_cover_202204140608508081_t_20220414061108196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 "한동훈 파격 인사 아냐...법무행정 담당 최적임자"]]></title>
+            <link>https://tv.naver.com/v/26215900</link>
+            <guid>https://tv.naver.com/v/26215900</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_46/GTQuf_164988427537352Ngs_JPEG/cover_cover_202204140607174530_t_20220414061101912.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 오늘 오전까지 곳곳 산발적 비...낮 동안 흐리고 서늘]]></title>
+            <link>https://tv.naver.com/v/26215895</link>
+            <guid>https://tv.naver.com/v/26215895</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_155/dp0yO_1649884060897iMEY8_JPEG/cover_cover_202204140602573744_t_20220414060702017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[YTN 실시간뉴스] 오늘 기준금리 결정...인상-동결 '팽팽']]></title>
+            <link>https://tv.naver.com/v/26215893</link>
+            <guid>https://tv.naver.com/v/26215893</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_13/nKhSS_1649883952940JUP5L_JPEG/cover_cover_202204140602342804_t_20220414060510996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인천 알루미늄 공장에서 집진기 폭발로 불]]></title>
+            <link>https://tv.naver.com/v/26215891</link>
+            <guid>https://tv.naver.com/v/26215891</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_207/LFpe0_1649883911554WIEwn_JPEG/cover_cover_202204140601318905_t_20220414060502121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 시흥동 주상복합 건물 외장재 강풍에 날아가...차량 파손]]></title>
+            <link>https://tv.naver.com/v/26215884</link>
+            <guid>https://tv.naver.com/v/26215884</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_173/ueHVs_1649883809049XAtjL_JPEG/cover_cover_202204140600262553_t_20220414060318156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아파트 현관에서 충전하던 킥보드에 불...2명 연기 흡입]]></title>
+            <link>https://tv.naver.com/v/26215883</link>
+            <guid>https://tv.naver.com/v/26215883</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_269/XCTAx_1649883798972XRLbi_JPEG/cover_cover_202204140600023124_t_20220414060310268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장애인 단체, 중앙선관위 찾아 "20대 대선 참정권 침해 규탄"]]></title>
+            <link>https://tv.naver.com/v/26215880</link>
+            <guid>https://tv.naver.com/v/26215880</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_85/gD74K_16498838018709eft9_JPEG/cover_cover_202204140559367481_t_20220414060302001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주노총 기습 집회 강행..."尹 친재벌 반노동 폭주 중단하라"]]></title>
+            <link>https://tv.naver.com/v/26215874</link>
+            <guid>https://tv.naver.com/v/26215874</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_260/DHRQe_1649883678515Oe7Bj_JPEG/cover_cover_202204140555193497_t_20220414060102091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["우크라 동부에서 러 군용차 행렬 포착...돈바스 병력 증강"]]></title>
+            <link>https://tv.naver.com/v/26215868</link>
+            <guid>https://tv.naver.com/v/26215868</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_151/cc2SS_1649883438366es4QI_JPEG/cover_cover_202204131657256992_t_20220414055702013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 오늘 전국 흐리고 오전까지 비...바람 불며 서늘]]></title>
+            <link>https://tv.naver.com/v/26215785</link>
+            <guid>https://tv.naver.com/v/26215785</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_46/XmnED_1649881287380mRDyu_JPEG/cover_cover_202204140518369195_t_20220414052101921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산 부곡동 미용실에서 불...300만 원 재산피해]]></title>
+            <link>https://tv.naver.com/v/26215781</link>
+            <guid>https://tv.naver.com/v/26215781</guid>
+            <pubDate>Wed, 13 Apr 2022 23:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_41/nGknC_1649881155676vy2li_JPEG/cover_cover_202204140517177999_t_20220414051901992.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
