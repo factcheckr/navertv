@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 20:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 21:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] MC몽, 신고 없이 7만 달러 들고나가려다 송치]]></title>
+            <link>https://tv.naver.com/v/26215819</link>
+            <guid>https://tv.naver.com/v/26215819</guid>
+            <pubDate>Wed, 13 Apr 2022 21:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_260/tgH37_1649882515485zGYf1_JPEG/cover_0000966585_001_20220414054101211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2차 인선도 '서오남'…다양성 고려 없었다]]></title>
             <link>https://tv.naver.com/v/26215208</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 12:36:19 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_238/fKMxG_1649852670118vsYjy_JPEG/cover_0000966572_001_20220413212310745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일부터 60세 이상 '4차 접종' 시작…노바백스도 가능]]></title>
-            <link>https://tv.naver.com/v/26212124</link>
-            <guid>https://tv.naver.com/v/26212124</guid>
-            <pubDate>Wed, 13 Apr 2022 12:36:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_56/ZJUV2_1649852635976Qn4dr_JPEG/cover_0000966578_001_20220413212239442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
