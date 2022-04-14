@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 20:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 21:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[212회_황사 대응과 캠핑장 화재 예방법]]></title>
+            <link>https://tv.naver.com/v/26237578</link>
+            <guid>https://tv.naver.com/v/26237578</guid>
+            <pubDate>Thu, 14 Apr 2022 21:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[15:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_111/R3zuf_1649970700357GrD98_JPEG/cover_cover_20220415055654_20_849_1296950_360_7_0_20220415060601291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백운기의 뉴스와이드] 안철수계는 끝내 없었다 / 윤 당선인, 처음부터 한동훈 '딱 찍은' 이유는?]]></title>
             <link>https://tv.naver.com/v/26233271</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Apr 2022 10:25:59 GMT</pubDate>
             <content:encoded><![CDATA[37:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_69/tvLPH_1649930395543cxr0d_JPEG/cover_cover_20220414184639_20_673_1296914_360_7_0_20220414185701220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-안철수, 만찬 불참·일정 취소…인사 불만 표출?]]></title>
-            <link>https://tv.naver.com/v/26229858</link>
-            <guid>https://tv.naver.com/v/26229858</guid>
-            <pubDate>Thu, 14 Apr 2022 10:25:59 GMT</pubDate>
-            <content:encoded><![CDATA[30:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_210/cB8tV_1649929812567vE54j_JPEG/cover_cover_20220414183950_20_673_1296913_360_7_0_20220414184801234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
