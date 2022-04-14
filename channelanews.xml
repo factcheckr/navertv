@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 07:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 08:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 14일 뉴스A 라이브 클로징]]></title>
+            <link>https://tv.naver.com/v/26227541</link>
+            <guid>https://tv.naver.com/v/26227541</guid>
+            <pubDate>Thu, 14 Apr 2022 08:28:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_204/xsYQ5_1649923996327JQ6DO_JPEG/cover_0000225373_001_20220414171301750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추미애-한동훈, ‘호칭 논란’ 재소환]]></title>
             <link>https://tv.naver.com/v/26224587</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 12:37:10 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_68/3P3hA_1649850821205S0jlQ_JPEG/cover_0000225330_001_20220413205220578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오수, 文에 거부권 요청에 위헌소송까지 “총력 저지”]]></title>
-            <link>https://tv.naver.com/v/26211513</link>
-            <guid>https://tv.naver.com/v/26211513</guid>
-            <pubDate>Wed, 13 Apr 2022 12:37:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_88/ivXVV_1649850816855pfhso_JPEG/cover_0000225329_001_20220413205212026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
