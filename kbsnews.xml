@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 06:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 키워드로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/26225868</link>
+            <guid>https://tv.naver.com/v/26225868</guid>
+            <pubDate>Thu, 14 Apr 2022 07:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[9:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_40/lg2eZ_164992077728592yIr_JPEG/cover_0011248274_001_20220414161702374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든, ‘제노사이드(집단학살)’ 첫 언급…“러, 화학무기 사용 가능성”]]></title>
+            <link>https://tv.naver.com/v/26225751</link>
+            <guid>https://tv.naver.com/v/26225751</guid>
+            <pubDate>Thu, 14 Apr 2022 07:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_68/sPAJi_1649920445881mLhSu_JPEG/cover_0011247717_001_20220414161301229.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 부산 약한 빗방울 오전에 그쳐…곳곳에 찬바람]]></title>
             <link>https://tv.naver.com/v/26223392</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 14 Apr 2022 04:25:23 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_166/yh4Jj_16499076625613AVzS_JPEG/cover_0011248204_001_20220414124011047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘돈바스 결전’ 앞두고 서방 화력 지원…러 “군사 표적될 것”]]></title>
-            <link>https://tv.naver.com/v/26220658</link>
-            <guid>https://tv.naver.com/v/26220658</guid>
-            <pubDate>Thu, 14 Apr 2022 04:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_296/iylon_16499076495908koK3_JPEG/cover_0011248203_001_20220414124001244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘노원 세 모녀 살인’ 김태현, 무기징역 확정]]></title>
-            <link>https://tv.naver.com/v/26220631</link>
-            <guid>https://tv.naver.com/v/26220631</guid>
-            <pubDate>Thu, 14 Apr 2022 04:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_158/UzFMg_1649907528869u9YPO_JPEG/cover_0011248195_001_20220414123801233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
