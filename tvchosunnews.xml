@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 10:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 15일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26253333</link>
+            <guid>https://tv.naver.com/v/26253333</guid>
+            <pubDate>Fri, 15 Apr 2022 11:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_262/JbCEa_1650019901547H1dx7_JPEG/cover_2022041590108_thumb_074715_20220415195101795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거리두기 '전면 해제'…감염병 2급 완화 '일반의료체계 복귀']]></title>
             <link>https://tv.naver.com/v/26248563</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Apr 2022 13:34:54 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_174/gVV8y_1649941029693HF4Dh_JPEG/cover_2022041490138_thumb_095133_20220414215602963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[野, '5·18 막말 논란' 김진태 컷오프…강원지사에 황상무 공천]]></title>
-            <link>https://tv.naver.com/v/26233291</link>
-            <guid>https://tv.naver.com/v/26233291</guid>
-            <pubDate>Thu, 14 Apr 2022 13:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_200/j8NqN_1649940456308qdH5W_JPEG/cover_2022041490148_thumb_094408_20220414214634153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
