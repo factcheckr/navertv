@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 07:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 08:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 15 Apr 2022 03:41:21 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_94/C8jru_1649991841138LSOyx_JPEG/1649991832269.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김일성에 편지 쓴 그녀의 이야기...북한 김정은의 '팩션' 사랑?]]></title>
+            <link>https://tv.naver.com/v/26241676</link>
+            <guid>https://tv.naver.com/v/26241676</guid>
+            <pubDate>Fri, 15 Apr 2022 08:27:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_278/OZuVY_16499917040372MqTA_JPEG/1649991668576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한 태양절 도발 가능성…국제사회 예의 주시]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 09:21:34 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220413_274/GeR5K_1649841627750FgBka_JPEG/1649841598686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러, 우크라 침공...한국에 미친 악영향?! [커넥트코리아]]]></title>
-            <link>https://tv.naver.com/v/26208128</link>
-            <guid>https://tv.naver.com/v/26208128</guid>
-            <pubDate>Thu, 14 Apr 2022 03:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220413_10/WBOYO_1649839755526fqmXi_JPEG/1649839706263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
