@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 01:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 03:41:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 4월 15일 낮 12시]]></title>
+            <link>https://tv.naver.com/v/26242332</link>
+            <guid>https://tv.naver.com/v/26242332</guid>
+            <pubDate>Fri, 15 Apr 2022 03:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_66/Pmx5y_1649993872004XCjML_JPEG/cover_cover_20220415123228_20_845_1296985_360_7_0_20220415123701218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['2022 장애인고용촉진대회' 유공자 정부 포상]]></title>
             <link>https://tv.naver.com/v/26240027</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Apr 2022 22:24:22 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_158/cIvLZ_1649974695896CpP7Q_JPEG/cover_cover_20220415071357_20_605_1296952_360_7_0_20220415071701923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월 15일 굿모닝MBN 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/26237800</link>
-            <guid>https://tv.naver.com/v/26237800</guid>
-            <pubDate>Thu, 14 Apr 2022 22:24:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_93/VfSxT_1649974557561TcrJe_JPEG/cover_cover_20220415071058_20_605_1296951_360_7_0_20220415071501230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
