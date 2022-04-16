@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 01:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 02:56:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 15 Apr 2022 05:25:30 GMT</pubDate>
             <content:encoded><![CDATA[4:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_81/LwMI4_16499994218406X1em_JPEG/1649998353530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태양절 경축 '봄 인민예술축전' 공연…북·중 친선 과시?]]></title>
+            <link>https://tv.naver.com/v/26241813</link>
+            <guid>https://tv.naver.com/v/26241813</guid>
+            <pubDate>Sat, 16 Apr 2022 02:56:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_183/rXizN_16499921131766FO7Q_JPEG/1649992068537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한동훈 "검수완박은 야반도주…범죄자만 검찰 두려워해"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Apr 2022 03:09:19 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220414_99/VhM16_1649904265765ynS1H_JPEG/1649904254611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 국방부 "러 시설 공격당하면 우크라 수도 지휘센터 타격"]]></title>
-            <link>https://tv.naver.com/v/26219107</link>
-            <guid>https://tv.naver.com/v/26219107</guid>
-            <pubDate>Thu, 14 Apr 2022 03:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220414_104/ZGVsn_164990261444048rUT_JPEG/1649902374539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
