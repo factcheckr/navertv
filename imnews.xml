@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 07:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 08:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[중계방송] 4.16 세월호 참사 8주기 기억식]]></title>
+            <link>https://tv.naver.com/v/26265401</link>
+            <guid>https://tv.naver.com/v/26265401</guid>
+            <pubDate>Sat, 16 Apr 2022 08:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:26:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_214/vKcCV_1650093822210KkLUW_PNG/1650093819772.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 주말 따스한 햇살·일교차 조심‥다시 대기 건조]]></title>
             <link>https://tv.naver.com/v/26262231</link>
@@ -37,7 +45,7 @@
             <guid>https://tv.naver.com/v/26262168</guid>
             <pubDate>Sat, 16 Apr 2022 03:31:15 GMT</pubDate>
             <content:encoded><![CDATA[8:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_201/W6EYz_1650078388889Te1az_JPEG/111d4cb1-bd32-11ec-98b3-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_64/JbyXO_1650093783285SAXKA_PNG/1650093779644.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[러, 모스크바호 침몰에 키이우 공격 재개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Apr 2022 12:35:33 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_193/UkOqY_1650023470013fntLS_JPEG/cover_cover_desk_20220415_203922_1_26_Large_20220415204403432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2주 연속 우승 도전' 안세영 '기다려 천위페이!']]></title>
-            <link>https://tv.naver.com/v/26254329</link>
-            <guid>https://tv.naver.com/v/26254329</guid>
-            <pubDate>Fri, 15 Apr 2022 12:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_230/MKYGP_1650022965286vLeiM_JPEG/cover_cover_desk_20220415_203709_1_24_Large_20220415204202853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

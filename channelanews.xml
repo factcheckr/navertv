@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 07:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 08:26:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이은해·조현수 압송 모습 포착…묵묵부답]]></title>
+            <link>https://tv.naver.com/v/26266303</link>
+            <guid>https://tv.naver.com/v/26266303</guid>
+            <pubDate>Sat, 16 Apr 2022 08:26:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_90/cjN1M_1650097458447kpTA8_JPEG/cover_0000225481_001_20220416172401859.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앵커의 마침표]K방역 오답 노트]]></title>
             <link>https://tv.naver.com/v/26256135</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Apr 2022 12:36:38 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_262/05T1c_1650021878112atRjv_JPEG/cover_0000225451_001_20220415202320188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의료체계도 독감처럼…코로나 확진자 격리 의무 사라진다]]></title>
-            <link>https://tv.naver.com/v/26253928</link>
-            <guid>https://tv.naver.com/v/26253928</guid>
-            <pubDate>Fri, 15 Apr 2022 12:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_256/TXqxE_1650021844099QGE4C_JPEG/cover_0000225450_001_20220415202311165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
