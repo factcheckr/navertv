@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 02:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 03:32:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경기 군포 아파트 1,200세대 정전…5시간 만에 복구]]></title>
+            <link>https://tv.naver.com/v/26262155</link>
+            <guid>https://tv.naver.com/v/26262155</guid>
+            <pubDate>Sat, 16 Apr 2022 03:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_178/I0XDJ_165007837503473c3y_JPEG/cover_0000967192_001_20220416120501195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["공산당원 나와!" 中 부촌서 이례적 대규모 시위, 왜? [비디오머그]]]></title>
             <link>https://tv.naver.com/v/26261963</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Apr 2022 15:22:49 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_252/Iwk0r_1650034404838EyDHi_JPEG/cover_0000967096_001_20220415235211756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[40차례 넘게 조정된 거리두기…효과 줄고 고통 커졌다]]></title>
-            <link>https://tv.naver.com/v/26257792</link>
-            <guid>https://tv.naver.com/v/26257792</guid>
-            <pubDate>Fri, 15 Apr 2022 15:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_273/rHak0_16500344412409ayL4_JPEG/cover_0000967098_001_20220415235201265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

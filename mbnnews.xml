@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 02:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 03:32:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신문브리핑 1 "아빠 병원서 진단받고…정호영 아들 '현역→4급' 판정 달라졌다" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/26262293</link>
+            <guid>https://tv.naver.com/v/26262293</guid>
+            <pubDate>Sat, 16 Apr 2022 03:32:20 GMT</pubDate>
+            <content:encoded><![CDATA[22:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_287/TjTDp_1650079734678UlLnB_JPEG/cover_cover_20220416121155_20_606_1297057_360_7_0_20220416122001240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월 말 '격리의무' 해제…치료비 환자 부담]]></title>
             <link>https://tv.naver.com/v/26261804</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Apr 2022 12:36:47 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_292/9esiH_165002414749170VOr_JPEG/cover_cover_20220415205548_20_552_1297022_360_7_0_20220415210101216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['최대 재건축' 둔촌주공 '공사 중단'…일반 분양 안갯속]]></title>
-            <link>https://tv.naver.com/v/26254639</link>
-            <guid>https://tv.naver.com/v/26254639</guid>
-            <pubDate>Fri, 15 Apr 2022 12:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_11/eIjRK_16500238925649szbu_JPEG/cover_cover_20220415205026_20_552_1297021_360_7_0_20220415205701259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
