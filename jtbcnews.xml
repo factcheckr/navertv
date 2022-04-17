@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 20:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 21:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 포근하고 때때로 비…내일 서울 낮 19도 맑음]]></title>
+            <link>https://tv.naver.com/v/26287551</link>
+            <guid>https://tv.naver.com/v/26287551</guid>
+            <pubDate>Sun, 17 Apr 2022 21:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_65/fho9m_1650230112046kVU8v_JPEG/cover_0000295860_001_20220418061501677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백브리핑] 역사상 최초 '공천 수능' 이준석 대표도 시험봐]]></title>
             <link>https://tv.naver.com/v/26282547</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Apr 2022 10:24:10 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220416_205/oumVP_16501036788394O9RV_JPEG/cover_0000295957_001_20220416190701704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[크로스체크] 해저터널서 갑자기 차 세운 그들…목숨 건 '인증샷']]></title>
-            <link>https://tv.naver.com/v/26267833</link>
-            <guid>https://tv.naver.com/v/26267833</guid>
-            <pubDate>Sat, 16 Apr 2022 10:24:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_174/LZVEZ_1650103221456mSJ7c_JPEG/cover_0000295954_001_20220416185901697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
