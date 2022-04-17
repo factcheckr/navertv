@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 09:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이은해, 검찰 조사서 진술 회피…‘대포폰’ 2대 분석 중]]></title>
+            <link>https://tv.naver.com/v/26281226</link>
+            <guid>https://tv.naver.com/v/26281226</guid>
+            <pubDate>Sun, 17 Apr 2022 10:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_166/Fx0or_16501908774168fXXR_JPEG/cover_0000225517_001_20220417192009650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[화나요 뉴스]지금은 뭘 해야 할 때입니까?]]></title>
             <link>https://tv.naver.com/v/26279750</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Apr 2022 13:30:02 GMT</pubDate>
             <content:encoded><![CDATA[6:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220415_262/1dtGX_1650026981298s9Vdk_JPEG/cover_0000225444_001_20220415214646656.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤핵관도 몰랐던…‘원조 윤핵관’ 한동훈]]></title>
-            <link>https://tv.naver.com/v/26255659</link>
-            <guid>https://tv.naver.com/v/26255659</guid>
-            <pubDate>Fri, 15 Apr 2022 13:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[12:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220415_228/v3c7E_1650027152798iGHxb_JPEG/cover_0000225441_001_20220415214629660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

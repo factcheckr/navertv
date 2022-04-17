@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 09:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 국민의힘, 공천후보자 자격 시험…기자가 직접 풀어봤더니 (ft.SBS 김형래 기자)]]></title>
+            <link>https://tv.naver.com/v/26280268</link>
+            <guid>https://tv.naver.com/v/26280268</guid>
+            <pubDate>Sun, 17 Apr 2022 10:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_272/xCXDr_1650187300063wCCwG_JPEG/cover_0000967369_001_20220417181812124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨네멘터리] "이게 실제 영상이라고?" 마이클 베이의 신무기]]></title>
             <link>https://tv.naver.com/v/26279429</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Apr 2022 08:25:11 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220416_269/sJUXQ_1650095094831Eu0H2_JPEG/cover_0000967200_001_20220416164309572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 계곡 살인 피의자 이은해-조현수 체포…모습 포착]]></title>
-            <link>https://tv.naver.com/v/26265771</link>
-            <guid>https://tv.naver.com/v/26265771</guid>
-            <pubDate>Sat, 16 Apr 2022 08:25:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_212/Tpt3o_1650095059165NvRIU_JPEG/cover_0000967224_001_20220416164301208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

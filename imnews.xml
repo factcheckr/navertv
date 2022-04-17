@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 09:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 10:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트 예고] 윤석열 정부 첫 내각 인선 논란]]></title>
+            <link>https://tv.naver.com/v/26280357</link>
+            <guid>https://tv.naver.com/v/26280357</guid>
+            <pubDate>Sun, 17 Apr 2022 10:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_287/EqKp9_1650187457800Wxncm_JPEG/cover_cover_PCA_20220413_20_20220417182402778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 따스한 봄 햇살, 큰 일교차 주의‥건조특보 확대]]></title>
             <link>https://tv.naver.com/v/26276072</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Apr 2022 12:34:50 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220416_23/zRwNe_165010887172427iRD_JPEG/cover_cover_desk_20220416_201038_1_5_Large_20220416203338557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[활동반경 근처 은신‥검거 압박받자 아버지에게 "자수"]]></title>
-            <link>https://tv.naver.com/v/26269266</link>
-            <guid>https://tv.naver.com/v/26269266</guid>
-            <pubDate>Sat, 16 Apr 2022 12:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_144/1hKrS_16501088704394jEbn_JPEG/cover_cover_desk_20220416_200541_1_3_Large_20220416203321330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
