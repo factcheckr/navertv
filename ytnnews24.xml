@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 14:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 15:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정호영 후보자, 의혹 반박 기자회견...정면돌파 의지]]></title>
+            <link>https://tv.naver.com/v/26285167</link>
+            <guid>https://tv.naver.com/v/26285167</guid>
+            <pubDate>Sun, 17 Apr 2022 15:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[30:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_102/GBnpv_1650205734359U5VRP_JPEG/cover_cover_202204172248499722_t_20220417232702250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 분홍빛 가득한 동산에]]></title>
             <link>https://tv.naver.com/v/26284787</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Apr 2022 13:27:36 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220417_275/jy6Ja_1650201135679uATqt_JPEG/cover_cover_202204172206322708_t_20220417221102344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["코로나19 환자 분변서 감염 후 7개월까지도 바이러스 검출"]]></title>
-            <link>https://tv.naver.com/v/26284124</link>
-            <guid>https://tv.naver.com/v/26284124</guid>
-            <pubDate>Sun, 17 Apr 2022 13:27:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_88/8dEfl_16502009785822EnDr_JPEG/cover_cover_202204172206120929_t_20220417220911198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
