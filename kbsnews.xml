@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 23:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 01:45:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“내부 적(敵)과 싸우는 전문의”…응급의학과 곽경훈 인터뷰]]></title>
+            <link>https://tv.naver.com/v/26275250</link>
+            <guid>https://tv.naver.com/v/26275250</guid>
+            <pubDate>Sun, 17 Apr 2022 01:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_80/vYAwb_1650157948516CLQd4_JPEG/cover_0011249548_001_20220417101201252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[8시뉴스 날씨] 오늘도 맑고 일교차 커…내륙 곳곳 대기 건조]]></title>
             <link>https://tv.naver.com/v/26274870</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Apr 2022 14:20:08 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220416_202/zBkYH_1650115771274D6v0V_JPEG/cover_0011249441_001_20220416222834505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거리두기 없어지는데…꼭 지켜야할 방역수칙은?]]></title>
-            <link>https://tv.naver.com/v/26271166</link>
-            <guid>https://tv.naver.com/v/26271166</guid>
-            <pubDate>Sat, 16 Apr 2022 14:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_207/MWYYh_1650115753797Iy4Dx_JPEG/cover_0011249440_001_20220416222823106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
