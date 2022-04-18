@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경기지사 후보 유승민 “본선에서 김은혜보다 많은 표 얻을 것”]]></title>
+            <link>https://tv.naver.com/v/26293929</link>
+            <guid>https://tv.naver.com/v/26293929</guid>
+            <pubDate>Mon, 18 Apr 2022 06:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[15:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_224/25mLC_1650259469341MP1o3_JPEG/cover_0000225543_001_20220418141701776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]오늘 수도권·충청 미세먼지…동쪽·남부 건조주의보]]></title>
             <link>https://tv.naver.com/v/26293916</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Apr 2022 12:35:48 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220416_293/vB4mh_16501113643507OYm4_JPEG/cover_0000225486_001_20220416211501769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여랑야랑]‘검수완박’ 숨은 의도 / 한동훈 청문회 ‘전운’]]></title>
-            <link>https://tv.naver.com/v/26269695</link>
-            <guid>https://tv.naver.com/v/26269695</guid>
-            <pubDate>Sat, 16 Apr 2022 12:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_177/zIyZV_1650110243961zKiur_JPEG/cover_0000225489_001_20220416205501787.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
