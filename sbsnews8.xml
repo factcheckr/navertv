@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 01:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 03:20:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/26291804</link>
+            <guid>https://tv.naver.com/v/26291804</guid>
+            <pubDate>Mon, 18 Apr 2022 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_28/tRF1X_1650251868990fG3FC_JPEG/cover_0000967498_001_20220418121708505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엉문현답] 코로나에 걸리면 뇌가 작아지나요?]]></title>
+            <link>https://tv.naver.com/v/26291057</link>
+            <guid>https://tv.naver.com/v/26291057</guid>
+            <pubDate>Mon, 18 Apr 2022 03:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_271/0XuG7_1650249278789Noo8y_JPEG/cover_0000967488_001_20220418113401229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[술 취해 미성년 추행했는데…"증거 없다" 풀어줘]]></title>
             <link>https://tv.naver.com/v/26290096</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 17 Apr 2022 23:21:54 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220418_175/7NJKc_16502346211081dWsV_JPEG/cover_0000967423_001_20220418072901205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러 "마리우폴 투항하라" 최후통첩…우크라 "결사 항전"]]></title>
-            <link>https://tv.naver.com/v/26287736</link>
-            <guid>https://tv.naver.com/v/26287736</guid>
-            <pubDate>Sun, 17 Apr 2022 23:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_262/3xsFE_1650234133080Qktjb_JPEG/cover_0000967421_001_20220418072101210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호영 사퇴설 일축 "자녀 의혹, 어떤 부당행위 없었다"]]></title>
-            <link>https://tv.naver.com/v/26287720</link>
-            <guid>https://tv.naver.com/v/26287720</guid>
-            <pubDate>Sun, 17 Apr 2022 22:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_71/otO24_1650233769676eMyzQ_JPEG/cover_0000967419_001_20220418071501190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
