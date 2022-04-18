@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 13:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 14:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 4월 18일 월요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/26306634</link>
+            <guid>https://tv.naver.com/v/26306634</guid>
+            <pubDate>Mon, 18 Apr 2022 14:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_124/kejnU_1650291213851WvCtr_JPEG/cover_cover_20220418230851_20_812_1297201_360_7_0_20220418231301237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]맑은 봄 날씨 속 건조 확대…중서부 탁한 공기]]></title>
             <link>https://tv.naver.com/v/26304817</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 18 Apr 2022 10:25:46 GMT</pubDate>
             <content:encoded><![CDATA[10:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220418_99/tpVwh_1650276122128WQygW_JPEG/cover_cover_20220418185237_20_673_1297169_360_7_0_20220418185801306.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-정호영, 자녀 의혹 정면 반박…인수위 "조국과 뭐가 같나?"]]></title>
-            <link>https://tv.naver.com/v/26301596</link>
-            <guid>https://tv.naver.com/v/26301596</guid>
-            <pubDate>Mon, 18 Apr 2022 10:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[15:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_208/qRDGL_16502759900367kdkw_JPEG/cover_cover_20220418184830_20_673_1297168_360_7_0_20220418185401278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
