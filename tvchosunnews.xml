@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 10:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 11:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 18일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26302624</link>
+            <guid>https://tv.naver.com/v/26302624</guid>
+            <pubDate>Mon, 18 Apr 2022 11:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_174/IZap9_1650279104031VQT3u_JPEG/cover_2022041890133_thumb_074722_20220418195101800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정호영, 의혹 적극 반박…與 "불법·위법 아니면 공정한가"]]></title>
             <link>https://tv.naver.com/v/26290976</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Apr 2022 11:18:44 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220417_190/Kecy0_1650193053634HuUfq_JPEG/cover_2022041790068_thumb_075456_20220417195632750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['행방 묘연'했던 이은해·조현수, 심야외출·식사습관에 덜미]]></title>
-            <link>https://tv.naver.com/v/26281800</link>
-            <guid>https://tv.naver.com/v/26281800</guid>
-            <pubDate>Sun, 17 Apr 2022 11:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220417_55/WDfbn_1650193051626vugeu_JPEG/cover_2022041790052_thumb_075254_20220417195624870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
