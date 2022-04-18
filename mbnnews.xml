@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 전국 구름 많고 포근해요…서쪽 미세먼지↑]]></title>
+            <link>https://tv.naver.com/v/26299015</link>
+            <guid>https://tv.naver.com/v/26299015</guid>
+            <pubDate>Mon, 18 Apr 2022 08:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_90/Fi4bR_1650269760875KaVoB_JPEG/cover_cover_20220418171019_20_812_1297160_360_7_0_20220418171501275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 이은해·조현수 구속영장 청구 [김주하 AI 뉴스]]]></title>
             <link>https://tv.naver.com/v/26292163</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Apr 2022 23:22:48 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220418_253/xvP2F_1650234129777EMYY3_JPEG/cover_cover_20220418071519_20_605_1297123_360_7_0_20220418072101216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘부터 사회적 거리두기 해제…"마스크는 착용해야"]]></title>
-            <link>https://tv.naver.com/v/26287725</link>
-            <guid>https://tv.naver.com/v/26287725</guid>
-            <pubDate>Sun, 17 Apr 2022 22:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_222/lExUl_1650233889981OXj3d_JPEG/cover_cover_20220418071240_20_605_1297122_360_7_0_20220418071701239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

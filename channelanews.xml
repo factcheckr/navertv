@@ -4,17 +4,9 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:28:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[4월 18일 뉴스A 라이브 클로징]]></title>
-            <link>https://tv.naver.com/v/26296395</link>
-            <guid>https://tv.naver.com/v/26296395</guid>
-            <pubDate>Mon, 18 Apr 2022 07:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_11/Ccqt5_1650264260048kDuW0_JPEG/cover_0000225547_001_20220418154401839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[경기지사 후보 유승민 “본선에서 김은혜보다 많은 표 얻을 것”]]></title>
             <link>https://tv.naver.com/v/26293929</link>
@@ -246,6 +238,14 @@
             <pubDate>Sun, 17 Apr 2022 05:20:23 GMT</pubDate>
             <content:encoded><![CDATA[25:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220417_78/UAqfP_16501713754915AeVj_JPEG/cover_0000225503_001_20220417134601864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부정적 여론 커지자…정호영 후보자 내일 기자회견]]></title>
+            <link>https://tv.naver.com/v/26270096</link>
+            <guid>https://tv.naver.com/v/26270096</guid>
+            <pubDate>Mon, 18 Apr 2022 08:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_293/vB4mh_16501113643507OYm4_JPEG/cover_0000225486_001_20220416211501769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
