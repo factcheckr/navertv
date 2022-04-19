@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 06:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 07:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[국민의힘 경기지사후보 토론회] ① 모두발언]]></title>
+            <link>https://tv.naver.com/v/26318432</link>
+            <guid>https://tv.naver.com/v/26318432</guid>
+            <pubDate>Tue, 19 Apr 2022 07:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_217/xcyLz_1650352086150RekdJ_JPEG/cover_cover_MYH20220419011800038_20220419160702474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[국민의힘 경기지사후보 토론회] ② 공통질문]]></title>
+            <link>https://tv.naver.com/v/26318241</link>
+            <guid>https://tv.naver.com/v/26318241</guid>
+            <pubDate>Tue, 19 Apr 2022 07:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[9:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_86/8ctPU_16503518355052CF7s_JPEG/cover_cover_MYH20220419011900038_20220419160004073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일 중서부 공기질 나쁨…대기 건조 심해]]></title>
             <link>https://tv.naver.com/v/26317224</link>
@@ -14,6 +30,14 @@
             <pubDate>Tue, 19 Apr 2022 06:27:51 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220419_285/1ak6F_1650349358983AVLb3_JPEG/cover_cover_MYH20220419011500038_20220419152203424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈현장] '계곡살인' 이은해·조현수 잠시 뒤 구속영장 심사]]></title>
+            <link>https://tv.naver.com/v/26317162</link>
+            <guid>https://tv.naver.com/v/26317162</guid>
+            <pubDate>Tue, 19 Apr 2022 07:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[17:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_103/mm6r3_1650349769710B14w2_JPEG/cover_cover_MYH20220419011200038_20220419152003474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러군 동부공세 맞서 미군 지원 공격무기 도착]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 19 Apr 2022 04:40:05 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220419_67/R30xa_1650342392901SOSIK_JPEG/cover_cover_MYH20220419007700038_20220419132602587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호영 "불법·부당 하나도 없어…필요시 조사받겠다"]]></title>
-            <link>https://tv.naver.com/v/26314145</link>
-            <guid>https://tv.naver.com/v/26314145</guid>
-            <pubDate>Tue, 19 Apr 2022 04:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_126/0vcKO_1650342267724gevce_JPEG/cover_cover_MYH20220419007600038_20220419132403206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김오수 "대통령 경청 큰 의미…법사위 출석 재요청"]]></title>
-            <link>https://tv.naver.com/v/26314080</link>
-            <guid>https://tv.naver.com/v/26314080</guid>
-            <pubDate>Tue, 19 Apr 2022 04:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_260/PqJI3_1650342094232P27sn_JPEG/cover_cover_MYH20220419007500038_20220419132102636.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내달 12일 코로나 정상회의…윤 당선인-바이든 화상대면?]]></title>
-            <link>https://tv.naver.com/v/26314049</link>
-            <guid>https://tv.naver.com/v/26314049</guid>
-            <pubDate>Tue, 19 Apr 2022 04:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_153/qDqio_1650342017733GwoQA_JPEG/cover_cover_MYH20220419007400038_20220419131902337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

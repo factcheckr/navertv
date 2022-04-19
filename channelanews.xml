@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 06:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 07:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이은해, 두 손으로 얼굴 가리고 법정 출석]]></title>
+            <link>https://tv.naver.com/v/26318467</link>
+            <guid>https://tv.naver.com/v/26318467</guid>
+            <pubDate>Tue, 19 Apr 2022 07:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_49/Sya0O_16503520924019aBj3_JPEG/cover_0000225607_001_20220419160801823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘경기 빅매치’…김은혜 vs 유승민 “이재명 기본주택 개혁”]]></title>
             <link>https://tv.naver.com/v/26316913</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 18 Apr 2022 12:38:08 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220418_19/Q3eiz_1650280960485CulJz_JPEG/cover_0000225568_001_20220418202134167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]尹 공약 ‘병사 월급 200만 원’…내년에 올린다]]></title>
-            <link>https://tv.naver.com/v/26303179</link>
-            <guid>https://tv.naver.com/v/26303179</guid>
-            <pubDate>Mon, 18 Apr 2022 12:38:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_273/TpPXP_1650280999342Os99U_JPEG/cover_0000225567_001_20220418202107390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
