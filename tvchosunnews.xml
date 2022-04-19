@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 19일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26324722</link>
+            <guid>https://tv.naver.com/v/26324722</guid>
+            <pubDate>Tue, 19 Apr 2022 11:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_234/7phfc_1650365806180tA0h5_JPEG/cover_2022041990116_thumb_075354_20220419195601904.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국 평검사회의 시작 "검수완박 법안 문제점과 대응 논의"]]></title>
             <link>https://tv.naver.com/v/26323895</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 18 Apr 2022 13:33:29 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220418_108/D11zD_1650288593709ay9DY_JPEG/cover_2022041890163_thumb_102317_20220418222821306.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대선 이후 강남 아파트 거래 절반 '新고가'…평균 4억원 급등]]></title>
-            <link>https://tv.naver.com/v/26305896</link>
-            <guid>https://tv.naver.com/v/26305896</guid>
-            <pubDate>Mon, 18 Apr 2022 13:33:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220418_85/7qM2G_1650288545886rmNS8_JPEG/cover_2022041890167_thumb_102256_20220418222813471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
