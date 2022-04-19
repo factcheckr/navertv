@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 09:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 10:27:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] ‘높이뛰기 스타’ 우상혁의 깜짝 이벤트. 육상경기장에 커피차가 떴다!]]></title>
+            <link>https://tv.naver.com/v/26322878</link>
+            <guid>https://tv.naver.com/v/26322878</guid>
+            <pubDate>Tue, 19 Apr 2022 10:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_242/Oi9hh_1650360641841G78ml_JPEG/cover_cover_220419_1900_640_20220419182902622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 곡우, 맑고 따뜻해요‥수도권 초미세먼지↑]]></title>
             <link>https://tv.naver.com/v/26320313</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Apr 2022 01:55:24 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220419_228/kmmlY_1650329764493EOnu7_JPEG/cover_cover_0930_20220419_094034_1_7_Large_20220419095545009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스피 상승 출발‥2,700 상회]]></title>
-            <link>https://tv.naver.com/v/26310335</link>
-            <guid>https://tv.naver.com/v/26310335</guid>
-            <pubDate>Tue, 19 Apr 2022 01:55:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220419_40/QaOyP_1650329755375rXqr2_JPEG/cover_cover_0930_20220419_093934_1_6_Large_20220419095538545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
