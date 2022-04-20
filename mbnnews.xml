@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 08:29:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 09:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 공천 배제? 민주당 내홍]]></title>
+            <link>https://tv.naver.com/v/26344119</link>
+            <guid>https://tv.naver.com/v/26344119</guid>
+            <pubDate>Wed, 20 Apr 2022 09:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[20:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_215/fPV4T_1650443833649qqkW4_JPEG/cover_cover_20220420172425_20_812_1297333_360_7_0_20220420173002736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] '반말' 논란에 파행]]></title>
             <link>https://tv.naver.com/v/26343903</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Apr 2022 23:21:01 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220420_233/783zN_1650408476057LDm3p_JPEG/cover_cover_20220420074305_20_605_1297298_360_7_0_20220420074701341.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, 마스크 없이 비행기와 택시 탑승…"방역보다 자유"]]></title>
-            <link>https://tv.naver.com/v/26331823</link>
-            <guid>https://tv.naver.com/v/26331823</guid>
-            <pubDate>Tue, 19 Apr 2022 23:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220420_150/Mtofu_1650408313915Qxisb_JPEG/cover_cover_20220420074055_20_605_1297297_360_7_0_20220420074401282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
