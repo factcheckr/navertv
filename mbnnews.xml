@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 20:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 21:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[215회_최근 산불 원인과 산불 예방 요령]]></title>
+            <link>https://tv.naver.com/v/26374036</link>
+            <guid>https://tv.naver.com/v/26374036</guid>
+            <pubDate>Thu, 21 Apr 2022 21:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[15:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_190/EWW46_1650575629983StAWW_JPEG/cover_cover_20220422055955_20_849_1297471_360_7_0_20220422060801280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]건조함 속 강한 바람, 화재 위험↑…내일 중부 약한 비]]></title>
             <link>https://tv.naver.com/v/26370192</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Apr 2022 11:20:15 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220421_168/ahbOB_16505372456296jX9w_JPEG/cover_cover_20220421192926_20_552_1297437_360_7_0_20220421193301216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-윤석열·성 김, 깜짝 만찬…"사적인 자리"]]></title>
-            <link>https://tv.naver.com/v/26367815</link>
-            <guid>https://tv.naver.com/v/26367815</guid>
-            <pubDate>Thu, 21 Apr 2022 10:26:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_33/GKiuG_1650536265754JqGlU_JPEG/cover_cover_20220421190924_20_673_1297433_360_7_0_20220421191601298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
