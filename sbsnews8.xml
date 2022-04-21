@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 04:52:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 05:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 뷰캐넌을 향해 날아온 부러진 방망이 '아찔']]></title>
+            <link>https://tv.naver.com/v/26360458</link>
+            <guid>https://tv.naver.com/v/26360458</guid>
+            <pubDate>Thu, 21 Apr 2022 05:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_10/xaL7g_1650519385752S2Mf4_JPEG/cover_0000968143_001_20220421143601207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 바짝 메마른 대기…중부 서쪽 미세먼지 주의]]></title>
             <link>https://tv.naver.com/v/26358224</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Apr 2022 23:23:08 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220421_13/yJ2Uj_16504948965580y1aR_JPEG/cover_0000968209_001_20220421074709530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 건조특보 확대 '불조심'…'10도 이상' 일교차 유의]]></title>
-            <link>https://tv.naver.com/v/26353711</link>
-            <guid>https://tv.naver.com/v/26353711</guid>
-            <pubDate>Wed, 20 Apr 2022 23:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_11/mkw0V_16504948595151Ayrc_JPEG/cover_0000968208_001_20220421074701233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
