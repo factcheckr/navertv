@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 03:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 04:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 바짝 메마른 대기…중부 서쪽 미세먼지 주의]]></title>
+            <link>https://tv.naver.com/v/26358224</link>
+            <guid>https://tv.naver.com/v/26358224</guid>
+            <pubDate>Thu, 21 Apr 2022 04:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_61/ayO3p_16505124399492CewB_JPEG/cover_0000968293_001_20220421124001258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돈 빌려주고 상품 강매…고금리 불법 대부업자 적발]]></title>
             <link>https://tv.naver.com/v/26358151</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Apr 2022 23:23:08 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220421_11/mkw0V_16504948595151Ayrc_JPEG/cover_0000968208_001_20220421074701233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['박병호 결승포' KT, 시즌 첫 연승…소형준 첫 승 신고]]></title>
-            <link>https://tv.naver.com/v/26353704</link>
-            <guid>https://tv.naver.com/v/26353704</guid>
-            <pubDate>Wed, 20 Apr 2022 23:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_224/1O3lp_165049512368626Tk5_JPEG/cover_0000968207_001_20220421074602330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

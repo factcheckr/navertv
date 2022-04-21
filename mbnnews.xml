@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 03:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 04:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 4월 21일 낮 12시]]></title>
+            <link>https://tv.naver.com/v/26359030</link>
+            <guid>https://tv.naver.com/v/26359030</guid>
+            <pubDate>Thu, 21 Apr 2022 04:52:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_272/ZJoWa_1650515396534dRTl1_JPEG/cover_cover_20220421132604_20_845_1297417_360_7_0_20220421132901193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울시 "박물관·미술관 100개 소장품, AR로 제작"]]></title>
             <link>https://tv.naver.com/v/26358079</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Apr 2022 23:24:03 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220421_177/hV4ut_1650494125836dDVfJ_JPEG/cover_cover_20220421073022_20_605_1297381_360_7_0_20220421073501633.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정호영, 아들 편입 전형 기간에 평가위원장 3차례 동석]]></title>
-            <link>https://tv.naver.com/v/26353624</link>
-            <guid>https://tv.naver.com/v/26353624</guid>
-            <pubDate>Wed, 20 Apr 2022 23:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_85/mmZzk_165049388298877QEd_JPEG/cover_cover_20220421072742_20_605_1297380_360_7_0_20220421073101206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
