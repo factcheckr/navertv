@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 12:39:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 13:34:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[종합뉴스 날씨]건조함 속 강한 바람, 화재 위험↑…내일 중부 약한 비]]></title>
+            <link>https://tv.naver.com/v/26370192</link>
+            <guid>https://tv.naver.com/v/26370192</guid>
+            <pubDate>Thu, 21 Apr 2022 13:34:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_289/Hrhac_1650544782486dQVhP_JPEG/cover_cover_20220421211332_20_552_1297464_360_7_0_20220421213901217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대법 "합의된 동성 군인 성관계 처벌 못 해"…파기 환송]]></title>
             <link>https://tv.naver.com/v/26370170</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Apr 2022 10:26:37 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220421_33/GKiuG_1650536265754JqGlU_JPEG/cover_cover_20220421190924_20_673_1297433_360_7_0_20220421191601298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-호남 찾은 윤석열 "풀 수 있는 규제는 다 풀 것"]]></title>
-            <link>https://tv.naver.com/v/26367780</link>
-            <guid>https://tv.naver.com/v/26367780</guid>
-            <pubDate>Thu, 21 Apr 2022 10:26:37 GMT</pubDate>
-            <content:encoded><![CDATA[4:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_266/j9YAG_1650536179323gUaTc_JPEG/cover_cover_20220421190648_20_673_1297432_360_7_0_20220421191401280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
