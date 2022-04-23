@@ -4,7 +4,7 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 11:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 12:36:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 23 Apr 2022 11:18:30 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_170/c6X25_1650712455593HkELg_JPEG/cover_cover_202204231946554941_t_20220423201329092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 4월 23일 글로벌 리포트]]></title>
+            <link>https://tv.naver.com/v/26403762</link>
+            <guid>https://tv.naver.com/v/26403762</guid>
+            <pubDate>Sat, 23 Apr 2022 12:35:38 GMT</pubDate>
+            <content:encoded><![CDATA[18:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_141/spub2_1650712863770DnB0t_JPEG/cover_cover_202204231941225894_t_20220423201310557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불붙은 美 부동산…금리 인상 효과는 미지수]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 07:21:19 GMT</pubDate>
             <content:encoded><![CDATA[21:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_150/7UzXI_16506966048176AVi5_JPEG/cover_cover_202204231502573008_t_20220423154302112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마리우폴 근처서 집단 매장용 구덩이 또 포착]]></title>
-            <link>https://tv.naver.com/v/26400615</link>
-            <guid>https://tv.naver.com/v/26400615</guid>
-            <pubDate>Sat, 23 Apr 2022 07:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_161/Bh3js_1650696079875lWGR4_JPEG/cover_cover_202204231301512062_t_20220423154102329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
