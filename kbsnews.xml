@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 09:21:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 10:24:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7시 날씨] 내일 오전까지 서해안 안개 주의…내일도 맑고 더워]]></title>
+            <link>https://tv.naver.com/v/26403013</link>
+            <guid>https://tv.naver.com/v/26403013</guid>
+            <pubDate>Sat, 23 Apr 2022 10:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_233/NWAyw_1650708808498Y4kBr_JPEG/cover_0011253774_001_20220423191309982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유엔사무총장, 다음 주 푸틴 이어 젤렌스키 각각 회동]]></title>
+            <link>https://tv.naver.com/v/26403006</link>
+            <guid>https://tv.naver.com/v/26403006</guid>
+            <pubDate>Sat, 23 Apr 2022 10:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_33/1ozXF_1650708798111DTQ9H_JPEG/cover_0011253773_001_20220423191301234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈 “검찰 수사권 폐지 중재안, 부작용 우려”]]></title>
+            <link>https://tv.naver.com/v/26402973</link>
+            <guid>https://tv.naver.com/v/26402973</guid>
+            <pubDate>Sat, 23 Apr 2022 10:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_218/jNfLu_1650708687003Lq2Pt_JPEG/cover_0011253772_001_20220423191101217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[5시 날씨] 휴일인 내일도 맑고 건조…다음 주 초반 전국에 비]]></title>
             <link>https://tv.naver.com/v/26401714</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 01:44:34 GMT</pubDate>
             <content:encoded><![CDATA[12:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_192/sh6cT_1650670737501WRJlO_JPEG/cover_0011253701_001_20220423083503375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말 날씨] 주말, 때 이른 더위…서울 낮 27℃]]></title>
-            <link>https://tv.naver.com/v/26397114</link>
-            <guid>https://tv.naver.com/v/26397114</guid>
-            <pubDate>Fri, 22 Apr 2022 23:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_21/YdDjm_1650668909766hheJR_JPEG/cover_0011253697_001_20220423080801263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스광장 영상] 대한산악연맹 인수봉 등정]]></title>
-            <link>https://tv.naver.com/v/26397107</link>
-            <guid>https://tv.naver.com/v/26397107</guid>
-            <pubDate>Fri, 22 Apr 2022 23:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_56/SyzPm_1650668849905EQaQ0_JPEG/cover_0011253696_001_20220423080701203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스해설] 무모한 핵위협 멈춰야]]></title>
-            <link>https://tv.naver.com/v/26397101</link>
-            <guid>https://tv.naver.com/v/26397101</guid>
-            <pubDate>Fri, 22 Apr 2022 23:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_239/SJvYU_1650668806234pD3nO_JPEG/cover_0011253695_001_20220423080601285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
