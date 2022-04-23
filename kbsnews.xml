@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 05:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 06:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미리보기] 시사기획 창 : 혐오 팬데믹]]></title>
+            <link>https://tv.naver.com/v/26400287</link>
+            <guid>https://tv.naver.com/v/26400287</guid>
+            <pubDate>Sat, 23 Apr 2022 06:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_278/c8KQA_1650694236904Atd6m_JPEG/cover_0011253757_001_20220423151001289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거리두기 해제 첫 ‘불금’ 야간 음주단속…“단속 강화할 것”]]></title>
             <link>https://tv.naver.com/v/26398882</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Apr 2022 22:22:09 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_29/lfuvH_1650664658592aW1jc_JPEG/cover_0011253685_001_20220423065701203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필수 보안설비 없이 준공…“검사기준 없다”]]></title>
-            <link>https://tv.naver.com/v/26396809</link>
-            <guid>https://tv.naver.com/v/26396809</guid>
-            <pubDate>Fri, 22 Apr 2022 22:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_118/Rnv1z_1650664544713rYO5B_JPEG/cover_0011253684_001_20220423065501226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
