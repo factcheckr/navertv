@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 01:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 03:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JTBC '대담- 문재인의 5년' 밀도 높은 문답으로 5년 정리]]></title>
+            <link>https://tv.naver.com/v/26398534</link>
+            <guid>https://tv.naver.com/v/26398534</guid>
+            <pubDate>Sat, 23 Apr 2022 03:03:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_49/pzbqQ_1650681678985QlFGx_JPEG/cover_0000296676_001_20220423114101709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D:리포트] "줄 대신 서드려요"…'줄 서기 산업'에 대한 시선]]></title>
             <link>https://tv.naver.com/v/26397936</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Apr 2022 12:40:47 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_1/1rXY7_1650626809857LQlyV_JPEG/cover_0000296647_001_20220422202601768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야, 검수완박 중재안 수용했다…대치 끝 '극적 합의']]></title>
-            <link>https://tv.naver.com/v/26390125</link>
-            <guid>https://tv.naver.com/v/26390125</guid>
-            <pubDate>Fri, 22 Apr 2022 11:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_227/5TZRI_1650624210530icnOl_JPEG/cover_0000296631_001_20220422194201780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

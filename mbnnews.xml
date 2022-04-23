@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 01:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 03:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신문브리핑 1 "與野, 박병석 의장 중재안 합의" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/26398607</link>
+            <guid>https://tv.naver.com/v/26398607</guid>
+            <pubDate>Sat, 23 Apr 2022 03:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[34:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_46/onjWb_1650682442158Kv841_JPEG/cover_cover_20220423114252_20_606_1297588_360_7_0_20220423115101225.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전기요금도 못 냈지만 기초수급자 제외…모자의 비극]]></title>
             <link>https://tv.naver.com/v/26398060</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Apr 2022 12:41:37 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_102/FGz1m_1650628327776YEtVP_JPEG/cover_cover_20220422204346_20_552_1297548_360_7_0_20220422205101225.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['업무비 논란 전력' 김인철, 대교협 법카도 부정사용]]></title>
-            <link>https://tv.naver.com/v/26391675</link>
-            <guid>https://tv.naver.com/v/26391675</guid>
-            <pubDate>Fri, 22 Apr 2022 12:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_78/Tb1hp_1650627955419155ha_JPEG/cover_cover_20220422203956_20_552_1297547_360_7_0_20220422204501258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
