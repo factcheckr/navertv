@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 10:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 11:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 아침 사이 중부지방 이슬비…대구 낮 30도]]></title>
+            <link>https://tv.naver.com/v/26403201</link>
+            <guid>https://tv.naver.com/v/26403201</guid>
+            <pubDate>Sat, 23 Apr 2022 11:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_195/7F6vF_1650709634112VkUwg_JPEG/cover_0000296710_001_20220423192701685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사과 농사도 기계가 한다…보름 걸릴 일 4시간에 '끝']]></title>
             <link>https://tv.naver.com/v/26403128</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Apr 2022 13:39:24 GMT</pubDate>
             <content:encoded><![CDATA[3:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220422_97/MtvT3_1650633422916QReWU_JPEG/cover_0000296655_001_20220422221501714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대만 공영방송 "중국, 미사일 공격"…희대의 8분 오보]]></title>
-            <link>https://tv.naver.com/v/26393667</link>
-            <guid>https://tv.naver.com/v/26393667</guid>
-            <pubDate>Fri, 22 Apr 2022 13:39:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220422_142/Po3AO_16506332425124gzrL_JPEG/cover_0000296654_001_20220422221301665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
