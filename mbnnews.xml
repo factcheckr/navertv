@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 20:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 21:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[216회_기상 전망과 화재 예방법]]></title>
+            <link>https://tv.naver.com/v/26408351</link>
+            <guid>https://tv.naver.com/v/26408351</guid>
+            <pubDate>Sat, 23 Apr 2022 21:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[15:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220424_277/i8rFo_16507473416748kDU1_JPEG/cover_cover_20220424054207_20_849_1297610_360_7_0_20220424055001259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 서울 아파트에서 손발 묶인 여성 숨진 채 발견…경찰, 타살에 무게 두고 수사]]></title>
             <link>https://tv.naver.com/v/26404737</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 01:45:48 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_48/YID00_1650674468269CR7e8_JPEG/cover_cover_20220423093432_20_675_1297577_360_7_0_20220423094001789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["K-콘텐츠 경쟁력 위해 종편 재승인 기간 7년으로 늘려야"]]></title>
-            <link>https://tv.naver.com/v/26397601</link>
-            <guid>https://tv.naver.com/v/26397601</guid>
-            <pubDate>Sat, 23 Apr 2022 01:45:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_295/p5zBY_1650674160211pi8V5_JPEG/cover_cover_20220423093027_20_675_1297576_360_7_0_20220423093502349.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
