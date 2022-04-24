@@ -4,16 +4,32 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 23:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 01:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 한낮 더위 계속…수도권 미세먼지 ‘나쁨’]]></title>
-            <link>https://tv.naver.com/v/26408660</link>
-            <guid>https://tv.naver.com/v/26408660</guid>
-            <pubDate>Sat, 23 Apr 2022 23:21:47 GMT</pubDate>
+            <title><![CDATA[[8시뉴스 날씨] 한낮 더위 계속…수도권 미세먼지 ‘나쁨’]]></title>
+            <link>https://tv.naver.com/v/26408847</link>
+            <guid>https://tv.naver.com/v/26408847</guid>
+            <pubDate>Sun, 24 Apr 2022 01:42:42 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220424_187/ro9bk_1650755903756ychCx_JPEG/cover_0011253910_001_20220424081801233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220424_274/pzORn_1650759023545YLXBx_JPEG/cover_0011253910_001_20220424091001259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든-윤석열 5.21 첫 정상회담…‘판문점·반도체’ 방문할 듯]]></title>
+            <link>https://tv.naver.com/v/26408683</link>
+            <guid>https://tv.naver.com/v/26408683</guid>
+            <pubDate>Sun, 24 Apr 2022 01:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220424_228/CONur_1650756269791lBxr2_JPEG/cover_0011253898_001_20220424082410150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든-윤석열 5.21 첫 정상회담…‘판문점·반도체·넷플릭스’ 키워드]]></title>
+            <link>https://tv.naver.com/v/26408681</link>
+            <guid>https://tv.naver.com/v/26408681</guid>
+            <pubDate>Sun, 24 Apr 2022 01:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220424_83/rrCK6_1650756296685KadH2_JPEG/cover_0011253911_001_20220424082401239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프랑스 대선 오늘 결선 투표…마크롱 vs 르펜]]></title>
@@ -46,14 +62,6 @@
             <pubDate>Sat, 23 Apr 2022 23:21:47 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220424_180/j2aqP_16507557821698CqKc_JPEG/cover_0011253906_001_20220424081601855.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든-윤석열 5.21 첫 정상회담…‘판문점·반도체’ 방문할 듯]]></title>
-            <link>https://tv.naver.com/v/26408619</link>
-            <guid>https://tv.naver.com/v/26408619</guid>
-            <pubDate>Sat, 23 Apr 2022 23:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220424_57/K2Uu8_1650755420316GbRYE_JPEG/cover_0011253898_001_20220424081001229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 오늘도 맑고 더워…대기 건조, 산불 주의]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Apr 2022 14:19:46 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220423_173/Lcd6F_1650720547376FExyS_JPEG/cover_0011253821_001_20220423222813685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 돌아온 ‘꽃축제’…2백 만 송이 튤립의 향연]]></title>
-            <link>https://tv.naver.com/v/26405470</link>
-            <guid>https://tv.naver.com/v/26405470</guid>
-            <pubDate>Sat, 23 Apr 2022 14:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220423_245/su5nV_165072052551611bzg_JPEG/cover_0011253801_001_20220423222752053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
