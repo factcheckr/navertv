@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 01:47:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 03:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상M] 경찰서 앞에서 새벽 음주운전 역주행‥3중 추돌·4명 부상]]></title>
+            <link>https://tv.naver.com/v/26422955</link>
+            <guid>https://tv.naver.com/v/26422955</guid>
+            <pubDate>Mon, 25 Apr 2022 03:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_19/RqN34_1650852463923Tza7q_JPEG/cover_cover_p20220425_7_20220425110702580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스특보] 한덕수 국무총리 후보자, 국회 인사청문회]]></title>
             <link>https://tv.naver.com/v/26422418</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 24 Apr 2022 23:21:10 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220425_75/SJjgt_1650839941153YC27F_JPEG/cover_cover_today_20220425_072755_2_30_Large_20220425073849055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 원인 불명 '어린이 급성 간염'  12개국 확산]]></title>
-            <link>https://tv.naver.com/v/26420486</link>
-            <guid>https://tv.naver.com/v/26420486</guid>
-            <pubDate>Sun, 24 Apr 2022 23:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_196/5gvZI_1650839941629Ja4c4_JPEG/cover_cover_today_20220425_072046_2_25_Large_20220425073841114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
