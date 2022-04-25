@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 06:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 경기도 양주 공장 불…근로자 1명 사망]]></title>
+            <link>https://tv.naver.com/v/26427920</link>
+            <guid>https://tv.naver.com/v/26427920</guid>
+            <pubDate>Mon, 25 Apr 2022 06:28:51 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_148/mvwQz_1650867239385q6NhP_JPEG/cover_0000969063_001_20220425151210996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스브스뉴스] 5월부터 수학여행 가능? 거리두기 해제 후 학교에서 바뀌는 것 총정리]]></title>
+            <link>https://tv.naver.com/v/26427458</link>
+            <guid>https://tv.naver.com/v/26427458</guid>
+            <pubDate>Mon, 25 Apr 2022 06:28:51 GMT</pubDate>
+            <content:encoded><![CDATA[5:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_133/RAwDE_1650866317146rfN1x_JPEG/cover_0000968639_001_20220425145503898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스딱] 학교도 일상회복 중…교육청, '수학여행 비용' 지원한다]]></title>
             <link>https://tv.naver.com/v/26426223</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 25 Apr 2022 01:46:11 GMT</pubDate>
             <content:encoded><![CDATA[4:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220425_119/A0zPJ_1650846732132Nd8PE_JPEG/cover_0000968987_001_20220425093001222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["멧돼지 울타리 설치 중단…이득보다 손실 크다"]]></title>
-            <link>https://tv.naver.com/v/26420598</link>
-            <guid>https://tv.naver.com/v/26420598</guid>
-            <pubDate>Sun, 24 Apr 2022 23:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_247/PmEV4_1650841100377w4B5O_JPEG/cover_0000968969_001_20220425075701190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 노선버스 총파업 D-1…교통대란 불가피]]></title>
-            <link>https://tv.naver.com/v/26420591</link>
-            <guid>https://tv.naver.com/v/26420591</guid>
-            <pubDate>Sun, 24 Apr 2022 23:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220425_146/GsqXs_1650841003097AqKzt_JPEG/cover_0000968968_001_20220425075609289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
