@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 03:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:36:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 4월 26일 낮 12시]]></title>
+            <link>https://tv.naver.com/v/26445881</link>
+            <guid>https://tv.naver.com/v/26445881</guid>
+            <pubDate>Tue, 26 Apr 2022 04:36:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220426_57/7RGCV_1650944578386BdNs6_JPEG/cover_cover_20220426123748_20_845_1297782_360_7_0_20220426124202019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[6·1 지선] 홍준표, 대구시장 출마…국민의힘 줄줄이 지방선거 출사표]]></title>
             <link>https://tv.naver.com/v/26443837</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Apr 2022 23:25:10 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220426_112/MKCSd_1650926642014arF0x_JPEG/cover_cover_20220426073855_20_605_1297748_360_7_0_20220426074301221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 대규모 심야 열병식 개최…김정은 연설·신무기 등장 주목]]></title>
-            <link>https://tv.naver.com/v/26441355</link>
-            <guid>https://tv.naver.com/v/26441355</guid>
-            <pubDate>Mon, 25 Apr 2022 23:25:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220426_28/wEJy9_1650926409326eU0gG_JPEG/cover_cover_20220426073559_20_605_1297747_360_7_0_20220426073901967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
