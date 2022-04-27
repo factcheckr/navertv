@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 10:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 11:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월 27일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26479751</link>
+            <guid>https://tv.naver.com/v/26479751</guid>
+            <pubDate>Wed, 27 Apr 2022 11:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_61/XnFYe_16510564001968VMyp_JPEG/cover_2022042790114_thumb_074500_20220427194601871.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['검찰청법 개정안' 본회의 개최…국민의힘, 필리버스터 돌입]]></title>
             <link>https://tv.naver.com/v/26477193</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Apr 2022 13:41:23 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220426_87/aXUpa_1650977237560kdweK_JPEG/cover_2022042690155_thumb_094411_20220426214602605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지선 인터뷰] 김동연 더불어민주당 경기지사 후보에게 듣는다]]></title>
-            <link>https://tv.naver.com/v/26459222</link>
-            <guid>https://tv.naver.com/v/26459222</guid>
-            <pubDate>Tue, 26 Apr 2022 13:41:23 GMT</pubDate>
-            <content:encoded><![CDATA[8:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220426_207/CgZ3L_1650977053279dUaCV_JPEG/cover_2022042690153_thumb_093959_20220426214115127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
