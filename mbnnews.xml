@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 12:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 13:39:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 여론조사] '강원지사' 김진태 48.8% 이광재 41.0%…김진태 오차범위 밖 우세]]></title>
+            <link>https://tv.naver.com/v/26482262</link>
+            <guid>https://tv.naver.com/v/26482262</guid>
+            <pubDate>Wed, 27 Apr 2022 13:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_247/Demn3_1651064797935LNL7O_JPEG/cover_cover_20220427220210_20_552_1297913_360_7_0_20220427220601274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]중서부, 내일까지 황사로 탁한 공기…큰 일교차 주의]]></title>
             <link>https://tv.naver.com/v/26481718</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Apr 2022 10:26:26 GMT</pubDate>
             <content:encoded><![CDATA[8:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220427_4/Uo9Q0_1651053897095QXddb_JPEG/cover_cover_20220427185416_20_673_1297877_360_7_0_20220427190201267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-문 대통령 "마땅치 않다"…집무실 이전·선제타격 등 작심 비판]]></title>
-            <link>https://tv.naver.com/v/26478959</link>
-            <guid>https://tv.naver.com/v/26478959</guid>
-            <pubDate>Wed, 27 Apr 2022 10:26:26 GMT</pubDate>
-            <content:encoded><![CDATA[30:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220427_105/agPvG_1651053771360xkpRx_JPEG/cover_cover_20220427184846_20_673_1297876_360_7_0_20220427185701230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
