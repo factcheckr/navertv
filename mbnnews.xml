@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 07:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 4월 28일 목요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/26497512</link>
+            <guid>https://tv.naver.com/v/26497512</guid>
+            <pubDate>Thu, 28 Apr 2022 08:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_55/adkBg_1651133799545X5sF9_JPEG/cover_cover_20220428171252_20_812_1297965_360_7_0_20220428171601290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 오늘 서울 한낮에 24˚C…차차 흐려져 내일 전국 비]]></title>
+            <link>https://tv.naver.com/v/26497463</link>
+            <guid>https://tv.naver.com/v/26497463</guid>
+            <pubDate>Thu, 28 Apr 2022 08:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_70/havjz_1651133692962W0FbD_JPEG/cover_cover_20220428171028_20_812_1297964_360_7_0_20220428171401372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리은행 직원 수백억 횡령 [김주하 AI 뉴스]]]></title>
             <link>https://tv.naver.com/v/26494145</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 27 Apr 2022 23:24:51 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220428_151/8B96Y_16511005684673JbFd_JPEG/cover_cover_20220428075834_20_605_1297929_360_7_0_20220428080202456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글]고성 앞바다 식인상어 '청상아리' 나타나…외 2가지 키워드 기사]]></title>
-            <link>https://tv.naver.com/v/26486352</link>
-            <guid>https://tv.naver.com/v/26486352</guid>
-            <pubDate>Wed, 27 Apr 2022 23:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_229/DlyOa_16511005042751Q4pf_JPEG/cover_cover_20220428075552_20_605_1297928_360_7_0_20220428080001365.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['KT-1 사고' 구름 피하려다 충돌…경로 변경 통보 안 해]]></title>
-            <link>https://tv.naver.com/v/26486302</link>
-            <guid>https://tv.naver.com/v/26486302</guid>
-            <pubDate>Wed, 27 Apr 2022 23:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_276/bD0NZ_1651100213165Yrrqa_JPEG/cover_cover_20220428075143_20_605_1297927_360_7_0_20220428075601237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
