@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 22:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 23:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 슈스뉴스] '유퀴즈' 사태, 누가 유재석을 희생양 삼으려 하나]]></title>
+            <link>https://tv.naver.com/v/26507561</link>
+            <guid>https://tv.naver.com/v/26507561</guid>
+            <pubDate>Thu, 28 Apr 2022 23:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_11/v6VE3_1651187048917AHWte_JPEG/cover_cover_202204290800172716_t_20220429080315924.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 하원도 무기대여법 개정안 통과...우크라이나 무기 지원에 속도전]]></title>
+            <link>https://tv.naver.com/v/26507558</link>
+            <guid>https://tv.naver.com/v/26507558</guid>
+            <pubDate>Thu, 28 Apr 2022 23:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_250/88J9g_1651187039651dt60W_JPEG/cover_cover_202204290759527873_t_20220429080302803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] '역성장' 하는 미국 경제...커지는 공포감에 입 연 바이든]]></title>
             <link>https://tv.naver.com/v/26507326</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 28 Apr 2022 15:25:51 GMT</pubDate>
             <content:encoded><![CDATA[8:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220428_168/L3Y5A_16511572917762GtaK_JPEG/cover_cover_202204282322222736_t_20220428234517037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나이트포커스] 헌법 준수 이어 이번엔 이순신?]]></title>
-            <link>https://tv.naver.com/v/26505368</link>
-            <guid>https://tv.naver.com/v/26505368</guid>
-            <pubDate>Thu, 28 Apr 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[12:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_171/bqGJO_1651157319451xsBj7_JPEG/cover_cover_202204282319200021_t_20220428234502625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 내일 아침 곳곳 비...영남 해안·제주도 너울성 파도 주의]]></title>
-            <link>https://tv.naver.com/v/26505227</link>
-            <guid>https://tv.naver.com/v/26505227</guid>
-            <pubDate>Thu, 28 Apr 2022 15:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_216/EoM19_1651156403773Tmrfy_JPEG/cover_cover_202204282329420041_t_20220428233302194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
