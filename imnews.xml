@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 05:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 06:32:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 황사 차츰 물러가‥따가운 봄 햇살]]></title>
+            <link>https://tv.naver.com/v/26494333</link>
+            <guid>https://tv.naver.com/v/26494333</guid>
+            <pubDate>Thu, 28 Apr 2022 06:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_61/Kbdp2_1651127248692Nrj8C_JPEG/cover_cover_14news_20220428_151737_1_8_Large_20220428152712661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['정인이 사건' 양모 징역 35년·양부 5년 확정]]></title>
             <link>https://tv.naver.com/v/26492911</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Apr 2022 23:23:45 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220428_203/Y3QmP_1651100662847zoklb_JPEG/cover_cover_today_20220428_074137_2_41_Large_20220428080402991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스투데이] 검찰청법 무제한 토론 7시간 만에 '회기 종료']]></title>
-            <link>https://tv.naver.com/v/26486237</link>
-            <guid>https://tv.naver.com/v/26486237</guid>
-            <pubDate>Wed, 27 Apr 2022 23:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:46:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_86/LNcWf_1651101589183UwiBX_JPEG/1651101587628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
