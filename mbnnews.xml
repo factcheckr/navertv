@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 07:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 08:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 4월 29일 금요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/26519489</link>
+            <guid>https://tv.naver.com/v/26519489</guid>
+            <pubDate>Fri, 29 Apr 2022 08:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_34/hWCfl_1651220198180MhP1f_JPEG/cover_cover_20220429171325_20_812_1298048_360_7_0_20220429171601288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 비 그치고 낮 기온 뚝… 종일 서늘해요]]></title>
+            <link>https://tv.naver.com/v/26519443</link>
+            <guid>https://tv.naver.com/v/26519443</guid>
+            <pubDate>Fri, 29 Apr 2022 08:30:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_131/CREN2_1651220087768gp5w7_JPEG/cover_cover_20220429171047_20_812_1298047_360_7_0_20220429171401301.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실외 마스크 착용 의무화 해제 [김주하 AI 뉴스]]]></title>
             <link>https://tv.naver.com/v/26512500</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 28 Apr 2022 22:23:00 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_86/bVn10_1651183984007hAJOH_JPEG/cover_cover_20220429070823_20_605_1298013_360_7_0_20220429071202461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월 29일 굿모닝MBN 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/26507306</link>
-            <guid>https://tv.naver.com/v/26507306</guid>
-            <pubDate>Thu, 28 Apr 2022 22:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_184/3kZjm_1651183853135mO7T0_JPEG/cover_cover_20220429070531_20_605_1298012_360_7_0_20220429071001983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[218회_미세먼지 대처 및 산불 예방 요령]]></title>
-            <link>https://tv.naver.com/v/26507140</link>
-            <guid>https://tv.naver.com/v/26507140</guid>
-            <pubDate>Thu, 28 Apr 2022 22:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[15:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_185/ODODN_1651180857009lHOik_JPEG/cover_cover_20220429060646_20_849_1298011_360_7_0_20220429061501274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
