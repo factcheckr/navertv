@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 12:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 13:42:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Fri, 29 Apr 2022 12:43:39 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_69/O5e2C_1651232718536Y20WQ_JPEG/cover_0000226191_001_20220429204439165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인수위, 만 1세까지 매월 100만 원 ‘부모급여’ 추진]]></title>
-            <link>https://tv.naver.com/v/26523606</link>
-            <guid>https://tv.naver.com/v/26523606</guid>
-            <pubDate>Fri, 29 Apr 2022 12:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_19/NNTKH_1651232732924LWvR2_JPEG/cover_0000226188_001_20220429204430963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도시가스 요금 또 인상…서울시 4인 가구 기준 월 2450원 올라]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 29 Apr 2022 12:43:39 GMT</pubDate>
             <content:encoded><![CDATA[9:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_236/hLTTm_1651231220531OsWmw_JPEG/cover_0000226172_001_20220429201601878.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[文 “MB 사면 찬성 많다”…정경심도 끼워넣기?]]></title>
+            <link>https://tv.naver.com/v/26523199</link>
+            <guid>https://tv.naver.com/v/26523199</guid>
+            <pubDate>Fri, 29 Apr 2022 13:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[7:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_8/Y8oFT_1651231139158m1iKT_JPEG/cover_0000226169_001_20220429201545801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
