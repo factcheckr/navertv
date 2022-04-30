@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 19:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 20:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 5월 1일]]></title>
+            <link>https://tv.naver.com/v/26541256</link>
+            <guid>https://tv.naver.com/v/26541256</guid>
+            <pubDate>Sat, 30 Apr 2022 20:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[30:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_259/4MuWW_1651349010879rsjna_JPEG/cover_cover_MYH20220429016100038_20220501050101956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아메리카노 5000원시대, 커피값 어디까지? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/26539032</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Apr 2022 07:22:01 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_223/75Ibs_1651300462607NYDvx_JPEG/cover_cover_MYH20220430006500038_20220430153402650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['614억 횡령' 우리은행 직원 영장심사]]></title>
-            <link>https://tv.naver.com/v/26533965</link>
-            <guid>https://tv.naver.com/v/26533965</guid>
-            <pubDate>Sat, 30 Apr 2022 07:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_198/enOxY_1651300407999xVKrK_JPEG/cover_cover_MYH20220430006400038_20220430153302135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
