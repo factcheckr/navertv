@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 05:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 06:27:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now_영상] '절수 명령' 美 캘리포니아‥"야외 물 사용, 일주일 1번만"]]></title>
+            <link>https://tv.naver.com/v/26533821</link>
+            <guid>https://tv.naver.com/v/26533821</guid>
+            <pubDate>Sat, 30 Apr 2022 06:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_255/potta_1651299731913GJbqB_JPEG/cover_cover_GH220430_3_20220430152203042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['검찰 수사권 분리' 법안 오늘 본회의 처리]]></title>
             <link>https://tv.naver.com/v/26531845</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Apr 2022 12:42:40 GMT</pubDate>
             <content:encoded><![CDATA[0:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_184/39mSB_1651233340208X88u5_JPEG/cover_cover_desk_20220429_204004_1_27_Large_20220429204621217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["키플레이어는 감독님" VS "혼날 준비 됐지?"]]></title>
-            <link>https://tv.naver.com/v/26523637</link>
-            <guid>https://tv.naver.com/v/26523637</guid>
-            <pubDate>Fri, 29 Apr 2022 12:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_84/qD9tZ_1651232811629pxRxq_JPEG/cover_cover_desk_20220429_203720_1_25_Large_20220429204612832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
