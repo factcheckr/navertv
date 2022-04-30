@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 12:36:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 13:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['검수완박' 통과…野 필리버스터 시작]]></title>
+            <link>https://tv.naver.com/v/26538603</link>
+            <guid>https://tv.naver.com/v/26538603</guid>
+            <pubDate>Sat, 30 Apr 2022 13:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:15:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_217/ntLDo_1651322261977Bns9U_JPEG/cover_cover_20220430211518_20_536_1298135_360_7_0_20220430213201289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문 대통령, MB 사면 결단 임박…언제? 김경수·정경심도?]]></title>
             <link>https://tv.naver.com/v/26538301</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Apr 2022 02:00:02 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_26/YHalu_1651278163471jU8mz_JPEG/cover_cover_20220430091447_20_675_1298106_360_7_0_20220430092201264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정은 "적대세력 핵위협 필요 시 선제적으로 제압"]]></title>
-            <link>https://tv.naver.com/v/26529778</link>
-            <guid>https://tv.naver.com/v/26529778</guid>
-            <pubDate>Sat, 30 Apr 2022 02:00:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_273/Ru4WR_16512777775872oy3S_JPEG/cover_cover_20220430091236_20_675_1298105_360_7_0_20220430091601262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
