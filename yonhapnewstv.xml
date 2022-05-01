@@ -4,7 +4,7 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 11:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 12:37:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 01 May 2022 11:18:54 GMT</pubDate>
             <content:encoded><![CDATA[22:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220501_117/vSNLn_1651403825879Rcyx5_JPEG/cover_cover_MYH20220429017600038_20220501200227920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[연합뉴스TV 스페셜] 226회 : "3만 원은 받아야…" 치킨값 폭등의 비밀]]></title>
+            <link>https://tv.naver.com/v/26546793</link>
+            <guid>https://tv.naver.com/v/26546793</guid>
+            <pubDate>Sun, 01 May 2022 12:36:41 GMT</pubDate>
+            <content:encoded><![CDATA[22:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_247/nhNfi_1651404090968sSwXJ_JPEG/cover_cover_MYH20220429020900038_20220501200203196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[일요와이드] 검수완박 검찰청법 개정안 국회 통과]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 01 May 2022 06:27:03 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220501_114/QOr1D_165138592719720Opa_JPEG/cover_cover_MYH20220501008300038_20220501151802535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주, 국무회의 연기 요청…국민의힘 "역사에 죄"]]></title>
-            <link>https://tv.naver.com/v/26544022</link>
-            <guid>https://tv.naver.com/v/26544022</guid>
-            <pubDate>Sun, 01 May 2022 06:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_46/eOQsj_1651385671106rHptU_JPEG/cover_cover_MYH20220501008200038_20220501151402648.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
