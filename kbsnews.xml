@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 09:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 10:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7 날씨] 내일 오전까지 강풍…일교차 커요!]]></title>
+            <link>https://tv.naver.com/v/26546318</link>
+            <guid>https://tv.naver.com/v/26546318</guid>
+            <pubDate>Sun, 01 May 2022 10:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_114/3axv1_1651400077774nSRSo_JPEG/cover_0011258454_001_20220501191401201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실 국가안보실장에 김성한…“2실 5수석” 발표]]></title>
             <link>https://tv.naver.com/v/26545239</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Apr 2022 13:28:16 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_192/DxCmz_1651324819872ngNpT_JPEG/cover_0011258301_001_20220430222001257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 전남 시장·군수 후보 13명 확정…6곳 결선투표]]></title>
-            <link>https://tv.naver.com/v/26539159</link>
-            <guid>https://tv.naver.com/v/26539159</guid>
-            <pubDate>Sat, 30 Apr 2022 13:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_280/1Fn2k_1651324196944Kp8Hz_JPEG/cover_0011258337_001_20220430220901220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

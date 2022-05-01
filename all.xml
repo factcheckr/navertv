@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 09:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 10:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7 날씨] 내일 오전까지 강풍…일교차 커요! (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546318</link>
+            <guid>https://tv.naver.com/v/26546318</guid>
+            <pubDate>Sun, 01 May 2022 10:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_114/3axv1_1651400077774nSRSo_JPEG/cover_0011258454_001_20220501191401201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실 국가안보실장에 김성한…“2실 5수석” 발표 (KBS뉴스 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26545239</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Apr 2022 13:28:16 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_192/DxCmz_1651324819872ngNpT_JPEG/cover_0011258301_001_20220430222001257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 전남 시장·군수 후보 13명 확정…6곳 결선투표 (KBS뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26539159</link>
-            <guid>https://tv.naver.com/v/26539159</guid>
-            <pubDate>Sat, 30 Apr 2022 13:28:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_280/1Fn2k_1651324196944Kp8Hz_JPEG/cover_0011258337_001_20220430220901220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 서늘한 휴일·봄바람 강해‥밤사이 강원 북부 요란한 비 (MBC뉴스 ─ 네이버TV)]]></title>
@@ -488,20 +488,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_99/lpu99_1651318833720IMyB2_JPEG/cover_cover_desk_20220430_201414_1_7_Large_20220430204003105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[비디오머그] 삼성전자·코카콜라 관두고 소리꾼 된 프랑스인…다시 만나 알게 된 놀라운 소식 (SBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26545954</link>
+            <guid>https://tv.naver.com/v/26545954</guid>
+            <pubDate>Sun, 01 May 2022 10:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[7:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_21/BxuHm_1651397724754h0cnc_JPEG/cover_0000970391_001_20220501183101202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[스브스뉴스] 폭력 난무하는 중국 방역에 60년 전 악몽 재조명 (SBS뉴스 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26543165</link>
             <guid>https://tv.naver.com/v/26543165</guid>
             <pubDate>Sun, 01 May 2022 04:46:12 GMT</pubDate>
             <content:encoded><![CDATA[6:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220501_259/d2xyd_1651379028221oKEDS_JPEG/cover_0000970183_001_20220501131901180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 관두고 소리꾼 된 프랑스인…놀라운 근황 공개 [비디오머그] (SBS뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26542838</link>
-            <guid>https://tv.naver.com/v/26542838</guid>
-            <pubDate>Sun, 01 May 2022 04:00:28 GMT</pubDate>
-            <content:encoded><![CDATA[7:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_181/oHmeY_1651376295996Ki0Ld_JPEG/cover_0000970391_001_20220501123303352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신규 확진 3만 7천여 명…내일부터 야외 마스크 해제 (SBS뉴스 ─ 네이버TV)]]></title>
@@ -728,44 +728,100 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_281/qSCDE_1651319943788phyXQ_JPEG/cover_0000970330_001_20220430205609200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[출근시간대 여성 타깃…'입구 넓은 가방' 노려 지갑 슬쩍 (JTBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546400</link>
+            <guid>https://tv.naver.com/v/26546400</guid>
+            <pubDate>Sun, 01 May 2022 10:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_191/1OPx2_1651400615400vKddW_JPEG/cover_0000297477_001_20220501192301592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강원 홍천 주말농장 주택서 큰불…부부·지인 4명 참변 (JTBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546361</link>
+            <guid>https://tv.naver.com/v/26546361</guid>
+            <pubDate>Sun, 01 May 2022 10:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_57/oZiHB_1651400390440njqYL_JPEG/cover_0000297476_001_20220501191901565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[3년만에 열린 백악관 만찬…2000명 넘게 '노마스크' 집결 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26545830</link>
-            <guid>https://tv.naver.com/v/26545830</guid>
-            <pubDate>Sun, 01 May 2022 09:21:30 GMT</pubDate>
+            <link>https://tv.naver.com/v/26546345</link>
+            <guid>https://tv.naver.com/v/26546345</guid>
+            <pubDate>Sun, 01 May 2022 10:24:21 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_283/rA0Go_1651396803598WNUfV_JPEG/cover_0000297475_001_20220501181901551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_197/7pAps_16514002762610puPO_JPEG/cover_0000297475_001_20220501191701827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[백브리핑] 김건희, 이번엔 유기견과 찰칵…본격 행보 나서나 (JTBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546319</link>
+            <guid>https://tv.naver.com/v/26546319</guid>
+            <pubDate>Sun, 01 May 2022 10:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_140/EzjKt_1651400128169WqQh2_JPEG/cover_0000297483_001_20220501191401660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[실외 '굿바이 마스크'…어디까지 프리존? 아이 학교에서는? (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26545815</link>
-            <guid>https://tv.naver.com/v/26545815</guid>
-            <pubDate>Sun, 01 May 2022 09:21:30 GMT</pubDate>
+            <link>https://tv.naver.com/v/26546225</link>
+            <guid>https://tv.naver.com/v/26546225</guid>
+            <pubDate>Sun, 01 May 2022 10:24:21 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_266/eX3oy_1651396739871j5PGO_JPEG/cover_0000297474_001_20220501181701546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_218/i9TrY_1651399612019a8RlA_JPEG/cover_0000297474_001_20220501190601638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국가안보실장 등 '2실-5수석' 대통령실 인선…민정수석 폐지 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26545793</link>
-            <guid>https://tv.naver.com/v/26545793</guid>
-            <pubDate>Sun, 01 May 2022 09:21:30 GMT</pubDate>
+            <link>https://tv.naver.com/v/26546207</link>
+            <guid>https://tv.naver.com/v/26546207</guid>
+            <pubDate>Sun, 01 May 2022 10:24:21 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_88/RNSkg_16513966054112ABcN_JPEG/cover_0000297473_001_20220501181601628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_299/1JLRu_1651399484552oJK6J_JPEG/cover_0000297473_001_20220501190401664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배현진, 박병석에 "앙증맞은 몸" 발언…민주당 "제명감" (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26545731</link>
-            <guid>https://tv.naver.com/v/26545731</guid>
-            <pubDate>Sun, 01 May 2022 09:21:30 GMT</pubDate>
+            <link>https://tv.naver.com/v/26546187</link>
+            <guid>https://tv.naver.com/v/26546187</guid>
+            <pubDate>Sun, 01 May 2022 10:24:21 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_153/9BLXm_1651396302882w3rLm_JPEG/cover_0000297472_001_20220501181101572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_7/Wq1Aw_16513993157944gdTQ_JPEG/cover_0000297472_001_20220501190101587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["발로 걷어차" "뭘 진정이야" 격렬 저항…7시간 아수라장 국회 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26545721</link>
-            <guid>https://tv.naver.com/v/26545721</guid>
-            <pubDate>Sun, 01 May 2022 09:21:30 GMT</pubDate>
+            <link>https://tv.naver.com/v/26546148</link>
+            <guid>https://tv.naver.com/v/26546148</guid>
+            <pubDate>Sun, 01 May 2022 10:24:21 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_149/22tz5_1651396281036SOQmm_JPEG/cover_0000297471_001_20220501181001665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_124/9Nu5k_16513990295359XaiJ_JPEG/cover_0000297471_001_20220501185601647.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캔자스 할퀸 '괴물 토네이도'…건물 1000채 쑥대밭 (JTBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546045</link>
+            <guid>https://tv.naver.com/v/26546045</guid>
+            <pubDate>Sun, 01 May 2022 10:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_68/u3Kgi_1651398351209l80kH_JPEG/cover_0000297482_001_20220501184501591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[W] 머스크의 트위터 '표현의 자유' 내세웠는데, 최대 수혜자는 트럼프 (JTBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546042</link>
+            <guid>https://tv.naver.com/v/26546042</guid>
+            <pubDate>Sun, 01 May 2022 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_28/YLXR7_16513983182118TjDG_JPEG/cover_0000297481_001_20220501184401692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["차별 없는 노동권 보장"…전국 곳곳 노동자들의 외침 (JTBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546012</link>
+            <guid>https://tv.naver.com/v/26546012</guid>
+            <pubDate>Sun, 01 May 2022 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_120/okdla_1651398050885FWYYQ_JPEG/cover_0000297480_001_20220501184001944.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이런법이] 오피스텔에 물려도, '14일' 기억하면 '호갱' 안 된다 (JTBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26545997</link>
+            <guid>https://tv.naver.com/v/26545997</guid>
+            <pubDate>Sun, 01 May 2022 10:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_186/IDYz2_1651397932993Wsupl_JPEG/cover_0000297479_001_20220501183801655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[D:인사이드] 길어지는 전쟁...접경지에서 만난 '현장의 사람들' (JTBC뉴스 ─ 네이버TV)]]></title>
@@ -912,60 +968,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_87/pbhJt_16513219311331NGhF_JPEG/cover_0000297428_001_20220430213101699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[똑똑! 경제] 편의점서 치킨 튀기고, 사진 찍어주고…로봇의 진화 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26536681</link>
-            <guid>https://tv.naver.com/v/26536681</guid>
-            <pubDate>Sat, 30 Apr 2022 10:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_240/8teVq_1651312929310wxHfE_JPEG/cover_0000297442_001_20220430190101689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계획 짜고 자금 대고…이은해·조현수 조력자들 구속 기로 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26536497</link>
-            <guid>https://tv.naver.com/v/26536497</guid>
-            <pubDate>Sat, 30 Apr 2022 10:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_53/Ir4FJ_1651311938697w9IDg_JPEG/cover_0000297437_001_20220430184501687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 '52주 신저가' 하락세 패닉…개미들 아우성 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26536322</link>
-            <guid>https://tv.naver.com/v/26536322</guid>
-            <pubDate>Sat, 30 Apr 2022 10:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_140/u3LUC_1651310985492AcssG_JPEG/cover_0000297434_001_20220430182901692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["엄마손 얼마만에 잡아보는지"…요양병원 눈물의 상봉 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26536289</link>
-            <guid>https://tv.naver.com/v/26536289</guid>
-            <pubDate>Sat, 30 Apr 2022 10:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_18/yChLK_16513108260090iVfC_JPEG/cover_0000297432_001_20220430182601753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['검수완박 한 축' 검찰청법 개정안, 오늘 본회의 표결 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26532690</link>
-            <guid>https://tv.naver.com/v/26532690</guid>
-            <pubDate>Sat, 30 Apr 2022 05:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_12/xDqtA_1651294128460P5ngl_JPEG/cover_0000297417_001_20220430134801766.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요양병원·시설 접촉면회, 오늘부터 3주간 한시적 허용 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26532367</link>
-            <guid>https://tv.naver.com/v/26532367</guid>
-            <pubDate>Sat, 30 Apr 2022 04:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_99/bZgAS_1651292416093fASEc_JPEG/cover_0000297418_001_20220430132001810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정은 "적대세력 핵 위협, 필요시 선제적 제압" 재차 시사 (JTBC뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26531957</link>
-            <guid>https://tv.naver.com/v/26531957</guid>
-            <pubDate>Sat, 30 Apr 2022 04:29:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_69/lpBkU_1651289957056rmgpq_JPEG/cover_0000297419_001_20220430123901674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[이재명 대 안철수? '미니대선급' 재보선되나 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26545949</link>
+            <guid>https://tv.naver.com/v/26545949</guid>
+            <pubDate>Sun, 01 May 2022 10:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_237/eiC2D_16513974679311vOjf_JPEG/cover_cover_MYH20220501011900038_20220501183003029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["국민 60%, 여가부 제 역할·기능 못해" (연합뉴스TV ─ 네이버TV)]]></title>
@@ -1198,14 +1206,6 @@
             <pubDate>Sun, 01 May 2022 06:27:03 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220501_91/dE6q0_1651384372183u0pxl_JPEG/cover_cover_MYH20220501008000038_20220501145203352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노동절 대규모 도심 집회…주말 교통 혼잡 (연합뉴스TV ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543816</link>
-            <guid>https://tv.naver.com/v/26543816</guid>
-            <pubDate>Sun, 01 May 2022 06:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_1/5dSdT_1651384337387F83JA_JPEG/cover_cover_MYH20220501006800641_20220501145102227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안젤리나 졸리 우크라이나 깜짝 방문…"아이들 위해" (연합뉴스 ─ 네이버TV)]]></title>
@@ -1448,6 +1448,78 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220428_170/3QpgD_1651115796842fn2xP_JPEG/1651115408568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[원주 교회 화재 큰 불길 잡아..."인명 피해 없어" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546381</link>
+            <guid>https://tv.naver.com/v/26546381</guid>
+            <pubDate>Sun, 01 May 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_248/BOVBO_1651400490863qHe4S_JPEG/cover_cover_202205011819200547_t_20220501192116833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경기 고양 종이봉투 제조 공장에서 불...두 동 전소 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546379</link>
+            <guid>https://tv.naver.com/v/26546379</guid>
+            <pubDate>Sun, 01 May 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_183/xrOCA_1651400479149R0g5k_JPEG/cover_cover_202205011755359964_t_20220501192110150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충남 금산군 진산면 산불..."쓰레기 소각이 원인" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546376</link>
+            <guid>https://tv.naver.com/v/26546376</guid>
+            <pubDate>Sun, 01 May 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_49/Ktk4K_1651400475444J6ttp_JPEG/cover_cover_202205011754034045_t_20220501192103270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['614억 횡령' 우리은행 직원 동생 구속...사용처 수사 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546362</link>
+            <guid>https://tv.naver.com/v/26546362</guid>
+            <pubDate>Sun, 01 May 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_242/z0nf9_1651400396927T64UF_JPEG/cover_cover_202205011908039358_t_20220501191902639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴일 도심 곳곳 북적..."실외 노마스크 기대돼요" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546348</link>
+            <guid>https://tv.naver.com/v/26546348</guid>
+            <pubDate>Sun, 01 May 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_23/h0EXk_1651400275195lopoJ_JPEG/cover_cover_202205011908165015_t_20220501191702713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김성한 "원칙있는 남북 관계"...안보실 대폭 개편 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546158</link>
+            <guid>https://tv.naver.com/v/26546158</guid>
+            <pubDate>Sun, 01 May 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_198/9IP1t_1651399081573A6uQa_JPEG/cover_cover_202205011848210477_t_20220501185701845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민정수석 폐지..."인사 검증은 경찰·검찰·법무부" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546147</link>
+            <guid>https://tv.naver.com/v/26546147</guid>
+            <pubDate>Sun, 01 May 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_56/GVh8w_1651399001781firgB_JPEG/cover_cover_202205011848172391_t_20220501185502098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안보실장 김성한·경제수석 최상목..."대통령실 슬림화" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546129</link>
+            <guid>https://tv.naver.com/v/26546129</guid>
+            <pubDate>Sun, 01 May 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_286/ChNHN_1651398838005Ebeto_JPEG/cover_cover_202205011847587334_t_20220501185302765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당선인 측 "대통령실 슬림화...인사검증 경찰·법무부" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26545881</link>
+            <guid>https://tv.naver.com/v/26545881</guid>
+            <pubDate>Sun, 01 May 2022 10:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_125/jIprg_1651397004259z9xzO_JPEG/cover_cover_202205011524151462_t_20220501182302922.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대검, '검수완박' 법안 정부입법정책협의회 소집 요청 (뉴스는 YTN ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/26545831</link>
             <guid>https://tv.naver.com/v/26545831</guid>
@@ -1616,76 +1688,52 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220501_289/6oKkd_16513846323251meMI_JPEG/cover_cover_202205011416598833_t_20220501145111526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전국 곳곳 노동절 집회...인수위까지 행진 예정 (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543817</link>
-            <guid>https://tv.naver.com/v/26543817</guid>
-            <pubDate>Sun, 01 May 2022 06:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_293/YxPGu_1651384308673jUAGF_JPEG/cover_cover_202205011449088212_t_20220501145102128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[따져보니] 청구 자격·선고 시기…檢, 권한쟁의심판 변수는? (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546380</link>
+            <guid>https://tv.naver.com/v/26546380</guid>
+            <pubDate>Sun, 01 May 2022 10:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_174/WFhiT_1651400582047R2M9f_JPEG/cover_2022050190039_thumb_071942_20220501192110794.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[검찰, 박범계에 '대통령 거부권 요구' 공식 건의 검토 (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543722</link>
-            <guid>https://tv.naver.com/v/26543722</guid>
-            <pubDate>Sun, 01 May 2022 06:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_216/uqTcH_1651383616467UNqS7_JPEG/cover_cover_202205011431101760_t_20220501143902415.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[與, 靑에 국무회의 연기 요청…野 "文 거부권 행사하라" 시위 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546377</link>
+            <guid>https://tv.naver.com/v/26546377</guid>
+            <pubDate>Sun, 01 May 2022 10:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_21/SGm1l_16514005387104Bcce_JPEG/cover_2022050190037_thumb_071534_20220501192102851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[尹 대통령실 인선 발표...'작고 효율적' 2실·5수석 체제 (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543710</link>
-            <guid>https://tv.naver.com/v/26543710</guid>
-            <pubDate>Sun, 01 May 2022 06:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[8:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_16/elqDO_1651383590234qRMVb_JPEG/cover_cover_202205011430264127_t_20220501143702064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA['2실·5수석'체제로 인선 확정…"尹 대통령실 슬림화" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546332</link>
+            <guid>https://tv.naver.com/v/26546332</guid>
+            <pubDate>Sun, 01 May 2022 10:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_12/5uI5s_1651400232368gzruE_JPEG/cover_2022050190035_thumb_071451_20220501191609766.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[현장영상+] "김대기 대통령 비서실장 내정자와 비서실 인선 협의" (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543680</link>
-            <guid>https://tv.naver.com/v/26543680</guid>
-            <pubDate>Sun, 01 May 2022 06:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[18:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_194/i5VEH_1651383386582Tl3LV_JPEG/cover_cover_202205011421063451_t_20220501143102309.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[尹 대통령실 얼마나 '슬림'해졌나…2일부터 청문회 정국 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546331</link>
+            <guid>https://tv.naver.com/v/26546331</guid>
+            <pubDate>Sun, 01 May 2022 10:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_211/5DC9U_16514002881431VAXd_JPEG/cover_2022050190071_thumb_071406_20220501191602204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[자막뉴스] 총 맞아 숨진 택시기사, 인적 드문 산기슭에선 무슨 일이... (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543614</link>
-            <guid>https://tv.naver.com/v/26543614</guid>
-            <pubDate>Sun, 01 May 2022 05:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_69/4EdoO_1651382637619fMV2Y_JPEG/cover_cover_202205011419485373_t_20220501142302711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[안보실장에 김성한…'대북원칙론' 강조·경제안보비서관 신설 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546293</link>
+            <guid>https://tv.naver.com/v/26546293</guid>
+            <pubDate>Sun, 01 May 2022 10:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_206/O7cLA_1651399921157reGnU_JPEG/cover_2022050190033_thumb_070625_20220501191108934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[속보] "국가안보실장에 김성한 고려대 국제대학원 교수 지명" (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543607</link>
-            <guid>https://tv.naver.com/v/26543607</guid>
-            <pubDate>Sun, 01 May 2022 05:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[5:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_227/u0Z4W_1651382557843yCyqb_JPEG/cover_cover_202205011409300194_t_20220501142102598.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 대통령실 인선 오늘 발표...안보실장·5수석 공개 (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543453</link>
-            <guid>https://tv.naver.com/v/26543453</guid>
-            <pubDate>Sun, 01 May 2022 05:26:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_35/oNdmf_16513810690048zKBD_JPEG/cover_cover_202205011354498585_t_20220501135702253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자막뉴스] '614억 횡령' 우리은행 직원 구속, 사라진 돈은 어떻게? (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543351</link>
-            <guid>https://tv.naver.com/v/26543351</guid>
-            <pubDate>Sun, 01 May 2022 04:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_131/xlZDS_16513803507481JXTo_JPEG/cover_cover_202205011342043469_t_20220501134502033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 캔자스주서 강력한 토네이도...건물 수십채 파괴 (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26543228</link>
-            <guid>https://tv.naver.com/v/26543228</guid>
-            <pubDate>Sun, 01 May 2022 04:46:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_120/tbt3N_16513793597427xqQ6_JPEG/cover_cover_202205010451027735_t_20220501132902291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[5월 1일 '뉴스 7' 헤드라인 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546291</link>
+            <guid>https://tv.naver.com/v/26546291</guid>
+            <pubDate>Sun, 01 May 2022 10:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_221/mhFar_1651399902881fxfEU_JPEG/cover_2022050190031_thumb_070508_20220501191101737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내일부터 실외 마스크 의무 착용 해제…시험대 오른 자율방역 (TV조선 뉴스 ─ 네이버TV)]]></title>
@@ -1880,52 +1928,28 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_150/6YfN9_16513147345750HL1T_JPEG/cover_2022043090040_thumb_072509_20220430193101803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[檢 "검수완박 통과는 헌법질서 파괴"…권한쟁의심판 준비 (TV조선 뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26536948</link>
-            <guid>https://tv.naver.com/v/26536948</guid>
-            <pubDate>Sat, 30 Apr 2022 10:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_101/Zvflb_16513141385388i3Mv_JPEG/cover_2022043090032_thumb_071505_20220430192102938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[윤심 실리는 분당갑…安 측, 출마 가능성 열어두고 준비 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546392</link>
+            <guid>https://tv.naver.com/v/26546392</guid>
+            <pubDate>Sun, 01 May 2022 10:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_269/RjGAE_1651400578540pIl7U_JPEG/cover_0000226249_001_20220501192201739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['검수완박' 입법 강행에 의장실 앞 몸싸움…'국회 아수라장' (TV조선 뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26536880</link>
-            <guid>https://tv.naver.com/v/26536880</guid>
-            <pubDate>Sat, 30 Apr 2022 10:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_121/cY5QK_1651313865519niVeA_JPEG/cover_2022043090030_thumb_071342_20220430191602289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[[아는 기자]‘2실 5수석’ 체제…시민사회수석실 강화해 대국민 소통? (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546355</link>
+            <guid>https://tv.naver.com/v/26546355</guid>
+            <pubDate>Sun, 01 May 2022 10:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[4:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_92/4bTcB_1651400413866Fa4lT_JPEG/cover_0000226248_001_20220501191801642.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[형소법 개정안 상정에…野, '자정까지 시한부' 필리버스터 (TV조선 뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26536827</link>
-            <guid>https://tv.naver.com/v/26536827</guid>
-            <pubDate>Sat, 30 Apr 2022 10:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_160/wc0tF_16513135293534m3sl_JPEG/cover_2022043090028_thumb_070925_20220430191108925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] '614억 횡령' 우리은행 직원, 자수 전 호주로 송금…은닉 시도? (TV조선 뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26534582</link>
-            <guid>https://tv.naver.com/v/26534582</guid>
-            <pubDate>Sat, 30 Apr 2022 07:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_1/Ca0J7_1651303008161XKfar_JPEG/cover_2022043090010_thumb_041020_20220430161601805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끊이지 않는 대형 횡령 사고…왜? (TV조선 뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26534175</link>
-            <guid>https://tv.naver.com/v/26534175</guid>
-            <pubDate>Sat, 30 Apr 2022 07:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[8:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_300/CQWbB_16513013668277OzCj_JPEG/cover_2022043090012_thumb_034026_20220430154601807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[文대통령, 석가탄신일 맞아 MB 사면할까? (TV조선 뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26534098</link>
-            <guid>https://tv.naver.com/v/26534098</guid>
-            <pubDate>Sat, 30 Apr 2022 07:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[46:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_225/Rw9wY_1651301064271PW3Oq_JPEG/cover_2022043090008_thumb_033827_20220430154101753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <title><![CDATA[‘사정 컨트롤타워’ 민정수석비서관 54년 만에 폐지 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/26546330</link>
+            <guid>https://tv.naver.com/v/26546330</guid>
+            <pubDate>Sun, 01 May 2022 10:25:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_35/RTiat_1651400229850fFG07_JPEG/cover_0000226247_001_20220501191601745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김동연 “이재명, ‘최대한 돕겠다’ 약속…도정에 혁신 가치 더할 것” (채널A뉴스 ─ 네이버TV)]]></title>
@@ -2142,30 +2166,6 @@
             <pubDate>Fri, 29 Apr 2022 12:43:39 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_140/gztTQ_165123280509011aTT_JPEG/cover_0000226200_001_20220429204618393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]내일 중북부 비 살짝…종일 선선 (채널A뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26523635</link>
-            <guid>https://tv.naver.com/v/26523635</guid>
-            <pubDate>Fri, 29 Apr 2022 12:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_86/EYpjs_1651232798810YN40p_JPEG/cover_0000226199_001_20220429204610939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불꽃 튀는 가드 대결…사흘 뒤부터 챔피언결정전 (채널A뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26523629</link>
-            <guid>https://tv.naver.com/v/26523629</guid>
-            <pubDate>Fri, 29 Apr 2022 12:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_93/IYbTm_1651232841280HDutT_JPEG/cover_0000226198_001_20220429204602896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설악산엔 함박눈 오고 전남 함평엔 나비 날고…두 얼굴의 봄 (채널A뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/26523628</link>
-            <guid>https://tv.naver.com/v/26523628</guid>
-            <pubDate>Fri, 29 Apr 2022 12:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_232/ETCW1_1651232840170P8BHq_JPEG/cover_0000226197_001_20220429204554698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민의힘, 검찰청법 강행 처리 격렬 저항…물리적 충돌도 빚어져 (MBN 뉴스 ─ 네이버TV)]]></title>
