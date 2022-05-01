@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 21:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 22:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 정부 1기 내각 청문회 시작…한덕수 등 19명 검증대]]></title>
+            <link>https://tv.naver.com/v/26551282</link>
+            <guid>https://tv.naver.com/v/26551282</guid>
+            <pubDate>Sun, 01 May 2022 22:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_257/I01Ox_1651443546900bl0LO_JPEG/cover_0000297486_001_20220502071801661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[캔자스 할퀸 '괴물 토네이도'…건물 1000채 쑥대밭]]></title>
             <link>https://tv.naver.com/v/26546508</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Apr 2022 12:35:59 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220430_131/PpYOa_1651322017614Wbj3G_JPEG/cover_0000297430_001_20220430213301665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈체크] 검찰 '대형참사·불법 선거' 손 못댄다…5월엔 형소법 상정]]></title>
-            <link>https://tv.naver.com/v/26538591</link>
-            <guid>https://tv.naver.com/v/26538591</guid>
-            <pubDate>Sat, 30 Apr 2022 12:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220430_173/hbplC_1651321961062k7Ilb_JPEG/cover_0000297429_001_20220430213201730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
