@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 23:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 02:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D:인사이드] "이곳의 상황은 드라마입니다"…우크라이나 접경지의 사람들]]></title>
+            <link>https://tv.naver.com/v/26541972</link>
+            <guid>https://tv.naver.com/v/26541972</guid>
+            <pubDate>Sun, 01 May 2022 02:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220501_293/PTegu_1651367113651vVv5S_JPEG/cover_0000297453_001_20220501100301566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일도 서늘…황사 영향에 전국 미세먼지 '나쁨']]></title>
             <link>https://tv.naver.com/v/26538744</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Apr 2022 13:41:17 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220429_179/RjzhA_1651238938736FgNFJ_JPEG/cover_0000297395_001_20220429222801745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주한미군, '지하터널 장악 훈련' 5년 만에 공개…왜?]]></title>
-            <link>https://tv.naver.com/v/26525072</link>
-            <guid>https://tv.naver.com/v/26525072</guid>
-            <pubDate>Fri, 29 Apr 2022 13:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220429_2/aQGxr_16512388650555o6HI_JPEG/cover_0000297394_001_20220429222701658.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
