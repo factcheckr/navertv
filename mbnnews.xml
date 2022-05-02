@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:30:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 5월 2일 월요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/26562167</link>
+            <guid>https://tv.naver.com/v/26562167</guid>
+            <pubDate>Mon, 02 May 2022 08:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_194/XuvUi_1651479510768BTBgN_JPEG/cover_cover_20220502171341_20_812_1298221_360_7_0_20220502171802908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 오후에 동쪽 소나기…오늘까지 선선해요.]]></title>
+            <link>https://tv.naver.com/v/26562035</link>
+            <guid>https://tv.naver.com/v/26562035</guid>
+            <pubDate>Mon, 02 May 2022 08:30:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_18/U2Eln_1651479296965FClfa_JPEG/cover_cover_20220502171101_20_812_1298220_360_7_0_20220502171401258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰, 성남시청 압수수색 [김주하 AI 뉴스]]]></title>
             <link>https://tv.naver.com/v/26558554</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 01 May 2022 23:22:25 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220502_209/hI5cL_16514444948308YRvg_JPEG/cover_cover_20220502073059_20_605_1298187_360_7_0_20220502073401336.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 법제처에 SOS…'대통령 거부권' 발동 전략 먹힐까]]></title>
-            <link>https://tv.naver.com/v/26551357</link>
-            <guid>https://tv.naver.com/v/26551357</guid>
-            <pubDate>Sun, 01 May 2022 23:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_299/WBG7m_1651444373592HSgGX_JPEG/cover_cover_20220502072824_20_605_1298186_360_7_0_20220502073201252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주, 국무회의 연기 요청…국힘 "문 대통령, 양심 따라야"]]></title>
-            <link>https://tv.naver.com/v/26551339</link>
-            <guid>https://tv.naver.com/v/26551339</guid>
-            <pubDate>Sun, 01 May 2022 23:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_116/d8tDM_1651444258867RXgM3_JPEG/cover_cover_20220502072541_20_605_1298185_360_7_0_20220502073001270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
