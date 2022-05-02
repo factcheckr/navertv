@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 05:01:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:37:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] MBC 중계방송 – 제8회 전국동시지방선거 제3차 정책]]></title>
+            <link>https://tv.naver.com/v/26557110</link>
+            <guid>https://tv.naver.com/v/26557110</guid>
+            <pubDate>Mon, 02 May 2022 05:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:03:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_248/Di1Ek_165146768691971esO_JPEG/cc230736-c9d4-11ec-8726-d4f5ef58ac88_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBC 뉴스특보] 한덕수 국무총리 후보자, 국회 인사청문회]]></title>
             <link>https://tv.naver.com/v/26554934</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 01 May 2022 23:21:23 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220502_160/N1Ulp_1651445984554KKod2_JPEG/cover_cover_today_20220502_071722_2_28_Large_20220502075927266.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 미국 47개 주, 코로나19 광범위 확산]]></title>
-            <link>https://tv.naver.com/v/26551618</link>
-            <guid>https://tv.naver.com/v/26551618</guid>
-            <pubDate>Sun, 01 May 2022 23:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_123/9sF2m_1651445973529D7DKg_JPEG/cover_cover_today_20220502_071613_2_27_Large_20220502075919056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
