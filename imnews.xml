@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 08:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 09:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] MBC 중계방송 – 제8회 전국지방동시선거 정강정책 방송연설..더불어민주당]]></title>
+            <link>https://tv.naver.com/v/26583447</link>
+            <guid>https://tv.naver.com/v/26583447</guid>
+            <pubDate>Tue, 03 May 2022 09:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[19:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_256/fc3gK_1651566901224rmdv4_PNG/1651566889365.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정호영 청문회‥"자진 사퇴" vs "문제없어"]]></title>
             <link>https://tv.naver.com/v/26583247</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 May 2022 01:59:43 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_41/HwZ0v_1651538737238xhYVN_JPEG/cover_cover_0930_20220503_094011_1_4_Large_20220503094502870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['고액 고문료' 공방‥오늘 이틀째 청문회]]></title>
-            <link>https://tv.naver.com/v/26572596</link>
-            <guid>https://tv.naver.com/v/26572596</guid>
-            <pubDate>Tue, 03 May 2022 01:59:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_251/xQTZ0_1651538572912zNsp9_JPEG/cover_cover_0930_20220503_093811_1_3_Large_20220503094216543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
