@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 20:24:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 21:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[220회_코로나19 유행 진단과 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/26592291</link>
+            <guid>https://tv.naver.com/v/26592291</guid>
+            <pubDate>Tue, 03 May 2022 21:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[15:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_157/M5SNp_1651612393534YrWIz_JPEG/cover_cover_20220504055943_20_849_1298340_360_7_0_20220504060701232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정치톡톡] MRI 제출 / 소환된 조국 / 한동훈 청문회 연기 / 김건희 사찰 방문]]></title>
             <link>https://tv.naver.com/v/26588288</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 May 2022 10:29:19 GMT</pubDate>
             <content:encoded><![CDATA[29:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_41/LDlTw_1651572136457WTbhP_JPEG/cover_cover_20220503184117_20_673_1298309_360_7_0_20220503184901206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김주하 AI가 전하는 5월 3일 종합뉴스 예고]]></title>
-            <link>https://tv.naver.com/v/26584580</link>
-            <guid>https://tv.naver.com/v/26584580</guid>
-            <pubDate>Tue, 03 May 2022 09:22:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_286/X7xrF_1651569048971xNSIh_JPEG/cover_cover_20220503180524_20_845_1298307_360_7_0_20220503181001283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
