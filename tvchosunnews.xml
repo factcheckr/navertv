@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 10:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 11:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 3일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26586278</link>
+            <guid>https://tv.naver.com/v/26586278</guid>
+            <pubDate>Tue, 03 May 2022 11:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_235/OsrLy_1651574801243M2YWl_JPEG/cover_2022050390165_thumb_074235_20220503194601852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[배달 오토바이로 떼지어 폭주한 10대들…출동 경찰관 조롱 손짓까지]]></title>
             <link>https://tv.naver.com/v/26580906</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 02 May 2022 13:41:27 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220502_64/g2cNY_16514986218067tUbf_JPEG/cover_2022050290175_thumb_103004_20220502223601753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['또 계절 역주행'…5월 햇살 아래 덕유산 상고대 '장관’]]></title>
-            <link>https://tv.naver.com/v/26568339</link>
-            <guid>https://tv.naver.com/v/26568339</guid>
-            <pubDate>Mon, 02 May 2022 13:41:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220502_99/5cUQ9_16514983382806dU8G_JPEG/cover_2022050290181_thumb_102514_20220502223104017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
