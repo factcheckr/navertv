@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 06:28:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비디오머그] 우크라 탑건 파일럿 '키이우의 유령' 전사 소식…우크라 공군 "영웅 잠들다"]]></title>
+            <link>https://tv.naver.com/v/26579111</link>
+            <guid>https://tv.naver.com/v/26579111</guid>
+            <pubDate>Tue, 03 May 2022 06:27:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_168/0QrCC_1651557986473kJY8z_JPEG/cover_0000970685_001_20220503150501186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 맑은 봄날, 서울 기온 '20도'…영동 지방 산불 주의]]></title>
             <link>https://tv.naver.com/v/26577514</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 02 May 2022 23:22:51 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220503_225/mRPll_1651531741219f9WT2_JPEG/cover_0000970747_001_20220503074801229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 문 연 베이징 '사스 병원'…쌓아둔 배급품 적발]]></title>
-            <link>https://tv.naver.com/v/26571582</link>
-            <guid>https://tv.naver.com/v/26571582</guid>
-            <pubDate>Mon, 02 May 2022 23:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220503_178/QuWFT_1651531447010jb0xT_JPEG/cover_0000970746_001_20220503074301168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
