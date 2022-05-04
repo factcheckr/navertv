@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 09:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 10:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now_영상] 지뢰로 두 다리 잃었지만‥감동의 결혼식]]></title>
+            <link>https://tv.naver.com/v/26605106</link>
+            <guid>https://tv.naver.com/v/26605106</guid>
+            <pubDate>Wed, 04 May 2022 10:24:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_117/7kE4c_1651657230949UzR7p_JPEG/cover_cover_20220504-15_20220504184003690.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엠빅뉴스] 군대에서 두 팔 잃었는데 국방부는 “연금은 늦어서 못준다”]]></title>
             <link>https://tv.naver.com/v/26604441</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 May 2022 03:34:10 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_199/U2chX_1651634918653S67G3_JPEG/cover_cover_noon_20220504_121024_1_3_Large_20220504122819401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한덕수 사퇴해야" vs "새 정부 출범 훼방"]]></title>
-            <link>https://tv.naver.com/v/26597126</link>
-            <guid>https://tv.naver.com/v/26597126</guid>
-            <pubDate>Wed, 04 May 2022 03:34:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_259/ID9WB_1651634936368EwkEv_JPEG/cover_cover_noon_20220504_120739_1_1_Large_20220504122811305.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

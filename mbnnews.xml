@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 09:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 10:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 5월 4일 종합뉴스 예고]]></title>
+            <link>https://tv.naver.com/v/26604917</link>
+            <guid>https://tv.naver.com/v/26604917</guid>
+            <pubDate>Wed, 04 May 2022 10:26:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_283/hBXCC_1651656650049O3vnq_JPEG/cover_cover_20220504182633_20_845_1298382_360_7_0_20220504183001345.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 6일 앞으로 다가온 尹 취임식]]></title>
             <link>https://tv.naver.com/v/26603612</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 May 2022 23:21:37 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_207/NhV0I_1651617188595R2V7q_JPEG/cover_cover_20220504072652_20_605_1298345_360_7_0_20220504073201250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김인철, 20일 만에 자진사퇴…청문회 끝난 한덕수 인준 놓고 고심]]></title>
-            <link>https://tv.naver.com/v/26592576</link>
-            <guid>https://tv.naver.com/v/26592576</guid>
-            <pubDate>Tue, 03 May 2022 23:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_47/ayu5d_1651616941549vYs5X_JPEG/cover_cover_20220504072340_20_605_1298344_360_7_0_20220504072801265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
