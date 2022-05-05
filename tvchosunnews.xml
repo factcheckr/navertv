@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 10:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 11:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 5일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26619158</link>
+            <guid>https://tv.naver.com/v/26619158</guid>
+            <pubDate>Thu, 05 May 2022 11:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_7/CF16M_1651747606240mJC8T_JPEG/cover_2022050590088_thumb_074038_20220505194601785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美 연준, 22년 만에 기준금리 0.5%p 최대 인상]]></title>
             <link>https://tv.naver.com/v/26615682</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 May 2022 13:42:40 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_190/1YZqs_1651669332491pFwoG_JPEG/cover_2022050490171_thumb_095949_20220504220118879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[80세 거장은 3ｍ 피아노를 왜 들고 왔나…피아니스트들의 '완벽주의']]></title>
-            <link>https://tv.naver.com/v/26608524</link>
-            <guid>https://tv.naver.com/v/26608524</guid>
-            <pubDate>Wed, 04 May 2022 13:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_184/4E4vB_1651669027381bCUlP_JPEG/cover_2022050490183_thumb_095328_20220504215610234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
