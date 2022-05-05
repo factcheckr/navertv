@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 20:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 21:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[221회_황사 대처 및 공사장 화재 예방법]]></title>
+            <link>https://tv.naver.com/v/26625046</link>
+            <guid>https://tv.naver.com/v/26625046</guid>
+            <pubDate>Thu, 05 May 2022 21:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[14:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_137/fAIiQ_1651785068000wjgGP_JPEG/cover_cover_20220506055926_20_849_1298463_360_7_0_20220506060501239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백운기의 뉴스와이드] 윤 당선인 측 "무리한 낙마 요구하먼 정호영 임명 강행" 왜? / 윤 당선인 지역 순회에 "선거 개입" 논란?]]></title>
             <link>https://tv.naver.com/v/26620770</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 May 2022 01:52:01 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220505_126/Y4f5F_1651708830160SrqEk_JPEG/cover_cover_20220505080625_20_605_1298420_360_7_0_20220505090001281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝MBN 날씨]어린이날, 맑고 자외선 지수↑…동해안 '산불 주의']]></title>
-            <link>https://tv.naver.com/v/26612064</link>
-            <guid>https://tv.naver.com/v/26612064</guid>
-            <pubDate>Thu, 05 May 2022 01:52:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_267/OY3PT_1651708119681NHNO6_JPEG/cover_cover_20220505084404_20_605_1298429_360_7_0_20220505084801239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
