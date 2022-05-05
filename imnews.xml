@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 09:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 10:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["상 받았다"더니‥"딸에게 상 준 적 없다"]]></title>
+            <link>https://tv.naver.com/v/26618141</link>
+            <guid>https://tv.naver.com/v/26618141</guid>
+            <pubDate>Thu, 05 May 2022 10:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_120/8YnBD_1651743222812XiNVP_JPEG/cover_cover_today_20220505_061516_1_8_Large_20220505183302720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 어린이날 나들이 무난, 큰 일교차 주의‥공기도 깨끗]]></title>
             <link>https://tv.naver.com/v/26613830</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 May 2022 23:22:34 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220505_3/e0ZDy_165170614542895Yj1_JPEG/cover_cover_today_20220505_065314_2_16_Large_20220505081528967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[투데이 와글와글] 손흥민 트위터 계정 개설에 팬들 '환영']]></title>
-            <link>https://tv.naver.com/v/26611871</link>
-            <guid>https://tv.naver.com/v/26611871</guid>
-            <pubDate>Wed, 04 May 2022 23:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_201/Mt8X0_1651706139081XbcPe_JPEG/cover_cover_today_20220505_065222_2_15_Large_20220505081520631.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
