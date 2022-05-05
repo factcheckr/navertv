@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 06:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 07:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 경북 구미 가구공장 화재, 헬기 등 진화 작업 중]]></title>
+            <link>https://tv.naver.com/v/26615861</link>
+            <guid>https://tv.naver.com/v/26615861</guid>
+            <pubDate>Thu, 05 May 2022 07:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_194/mnKWt_1651732464663PHilk_JPEG/cover_0011261109_001_20220505153409205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 아파트 가격 5주 만에 상승 전환…“규제완화·개발 기대감”]]></title>
             <link>https://tv.naver.com/v/26615006</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 May 2022 01:50:47 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220505_6/9jMSP_1651714148414O1qjJ_JPEG/cover_0011260935_001_20220505102810066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[심층취재] 출근도 않는데 수천만 원?…“협의도 없이 채용”]]></title>
-            <link>https://tv.naver.com/v/26612779</link>
-            <guid>https://tv.naver.com/v/26612779</guid>
-            <pubDate>Thu, 05 May 2022 01:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_290/xxwpx_1651714151834HG6ei_JPEG/cover_0011261053_001_20220505102801253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

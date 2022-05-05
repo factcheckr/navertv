@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 06:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 07:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경북 구미 공단동 공장서 불…소방 1단계 발령]]></title>
+            <link>https://tv.naver.com/v/26616243</link>
+            <guid>https://tv.naver.com/v/26616243</guid>
+            <pubDate>Thu, 05 May 2022 07:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_235/wWfRf_1651734581732V7PbO_JPEG/cover_0000226477_001_20220505160901599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]쾌청한 어린이날 한낮 초여름 날씨…자외선·꽃가루 조심]]></title>
             <link>https://tv.naver.com/v/26614969</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 May 2022 12:46:05 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_25/4wGXy_16516636516862r0P4_JPEG/cover_0000226434_001_20220504202626911.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이종섭 국방장관 후보자 “尹 취임식·한미회담 때 더 큰 도발 가능성”]]></title>
-            <link>https://tv.naver.com/v/26606970</link>
-            <guid>https://tv.naver.com/v/26606970</guid>
-            <pubDate>Wed, 04 May 2022 12:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_97/TC3Yv_1651663675219Mwi6h_JPEG/cover_0000226433_001_20220504202619025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
