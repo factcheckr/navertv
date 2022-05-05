@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 03:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 04:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린이날 100주년 맞아 곳곳에서 기념행사]]></title>
+            <link>https://tv.naver.com/v/26614315</link>
+            <guid>https://tv.naver.com/v/26614315</guid>
+            <pubDate>Thu, 05 May 2022 04:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_139/PAenv_1651724182204fs0kn_JPEG/cover_0011261106_001_20220505131601194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] 어린이날 전국 맑음…‘입하’ 초여름 날씨]]></title>
             <link>https://tv.naver.com/v/26613763</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 May 2022 01:50:47 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220505_109/4kcZn_1651713449963G1ILY_JPEG/cover_0011261051_001_20220505101716912.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원도 1인 가구 비율 35%…전국보다 3.3%P 높아]]></title>
-            <link>https://tv.naver.com/v/26612673</link>
-            <guid>https://tv.naver.com/v/26612673</guid>
-            <pubDate>Thu, 05 May 2022 01:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220505_94/WKvR4_1651713450490XVA4a_JPEG/cover_0011261050_001_20220505101709474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
