@@ -4,9 +4,33 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 08:28:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 09:23:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 5월 6일 종합뉴스 예고]]></title>
+            <link>https://tv.naver.com/v/26636517</link>
+            <guid>https://tv.naver.com/v/26636517</guid>
+            <pubDate>Fri, 06 May 2022 09:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_287/AbXkT_16518277647032iira_JPEG/cover_cover_20220506175522_20_845_1298509_360_7_0_20220506180201261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 한동훈, '딸 스펙' 공세에 "허위사실 사과해야"]]></title>
+            <link>https://tv.naver.com/v/26635568</link>
+            <guid>https://tv.naver.com/v/26635568</guid>
+            <pubDate>Fri, 06 May 2022 09:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[17:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_68/c3L27_1651826248071gpxUG_JPEG/cover_cover_20220506172217_20_812_1298508_360_7_0_20220506173101237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 민주당 "이재명 전략공천"…안철수 분당갑 출마]]></title>
+            <link>https://tv.naver.com/v/26635430</link>
+            <guid>https://tv.naver.com/v/26635430</guid>
+            <pubDate>Fri, 06 May 2022 09:23:35 GMT</pubDate>
+            <content:encoded><![CDATA[27:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_42/FiAgs_1651826022064aiUMJ_JPEG/cover_cover_20220506171746_20_812_1298507_360_7_0_20220506172501241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] '프레스룸에 온다' 윤희숙 전 국민의힘 의원]]></title>
             <link>https://tv.naver.com/v/26635289</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 05 May 2022 23:23:41 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_209/H4uIB_1651790929442o8lnh_JPEG/cover_cover_20220506074337_20_605_1298474_360_7_0_20220506074801263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['택시 대란'에 지하철 심야 운행 재개…버스 막차도 연장]]></title>
-            <link>https://tv.naver.com/v/26625344</link>
-            <guid>https://tv.naver.com/v/26625344</guid>
-            <pubDate>Thu, 05 May 2022 23:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_47/kqhFF_1651790662704diYwe_JPEG/cover_cover_20220506074106_20_605_1298473_360_7_0_20220506074401398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHO "코로나19로 1,490만 명 사망…미주·아프리카 증가"]]></title>
-            <link>https://tv.naver.com/v/26625337</link>
-            <guid>https://tv.naver.com/v/26625337</guid>
-            <pubDate>Thu, 05 May 2022 23:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_143/HQP7k_1651790545325HvJEG_JPEG/cover_cover_20220506073849_20_605_1298472_360_7_0_20220506074201274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["다음 주 1만 명 이하" 예측도…변수는 '새 변이']]></title>
-            <link>https://tv.naver.com/v/26625323</link>
-            <guid>https://tv.naver.com/v/26625323</guid>
-            <pubDate>Thu, 05 May 2022 23:23:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_225/3NPet_1651790462829ITpDD_JPEG/cover_cover_20220506073539_20_605_1298471_360_7_0_20220506074001493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
