@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 04:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 05:22:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보영상] 민주당 “계양을 보궐선거 이재명으로 의결”]]></title>
+            <link>https://tv.naver.com/v/26630810</link>
+            <guid>https://tv.naver.com/v/26630810</guid>
+            <pubDate>Fri, 06 May 2022 05:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_7/s23w9_1651814003542yXwTp_PNG/cover_0011261727_001_20220506141301167.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[농식품부, 개 식용 문제 논의 2개월 연장…“구체적 합의 노력”]]></title>
             <link>https://tv.naver.com/v/26629607</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 May 2022 03:08:35 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_128/smeqy_1651803740835gYBEO_JPEG/cover_0011261668_001_20220506112205184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 강원 산지·동해안 건조주의보…한낮 ‘자외선 유의’]]></title>
-            <link>https://tv.naver.com/v/26627912</link>
-            <guid>https://tv.naver.com/v/26627912</guid>
-            <pubDate>Fri, 06 May 2022 03:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_35/57RzB_1651803463892wYBUT_JPEG/cover_0011261662_001_20220506111710760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
