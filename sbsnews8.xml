@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 20:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 21:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 "북, 이달 안에 핵실험 준비 완료"…곳곳서 징후 포착]]></title>
+            <link>https://tv.naver.com/v/26643640</link>
+            <guid>https://tv.naver.com/v/26643640</guid>
+            <pubDate>Fri, 06 May 2022 21:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_87/wp0mT_1651871886836vBOmM_JPEG/cover_0000971629_001_20220507061701178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나도 모르게 확진?…"감염자, 집계 수치보다 4배 넘어"]]></title>
             <link>https://tv.naver.com/v/26641675</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 May 2022 10:24:48 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_26/YqQDB_1651832173037kIBOY_JPEG/cover_0000971576_001_20220506191301183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스브스뉴스] 그런데,, 가족 외에는 양도 안된다는데요?! / 스브스뉴스]]></title>
-            <link>https://tv.naver.com/v/26637945</link>
-            <guid>https://tv.naver.com/v/26637945</guid>
-            <pubDate>Fri, 06 May 2022 10:24:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_61/GHbqp_1651831655746r3mdz_JPEG/cover_0000971577_001_20220506190601207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
