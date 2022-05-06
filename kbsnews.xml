@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 06:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 07:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보영상] 안철수 “제 몸 던지겠다”…분당갑 출마 선언]]></title>
+            <link>https://tv.naver.com/v/26632956</link>
+            <guid>https://tv.naver.com/v/26632956</guid>
+            <pubDate>Fri, 06 May 2022 07:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_152/MIJDm_1651819768137C6PWn_JPEG/cover_0011261750_001_20220506154901180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보영상] 서울 석촌동 점포서 화재… 인명 수색 중]]></title>
             <link>https://tv.naver.com/v/26632408</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 May 2022 03:08:35 GMT</pubDate>
             <content:encoded><![CDATA[8:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_188/tP5aF_1651804320856CibSS_JPEG/cover_0011261674_001_20220506112924541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청주 ‘직지’, 미 국립인문재단 연구 사업 선정]]></title>
-            <link>https://tv.naver.com/v/26628007</link>
-            <guid>https://tv.naver.com/v/26628007</guid>
-            <pubDate>Fri, 06 May 2022 03:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_29/pty1c_16518038097463czRS_JPEG/cover_0011261670_001_20220506112308700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
