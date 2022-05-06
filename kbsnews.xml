@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 05:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 06:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보영상] 서울 석촌동 점포서 화재… 인명 수색 중]]></title>
+            <link>https://tv.naver.com/v/26632408</link>
+            <guid>https://tv.naver.com/v/26632408</guid>
+            <pubDate>Fri, 06 May 2022 06:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_55/Ire6O_1651818392675Ko3xE_JPEG/cover_0011261745_001_20220506152617395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보영상] 백신피해자 단체 “백신 강요로 피해”…대통령 등에 손해배상 청구]]></title>
+            <link>https://tv.naver.com/v/26631666</link>
+            <guid>https://tv.naver.com/v/26631666</guid>
+            <pubDate>Fri, 06 May 2022 06:29:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_256/3ilu9_1651816567949XCmBT_JPEG/cover_0011261737_001_20220506145426004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보영상] 민주당 “계양을 보궐선거 이재명으로 의결”]]></title>
             <link>https://tv.naver.com/v/26630810</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 06 May 2022 03:08:35 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_29/pty1c_16518038097463czRS_JPEG/cover_0011261670_001_20220506112308700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청주시, 무심천 일부 구간 경관 개선]]></title>
-            <link>https://tv.naver.com/v/26628003</link>
-            <guid>https://tv.naver.com/v/26628003</guid>
-            <pubDate>Fri, 06 May 2022 03:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_76/BlB4T_1651803791632iqAGW_JPEG/cover_0011261669_001_20220506112301204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북 어제 1,127명 확진…누적 사망 689명]]></title>
-            <link>https://tv.naver.com/v/26627989</link>
-            <guid>https://tv.naver.com/v/26627989</guid>
-            <pubDate>Fri, 06 May 2022 03:08:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_128/smeqy_1651803740835gYBEO_JPEG/cover_0011261668_001_20220506112205184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
