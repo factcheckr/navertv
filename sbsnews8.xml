@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 14:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 15:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/26652029</link>
+            <guid>https://tv.naver.com/v/26652029</guid>
+            <pubDate>Sat, 07 May 2022 15:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_186/D2RDM_1651933302397EPz5M_JPEG/cover_0000971732_001_20220507232101173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[더스페셜리스트] "가재도 까드려요" 게으름이 돈 되는 세상]]></title>
             <link>https://tv.naver.com/v/26651805</link>
@@ -22,14 +30,6 @@
             <pubDate>Sat, 07 May 2022 14:19:29 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_132/jdRTw_1651931610310wJrmm_JPEG/cover_0000971742_001_20220507225211185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/26651366</link>
-            <guid>https://tv.naver.com/v/26651366</guid>
-            <pubDate>Sat, 07 May 2022 13:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_232/UpmrB_1651929631800fwCDM_JPEG/cover_0000971732_001_20220507221940872.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새 정부 출범 3일 앞두고…북한, 이번엔 SLBM 발사]]></title>
