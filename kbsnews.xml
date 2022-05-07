@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 01:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 03:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크랩] ‘M.S.G.R’? ‘K&R’? 최근 선 넘는 생활 속 영어 표기들]]></title>
+            <link>https://tv.naver.com/v/26645315</link>
+            <guid>https://tv.naver.com/v/26645315</guid>
+            <pubDate>Sat, 07 May 2022 03:03:44 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_97/x1jzf_1651891935047DibMp_JPEG/cover_0011262138_001_20220507115101212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[930 날씨] 흐리고 곳곳 빗방울…한낮 다소 더워]]></title>
             <link>https://tv.naver.com/v/26644407</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 May 2022 22:21:32 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_224/SOBnf_1651872828761E6zdI_JPEG/cover_0011262093_001_20220507063310953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 임은정 ‘공무상 비밀누설’ 사건 공수처 이첩]]></title>
-            <link>https://tv.naver.com/v/26643676</link>
-            <guid>https://tv.naver.com/v/26643676</guid>
-            <pubDate>Fri, 06 May 2022 22:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_117/9UUTh_1651872831836W9svq_JPEG/cover_0011262092_001_20220507063301236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

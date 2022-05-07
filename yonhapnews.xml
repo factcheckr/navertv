@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 01:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 03:05:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 06 May 2022 08:28:24 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_133/zvswA_1651824663040mW7Nj_JPEG/1651824321761.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 1일 근로자의 날! 북한의 모습은? | 티븨가이드北]]></title>
+            <link>https://tv.naver.com/v/26634672</link>
+            <guid>https://tv.naver.com/v/26634672</guid>
+            <pubDate>Sat, 07 May 2022 03:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_226/kOkzt_1651823539736cB11j_JPEG/1651823502648.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라 철도도 남아나질 않는다…"서방 지원 차단하려고"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 May 2022 06:29:11 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_200/QNfHX_1651646862276DES2A_JPEG/1651646856177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지뢰밭 돼버린 우크라 밀밭…세계 식량위기 가중]]></title>
-            <link>https://tv.naver.com/v/26597090</link>
-            <guid>https://tv.naver.com/v/26597090</guid>
-            <pubDate>Wed, 04 May 2022 03:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_295/CK3Re_1651634776315Lej0N_JPEG/1651634010819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
