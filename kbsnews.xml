@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 04:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 05:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주목! 카페에서 ‘일회용 컵 보증금’ 이렇게 받으세요]]></title>
+            <link>https://tv.naver.com/v/26646492</link>
+            <guid>https://tv.naver.com/v/26646492</guid>
+            <pubDate>Sat, 07 May 2022 05:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_59/ggwmD_1651900402725i1jtn_JPEG/cover_0011262153_001_20220507141309646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] 한낮 초여름 더위 계속…강원 영동 비]]></title>
             <link>https://tv.naver.com/v/26645525</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 May 2022 22:21:32 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_127/89j4K_1651873985462CiE7z_JPEG/cover_0011262099_001_20220507065210695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1m 높이에도 사망, 왜?…“여전히 안전모도 없다”]]></title>
-            <link>https://tv.naver.com/v/26643711</link>
-            <guid>https://tv.naver.com/v/26643711</guid>
-            <pubDate>Fri, 06 May 2022 22:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_50/JWVKD_1651873978290rrRyd_JPEG/cover_0011262098_001_20220507065201252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
