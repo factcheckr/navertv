@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 19:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 20:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 5월 8일]]></title>
+            <link>https://tv.naver.com/v/26653734</link>
+            <guid>https://tv.naver.com/v/26653734</guid>
+            <pubDate>Sat, 07 May 2022 20:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[30:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220508_80/dkeUw_1651953818551hguj2_JPEG/cover_cover_MYH20220506016000038_20220508050101983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 아이돌 최초 병역특례? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/26651181</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 May 2022 08:27:30 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_17/6h3Sk_1651909641427LhXda_JPEG/cover_cover_MYH20220507007700038_20220507164702108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤렌스키 "전쟁 멈추려면 침공 전 상황으로 되돌려야"]]></title>
-            <link>https://tv.naver.com/v/26647901</link>
-            <guid>https://tv.naver.com/v/26647901</guid>
-            <pubDate>Sat, 07 May 2022 08:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_126/FVSSB_1651908508974DYo7F_JPEG/cover_cover_MYH20220507007600038_20220507162803076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
