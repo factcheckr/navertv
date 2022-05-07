@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 20:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 21:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새 정부 출범 사흘전…북 SLBM 발사]]></title>
+            <link>https://tv.naver.com/v/26653812</link>
+            <guid>https://tv.naver.com/v/26653812</guid>
+            <pubDate>Sat, 07 May 2022 21:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220508_155/cDCrQ_1651958338892ROCCw_JPEG/cover_0000971772_001_20220508061801187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 주요뉴스]]></title>
             <link>https://tv.naver.com/v/26652029</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 May 2022 01:43:22 GMT</pubDate>
             <content:encoded><![CDATA[24:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_45/s1UeB_1651880855138euDgg_JPEG/cover_0000971651_001_20220507083401180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김포 산업단지서 가스탱크 폭발…작업자 6명 부상]]></title>
-            <link>https://tv.naver.com/v/26643909</link>
-            <guid>https://tv.naver.com/v/26643909</guid>
-            <pubDate>Fri, 06 May 2022 23:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_171/01B3u_16518785424174BI2q_JPEG/cover_0000971650_001_20220507080801221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

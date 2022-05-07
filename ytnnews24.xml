@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 20:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 21:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 어버이날·부처님 오신 날, 흐리고 선선해요!]]></title>
+            <link>https://tv.naver.com/v/26653777</link>
+            <guid>https://tv.naver.com/v/26653777</guid>
+            <pubDate>Sat, 07 May 2022 21:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220508_40/34fCo_1651956196994QTwDf_JPEG/cover_cover_202205080539115882_t_20220508054301691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내일 한동훈 청문회...'자녀의혹·검수완박' 최대 쟁점]]></title>
             <link>https://tv.naver.com/v/26653750</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 May 2022 14:20:05 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_245/rLnLL_1651931488986rnwbr_JPEG/cover_cover_202205072243267535_t_20220507225112419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 제재 지속...'생계·학업' 고민 깊어지는 동포들]]></title>
-            <link>https://tv.naver.com/v/26651706</link>
-            <guid>https://tv.naver.com/v/26651706</guid>
-            <pubDate>Sat, 07 May 2022 14:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_66/xryf0_1651931538566bln8N_JPEG/cover_cover_202205072243177084_t_20220507225102292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
