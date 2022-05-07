@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 22:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 23:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 06 May 2022 12:40:39 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220506_287/43LAN_1651839545123zIzPb_JPEG/1651838479287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불금 치맥에도?…우크라 전쟁 '나비효과']]></title>
+            <link>https://tv.naver.com/v/26636828</link>
+            <guid>https://tv.naver.com/v/26636828</guid>
+            <pubDate>Sat, 07 May 2022 23:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220506_182/RW7Pa_1651828317249LYXA2_JPEG/1651827883089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['싸다9'로 돌아온 싸이, 타이틀곡 '댓댓'으로 음원차트 석권]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 May 2022 08:28:07 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_143/Wrhm0_1651649459291JoeU0_JPEG/1651647912066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[풀영상] 뮤지컬 '아이다'(AIDA) 2022년 무대 리허설 최초 공개]]></title>
-            <link>https://tv.naver.com/v/26600159</link>
-            <guid>https://tv.naver.com/v/26600159</guid>
-            <pubDate>Wed, 04 May 2022 06:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[24:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_209/pzwWe_16516447534348OSyt_JPEG/1651644569814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
