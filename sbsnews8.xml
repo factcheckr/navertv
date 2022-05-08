@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 04:30:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 05:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제보영상] "다람쥐와 뱀이 진짜 싸우네요" 수목원에서 포착]]></title>
+            <link>https://tv.naver.com/v/26656100</link>
+            <guid>https://tv.naver.com/v/26656100</guid>
+            <pubDate>Sun, 08 May 2022 05:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220508_132/GCF77_1651987093628xyMR8_JPEG/cover_0000971816_001_20220508141701185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비디오머그] 역대 최단 인접 선거, 대선 표심 그대로면 결과는?]]></title>
+            <link>https://tv.naver.com/v/26655992</link>
+            <guid>https://tv.naver.com/v/26655992</guid>
+            <pubDate>Sun, 08 May 2022 05:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220508_102/OD7ds_16519864383406Hruh_JPEG/cover_0000971817_001_20220508140501205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 흐리고 선선…밤부터 중부 비 '5mm↓']]></title>
             <link>https://tv.naver.com/v/26655171</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 07 May 2022 05:19:45 GMT</pubDate>
             <content:encoded><![CDATA[6:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_279/EVU6S_1651899147903MhTDI_JPEG/cover_0000971690_001_20220507134803273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] '최고 27도' 낮 동안 더워요…강원 영동 '약한 비']]></title>
-            <link>https://tv.naver.com/v/26645705</link>
-            <guid>https://tv.naver.com/v/26645705</guid>
-            <pubDate>Sat, 07 May 2022 04:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_245/nv4YA_16518946441993NOwG_JPEG/cover_0000971686_001_20220507123701171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[51년 된 여의도 시범아파트, 최고 60층 재건축 추진]]></title>
-            <link>https://tv.naver.com/v/26645674</link>
-            <guid>https://tv.naver.com/v/26645674</guid>
-            <pubDate>Sat, 07 May 2022 04:27:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_84/OIBbQ_1651894413274it4mQ_JPEG/cover_0000971685_001_20220507123301214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
