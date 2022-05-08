@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 23:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 01:55:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ET] 슈퍼개미 자산가가 ‘어린이날’ TV에 나온 이유(feat. ‘주식농부’ 박영옥 대표)]]></title>
+            <link>https://tv.naver.com/v/26654137</link>
+            <guid>https://tv.naver.com/v/26654137</guid>
+            <pubDate>Sun, 08 May 2022 01:53:47 GMT</pubDate>
+            <content:encoded><![CDATA[9:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220508_194/ZToLL_1651968438214FGKBx_JPEG/cover_0011262299_001_20220508090501180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 어버이날·부처님 오신 날, 흐리고 선선해요!]]></title>
             <link>https://tv.naver.com/v/26654030</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 May 2022 13:29:32 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_71/a3Iud_1651928382857NbRcw_JPEG/cover_0011262190_001_20220507215901192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산 2,277명 신규 확진…확진자 1명 숨져]]></title>
-            <link>https://tv.naver.com/v/26651116</link>
-            <guid>https://tv.naver.com/v/26651116</guid>
-            <pubDate>Sat, 07 May 2022 13:29:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_283/iLEup_1651928314165BSI3I_JPEG/cover_0011262240_001_20220507215816523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
