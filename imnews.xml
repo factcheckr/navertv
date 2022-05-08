@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 01:55:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 03:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[중계방송] 불기 2566 부처님 오신 날 봉축법요식]]></title>
+            <link>https://tv.naver.com/v/26654685</link>
+            <guid>https://tv.naver.com/v/26654685</guid>
+            <pubDate>Sun, 08 May 2022 03:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:04:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220508_123/BDrt8_16519760768299q6R3_JPEG/1651975516735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라 "아조우스탈 민간인 대피 완료"]]></title>
             <link>https://tv.naver.com/v/26653950</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 May 2022 04:27:31 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_214/f0KxE_1651893500968KKwcv_JPEG/cover_cover_noon_20220507_121357_1_2_Large_20220507121810473.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 "北 이르면 이달 중 7차 핵실험 준비 완료"]]></title>
-            <link>https://tv.naver.com/v/26645549</link>
-            <guid>https://tv.naver.com/v/26645549</guid>
-            <pubDate>Sat, 07 May 2022 04:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_247/SIerF_1651893531232pWpL9_JPEG/cover_cover_noon_20220507_121310_1_1_Large_20220507121802671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
