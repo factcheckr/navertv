@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 05:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 06:28:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명, 6·1 재·보궐선거 ‘인천 계양을’ 출마 선언]]></title>
+            <link>https://tv.naver.com/v/26656076</link>
+            <guid>https://tv.naver.com/v/26656076</guid>
+            <pubDate>Sun, 08 May 2022 06:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[25:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220508_290/wCWF7_1651987545249HwJNG_JPEG/cover_0000226620_001_20220508141401905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앞으로 뉴스]서울 시내버스 새벽 1시까지 연장 운행]]></title>
             <link>https://tv.naver.com/v/26656058</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 May 2022 10:24:51 GMT</pubDate>
             <content:encoded><![CDATA[9:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220507_297/TUms1_1651917845455xk5iX_JPEG/cover_0000226594_001_20220507185951482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘자객’ 윤희숙 링 오를까…인천 계양을 출마 가능성]]></title>
-            <link>https://tv.naver.com/v/26649317</link>
-            <guid>https://tv.naver.com/v/26649317</guid>
-            <pubDate>Sat, 07 May 2022 10:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[5:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220507_27/rOz1t_1651917726407XVz4v_JPEG/cover_0000226593_001_20220507185941051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
