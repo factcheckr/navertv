@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 07:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 08:30:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 5월 9일 월요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/26674232</link>
+            <guid>https://tv.naver.com/v/26674232</guid>
+            <pubDate>Mon, 09 May 2022 08:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_38/31s6j_1652084313411AIr1b_JPEG/cover_cover_20220509171416_20_812_1298672_360_7_0_20220509171801264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 중부, 다시 낮 더위 이어져요.]]></title>
+            <link>https://tv.naver.com/v/26674174</link>
+            <guid>https://tv.naver.com/v/26674174</guid>
+            <pubDate>Mon, 09 May 2022 08:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_78/YMTl8_1652084202794DXS2A_JPEG/cover_cover_20220509171147_20_812_1298671_360_7_0_20220509171601320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문재인 대통령 퇴임…"대한민국 선진국" [김주하 AI 뉴스]]]></title>
             <link>https://tv.naver.com/v/26669144</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 08 May 2022 23:22:37 GMT</pubDate>
             <content:encoded><![CDATA[6:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220509_8/cQC90_1652048852599IxJfA_JPEG/cover_cover_20220509071846_20_605_1298636_360_7_0_20220509072401254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한반도 평화·부동산"…문 대통령 임기 마무리]]></title>
-            <link>https://tv.naver.com/v/26663976</link>
-            <guid>https://tv.naver.com/v/26663976</guid>
-            <pubDate>Sun, 08 May 2022 22:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_136/tjhzl_1652048480358nHTJn_JPEG/cover_cover_20220509071500_20_605_1298635_360_7_0_20220509072001252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 9일  굿모닝 MBN 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/26663964</link>
-            <guid>https://tv.naver.com/v/26663964</guid>
-            <pubDate>Sun, 08 May 2022 22:22:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_11/21z8O_1652048235488KQoLU_JPEG/cover_cover_20220509071001_20_605_1298634_360_7_0_20220509071601310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
