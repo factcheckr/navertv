@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 10:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 11:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 9일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26676950</link>
+            <guid>https://tv.naver.com/v/26676950</guid>
+            <pubDate>Mon, 09 May 2022 11:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_80/QWmic_1652092602558iKKBT_JPEG/cover_2022050990135_thumb_073456_20220509193602125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹 당선인 취임 D-1…취임사 키워드는 '자유·공정·연대']]></title>
             <link>https://tv.naver.com/v/26666754</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 08 May 2022 11:18:56 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220508_189/rNzMn_1652006226639rpKGa_JPEG/cover_2022050890068_thumb_073350_20220508193614954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카네이션 대목인데…웃지 못하는 화훼농가, 이유는?]]></title>
-            <link>https://tv.naver.com/v/26659123</link>
-            <guid>https://tv.naver.com/v/26659123</guid>
-            <pubDate>Sun, 08 May 2022 11:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220508_194/3Wa9P_1652006245110DqMBs_JPEG/cover_2022050890066_thumb_073120_20220508193608176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
