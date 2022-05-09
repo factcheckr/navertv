@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 12:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 13:42:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] "과잉수사 아니라고요?" "하지 말라는 말씀입니까?" 한동훈 청문회 주요 장면 정리]]></title>
+            <link>https://tv.naver.com/v/26679728</link>
+            <guid>https://tv.naver.com/v/26679728</guid>
+            <pubDate>Mon, 09 May 2022 13:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[9:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_79/hH5JR_1652102406389RIqsp_JPEG/cover_cover_220509_0900_640_20220509221703142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스포츠 영상] 몸 날렸지만‥막지 못한 '중거리 슈팅']]></title>
             <link>https://tv.naver.com/v/26678429</link>
@@ -40,14 +48,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220509_209/BaMyv_1652097507442BKSPj_JPEG/cover_cover_desk_20220509_205117_1_30_Large_20220509205803521.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[뉴스데스크] 4시간 뒤 임기 시작, 내일부터 '용산시대']]></title>
-            <link>https://tv.naver.com/v/26678115</link>
-            <guid>https://tv.naver.com/v/26678115</guid>
-            <pubDate>Mon, 09 May 2022 12:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:40:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_87/gBPdt_1652097088859Q8TQp_JPEG/36ef97f2-cf8e-11ec-a9d0-505dacfba98a_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['197cm 고교 특급' 안영웅 '제2의 윤경신 꿈꾼다']]></title>
             <link>https://tv.naver.com/v/26678111</link>
             <guid>https://tv.naver.com/v/26678111</guid>
@@ -62,6 +62,14 @@
             <pubDate>Mon, 09 May 2022 12:40:44 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220509_23/z3r4I_1652097136962q0IkW_JPEG/cover_cover_desk_20220509_204124_1_26_Large_20220509205103278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스데스크] 4시간 뒤 임기 시작, 내일부터 '용산시대']]></title>
+            <link>https://tv.naver.com/v/26678115</link>
+            <guid>https://tv.naver.com/v/26678115</guid>
+            <pubDate>Mon, 09 May 2022 12:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:40:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_144/WVdJ5_1652102301785dwCvA_PNG/1652102292219.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[무서워서 사진 보내자 "이번엔 영상"‥디지털성범죄 기승]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 09 May 2022 11:19:48 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220509_239/q0EW3_1652093944289hOFSu_JPEG/cover_cover_desk_20220509_194623_1_2_Large_20220509195803387.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4시간 뒤 임기 시작, 내일부터 '용산시대']]></title>
-            <link>https://tv.naver.com/v/26677208</link>
-            <guid>https://tv.naver.com/v/26677208</guid>
-            <pubDate>Mon, 09 May 2022 11:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_187/ve2xp_1652093673438s56fL_JPEG/cover_cover_desk_20220509_194337_1_1_Large_20220509195302609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
