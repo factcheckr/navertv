@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 01:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:53:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 윤석열 대통령 현충원 참배로 첫 공식 일정…김건희 여사 동행]]></title>
+            <link>https://tv.naver.com/v/26686041</link>
+            <guid>https://tv.naver.com/v/26686041</guid>
+            <pubDate>Tue, 10 May 2022 02:52:38 GMT</pubDate>
+            <content:encoded><![CDATA[11:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_98/cobLI_1652149771615j2Klt_JPEG/cover_0000972191_001_20220510112101186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비디오머그] 인왕산 자락 떠나 용산으로…대통령 집무실 자리할 용산의 역사]]></title>
             <link>https://tv.naver.com/v/26684895</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 09 May 2022 22:22:32 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220510_29/b7p6f_165213476414982B2C_JPEG/cover_0000972120_001_20220510071801206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[0시 되자, 용산에서 군 통수권 인수…'윤석열 정부' 출범]]></title>
-            <link>https://tv.naver.com/v/26682899</link>
-            <guid>https://tv.naver.com/v/26682899</guid>
-            <pubDate>Mon, 09 May 2022 22:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_22/6LD21_1652134445469EAP9p_JPEG/cover_0000972119_001_20220510071301162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
