@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 07:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 08:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Tue, 10 May 2022 07:22:25 GMT</pubDate>
             <content:encoded><![CDATA[5:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220510_269/IBw68_1652165094979ccYGW_JPEG/cover_0000226732_001_20220510154219518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 ‘영부인 자격’ 첫 등장…취임식 누가누가 참석했나?]]></title>
-            <link>https://tv.naver.com/v/26692388</link>
-            <guid>https://tv.naver.com/v/26692388</guid>
-            <pubDate>Tue, 10 May 2022 07:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[12:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220510_31/mESxH_1652165323384xBfjg_JPEG/cover_0000226731_001_20220510154201801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돌출 무대 취임사, 윤석열 대통령이 ‘최초’]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 09 May 2022 12:41:50 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220509_55/trylX_1652097707055bGmCJ_JPEG/cover_0000226695_001_20220509205901596.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여랑야랑]이재명 vs 원희룡 ‘도망’지사는 누구? / 새 집무실 이름은?]]></title>
+            <link>https://tv.naver.com/v/26678061</link>
+            <guid>https://tv.naver.com/v/26678061</guid>
+            <pubDate>Tue, 10 May 2022 08:28:46 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_209/C0o7c_1652097016081xMtxv_JPEG/cover_0000226691_001_20220509204801754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
