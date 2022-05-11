@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 19:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 20:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 전북 전주시 한 마트서 화재…인명피해 없어]]></title>
+            <link>https://tv.naver.com/v/26726330</link>
+            <guid>https://tv.naver.com/v/26726330</guid>
+            <pubDate>Wed, 11 May 2022 20:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_159/3ecVe_1652300359773bKLS2_JPEG/cover_0000972622_001_20220512051907636.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다문화비서관 "동성애는 치료 가능"…논란 더 키운 사과]]></title>
             <link>https://tv.naver.com/v/26725776</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 May 2022 13:43:10 GMT</pubDate>
             <content:encoded><![CDATA[4:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_17/j6m0P_1652276033098q6tlA_JPEG/cover_0000972582_001_20220511223201274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["트럼프, 주한미군 철수 주장"…"한국인 다루기 끔찍"]]></title>
-            <link>https://tv.naver.com/v/26723050</link>
-            <guid>https://tv.naver.com/v/26723050</guid>
-            <pubDate>Wed, 11 May 2022 13:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_201/0PeNn_1652275944155iPL7j_JPEG/cover_0000972581_001_20220511223119976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
