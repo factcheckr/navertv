@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 05:31:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 06:32:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서초-용산 ‘첫 출근’ 대통령…“큰 교통 불편 없어”]]></title>
+            <link>https://tv.naver.com/v/26713738</link>
+            <guid>https://tv.naver.com/v/26713738</guid>
+            <pubDate>Wed, 11 May 2022 06:31:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_18/7ii5i_1652250562381xQMyR_JPEG/cover_0011264207_001_20220511152908680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상] 10대 충격적 집단 폭행…“생일빵이라고?”]]></title>
+            <link>https://tv.naver.com/v/26713241</link>
+            <guid>https://tv.naver.com/v/26713241</guid>
+            <pubDate>Wed, 11 May 2022 06:31:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_294/exzyT_1652249318878sDE5D_JPEG/cover_0011264211_001_20220511150801215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보영상] 윤 대통령 “소상공인 손실보상, 재정 당겨 조기 집행”]]></title>
             <link>https://tv.naver.com/v/26711430</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 11 May 2022 03:26:52 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_50/vmjcH_16522388996548zcue_JPEG/cover_0011264153_001_20220511121410468.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 첫 출근…“제일 문제가 물가, 억제책 고민”]]></title>
-            <link>https://tv.naver.com/v/26709578</link>
-            <guid>https://tv.naver.com/v/26709578</guid>
-            <pubDate>Wed, 11 May 2022 03:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_121/ReRcy_1652238895136le6do_JPEG/cover_0011264152_001_20220511121401236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장영상] 취임사에 ‘통합’ 빠진 이유에 윤 대통령 “정치 과정 자체가 국민 통합”]]></title>
-            <link>https://tv.naver.com/v/26709374</link>
-            <guid>https://tv.naver.com/v/26709374</guid>
-            <pubDate>Wed, 11 May 2022 03:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_58/CqTQm_1652238278693WKlWu_JPEG/cover_0011263995_001_20220511120402095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
