@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 20:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 21:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Wed, 11 May 2022 08:30:32 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_226/2RnSG_16522566351954APPu_JPEG/1652256584568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라전 틈타 군사력 키우는 일본…자민당 '반격능력' 제안]]></title>
+            <link>https://tv.naver.com/v/26716246</link>
+            <guid>https://tv.naver.com/v/26716246</guid>
+            <pubDate>Wed, 11 May 2022 21:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220511_123/jDTUz_1652256198072hv6o8_JPEG/1652254125251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젤렌스키 '카키색 스웨터' 1억4천만원에 낙찰…인기 입증]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 09 May 2022 09:24:01 GMT</pubDate>
             <content:encoded><![CDATA[6:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220509_132/QfVvb_1652087110351Yf7nz_JPEG/1652086577067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기자증이 미사일 못막아"…긴박한 우크라 서부도시 르비우 현장]]></title>
-            <link>https://tv.naver.com/v/26675391</link>
-            <guid>https://tv.naver.com/v/26675391</guid>
-            <pubDate>Mon, 09 May 2022 09:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220509_32/LwDf6_1652086983444XYoiz_JPEG/1652085817638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
