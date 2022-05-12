@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 03:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 04:37:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요 뉴스 - 5월 12일 낮 12시]]></title>
+            <link>https://tv.naver.com/v/26731974</link>
+            <guid>https://tv.naver.com/v/26731974</guid>
+            <pubDate>Thu, 12 May 2022 04:37:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_97/k0Kwc_1652327320115Fw5M8_JPEG/cover_cover_20220512124405_20_845_1298908_360_7_0_20220512124801283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그린닥터스, 우크라이나 난민캠프에 의료지원]]></title>
             <link>https://tv.naver.com/v/26730325</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 May 2022 22:22:24 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220512_98/O0UWN_16523076475884HlEO_JPEG/cover_cover_20220512071541_20_605_1298874_360_7_0_20220512072001276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 12일  굿모닝 MBN 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/26726794</link>
-            <guid>https://tv.naver.com/v/26726794</guid>
-            <pubDate>Wed, 11 May 2022 22:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_271/rVclJ_1652307423025RQtfG_JPEG/cover_cover_20220512070931_20_605_1298873_360_7_0_20220512071601292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
