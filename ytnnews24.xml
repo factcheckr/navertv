@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 22:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 23:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[北 "4월 말부터 열병 전국 확산...35만여 명 발열"]]></title>
+            <link>https://tv.naver.com/v/26750479</link>
+            <guid>https://tv.naver.com/v/26750479</guid>
+            <pubDate>Thu, 12 May 2022 23:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220513_84/mzhuR_16523950729586f2Iu_JPEG/cover_cover_202205130733445942_t_20220513073701947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서쪽 낮 더위, 동쪽 선선...구름 많고 곳곳 비]]></title>
             <link>https://tv.naver.com/v/26750376</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 May 2022 17:30:02 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220513_234/llZ1P_1652376200724YdSjN_JPEG/cover_cover_202205130219320380_t_20220513022302346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최강욱, 추가 성희롱 의혹 반박..."날조성 의혹 제기"]]></title>
-            <link>https://tv.naver.com/v/26748123</link>
-            <guid>https://tv.naver.com/v/26748123</guid>
-            <pubDate>Thu, 12 May 2022 17:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220513_109/E9jNx_1652376074600qywUg_JPEG/cover_cover_202205122346173835_t_20220513022102227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
