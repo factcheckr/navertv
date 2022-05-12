@@ -4,7 +4,7 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 15:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 16:37:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Thu, 12 May 2022 15:23:52 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220513_100/9POLn_1652369022177Uoo13_JPEG/cover_0011265232_001_20220513002318150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시각 소방청 상황실]]></title>
+            <link>https://tv.naver.com/v/26746613</link>
+            <guid>https://tv.naver.com/v/26746613</guid>
+            <pubDate>Thu, 12 May 2022 16:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220513_221/Z1Mgi_1652369040913I87VS_JPEG/cover_0011265231_001_20220513002310173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5년 간 3번이나 미성년자 성범죄…처벌 강했더라면?]]></title>
+            <link>https://tv.naver.com/v/26746608</link>
+            <guid>https://tv.naver.com/v/26746608</guid>
+            <pubDate>Thu, 12 May 2022 16:35:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220513_161/EFx8F_16523690431080bEdg_JPEG/cover_0011265230_001_20220513002301203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5~11살 10명 중 6명 감염…후유증 관찰 필요]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 12 May 2022 14:23:02 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220512_195/6Z5QY_1652365046926WIUsv_JPEG/cover_0011265198_001_20220512231701229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산도 14년 만에 주유소 경유값 휘발유보다 비싸]]></title>
-            <link>https://tv.naver.com/v/26745185</link>
-            <guid>https://tv.naver.com/v/26745185</guid>
-            <pubDate>Thu, 12 May 2022 14:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_186/VgXmo_1652364986163uwR89_JPEG/cover_0011265197_001_20220512231608555.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 ‘수소도시 육성’ 가속도…국정과제 포함]]></title>
-            <link>https://tv.naver.com/v/26745183</link>
-            <guid>https://tv.naver.com/v/26745183</guid>
-            <pubDate>Thu, 12 May 2022 14:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_35/oTCl1_165236500240255v5k_JPEG/cover_0011265196_001_20220512231517811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
