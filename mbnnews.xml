@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 20:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 21:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[224회_봄철 강풍 피해 및 산불 예방법]]></title>
+            <link>https://tv.naver.com/v/26749965</link>
+            <guid>https://tv.naver.com/v/26749965</guid>
+            <pubDate>Thu, 12 May 2022 21:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[15:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220513_189/mtItV_1652390136091mLRT8_JPEG/cover_cover_20220513060334_20_849_1298953_360_7_0_20220513060901265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백운기의 뉴스와이드] 윤 정부 용산서 첫 국무회의…추경 속도전? / 윤 측 "논란 비서관들, 더 지켜볼 것"]]></title>
             <link>https://tv.naver.com/v/26742784</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 May 2022 10:29:12 GMT</pubDate>
             <content:encoded><![CDATA[18:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220512_201/ucJ3n_1652349718655lBWj2_JPEG/cover_cover_20220512184204_20_673_1298920_360_7_0_20220512185301210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 박완주 제명 [김주하 AI 뉴스]]]></title>
-            <link>https://tv.naver.com/v/26739828</link>
-            <guid>https://tv.naver.com/v/26739828</guid>
-            <pubDate>Thu, 12 May 2022 09:25:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_133/F3gNj_1652346748272rbDcA_JPEG/cover_cover_20220512180712_20_845_1298919_360_7_0_20220512181203519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
