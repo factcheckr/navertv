@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 06:31:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 07:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[ET] 경유 가격, 휘발유 추월 외]]></title>
+            <link>https://tv.naver.com/v/26736935</link>
+            <guid>https://tv.naver.com/v/26736935</guid>
+            <pubDate>Thu, 12 May 2022 07:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_95/FsyEx_1652339638082v11Lb_JPEG/cover_0011264285_001_20220512161301783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[풀영상] 2022 지방선거 KBS초청 ‘강원도지사 후보 토론’]]></title>
+            <link>https://tv.naver.com/v/26736529</link>
+            <guid>https://tv.naver.com/v/26736529</guid>
+            <pubDate>Thu, 12 May 2022 07:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:47:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_247/ue80S_1652338925214CWmtQ_JPEG/cover_0011264360_001_20220512155701161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[풀영상] 2022지방선거 KBS초청 ‘세종시장 후보 토론’]]></title>
             <link>https://tv.naver.com/v/26735488</link>
@@ -30,6 +46,14 @@
             <pubDate>Thu, 12 May 2022 06:30:40 GMT</pubDate>
             <content:encoded><![CDATA[1:29:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220512_52/utJ27_1652336485605ku8Oz_JPEG/cover_0011264355_001_20220512151602083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[풀영상] 2022지방선거 KBS초청 ‘전주시장 후보 토론’]]></title>
+            <link>https://tv.naver.com/v/26735348</link>
+            <guid>https://tv.naver.com/v/26735348</guid>
+            <pubDate>Thu, 12 May 2022 07:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:26:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_282/1QPeJ_16523372836027Hw8i_JPEG/cover_0011264359_001_20220512151528150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[풀영상] 2022 지방선거 KBS초청 ‘청주시장 후보 토론’]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 12 May 2022 04:36:28 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220512_275/NzPDD_1652327165880bEDk4_JPEG/cover_0011264877_001_20220512124510760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정량미달·혼유·무자료까지…422만 리터 불법 거래]]></title>
-            <link>https://tv.naver.com/v/26731930</link>
-            <guid>https://tv.naver.com/v/26731930</guid>
-            <pubDate>Thu, 12 May 2022 04:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_70/p1RO2_1652327154354d4pTB_JPEG/cover_0011264876_001_20220512124501209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경유 가격, 14년 만에 휘발유 가격 추월…화물차주 “남는 게 없어”]]></title>
-            <link>https://tv.naver.com/v/26731671</link>
-            <guid>https://tv.naver.com/v/26731671</guid>
-            <pubDate>Thu, 12 May 2022 04:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_94/a9Awx_1652326309686I51Dg_JPEG/cover_0011264875_001_20220512123110406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밥상물가 ‘들썩’, 수산물 1800톤 방출…식량주권 확보해야]]></title>
-            <link>https://tv.naver.com/v/26731670</link>
-            <guid>https://tv.naver.com/v/26731670</guid>
-            <pubDate>Thu, 12 May 2022 04:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_210/b4Nw7_1652326318763i13XC_JPEG/cover_0011264874_001_20220512123101197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
