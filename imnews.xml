@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:29:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6·1 지방선거 후보 등록‥ '수도권' 최대 접전]]></title>
+            <link>https://tv.naver.com/v/26734002</link>
+            <guid>https://tv.naver.com/v/26734002</guid>
+            <pubDate>Thu, 12 May 2022 05:28:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_267/dyZfI_16523332562997bcVC_JPEG/cover_cover_14news_20220512_141335_1_2_Large_20220512142702807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북, 코로나 발생 첫 인정‥"최중대 비상사건"]]></title>
             <link>https://tv.naver.com/v/26732032</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 May 2022 23:23:53 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220512_178/DpAm8_1652309682827d4oWV_PNG/cover_cover_today_20220512_073732_2_43_Large_20220512075409422.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[재택플러스] 항공권 가격 왜 안 내려가나?]]></title>
-            <link>https://tv.naver.com/v/26727100</link>
-            <guid>https://tv.naver.com/v/26727100</guid>
-            <pubDate>Wed, 11 May 2022 23:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220512_231/47qg4_1652309670448d13k1_JPEG/cover_cover_today_20220512_073537_2_42_Large_20220512075400835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
