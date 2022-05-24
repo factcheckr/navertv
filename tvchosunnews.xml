@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 10:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 11:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 24일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26958895</link>
+            <guid>https://tv.naver.com/v/26958895</guid>
+            <pubDate>Tue, 24 May 2022 11:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_53/1668W_1653389505862BpG9A_JPEG/cover_2022052490110_thumb_074914_20220524195101788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['BMW 뉴 7시리즈' 첫 공개…뒷좌석에 31.3인치 스크린 탑재]]></title>
             <link>https://tv.naver.com/v/26954678</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 01:57:56 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220523_175/zmGyT_1653310637907tL736_JPEG/cover_2022052390163_thumb_095456_20220523215618534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치설명서 김반장 vs 서반장] 결국은 尹의 선거 & 명풍(明風)은 없었다?]]></title>
-            <link>https://tv.naver.com/v/26941517</link>
-            <guid>https://tv.naver.com/v/26941517</guid>
-            <pubDate>Tue, 24 May 2022 01:57:56 GMT</pubDate>
-            <content:encoded><![CDATA[5:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220523_293/i7yRB_1653310739588HCyEO_JPEG/cover_2022052390159_thumb_095110_20220523215609000.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
