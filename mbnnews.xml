@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 20:26:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 21:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[229회_코로나19 유행 진단과 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/26965353</link>
+            <guid>https://tv.naver.com/v/26965353</guid>
+            <pubDate>Tue, 24 May 2022 21:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[14:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_214/vVxJO_1653426788054hjHLb_JPEG/cover_cover_20220525060017_20_849_1299743_360_7_0_20220525060701281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]무더위 내일까지 이어져…비 내리며 주 후반 평년기온 밑돌아]]></title>
             <link>https://tv.naver.com/v/26960412</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 10:26:54 GMT</pubDate>
             <content:encoded><![CDATA[20:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220524_120/eG7zI_1653387715295Q1qp5_JPEG/cover_cover_20220524190619_20_673_1299709_360_7_0_20220524191501281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-문재인, '5년 전 약속' 추도식 참석…여야, 봉하마을 총집결]]></title>
-            <link>https://tv.naver.com/v/26958258</link>
-            <guid>https://tv.naver.com/v/26958258</guid>
-            <pubDate>Tue, 24 May 2022 10:26:54 GMT</pubDate>
-            <content:encoded><![CDATA[23:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_256/ujBk0_1653387480500LWsRo_JPEG/cover_cover_20220524190050_20_673_1299708_360_7_0_20220524190901236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
