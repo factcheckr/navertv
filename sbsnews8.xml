@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 19:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 20:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 종로구 안국동 음식점서 불…"영업 종료 후 내부 화재"]]></title>
+            <link>https://tv.naver.com/v/26986596</link>
+            <guid>https://tv.naver.com/v/26986596</guid>
+            <pubDate>Wed, 25 May 2022 20:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_119/ByqJy_1653507301071YfSPU_JPEG/cover_0000975542_001_20220526043401254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/26985987</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 May 2022 13:44:33 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_210/M6KCO_16534835394839yStQ_JPEG/cover_0000975502_001_20220525215732104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신산업 유치 · 인구 감소' 충청북도 해결사 찾기]]></title>
-            <link>https://tv.naver.com/v/26982877</link>
-            <guid>https://tv.naver.com/v/26982877</guid>
-            <pubDate>Wed, 25 May 2022 13:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_282/nwzEY_1653483560719C6LTF_JPEG/cover_0000975503_001_20220525215721758.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
