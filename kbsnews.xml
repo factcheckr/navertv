@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 16:36:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 17:30:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘550만 인분’ 시중에 풀려…적발되면 ‘한줄’]]></title>
+            <link>https://tv.naver.com/v/26985737</link>
+            <guid>https://tv.naver.com/v/26985737</guid>
+            <pubDate>Wed, 25 May 2022 17:29:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_279/13KTw_1653496504765qpgv9_JPEG/cover_0011272572_001_20220526013401282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강릉시 미래교통복합센터 내년 10월 건립 추진]]></title>
             <link>https://tv.naver.com/v/26985647</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 May 2022 13:44:17 GMT</pubDate>
             <content:encoded><![CDATA[16:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_296/XRg9X_1653486041500gWHzJ_JPEG/cover_0011270809_001_20220525223601284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[풀영상] 2022 지방선거 통영시장 후보 토론]]></title>
-            <link>https://tv.naver.com/v/26983554</link>
-            <guid>https://tv.naver.com/v/26983554</guid>
-            <pubDate>Wed, 25 May 2022 14:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[59:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_47/T2kiT_1653488336686R3S01_JPEG/cover_0011270807_001_20220525223517925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
