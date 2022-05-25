@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 10:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 11:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 25일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/26979999</link>
+            <guid>https://tv.naver.com/v/26979999</guid>
+            <pubDate>Wed, 25 May 2022 11:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_25/ruWL9_1653475298386msIuH_JPEG/cover_2022052590153_thumb_073805_20220525194102252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[따져보니] '광범위 확산' 원숭이두창, 팬데믹 가능성은?]]></title>
             <link>https://tv.naver.com/v/26967113</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 12:45:24 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220524_181/oOPDP_16533958298335tg82_JPEG/cover_2022052490145_thumb_093319_20220524213626952.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["더운데 담배연기까지"…'실외 마스크 해제'에 '거리 흡연'도 증가]]></title>
-            <link>https://tv.naver.com/v/26960458</link>
-            <guid>https://tv.naver.com/v/26960458</guid>
-            <pubDate>Tue, 24 May 2022 12:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_168/ZkBN5_1653395834745sATyc_JPEG/cover_2022052490143_thumb_093308_20220524213620720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
