@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 14:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 15:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘550만 인분’ 시중에 풀려…적발되면 ‘한줄’]]></title>
+            <link>https://tv.naver.com/v/26984838</link>
+            <guid>https://tv.naver.com/v/26984838</guid>
+            <pubDate>Wed, 25 May 2022 15:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_71/veEO7_1653491111423QxgAj_JPEG/cover_0011272572_001_20220526000401252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울산 대체로 맑고 낮 최고 29도…내일 18~26도]]></title>
             <link>https://tv.naver.com/v/26984161</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 May 2022 13:44:17 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_68/50aiO_1653485085946cxKwo_JPEG/cover_0011272678_001_20220525222431673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 5·18 관련자 재기수사…‘범법자’ 명예회복 도움]]></title>
-            <link>https://tv.naver.com/v/26983380</link>
-            <guid>https://tv.naver.com/v/26983380</guid>
-            <pubDate>Wed, 25 May 2022 13:44:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_127/kaU7Z_1653485110435sbQm2_JPEG/cover_0011272677_001_20220525222423750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
