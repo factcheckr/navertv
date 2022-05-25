@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:56:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“주식·코인 말고 적금” ‘연 6% 적금’ 하루 만에 완판]]></title>
+            <link>https://tv.naver.com/v/26969835</link>
+            <guid>https://tv.naver.com/v/26969835</guid>
+            <pubDate>Wed, 25 May 2022 03:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_73/iPK8B_1653448804663O1XrI_JPEG/cover_0000227573_001_20220525121901778.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]‘가짜’ 계양 사람? / 오세훈 vs 송영길 “매너리즘” 공방 / 춤추는 후보들]]></title>
             <link>https://tv.naver.com/v/26959449</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 May 2022 12:45:32 GMT</pubDate>
             <content:encoded><![CDATA[9:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220524_198/CN206_1653391457440IYT0b_JPEG/cover_0000227534_001_20220524201922614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“北 눈치 보는 굴종외교 끝”…尹 대통령 단호한 메시지]]></title>
-            <link>https://tv.naver.com/v/26959322</link>
-            <guid>https://tv.naver.com/v/26959322</guid>
-            <pubDate>Tue, 24 May 2022 12:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[13:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220524_7/6XHks_1653391475256qBiO8_JPEG/cover_0000227533_001_20220524201901796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
