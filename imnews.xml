@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 09:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 10:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 밤하늘에 핏빛 해파리가 떴다..히말라야의 붉은 번개!]]></title>
+            <link>https://tv.naver.com/v/26999778</link>
+            <guid>https://tv.naver.com/v/26999778</guid>
+            <pubDate>Thu, 26 May 2022 10:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_50/eImkA_1653557406727wvGn3_JPEG/cover_cover_220526_1830_sprite_640_20220526182902898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 늦은 밤부터 경기·영서 비 조금‥내일 따스한 봄 햇살]]></title>
             <link>https://tv.naver.com/v/26997937</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 03:34:32 GMT</pubDate>
             <content:encoded><![CDATA[17:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_16/urbtq_16535352901504emSm_JPEG/c9c1172a-dca2-11ec-bb12-d4f5ef5a9532_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['장애 딸 살해' 엄마 "미안하다"‥구속영장 기각]]></title>
-            <link>https://tv.naver.com/v/26990857</link>
-            <guid>https://tv.naver.com/v/26990857</guid>
-            <pubDate>Thu, 26 May 2022 03:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_58/viiML_1653534659610ic3rr_JPEG/cover_cover_today_20220526_062135_1_13_Large_20220526121013540.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
