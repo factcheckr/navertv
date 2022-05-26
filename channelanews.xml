@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 23:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 02:00:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“주식·코인 말고 적금” ‘연 6% 적금’ 하루 만에 완판]]></title>
+            <link>https://tv.naver.com/v/26988865</link>
+            <guid>https://tv.naver.com/v/26988865</guid>
+            <pubDate>Thu, 26 May 2022 02:00:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_243/J7fr5_1653528415730itOvc_JPEG/cover_0000227573_001_20220526102601885.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]이재명, 선거 지면 “끽”? / 대통령 집무실 집들이 / 후보들의 맞춤 유세]]></title>
             <link>https://tv.naver.com/v/26981776</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 May 2022 11:21:54 GMT</pubDate>
             <content:encoded><![CDATA[7:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_193/ukIOi_1653476330380OkNdy_JPEG/cover_0000227597_001_20220525195429805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘권력자의 개인 공간’ 청와대 관저 문 열린다]]></title>
-            <link>https://tv.naver.com/v/26980280</link>
-            <guid>https://tv.naver.com/v/26980280</guid>
-            <pubDate>Wed, 25 May 2022 11:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[5:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_293/mTfu9_1653476265736lsoVG_JPEG/cover_0000227596_001_20220525195419075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
