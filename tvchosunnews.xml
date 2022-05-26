@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 10:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 11:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 26일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27001424</link>
+            <guid>https://tv.naver.com/v/27001424</guid>
+            <pubDate>Thu, 26 May 2022 11:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_192/EaijB_1653562609871Rhoh9_JPEG/cover_2022052690104_thumb_075147_20220526195602214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실 "北, 7차 핵실험 임박"…한미, 5년 만에 공조]]></title>
             <link>https://tv.naver.com/v/26988317</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 May 2022 13:45:14 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_297/tGkVj_1653481959678K93g5_JPEG/cover_2022052590185_thumb_092841_20220525213136026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 초등학교 총기난사, 어린이 19명 포함 21명 숨져]]></title>
-            <link>https://tv.naver.com/v/26982396</link>
-            <guid>https://tv.naver.com/v/26982396</guid>
-            <pubDate>Wed, 25 May 2022 13:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_252/fhoVs_1653481970163Dcrzs_JPEG/cover_2022052590183_thumb_092746_20220525213110298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
