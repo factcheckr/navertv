@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 15:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 16:35:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] MBC 중계방송 – 제8회 전국동시지방선거 서울시장]]></title>
+            <link>https://tv.naver.com/v/27007671</link>
+            <guid>https://tv.naver.com/v/27007671</guid>
+            <pubDate>Thu, 26 May 2022 16:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:01:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_106/i7XuK_1653580890507XFSeB_JPEG/f79ab5c5-dd0c-11ec-928a-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방송3사 여론조사] 국정안정 52.2% vs 견제 39.8%]]></title>
             <link>https://tv.naver.com/v/27003004</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 11:19:29 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_111/lH6cg_1653562419882jDs15_JPEG/cover_cover_desk_20220526_194911_1_2_Large_20220526195303802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["'인건비 줄이기'용 임금피크제는 차별"‥대법 첫 판결]]></title>
-            <link>https://tv.naver.com/v/27001305</link>
-            <guid>https://tv.naver.com/v/27001305</guid>
-            <pubDate>Thu, 26 May 2022 11:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_123/R91ls_1653562299045lzIRS_JPEG/cover_cover_desk_20220526_194709_1_1_Large_20220526195103214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
