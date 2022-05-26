@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 20:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 21:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[230회_기상 전망과 산불 예방 요령]]></title>
+            <link>https://tv.naver.com/v/27008888</link>
+            <guid>https://tv.naver.com/v/27008888</guid>
+            <pubDate>Thu, 26 May 2022 21:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[14:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_88/mslB4_1653599554680wKsvh_JPEG/cover_cover_20220527055928_20_849_1299902_360_7_0_20220527060701253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백운기의 뉴스와이드] 윤석열 대통령, 여성 장·차관 3명 내정 / 박지현의 쇄신에 당 내홍 후폭풍]]></title>
             <link>https://tv.naver.com/v/27003726</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[5:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_160/TX0di_1653559223981HLB1f_JPEG/cover_cover_20220526185255_20_673_1299869_360_7_0_20220526185801306.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-국민대표 20인에 '대통령 시계' 선물]]></title>
-            <link>https://tv.naver.com/v/27000269</link>
-            <guid>https://tv.naver.com/v/27000269</guid>
-            <pubDate>Thu, 26 May 2022 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[7:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_216/nzgew_1653559040008Bohg3_JPEG/cover_cover_20220526184952_20_673_1299868_360_7_0_20220526185401279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
