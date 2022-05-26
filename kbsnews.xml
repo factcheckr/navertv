@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 13:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 14:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 25.9도…내일 맑고 16~29도]]></title>
+            <link>https://tv.naver.com/v/27005792</link>
+            <guid>https://tv.naver.com/v/27005792</guid>
+            <pubDate>Thu, 26 May 2022 14:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_265/JQPmZ_1653573919860jMnaV_JPEG/cover_0011273506_001_20220526230503388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[풀영상] 2022 지방선거 후보 연설 - 이석문 제주도교육감 후보]]></title>
             <link>https://tv.naver.com/v/27005201</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 May 2022 13:38:56 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220526_242/nEH4D_1653571256806tVfMV_JPEG/cover_0011273405_001_20220526221955125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘산업도시’ 울산 2050년 생산인구 ‘반토막’]]></title>
-            <link>https://tv.naver.com/v/27005035</link>
-            <guid>https://tv.naver.com/v/27005035</guid>
-            <pubDate>Thu, 26 May 2022 13:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220526_260/4lc0B_1653571251906E5sw7_JPEG/cover_0011273385_001_20220526221944132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
