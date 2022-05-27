@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 08:29:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 09:24:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스외전 경제 '쏙'] "여행·외식비 빠른 속도로 감소 가능성‥소비 침체 후폭풍"]]></title>
+            <link>https://tv.naver.com/v/27019744</link>
+            <guid>https://tv.naver.com/v/27019744</guid>
+            <pubDate>Fri, 27 May 2022 09:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[14:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_106/IYva8_1653640210764mucuR_JPEG/cover_cover_14news_20220527_142741_1_5_Large_20220527172605017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 주말 다시 더워져‥일요일 남부 차츰 비]]></title>
             <link>https://tv.naver.com/v/27019336</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 May 2022 03:34:55 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_42/0RyA2_1653621397240R8oyg_JPEG/cover_cover_noon_20220527_120921_1_1_Large_20220527121603705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스특보] ‘코로나19’ 중앙재난안전대책본부 브리핑]]></title>
-            <link>https://tv.naver.com/v/27011825</link>
-            <guid>https://tv.naver.com/v/27011825</guid>
-            <pubDate>Fri, 27 May 2022 03:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[8:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_64/lMOPH_1653633401124As2rl_PNG/1653633398173.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
