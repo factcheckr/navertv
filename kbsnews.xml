@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 13:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 14:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 산림청의 울진 산불 진화 상황은?]]></title>
+            <link>https://tv.naver.com/v/27037181</link>
+            <guid>https://tv.naver.com/v/27037181</guid>
+            <pubDate>Sat, 28 May 2022 14:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_125/fpcJZ_1653745634149oegmD_JPEG/cover_0011274497_001_20220528224609276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 경북 울진 산불 3단계 발령…4개 지역 주민 대피]]></title>
+            <link>https://tv.naver.com/v/27037179</link>
+            <guid>https://tv.naver.com/v/27037179</guid>
+            <pubDate>Sat, 28 May 2022 14:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_68/d5Jks_1653745626749CwLIJ_JPEG/cover_0011274496_001_20220528224601228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[풀영상] 2022 지방선거 후보 연설 - 조영종 충남교육감 후보]]></title>
             <link>https://tv.naver.com/v/27036999</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 28 May 2022 13:31:09 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_258/jjpbd_1653742815314d3V3s_JPEG/cover_0011274467_001_20220528215916918.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산 코로나19 신규 확진자 679명…사흘째 천 명 아래]]></title>
-            <link>https://tv.naver.com/v/27036649</link>
-            <guid>https://tv.naver.com/v/27036649</guid>
-            <pubDate>Sat, 28 May 2022 13:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_21/3WWqg_1653742762414N5Qzx_JPEG/cover_0011274466_001_20220528215908990.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선관위, 하윤수 후보 ‘바뀐 교명 기재’ 검찰 고발]]></title>
-            <link>https://tv.naver.com/v/27036647</link>
-            <guid>https://tv.naver.com/v/27036647</guid>
-            <pubDate>Sat, 28 May 2022 13:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_157/GZUIM_1653742757813N7XJK_JPEG/cover_0011274465_001_20220528215901293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
