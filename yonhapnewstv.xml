@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 19:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 20:24:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 5월 29일]]></title>
+            <link>https://tv.naver.com/v/27039967</link>
+            <guid>https://tv.naver.com/v/27039967</guid>
+            <pubDate>Sat, 28 May 2022 20:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[30:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_72/cDukU_1653768213211XPxP8_JPEG/cover_cover_MYH20220527016900038_20220529050102083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['김치 코인' 샀다 평생 모은 돈 가루가…원인은? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/27036677</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 May 2022 06:42:25 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_25/M3tDB_1653716718928Ah45i_JPEG/cover_cover_MYH20220528008200038_20220528144402886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필리핀 관광객 입국 확대…추가접종자 출발전 검사 면제]]></title>
-            <link>https://tv.naver.com/v/27030609</link>
-            <guid>https://tv.naver.com/v/27030609</guid>
-            <pubDate>Sat, 28 May 2022 06:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_233/NMWsY_1653716490110R2pih_JPEG/cover_cover_MYH20220528008100038_20220528144102668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
