@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 01:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 03:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사전투표율 이틀째 오전 11시 투표율 13.65%]]></title>
+            <link>https://tv.naver.com/v/27029452</link>
+            <guid>https://tv.naver.com/v/27029452</guid>
+            <pubDate>Sat, 28 May 2022 03:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_101/Hcb7B_1653707337755pTP1F_JPEG/cover_0011274366_001_20220528120801255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상] “미혼모 문제 너무 몰랐다” 칸 영화제 아이유 인터뷰]]></title>
+            <link>https://tv.naver.com/v/27028978</link>
+            <guid>https://tv.naver.com/v/27028978</guid>
+            <pubDate>Sat, 28 May 2022 03:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_227/QxUX7_16537041541463ugY2_JPEG/cover_0011274359_001_20220528111501218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크랩] 요즘 걸그룹 안무는 다 짜봤다는 핫한 안무가 만나봄]]></title>
             <link>https://tv.naver.com/v/27028738</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 27 May 2022 23:22:29 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_105/SaNE5_1653691236262tUrYP_JPEG/cover_0011274306_001_20220528073951415.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘임금피크제 판결’에 업계는 술렁]]></title>
-            <link>https://tv.naver.com/v/27027576</link>
-            <guid>https://tv.naver.com/v/27027576</guid>
-            <pubDate>Fri, 27 May 2022 23:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_287/Y3D6v_1653691224406wNCzC_JPEG/cover_0011274305_001_20220528073940401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지방선거는 첨단 교통수단 전시장?]]></title>
-            <link>https://tv.naver.com/v/27027574</link>
-            <guid>https://tv.naver.com/v/27027574</guid>
-            <pubDate>Fri, 27 May 2022 23:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_237/d6Qr1_1653691212272UDU9k_JPEG/cover_0011274304_001_20220528073929627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
