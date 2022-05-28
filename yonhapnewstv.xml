@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 06:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 07:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 추경 본회의 무산…여야, 내일 개의 잠정합의]]></title>
+            <link>https://tv.naver.com/v/27031568</link>
+            <guid>https://tv.naver.com/v/27031568</guid>
+            <pubDate>Sat, 28 May 2022 07:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_192/S3Pmb_1653721860026mm93e_JPEG/cover_cover_MYH20220528009200641_20220528160902304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 주말 초여름 더위…내일 밤부터 남부 곳곳 비]]></title>
             <link>https://tv.naver.com/v/27031207</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 May 2022 04:29:55 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_68/zSO1Y_1653710323194AhAm0_JPEG/cover_cover_MYH20220528005800038_20220528125702537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결별통보 내연녀 출근길 뒤따라가며 위협 운전 40대 집유]]></title>
-            <link>https://tv.naver.com/v/27029801</link>
-            <guid>https://tv.naver.com/v/27029801</guid>
-            <pubDate>Sat, 28 May 2022 04:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_89/2Snlb_1653710168805S15Nl_JPEG/cover_cover_MYH20220528005700038_20220528125502196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
