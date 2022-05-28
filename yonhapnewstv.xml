@@ -4,7 +4,7 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 10:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 11:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Sat, 28 May 2022 10:24:55 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_191/5HPVx_1653729848354kcYLS_JPEG/cover_cover_MYH20220528010700641_20220528182302531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최대 접전지 경기, 일반 사전투표 종료]]></title>
-            <link>https://tv.naver.com/v/27033510</link>
-            <guid>https://tv.naver.com/v/27033510</guid>
-            <pubDate>Sat, 28 May 2022 10:24:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_152/BaEyn_1653729718540cfpB2_JPEG/cover_cover_MYH20220528010600641_20220528182102391.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일반 유권자 사전투표 종료…18시 20.52% 역대 최고]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 28 May 2022 06:42:25 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_51/dz3mJ_1653715863457I625u_JPEG/cover_cover_MYH20220528008000641_20220528142802799.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 추경 본회의 무산…여야, 내일 개의 잠정합의]]></title>
+            <link>https://tv.naver.com/v/27030353</link>
+            <guid>https://tv.naver.com/v/27030353</guid>
+            <pubDate>Sat, 28 May 2022 11:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_216/ppsr9_1653714865591zQYmx_JPEG/cover_cover_MYH20220528007800641_20220528141302268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
