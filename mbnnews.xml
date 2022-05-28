@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 20:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 21:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[231회_진드기 감염병 및 실외기 화재 예방법]]></title>
+            <link>https://tv.naver.com/v/27040073</link>
+            <guid>https://tv.naver.com/v/27040073</guid>
+            <pubDate>Sat, 28 May 2022 21:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[14:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_167/6CYjl_1653771421389Ebcfd_JPEG/cover_cover_20220529054436_20_849_1300027_360_7_0_20220529055101267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스 날씨]주말 동안 한낮 무더위 기승…전국 강한 바람 주의]]></title>
             <link>https://tv.naver.com/v/27036044</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 May 2022 01:49:52 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_55/asKTE_1653702318155wnAYS_JPEG/cover_cover_20220528104019_20_675_1299993_360_7_0_20220528104402278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출국도 모내기도 '한 표 행사' 뒤…사전투표 열기 '후끈']]></title>
-            <link>https://tv.naver.com/v/27028776</link>
-            <guid>https://tv.naver.com/v/27028776</guid>
-            <pubDate>Sat, 28 May 2022 01:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_97/0ksqQ_1653702190079WJp5K_JPEG/cover_cover_20220528103749_20_675_1299992_360_7_0_20220528104201409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
