@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 07:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 08:28:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now_영상] 네팔 관광지서 22명 태운 항공기 실종]]></title>
+            <link>https://tv.naver.com/v/27045737</link>
+            <guid>https://tv.naver.com/v/27045737</guid>
+            <pubDate>Sun, 29 May 2022 08:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_280/GKwTZ_1653810082907H1l4V_JPEG/cover_cover_PCA_20220529_07_20220529164102668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[World Now_영상] '아찔한 632m' 세계에서 가장 긴 유리다리 공개]]></title>
             <link>https://tv.naver.com/v/27045296</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 May 2022 12:36:58 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_77/pZKpX_1653738688156qzChu_JPEG/cover_cover_desk_20220528_200233_1_2_Large_20220528205026420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빗발치는 구원 요청에도 경찰, 1시간 15분 동안 '복도 대기']]></title>
-            <link>https://tv.naver.com/v/27035795</link>
-            <guid>https://tv.naver.com/v/27035795</guid>
-            <pubDate>Sat, 28 May 2022 12:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_5/a4ZrK_1653738665692CVezU_JPEG/cover_cover_desk_20220528_202047_1_9_Large_20220528205017168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
