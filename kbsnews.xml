@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 10:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 11:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대전 선관위, 불법 선거운동 2명 고발]]></title>
+            <link>https://tv.naver.com/v/27048245</link>
+            <guid>https://tv.naver.com/v/27048245</guid>
+            <pubDate>Sun, 29 May 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_227/cdao8_1653822193459AorrJ_JPEG/cover_0011274047_001_20220529200301230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 내일, 전국 곳곳 비]]></title>
             <link>https://tv.naver.com/v/27047726</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 May 2022 23:23:16 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220529_108/HhhXB_1653776949177B6hyF_JPEG/cover_0011274533_001_20220529072809838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 경북 울진 산불 3단계 발령…4개 지역 주민 대피]]></title>
-            <link>https://tv.naver.com/v/27040285</link>
-            <guid>https://tv.naver.com/v/27040285</guid>
-            <pubDate>Sat, 28 May 2022 23:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_65/GBRab_16537769419408fC7c_JPEG/cover_0011274532_001_20220529072801447.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
