@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 03:54:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 04:38:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산림청 “경북 울진 산불 주불 잡았다”…잔불 정리 총력]]></title>
+            <link>https://tv.naver.com/v/27043108</link>
+            <guid>https://tv.naver.com/v/27043108</guid>
+            <pubDate>Sun, 29 May 2022 04:38:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_94/FFjcS_1653797864880BqpMC_JPEG/cover_0000227805_001_20220529131701622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]내일 남부 비 내리나 더위 계속…오전에 제주 비 시작]]></title>
             <link>https://tv.naver.com/v/27035566</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 May 2022 10:25:27 GMT</pubDate>
             <content:encoded><![CDATA[9:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_105/LURB5_1653731824892Yovrp_JPEG/cover_0000227768_001_20220528185301755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여론보다]‘마지막 공표’ 여론조사…표심 향방은?]]></title>
-            <link>https://tv.naver.com/v/27023657</link>
-            <guid>https://tv.naver.com/v/27023657</guid>
-            <pubDate>Fri, 27 May 2022 12:44:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_104/qAUwZ_165365323626280BG9_JPEG/cover_0000227740_001_20220527210601860.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
