@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 06:30:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 07:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now_영상] '아찔한 632m' 세계에서 가장 긴 유리다리 공개]]></title>
+            <link>https://tv.naver.com/v/27045296</link>
+            <guid>https://tv.naver.com/v/27045296</guid>
+            <pubDate>Sun, 29 May 2022 07:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_118/5li1n_1653807867955HU4tW_JPEG/cover_cover_PCA_20220529_06_20220529160302566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여야, 추경 합의‥오늘밤 본회의 처리]]></title>
             <link>https://tv.naver.com/v/27043594</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 May 2022 12:36:58 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_5/a4ZrK_1653738665692CVezU_JPEG/cover_cover_desk_20220528_202047_1_9_Large_20220528205017168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다녀왔습니다] "평범하게 살고싶어요"]]></title>
-            <link>https://tv.naver.com/v/27035793</link>
-            <guid>https://tv.naver.com/v/27035793</guid>
-            <pubDate>Sat, 28 May 2022 12:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_140/JJr1T_1653738689454vxqXI_JPEG/cover_cover_desk_20220528_201824_1_8_Large_20220528205007783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
