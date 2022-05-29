@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 06:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이젠 VR로 사고 예방…VR 안전체험장 만든 LG유플러스]]></title>
+            <link>https://tv.naver.com/v/27044781</link>
+            <guid>https://tv.naver.com/v/27044781</guid>
+            <pubDate>Sun, 29 May 2022 06:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[11:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_129/e7qdU_1653805343430vQSxK_JPEG/cover_0000227814_001_20220529151601699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국 ‘칸 영화제 2관왕’ 쾌거…송강호·박찬욱 수상]]></title>
             <link>https://tv.naver.com/v/27043944</link>
@@ -46,6 +54,14 @@
             <pubDate>Sun, 29 May 2022 05:25:13 GMT</pubDate>
             <content:encoded><![CDATA[7:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220529_15/dw0wJ_1653801613183vVH6v_JPEG/cover_0000227809_001_20220529141701851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘6·1 지방선거’ D-3…與 “국정 안정” vs 野 “정권 견제”]]></title>
+            <link>https://tv.naver.com/v/27043890</link>
+            <guid>https://tv.naver.com/v/27043890</guid>
+            <pubDate>Sun, 29 May 2022 06:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[24:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_187/8mMYQ_1653802296568B15sG_JPEG/cover_0000227807_001_20220529141601710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산림청 “경북 울진 산불 주불 잡았다”…잔불 정리 총력]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 28 May 2022 10:25:27 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220528_269/1C29Q_1653731943318xxSVA_JPEG/cover_0000227775_001_20220528185701785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤종원 결국 ‘낙마’…체면 구긴 한덕수 총리]]></title>
-            <link>https://tv.naver.com/v/27034138</link>
-            <guid>https://tv.naver.com/v/27034138</guid>
-            <pubDate>Sat, 28 May 2022 10:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_300/XjbNS_1653731867785zGuK9_JPEG/cover_0000227774_001_20220528185555423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“협의 거부” vs “자리 요구”…민주당 내홍 재점화]]></title>
-            <link>https://tv.naver.com/v/27034135</link>
-            <guid>https://tv.naver.com/v/27034135</guid>
-            <pubDate>Sat, 28 May 2022 10:25:27 GMT</pubDate>
-            <content:encoded><![CDATA[7:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220528_153/c53Gb_1653731922971SnrNR_JPEG/cover_0000227773_001_20220528185542905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
