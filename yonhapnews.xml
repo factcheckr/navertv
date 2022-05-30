@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 21:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 22:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 30 May 2022 02:02:53 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_58/AzY2k_1653875944956GaiWT_JPEG/1653875496103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리빙톡] 갑자기 붓고 아픈 발…'통풍'일수도]]></title>
+            <link>https://tv.naver.com/v/27055514</link>
+            <guid>https://tv.naver.com/v/27055514</guid>
+            <pubDate>Mon, 30 May 2022 22:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_216/Vc7Z2_1653874223149wIHfz_JPEG/1653874137398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['이제 5G 쓰는데'…전세계가 6G 경쟁 나선 까닭?]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 May 2022 03:35:28 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220527_58/8AV6W_1653619792100LoXuW_JPEG/1653619114241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대통령실 경비' 경찰 권총 실탄 6발 분실…10일째 못 찾아]]></title>
-            <link>https://tv.naver.com/v/27011483</link>
-            <guid>https://tv.naver.com/v/27011483</guid>
-            <pubDate>Fri, 27 May 2022 01:55:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220527_242/uAAOy_1653616485988HW428_JPEG/1653616353485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
