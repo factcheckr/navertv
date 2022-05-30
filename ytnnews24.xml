@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 13:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 14:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 北 소식 전해지자, 난리 난 中...'미묘한 분위기']]></title>
+            <link>https://tv.naver.com/v/27069786</link>
+            <guid>https://tv.naver.com/v/27069786</guid>
+            <pubDate>Mon, 30 May 2022 14:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_277/Q6l74_1653918828814SilXF_JPEG/cover_cover_202205302249310200_t_20220530225302610.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 막판 변수 떠오른 '김포공항 이전']]></title>
             <link>https://tv.naver.com/v/27069490</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 May 2022 11:21:22 GMT</pubDate>
             <content:encoded><![CDATA[6:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_226/17pNZ_1653909111430WA9Qv_JPEG/cover_cover_202205302004298112_t_20220530200702635.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기업] LGU+, 오프라인 놀이교육시장 진출...돌봄플랫폼 '째깍악어'와 제휴...]]></title>
-            <link>https://tv.naver.com/v/27066932</link>
-            <guid>https://tv.naver.com/v/27066932</guid>
-            <pubDate>Mon, 30 May 2022 11:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_277/IHMU2_1653908728331v3x1t_JPEG/cover_cover_202205301701164229_t_20220530200502741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
