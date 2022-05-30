@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 06:33:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 07:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/27062304</link>
+            <guid>https://tv.naver.com/v/27062304</guid>
+            <pubDate>Mon, 30 May 2022 07:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[7:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_288/X65is_1653895315247aOuBy_JPEG/cover_0011275092_001_20220530161901199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보영상] 칸 남우주연상 송강호 귀국 “팬들의 사랑과 성원이 있었기에 가능”]]></title>
+            <link>https://tv.naver.com/v/27062100</link>
+            <guid>https://tv.naver.com/v/27062100</guid>
+            <pubDate>Mon, 30 May 2022 07:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[5:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_164/6LxYn_1653894773495tOdeG_JPEG/cover_0011275089_001_20220530161001245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 광시자치구 수재민 10만 명…중국, 호우·코로나 이중고]]></title>
             <link>https://tv.naver.com/v/27061004</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 30 May 2022 03:58:27 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_284/sKeSN_1653882109700GFh0s_JPEG/cover_0011275035_001_20220530124101209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재범률 높은 음주운전…“시동 잠금장치 필요”]]></title>
-            <link>https://tv.naver.com/v/27057710</link>
-            <guid>https://tv.naver.com/v/27057710</guid>
-            <pubDate>Mon, 30 May 2022 03:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_287/TWRRT_16538820677843zbB5_JPEG/cover_0011275034_001_20220530124001457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대입시험에 한국어 선택 급증…일어도 제쳤다]]></title>
-            <link>https://tv.naver.com/v/27057678</link>
-            <guid>https://tv.naver.com/v/27057678</guid>
-            <pubDate>Mon, 30 May 2022 03:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_68/Tikuu_16538819348068msi6_JPEG/cover_0011275033_001_20220530123801229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
