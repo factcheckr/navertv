@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 12:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 13:50:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,14 +152,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_243/gUvf2_1653908228459bXaf0_JPEG/cover_cover_20220530195034_20_552_1300121_360_7_0_20220530195601310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["대통령 애정"·"예산폭탄"…국민의힘, 대전·경기 '막판 총력전']]></title>
-            <link>https://tv.naver.com/v/27066710</link>
-            <guid>https://tv.naver.com/v/27066710</guid>
-            <pubDate>Mon, 30 May 2022 11:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_110/CRtqc_1653908000372cAIpK_JPEG/cover_cover_20220530194743_20_552_1300120_360_7_0_20220530195201283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[뉴스추적] 23조 지원금 나눠주며 내놓은 물가정책 통할까?]]></title>
             <link>https://tv.naver.com/v/27066669</link>
             <guid>https://tv.naver.com/v/27066669</guid>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 30 May 2022 10:26:42 GMT</pubDate>
             <content:encoded><![CDATA[20:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_190/exd4b_1653903997629dcasA_JPEG/cover_cover_20220530183202_20_673_1300108_360_7_0_20220530183901270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 5월 30일 종합뉴스 예고]]></title>
+            <link>https://tv.naver.com/v/27065029</link>
+            <guid>https://tv.naver.com/v/27065029</guid>
+            <pubDate>Mon, 30 May 2022 13:50:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_80/XLxts_1653901729343k6pyl_JPEG/cover_cover_20220530180404_20_845_1300107_360_7_0_20220530180803784.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
