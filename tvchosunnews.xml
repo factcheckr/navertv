@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 10:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 11:21:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 31일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27085671</link>
+            <guid>https://tv.naver.com/v/27085671</guid>
+            <pubDate>Tue, 31 May 2022 11:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_238/GxlAf_1653994302306EEh7B_JPEG/cover_2022053190098_thumb_074519_20220531195101780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주당 보고서에도 "김포공항 폐쇄 시 지방소멸"]]></title>
             <link>https://tv.naver.com/v/27081001</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 May 2022 13:50:30 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_118/yXXEc_1653915117683mPmtG_JPEG/cover_2022053090179_thumb_094618_20220530215102505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹대통령, 이전한 국방부·합참 첫 방문 "미안하고 고맙다"]]></title>
-            <link>https://tv.naver.com/v/27068738</link>
-            <guid>https://tv.naver.com/v/27068738</guid>
-            <pubDate>Mon, 30 May 2022 13:50:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_38/hBvil_1653914837223tUbOp_JPEG/cover_2022053090177_thumb_094110_20220530214616821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
