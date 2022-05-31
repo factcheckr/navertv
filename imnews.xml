@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 12:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 13:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] 밀양 산불 13시간째..확산 방지 총력]]></title>
+            <link>https://tv.naver.com/v/27088146</link>
+            <guid>https://tv.naver.com/v/27088146</guid>
+            <pubDate>Tue, 31 May 2022 13:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[6:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_152/V4Wd6_1654003655041JDQ48_JPEG/1654003651489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['왕릉뷰' 아파트 논란 끝에 입주 시작‥철거 어려울 듯]]></title>
             <link>https://tv.naver.com/v/27086890</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 May 2022 11:20:06 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_229/jGZyd_1653994369046xcJ7R_JPEG/cover_cover_desk_20220531_194757_1_4_Large_20220531195212487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결전 D-1 여야 총력전‥"안정론" VS "견제론"]]></title>
-            <link>https://tv.naver.com/v/27085683</link>
-            <guid>https://tv.naver.com/v/27085683</guid>
-            <pubDate>Tue, 31 May 2022 11:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_214/SaGF3_1653994368818gcxJI_JPEG/cover_cover_desk_20220531_194202_1_1_Large_20220531195203418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
