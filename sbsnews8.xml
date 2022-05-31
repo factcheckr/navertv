@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 20:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 21:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[결전의 날, 지방선거 투표 시작…투표용지 최대 8장]]></title>
+            <link>https://tv.naver.com/v/27090897</link>
+            <guid>https://tv.naver.com/v/27090897</guid>
+            <pubDate>Tue, 31 May 2022 21:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_199/VmkYO_1654031989297c2pMT_JPEG/cover_0000976739_001_20220601061901197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[나이트라인 초대석] 서로 다른 변호사 역할을 마주하다…다채로운 배우 서현진]]></title>
             <link>https://tv.naver.com/v/27090692</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 May 2022 12:42:53 GMT</pubDate>
             <content:encoded><![CDATA[4:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_97/Mkis3_1654000660666WGqdu_JPEG/cover_0000976701_001_20220531213531146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상하이 두 달 만에 봉쇄 해제…제로 코로나 '삐걱']]></title>
-            <link>https://tv.naver.com/v/27087385</link>
-            <guid>https://tv.naver.com/v/27087385</guid>
-            <pubDate>Tue, 31 May 2022 12:42:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_66/VF2SE_16540005928585zDGh_JPEG/cover_0000976705_001_20220531213521407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

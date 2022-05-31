@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 20:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 21:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 시각 서울 영등포 투표소]]></title>
+            <link>https://tv.naver.com/v/27090901</link>
+            <guid>https://tv.naver.com/v/27090901</guid>
+            <pubDate>Tue, 31 May 2022 21:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_8/xtkZ3_1654032045195uWySg_JPEG/cover_0011276285_001_20220601062001493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[라인 날씨] ‘밀양 산불’ 진화 작업 계속…건조 특보 확대]]></title>
             <link>https://tv.naver.com/v/27089779</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 May 2022 15:27:40 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_141/1SHY9_1654010221561aIc4X_JPEG/cover_0011276238_001_20220601001601253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 소방청 상황실]]></title>
-            <link>https://tv.naver.com/v/27089276</link>
-            <guid>https://tv.naver.com/v/27089276</guid>
-            <pubDate>Tue, 31 May 2022 15:27:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_239/Be1dn_1654009742311o1KYg_JPEG/cover_0011276235_001_20220601000701208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
