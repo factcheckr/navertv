@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 07:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 08:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상M] 대낮에 인천 도로를 질주한 말 한 마리, 무슨 사연이?]]></title>
+            <link>https://tv.naver.com/v/27096573</link>
+            <guid>https://tv.naver.com/v/27096573</guid>
+            <pubDate>Wed, 01 Jun 2022 08:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_247/GYHMq_1654068374661rzLC7_JPEG/cover_cover_0601-1_20220601162604041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스외전 정치 맞수다] 지방선거 '안정론' vs '견제론'‥민심은?]]></title>
             <link>https://tv.naver.com/v/27096364</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 04:36:25 GMT</pubDate>
             <content:encoded><![CDATA[0:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_80/Xjw7A_1654053135890aQRmN_JPEG/cover_cover_h2022060107_20220601121203418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 서울시, 소방차 '자동 인식' 긴급번호판으로 교체]]></title>
-            <link>https://tv.naver.com/v/27093183</link>
-            <guid>https://tv.naver.com/v/27093183</guid>
-            <pubDate>Wed, 01 Jun 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_223/QiVMF_1654050756045mTnqa_JPEG/cover_cover_h2022060104_20220601113203991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
