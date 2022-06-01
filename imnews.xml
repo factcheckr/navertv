@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 10:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 11:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 숨 막히는 출구조사 카운트다운! 풀영상 공개!]]></title>
+            <link>https://tv.naver.com/v/27099224</link>
+            <guid>https://tv.naver.com/v/27099224</guid>
+            <pubDate>Wed, 01 Jun 2022 11:22:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_273/Ain82_1654080034793Ytw41_JPEG/cover_cover_640_20220601194003611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엠빅뉴스] [단독영상] 경찰과 대치하던 이들이 매장에 뿌린 것은 무엇???]]></title>
             <link>https://tv.naver.com/v/27098926</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 04:36:25 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_109/HhT8n_1654053655254pIqIb_JPEG/cover_cover_noon_20220601_121026_1_3_Large_20220601122022563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["집권 여당에 힘 실어야"‥이 시각 국민의힘]]></title>
-            <link>https://tv.naver.com/v/27093657</link>
-            <guid>https://tv.naver.com/v/27093657</guid>
-            <pubDate>Wed, 01 Jun 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_58/67pbB_1654053650558iIehD_JPEG/cover_cover_noon_20220601_120841_1_2_Large_20220601122013285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
