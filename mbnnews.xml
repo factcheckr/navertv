@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 14:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 15:29:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[종합뉴스] 이재오·유인태의 선거 결과 따른 정국 전망은?]]></title>
+            <link>https://tv.naver.com/v/27102662</link>
+            <guid>https://tv.naver.com/v/27102662</guid>
+            <pubDate>Wed, 01 Jun 2022 15:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[18:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_7/Bgrv2_1654094916368cCNHm_JPEG/cover_cover_20220601232956_20_552_1300303_360_7_0_20220601234101288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[종합뉴스] MBN 예측조사·지상파 출구조사 결과 분석]]></title>
+            <link>https://tv.naver.com/v/27102550</link>
+            <guid>https://tv.naver.com/v/27102550</guid>
+            <pubDate>Wed, 01 Jun 2022 15:29:51 GMT</pubDate>
+            <content:encoded><![CDATA[26:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_66/jCVT4_1654094824506e5mP3_JPEG/cover_cover_20220601231741_20_552_1300302_360_7_0_20220601233201272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[종합뉴스] 전국 광역단체 투표율 현황]]></title>
             <link>https://tv.naver.com/v/27102396</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 10:31:37 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_166/Sch6b_1654076588881YKOxs_JPEG/cover_cover_20220601181555_20_731_1300274_360_7_0_20220601184201280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[6·1 지선] 인천 계양을 투표율 훌쩍…이재명 캠프 상황은?]]></title>
-            <link>https://tv.naver.com/v/27098221</link>
-            <guid>https://tv.naver.com/v/27098221</guid>
-            <pubDate>Wed, 01 Jun 2022 09:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_285/yOJdI_1654075140531bWh8e_JPEG/cover_cover_20220601181050_20_731_1300273_360_7_0_20220601181801272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 뜨거웠던 현장 속으로…후보들 말말말]]></title>
-            <link>https://tv.naver.com/v/27097425</link>
-            <guid>https://tv.naver.com/v/27097425</guid>
-            <pubDate>Wed, 01 Jun 2022 08:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_99/LHN0i_1654071796015YwMoa_JPEG/cover_cover_20220601171837_20_731_1300271_360_7_0_20220601172201283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
