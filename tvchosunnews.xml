@@ -4,9 +4,25 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 13:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 14:30:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰] 박완수 국민의힘 경남지사 후보]]></title>
+            <link>https://tv.naver.com/v/27102460</link>
+            <guid>https://tv.naver.com/v/27102460</guid>
+            <pubDate>Wed, 01 Jun 2022 14:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_225/ohmpp_1654093686790Jty6X_JPEG/cover_2022060190208_thumb_112416_20220601232609689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 강기정 민주당 광주시장 후보]]></title>
+            <link>https://tv.naver.com/v/27102459</link>
+            <guid>https://tv.naver.com/v/27102459</guid>
+            <pubDate>Wed, 01 Jun 2022 14:30:13 GMT</pubDate>
+            <content:encoded><![CDATA[5:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_80/8ZoAx_1654093687377Sk2rh_JPEG/cover_2022060190206_thumb_112021_20220601232602201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이시각 김은혜 캠프] 출구조사에 안도, '박빙 경합'에 긴장감 여전]]></title>
             <link>https://tv.naver.com/v/27100395</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 08:43:23 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_169/MOoQM_1654071143572Kmccd_JPEG/cover_2022060190137_thumb_050944_20220601171110950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 충북 투표소…충청 투표율, 전국 평균 밑돌아]]></title>
-            <link>https://tv.naver.com/v/27097224</link>
-            <guid>https://tv.naver.com/v/27097224</guid>
-            <pubDate>Wed, 01 Jun 2022 08:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_121/wwUce_1654071113192MH0mf_JPEG/cover_2022060190136_thumb_050919_20220601171103542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 호남 투표 상황…전남 전국 1위·광주 전국 최하위]]></title>
-            <link>https://tv.naver.com/v/27096577</link>
-            <guid>https://tv.naver.com/v/27096577</guid>
-            <pubDate>Wed, 01 Jun 2022 08:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_248/C9I0l_1654068438364h6Yvq_JPEG/cover_2022060190125_thumb_042153_20220601162614227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

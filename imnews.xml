@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 13:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 14:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_104/ApCgM_1654084463633ellec_JPEG/cover_cover_desk_20220601_202715_1_1_Large_20220601205303472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시도별 교육감 출구조사 예측 순위]]></title>
-            <link>https://tv.naver.com/v/27100280</link>
-            <guid>https://tv.naver.com/v/27100280</guid>
-            <pubDate>Wed, 01 Jun 2022 12:50:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_39/UCtF1_1654084267089XLT0R_JPEG/cover_cover_desk_20220601_203357_1_4_Large_u_20220601205003564.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가라 앉은 민주당‥이 시각 상황실]]></title>
             <link>https://tv.naver.com/v/27100177</link>
             <guid>https://tv.naver.com/v/27100177</guid>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 01 Jun 2022 06:32:06 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_203/tSJCc_1654064438434MXn7l_JPEG/cover_cover_14news_20220601_150743_1_13_Large_u_20220601152002829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["집권 여당에 힘 실어야"‥이 시각 국민의힘]]></title>
+            <link>https://tv.naver.com/v/27095598</link>
+            <guid>https://tv.naver.com/v/27095598</guid>
+            <pubDate>Wed, 01 Jun 2022 14:29:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_202/ZskMw_1654064079884ej9LR_JPEG/cover_cover_14news_20220601_150556_1_12_Large_20220601151409906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
