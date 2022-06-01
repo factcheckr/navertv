@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 08:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 09:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[결정 2022] 18시 전국 투표율 49.8%]]></title>
+            <link>https://tv.naver.com/v/27098193</link>
+            <guid>https://tv.naver.com/v/27098193</guid>
+            <pubDate>Wed, 01 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[4:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_101/HclaQ_1654075083251gi7iI_JPEG/cover_2022060190139_thumb_061345_20220601181601867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울, 낮 4시 투표율 46.8%…"7회 지방선거보다 투표율 낮아"]]></title>
             <link>https://tv.naver.com/v/27097482</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 02:15:06 GMT</pubDate>
             <content:encoded><![CDATA[25:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_132/QppPq_1654046446531dov8o_JPEG/cover_2022060190026_thumb_100852_20220601101102136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['과잉충성' 참모發 '특별감찰관 폐지' 혼선에 대통령실 "깊이 사과"]]></title>
-            <link>https://tv.naver.com/v/27092382</link>
-            <guid>https://tv.naver.com/v/27092382</guid>
-            <pubDate>Wed, 01 Jun 2022 02:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_1/kJmae_1654045607439Fup4t_JPEG/cover_2022053190130_thumb_100027_20220601100602464.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

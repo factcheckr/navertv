@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 08:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 09:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[개표방송] 한 호흡 챌린지 “투표합시다”…성공한 아이돌은 누구?]]></title>
+            <link>https://tv.naver.com/v/27098249</link>
+            <guid>https://tv.naver.com/v/27098249</guid>
+            <pubDate>Wed, 01 Jun 2022 09:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_115/MBbCG_1654075349524OwpuE_JPEG/cover_0011276584_001_20220601182101198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] BTS 만난 바이든 “여러분의 말이 증오 약화할 것”]]></title>
             <link>https://tv.naver.com/v/27097517</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 04:36:14 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_41/UThbX_1654055880635StSiW_JPEG/cover_0011276538_001_20220601125701243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제8회 지방선거 투표 시작…이 시각 청주 투표소]]></title>
-            <link>https://tv.naver.com/v/27093996</link>
-            <guid>https://tv.naver.com/v/27093996</guid>
-            <pubDate>Wed, 01 Jun 2022 04:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_175/FEtrI_1654055438562oLJCl_JPEG/cover_0011276537_001_20220601125001245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
