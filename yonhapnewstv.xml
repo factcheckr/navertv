@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 15:29:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 16:36:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[선거상황실] 이시각 현재 1위 교육감]]></title>
+            <link>https://tv.naver.com/v/27103607</link>
+            <guid>https://tv.naver.com/v/27103607</guid>
+            <pubDate>Wed, 01 Jun 2022 16:35:40 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_137/zaMl5_16540992010865e9Uo_JPEG/cover_cover_MYH20220602000700038_20220602005702750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장연결] 김진태 "강원도민만 생각하고 갈 것…이광재에 위로 전해"]]></title>
             <link>https://tv.naver.com/v/27103225</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 15:29:11 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_250/uGC4w_1654082893931Jc8wA_JPEG/cover_cover_MYH20220601014400641_20220601202402969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기립박수·환호성…이 시각 국민의힘 상황실]]></title>
-            <link>https://tv.naver.com/v/27099846</link>
-            <guid>https://tv.naver.com/v/27099846</guid>
-            <pubDate>Wed, 01 Jun 2022 15:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_40/Pzvx8_1654082640139NJpt3_JPEG/cover_cover_MYH20220601014300641_20220601202302296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
