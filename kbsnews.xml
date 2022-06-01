@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 05:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 06:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] BTS 방문에 백악관 둘러싼 현지 팬들]]></title>
+            <link>https://tv.naver.com/v/27095487</link>
+            <guid>https://tv.naver.com/v/27095487</guid>
+            <pubDate>Wed, 01 Jun 2022 06:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_141/dtbVu_165406354555163bCv_JPEG/cover_0011276556_001_20220601150501219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 건조한 날씨 계속…30도 안팎 더위]]></title>
             <link>https://tv.naver.com/v/27094956</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 04:36:14 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_3/QEp5w_1654054164302xkCAF_JPEG/cover_0011276528_001_20220601122801234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 밀양 산불 이틀째…오늘 주불 진화 목표]]></title>
-            <link>https://tv.naver.com/v/27093734</link>
-            <guid>https://tv.naver.com/v/27093734</guid>
-            <pubDate>Wed, 01 Jun 2022 04:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_178/qMT1B_1654054049112SKIcs_JPEG/cover_0011276527_001_20220601122601253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 05:50:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 06:33:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각 전국 투표율] 오후 2시 기준 40.8%]]></title>
+            <link>https://tv.naver.com/v/27095468</link>
+            <guid>https://tv.naver.com/v/27095468</guid>
+            <pubDate>Wed, 01 Jun 2022 06:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_244/RRwd9_1654063526627m5yxG_JPEG/cover_cover_MYH20220601010200038_20220601150402766.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이 시각 투표소] '유권자 837만' 서울…강원도 표심 어디로?]]></title>
             <link>https://tv.naver.com/v/27095161</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 02:14:38 GMT</pubDate>
             <content:encoded><![CDATA[30:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_95/ap31h_1654044316164Nbmjg_JPEG/cover_cover_MYH20220601006200038_20220601094302161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 지방선거일 낮 더위 계속…고온 건조, 산불 조심]]></title>
-            <link>https://tv.naver.com/v/27092211</link>
-            <guid>https://tv.naver.com/v/27092211</guid>
-            <pubDate>Wed, 01 Jun 2022 02:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_143/jWzDH_1654044109574nx029_JPEG/cover_cover_MYH20220601006300038_20220601094102216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
