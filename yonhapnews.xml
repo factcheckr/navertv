@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 21:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 22:25:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Tue, 31 May 2022 03:34:31 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_129/d8Vee_1653964823622xnytD_JPEG/1653964194825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[톺뉴스] 실종경보 문자 꼭 봐야 하는 이유 뭘까?]]></title>
+            <link>https://tv.naver.com/v/27074192</link>
+            <guid>https://tv.naver.com/v/27074192</guid>
+            <pubDate>Wed, 01 Jun 2022 22:25:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_290/rraM5_1653960114627g5XOR_JPEG/1653959991232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[풀영상] '헤어질 결심' 칸 감독상 박찬욱 감독 귀국]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 29 May 2022 08:27:26 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220529_257/VnH9x_1653811800566cmkJ6_JPEG/1653811583101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박찬욱, 칸영화제서 첫 감독상 쾌거…"영화 소중함 알게 돼"]]></title>
-            <link>https://tv.naver.com/v/27041915</link>
-            <guid>https://tv.naver.com/v/27041915</guid>
-            <pubDate>Sun, 29 May 2022 03:53:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220529_195/jFR7Z_1653791703215dtHpN_JPEG/1653789945075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
