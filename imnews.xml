@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 09:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 10:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] [단독영상] 경찰과 대치하던 이들이 매장에 뿌린 것은 무엇???]]></title>
+            <link>https://tv.naver.com/v/27098926</link>
+            <guid>https://tv.naver.com/v/27098926</guid>
+            <pubDate>Wed, 01 Jun 2022 10:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_295/nzX1q_1654078486884pmlcR_JPEG/cover_cover_220601_student_640_20220601191403659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 음악방송인 줄 알았는데 선거방송이요? [쿠키영상 있음]]]></title>
+            <link>https://tv.naver.com/v/27098638</link>
+            <guid>https://tv.naver.com/v/27098638</guid>
+            <pubDate>Wed, 01 Jun 2022 10:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_168/mu8kt_1654077368341LLkMm_JPEG/cover_cover_220601_korea_1800_final_640_20220601185502559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상M] 대낮에 인천 도로를 질주한 말 한 마리, 무슨 사연이?]]></title>
             <link>https://tv.naver.com/v/27096573</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 01 Jun 2022 04:36:25 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220601_58/67pbB_1654053650558iIehD_JPEG/cover_cover_noon_20220601_120841_1_2_Large_20220601122013285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["유권자 발길 늘어"‥이 시각 투표소]]></title>
-            <link>https://tv.naver.com/v/27093655</link>
-            <guid>https://tv.naver.com/v/27093655</guid>
-            <pubDate>Wed, 01 Jun 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_1/U59Es_1654053640354AUY3F_JPEG/cover_cover_noon_20220601_120641_1_1_Large_20220601122003722.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상M] 베트남으로 도망친 두 남자‥결말은?]]></title>
-            <link>https://tv.naver.com/v/27093568</link>
-            <guid>https://tv.naver.com/v/27093568</guid>
-            <pubDate>Wed, 01 Jun 2022 04:36:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220601_80/Xjw7A_1654053135890aQRmN_JPEG/cover_cover_h2022060107_20220601121203418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
