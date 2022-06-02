@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 06:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 07:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/27114866</link>
+            <guid>https://tv.naver.com/v/27114866</guid>
+            <pubDate>Thu, 02 Jun 2022 07:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[8:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_15/eIPLq_1654154619683FGkCS_JPEG/cover_0011277076_001_20220602162101243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 더위 이어져요!]]></title>
             <link>https://tv.naver.com/v/27112858</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Jun 2022 05:35:08 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_123/J4s1S_1654145618516v1Ajf_JPEG/cover_0011276924_001_20220602135301211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장영상] 0.15%p차 초박빙 승리, 역전 순간 김동연 캠프]]></title>
-            <link>https://tv.naver.com/v/27110646</link>
-            <guid>https://tv.naver.com/v/27110646</guid>
-            <pubDate>Thu, 02 Jun 2022 04:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_123/uNJ6h_1654145014414uTVa7_JPEG/cover_0011277032_001_20220602134209551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

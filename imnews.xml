@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 06:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 07:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBC 뉴스외전] 국민의힘 완승‥광역 17곳 중 12곳 승리]]></title>
+            <link>https://tv.naver.com/v/27114469</link>
+            <guid>https://tv.naver.com/v/27114469</guid>
+            <pubDate>Thu, 02 Jun 2022 07:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:15:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_91/gZxEl_1654153757063eyxte_PNG/1654153754808.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 따가운 햇살, 낮 더위 계속‥저녁엔 선선]]></title>
             <link>https://tv.naver.com/v/27113505</link>
@@ -14,6 +22,14 @@
             <pubDate>Thu, 02 Jun 2022 06:30:34 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_20/zv6xg_1654151148152JS6i6_JPEG/cover_cover_14news_20220602_151805_1_8_Large_20220602152529777.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스외전 정치 맞수다] 국민의힘 '완승'‥향후 정국은?]]></title>
+            <link>https://tv.naver.com/v/27113500</link>
+            <guid>https://tv.naver.com/v/27113500</guid>
+            <pubDate>Thu, 02 Jun 2022 07:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[28:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_173/kHXLp_16541515599838JH7E_JPEG/cover_cover_14news_20220602_151123_1_7_Large_20220602152519143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['극적 생환' 웃지 못한 이재명‥다음 행보는?]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 02 Jun 2022 01:59:28 GMT</pubDate>
             <content:encoded><![CDATA[16:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_44/cy66o_1654133013132P2kCz_JPEG/1654132992334.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['3선' 안철수 당권 도전하나‥ 여당, 보선 압승]]></title>
-            <link>https://tv.naver.com/v/27106626</link>
-            <guid>https://tv.naver.com/v/27106626</guid>
-            <pubDate>Thu, 02 Jun 2022 01:59:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_125/L012S_1654132804921kcsk2_JPEG/cover_cover_0930_20220602_100932_1_4_Large_20220602101922431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오세훈 서울시장 당선‥ 구청장·시의회도 뒤집혀]]></title>
-            <link>https://tv.naver.com/v/27106622</link>
-            <guid>https://tv.naver.com/v/27106622</guid>
-            <pubDate>Thu, 02 Jun 2022 01:59:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_254/Irkl1_1654132799588xOVNX_JPEG/cover_cover_0930_20220602_100734_1_3_Large_20220602101915947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
