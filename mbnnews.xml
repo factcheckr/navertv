@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 21:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 22:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[6.1 지선] 민주당 비대위 총사퇴…패배 책임론 공방]]></title>
+            <link>https://tv.naver.com/v/27127906</link>
+            <guid>https://tv.naver.com/v/27127906</guid>
+            <pubDate>Thu, 02 Jun 2022 22:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_213/rE356_1654208461849nDyTF_JPEG/cover_cover_20220603071253_20_605_1300369_360_7_0_20220603072001327.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[233회_기상 전망과 산불 예방 요령]]></title>
             <link>https://tv.naver.com/v/27127526</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Jun 2022 10:28:19 GMT</pubDate>
             <content:encoded><![CDATA[5:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_97/Hkz1g_1654165205119qNQbS_JPEG/cover_cover_20220602185433_20_673_1300338_360_7_0_20220602191601390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-계양을 승리에도 웃지 못한 이재명]]></title>
-            <link>https://tv.naver.com/v/27118629</link>
-            <guid>https://tv.naver.com/v/27118629</guid>
-            <pubDate>Thu, 02 Jun 2022 10:28:19 GMT</pubDate>
-            <content:encoded><![CDATA[15:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_97/qsZDY_1654165190432V87X3_JPEG/cover_cover_20220602185029_20_673_1300337_360_7_0_20220602191301271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

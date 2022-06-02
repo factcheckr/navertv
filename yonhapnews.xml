@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 21:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 22:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_129/d8Vee_1653964823622xnytD_JPEG/1653964194825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Why요?] 캔맥주는 많은데, 캔소주는 없는 걸까?]]></title>
+            <link>https://tv.naver.com/v/27075413</link>
+            <guid>https://tv.naver.com/v/27075413</guid>
+            <pubDate>Thu, 02 Jun 2022 22:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_193/NMnM2_1653964093326IeQq5_JPEG/1653962725781.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[톺뉴스] 실종경보 문자 꼭 봐야 하는 이유 뭘까?]]></title>
             <link>https://tv.naver.com/v/27074192</link>
             <guid>https://tv.naver.com/v/27074192</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 May 2022 08:31:04 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220530_174/3wo5X_16538979098088pHDP_JPEG/1653896590775.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, 대만에 중국 후방 타격 가능 HIMARS 판매]]></title>
-            <link>https://tv.naver.com/v/27063206</link>
-            <guid>https://tv.naver.com/v/27063206</guid>
-            <pubDate>Mon, 30 May 2022 08:31:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220530_234/SANYO_1653897269775mCt3a_JPEG/1653896407466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
