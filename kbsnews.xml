@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 13:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 14:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 26.8도…내일 17~24도]]></title>
+            <link>https://tv.naver.com/v/27148557</link>
+            <guid>https://tv.naver.com/v/27148557</guid>
+            <pubDate>Fri, 03 Jun 2022 14:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_194/B3wBt_1654265396430TFX9H_JPEG/cover_0011278082_001_20220603230901223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밀양 산불 사흘 만에 진화…6월 대형산불로 첫 기록]]></title>
             <link>https://tv.naver.com/v/27147990</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Jun 2022 13:33:59 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220603_194/wdxfX_1654262315601OqDOE_JPEG/cover_0011278074_001_20220603221815511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오후 8시, 강원 546명 확진…누적 51만 6천여 명]]></title>
-            <link>https://tv.naver.com/v/27147758</link>
-            <guid>https://tv.naver.com/v/27147758</guid>
-            <pubDate>Fri, 03 Jun 2022 13:33:59 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_161/qFG3H_1654262304958PuFLq_JPEG/cover_0011278073_001_20220603221801286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
