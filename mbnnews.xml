@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 20:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 21:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[234회_오존 및 창고 화재 대처 요령]]></title>
+            <link>https://tv.naver.com/v/27169861</link>
+            <guid>https://tv.naver.com/v/27169861</guid>
+            <pubDate>Sat, 04 Jun 2022 21:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[15:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_282/j3HjW_1654375982380w5hf3_JPEG/cover_cover_20220605054053_20_849_1300477_360_7_0_20220605054701260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가뭄·산불 잇따르는 한반도…갈길 먼 '세계 환경의 날']]></title>
             <link>https://tv.naver.com/v/27163834</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Jun 2022 01:48:02 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220604_21/656rh_1654302657549fXqh7_JPEG/cover_cover_20220604091039_20_675_1300445_360_7_0_20220604093001277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[젤렌스키 "승리 우리의 것"…미국, 푸틴에 종전 촉구]]></title>
-            <link>https://tv.naver.com/v/27153677</link>
-            <guid>https://tv.naver.com/v/27153677</guid>
-            <pubDate>Sat, 04 Jun 2022 01:48:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_44/B0qaH_1654301584147fRP21_JPEG/cover_cover_20220604090643_20_675_1300444_360_7_0_20220604091201272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
