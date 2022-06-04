@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 05:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 06:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“반갑다 바다야”…해운대 해수욕장 부분 개장]]></title>
+            <link>https://tv.naver.com/v/27157590</link>
+            <guid>https://tv.naver.com/v/27157590</guid>
+            <pubDate>Sat, 04 Jun 2022 06:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_55/Hiy5c_1654319952869gxAMI_JPEG/cover_0011278188_001_20220604141801231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] 서쪽 더위·동쪽 선선…내일 남부, 동해안 비]]></title>
             <link>https://tv.naver.com/v/27156122</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Jun 2022 22:20:16 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220604_141/wVMfJ_1654292826295TRH3k_JPEG/cover_0011278135_001_20220604064619846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미일, 북핵 3자협력…성김 “북 핵실험 준비중”]]></title>
-            <link>https://tv.naver.com/v/27152480</link>
-            <guid>https://tv.naver.com/v/27152480</guid>
-            <pubDate>Fri, 03 Jun 2022 22:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_165/Z9ymI_1654292811353NMfKR_JPEG/cover_0011278134_001_20220604064610494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
