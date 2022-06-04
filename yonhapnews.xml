@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 01:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 03:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 03 Jun 2022 08:26:28 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220603_190/jce2d_1654243035801L1332_JPEG/1654242794883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한판 마켓컬리?!...북한의 이동봉사란 뭘까?  [티븨가이드北]]]></title>
+            <link>https://tv.naver.com/v/27138905</link>
+            <guid>https://tv.naver.com/v/27138905</guid>
+            <pubDate>Sat, 04 Jun 2022 03:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_58/kEV4n_1654239327695iC8zH_JPEG/1654239279509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대만 총통의 강단…자국산 대전차 로켓발사기 어깨 '딱']]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 May 2022 05:27:25 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220531_201/8D74k_16539737277293Kc8a_JPEG/1653973329710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바짝 마른 밀양에 산불…"이산에서 저산으로 불길 옮겨붙어"]]></title>
-            <link>https://tv.naver.com/v/27077844</link>
-            <guid>https://tv.naver.com/v/27077844</guid>
-            <pubDate>Tue, 31 May 2022 05:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220531_132/ZFddx_16539729446178hrSN_JPEG/1653972928641.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
