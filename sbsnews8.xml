@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 07:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 08:26:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 대한민국 주력 함대 총출동…한미 해군 항모강습 훈련]]></title>
+            <link>https://tv.naver.com/v/27159532</link>
+            <guid>https://tv.naver.com/v/27159532</guid>
+            <pubDate>Sat, 04 Jun 2022 08:25:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_277/CfbG7_1654328859072fg1Sc_JPEG/cover_0000977488_001_20220604164701213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 시장 · 구청장 '교차'…"정당 대신 실적"]]></title>
             <link>https://tv.naver.com/v/27157293</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Jun 2022 13:34:22 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220603_128/l4LK6_1654261270191ADExV_JPEG/cover_0000977368_001_20220603220001243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 소비자물가 5.4%나 올랐다…생활물가는 6.7% 상승]]></title>
-            <link>https://tv.naver.com/v/27147392</link>
-            <guid>https://tv.naver.com/v/27147392</guid>
-            <pubDate>Fri, 03 Jun 2022 13:34:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220603_271/4m2Ui_1654261260853xU2KQ_JPEG/cover_0000977360_001_20220603215943821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
