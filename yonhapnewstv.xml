@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 19:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 20:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 6월 5일]]></title>
+            <link>https://tv.naver.com/v/27169488</link>
+            <guid>https://tv.naver.com/v/27169488</guid>
+            <pubDate>Sat, 04 Jun 2022 20:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[30:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220605_109/ZGfVU_16543730134822a9be_JPEG/cover_cover_MYH20220603017700038_20220605050102062.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사상 최대의 적자 '한전' 국민이 감당해라? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/27164591</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Jun 2022 07:20:19 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220604_26/PR3cP_1654326264395KfKUC_JPEG/cover_cover_MYH20220604006800038_20220604160402627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 30도 안팎 더위…내일 강원영동·남부 비]]></title>
-            <link>https://tv.naver.com/v/27158815</link>
-            <guid>https://tv.naver.com/v/27158815</guid>
-            <pubDate>Sat, 04 Jun 2022 07:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_290/vSEew_1654326114866IREGy_JPEG/cover_cover_MYH20220604006700038_20220604160102800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
