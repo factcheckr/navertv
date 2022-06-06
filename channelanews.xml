@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 01:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 03:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[北 미사일엔 미사일…합참 “한미 연합해 8발 발사”]]></title>
+            <link>https://tv.naver.com/v/27187540</link>
+            <guid>https://tv.naver.com/v/27187540</guid>
+            <pubDate>Mon, 06 Jun 2022 03:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220606_47/TKJmM_1654485559837HR1x2_JPEG/cover_0000228319_001_20220606121801853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]중부·영남 비…중부 기온 떨어지고, 남부 올라]]></title>
             <link>https://tv.naver.com/v/27179885</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Jun 2022 12:34:15 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220604_173/ygUxP_165434396790566upv_JPEG/cover_0000228279_001_20220604205814485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“300세 나무 어르신, CT 찍으세요”…보호수 204그루 ‘건강검진’]]></title>
-            <link>https://tv.naver.com/v/27163496</link>
-            <guid>https://tv.naver.com/v/27163496</guid>
-            <pubDate>Sat, 04 Jun 2022 12:34:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220604_190/J6moC_1654343983349PYdf9_JPEG/cover_0000228277_001_20220604205805631.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
