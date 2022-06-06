@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 23:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 01:56:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBC 중계방송] 제67회 현충일 추념식]]></title>
+            <link>https://tv.naver.com/v/27186224</link>
+            <guid>https://tv.naver.com/v/27186224</guid>
+            <pubDate>Mon, 06 Jun 2022 01:55:31 GMT</pubDate>
+            <content:encoded><![CDATA[52:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220606_95/ahb5C_1654479993054QsF79_JPEG/5724b54e-e53a-11ec-9d93-d4f5ef590144_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 현충일 전국에 비‥오후부터 추워져]]></title>
             <link>https://tv.naver.com/v/27184578</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 05 Jun 2022 23:19:46 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220606_144/TR8Hg_1654470108094fUwJy_JPEG/cover_cover_today_20220606_064958_2_13_Large_20220606080131254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신선한 경제] 가뭄에 감자·양파 등 밭작물 가격 올라]]></title>
-            <link>https://tv.naver.com/v/27184522</link>
-            <guid>https://tv.naver.com/v/27184522</guid>
-            <pubDate>Sun, 05 Jun 2022 23:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220606_89/atuYp_1654470107431IPrqy_JPEG/cover_cover_today_20220606_064958_2_12_Large_20220606080122155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
