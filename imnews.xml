@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 05:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 06:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상M] 화성 공장단지 일대 검은 연기‥"내부에 위험 물질"]]></title>
+            <link>https://tv.naver.com/v/27189247</link>
+            <guid>https://tv.naver.com/v/27189247</guid>
+            <pubDate>Mon, 06 Jun 2022 06:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220606_116/9CaCi_1654493031112fvjit_JPEG/cover_cover_hh2022060602_20220606142302540.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[World Now_영상] 英 4살 루이 왕자 '또 신스틸러'‥연일 화제]]></title>
             <link>https://tv.naver.com/v/27189178</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 05 Jun 2022 23:19:46 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220606_67/Bc77r_1654470189678mp5ri_JPEG/cover_cover_today_20220606_065741_2_22_Large_20220606080250537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[투데이 와글와글] 주차할 때마다 바퀴 떼어내는 아르헨 주민들]]></title>
-            <link>https://tv.naver.com/v/27184540</link>
-            <guid>https://tv.naver.com/v/27184540</guid>
-            <pubDate>Sun, 05 Jun 2022 23:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220606_244/ili2u_1654470182524Ur8d6_JPEG/cover_cover_today_20220606_065741_2_21_Large_20220606080241882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
