@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 20:30:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 21:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[235회_코로나19 및 원숭이두창 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/27220423</link>
+            <guid>https://tv.naver.com/v/27220423</guid>
+            <pubDate>Tue, 07 Jun 2022 21:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[14:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_195/sidu8_1654636264915GY5bs_JPEG/cover_cover_20220608055747_20_849_1300623_360_7_0_20220608060501374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오세훈 "교통방송, 이모작 재교육·문화예술 방송으로 전환 논의"]]></title>
             <link>https://tv.naver.com/v/27216024</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Jun 2022 08:29:59 GMT</pubDate>
             <content:encoded><![CDATA[16:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220607_153/dqseX_1654589259264jgQy1_JPEG/cover_cover_20220607165245_20_812_1300589_360_7_0_20220607165901285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 프레스룸] 이재명 국회 첫 등원…전당대회 '친명 vs 반명' 신경전?]]></title>
-            <link>https://tv.naver.com/v/27210538</link>
-            <guid>https://tv.naver.com/v/27210538</guid>
-            <pubDate>Tue, 07 Jun 2022 08:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[22:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_121/olWeR_1654589226979hvdJE_JPEG/cover_cover_20220607164737_20_812_1300588_360_7_0_20220607165501368.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
