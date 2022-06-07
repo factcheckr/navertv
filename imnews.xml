@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 09:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 10:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 대통령 출마했던 두 사람..나란히 국회 첫 출근]]></title>
+            <link>https://tv.naver.com/v/27213383</link>
+            <guid>https://tv.naver.com/v/27213383</guid>
+            <pubDate>Tue, 07 Jun 2022 10:24:35 GMT</pubDate>
+            <content:encoded><![CDATA[6:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_26/2lvyk_1654596857229Icyvs_JPEG/cover_cover_220607_politic_1900_final_640_20220607191205303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 밤까지 곳곳 비‥내일도 선선해]]></title>
             <link>https://tv.naver.com/v/27210898</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Jun 2022 04:31:44 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220607_152/YopEA_1654573068912jxtqM_JPEG/cover_cover_noon_20220607_121050_1_3_Large_20220607123720296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야 당내 갈등 격화‥민주, 비대위 구성 논의]]></title>
-            <link>https://tv.naver.com/v/27204692</link>
-            <guid>https://tv.naver.com/v/27204692</guid>
-            <pubDate>Tue, 07 Jun 2022 04:31:44 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_136/UAeNc_1654573110387SpShg_JPEG/cover_cover_noon_20220607_120836_1_1_Large_20220607123711591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
