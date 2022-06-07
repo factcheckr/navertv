@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 10:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 11:24:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 7일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27214059</link>
+            <guid>https://tv.naver.com/v/27214059</guid>
+            <pubDate>Tue, 07 Jun 2022 11:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_179/I31d1_1654599150152crOAv_JPEG/cover_2022060790099_thumb_074939_20220607195101811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화물연대, 총파업 돌입…정부 "불법행위 엄정 대응"]]></title>
             <link>https://tv.naver.com/v/27209856</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Jun 2022 14:18:48 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220606_275/FtAVk_1654523214987QTp7e_JPEG/cover_2022060690115_thumb_104115_20220606224602534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CSI] 반년 유예에도 '아우성'…우왕좌왕 일회용컵 보증금제, 왜?]]></title>
-            <link>https://tv.naver.com/v/27196287</link>
-            <guid>https://tv.naver.com/v/27196287</guid>
-            <pubDate>Mon, 06 Jun 2022 14:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220606_95/0YcpU_1654522961455jk61k_JPEG/cover_2022060690107_thumb_103648_20220606224107493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
