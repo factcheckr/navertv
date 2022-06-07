@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 08:30:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 6월 7일 종합뉴스 예고]]></title>
+            <link>https://tv.naver.com/v/27212012</link>
+            <guid>https://tv.naver.com/v/27212012</guid>
+            <pubDate>Tue, 07 Jun 2022 09:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_232/CCQne_1654592332119batOy_JPEG/cover_cover_20220607175340_20_845_1300592_360_7_0_20220607175801315.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 윤 대통령, '文 사저 시위' 법대로?]]></title>
             <link>https://tv.naver.com/v/27210721</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Jun 2022 23:22:19 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220607_181/PNMaI_1654556183967M8xNK_JPEG/cover_cover_20220607075234_20_605_1300553_360_7_0_20220607075601348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 워싱턴DC에서도 원숭이두창 의심 사례 보고돼]]></title>
-            <link>https://tv.naver.com/v/27199835</link>
-            <guid>https://tv.naver.com/v/27199835</guid>
-            <pubDate>Mon, 06 Jun 2022 23:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_158/55SNR_1654556066572IgBfL_JPEG/cover_cover_20220607075028_20_605_1300552_360_7_0_20220607075401444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
