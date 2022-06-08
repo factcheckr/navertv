@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 13:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 14:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[생활날씨] 내일 아침 중부 비·낮 곳곳 소나기…더위 주춤]]></title>
+            <link>https://tv.naver.com/v/27239854</link>
+            <guid>https://tv.naver.com/v/27239854</guid>
+            <pubDate>Wed, 08 Jun 2022 14:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_34/K6Jsj_1654695870122brMW6_JPEG/cover_cover_MYH20220608024000038_20220608224402695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한 '2인자' 조용원의 존재감…김정은 대신 정치국 회의 주재]]></title>
             <link>https://tv.naver.com/v/27239701</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Jun 2022 12:43:49 GMT</pubDate>
             <content:encoded><![CDATA[21:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_231/dNxmq_1654687131689kDayA_JPEG/cover_cover_MYH20220608020400038_20220608200702852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["총파업 지속"…정부 노동정책 첫 시험대]]></title>
-            <link>https://tv.naver.com/v/27236002</link>
-            <guid>https://tv.naver.com/v/27236002</guid>
-            <pubDate>Wed, 08 Jun 2022 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_63/WWbkb_1654686262186OCLzD_JPEG/cover_cover_MYH20220608020300641_20220608195902595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
