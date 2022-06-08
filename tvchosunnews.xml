@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Jun 2022 04:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 05:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 멕시코 계곡 위 출렁다리 재개통식 중 붕괴…25명 부상]]></title>
+            <link>https://tv.naver.com/v/27227965</link>
+            <guid>https://tv.naver.com/v/27227965</guid>
+            <pubDate>Wed, 08 Jun 2022 05:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_215/jx3k4_1654665407936GA3pi_JPEG/cover_2022060890058_thumb_021230_20220608141602939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈분석] '범죄도시2' 개봉 20일에 관객 900만 돌파]]></title>
             <link>https://tv.naver.com/v/27222318</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Jun 2022 12:43:39 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220607_237/yXeFh_1654605676953jmnJh_JPEG/cover_2022060790137_thumb_093332_20220607213609216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[먹거리 물가 급등…저소득층 식비 부담 '직격탄']]></title>
-            <link>https://tv.naver.com/v/27216096</link>
-            <guid>https://tv.naver.com/v/27216096</guid>
-            <pubDate>Tue, 07 Jun 2022 12:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220607_166/2rZYG_1654605413893itqpr_JPEG/cover_2022060790135_thumb_093307_20220607213602746.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
