@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 13:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 14:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 23도…내일 구름 많고 15~25도]]></title>
+            <link>https://tv.naver.com/v/27263189</link>
+            <guid>https://tv.naver.com/v/27263189</guid>
+            <pubDate>Thu, 09 Jun 2022 14:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_240/naHKr_1654783878429f6Jxu_JPEG/cover_0011281321_001_20220609231101218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“송해 선생님은 나에게…” 모두의 어른을 보내는 길]]></title>
             <link>https://tv.naver.com/v/27262521</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Jun 2022 13:38:45 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220609_131/Cyz6c_1654780176529e9I5b_JPEG/cover_0011281309_001_20220609220922648.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구 달성군 송해기념관에 임시 분향소 운영]]></title>
-            <link>https://tv.naver.com/v/27262182</link>
-            <guid>https://tv.naver.com/v/27262182</guid>
-            <pubDate>Thu, 09 Jun 2022 13:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_273/6b8II_1654780176060QKfaB_JPEG/cover_0011281308_001_20220609220915264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
