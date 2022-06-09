@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 03:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 04:34:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Thu, 09 Jun 2022 03:29:58 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220609_60/LdWYC_1654745240812TaqPE_JPEG/cover_cover_noon_20220609_120951_1_7_Large_20220609122703015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC 12시뉴스] 윤 대통령 "MB 이십몇 년 수감 맞지 않아"]]></title>
+            <link>https://tv.naver.com/v/27248603</link>
+            <guid>https://tv.naver.com/v/27248603</guid>
+            <pubDate>Thu, 09 Jun 2022 04:33:45 GMT</pubDate>
+            <content:encoded><![CDATA[17:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_267/bBj1i_1654744888424e9wOX_JPEG/1b6d5c9a-e7a3-11ec-8055-505dac8c385b_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[World Now_영상] 마약용의자 '비닐봉지 고문'‥태국 '조페라리' 경찰 무기징역]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Jun 2022 23:21:35 GMT</pubDate>
             <content:encoded><![CDATA[6:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220609_153/d0oLN_1654729355766t6eyu_JPEG/cover_cover_today_20220609_073826_2_43_Large_20220609080038558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[재택플러스] '천원의 행복'마저도‥치솟는 커피 값]]></title>
-            <link>https://tv.naver.com/v/27244752</link>
-            <guid>https://tv.naver.com/v/27244752</guid>
-            <pubDate>Wed, 08 Jun 2022 23:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_34/Ifk7B_1654729300217OLUkA_JPEG/cover_cover_today_20220609_073211_2_42_Large_20220609080029336.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
