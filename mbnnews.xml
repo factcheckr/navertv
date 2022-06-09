@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 08:34:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 09:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 6월 9일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/27257599</link>
+            <guid>https://tv.naver.com/v/27257599</guid>
+            <pubDate>Thu, 09 Jun 2022 09:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_153/7l6jd_1654765742380tAK5g_JPEG/cover_cover_20220609180310_20_845_1300754_360_7_0_20220609180601274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 故 송해 '딩동댕' 인생]]></title>
             <link>https://tv.naver.com/v/27255971</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Jun 2022 23:22:49 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220609_121/8iTb7_1654729136126fcvOt_JPEG/cover_cover_20220609075418_20_605_1300720_360_7_0_20220609075801254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['두개골 골절' 생후 3개월 아기, 중환자실 치료…학대여부 수사]]></title>
-            <link>https://tv.naver.com/v/27244688</link>
-            <guid>https://tv.naver.com/v/27244688</guid>
-            <pubDate>Wed, 08 Jun 2022 23:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_7/ApKsz_1654728977380VIS1n_JPEG/cover_cover_20220609075208_20_605_1300719_360_7_0_20220609075601337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
