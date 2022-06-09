@@ -4,9 +4,33 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 01:53:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 03:31:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[尹대통령, MB 사면론에 "이십몇 년간 수감생활 안 맞지 않나"]]></title>
+            <link>https://tv.naver.com/v/27247544</link>
+            <guid>https://tv.naver.com/v/27247544</guid>
+            <pubDate>Thu, 09 Jun 2022 03:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_241/D3j3N_1654741933074bHDhx_JPEG/cover_0000301548_001_20220609113201793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['환매 중단' 디스커버리 장하원 구속…"도주·증거인멸 우려"]]></title>
+            <link>https://tv.naver.com/v/27246810</link>
+            <guid>https://tv.naver.com/v/27246810</guid>
+            <pubDate>Thu, 09 Jun 2022 03:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_292/X1DfH_1654739825898n4jnJ_JPEG/cover_0000301527_001_20220609105611137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무섭게 치솟는 물가…OECD "올해 한국 4.8% 전망"]]></title>
+            <link>https://tv.naver.com/v/27246808</link>
+            <guid>https://tv.naver.com/v/27246808</guid>
+            <pubDate>Thu, 09 Jun 2022 03:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_282/hmojX_1654739816684AvB4C_JPEG/cover_0000301528_001_20220609105601823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기술자 2명인 신생 기업이…대통령실 공사 계약 '직행']]></title>
             <link>https://tv.naver.com/v/27245430</link>
@@ -120,22 +144,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220609_233/ixN39_1654727804748bRfg5_JPEG/cover_0000301529_001_20220609073501668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무섭게 치솟는 물가…OECD "올해 한국 4.8% 전망"]]></title>
-            <link>https://tv.naver.com/v/27244401</link>
-            <guid>https://tv.naver.com/v/27244401</guid>
-            <pubDate>Wed, 08 Jun 2022 22:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_67/LukYu_1654726554439JiY8A_JPEG/cover_0000301528_001_20220609071501812.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['환매 중단' 디스커버리 장하원 구속…"도주·증거인멸 우려"]]></title>
-            <link>https://tv.naver.com/v/27244391</link>
-            <guid>https://tv.naver.com/v/27244391</guid>
-            <pubDate>Wed, 08 Jun 2022 22:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_204/Wa0Jn_1654726438998EQ9iv_JPEG/cover_0000301527_001_20220609071301674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['제자 성추행 혐의' 전 서울대 교수, 국민참여재판서 무죄]]></title>
             <link>https://tv.naver.com/v/27244387</link>
             <guid>https://tv.naver.com/v/27244387</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Jun 2022 13:42:51 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_265/RBRtY_1654693699614XIcjM_JPEG/cover_0000301505_001_20220608220701863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소상공인 "최저임금 차등적용을"…알바생들은 "반대"]]></title>
-            <link>https://tv.naver.com/v/27238542</link>
-            <guid>https://tv.naver.com/v/27238542</guid>
-            <pubDate>Wed, 08 Jun 2022 13:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_183/0QYFj_16546936131041nj7l_JPEG/cover_0000301521_001_20220608220601853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
