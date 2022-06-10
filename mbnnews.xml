@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 13:38:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 15:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정치톡톡] 민들레 후폭풍 / "음주운전도 따져봐야"]]></title>
+            <link>https://tv.naver.com/v/27285097</link>
+            <guid>https://tv.naver.com/v/27285097</guid>
+            <pubDate>Fri, 10 Jun 2022 15:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[5:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_68/urLIS_1654869901784JeXgj_JPEG/cover_cover_20220610225550_20_552_1300889_360_7_0_20220610230201285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 내일 내륙 요란한 소나기… 다시 낮더위, 후텁지근해요.]]></title>
             <link>https://tv.naver.com/v/27283370</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Jun 2022 10:25:18 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_184/A4Rym_1654855870762y999M_JPEG/cover_cover_20220610190519_20_552_1300852_360_7_0_20220610191001267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-김남국 "전당대회 룰 바꿔야" vs 최재성 "룰은 바위처럼"]]></title>
-            <link>https://tv.naver.com/v/27279930</link>
-            <guid>https://tv.naver.com/v/27279930</guid>
-            <pubDate>Fri, 10 Jun 2022 10:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[6:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_117/MX9gE_1654854417113QGBDB_JPEG/cover_cover_20220610183951_20_673_1300851_360_7_0_20220610184401291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
