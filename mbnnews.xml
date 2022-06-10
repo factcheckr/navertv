@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 07:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 08:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 호기심에 운전대 잡은 10대...식당 안으로 돌진]]></title>
+            <link>https://tv.naver.com/v/27276201</link>
+            <guid>https://tv.naver.com/v/27276201</guid>
+            <pubDate>Fri, 10 Jun 2022 08:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_292/drKCg_1654845870485JmzSm_JPEG/cover_cover_20220610161714_20_683_1300844_360_4_29_20220610162401413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가스톤 타라투타, 세계 최우수 기업가 선정…서정진 시상]]></title>
             <link>https://tv.naver.com/v/27274550</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Jun 2022 23:21:51 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_144/9dfBM_1654815552237E0tOY_JPEG/cover_cover_20220610075359_20_605_1300810_360_7_0_20220610075801293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사참위, 3년 반 만에 활동 종료…'세월호 침몰' 원인 규명 못 해]]></title>
-            <link>https://tv.naver.com/v/27266041</link>
-            <guid>https://tv.naver.com/v/27266041</guid>
-            <pubDate>Thu, 09 Jun 2022 23:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_63/F8QeN_1654815404760PWdDr_JPEG/cover_cover_20220610074851_20_605_1300809_360_7_0_20220610075601238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
