@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 19:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 20:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 6월 12일]]></title>
+            <link>https://tv.naver.com/v/27298460</link>
+            <guid>https://tv.naver.com/v/27298460</guid>
+            <pubDate>Sat, 11 Jun 2022 20:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[30:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_54/0klf0_1654977821172MiISY_JPEG/cover_cover_MYH20220610014800038_20220612050102078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임대차 3법 시행 2년…8월 전월세 대란? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/27295432</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Jun 2022 07:22:01 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220611_125/KaLSV_1654929095560CzShc_JPEG/cover_cover_MYH20220611007500038_20220611153109638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물연대 파업 닷새째…정부 이틀째 실무협상]]></title>
-            <link>https://tv.naver.com/v/27291485</link>
-            <guid>https://tv.naver.com/v/27291485</guid>
-            <pubDate>Sat, 11 Jun 2022 07:22:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_19/NjId6_1654929093614ma37o_JPEG/cover_cover_MYH20220611007400038_20220611153102173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
