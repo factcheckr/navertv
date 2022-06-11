@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 21:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 22:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 한여름 더위 계속, 영동 비교적 선선]]></title>
+            <link>https://tv.naver.com/v/27298594</link>
+            <guid>https://tv.naver.com/v/27298594</guid>
+            <pubDate>Sat, 11 Jun 2022 22:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_26/DuYIk_1654982717780XeiyK_JPEG/cover_cover_202206120614334452_t_20220612062503499.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국산 밀 수확 한창인데 농민 울상..."매입가 너무 낮아"]]></title>
             <link>https://tv.naver.com/v/27298570</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Jun 2022 15:21:13 GMT</pubDate>
             <content:encoded><![CDATA[32:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_65/qajt7_1654960622260EaCby_JPEG/cover_cover_202206112322574718_t_20220612001502224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 오늘도 한여름 더위 속 곳곳 소나기...서울 낮 기온 31도]]></title>
-            <link>https://tv.naver.com/v/27296958</link>
-            <guid>https://tv.naver.com/v/27296958</guid>
-            <pubDate>Sat, 11 Jun 2022 15:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_113/jwa4S_1654960399232iDEDJ_JPEG/cover_cover_202206120009038159_t_20220612001301969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
