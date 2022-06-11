@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 01:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 03:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 10 Jun 2022 08:26:52 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220610_159/hSsF6_1654849476488RWVsL_JPEG/1654848148212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한의 학구열!! 😮 남한과 다르게 북한은 OO 중심 교육이다!?]]></title>
+            <link>https://tv.naver.com/v/27277598</link>
+            <guid>https://tv.naver.com/v/27277598</guid>
+            <pubDate>Sat, 11 Jun 2022 03:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220610_190/xJRtI_1654849124651kUPfU_JPEG/1654849080968.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["시간 두달 준다"…태국 잠수함에 중국제 엔진 탑재하려다 그만]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Jun 2022 03:30:37 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220609_1/Ot73T_16547426664749vESD_JPEG/1654741617319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사막 한복판서 열차 탈선…"최소 22명 사망·80여명 부상"]]></title>
-            <link>https://tv.naver.com/v/27247309</link>
-            <guid>https://tv.naver.com/v/27247309</guid>
-            <pubDate>Thu, 09 Jun 2022 03:30:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220609_290/ytVfi_1654741285490rWQ9n_JPEG/1654740375563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
