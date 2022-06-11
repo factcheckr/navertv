@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 09:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 10:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7시 날씨] 휴일인 내일도 내륙 한낮 더위·소나기]]></title>
+            <link>https://tv.naver.com/v/27293606</link>
+            <guid>https://tv.naver.com/v/27293606</guid>
+            <pubDate>Sat, 11 Jun 2022 10:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_127/B3fUm_1654942465416RCsqk_JPEG/cover_0011282183_001_20220611191401258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[5시 날씨] 저녁까지 내륙 곳곳 소나기…내일도 한낮 더위, 소나기]]></title>
             <link>https://tv.naver.com/v/27292544</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Jun 2022 22:19:48 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220611_37/8iKSp_1654898381176ew2c3_JPEG/cover_0011282110_001_20220611065901212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“실거주 하겠다”면 집 비워야…소송 부담은 세입자 몫]]></title>
-            <link>https://tv.naver.com/v/27287479</link>
-            <guid>https://tv.naver.com/v/27287479</guid>
-            <pubDate>Fri, 10 Jun 2022 22:19:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_18/b4B3Y_1654898171522nKHeI_JPEG/cover_0011282107_001_20220611065531191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
