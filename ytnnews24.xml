@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 21:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 22:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 오늘 수도권·영서 소나기...우산 챙기세요]]></title>
+            <link>https://tv.naver.com/v/27312161</link>
+            <guid>https://tv.naver.com/v/27312161</guid>
+            <pubDate>Sun, 12 Jun 2022 22:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_12/M2jLV_1655071881907jf4sD_JPEG/cover_cover_202206130704494811_t_20220613071101996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[YTN 실시간뉴스] 美 '권도형 수사 문건' 입수..."시장 교란"]]></title>
+            <link>https://tv.naver.com/v/27311978</link>
+            <guid>https://tv.naver.com/v/27311978</guid>
+            <pubDate>Sun, 12 Jun 2022 22:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_221/NKtn9_1655069153772b68V9_JPEG/cover_cover_202206130621397214_t_20220613062501815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 수도권·영서 소나기, 제주 비...우산 챙기세요!]]></title>
             <link>https://tv.naver.com/v/27311927</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 12 Jun 2022 15:21:19 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_5/4jZCO_1655044312404qia5A_JPEG/cover_cover_202206122133433389_t_20220612233102220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자연이 만든 그림'...국제적 사진작가 김아타]]></title>
-            <link>https://tv.naver.com/v/27309716</link>
-            <guid>https://tv.naver.com/v/27309716</guid>
-            <pubDate>Sun, 12 Jun 2022 14:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_153/DDUc5_1655042287156cPO37_JPEG/cover_cover_202206122254018514_t_20220612225702125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누리호 2차 발사, 14~15일 날씨 변수 없을 듯]]></title>
-            <link>https://tv.naver.com/v/27309693</link>
-            <guid>https://tv.naver.com/v/27309693</guid>
-            <pubDate>Sun, 12 Jun 2022 14:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_31/JQD6N_1655042171724b2kQf_JPEG/cover_cover_202206122253266983_t_20220612225512072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
