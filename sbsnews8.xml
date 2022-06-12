@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 12:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 13:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/27308677</link>
+            <guid>https://tv.naver.com/v/27308677</guid>
+            <pubDate>Sun, 12 Jun 2022 13:26:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_110/oyWUi_16550378867663Pl8s_JPEG/cover_0000978982_001_20220612214401232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박민지, 가장 먼저 2승…이글로 끝냈다]]></title>
             <link>https://tv.naver.com/v/27308269</link>
@@ -22,14 +30,6 @@
             <pubDate>Sun, 12 Jun 2022 12:34:30 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_85/mis9a_1655035964478YaBC1_JPEG/cover_0000978998_001_20220612211102232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/27308256</link>
-            <guid>https://tv.naver.com/v/27308256</guid>
-            <pubDate>Sun, 12 Jun 2022 12:34:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_13/ZRNyL_1655035843748Elchj_JPEG/cover_0000978982_001_20220612210955785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우상호 "'수박' 쓰면 가만 안 둘 것"…공개 경고]]></title>
