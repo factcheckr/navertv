@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 09:22:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 10:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7 날씨] 내일도 수도권·강원 영서에 소나기 예상돼요!]]></title>
+            <link>https://tv.naver.com/v/27306473</link>
+            <guid>https://tv.naver.com/v/27306473</guid>
+            <pubDate>Sun, 12 Jun 2022 10:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_48/PDgjL_1655029046476f1KYI_JPEG/cover_0011282411_001_20220612191701226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대구 변호사 사무실 방화사건 희생자 발인]]></title>
+            <link>https://tv.naver.com/v/27306396</link>
+            <guid>https://tv.naver.com/v/27306396</guid>
+            <pubDate>Sun, 12 Jun 2022 10:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_191/P3Zfu_1655028676913yioVq_JPEG/cover_0011282410_001_20220612191101215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스5 날씨] 저녁까지 내륙 곳곳 소나기!]]></title>
             <link>https://tv.naver.com/v/27304016</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 11 Jun 2022 22:19:45 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_3/pB1js_1654982382561ARmNs_JPEG/cover_0011282307_001_20220612061901278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 찾은 겨울 철새 97종…전년 대비 7종 늘어]]></title>
-            <link>https://tv.naver.com/v/27296197</link>
-            <guid>https://tv.naver.com/v/27296197</guid>
-            <pubDate>Sat, 11 Jun 2022 14:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_242/p4Ufe_1654956460118zkku6_JPEG/cover_0011282298_001_20220611230725483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[관광공사, 남구 장생포 스마트관광도시로 조성]]></title>
-            <link>https://tv.naver.com/v/27296194</link>
-            <guid>https://tv.naver.com/v/27296194</guid>
-            <pubDate>Sat, 11 Jun 2022 14:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220611_194/OQS3N_1654956457145Mojd9_JPEG/cover_0011282297_001_20220611230716832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
