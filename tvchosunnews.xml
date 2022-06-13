@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 10:26:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 11:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 13일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27326070</link>
+            <guid>https://tv.naver.com/v/27326070</guid>
+            <pubDate>Mon, 13 Jun 2022 11:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_221/CAJej_1655116911319FM8jf_JPEG/cover_2022061390136_thumb_073832_20220613194101779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, '산업부 블랙리스트' 백운규 前 장관 구속영장 청구]]></title>
             <link>https://tv.naver.com/v/27324328</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 12 Jun 2022 11:18:29 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220612_210/iKjC8_1655030246765phrIV_JPEG/cover_2022061290057_thumb_073439_20220612193629045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU 정상들 이달 중 키이우행…우크라, EU 후보국 확보할까]]></title>
-            <link>https://tv.naver.com/v/27306764</link>
-            <guid>https://tv.naver.com/v/27306764</guid>
-            <pubDate>Sun, 12 Jun 2022 11:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220612_272/Sypq0_1655030235850h9Yqa_JPEG/cover_2022061290055_thumb_073155_20220612193622653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
