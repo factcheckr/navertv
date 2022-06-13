@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 12:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 13:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프레스룸 날씨]무더위 속 곳곳 강하고 요란한 소나기]]></title>
+            <link>https://tv.naver.com/v/27328717</link>
+            <guid>https://tv.naver.com/v/27328717</guid>
+            <pubDate>Mon, 13 Jun 2022 13:40:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_236/riQJJ_1655126060900N4ull_JPEG/cover_cover_20220613164251_20_812_1301011_360_7_0_20220613221201331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[적치장 꽉 차고 내수와 수출 마비…부품 못 받는 중소기업 연쇄 조업 중단]]></title>
             <link>https://tv.naver.com/v/27327880</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Jun 2022 10:26:00 GMT</pubDate>
             <content:encoded><![CDATA[13:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220613_152/KKL9R_1655113418066IFibQ_JPEG/cover_cover_20220613183313_20_673_1301020_360_7_0_20220613183801248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-"권성동, 영원한 형제" 장제원 민들레 불참 선언]]></title>
-            <link>https://tv.naver.com/v/27325040</link>
-            <guid>https://tv.naver.com/v/27325040</guid>
-            <pubDate>Mon, 13 Jun 2022 10:26:00 GMT</pubDate>
-            <content:encoded><![CDATA[8:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220613_279/QFfWo_1655113016564vikeJ_JPEG/cover_cover_20220613182815_20_673_1301019_360_7_0_20220613183402017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
