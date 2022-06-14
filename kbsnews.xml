@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 13:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 14:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 내일 새벽까지 5~20mm 비…내일 흐리고 19~26도]]></title>
+            <link>https://tv.naver.com/v/27351254</link>
+            <guid>https://tv.naver.com/v/27351254</guid>
+            <pubDate>Tue, 14 Jun 2022 14:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_275/GBDGM_1655216120580Dmcba_JPEG/cover_0011284046_001_20220614231501243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시사기획 창] K컬처3.0 : BTS부터 칸영화제까지]]></title>
+            <link>https://tv.naver.com/v/27351118</link>
+            <guid>https://tv.naver.com/v/27351118</guid>
+            <pubDate>Tue, 14 Jun 2022 14:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[48:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_93/StaUB_1655215734263fMovT_JPEG/cover_0011284045_001_20220614230601224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직구 시속 ‘159km’ 안우진, “MLB 진출이 꿈”]]></title>
             <link>https://tv.naver.com/v/27350499</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 14 Jun 2022 13:35:54 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_144/VQ4dK_1655212245307tAWkv_JPEG/cover_0011284035_001_20220614221009011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주시 삼도동서 주택 화재…인명피해 없어]]></title>
-            <link>https://tv.naver.com/v/27350201</link>
-            <guid>https://tv.naver.com/v/27350201</guid>
-            <pubDate>Tue, 14 Jun 2022 13:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_230/R8rZY_1655212216582aBpND_JPEG/cover_0011284034_001_20220614221001235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항구 안 추락 승용차서 시신 1구 발견…해경 수사]]></title>
-            <link>https://tv.naver.com/v/27350191</link>
-            <guid>https://tv.naver.com/v/27350191</guid>
-            <pubDate>Tue, 14 Jun 2022 13:35:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_156/3YVWJ_1655212194201YNNlO_JPEG/cover_0011284033_001_20220614220925345.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
