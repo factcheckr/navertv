@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 13:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 14:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 25도…내일 차차 맑아져 19~29도]]></title>
+            <link>https://tv.naver.com/v/27371868</link>
+            <guid>https://tv.naver.com/v/27371868</guid>
+            <pubDate>Wed, 15 Jun 2022 14:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_23/1nYXR_1655302222083yFgfv_JPEG/cover_0011284789_001_20220615231001245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[집중취재] ‘공익사업 취지 무색’ 시장정비사업 투기판 전락]]></title>
             <link>https://tv.naver.com/v/27370977</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 13:38:52 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_50/yYohm_1655298386019D4xbd_JPEG/cover_0011284778_001_20220615220610040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여자 사브르, 단체전 금메달…최수연 2관왕]]></title>
-            <link>https://tv.naver.com/v/27370776</link>
-            <guid>https://tv.naver.com/v/27370776</guid>
-            <pubDate>Wed, 15 Jun 2022 13:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_288/JcM0x_16552983892274NEpc_JPEG/cover_0011284777_001_20220615220600702.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
