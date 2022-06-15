@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 21:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 22:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 16일 굿모닝 MBN 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/27374146</link>
+            <guid>https://tv.naver.com/v/27374146</guid>
+            <pubDate>Wed, 15 Jun 2022 22:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_263/Ijafn_1655331656648Mpx1y_JPEG/cover_cover_20220616071458_20_605_1301230_360_7_0_20220616072001328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 美 항모급 3척 참가 '용감한 방패' 훈련 / 하이브 주가 '급락']]></title>
             <link>https://tv.naver.com/v/27369942</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 11:21:08 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_156/OYoV9_1655288974504sm5X8_JPEG/cover_cover_20220615192320_20_552_1301198_360_7_0_20220615192801303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['청 출신' 박상혁 수사…민주 "문 정부 보복 수사 시작"]]></title>
-            <link>https://tv.naver.com/v/27367805</link>
-            <guid>https://tv.naver.com/v/27367805</guid>
-            <pubDate>Wed, 15 Jun 2022 10:27:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_139/g6R2k_1655288457910hNBV7_JPEG/cover_cover_20220615191226_20_552_1301196_360_7_0_20220615192001380.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
