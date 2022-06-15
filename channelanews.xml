@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 23:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 02:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Tue, 14 Jun 2022 11:18:52 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_19/0FLBh_1655205459486LvSnO_JPEG/cover_0000228797_001_20220614201634653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시 간다]다친 건 통계도 안 잡아…목숨 맡긴 패러글라이딩]]></title>
-            <link>https://tv.naver.com/v/27348273</link>
-            <guid>https://tv.naver.com/v/27348273</guid>
-            <pubDate>Tue, 14 Jun 2022 11:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_134/Rxzs4_1655205528237ybt8r_JPEG/cover_0000228795_001_20220614201625061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘택시 합승’ 규제 40년 만에 푼다…5인승 이하는 동성만 허용]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 14 Jun 2022 11:18:52 GMT</pubDate>
             <content:encoded><![CDATA[11:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_224/cUw9X_1655203614402iU93g_JPEG/cover_0000228774_001_20220614194128438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조국 복직 후 3년간 총급여 1억 넘게 받았다]]></title>
+            <link>https://tv.naver.com/v/27347673</link>
+            <guid>https://tv.naver.com/v/27347673</guid>
+            <pubDate>Wed, 15 Jun 2022 02:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[5:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_128/8JDxG_1655203429639GNPal_JPEG/cover_0000228776_001_20220614194116279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
