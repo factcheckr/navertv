@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 우주 발사 D-1, 하늘 향해 우뚝 솟은 누리호…'이제 발사 성공만 남았다']]></title>
+            <link>https://tv.naver.com/v/27363540</link>
+            <guid>https://tv.naver.com/v/27363540</guid>
+            <pubDate>Wed, 15 Jun 2022 07:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_35/wLEXx_1655277184115dtfY9_JPEG/cover_0000979674_001_20220615161201238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 집도 교량도 다 떠내려간 '기록적 홍수'…옐로스톤 국립공원 34년 만에 출입구 폐쇄]]></title>
             <link>https://tv.naver.com/v/27360753</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Jun 2022 23:20:32 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_144/4r5eE_1655247425201BHI38_JPEG/cover_0000979572_001_20220615075601250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스피 2,500선도 붕괴…"복합위기에 경제전쟁"]]></title>
-            <link>https://tv.naver.com/v/27354723</link>
-            <guid>https://tv.naver.com/v/27354723</guid>
-            <pubDate>Tue, 14 Jun 2022 23:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_16/Vlcaw_1655247317869KjBF1_JPEG/cover_0000979571_001_20220615075401231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
