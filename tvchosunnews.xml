@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 10:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 11:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 15일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27368293</link>
+            <guid>https://tv.naver.com/v/27368293</guid>
+            <pubDate>Wed, 15 Jun 2022 11:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_43/EpcXs_1655290306542kPBFD_JPEG/cover_2022061590099_thumb_074714_20220615195101807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경기 양주 섬유공장서 불…직원 70여명 긴급 대피]]></title>
             <link>https://tv.naver.com/v/27361270</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 06:27:24 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220614_262/oYQhR_1655214712023yszKf_JPEG/cover_2022061490178_thumb_104504_20220614225101795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['유배지' 법무연수원 연구위원 5명 증원…檢, 대규모 '좌천 인사' 임박]]></title>
-            <link>https://tv.naver.com/v/27350812</link>
-            <guid>https://tv.naver.com/v/27350812</guid>
-            <pubDate>Wed, 15 Jun 2022 06:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220614_97/RJ9M0_1655214408348ghS72_JPEG/cover_2022061490176_thumb_104454_20220614224603615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
