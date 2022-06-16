@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["분해해서 원인 파악"‥다음 발사는 언제?]]></title>
+            <link>https://tv.naver.com/v/27381210</link>
+            <guid>https://tv.naver.com/v/27381210</guid>
+            <pubDate>Thu, 16 Jun 2022 05:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_208/w0GrP_1655356240118neans_JPEG/cover_cover_14news_20220616_140317_1_2_Large_20220616141004493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBC 12시뉴스] "물가 잡겠다"‥ 미국 금리 0.75%p 인상]]></title>
             <link>https://tv.naver.com/v/27378734</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 23:21:30 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_251/Qv8Nc_1655334046685cF4bA_JPEG/cover_cover_today_20220616_072848_2_39_Large_20220616080015592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 해주시에 급성전염병‥김정은 약품 보내]]></title>
-            <link>https://tv.naver.com/v/27374408</link>
-            <guid>https://tv.naver.com/v/27374408</guid>
-            <pubDate>Wed, 15 Jun 2022 23:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_20/HAbLA_1655334021380OKv6f_JPEG/cover_cover_today_20220616_072728_2_38_Large_20220616080006793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

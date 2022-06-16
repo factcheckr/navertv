@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 05:33:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 한동훈 "누구도 법 위에 있을 수 없다"…민주당 '정치보복' 지적에 반박]]></title>
+            <link>https://tv.naver.com/v/27381233</link>
+            <guid>https://tv.naver.com/v/27381233</guid>
+            <pubDate>Thu, 16 Jun 2022 05:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[7:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_61/tzrlU_1655356468861Pa9WF_JPEG/cover_0000979916_001_20220616141101210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 한낮 서울 · 부산 26도…전남 해안 · 강원 소나기]]></title>
             <link>https://tv.naver.com/v/27379408</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 23:21:40 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_166/us5y5_1655332523797XszYA_JPEG/cover_0000979810_001_20220616073501475.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS '활동 중단 선언' 파장…"K팝 육성 돌아봐야"]]></title>
-            <link>https://tv.naver.com/v/27374210</link>
-            <guid>https://tv.naver.com/v/27374210</guid>
-            <pubDate>Wed, 15 Jun 2022 23:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_7/FurQ8_1655332514545XlFTH_JPEG/cover_0000979809_001_20220616073402891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
