@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 6월 16일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/27387675</link>
+            <guid>https://tv.naver.com/v/27387675</guid>
+            <pubDate>Thu, 16 Jun 2022 09:25:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_188/Upzop_1655371250483L68k7_JPEG/cover_cover_20220616181634_20_845_1301280_360_7_0_20220616182001272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 김건희 여사 '사적 채용' 논란?]]></title>
             <link>https://tv.naver.com/v/27385568</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 23:22:38 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_16/Q7aiv_1655333917024bxB8r_JPEG/cover_cover_20220616075410_20_605_1301241_360_7_0_20220616075801314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계 아미 충격 속 응원…갑작스러운 활동 중단 이유는]]></title>
-            <link>https://tv.naver.com/v/27374363</link>
-            <guid>https://tv.naver.com/v/27374363</guid>
-            <pubDate>Wed, 15 Jun 2022 23:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_208/8Em39_1655333835185yyJMz_JPEG/cover_cover_20220616074845_20_605_1301240_360_7_0_20220616075601283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
