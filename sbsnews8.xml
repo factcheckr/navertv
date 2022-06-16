@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 03:56:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 04:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 한낮 서울 · 부산 26도…전남 해안 · 강원 소나기]]></title>
+            <link>https://tv.naver.com/v/27379408</link>
+            <guid>https://tv.naver.com/v/27379408</guid>
+            <pubDate>Thu, 16 Jun 2022 04:37:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_57/pas4s_1655351737963KRDKE_JPEG/cover_0000979906_001_20220616125501251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요양원서 지내는 어머니도 서류에…기막힌 청약 꼼수들]]></title>
             <link>https://tv.naver.com/v/27379259</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Jun 2022 23:21:40 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_7/FurQ8_1655332514545XlFTH_JPEG/cover_0000979809_001_20220616073402891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고속도로서 차량 추돌로 2명 사망…지하철 고장 지연]]></title>
-            <link>https://tv.naver.com/v/27374194</link>
-            <guid>https://tv.naver.com/v/27374194</guid>
-            <pubDate>Wed, 15 Jun 2022 23:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_98/L366X_1655332276144vlLIv_JPEG/cover_0000979807_001_20220616073001244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
