@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 20:24:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 21:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[239회_기상 전망과 산불 예방 요령]]></title>
+            <link>https://tv.naver.com/v/27395992</link>
+            <guid>https://tv.naver.com/v/27395992</guid>
+            <pubDate>Thu, 16 Jun 2022 21:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[14:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_172/vtg85_1655414032572CC7GQ_JPEG/cover_cover_20220617060359_20_849_1301319_360_7_0_20220617060801320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스피플] '피살 공무원' 친형 이래진 씨 "해상 초계병까지 고발할 것"]]></title>
             <link>https://tv.naver.com/v/27392005</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Jun 2022 10:25:48 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_171/gf9Tg_1655374762100bly1x_JPEG/cover_cover_20220616191404_20_552_1301287_360_7_0_20220616191801277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터- 노무현 사진 가리킨 우상호 "보복 수사 시작"]]></title>
-            <link>https://tv.naver.com/v/27388773</link>
-            <guid>https://tv.naver.com/v/27388773</guid>
-            <pubDate>Thu, 16 Jun 2022 10:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[6:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_216/gHubJ_1655374685767JHkig_JPEG/cover_cover_20220616184231_20_673_1301284_360_7_0_20220616191601317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
