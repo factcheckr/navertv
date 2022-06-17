@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 04:38:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 05:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] '전두환 부인' 이순자 씨 찾아간 김건희 여사…대화 나누고 집 둘러보는 모습 공개]]></title>
+            <link>https://tv.naver.com/v/27401918</link>
+            <guid>https://tv.naver.com/v/27401918</guid>
+            <pubDate>Fri, 17 Jun 2022 05:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_218/lp6ch_165544153445939cXr_JPEG/cover_0000980167_001_20220617135101216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[친절한 경제] '넥타이' 맨 여성 · '네일아트' 한 남성…허물어진 성별 경계]]></title>
             <link>https://tv.naver.com/v/27401088</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 01:56:06 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_42/a2CFv_1655424657786214N3_JPEG/cover_0000980080_001_20220617091020619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['구미 여아 사망' 다시 재판…"바꿔치기 의문, 더 따져야"]]></title>
-            <link>https://tv.naver.com/v/27397167</link>
-            <guid>https://tv.naver.com/v/27397167</guid>
-            <pubDate>Fri, 17 Jun 2022 01:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_264/pWaLo_1655424848158NPUrs_JPEG/cover_0000980083_001_20220617091010773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
