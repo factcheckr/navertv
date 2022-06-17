@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 01:57:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 03:33:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신동욱 앵커의 시선] 고마워 그리고 미안해]]></title>
+            <link>https://tv.naver.com/v/27398807</link>
+            <guid>https://tv.naver.com/v/27398807</guid>
+            <pubDate>Fri, 17 Jun 2022 03:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_28/bYSs6_1655431085762zPGH1_JPEG/cover_2022061690176_thumb_105233_20220617105602587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰, '백현동 아파트 특혜의혹' 관련 성남시청 압수수색]]></title>
             <link>https://tv.naver.com/v/27398696</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Jun 2022 12:43:07 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_243/IwHF9_1655383380928lgmvr_JPEG/cover_2022061690156_thumb_093754_20220616214130253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살 빼려다 환각 겪을라…마약성분 식욕억제제 사고 판 10대 무더기 검거]]></title>
-            <link>https://tv.naver.com/v/27392118</link>
-            <guid>https://tv.naver.com/v/27392118</guid>
-            <pubDate>Thu, 16 Jun 2022 12:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_164/SirnH_1655383347374Retws_JPEG/cover_2022061690154_thumb_093734_20220616214101879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
