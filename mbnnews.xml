@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 21:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 22:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7 날씨] 내일 낮 기온 껑충, 서울 29˚C…내륙 소나기]]></title>
+            <link>https://tv.naver.com/v/27414826</link>
+            <guid>https://tv.naver.com/v/27414826</guid>
+            <pubDate>Fri, 17 Jun 2022 22:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_220/2qrj0_1655502764896AsmDG_JPEG/cover_cover_20220618064701_20_552_1301400_360_7_0_20220618065201302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 김건희 여사, 광폭 행보…조용한 내조 약속했던 이유는?]]></title>
             <link>https://tv.naver.com/v/27411393</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 10:25:08 GMT</pubDate>
             <content:encoded><![CDATA[10:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_201/Cufid_1655458309594HnEgF_JPEG/cover_cover_20220617182239_20_673_1301360_360_7_0_20220617182801293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김주하 AI가 전하는 6월 17일 뉴스7 예고]]></title>
-            <link>https://tv.naver.com/v/27408292</link>
-            <guid>https://tv.naver.com/v/27408292</guid>
-            <pubDate>Fri, 17 Jun 2022 09:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_217/tNpB7_16554577635868HPdL_JPEG/cover_cover_20220617181730_20_845_1301359_360_7_0_20220617182201420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
