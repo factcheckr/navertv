@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 10:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 11:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 17일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27409683</link>
+            <guid>https://tv.naver.com/v/27409683</guid>
+            <pubDate>Fri, 17 Jun 2022 11:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_127/G5f9Z_16554621990972n54Q_JPEG/cover_2022061790106_thumb_073501_20220617193601945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] '강남 8학군' 중·고생들 '폭주'…명품가방·차량 절도 '연쇄 범죄']]></title>
             <link>https://tv.naver.com/v/27404527</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Jun 2022 12:43:07 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_101/Ufgbp_1655383353527GhRYS_JPEG/cover_2022061690162_thumb_093833_20220616214144087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["비싸서 1/4만 사요"…고물가에 소포장 제품 산다]]></title>
-            <link>https://tv.naver.com/v/27392125</link>
-            <guid>https://tv.naver.com/v/27392125</guid>
-            <pubDate>Thu, 16 Jun 2022 13:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_286/r8hDC_1655383393963tfUcL_JPEG/cover_2022061690160_thumb_093818_20220616214136985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
