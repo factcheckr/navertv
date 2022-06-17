@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 17:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 18:27:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['톰 아저씨' 톰 크루즈 10번째 방한...'손 하트' 인사]]></title>
+            <link>https://tv.naver.com/v/27414222</link>
+            <guid>https://tv.naver.com/v/27414222</guid>
+            <pubDate>Fri, 17 Jun 2022 18:27:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_282/LYu4v_1655486602130SiE2I_JPEG/cover_cover_202206180023202620_t_20220618022303489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['한옥 숲'에서 열리는 재즈 향연...초여름 밤 적시다]]></title>
             <link>https://tv.naver.com/v/27414196</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 15:28:25 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_103/2GhA7_1655475928973lHPkE_JPEG/cover_cover_202206172316366386_t_20220617232502393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준석 대표 "서해 피격 사건, 월북공작 사건...진상규명 나서라"]]></title>
-            <link>https://tv.naver.com/v/27413032</link>
-            <guid>https://tv.naver.com/v/27413032</guid>
-            <pubDate>Fri, 17 Jun 2022 15:28:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_183/u3TCO_1655475684619LgDb0_JPEG/cover_cover_202206172316194737_t_20220617232112007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
