@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 06:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 중국 세 번째 항공모함 ‘푸젠함’ 진수]]></title>
+            <link>https://tv.naver.com/v/27404444</link>
+            <guid>https://tv.naver.com/v/27404444</guid>
+            <pubDate>Fri, 17 Jun 2022 07:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_91/5ILm4_1655448157823R9cXf_JPEG/cover_0011285984_001_20220617154213233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“방수복 그대로, 월북 아니라 생각” 동료 진술 공개]]></title>
             <link>https://tv.naver.com/v/27403691</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 03:32:11 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_183/VWcBh_1655436037479sBypa_JPEG/cover_0011285923_001_20220617122001251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확진자 7일 격리 유지…“해제 시 다음 달 빠른 증가”]]></title>
-            <link>https://tv.naver.com/v/27400428</link>
-            <guid>https://tv.naver.com/v/27400428</guid>
-            <pubDate>Fri, 17 Jun 2022 04:36:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_299/RWFaY_1655437163819DaBrk_JPEG/cover_0011285922_001_20220617121801256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
