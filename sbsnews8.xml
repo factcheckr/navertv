@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 20:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 21:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경기 침체 우려 확산…인플레 핵심인 국제유가 7% 폭락]]></title>
+            <link>https://tv.naver.com/v/27414734</link>
+            <guid>https://tv.naver.com/v/27414734</guid>
+            <pubDate>Fri, 17 Jun 2022 21:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_295/JQfTF_1655500440258yWHY4_JPEG/cover_0000980299_001_20220618061301199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["지금 풀면 확진 8.3배"…확진자 7일 격리, 4주 더 유지]]></title>
             <link>https://tv.naver.com/v/27414452</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 12:42:15 GMT</pubDate>
             <content:encoded><![CDATA[0:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_149/xm4Gs_1655468052207XvzLN_JPEG/cover_0000980263_001_20220617211401215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D리포트] 단톡방에서 없는 친구 험담했다면…법원 "명백한 학교 폭력" 판결]]></title>
-            <link>https://tv.naver.com/v/27411098</link>
-            <guid>https://tv.naver.com/v/27411098</guid>
-            <pubDate>Fri, 17 Jun 2022 12:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_72/tu6K8_1655468045385iWuR6_PNG/cover_0000980231_001_20220617211303083.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
