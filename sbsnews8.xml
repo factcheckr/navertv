@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 08:27:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 09:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] "상하이 하늘로 치솟은 화염과 연기"…중 시노펙 공장 화재로 2명 사상]]></title>
+            <link>https://tv.naver.com/v/27419950</link>
+            <guid>https://tv.naver.com/v/27419950</guid>
+            <pubDate>Sat, 18 Jun 2022 09:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_90/kclds_16555415092724nzhU_JPEG/cover_0000980383_001_20220618173801249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] 친절한 '톰 아저씨'…'탑건2' 톰 크루즈, 10번째 방한]]></title>
             <link>https://tv.naver.com/v/27418807</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 23:21:08 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220618_165/zzLDV_1655507184233n9bLY_JPEG/cover_0000980317_001_20220618080511614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["당사자 없는 단톡방 욕설도 학교폭력입니다"]]></title>
-            <link>https://tv.naver.com/v/27415048</link>
-            <guid>https://tv.naver.com/v/27415048</guid>
-            <pubDate>Fri, 17 Jun 2022 23:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_232/a4NDV_16555071610862hyAk_JPEG/cover_0000980320_001_20220618080501240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
