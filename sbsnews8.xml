@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 03:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 04:30:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 주말 무더위 기승…영남 대부분 폭염주의보]]></title>
+            <link>https://tv.naver.com/v/27416876</link>
+            <guid>https://tv.naver.com/v/27416876</guid>
+            <pubDate>Sat, 18 Jun 2022 04:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_35/1wNdh_1655523092866N3bbd_JPEG/cover_0000980363_001_20220618123101193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한밤중 부산 해운대구 아파트 화재…주민 50명 대피]]></title>
+            <link>https://tv.naver.com/v/27416847</link>
+            <guid>https://tv.naver.com/v/27416847</guid>
+            <pubDate>Sat, 18 Jun 2022 04:29:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_157/nMgHI_16555228352734sqnz_JPEG/cover_0000980361_001_20220618122701208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 FDA, 생후 6개월∼5살 미만 영유아 코로나 백신 승인]]></title>
             <link>https://tv.naver.com/v/27416839</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 19:17:41 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220618_224/2nvZv_16554914933218Yrkb_JPEG/cover_0000980250_001_20220618034401237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["10만 전자 얘기 나와서 들어갔는데…" 개미들의 눈물]]></title>
-            <link>https://tv.naver.com/v/27411808</link>
-            <guid>https://tv.naver.com/v/27411808</guid>
-            <pubDate>Fri, 17 Jun 2022 13:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_289/LDklB_1655470458035ovrTg_JPEG/cover_0000980232_001_20220617215301984.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최저임금 업종별 차등 적용안 '부결'…격렬 논쟁 예상]]></title>
-            <link>https://tv.naver.com/v/27411756</link>
-            <guid>https://tv.naver.com/v/27411756</guid>
-            <pubDate>Fri, 17 Jun 2022 13:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_233/tErg6_1655470362661bTuta_JPEG/cover_0000980238_001_20220617215101195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
