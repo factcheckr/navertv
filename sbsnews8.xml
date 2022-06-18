@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 23:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 02:00:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스토리] 지금 당신, '코인'을 믿습니까?]]></title>
+            <link>https://tv.naver.com/v/27415161</link>
+            <guid>https://tv.naver.com/v/27415161</guid>
+            <pubDate>Sat, 18 Jun 2022 01:59:01 GMT</pubDate>
+            <content:encoded><![CDATA[24:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_245/AHRId_1655509532504Y9He0_JPEG/cover_0000980324_001_20220618083501290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다음 주 제주도부터 장마 시작…전국 확대는 언제?]]></title>
             <link>https://tv.naver.com/v/27415105</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 12:42:15 GMT</pubDate>
             <content:encoded><![CDATA[0:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_121/s1NuC_1655469029179OKNv5_JPEG/cover_0000980256_001_20220617213001249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집단 학살 의혹 본격 조사 착수…파괴 현장 증거로 보존]]></title>
-            <link>https://tv.naver.com/v/27411405</link>
-            <guid>https://tv.naver.com/v/27411405</guid>
-            <pubDate>Fri, 17 Jun 2022 12:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_158/gPxb9_1655469040774EiVsS_JPEG/cover_0000980252_001_20220617212901245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
