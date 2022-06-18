@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 02:00:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 03:27:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 17 Jun 2022 08:28:37 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_8/5tNms_16554538255521L1Lz_JPEG/1655452859226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남한과 북한의 김치는 어떻게 다를까? [티븨가이드北]]]></title>
+            <link>https://tv.naver.com/v/27403080</link>
+            <guid>https://tv.naver.com/v/27403080</guid>
+            <pubDate>Sat, 18 Jun 2022 03:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_183/4xkRj_1655444885016K3Dvo_JPEG/1655444824665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결국 젤렌스키 만난 마크롱·숄츠…우크라 EU 후보국 청신호]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Jun 2022 03:55:58 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220616_284/TFVK9_1655347634403t7KGE_JPEG/1655346949690.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한에도 있을 건 다 있다?! 북한의 워터파크, 놀이공원, 온천 랜선 여행! [Zoom in NK]]]></title>
-            <link>https://tv.naver.com/v/27375061</link>
-            <guid>https://tv.naver.com/v/27375061</guid>
-            <pubDate>Thu, 16 Jun 2022 02:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220616_10/in934_1655338789087zYJAM_JPEG/1655338734780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
