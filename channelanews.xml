@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 04:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 05:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문제 못 풀었다고 과외학생 18분 폭행]]></title>
+            <link>https://tv.naver.com/v/27417608</link>
+            <guid>https://tv.naver.com/v/27417608</guid>
+            <pubDate>Sat, 18 Jun 2022 05:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_121/la1wn_1655528107052I3Nw8_JPEG/cover_0000228919_001_20220618135401987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해고 통보에 ‘발끈’…와인 수백 병 ‘와장창’]]></title>
             <link>https://tv.naver.com/v/27410497</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 10:25:00 GMT</pubDate>
             <content:encoded><![CDATA[9:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220617_222/48vPG_1655460605419JnDcs_JPEG/cover_0000228960_001_20220617190601845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“기록물 열람 협조 안 할 것”…野 ‘서해 진상 규명’ 거부]]></title>
-            <link>https://tv.naver.com/v/27409182</link>
-            <guid>https://tv.naver.com/v/27409182</guid>
-            <pubDate>Fri, 17 Jun 2022 10:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220617_297/Xcwrh_1655460457373XpTtF_JPEG/cover_0000228959_001_20220617190523103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
