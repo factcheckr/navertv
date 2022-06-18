@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 13:30:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 14:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스추적] '서해 공무원 피격' 그날의 진실은?]]></title>
+            <link>https://tv.naver.com/v/27423987</link>
+            <guid>https://tv.naver.com/v/27423987</guid>
+            <pubDate>Sat, 18 Jun 2022 14:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[5:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_72/XdD7y_1655559797062NDDUO_JPEG/cover_cover_20220618214558_20_906_1301437_360_7_0_20220618224001329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["판결 내용 몰라 항소도 못 해요"…소액사건 판결문 없거나 달랑 한 줄]]></title>
             <link>https://tv.naver.com/v/27422761</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Jun 2022 02:00:01 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220618_216/HF47g_165551261844132uTk_JPEG/cover_cover_20220618092842_20_675_1301408_360_7_0_20220618093601287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세상돋보기] 치솟는 외식물가에 기사식당·구내식당 찾는 직장인들]]></title>
-            <link>https://tv.naver.com/v/27415402</link>
-            <guid>https://tv.naver.com/v/27415402</guid>
-            <pubDate>Sat, 18 Jun 2022 02:00:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_79/r9FC3_1655512272234wt91T_JPEG/cover_cover_20220618092237_20_675_1301407_360_7_0_20220618093001350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
