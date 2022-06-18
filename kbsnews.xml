@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 09:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 10:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7시 날씨] 내일 새벽 수도권·강원에 비, 오후 소나기]]></title>
+            <link>https://tv.naver.com/v/27421575</link>
+            <guid>https://tv.naver.com/v/27421575</guid>
+            <pubDate>Sat, 18 Jun 2022 10:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_109/WyRI7_1655547151624IJ7yD_JPEG/cover_0011286408_001_20220618191201243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[5시 날씨] 내일 새벽 수도권·강원에 비, 오후 내륙 소나기]]></title>
             <link>https://tv.naver.com/v/27419674</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Jun 2022 23:20:46 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220618_32/Xv3LR_1655506474168CWPJB_JPEG/cover_0011286340_001_20220618075401315.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘테마가 있는 책 여행’…도서관을 느껴요]]></title>
-            <link>https://tv.naver.com/v/27414981</link>
-            <guid>https://tv.naver.com/v/27414981</guid>
-            <pubDate>Fri, 17 Jun 2022 23:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_213/gSWQj_1655506011141KQsvU_JPEG/cover_0011286339_001_20220618074610459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
