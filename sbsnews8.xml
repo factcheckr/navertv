@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 05:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 06:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비디오머그] "앞발로 인덕션을 켜" 반려견이 벌인 엄청난 일]]></title>
+            <link>https://tv.naver.com/v/27429764</link>
+            <guid>https://tv.naver.com/v/27429764</guid>
+            <pubDate>Sun, 19 Jun 2022 06:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220619_92/0EhHi_1655617188615QLAQt_JPEG/cover_0000980478_001_20220619143901188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[18세 임윤찬, 반 클라이번 콩쿠르 우승…역대 최연소]]></title>
             <link>https://tv.naver.com/v/27428818</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Jun 2022 12:34:45 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220618_140/fYb1M_1655553949973k5wtA_JPEG/cover_0000980409_001_20220618210513122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/27422911</link>
-            <guid>https://tv.naver.com/v/27422911</guid>
-            <pubDate>Sat, 18 Jun 2022 12:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220618_79/uIV94_1655553920314I2y5L_JPEG/cover_0000980410_001_20220618210503598.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
