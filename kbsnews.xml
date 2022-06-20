@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 06:30:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 07:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/27448126</link>
+            <guid>https://tv.naver.com/v/27448126</guid>
+            <pubDate>Mon, 20 Jun 2022 07:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[8:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_272/6Yu5Q_1655709619516qSpvK_JPEG/cover_0011287084_001_20220620161801285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누리호, 발사대에 다시 세워져…발사 재도전]]></title>
             <link>https://tv.naver.com/v/27446012</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Jun 2022 04:31:15 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220620_232/j4ofL_16556956463825kWuW_JPEG/cover_0011287024_001_20220620122701205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융시장 불안, 코스피·코스닥 장중 연저점…환율 장중 연고점]]></title>
-            <link>https://tv.naver.com/v/27442947</link>
-            <guid>https://tv.naver.com/v/27442947</guid>
-            <pubDate>Mon, 20 Jun 2022 04:31:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_110/kXgzS_1655695478537K9kiW_JPEG/cover_0011287023_001_20220620122412260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
