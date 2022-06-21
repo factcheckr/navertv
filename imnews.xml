@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 09:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 10:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상M] '고물상의 세계' 집중 단속했더니‥무허가 업자들이 '우르르']]></title>
+            <link>https://tv.naver.com/v/27474711</link>
+            <guid>https://tv.naver.com/v/27474711</guid>
+            <pubDate>Tue, 21 Jun 2022 10:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_150/IcnPf_16558052464657xuJR_JPEG/cover_cover_joo220621_35_20220621185302770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엠빅뉴스] [엠빅네이처] 지옥불 덮친 스페인, 강바닥 드러난 이탈리아..한국도?]]></title>
             <link>https://tv.naver.com/v/27474079</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Jun 2022 01:58:25 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220621_117/DRV2O_1655772382112TztM9_JPEG/cover_cover_0930_20220621_094210_1_9_Large_20220621094616912.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 푹푹 찌는 무더위‥강원·호남 소나기]]></title>
-            <link>https://tv.naver.com/v/27461754</link>
-            <guid>https://tv.naver.com/v/27461754</guid>
-            <pubDate>Tue, 21 Jun 2022 01:58:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_139/yVpiE_1655772389265NOtL1_JPEG/cover_cover_0930_20220621_094054_1_8_Large_20220621094610580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
