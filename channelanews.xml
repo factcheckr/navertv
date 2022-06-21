@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 01:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 03:46:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누리호, 다시 우주로…오후 위원회서 발사 시간 확정]]></title>
+            <link>https://tv.naver.com/v/27465015</link>
+            <guid>https://tv.naver.com/v/27465015</guid>
+            <pubDate>Tue, 21 Jun 2022 03:46:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_108/02z85_16557817943984yP9X_JPEG/cover_0000229116_001_20220621122201898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주 윤리위 “최강욱, 당원 자격정지 6개월 중징계”]]></title>
             <link>https://tv.naver.com/v/27455956</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Jun 2022 12:43:33 GMT</pubDate>
             <content:encoded><![CDATA[7:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220620_201/YbVvv_1655724592890iYg0d_JPEG/cover_0000229080_001_20220620202601883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“지휘부 검토 후 월북 발표”…靑이 해경 압박했나 안 했나]]></title>
-            <link>https://tv.naver.com/v/27453318</link>
-            <guid>https://tv.naver.com/v/27453318</guid>
-            <pubDate>Mon, 20 Jun 2022 12:43:33 GMT</pubDate>
-            <content:encoded><![CDATA[12:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_124/xPIkW_1655724654124PDgY5_JPEG/cover_0000229079_001_20220620202459450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
