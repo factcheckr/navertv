@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:34:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[브리핑] 정부 "누리호 2차 발사 성공"]]></title>
+            <link>https://tv.naver.com/v/27472229</link>
+            <guid>https://tv.naver.com/v/27472229</guid>
+            <pubDate>Tue, 21 Jun 2022 08:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_62/JnmoM_165579988383429WU8_JPEG/cover_cover_joo220621_30_20220621172404895.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["누리호 비행 종료‥데이터 분석 약 30분 소요 예정"]]></title>
+            <link>https://tv.naver.com/v/27470855</link>
+            <guid>https://tv.naver.com/v/27470855</guid>
+            <pubDate>Tue, 21 Jun 2022 08:32:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_202/2zwoQ_1655797096750whz4N_JPEG/cover_cover__20220621_162405_1_5_Large_20220621163804570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스외전 포커스] 이재오 "이준석, 포용력 갖고 당 이끌어야"]]></title>
             <link>https://tv.naver.com/v/27469237</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 21 Jun 2022 01:58:25 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220621_139/YZ4wS_165577173087905eBH_JPEG/cover_cover_0930_20220621_093128_1_1_Large_20220621093502917.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 최고위서 고성·반말‥갈등 공개 폭발]]></title>
-            <link>https://tv.naver.com/v/27460583</link>
-            <guid>https://tv.naver.com/v/27460583</guid>
-            <pubDate>Mon, 20 Jun 2022 23:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_107/mAtO2_1655766106707PCYMQ_JPEG/cover_cover_today_20220621_061854_1_11_Large_20220621080102629.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스투데이] 누리호 오늘 재도전‥오후 4시 발사 유력]]></title>
-            <link>https://tv.naver.com/v/27460479</link>
-            <guid>https://tv.naver.com/v/27460479</guid>
-            <pubDate>Mon, 20 Jun 2022 23:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:46:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_201/wtquQ_1655765719732GBm0k_JPEG/1655765716638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
