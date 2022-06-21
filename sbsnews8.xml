@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 19:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 20:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경기 김포시 대곶면 공장서 화재…대응 1단계 발령]]></title>
+            <link>https://tv.naver.com/v/27483540</link>
+            <guid>https://tv.naver.com/v/27483540</guid>
+            <pubDate>Tue, 21 Jun 2022 20:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_65/abbW1_1655842154624pcxXe_JPEG/cover_0000981019_001_20220622050901224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/27483053</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Jun 2022 15:24:11 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220621_246/k31UQ_1655822424702D7axQ_JPEG/cover_0000980983_001_20220621233911128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성희롱 발언' 최강욱 당원권 정지…"피해자에 심적 고통"]]></title>
-            <link>https://tv.naver.com/v/27480392</link>
-            <guid>https://tv.naver.com/v/27480392</guid>
-            <pubDate>Tue, 21 Jun 2022 15:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_88/pnk6Y_1655822411861H67pE_JPEG/cover_0000980985_001_20220621233901243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
