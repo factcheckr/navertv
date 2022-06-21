@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 13:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 28도…내일 22~32도]]></title>
+            <link>https://tv.naver.com/v/27479906</link>
+            <guid>https://tv.naver.com/v/27479906</guid>
+            <pubDate>Tue, 21 Jun 2022 14:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_267/Q9ItV_1655820618316uFJLN_JPEG/cover_0011288172_001_20220621231001317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시사기획 창] 무자본 M&A 세력의 생존법…좋은사람들은 어떻게 먹잇감이 됐나]]></title>
+            <link>https://tv.naver.com/v/27479801</link>
+            <guid>https://tv.naver.com/v/27479801</guid>
+            <pubDate>Tue, 21 Jun 2022 14:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[48:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_269/VEXAn_1655820325852Y0BWw_JPEG/cover_0011288171_001_20220621230301210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“우크라군, 오데사 가스전 공격”…“러, 하르키우 등 또 포격”]]></title>
             <link>https://tv.naver.com/v/27479197</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 21 Jun 2022 13:45:14 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220621_205/kmT4N_1655816842112x7FhC_JPEG/cover_0011288156_001_20220621220705645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘검찰 항고 논란’ 4·3 특별재심 14명 전원 무죄]]></title>
-            <link>https://tv.naver.com/v/27478762</link>
-            <guid>https://tv.naver.com/v/27478762</guid>
-            <pubDate>Tue, 21 Jun 2022 13:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_169/1NyG9_1655816831706bjTjC_JPEG/cover_0011288155_001_20220621220657935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연경, 다시 한 번 국내에서 ‘두 시즌 만에 복귀’]]></title>
-            <link>https://tv.naver.com/v/27478756</link>
-            <guid>https://tv.naver.com/v/27478756</guid>
-            <pubDate>Tue, 21 Jun 2022 13:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_215/E8LZd_1655818126660X1jDm_JPEG/cover_0011288154_001_20220621220647022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

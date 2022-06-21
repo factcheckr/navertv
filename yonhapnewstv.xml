@@ -4,7 +4,7 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 13:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 14:27:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 21 Jun 2022 13:45:50 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220621_243/ciyFc_1655818953249f3mUv_JPEG/cover_cover_MYH20220621019100038_20220621224202712.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스투나잇] 누리호 발사 성공…독자 기술로 우주시대 연다]]></title>
+            <link>https://tv.naver.com/v/27479407</link>
+            <guid>https://tv.naver.com/v/27479407</guid>
+            <pubDate>Tue, 21 Jun 2022 14:26:28 GMT</pubDate>
+            <content:encoded><![CDATA[19:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_188/Q9rhk_1655819261984aJyvG_JPEG/cover_cover_MYH20220621018700038_20220621223902665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[여 "탈북어민 북송도 규명"…윤 대통령 "검토 중"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Jun 2022 12:46:24 GMT</pubDate>
             <content:encoded><![CDATA[20:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220621_279/soX1u_1655811697771wvaBo_JPEG/cover_cover_MYH20220621015400038_20220621202910363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 절기 하지, 폭염특보 확대·강화…내일도 무더위 속 소나기]]></title>
-            <link>https://tv.naver.com/v/27476881</link>
-            <guid>https://tv.naver.com/v/27476881</guid>
-            <pubDate>Tue, 21 Jun 2022 12:46:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_121/fbkzF_1655810983433bj50O_JPEG/cover_cover_MYH20220621015500038_20220621202902658.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
