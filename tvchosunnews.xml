@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 10:31:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 11:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 21일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27475813</link>
+            <guid>https://tv.naver.com/v/27475813</guid>
+            <pubDate>Tue, 21 Jun 2022 11:23:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_38/4LOCv_1655808701856SaBuk_JPEG/cover_2022062190136_thumb_074753_20220621195101831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹대통령 "우주 강국으로 발전할 수 있도록 다 함께 노력"]]></title>
             <link>https://tv.naver.com/v/27474232</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Jun 2022 13:42:24 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220620_205/lDuQV_16557301650017W3U0_JPEG/cover_2022062090180_thumb_095800_20220620220150657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3주째 국회 공백에 與 "원구성 마라톤 담판 제안"…野 "양보안 내라"]]></title>
-            <link>https://tv.naver.com/v/27455160</link>
-            <guid>https://tv.naver.com/v/27455160</guid>
-            <pubDate>Mon, 20 Jun 2022 13:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220620_253/k1MBF_1655730173232jLrvr_JPEG/cover_2022062090178_thumb_095742_20220620220110074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
