@@ -4,16 +4,24 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 10:26:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 11:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[6월 22일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27500772</link>
+            <guid>https://tv.naver.com/v/27500772</guid>
+            <pubDate>Wed, 22 Jun 2022 11:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_74/h17eQ_1655895714242fvgFv_JPEG/cover_2022062290142_thumb_075806_20220622200101769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부영, 캄보디아 프놈펜에 '우정 캄보디아 학교' 기공식 열어]]></title>
-            <link>https://tv.naver.com/v/27498586</link>
-            <guid>https://tv.naver.com/v/27498586</guid>
-            <pubDate>Wed, 22 Jun 2022 09:21:13 GMT</pubDate>
+            <link>https://tv.naver.com/v/27500318</link>
+            <guid>https://tv.naver.com/v/27500318</guid>
+            <pubDate>Wed, 22 Jun 2022 11:19:07 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_297/ffv3R_16558891015737EJsu_JPEG/cover_2022062290143_thumb_060915_20220622181101859.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_241/Dd2Ir_1655894200254MBRSr_JPEG/cover_2022062290143_thumb_073135_20220622193601930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 첫 원숭이두창 의심환자 발생…내국인 1명·외국인 1명]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Jun 2022 13:46:15 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220621_96/CvpTR_1655816574897Q4guY_JPEG/cover_2022062190187_thumb_095730_20220621220101879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나로 폐업한 홍콩 명물 수상식당, 정박항 찾다 전복]]></title>
-            <link>https://tv.naver.com/v/27478523</link>
-            <guid>https://tv.naver.com/v/27478523</guid>
-            <pubDate>Tue, 21 Jun 2022 13:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220621_265/xFeGP_1655816259837jAV5a_JPEG/cover_2022062190181_thumb_095103_20220621215618401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
