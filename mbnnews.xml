@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 07:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전동 킥보드 과충전 19분 뒤 '펑'…"열에너지 급속 증가"]]></title>
+            <link>https://tv.naver.com/v/27494490</link>
+            <guid>https://tv.naver.com/v/27494490</guid>
+            <pubDate>Wed, 22 Jun 2022 07:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_299/G8MCe_1655880306613pDyLg_JPEG/cover_cover_20220622153847_20_552_1301641_360_7_0_20220622154401300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화훼농원 실습 중 기계 끼임사고…20살 대학생 사망]]></title>
             <link>https://tv.naver.com/v/27492141</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Jun 2022 22:21:13 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_95/QVEX1_16558499465906ODlt_JPEG/cover_cover_20220622071434_20_605_1301658_360_7_0_20220622071801305.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[241회_코로나19 및 원숭이두창 방역수칙]]></title>
-            <link>https://tv.naver.com/v/27484015</link>
-            <guid>https://tv.naver.com/v/27484015</guid>
-            <pubDate>Tue, 21 Jun 2022 22:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[15:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_140/EO1dz_1655848448465pbr3g_JPEG/cover_cover_20220622060647_20_849_1301657_360_7_0_20220622064801289.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
