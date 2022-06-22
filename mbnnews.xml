@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 12:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 13:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 뉴스와이드] 이준석 대표 운명의 날 / 전 靑 인사 줄줄이 고발]]></title>
+            <link>https://tv.naver.com/v/27502656</link>
+            <guid>https://tv.naver.com/v/27502656</guid>
+            <pubDate>Wed, 22 Jun 2022 13:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:03:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_48/mZ8SO_1655902131535OcSfN_JPEG/cover_cover_20220622211605_20_536_1301735_360_7_0_20220622213701283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 내일 전국 강한 장맛비…최고 120mm]]></title>
             <link>https://tv.naver.com/v/27502508</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Jun 2022 10:26:56 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_143/JLysI_1655890355201wTnqE_JPEG/cover_cover_20220622182814_20_845_1301703_360_7_0_20220622183201304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 프레스룸] 與 원로가 尹에 전한 조언]]></title>
-            <link>https://tv.naver.com/v/27497454</link>
-            <guid>https://tv.naver.com/v/27497454</guid>
-            <pubDate>Wed, 22 Jun 2022 09:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[9:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_30/hOaX5_1655886884881sC2Jl_JPEG/cover_cover_20220622172349_20_812_1301700_360_7_0_20220622173001379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
