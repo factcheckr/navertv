@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[비디오머그] 누리호 재수 성공! '7대 우주강국' 되는 순간 비하인드 모음]]></title>
+            <link>https://tv.naver.com/v/27491049</link>
+            <guid>https://tv.naver.com/v/27491049</guid>
+            <pubDate>Wed, 22 Jun 2022 05:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_244/Gmtgw_1655873043949ckd6X_JPEG/cover_0000981001_001_20220622134201213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 곳곳 '폭염주의보'…내일부터 이틀간 장맛비]]></title>
             <link>https://tv.naver.com/v/27489927</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Jun 2022 02:08:38 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_181/cvVzP_1655855397200n0MNR_JPEG/cover_0000981039_001_20220622084901231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['최강욱 당원 자격 6개월 정지' 후폭풍…"재심 신청한다"]]></title>
-            <link>https://tv.naver.com/v/27485134</link>
-            <guid>https://tv.naver.com/v/27485134</guid>
-            <pubDate>Wed, 22 Jun 2022 02:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220622_43/2LNCY_1655855383338cRwpi_JPEG/cover_0000981045_001_20220622084848661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
