@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 20:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 21:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[242회_온열질환 및 전기차 화재 대처법]]></title>
+            <link>https://tv.naver.com/v/27532270</link>
+            <guid>https://tv.naver.com/v/27532270</guid>
+            <pubDate>Thu, 23 Jun 2022 21:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[15:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_103/Osouj_1656018959622gd1BP_JPEG/cover_cover_20220624060346_20_849_1301839_360_7_0_20220624061001322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 국민의힘, 아침마다 무슨 일이? / '尹의 입' 과감이냐 과격이냐]]></title>
             <link>https://tv.naver.com/v/27526974</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Jun 2022 11:20:03 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_224/6FXIL_1655980262853k0XqO_JPEG/cover_cover_20220623192457_20_552_1301805_360_7_0_20220623193003075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈M] 치솟는 환율 어디까지?…환란 재현될까 우려]]></title>
-            <link>https://tv.naver.com/v/27524270</link>
-            <guid>https://tv.naver.com/v/27524270</guid>
-            <pubDate>Thu, 23 Jun 2022 11:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_192/OB9a2_1655980090940Xyyby_JPEG/cover_cover_20220623192151_20_552_1301804_360_7_0_20220623192601301.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
