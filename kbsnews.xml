@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 06:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 07:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보영상] 권성동, 경찰 비판…“대통령·행안부 패싱하고 인사 발표”]]></title>
+            <link>https://tv.naver.com/v/27519120</link>
+            <guid>https://tv.naver.com/v/27519120</guid>
+            <pubDate>Thu, 23 Jun 2022 07:20:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_275/A9GmY_1655967854902d233A_JPEG/cover_0011289390_001_20220623160314244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[친절한 뉴스K] ‘광클’해도 못 산 공연표…매크로에 속수무책]]></title>
             <link>https://tv.naver.com/v/27516822</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Jun 2022 04:40:36 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_100/Hddan_1655955735201S6vxD_JPEG/cover_0011289312_001_20220623124136621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이준석 징계’ 다음 달 7일로…측근은 ‘윤리위 무효’ 주장]]></title>
-            <link>https://tv.naver.com/v/27514338</link>
-            <guid>https://tv.naver.com/v/27514338</guid>
-            <pubDate>Thu, 23 Jun 2022 04:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_145/QzmkV_1655955740150jYeh7_JPEG/cover_0011289311_001_20220623124126307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
