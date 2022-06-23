@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 03:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 04:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국내증시 연저점 경신…환율 1300원 돌파 [김주하 AI 뉴스]]]></title>
+            <link>https://tv.naver.com/v/27514984</link>
+            <guid>https://tv.naver.com/v/27514984</guid>
+            <pubDate>Thu, 23 Jun 2022 04:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_66/Zfv3c_1655958034001z8lqP_JPEG/cover_cover_20220623131538_20_845_1301782_360_7_0_20220623132001325.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽 3시 위성과 교신 성공…700km 도달 22초 빨랐지만 시스템이 완벽히 제어]]></title>
             <link>https://tv.naver.com/v/27512266</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Jun 2022 23:22:57 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_251/mhKmU_16559380256781fDqJ_JPEG/cover_cover_20220623074151_20_605_1301745_360_7_0_20220623074601348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파월 "물가 잡을 때까지 금리 인상"…바이든 "3개월 유류세 면제"]]></title>
-            <link>https://tv.naver.com/v/27509141</link>
-            <guid>https://tv.naver.com/v/27509141</guid>
-            <pubDate>Wed, 22 Jun 2022 23:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_93/16ar0_1655937781734TDPRH_JPEG/cover_cover_20220623073734_20_605_1301744_360_7_0_20220623074201318.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
