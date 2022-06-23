@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-06-23T08:31:50.593Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 23 Jun 2022 09:26:15 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 6월 23일 뉴스워치]]></title>
+            <link>https://tv.naver.com/v/27523096</link>
+            <guid>https://tv.naver.com/v/27523096</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_51/FN3Ne_1655976327437tEc3c_JPEG/cover_cover_MYH20220623015700038_20220623182502450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여의도1번지] '이준석 징계' 심의 연기…민주당 1박 2일 워크숍]]></title>
+            <link>https://tv.naver.com/v/27522123</link>
+            <guid>https://tv.naver.com/v/27522123</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[31:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_61/5G2UZ_1655974218637rtNm2_JPEG/cover_cover_MYH20220623012800038_20220623174803137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 서울 등 중북부 '호우특보'…밤부턴 남부 집중호우]]></title>
+            <link>https://tv.naver.com/v/27522059</link>
+            <guid>https://tv.naver.com/v/27522059</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_170/XwDdu_1655973999526TIdvK_JPEG/cover_cover_MYH20220623015400038_20220623174603088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벽돌로 금은방 문 깨고 귀금속 절취 30대 검거]]></title>
+            <link>https://tv.naver.com/v/27521955</link>
+            <guid>https://tv.naver.com/v/27521955</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_223/h93o2_1655973755439Mh46b_JPEG/cover_cover_MYH20220623015200038_20220623174219857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세로뉴스] 김건희 여사가 쏘아 올린 대통령 '배우자 역할론']]></title>
+            <link>https://tv.naver.com/v/27521945</link>
+            <guid>https://tv.naver.com/v/27521945</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_257/9EqVP_1655973827835ftCzE_JPEG/cover_cover_MYH20220623015100640_20220623174202968.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['시력손상' 위험 레이저포인터 밀수입 적발]]></title>
+            <link>https://tv.naver.com/v/27521867</link>
+            <guid>https://tv.naver.com/v/27521867</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_48/NMayx_1655973626034RIwUX_JPEG/cover_cover_MYH20220623014800038_20220623174003114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유엔, 이란 '손가락 절단' 형벌 중단 촉구…"존엄성 훼손"]]></title>
+            <link>https://tv.naver.com/v/27521829</link>
+            <guid>https://tv.naver.com/v/27521829</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_52/nBbDU_1655973566446A796J_JPEG/cover_cover_MYH20220623014700038_20220623173902814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑 "제재는 부메랑이자 양날검…전세계인에 재앙"]]></title>
+            <link>https://tv.naver.com/v/27521800</link>
+            <guid>https://tv.naver.com/v/27521800</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_12/Lo2oI_1655973511294jkG6e_JPEG/cover_cover_MYH20220623014600038_20220623173811070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국 신장산 수입 금지한 미국…전세계 공급망 뒤흔들까]]></title>
+            <link>https://tv.naver.com/v/27521793</link>
+            <guid>https://tv.naver.com/v/27521793</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_203/2lsYQ_1655973555564FVlO5_JPEG/cover_cover_MYH20220623014500038_20220623173803198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비즈&] SK케미칼 "작년 사회적 가치 6,695억원 창출" 外]]></title>
+            <link>https://tv.naver.com/v/27521652</link>
+            <guid>https://tv.naver.com/v/27521652</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_168/n9u1X_1655973240640bna3M_JPEG/cover_cover_MYH20220623014400038_20220623173302543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낙폭 커지는 서울 아파트값…'강남4구'도 대선 이후 첫 하락]]></title>
+            <link>https://tv.naver.com/v/27521530</link>
+            <guid>https://tv.naver.com/v/27521530</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_167/EGEoZ_165597291257451UGW_JPEG/cover_cover_MYH20220623014200038_20220623172803655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8살 중국 어린이가 집주인…외국인 투기 첫 기획조사]]></title>
+            <link>https://tv.naver.com/v/27521470</link>
+            <guid>https://tv.naver.com/v/27521470</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_171/WzlVr_1655972823998G6H5K_JPEG/cover_cover_MYH20220623014100038_20220623172603344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2주째 1만명 밑 확진…"휴가철 재유행 위험 주의"]]></title>
+            <link>https://tv.naver.com/v/27521386</link>
+            <guid>https://tv.naver.com/v/27521386</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_241/4OOP8_1655972631806QBvi7_JPEG/cover_cover_MYH20220623013800641_20220623172302536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['6.25전쟁' 72주년…'호국보훈' 유공자 위문행사]]></title>
+            <link>https://tv.naver.com/v/27521231</link>
+            <guid>https://tv.naver.com/v/27521231</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_79/3cesx_1655972249049l42Pa_JPEG/cover_cover_MYH20220623013700038_20220623171702696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 식량난에 '숨통'될 흑해 바닷길…언제 트이나]]></title>
+            <link>https://tv.naver.com/v/27521145</link>
+            <guid>https://tv.naver.com/v/27521145</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_260/FXugW_1655972107473wMY9J_JPEG/cover_cover_MYH20220623013600038_20220623171403084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[항공위성 1호기 우주로…GPS 오차 1m 이내로 업그레이드]]></title>
+            <link>https://tv.naver.com/v/27521049</link>
+            <guid>https://tv.naver.com/v/27521049</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_106/DcbpK_1655971921796rOH9r_JPEG/cover_cover_MYH20220623013500641_20220623171105292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["신뢰도 더욱 높여야"…누리호 검증작업 곧 착수]]></title>
+            <link>https://tv.naver.com/v/27520932</link>
+            <guid>https://tv.naver.com/v/27520932</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_65/O80Yi_1655971708033PzYGp_JPEG/cover_cover_MYH20220623013400641_20220623170714245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PICK] 원숭이두창 vs 코로나19, 다른 점과 같은 점은?]]></title>
+            <link>https://tv.naver.com/v/27520927</link>
+            <guid>https://tv.naver.com/v/27520927</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_115/ZUY3n_1655971696486YKBaD_JPEG/cover_cover_MYH20220623011200640_20220623170702762.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['지인여성·공범 연쇄살인' 권재찬 1심 사형 선고]]></title>
+            <link>https://tv.naver.com/v/27520862</link>
+            <guid>https://tv.naver.com/v/27520862</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_190/JDekf_16559714856327fgoE_JPEG/cover_cover_MYH20220623013300038_20220623170411706.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준석 "기우제식 징계냐"…민주, 혁신안 난상 토론]]></title>
+            <link>https://tv.naver.com/v/27520857</link>
+            <guid>https://tv.naver.com/v/27520857</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_250/L0snF_1655971517909FJUNL_JPEG/cover_cover_MYH20220623013200641_20220623170403280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 등 중북부 '호우특보'…밤부턴 남부 집중호우]]></title>
+            <link>https://tv.naver.com/v/27520708</link>
+            <guid>https://tv.naver.com/v/27520708</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_47/jPY3A_1655971202575e6KE5_JPEG/cover_cover_MYH20220623013100641_20220623165902826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈폴폴] 여론조사로 풀어 보는 정치…한 주간 민심은?]]></title>
+            <link>https://tv.naver.com/v/27520366</link>
+            <guid>https://tv.naver.com/v/27520366</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[15:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_85/2GfsQ_1655970832700sunMI_JPEG/cover_cover_MYH20220623013000038_20220623164703386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일까지 장맛비…중북부 호우특보, 시간당 50mm 호우]]></title>
+            <link>https://tv.naver.com/v/27520149</link>
+            <guid>https://tv.naver.com/v/27520149</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_232/Tqe86_1655970053797rISTv_JPEG/cover_cover_MYH20220623012900038_20220623164003106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 윤대통령, 박순애 김승희 김승겸 청문보고서 재송부 요청]]></title>
+            <link>https://tv.naver.com/v/27519774</link>
+            <guid>https://tv.naver.com/v/27519774</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_34/27ktP_1655969240541MP03B_JPEG/cover_cover_MYH20220623012700038_20220623162702462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1번지시선] '총장패싱' 지적에 윤대통령 "책임장관에 인사권" 外]]></title>
+            <link>https://tv.naver.com/v/27519734</link>
+            <guid>https://tv.naver.com/v/27519734</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_280/P4mIW_1655969159854H9Nra_JPEG/cover_cover_MYH20220623012400038_20220623162502314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원숭이두창 전세계 3천명 넘어…WHO, 비상사태 선포 검토]]></title>
+            <link>https://tv.naver.com/v/27518944</link>
+            <guid>https://tv.naver.com/v/27518944</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_68/H5Xz1_1655967361064CUyhM_JPEG/cover_cover_MYH20220623012100038_20220623155502838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내일까지 150㎜ 장맛비…중부 곳곳 '호우특보']]></title>
+            <link>https://tv.naver.com/v/27518892</link>
+            <guid>https://tv.naver.com/v/27518892</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_132/GgIvL_1655967245930yLDEE_JPEG/cover_cover_MYH20220623012000641_20220623155302701.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["국기문란" 경찰 질타…인사번복 거센 후폭풍]]></title>
+            <link>https://tv.naver.com/v/27518864</link>
+            <guid>https://tv.naver.com/v/27518864</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_228/VUMXJ_1655967191257Kndhm_JPEG/cover_cover_MYH20220623011900641_20220623155203314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준석 "기우제식 징계냐"…원구성 첩첩산중]]></title>
+            <link>https://tv.naver.com/v/27518735</link>
+            <guid>https://tv.naver.com/v/27518735</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_273/7FaKB_1655966890237033UR_JPEG/cover_cover_MYH20220623011800641_20220623154703174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프간 거리마다 통곡소리…유엔 "사상자 늘어날 듯"]]></title>
+            <link>https://tv.naver.com/v/27518418</link>
+            <guid>https://tv.naver.com/v/27518418</guid>
+            <pubDate>Thu, 23 Jun 2022 09:25:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_179/vdyiR_16559660428550Q0qY_JPEG/cover_cover_MYH20220623011000038_20220623153302445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
