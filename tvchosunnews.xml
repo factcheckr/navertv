@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 10:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 11:19:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 24일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27549678</link>
+            <guid>https://tv.naver.com/v/27549678</guid>
+            <pubDate>Fri, 24 Jun 2022 11:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_23/DtXTw_1656069404604fBuXA_JPEG/cover_2022062490098_thumb_081151_20220624201601887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[與 "'시신 불태웠다→추정' 왜곡 지시 내린 건 당시 靑 서주석 1차장"]]></title>
             <link>https://tv.naver.com/v/27536138</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Jun 2022 12:43:58 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220623_166/Xlm0w_1655988118371naOCq_JPEG/cover_2022062390150_thumb_093911_20220623214108787.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비닐 봉투 뚫는 중국산 레이저포인터…"눈에 비추면 실명 위험"]]></title>
-            <link>https://tv.naver.com/v/27527086</link>
-            <guid>https://tv.naver.com/v/27527086</guid>
-            <pubDate>Thu, 23 Jun 2022 12:43:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220623_180/gSlq6_1655988105407L7sVU_JPEG/cover_2022062390148_thumb_093859_20220623214102657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
