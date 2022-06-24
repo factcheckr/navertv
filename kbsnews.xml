@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“한미일 정상회의 29일 개최 조율…한일은 보류”]]></title>
+            <link>https://tv.naver.com/v/27542200</link>
+            <guid>https://tv.naver.com/v/27542200</guid>
+            <pubDate>Fri, 24 Jun 2022 06:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_9/cNitP_1656051320683hPblt_JPEG/cover_0011290129_001_20220624151501189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 주말, 30도 웃돌며 더워요…제주는 장맛비]]></title>
             <link>https://tv.naver.com/v/27540654</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Jun 2022 03:47:03 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_122/Rjtu3_1656041011580pT1GJ_JPEG/cover_0011290081_001_20220624122310904.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 대통령 “경찰청장 임기 한 달 남아…그게 중요한가”]]></title>
-            <link>https://tv.naver.com/v/27538309</link>
-            <guid>https://tv.naver.com/v/27538309</guid>
-            <pubDate>Fri, 24 Jun 2022 03:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_39/dlxsl_1656040998559Ja9XI_JPEG/cover_0011290080_001_20220624122301342.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
