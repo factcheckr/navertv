@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 23:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 02:06:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 전쟁에서 6.25가 보이는 이유]]></title>
+            <link>https://tv.naver.com/v/27557835</link>
+            <guid>https://tv.naver.com/v/27557835</guid>
+            <pubDate>Sat, 25 Jun 2022 02:05:15 GMT</pubDate>
+            <content:encoded><![CDATA[27:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_172/bZtkn_16561187693901W65p_JPEG/cover_0000981795_001_20220625094603896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 대법원, '낙태권 보장' 판결 폐기…격랑 예고]]></title>
             <link>https://tv.naver.com/v/27557381</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Jun 2022 12:44:52 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220624_8/F3Jc0_1656073451252iUBpI_JPEG/cover_0000981723_001_20220624212311635.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당 "법사위원장 국민의힘에 양보"…원 구성 '숨통']]></title>
-            <link>https://tv.naver.com/v/27551084</link>
-            <guid>https://tv.naver.com/v/27551084</guid>
-            <pubDate>Fri, 24 Jun 2022 12:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220624_126/YOR4H_1656073454554XL5OX_JPEG/cover_0000981725_001_20220624212301215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
