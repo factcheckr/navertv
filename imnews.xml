@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 13:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 14:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[참전용사를 위한 '특별한 제복']]></title>
+            <link>https://tv.naver.com/v/27566185</link>
+            <guid>https://tv.naver.com/v/27566185</guid>
+            <pubDate>Sat, 25 Jun 2022 14:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_72/RrX5v_1656164381747Ezsem_JPEG/cover_cover_desk_20220624_203102_1_20_Large_20220625223802940.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[그때 그 뉴스] 13년 전 오늘‥안녕, 마이클 잭슨]]></title>
             <link>https://tv.naver.com/v/27565565</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Jun 2022 23:20:36 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220625_279/Y0k4X_1656111079483gY9UX_JPEG/cover_cover_today_20220625_071443_1_12_Large_20220625075102357.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지켜낸 자유, 지켜갈 평화"‥6·25 72주년 행사]]></title>
-            <link>https://tv.naver.com/v/27557271</link>
-            <guid>https://tv.naver.com/v/27557271</guid>
-            <pubDate>Fri, 24 Jun 2022 23:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220625_22/QIN3Z_16561108959971Jr1O_JPEG/cover_cover_today_20220625_070617_1_5_Large_20220625074802676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
