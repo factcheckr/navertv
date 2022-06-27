@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 08:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 09:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 6월 27일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/27596631</link>
+            <guid>https://tv.naver.com/v/27596631</guid>
+            <pubDate>Mon, 27 Jun 2022 09:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_38/YUAmc_1656321051390WVSOp_JPEG/cover_cover_20220627180413_20_845_1302084_360_7_0_20220627181001280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 이재명 '개딸'과 한밤 소통]]></title>
             <link>https://tv.naver.com/v/27594749</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Jun 2022 23:21:35 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_98/SIVPf_1656284688256qt7RY_JPEG/cover_cover_20220627075953_20_605_1302042_360_7_0_20220627080401441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글]무개념 가족?/컨테이너 떨어져 '쾅'/아기 코끼리의 장난]]></title>
-            <link>https://tv.naver.com/v/27582822</link>
-            <guid>https://tv.naver.com/v/27582822</guid>
-            <pubDate>Sun, 26 Jun 2022 23:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_45/8fv7W_1656284609752iV7fa_JPEG/cover_cover_20220627075503_20_605_1302041_360_7_0_20220627080201356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
