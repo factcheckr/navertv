@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 10:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 11:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 27일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27598979</link>
+            <guid>https://tv.naver.com/v/27598979</guid>
+            <pubDate>Mon, 27 Jun 2022 11:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_37/4m0QC_1656326808181QQ8YE_JPEG/cover_2022062790131_thumb_074338_20220627194601933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹, 나토정상회의 위해 오늘 출국…"29일 한미일 정상회담 확정"]]></title>
             <link>https://tv.naver.com/v/27584163</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Jun 2022 11:18:48 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220626_112/pWrGm_16562398330402vTJE_JPEG/cover_2022062690065_thumb_073255_20220626193615303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[을지로 떠나는 '을지면옥'…재개발에 사라지는 노포들]]></title>
-            <link>https://tv.naver.com/v/27576052</link>
-            <guid>https://tv.naver.com/v/27576052</guid>
-            <pubDate>Sun, 26 Jun 2022 11:18:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220626_222/wdFCL_1656239823174ce1lQ_JPEG/cover_2022062690063_thumb_073226_20220626193608932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
