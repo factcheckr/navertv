@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 21:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 22:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] '프레스룸에 온다' 이준석 국민의힘 대표]]></title>
+            <link>https://tv.naver.com/v/27608771</link>
+            <guid>https://tv.naver.com/v/27608771</guid>
+            <pubDate>Mon, 27 Jun 2022 22:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[25:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_109/cQout_1656367461483ty4wW_JPEG/cover_cover_20220628063219_20_812_1302081_360_7_0_20220628065501281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 윤 대통령 부부 스페인행…환송 행사에 이준석은 없었다 / 윤 대통령 지지도 '빨간 불'…반등 묘수는?]]></title>
             <link>https://tv.naver.com/v/27602014</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Jun 2022 10:27:08 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_72/Eh7af_1656324771370p3UP3_JPEG/cover_cover_20220627190835_20_552_1302089_360_7_0_20220627191201324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김주하 앵커가 전하는 6월 27일 MBN 뉴스7 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/27598216</link>
-            <guid>https://tv.naver.com/v/27598216</guid>
-            <pubDate>Mon, 27 Jun 2022 10:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_57/mRXIQ_1656324665694727NJ_JPEG/cover_cover_20220627190606_20_552_1302088_360_7_0_20220627191001668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
