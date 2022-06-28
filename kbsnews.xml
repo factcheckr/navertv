@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 13:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 14:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사기획 창] 재난 생존자…‘기적의 비극’]]></title>
+            <link>https://tv.naver.com/v/27632072</link>
+            <guid>https://tv.naver.com/v/27632072</guid>
+            <pubDate>Tue, 28 Jun 2022 14:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[48:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_151/G5bLz_1656425836959kpURu_JPEG/cover_0011292369_001_20220628231101210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘물놀이 시설’ 배수구에 4살 아이 빨려 들어갔다 구조]]></title>
             <link>https://tv.naver.com/v/27631576</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 13:42:32 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_151/kIN0C_1656421830915noJNE_JPEG/cover_0011292356_001_20220628221010989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최대 미디어 전시관 내년 부산에 개관]]></title>
-            <link>https://tv.naver.com/v/27630982</link>
-            <guid>https://tv.naver.com/v/27630982</guid>
-            <pubDate>Tue, 28 Jun 2022 13:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_214/gvgBc_16564218576644bOyp_JPEG/cover_0011292355_001_20220628221002070.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
