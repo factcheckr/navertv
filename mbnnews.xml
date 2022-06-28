@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 20:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 21:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[244회_코로나19 및 원숭이두창 방역수칙]]></title>
+            <link>https://tv.naver.com/v/27635188</link>
+            <guid>https://tv.naver.com/v/27635188</guid>
+            <pubDate>Tue, 28 Jun 2022 21:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[14:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_186/IGVIi_1656450576869azOkW_JPEG/cover_cover_20220629055607_20_849_1302213_360_7_0_20220629060401342.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌풍·폭염·호우…이상한 날씨 왜?]]></title>
             <link>https://tv.naver.com/v/27630109</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 10:25:41 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_181/QYx3k_1656411244203EKHm9_JPEG/cover_cover_20220628191033_20_552_1302181_360_7_0_20220628191301249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김주하 앵커가 전하는 6월 28일 MBN 뉴스7 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/27627041</link>
-            <guid>https://tv.naver.com/v/27627041</guid>
-            <pubDate>Tue, 28 Jun 2022 10:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_99/TDtM4_1656411115585kKxXu_JPEG/cover_cover_20220628190638_20_552_1302180_360_7_0_20220628191101253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
