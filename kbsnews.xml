@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 06:29:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 07:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/27621156</link>
+            <guid>https://tv.naver.com/v/27621156</guid>
+            <pubDate>Tue, 28 Jun 2022 07:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[7:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_14/pwO48_1656400573407lt2J2_JPEG/cover_0011292018_001_20220628161301207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] 트레일러서 시신 46구 발견…미국 ‘최악의 이민자 참사’]]></title>
             <link>https://tv.naver.com/v/27619641</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 04:02:08 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_275/Hdh3j_1656386599915Rjq8q_JPEG/cover_0011291936_001_20220628122301221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[완도서 일가족 실종 28일째…경찰, 압수수색 영장 발부]]></title>
-            <link>https://tv.naver.com/v/27614051</link>
-            <guid>https://tv.naver.com/v/27614051</guid>
-            <pubDate>Tue, 28 Jun 2022 04:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_217/Vzls3_1656386573539FWsJr_JPEG/cover_0011291935_001_20220628122211218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
