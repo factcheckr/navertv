@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 08:31:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 09:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 尹 환송 안 간 與 대표]]></title>
+            <link>https://tv.naver.com/v/27624094</link>
+            <guid>https://tv.naver.com/v/27624094</guid>
+            <pubDate>Tue, 28 Jun 2022 09:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[18:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_112/I6rmW_1656405131332YG7Ca_JPEG/cover_cover_20220628171721_20_812_1302174_360_7_0_20220628172401356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 윤 대통령, 첫 해외 순방]]></title>
             <link>https://tv.naver.com/v/27623850</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 02:02:52 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_230/rh20C_1656373102192DeNgD_JPEG/cover_cover_20220628083404_20_605_1302140_360_7_0_20220628083801304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은메달 걸고 돌아온 황선우 "다음에는 메달 색깔 바꾸겠다"]]></title>
-            <link>https://tv.naver.com/v/27609610</link>
-            <guid>https://tv.naver.com/v/27609610</guid>
-            <pubDate>Tue, 28 Jun 2022 02:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_267/2PJCC_1656373025970nj3Ns_JPEG/cover_cover_20220628082053_20_605_1302139_360_7_0_20220628083601314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
