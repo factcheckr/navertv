@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 04:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 05:30:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now_영상] 우크라이나 쇼핑몰 폭격 순간 CCTV 영상 공개]]></title>
+            <link>https://tv.naver.com/v/27643959</link>
+            <guid>https://tv.naver.com/v/27643959</guid>
+            <pubDate>Wed, 29 Jun 2022 05:29:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_124/9zv8I_1656480556834WFsnc_JPEG/cover_cover_0629-5_20220629142903444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 밤부터 중부 폭우]]></title>
             <link>https://tv.naver.com/v/27640769</link>
@@ -24,12 +32,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_123/lWZZP_1656473003654JL0y5_JPEG/cover_cover_noon_20220629_121516_1_7_Large_20220629122302560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MBC 12시뉴스] 비·강풍 피해 속출‥ "밤부터 다시 강한 비]]></title>
+            <title><![CDATA[[MBC 12시뉴스] 비·강풍 피해 속출‥ "밤부터 다시 강한 비"]]></title>
             <link>https://tv.naver.com/v/27640696</link>
             <guid>https://tv.naver.com/v/27640696</guid>
             <pubDate>Wed, 29 Jun 2022 04:05:39 GMT</pubDate>
             <content:encoded><![CDATA[11:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_69/O1L8L_1656472888066q0cG4_JPEG/6b929b83-f75a-11ec-9d93-d4f5ef590144_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_271/epEpb_1656478279883u07eI_JPEG/1656478269638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신규 확진 20일 만에 1만 명대‥"증가세"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 23:20:45 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_297/y7KKX_1656457062331cbxFW_JPEG/cover_cover_today_20220629_063954_2_6_Large_20220629075705737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[만취 운전 잡고 보니 70억 원 횡령범]]></title>
-            <link>https://tv.naver.com/v/27635888</link>
-            <guid>https://tv.naver.com/v/27635888</guid>
-            <pubDate>Tue, 28 Jun 2022 23:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_80/n0Mgk_1656457047410j0Gkp_JPEG/cover_cover_today_20220629_063816_2_5_Large_20220629075647490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
