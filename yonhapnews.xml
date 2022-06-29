@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 21:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 22:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 29 Jun 2022 08:30:29 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_120/xoAEM_1656490889631JcCEF_JPEG/1656490697902.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특파원이 설명합니다] "인터뷰 중 공습경보가"…차마 공개하지 못한 사진 40장]]></title>
+            <link>https://tv.naver.com/v/27648815</link>
+            <guid>https://tv.naver.com/v/27648815</guid>
+            <pubDate>Wed, 29 Jun 2022 22:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[9:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_288/kwq4u_1656490155065gEqAL_JPEG/1656489971560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["머리 두 번 감기면 과태료"…가뭄 덮친 이탈리아 진풍경]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Jun 2022 11:20:04 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220627_44/Remyc_1656327348863vobX5_JPEG/1656327285365.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[160㎞ 목표물 타격…미, 우크라에 첨단 지대공미사일 지원 추진]]></title>
-            <link>https://tv.naver.com/v/27596592</link>
-            <guid>https://tv.naver.com/v/27596592</guid>
-            <pubDate>Mon, 27 Jun 2022 09:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220627_289/nP3ks_1656320899683SU05S_JPEG/1656320072176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
