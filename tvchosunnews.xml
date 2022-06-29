@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 10:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 11:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 29일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27653167</link>
+            <guid>https://tv.naver.com/v/27653167</guid>
+            <pubDate>Wed, 29 Jun 2022 11:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_181/D8Jb0_1656499901467u8w9J_JPEG/cover_2022062990117_thumb_074722_20220629195101857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인양 차량서 시신 3구 발견…"실종 일가족 추정"]]></title>
             <link>https://tv.naver.com/v/27644988</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Jun 2022 13:43:38 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220628_272/m1D6X_1656420722324Hyq0e_JPEG/cover_2022062890178_thumb_094711_20220628215108612.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 암트랙 열차, 트럭 충돌로 탈선 50여명 사상…"차단기 없었다"]]></title>
-            <link>https://tv.naver.com/v/27630554</link>
-            <guid>https://tv.naver.com/v/27630554</guid>
-            <pubDate>Tue, 28 Jun 2022 13:43:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220628_227/EbOoz_1656420727377JYelh_JPEG/cover_2022062890176_thumb_094504_20220628215101879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
