@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 20:24:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 21:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국 대부분 비 그쳐…도심 주요 도로 통행 재개]]></title>
+            <link>https://tv.naver.com/v/27688925</link>
+            <guid>https://tv.naver.com/v/27688925</guid>
+            <pubDate>Thu, 30 Jun 2022 21:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_87/dYcWd_1656623940670k2hz6_JPEG/cover_0000983081_001_20220701061801245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/27687801</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Jun 2022 12:44:42 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220630_219/txfXU_1656592900336XWoXQ_JPEG/cover_0000983026_001_20220630214018751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['친윤' 비서실장 사퇴에, 이준석 "개혁 박차"]]></title>
-            <link>https://tv.naver.com/v/27682871</link>
-            <guid>https://tv.naver.com/v/27682871</guid>
-            <pubDate>Thu, 30 Jun 2022 12:44:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_10/c5Sm4_1656592885089idwOy_JPEG/cover_0000983030_001_20220630214008905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
