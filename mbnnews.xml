@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 08:31:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 09:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 6월 30일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/27678679</link>
+            <guid>https://tv.naver.com/v/27678679</guid>
+            <pubDate>Thu, 30 Jun 2022 09:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_179/LDCxl_16565806640188RW4A_JPEG/cover_cover_20220630181105_20_845_1302363_360_7_0_20220630181701262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] '어대명' 기류에 전략 선회?]]></title>
             <link>https://tv.naver.com/v/27676982</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Jun 2022 23:22:26 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220630_78/foKn8_1656544648820VVGLg_JPEG/cover_cover_20220630081104_20_605_1302329_360_7_0_20220630081701477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 생명을 담는 보트]]></title>
-            <link>https://tv.naver.com/v/27663324</link>
-            <guid>https://tv.naver.com/v/27663324</guid>
-            <pubDate>Wed, 29 Jun 2022 23:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_189/U9YzB_1656544302782WQYgJ_JPEG/cover_cover_20220630080832_20_605_1302328_360_7_0_20220630081101338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
