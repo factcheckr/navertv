@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 10:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 11:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 30일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27680773</link>
+            <guid>https://tv.naver.com/v/27680773</guid>
+            <pubDate>Thu, 30 Jun 2022 11:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_30/61QFv_1656586618281nid7N_JPEG/cover_2022063090126_thumb_075134_20220630195602476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] '주6일 밤샘' 배송기사 돌연사…새벽배송의 그늘 '과로사']]></title>
             <link>https://tv.naver.com/v/27673882</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Jun 2022 13:42:24 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220629_183/8AYKl_1656507177653MvMNk_JPEG/cover_2022062990161_thumb_094758_20220629215148078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["물가 더 뛰고 경기 더 꺾인다"…기대인플레 10년래 최고치]]></title>
-            <link>https://tv.naver.com/v/27656231</link>
-            <guid>https://tv.naver.com/v/27656231</guid>
-            <pubDate>Wed, 29 Jun 2022 13:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_213/JLHma_1656507153432nfwHd_JPEG/cover_2022062990159_thumb_094728_20220629215120517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
