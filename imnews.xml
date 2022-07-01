@@ -4,9 +4,33 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 22:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 23:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 시각 교통정보]]></title>
+            <link>https://tv.naver.com/v/27711978</link>
+            <guid>https://tv.naver.com/v/27711978</guid>
+            <pubDate>Fri, 01 Jul 2022 23:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_59/NzcAt_1656714259908DEej3_JPEG/cover_cover_today_20220702_071559_1_12_Large_20220702072402817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 전국 맑음‥낮 동안 곳곳에 소나기]]></title>
+            <link>https://tv.naver.com/v/27711972</link>
+            <guid>https://tv.naver.com/v/27711972</guid>
+            <pubDate>Fri, 01 Jul 2022 23:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_205/92GIv_1656714143012LdcE5_JPEG/cover_cover_today_20220702_071702_1_13_Large_20220702072202873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스투데이] 주말 불볕더위‥다음 주 초 태풍 영향권]]></title>
+            <link>https://tv.naver.com/v/27711969</link>
+            <guid>https://tv.naver.com/v/27711969</guid>
+            <pubDate>Fri, 01 Jul 2022 23:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[18:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_41/1uWpW_1656714155177HnntD_JPEG/1656714152739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해수욕장 261곳 개장‥"물놀이 때 거리두기"]]></title>
             <link>https://tv.naver.com/v/27711960</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 01 Jul 2022 12:45:11 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_116/lbY4P_1656674401924Q5s0c_JPEG/cover_cover_desk_20220701_194739_1_4_Large_20220701201912465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원가 폭등하는데 납품단가는 제자리]]></title>
-            <link>https://tv.naver.com/v/27706777</link>
-            <guid>https://tv.naver.com/v/27706777</guid>
-            <pubDate>Fri, 01 Jul 2022 12:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_55/Il9RK_1656674386091zmgij_JPEG/cover_cover_desk_20220701_194536_1_3_Large_20220701201903147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공항 영접까지 나간 이준석‥싸늘한 대통령실 "일찌감치 거취 정리했어야"]]></title>
-            <link>https://tv.naver.com/v/27706734</link>
-            <guid>https://tv.naver.com/v/27706734</guid>
-            <pubDate>Fri, 01 Jul 2022 11:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_158/Y2B0y_16566742149770oN6p_JPEG/cover_cover_desk_20220701_201122_1_13_Large_20220701201603094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘도 "김승희는 적절치 않다"‥민주당 "박순애까지 인사대참사"]]></title>
-            <link>https://tv.naver.com/v/27706722</link>
-            <guid>https://tv.naver.com/v/27706722</guid>
-            <pubDate>Fri, 01 Jul 2022 11:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_3/uHipp_1656674153786I9qQm_JPEG/cover_cover_desk_20220701_200832_1_12_Large_20220701201502931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
