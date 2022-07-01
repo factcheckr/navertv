@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 10:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 11:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 1일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27706422</link>
+            <guid>https://tv.naver.com/v/27706422</guid>
+            <pubDate>Fri, 01 Jul 2022 11:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_37/B6izh_1656673007784WO9jV_JPEG/cover_2022070190108_thumb_075329_20220701195601916.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국북서부체리협회, 워싱턴 체리 출시 맞아 '체리데이' 행사 열어]]></title>
             <link>https://tv.naver.com/v/27700446</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Jun 2022 13:41:34 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220630_36/RYfJ5_1656595101718NMSDA_JPEG/cover_2022063090165_thumb_101017_20220630221705753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누리호 큐브위성, 지상 통신 성공했지만…"회전 빨라 불안정"]]></title>
-            <link>https://tv.naver.com/v/27683682</link>
-            <guid>https://tv.naver.com/v/27683682</guid>
-            <pubDate>Thu, 30 Jun 2022 13:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220630_252/jVQ68_1656595083906DChSx_JPEG/cover_2022063090163_thumb_101012_20220630221658333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
