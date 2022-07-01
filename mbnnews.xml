@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 08:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 7월 1일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/27704008</link>
+            <guid>https://tv.naver.com/v/27704008</guid>
+            <pubDate>Fri, 01 Jul 2022 09:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_18/HLEVW_1656667241814azl9M_JPEG/cover_cover_20220701181440_20_845_1302455_360_7_0_20220701182001398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 수도권 호우, 120mm 이상 더 내린다…남부 폭염특보 확대]]></title>
             <link>https://tv.naver.com/v/27700929</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Jun 2022 23:22:20 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_144/F8xpY_1656629362162EJQzS_JPEG/cover_cover_20220701074555_20_605_1302417_360_7_0_20220701074901253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올 여름 예비전력 5년 만에 '최저'…전기료 급등에 블랙아웃도 걱정]]></title>
-            <link>https://tv.naver.com/v/27689577</link>
-            <guid>https://tv.naver.com/v/27689577</guid>
-            <pubDate>Thu, 30 Jun 2022 23:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_91/vFqu9_16566292827106FLH8_JPEG/cover_cover_20220701074345_20_605_1302416_360_7_0_20220701074701285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
