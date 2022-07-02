@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 19:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 20:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 7월 3일]]></title>
+            <link>https://tv.naver.com/v/27723039</link>
+            <guid>https://tv.naver.com/v/27723039</guid>
+            <pubDate>Sat, 02 Jul 2022 20:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[30:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220703_21/u4n8H_1656792356712g6X5p_JPEG/cover_cover_MYH20220701014400038_20220703050102045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['집회의 자유'엔 '혐의의 자유'는 없다 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/27720547</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Jul 2022 07:19:52 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220702_247/Phd5m_1656743637618KPHd9_JPEG/cover_cover_MYH20220702006900641_20220702153302039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국도 코로나19 증가세…확진자 한 주 만에 30% 증가]]></title>
-            <link>https://tv.naver.com/v/27715716</link>
-            <guid>https://tv.naver.com/v/27715716</guid>
-            <pubDate>Sat, 02 Jul 2022 06:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_32/nq5XE_1656743125170k2JWG_JPEG/cover_cover_MYH20220702006800038_20220702152502396.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
