@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 22:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 23:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8시 날씨] 한낮 폭염 주의…오후부터 제주·남해안 비]]></title>
+            <link>https://tv.naver.com/v/27723515</link>
+            <guid>https://tv.naver.com/v/27723515</guid>
+            <pubDate>Sat, 02 Jul 2022 23:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220703_16/W0FdW_1656803845896xVLn5_JPEG/cover_0011294988_001_20220703081701219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 제2연평해전 20주기, 참전 장병은 지금?]]></title>
+            <link>https://tv.naver.com/v/27723468</link>
+            <guid>https://tv.naver.com/v/27723468</guid>
+            <pubDate>Sat, 02 Jul 2022 23:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[5:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220703_172/BMz79_1656803021764tSM6l_PNG/cover_0011294985_001_20220703080201326.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 오늘도 폭염…오후부터 제주·남해안 비]]></title>
             <link>https://tv.naver.com/v/27723198</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 02 Jul 2022 13:27:22 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220702_269/2hOuX_1656766661910LOD5N_JPEG/cover_0011294900_001_20220702215719953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야 ‘원구성 담판’ 시도…“입장 변화없다” vs “보여주기”]]></title>
-            <link>https://tv.naver.com/v/27720495</link>
-            <guid>https://tv.naver.com/v/27720495</guid>
-            <pubDate>Sat, 02 Jul 2022 13:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_154/nj0cl_1656766671123yEFax_JPEG/cover_0011294899_001_20220702215709074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘가족’의 덫…부자 노인을 노린다]]></title>
-            <link>https://tv.naver.com/v/27720487</link>
-            <guid>https://tv.naver.com/v/27720487</guid>
-            <pubDate>Sat, 02 Jul 2022 13:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_266/sEPfF_1656766685748VrnNR_JPEG/cover_0011294898_001_20220702215658203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
