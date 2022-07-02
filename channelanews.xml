@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 03:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 04:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민노총 대규모 집회·행진…도심 일부 도로 통제]]></title>
+            <link>https://tv.naver.com/v/27714425</link>
+            <guid>https://tv.naver.com/v/27714425</guid>
+            <pubDate>Sat, 02 Jul 2022 04:41:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_140/Myn8K_1656735075371FDyqq_JPEG/cover_0000229726_001_20220702131001841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“5분간 건물 흔들” 신고…종로 대형 빌딩서 1000명 대피]]></title>
             <link>https://tv.naver.com/v/27706973</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Jul 2022 11:19:16 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220701_229/69aAV_1656673717537t9YcV_JPEG/cover_0000229696_001_20220701200701793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 ‘깜짝 마중’ 간 이준석…순방 성과 극찬한 까닭은?]]></title>
-            <link>https://tv.naver.com/v/27706276</link>
-            <guid>https://tv.naver.com/v/27706276</guid>
-            <pubDate>Fri, 01 Jul 2022 11:19:16 GMT</pubDate>
-            <content:encoded><![CDATA[13:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220701_127/Go4XE_1656672875330oV1Ao_JPEG/cover_0000229689_001_20220701194801830.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 03:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 04:41:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[집중취재M] 홍콩 '자치' 25주년,‥런던으로 대만으로 감옥으로]]></title>
+            <link>https://tv.naver.com/v/27714304</link>
+            <guid>https://tv.naver.com/v/27714304</guid>
+            <pubDate>Sat, 02 Jul 2022 04:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[4:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_122/XqGBM_1656734237058SC7V7_JPEG/cover_cover_desk_20220701_202345_1_17_Large_20220702125602859.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBC뉴스] - 전국 대부분 폭염 특보…서울 낮 최고 33도]]></title>
             <link>https://tv.naver.com/v/27713861</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Jul 2022 22:20:44 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220702_7/72ADM_1656713595337EV1J6_JPEG/cover_cover_today_20220702_070744_1_5_Large_20220702071302533.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유류세 최대치로 낮췄지만‥체감은 '아직']]></title>
-            <link>https://tv.naver.com/v/27711927</link>
-            <guid>https://tv.naver.com/v/27711927</guid>
-            <pubDate>Fri, 01 Jul 2022 22:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_239/kdRcF_1656713445347586Ef_JPEG/cover_cover_today_20220702_070659_1_4_Large_20220702071010626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
