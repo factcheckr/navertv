@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 11:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 12:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장 카메라]사느냐 죽느냐…선거가 바꾼 세종보 운명]]></title>
+            <link>https://tv.naver.com/v/27750002</link>
+            <guid>https://tv.naver.com/v/27750002</guid>
+            <pubDate>Mon, 04 Jul 2022 12:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_298/Ouylv_1656935527227wOx5u_JPEG/cover_0000229833_001_20220704205001900.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]빈 화면과 빈 종이 / 이준석, 오늘도 생략]]></title>
             <link>https://tv.naver.com/v/27749299</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Jul 2022 11:19:14 GMT</pubDate>
             <content:encoded><![CDATA[11:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_266/uidSR_1656931265831RH835_JPEG/cover_0000229807_001_20220704193601827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지지율 또↓ ‘콘크리트’ 균열?…尹 “오직 국민만 생각”]]></title>
-            <link>https://tv.naver.com/v/27748727</link>
-            <guid>https://tv.naver.com/v/27748727</guid>
-            <pubDate>Mon, 04 Jul 2022 11:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[8:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_135/bCg4R_1656931165394XbcYR_JPEG/cover_0000229806_001_20220704193428938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
