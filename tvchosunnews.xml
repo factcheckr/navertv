@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 10:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 11:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 4일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27748668</link>
+            <guid>https://tv.naver.com/v/27748668</guid>
+            <pubDate>Mon, 04 Jul 2022 11:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_122/zKom1_1656930697193EGt20_JPEG/cover_2022070490112_thumb_072942_20220704193102016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아침에 이슈] 여야, 원구성 놓고 벼랑 끝 대치]]></title>
             <link>https://tv.naver.com/v/27742539</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Jul 2022 11:19:22 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220703_42/SSa6e_1656845237668Cscen_JPEG/cover_2022070390065_thumb_074412_20220703194646826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마지막까지 유쾌한 '영원한 LG맨' 박용택…"용암택이 제일 좋았죠"]]></title>
-            <link>https://tv.naver.com/v/27729555</link>
-            <guid>https://tv.naver.com/v/27729555</guid>
-            <pubDate>Sun, 03 Jul 2022 11:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220703_237/uMJ8B_1656845260051FUrpl_JPEG/cover_2022070390063_thumb_074354_20220703194627628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
