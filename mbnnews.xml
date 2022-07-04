@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 08:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 7월 4일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/27747135</link>
+            <guid>https://tv.naver.com/v/27747135</guid>
+            <pubDate>Mon, 04 Jul 2022 09:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_268/1CceK_1656925677755fNCWd_JPEG/cover_cover_20220704180409_20_845_1302625_360_7_0_20220704180701296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 당권 도전 3일 만에 무산]]></title>
             <link>https://tv.naver.com/v/27745692</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Jul 2022 23:21:50 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_210/v6tTS_1656889968956NfTRX_JPEG/cover_cover_20220704080706_20_605_1302584_360_7_0_20220704081201371.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 내 몸의 자유를 허락해줘!]]></title>
-            <link>https://tv.naver.com/v/27734165</link>
-            <guid>https://tv.naver.com/v/27734165</guid>
-            <pubDate>Sun, 03 Jul 2022 23:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_232/8qZQl_1656889716120vaCkR_JPEG/cover_cover_20220704080300_20_605_1302583_360_7_0_20220704080801298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

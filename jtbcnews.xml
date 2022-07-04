@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 08:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:28:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령 '연출 사진 논란'…대통령실 해명은?]]></title>
+            <link>https://tv.naver.com/v/27747490</link>
+            <guid>https://tv.naver.com/v/27747490</guid>
+            <pubDate>Mon, 04 Jul 2022 09:28:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_184/HsVHx_1656926813990eLK7W_JPEG/cover_0000304342_001_20220704182602404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[3시 썰전라이브] 박용진 "이번 전대 룰 변경 너무 소심…또 지지층 투표 전대될 것"]]></title>
             <link>https://tv.naver.com/v/27746227</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Jul 2022 23:21:03 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_269/0YIXD_1656887921064irP67_JPEG/cover_0000304226_001_20220704073801795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["전쟁 여파 심화"…수입 곡물·기름값 더 오를 수도]]></title>
-            <link>https://tv.naver.com/v/27733895</link>
-            <guid>https://tv.naver.com/v/27733895</guid>
-            <pubDate>Sun, 03 Jul 2022 23:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_45/mpXLR_1656887568034xMAEO_JPEG/cover_0000304225_001_20220704073201783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
