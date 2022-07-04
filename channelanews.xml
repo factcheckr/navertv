@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 02:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 04:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국회 원구성 난항…민주, 의장단 단독 선출?]]></title>
+            <link>https://tv.naver.com/v/27738379</link>
+            <guid>https://tv.naver.com/v/27738379</guid>
+            <pubDate>Mon, 04 Jul 2022 04:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_252/fnDYo_1656904979291M41Yq_JPEG/cover_0000229785_001_20220704122201861.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[옅은 녹색 글러브는 안 돼?…까칠한 야구 규칙]]></title>
             <link>https://tv.naver.com/v/27729678</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Jul 2022 12:36:30 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220702_8/M5quk_1656761090315194fD_JPEG/cover_0000229741_001_20220702202331212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한정판이 뭐길래…캐릭터에 밤새는 사람들]]></title>
-            <link>https://tv.naver.com/v/27719375</link>
-            <guid>https://tv.naver.com/v/27719375</guid>
-            <pubDate>Sat, 02 Jul 2022 12:36:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220702_68/kdvL6_1656761089480YhsqA_JPEG/cover_0000229740_001_20220702202322060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
