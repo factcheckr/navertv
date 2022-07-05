@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 05:25:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 06:28:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 가양역 인근서 20대 여성 일주일째 실종]]></title>
+            <link>https://tv.naver.com/v/27763359</link>
+            <guid>https://tv.naver.com/v/27763359</guid>
+            <pubDate>Tue, 05 Jul 2022 06:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_263/w2UDX_1657001414763yRyEt_JPEG/cover_0011296339_001_20220705151001221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 밤까지 곳곳 강한 소나기!]]></title>
             <link>https://tv.naver.com/v/27761945</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 04:01:13 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_156/UI9yo_1656991197716tMVKq_JPEG/cover_0011296269_001_20220705121901214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감염재생산지수 14주 만에 1 넘어…“재확산 가능성 높아”]]></title>
-            <link>https://tv.naver.com/v/27759739</link>
-            <guid>https://tv.naver.com/v/27759739</guid>
-            <pubDate>Tue, 05 Jul 2022 04:01:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_67/G1Gqy_1656991001954JkEiO_JPEG/cover_0011296267_001_20220705121601341.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
