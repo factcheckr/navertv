@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 10:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 11:30:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 5일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27769446</link>
+            <guid>https://tv.naver.com/v/27769446</guid>
+            <pubDate>Tue, 05 Jul 2022 11:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_173/BSQ7C_1657018300742B24D3_JPEG/cover_2022070590109_thumb_074615_20220705195102060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CJ ENM '파주 스튜디오 센터' 공개…"K-콘텐츠 전진기지 될 것"]]></title>
             <link>https://tv.naver.com/v/27764004</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Jul 2022 13:41:34 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220704_252/vV0cy_1656939129846gfgr0_JPEG/cover_2022070490127_thumb_094938_20220704215115832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['사진 거장' 앙리 카르티에 브레송의 철학…"삶의 진정성 포착"]]></title>
-            <link>https://tv.naver.com/v/27751207</link>
-            <guid>https://tv.naver.com/v/27751207</guid>
-            <pubDate>Mon, 04 Jul 2022 13:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220704_281/lpYAF_1656939109621fdCf0_JPEG/cover_2022070490169_thumb_094900_20220704215101785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
