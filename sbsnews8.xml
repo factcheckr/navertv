@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 첫 달 탐사선 '다누리' 출고…8월 미국서 발사]]></title>
+            <link>https://tv.naver.com/v/27764053</link>
+            <guid>https://tv.naver.com/v/27764053</guid>
+            <pubDate>Tue, 05 Jul 2022 07:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_246/InPYP_1657003140018DRNse_JPEG/cover_0000983937_001_20220705153801207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스딱] 도심 습격한 사랑벌레, 퇴치법 나왔다…이렇게 해보세요]]></title>
             <link>https://tv.naver.com/v/27763455</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 02:06:58 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_83/o9Okk_1656979866527wNqzU_JPEG/cover_0000983822_001_20220705091011116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 독립기념일 행진 도중에 총기 난사…최소 6명 사망]]></title>
-            <link>https://tv.naver.com/v/27756378</link>
-            <guid>https://tv.naver.com/v/27756378</guid>
-            <pubDate>Tue, 05 Jul 2022 02:06:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_277/q0SvT_1656979855047I7JNk_JPEG/cover_0000983804_001_20220705091001252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

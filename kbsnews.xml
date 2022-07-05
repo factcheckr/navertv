@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:28:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:21:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/27764959</link>
+            <guid>https://tv.naver.com/v/27764959</guid>
+            <pubDate>Tue, 05 Jul 2022 07:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[7:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_284/1ljeo_16570053943120ENSJ_JPEG/cover_0011296355_001_20220705161401201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 겨울철 호주에 내린 이례적 폭우]]></title>
+            <link>https://tv.naver.com/v/27764770</link>
+            <guid>https://tv.naver.com/v/27764770</guid>
+            <pubDate>Tue, 05 Jul 2022 07:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_63/USG19_1657004865956FRPof_PNG/cover_0011296353_001_20220705160701215.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[이수정 교수 “가양역 실종 사건, 119 신고 전화 굉장히 특이해”]]></title>
+            <link>https://tv.naver.com/v/27764563</link>
+            <guid>https://tv.naver.com/v/27764563</guid>
+            <pubDate>Tue, 05 Jul 2022 07:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[8:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_208/warJv_1657004449855QQxgu_PNG/cover_0011296349_001_20220705155839766.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[서울 가양역 인근서 20대 여성 일주일째 실종]]></title>
             <link>https://tv.naver.com/v/27763359</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 04:01:13 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_199/wRhgF_1656991728914e3a4s_JPEG/cover_0011296273_001_20220705122801237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 “前 정권 장관 중 훌륭한 사람 봤나”…여야, ‘부실 인사’ 공방]]></title>
-            <link>https://tv.naver.com/v/27759840</link>
-            <guid>https://tv.naver.com/v/27759840</guid>
-            <pubDate>Tue, 05 Jul 2022 04:01:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_31/lQFb2_1656991365482eNsrf_JPEG/cover_0011296272_001_20220705122201250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송옥렬 공정위 후보자 “교수 시절 성희롱 발언 물의…깊이 사과”]]></title>
-            <link>https://tv.naver.com/v/27759789</link>
-            <guid>https://tv.naver.com/v/27759789</guid>
-            <pubDate>Tue, 05 Jul 2022 04:01:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_154/ZLx92_1656991182534Qxy2s_JPEG/cover_0011296270_001_20220705121910880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[논란 속 임명 박순애…교육개혁 힘 실릴까?]]></title>
-            <link>https://tv.naver.com/v/27759787</link>
-            <guid>https://tv.naver.com/v/27759787</guid>
-            <pubDate>Tue, 05 Jul 2022 04:01:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_156/UI9yo_1656991197716tMVKq_JPEG/cover_0011296269_001_20220705121901214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
