@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 20:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 21:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경기침체 공포에 유가 급락…두 달 만에 100달러 붕괴]]></title>
+            <link>https://tv.naver.com/v/27775640</link>
+            <guid>https://tv.naver.com/v/27775640</guid>
+            <pubDate>Tue, 05 Jul 2022 21:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_167/wwBWv_1657055718493s7hBi_JPEG/cover_0000984063_001_20220706061401171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/27775026</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 13:51:07 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_8/yd8kJ_1657026916577wrgSp_JPEG/cover_0000984009_001_20220705221359324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원숭이두창 첫 환자 곧 퇴원…9일 치료제 도입]]></title>
-            <link>https://tv.naver.com/v/27771942</link>
-            <guid>https://tv.naver.com/v/27771942</guid>
-            <pubDate>Tue, 05 Jul 2022 13:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_123/zNGop_16570268971322YILG_JPEG/cover_0000984006_001_20220705221349362.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
