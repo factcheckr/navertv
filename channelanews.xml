@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 13:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 14:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,14 +86,6 @@
             <pubDate>Tue, 05 Jul 2022 11:30:38 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_297/zu5ww_1657019996380Le30T_JPEG/cover_0000229894_001_20220705201839704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰국 신설에 경찰 집단 반발…윤희근 청장 내정]]></title>
-            <link>https://tv.naver.com/v/27769900</link>
-            <guid>https://tv.naver.com/v/27769900</guid>
-            <pubDate>Tue, 05 Jul 2022 11:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_138/DvlKP_1657019959000qsf7f_JPEG/cover_0000229892_001_20220705201819942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[尹 “세금 먹는 공무원”…대통령 소속 위원회 70% 줄인다]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 05 Jul 2022 13:52:01 GMT</pubDate>
             <content:encoded><![CDATA[7:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_31/vWpIE_1657018091898JI7vk_JPEG/cover_0000229872_001_20220705194454645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘김정숙 옷값’ 이어 尹 영화비도…납세자연맹, 특활비 공개 요구]]></title>
+            <link>https://tv.naver.com/v/27769340</link>
+            <guid>https://tv.naver.com/v/27769340</guid>
+            <pubDate>Tue, 05 Jul 2022 14:21:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_25/HIHS0_1657017977313VOgQu_JPEG/cover_0000229869_001_20220705194445159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
