@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 12:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 13:58:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 06 Jul 2022 12:49:15 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_14/TnTST_1657111337203uaWO1_JPEG/cover_cover_20220706211319_20_552_1302755_360_7_0_20220706214101216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 뉴스와이드] 윤 대통령 순방에 '민간인' 비서관 아내 동행 논란 / D-1 이준석 운명의 날]]></title>
+            <link>https://tv.naver.com/v/27792741</link>
+            <guid>https://tv.naver.com/v/27792741</guid>
+            <pubDate>Wed, 06 Jul 2022 13:58:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:06:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_106/1PQR1_1657112401280pOagL_JPEG/cover_cover_20220706210709_20_536_1302860_360_7_0_20220706212801235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 윤리위 D-1, 지지율 꺼낸 이준석의 의도는?]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Jul 2022 10:27:08 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_61/KggHT_16571024392811SMHC_JPEG/cover_cover_20220706190837_20_552_1302831_360_7_0_20220706191301689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김주하 앵커가 전하는 MBN 뉴스7 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/27790300</link>
-            <guid>https://tv.naver.com/v/27790300</guid>
-            <pubDate>Wed, 06 Jul 2022 10:27:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_134/LNVGa_1657102323836UkBeY_JPEG/cover_cover_20220706190537_20_552_1302830_360_7_0_20220706191101543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
