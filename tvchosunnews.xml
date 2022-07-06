@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 10:27:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 11:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 6일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27790910</link>
+            <guid>https://tv.naver.com/v/27790910</guid>
+            <pubDate>Wed, 06 Jul 2022 11:21:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_179/NCDAv_16571044115924LV31_JPEG/cover_2022070690113_thumb_074149_20220706194601761.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에스파, UN 뉴욕 본부서 '지속가능발전' 연설]]></title>
             <link>https://tv.naver.com/v/27786234</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 13:51:52 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_216/EWyxu_16570255292327a6k5_JPEG/cover_2022070590156_thumb_094743_20220705215115916.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 독립기념 퍼레이드서 총기 난사…"백인 래퍼 단독범행 추정"]]></title>
-            <link>https://tv.naver.com/v/27771501</link>
-            <guid>https://tv.naver.com/v/27771501</guid>
-            <pubDate>Tue, 05 Jul 2022 13:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_89/hGygR_1657025530589aF9sg_JPEG/cover_2022070590154_thumb_094506_20220705215101979.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
