@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 02:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 04:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[尹정부 첫 당정협의회 개최…이준석도 참석]]></title>
+            <link>https://tv.naver.com/v/27780613</link>
+            <guid>https://tv.naver.com/v/27780613</guid>
+            <pubDate>Wed, 06 Jul 2022 04:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_96/aRsij_1657077611370iif1M_JPEG/cover_0000229908_001_20220706121901590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰국 신설에 경찰 집단 반발…윤희근 청장 내정]]></title>
             <link>https://tv.naver.com/v/27776624</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Jul 2022 11:30:38 GMT</pubDate>
             <content:encoded><![CDATA[5:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220705_13/WgKRK_1657018147767XedN1_JPEG/cover_0000229876_001_20220705194621909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“피선거권 이미 있다”…박지현, 출마 강행 시사]]></title>
-            <link>https://tv.naver.com/v/27769364</link>
-            <guid>https://tv.naver.com/v/27769364</guid>
-            <pubDate>Tue, 05 Jul 2022 11:30:38 GMT</pubDate>
-            <content:encoded><![CDATA[11:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220705_147/XH2Wo_1657018244648HL3Ua_JPEG/cover_0000229874_001_20220705194601815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
