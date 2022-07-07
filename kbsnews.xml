@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 13:55:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 14:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 32도…내일 10~60mm 비]]></title>
+            <link>https://tv.naver.com/v/27815047</link>
+            <guid>https://tv.naver.com/v/27815047</guid>
+            <pubDate>Thu, 07 Jul 2022 14:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_32/8NMYJ_1657202721679iWdBL_JPEG/cover_0011298306_001_20220707230501176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민선8기 광주시정 현안 해결 방안·과제 발표]]></title>
             <link>https://tv.naver.com/v/27814645</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Jul 2022 13:53:42 GMT</pubDate>
             <content:encoded><![CDATA[0:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_139/ej35g_1657199793077Tp4u7_JPEG/cover_0011298297_001_20220707221623391.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경남교육청 “‘아이톡톡’ 특허 출원 4건”]]></title>
-            <link>https://tv.naver.com/v/27814332</link>
-            <guid>https://tv.naver.com/v/27814332</guid>
-            <pubDate>Thu, 07 Jul 2022 13:53:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_105/vZXwz_1657199791180S1N19_JPEG/cover_0011298296_001_20220707221615071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
