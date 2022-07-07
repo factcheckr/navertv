@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 08:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 09:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now_영상] 폭풍 전 연둣빛으로 물든 미국 하늘]]></title>
+            <link>https://tv.naver.com/v/27809845</link>
+            <guid>https://tv.naver.com/v/27809845</guid>
+            <pubDate>Thu, 07 Jul 2022 09:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_236/LNxRg_1657184603818EsquI_JPEG/cover_cover_joo220707_13_20220707180303125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스피, 외인·기관 매수세에 1%대 상승‥2,330선 회복]]></title>
             <link>https://tv.naver.com/v/27808642</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Jul 2022 04:06:46 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_208/6l2Cp_1657164260786u7Onh_JPEG/cover_cover_noon_20220707_121054_1_9_Large_20220707122410845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준석 '운명의 날'‥윤리위 저녁 7시 심의]]></title>
-            <link>https://tv.naver.com/v/27801694</link>
-            <guid>https://tv.naver.com/v/27801694</guid>
-            <pubDate>Thu, 07 Jul 2022 04:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_205/7zowO_1657164262115iHB4j_JPEG/cover_cover_noon_20220707_120245_1_2_Large_20220707122402406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
