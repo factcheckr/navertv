@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 10:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 11:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 7일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27811778</link>
+            <guid>https://tv.naver.com/v/27811778</guid>
+            <pubDate>Thu, 07 Jul 2022 11:20:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_198/IEdLu_1657191099251P3iQB_JPEG/cover_2022070790096_thumb_074724_20220707195101754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰서 흉기 난동에 유치장 주먹질까지…'경찰 수난시대']]></title>
             <link>https://tv.naver.com/v/27798112</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Jul 2022 12:48:59 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_236/pvkmh_1657111619011YmtI6_JPEG/cover_2022070690150_thumb_094136_20220706214601882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수심 2ｍ 농수로 빠진 5살 아이 극적 구조…오리떼 울음소리에 '구사일생']]></title>
-            <link>https://tv.naver.com/v/27792875</link>
-            <guid>https://tv.naver.com/v/27792875</guid>
-            <pubDate>Wed, 06 Jul 2022 12:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_206/P6ghh_1657111030517fBhQw_JPEG/cover_2022070690148_thumb_093143_20220706213616988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
