@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 20:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 21:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[248회_여름철 호우 및 낙뢰 대처 요령]]></title>
+            <link>https://tv.naver.com/v/27817548</link>
+            <guid>https://tv.naver.com/v/27817548</guid>
+            <pubDate>Thu, 07 Jul 2022 21:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[15:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_19/2FiRo_1657228398395OGS2p_JPEG/cover_cover_20220708060031_20_849_1302958_360_7_0_20220708060701221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 박지원 "'밈스'는 국방부에서 관리, 국정원이 나를 잘못 고발한 것…문재인 정부 사정 시작"]]></title>
             <link>https://tv.naver.com/v/27815993</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Jul 2022 10:27:26 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_278/jAoYn_1657188984012FryT7_JPEG/cover_cover_20220707190740_20_552_1302926_360_7_0_20220707191501280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-코오롱 장남 결혼에 정재계 총출동, 프로 불참러도 '참석']]></title>
-            <link>https://tv.naver.com/v/27810389</link>
-            <guid>https://tv.naver.com/v/27810389</guid>
-            <pubDate>Thu, 07 Jul 2022 10:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[7:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_107/q7owi_1657186458701339JR_JPEG/cover_cover_20220707182555_20_673_1302925_360_7_0_20220707183101189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
