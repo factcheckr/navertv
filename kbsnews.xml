@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:30:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 06:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 내일까지 전국 비!]]></title>
-            <link>https://tv.naver.com/v/27803758</link>
-            <guid>https://tv.naver.com/v/27803758</guid>
-            <pubDate>Thu, 07 Jul 2022 05:28:53 GMT</pubDate>
+            <title><![CDATA[수도권 아파트값 하락세 지속]]></title>
+            <link>https://tv.naver.com/v/27805265</link>
+            <guid>https://tv.naver.com/v/27805265</guid>
+            <pubDate>Thu, 07 Jul 2022 06:28:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_168/8Equr_16571742776220FOzF_JPEG/cover_0011297921_001_20220707151101549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오후날씨 꿀팁] 내일까지 전국에 비]]></title>
+            <link>https://tv.naver.com/v/27804363</link>
+            <guid>https://tv.naver.com/v/27804363</guid>
+            <pubDate>Thu, 07 Jul 2022 06:28:25 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_30/WRQZi_1657170772023vvK5F_JPEG/cover_0011297905_001_20220707141226999.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_39/bwDO9_16571721282630Yi25_JPEG/cover_0011297905_001_20220707143501187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대통령실 “외가 6촌 맞다…업무 연속성 위해 임용”]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Jul 2022 04:06:36 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_205/PPFKK_1657165784177fJnbD_JPEG/cover_0011297866_001_20220707124901167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU 의회, 원자력·천연가스 녹색분류체계에 포함]]></title>
-            <link>https://tv.naver.com/v/27801992</link>
-            <guid>https://tv.naver.com/v/27801992</guid>
-            <pubDate>Thu, 07 Jul 2022 04:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_19/FKXG3_16571656176051Bvov_JPEG/cover_0011297865_001_20220707124612657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
