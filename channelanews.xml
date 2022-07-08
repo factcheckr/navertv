@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 02:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:02:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NHK “아베 유세 중 쓰러져…총성도 들려”]]></title>
+            <link>https://tv.naver.com/v/27822397</link>
+            <guid>https://tv.naver.com/v/27822397</guid>
+            <pubDate>Fri, 08 Jul 2022 04:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_277/raIBp_1657251913655XecxX_JPEG/cover_0000230032_001_20220708124401711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준석, 당원권 정지 6개월…“안 물러날 것”]]></title>
+            <link>https://tv.naver.com/v/27822151</link>
+            <guid>https://tv.naver.com/v/27822151</guid>
+            <pubDate>Fri, 08 Jul 2022 04:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_135/FYgl7_1657250735221F1tPf_JPEG/cover_0000230031_001_20220708122401739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]우상호-개딸 ‘비공개’ 맞절 / ‘인사 추천’ 진실 공방]]></title>
             <link>https://tv.naver.com/v/27819439</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 07 Jul 2022 12:44:28 GMT</pubDate>
             <content:encoded><![CDATA[7:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_13/NpQDL_1657193007486l3vh6_JPEG/cover_0000229992_001_20220707201922507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘尹 6촌 채용’ 논란…대통령실 “위법은 아니다”]]></title>
-            <link>https://tv.naver.com/v/27812273</link>
-            <guid>https://tv.naver.com/v/27812273</guid>
-            <pubDate>Thu, 07 Jul 2022 12:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[13:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_73/0hogs_1657193087975DBVfF_JPEG/cover_0000229987_001_20220707201901691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘첫 재정회의’ 이수만도 참석…尹 “지난 5년간 재정 악화”]]></title>
-            <link>https://tv.naver.com/v/27812252</link>
-            <guid>https://tv.naver.com/v/27812252</guid>
-            <pubDate>Thu, 07 Jul 2022 12:44:28 GMT</pubDate>
-            <content:encoded><![CDATA[6:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_80/rjHQ5_1657192890738mIJuv_JPEG/cover_0000229990_001_20220707201815983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
