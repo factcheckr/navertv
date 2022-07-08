@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 06:29:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아베 전 총리 총격 “심정지”…일본 열도 큰 충격]]></title>
+            <link>https://tv.naver.com/v/27825536</link>
+            <guid>https://tv.naver.com/v/27825536</guid>
+            <pubDate>Fri, 08 Jul 2022 06:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_190/xk7lc_1657260783303Y4H9W_JPEG/cover_0011298725_001_20220708151201221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보영상] 아베 피습 용의자 검거 순간…범행 도구는?]]></title>
+            <link>https://tv.naver.com/v/27825156</link>
+            <guid>https://tv.naver.com/v/27825156</guid>
+            <pubDate>Fri, 08 Jul 2022 06:27:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_239/9grAo_1657259802749okFlE_JPEG/cover_0011298720_001_20220708145621609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 오후까지 산발적 비!…주말엔 폭염]]></title>
             <link>https://tv.naver.com/v/27824275</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 08 Jul 2022 04:01:26 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_216/bdMMs_1657249802233Ft8eJ_JPEG/cover_0011298665_001_20220708120901169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 국산 전투기 KF-21 활주로 주행 공개…이달 중 최초 비행]]></title>
-            <link>https://tv.naver.com/v/27821767</link>
-            <guid>https://tv.naver.com/v/27821767</guid>
-            <pubDate>Fri, 08 Jul 2022 04:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_283/a9RMM_16572492846037afbr_PNG/cover_0011298661_001_20220708120101221.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[한국전쟁 72주년…영웅들의 이야기]]></title>
-            <link>https://tv.naver.com/v/27821364</link>
-            <guid>https://tv.naver.com/v/27821364</guid>
-            <pubDate>Fri, 08 Jul 2022 04:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_155/rNU28_1657248252083DxGuY_JPEG/cover_0011290486_001_20220708114302430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
