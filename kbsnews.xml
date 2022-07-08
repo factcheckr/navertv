@@ -4,7 +4,7 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 15:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 16:38:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 08 Jul 2022 15:24:02 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220709_36/QLiYu_1657293805638wPW4s_JPEG/cover_0011299069_001_20220709002301164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[라인초대석] ‘그림책 작가’ 백희나]]></title>
+            <link>https://tv.naver.com/v/27836458</link>
+            <guid>https://tv.naver.com/v/27836458</guid>
+            <pubDate>Fri, 08 Jul 2022 16:36:55 GMT</pubDate>
+            <content:encoded><![CDATA[6:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_23/sxfY7_1657293872376M6Hf7_JPEG/cover_0011299068_001_20220709002209556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[돼지고기·소고기 할당관세 확대…8천 억 규모 취약계층 지원]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Jul 2022 14:26:27 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_221/dXNSw_1657289894378yNG1l_JPEG/cover_0011299039_001_20220708231801223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 9일째 폭염주의보…내일 25~32도]]></title>
-            <link>https://tv.naver.com/v/27835501</link>
-            <guid>https://tv.naver.com/v/27835501</guid>
-            <pubDate>Fri, 08 Jul 2022 14:26:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_59/uK0uN_1657289064351hppUP_JPEG/cover_0011299037_001_20220708230401195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
