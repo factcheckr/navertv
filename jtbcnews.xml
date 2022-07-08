@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 04:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:52:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] NHK "아베, 유세 중 산탄총 맞아 심폐정지 상태"]]></title>
+            <link>https://tv.naver.com/v/27823545</link>
+            <guid>https://tv.naver.com/v/27823545</guid>
+            <pubDate>Fri, 08 Jul 2022 04:51:12 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_114/Q7eIo_16572554549552bJSU_JPEG/cover_0000304883_001_20220708134401741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[처음 만난 한중 외교장관…박진, 왕이 향해 "한중관계도 보편적 가치로"]]></title>
             <link>https://tv.naver.com/v/27820969</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Jul 2022 13:54:14 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_107/qI03u_1657201324804XcSvD_JPEG/cover_0000304802_001_20220707224101658.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[팩트체크] 에어컨 전기료 아끼려면…계속 틀어야? 껐다 켜야?]]></title>
-            <link>https://tv.naver.com/v/27814615</link>
-            <guid>https://tv.naver.com/v/27814615</guid>
-            <pubDate>Thu, 07 Jul 2022 13:54:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_256/d7OYm_16572008976941K7me_JPEG/cover_0000304803_001_20220707223401687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

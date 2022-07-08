@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 04:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 04:52:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오후날씨 꿀팁] 오후까지 곳곳 비!…주말엔 폭염]]></title>
+            <link>https://tv.naver.com/v/27822729</link>
+            <guid>https://tv.naver.com/v/27822729</guid>
+            <pubDate>Fri, 08 Jul 2022 04:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_215/ZOvSp_1657253068403BJc4j_JPEG/cover_0011298688_001_20220708130401241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] NHK “아베, 유세 중 총 맞아…심폐 정지 상태”]]></title>
+            <link>https://tv.naver.com/v/27822703</link>
+            <guid>https://tv.naver.com/v/27822703</guid>
+            <pubDate>Fri, 08 Jul 2022 04:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[9:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_82/IPYjQ_1657253144468goEaP_JPEG/cover_0011298687_001_20220708130212338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[기자 눈Noon] 에너지 수급 위기에 전세계 탄소중립 차질?]]></title>
             <link>https://tv.naver.com/v/27822578</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 08 Jul 2022 04:01:26 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_147/qeN5r_1657246108477uFCby_JPEG/cover_0011298636_001_20220708110805808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지구촌 돋보기] “카드로 쌓은 집”…추락하는 가상자산 생태계]]></title>
-            <link>https://tv.naver.com/v/27820635</link>
-            <guid>https://tv.naver.com/v/27820635</guid>
-            <pubDate>Fri, 08 Jul 2022 04:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[5:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_122/Ff8ED_1657246183950eD3kT_JPEG/cover_0011298635_001_20220708110756596.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘거듭된 파문’ 영국 존슨 총리 끝내 당 대표 사임]]></title>
-            <link>https://tv.naver.com/v/27820632</link>
-            <guid>https://tv.naver.com/v/27820632</guid>
-            <pubDate>Fri, 08 Jul 2022 04:01:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_168/xBIRi_1657246113916mKtf8_JPEG/cover_0011298634_001_20220708110748732.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
