@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 12:43:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 13:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대통령실 "먼 인척이라서 배제하는 것도 차별" [김주하 AI 뉴스]]]></title>
+            <link>https://tv.naver.com/v/27834441</link>
+            <guid>https://tv.naver.com/v/27834441</guid>
+            <pubDate>Fri, 08 Jul 2022 13:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_207/qoqpC_1657284824822p98kf_JPEG/cover_cover_20220707155239_20_845_1302915_360_7_0_20220708215301216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스추적]아베 일본 전 총리 사망…용의자는 전 해상자위대원]]></title>
             <link>https://tv.naver.com/v/27833944</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Jul 2022 10:26:24 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_8/7qRCe_1657275123298dnhKF_JPEG/cover_cover_20220708190637_20_552_1303009_360_7_0_20220708191101209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아베, 총 맞고 심폐정지…범인은 전직 자위대원 [김주하 AI 뉴스]]]></title>
-            <link>https://tv.naver.com/v/27831246</link>
-            <guid>https://tv.naver.com/v/27831246</guid>
-            <pubDate>Fri, 08 Jul 2022 10:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_268/EarjS_1657273641760gAO6H_JPEG/cover_cover_20220708184050_20_845_1303007_360_7_0_20220708184701255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
