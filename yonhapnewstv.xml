@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 19:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 20:23:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 7월 10일]]></title>
+            <link>https://tv.naver.com/v/27848066</link>
+            <guid>https://tv.naver.com/v/27848066</guid>
+            <pubDate>Sat, 09 Jul 2022 20:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[30:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_99/sU7rF_1657397015342mPFJg_JPEG/cover_cover_MYH20220708014100038_20220710050101921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대규모 횡령사건 속출…공금은 내 쌈짓돈? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/27845597</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Jul 2022 06:25:55 GMT</pubDate>
             <content:encoded><![CDATA[12:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220709_221/DJaUw_1657345094908LRVWV_JPEG/cover_cover_MYH20220709007100038_20220709143310563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[푸틴 "대러 추가 제재, 에너지 시장 재앙 초래"]]></title>
-            <link>https://tv.naver.com/v/27840859</link>
-            <guid>https://tv.naver.com/v/27840859</guid>
-            <pubDate>Sat, 09 Jul 2022 06:25:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_232/uuPx1_1657344841794vOq4m_JPEG/cover_cover_MYH20220709007200038_20220709143302219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
