@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 01:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 03:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 08 Jul 2022 08:30:33 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_10/tAzfc_1657266827547ptAM8_JPEG/1657266797789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한의 여름나기 비법부터 퍼스널컬러 유행 소식까지!! [티븨가이드北]]]></title>
+            <link>https://tv.naver.com/v/27825298</link>
+            <guid>https://tv.naver.com/v/27825298</guid>
+            <pubDate>Sat, 09 Jul 2022 03:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_100/QhBar_1657260094651jBcPR_JPEG/1657260031017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["샤워기에 말차 라떼?"…'녹물 샤워기' 폭로한 수방사 간부]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Jul 2022 09:33:08 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_225/ECALv_1657096485167rBgNO_JPEG/1657095141119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 동행 논란…대통령실 인서비서관 부인 스페인 같이간 이유는]]></title>
-            <link>https://tv.naver.com/v/27787968</link>
-            <guid>https://tv.naver.com/v/27787968</guid>
-            <pubDate>Wed, 06 Jul 2022 08:28:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_17/rjZAe_1657096029314EUIDN_JPEG/1657095878735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

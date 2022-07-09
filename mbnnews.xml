@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 01:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 03:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신문브리핑 2 "집권 두 달 만에 여당 내분" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/27839314</link>
+            <guid>https://tv.naver.com/v/27839314</guid>
+            <pubDate>Sat, 09 Jul 2022 03:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[30:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_168/sDyOR_1657334786704iIgjB_JPEG/cover_cover_20220709113525_20_606_1303058_360_7_0_20220709114401346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신문브리핑 1 "아베, 유세 중 총격 사망…日 열도 충격" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/27839274</link>
+            <guid>https://tv.naver.com/v/27839274</guid>
+            <pubDate>Sat, 09 Jul 2022 03:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[26:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_32/sOgr3_1657335178592NBOti_JPEG/cover_cover_20220709112839_20_606_1303057_360_7_0_20220709113801353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['채용비리' 5년 재판 결과 분석…경영진 유죄 절반도 안 된다]]></title>
             <link>https://tv.naver.com/v/27838946</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 08 Jul 2022 12:43:48 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220708_251/hmLpk_1657279332949tk6HO_JPEG/cover_cover_20220708201700_20_552_1303026_360_7_0_20220708202101216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동해안 '여름 축제' 오늘부터 시작…강원 해수욕장 83곳 연다]]></title>
-            <link>https://tv.naver.com/v/27832729</link>
-            <guid>https://tv.naver.com/v/27832729</guid>
-            <pubDate>Fri, 08 Jul 2022 11:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_299/WsuEB_1657278867507pqTsE_JPEG/cover_cover_20220708200836_20_552_1303025_360_7_0_20220708201301262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최장수 '극우' 일본 총리 아베 신조…한국과 과거사로 갈등]]></title>
-            <link>https://tv.naver.com/v/27832691</link>
-            <guid>https://tv.naver.com/v/27832691</guid>
-            <pubDate>Fri, 08 Jul 2022 11:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220708_96/4xlqK_1657278760261nauex_JPEG/cover_cover_20220708200534_20_552_1303024_360_7_0_20220708201101228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
