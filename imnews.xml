@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 22:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 23:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말에도 '더블링'‥"예상보다 재확산 빨라"]]></title>
+            <link>https://tv.naver.com/v/27848322</link>
+            <guid>https://tv.naver.com/v/27848322</guid>
+            <pubDate>Sat, 09 Jul 2022 23:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_83/Pqmnp_1657405946922cV7gr_JPEG/cover_cover_today_20220710_070324_1_2_Large_20220710073202375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국 무더위 계속‥내륙 곳곳 소나기]]></title>
             <link>https://tv.naver.com/v/27848293</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Jul 2022 03:23:12 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220709_47/Tleew_1657332420906MSHrU_JPEG/cover_cover_unity_20220709_075502_1_6_Large_20220709110645416.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세대를 넘어서는 해방촌의 해방일지]]></title>
-            <link>https://tv.naver.com/v/27839046</link>
-            <guid>https://tv.naver.com/v/27839046</guid>
-            <pubDate>Sat, 09 Jul 2022 03:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[6:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_237/dJJhk_1657332511375FFJzO_JPEG/cover_cover_unity_20220709_075502_1_5_Large_20220709110637353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
