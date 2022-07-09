@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 07:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 08:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 기온 더 올라…휴일 더위 속 곳곳 소나기]]></title>
+            <link>https://tv.naver.com/v/27842422</link>
+            <guid>https://tv.naver.com/v/27842422</guid>
+            <pubDate>Sat, 09 Jul 2022 08:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_253/dvs8l_1657353035998A2OOG_JPEG/cover_cover_MYH20220709008300038_20220709165002586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규 확진 다시 2만명대로…재확산 현실화]]></title>
             <link>https://tv.naver.com/v/27842018</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Jul 2022 04:28:47 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220709_236/YJFiB_16573386344725VLom_JPEG/cover_cover_MYH20220709005000641_20220709124901970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[천정부지로 치솟은 기름값…배 띄우면 적자?]]></title>
-            <link>https://tv.naver.com/v/27839780</link>
-            <guid>https://tv.naver.com/v/27839780</guid>
-            <pubDate>Sat, 09 Jul 2022 04:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_226/Is9C9_1657338468257wTmfY_JPEG/cover_cover_MYH20220709004900641_20220709124602634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
