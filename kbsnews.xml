@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 19:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 20:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아베 추도 속 일본 참의원 선거…2/3 개헌 가능선 유지]]></title>
+            <link>https://tv.naver.com/v/27859539</link>
+            <guid>https://tv.naver.com/v/27859539</guid>
+            <pubDate>Sun, 10 Jul 2022 20:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_3/fltSh_16574827729566mQjp_JPEG/cover_0011299361_001_20220711045201207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울산 폭염주의보 해제…내일 5~40mm 비]]></title>
             <link>https://tv.naver.com/v/27858387</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Jul 2022 13:28:27 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220710_20/gFk0f_1657457012119VuSFJ_JPEG/cover_0011299400_001_20220710214316487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북농기원, 농촌 마을 ‘경제·문화 활동’ 지원]]></title>
-            <link>https://tv.naver.com/v/27856781</link>
-            <guid>https://tv.naver.com/v/27856781</guid>
-            <pubDate>Sun, 10 Jul 2022 13:28:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_141/fXFCm_1657457006308oXtfy_JPEG/cover_0011299398_001_20220710214308750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
