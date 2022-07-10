@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 07:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 08:26:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] '손흥민의 친구들'이 왔다…토트넘, 프리시즌 투어 위해 입국]]></title>
+            <link>https://tv.naver.com/v/27853724</link>
+            <guid>https://tv.naver.com/v/27853724</guid>
+            <pubDate>Sun, 10 Jul 2022 08:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_219/mTt3Y_1657441230624eBeb1_JPEG/cover_0000984991_001_20220710171901166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["어머니 빠진 종교에 아베가 보낸 영상 보고 범행 결심"]]></title>
             <link>https://tv.naver.com/v/27852496</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Jul 2022 12:37:09 GMT</pubDate>
             <content:encoded><![CDATA[0:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220709_166/yfRlf_1657369690968jyWXv_JPEG/cover_0000984915_001_20220709212801236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스브스뉴스] 어디 학교 궁금해할지 몰라서 걍 다 데려왔어 (06, 05)]]></title>
-            <link>https://tv.naver.com/v/27840510</link>
-            <guid>https://tv.naver.com/v/27840510</guid>
-            <pubDate>Sat, 09 Jul 2022 05:18:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220709_223/G3B0S_1657342911828bEVhS_JPEG/cover_0000984877_001_20220709140101181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
