@@ -4,9 +4,17 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 08:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 09:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스리랑카 시위대, 대통령 집무동 난입, 총리 관저 방화]]></title>
+            <link>https://tv.naver.com/v/27853859</link>
+            <guid>https://tv.naver.com/v/27853859</guid>
+            <pubDate>Sun, 10 Jul 2022 09:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220710_255/1eKXI_1657442327351bOTrF_JPEG/1657442323115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["정상 아니지만 안전한 운항" 대한항공 여객기 비상착륙]]></title>
             <link>https://tv.naver.com/v/27850479</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Jul 2022 22:22:29 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220706_74/eVVhz_1657094063391ni9ak_JPEG/1657094006270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정화조 차량, 전봇대 충돌 후 대규모 정전사태]]></title>
-            <link>https://tv.naver.com/v/27790827</link>
-            <guid>https://tv.naver.com/v/27790827</guid>
-            <pubDate>Wed, 06 Jul 2022 11:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220706_209/8n7HU_16571040557088MKYJ_JPEG/1657103627832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
