@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 13:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 14:32:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤 9시까지 3만 5천여명 확진…8주 만에 3만명대로]]></title>
+            <link>https://tv.naver.com/v/27879719</link>
+            <guid>https://tv.naver.com/v/27879719</guid>
+            <pubDate>Mon, 11 Jul 2022 14:32:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_76/COqu5_1657547743629jCfHX_JPEG/cover_cover_MYH20220711022400038_20220711225502740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생활날씨] 내일 서쪽 중심 무더위…모레 중부 많고 강한 비]]></title>
             <link>https://tv.naver.com/v/27879542</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Jul 2022 12:46:46 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_283/lssyO_1657538738784W5fIA_JPEG/cover_cover_MYH20220711019400038_20220711202501956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취임 두달만에 30%대 지지율로…또 청문회 없이 임명 강행]]></title>
-            <link>https://tv.naver.com/v/27876618</link>
-            <guid>https://tv.naver.com/v/27876618</guid>
-            <pubDate>Mon, 11 Jul 2022 11:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_77/LIlWL_1657538282313nwFLw_JPEG/cover_cover_MYH20220711019300641_20220711201702439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
