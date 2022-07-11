@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 08:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 09:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 7월 11일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/27874368</link>
+            <guid>https://tv.naver.com/v/27874368</guid>
+            <pubDate>Mon, 11 Jul 2022 09:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_287/ZjXKS_1657530820380mwW5m_JPEG/cover_cover_20220711180850_20_845_1303174_360_7_0_20220711181301215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 아베, 내일 가족장…자민당 선거 압승]]></title>
             <link>https://tv.naver.com/v/27871765</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 10 Jul 2022 23:22:55 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_236/xKeKI_16574940961065x09S_JPEG/cover_cover_20220711075704_20_605_1303136_360_7_0_20220711080101197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 방사포 2발 발사…안보실, 군 대비태세 점검]]></title>
-            <link>https://tv.naver.com/v/27860337</link>
-            <guid>https://tv.naver.com/v/27860337</guid>
-            <pubDate>Sun, 10 Jul 2022 23:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_190/o4Lpj_1657493960991LrQGA_JPEG/cover_cover_20220711075355_20_605_1303135_360_7_0_20220711075901248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
