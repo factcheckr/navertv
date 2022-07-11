@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 03:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 04:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 전국 오락가락 비…'서울 낮 32도' 폭염 주춤]]></title>
+            <link>https://tv.naver.com/v/27864688</link>
+            <guid>https://tv.naver.com/v/27864688</guid>
+            <pubDate>Mon, 11 Jul 2022 04:45:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_256/EPrVM_16575119119233c3wJ_JPEG/cover_0000985157_001_20220711125801234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국도 대세는 '신에너지차'…보유량 1천만 대 돌파]]></title>
             <link>https://tv.naver.com/v/27864631</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Jul 2022 02:04:45 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_76/S6hVV_1657497475607BwCbb_JPEG/cover_0000985054_001_20220711085701226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주 찾은 이재명…당권 행보 본격 시동]]></title>
-            <link>https://tv.naver.com/v/27860813</link>
-            <guid>https://tv.naver.com/v/27860813</guid>
-            <pubDate>Mon, 11 Jul 2022 02:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_70/EpS9i_1657497469499tJ907_JPEG/cover_0000985051_001_20220711085648702.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
