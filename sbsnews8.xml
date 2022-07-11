@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:29:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 06:30:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 서대문구 아파트 수도관 파열…지하주차장 물난리]]></title>
+            <link>https://tv.naver.com/v/27868396</link>
+            <guid>https://tv.naver.com/v/27868396</guid>
+            <pubDate>Mon, 11 Jul 2022 06:29:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_97/yqFqa_1657519423082gUSaT_JPEG/cover_0000985174_001_20220711150301141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 다 오르는데 쌀값만 대폭락…현장 가봤더니]]></title>
             <link>https://tv.naver.com/v/27866644</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Jul 2022 02:04:45 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_181/ksFSC_1657497512488JJsh7_JPEG/cover_0000985046_001_20220711085720213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 네 번째 낙마…윤 정부 인사 검증 '도마 위']]></title>
-            <link>https://tv.naver.com/v/27860821</link>
-            <guid>https://tv.naver.com/v/27860821</guid>
-            <pubDate>Mon, 11 Jul 2022 02:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_95/zspBw_1657497487330i1Fbp_JPEG/cover_0000985048_001_20220711085710930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
