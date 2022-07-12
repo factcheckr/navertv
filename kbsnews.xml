@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 13:55:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 14:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사기획 창] 부자나라 연금빈민과 연금부자들, 그리고 ‘상생’]]></title>
+            <link>https://tv.naver.com/v/27903552</link>
+            <guid>https://tv.naver.com/v/27903552</guid>
+            <pubDate>Tue, 12 Jul 2022 14:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[48:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_159/W9ncK_165763474443856YcU_JPEG/cover_0011300879_001_20220712230101157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스9 날씨] 내일 다시 대부분 지역에 장맛비…경기·강원 북부에 150mm 이상]]></title>
             <link>https://tv.naver.com/v/27903007</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 13:54:19 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_63/d7NEQ_1657631124799O7yIR_JPEG/cover_0011300872_001_20220712220501230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화천 ‘파크 골프’ 인기…지역 경제 ‘효자’]]></title>
-            <link>https://tv.naver.com/v/27902664</link>
-            <guid>https://tv.naver.com/v/27902664</guid>
-            <pubDate>Tue, 12 Jul 2022 13:54:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_300/OHzAc_1657631116336sk9oO_JPEG/cover_0011300871_001_20220712220418101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
