@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 08:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 드러누워 버린 쏘니와 케인 이런 모습 처음이야!]]></title>
+            <link>https://tv.naver.com/v/27897524</link>
+            <guid>https://tv.naver.com/v/27897524</guid>
+            <pubDate>Tue, 12 Jul 2022 09:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_203/OEOgY_1657617586602XCAwT_JPEG/cover_cover_220712_sonkane_640_20220712181803953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 밤까지 충청·남부 소나기‥내일 중부 강한 비]]></title>
             <link>https://tv.naver.com/v/27895471</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 02:19:14 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_1/EnJer_165759085521868meH_JPEG/cover_cover_p20220712_6_20220712105404309.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무인 주문기 앞에 선 시각장애인들‥"소리없는 벽"]]></title>
-            <link>https://tv.naver.com/v/27884780</link>
-            <guid>https://tv.naver.com/v/27884780</guid>
-            <pubDate>Tue, 12 Jul 2022 02:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_48/qqBi8_1657587174771j7KHz_JPEG/cover_cover_desk_20220711_202259_1_17_Large_20220712095202883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
