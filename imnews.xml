@@ -4,16 +4,24 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 09:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 10:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 하루아침에 없어졌다 하루아침에 부활한 이것]]></title>
+            <link>https://tv.naver.com/v/27898269</link>
+            <guid>https://tv.naver.com/v/27898269</guid>
+            <pubDate>Tue, 12 Jul 2022 10:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_133/I6Cmf_1657619571755vPGV4_JPEG/cover_cover_220712_yoon_640_20220712185102994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엠빅뉴스] 드러누워 버린 쏘니와 케인 이런 모습 처음이야!]]></title>
             <link>https://tv.naver.com/v/27897524</link>
             <guid>https://tv.naver.com/v/27897524</guid>
             <pubDate>Tue, 12 Jul 2022 09:24:50 GMT</pubDate>
             <content:encoded><![CDATA[3:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_203/OEOgY_1657617586602XCAwT_JPEG/cover_cover_220712_sonkane_640_20220712181803953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_50/WpLAh_16576199930185ydDy_JPEG/cover_cover_220712_sonkane_640_20220712181803953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 밤까지 충청·남부 소나기‥내일 중부 강한 비]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 02:19:14 GMT</pubDate>
             <content:encoded><![CDATA[6:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_159/z9RAu_1657598634258fW9j4_PNG/1657598630155.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[World Now_영상] 해변을 달리는 바다사자! 암컷 차지 위해 싸우는 중]]></title>
-            <link>https://tv.naver.com/v/27885931</link>
-            <guid>https://tv.naver.com/v/27885931</guid>
-            <pubDate>Tue, 12 Jul 2022 02:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_1/EnJer_165759085521868meH_JPEG/cover_cover_p20220712_6_20220712105404309.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
