@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 20:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 21:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미, 모든 성인에 4차 접종 검토…WHO "비상사태 유지"]]></title>
+            <link>https://tv.naver.com/v/27906964</link>
+            <guid>https://tv.naver.com/v/27906964</guid>
+            <pubDate>Tue, 12 Jul 2022 21:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_26/F2LLc_1657660619244IdWtE_JPEG/cover_0000985581_001_20220713061601191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/27906113</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 12:47:13 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_179/u5l6a_1657629993294i4VxK_JPEG/cover_0000985532_001_20220712214511718.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세무서장들 '짬짬이 의혹' 수사]]></title>
-            <link>https://tv.naver.com/v/27902237</link>
-            <guid>https://tv.naver.com/v/27902237</guid>
-            <pubDate>Tue, 12 Jul 2022 12:47:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_258/GQTsN_1657629978000gL2ha_JPEG/cover_0000985533_001_20220712214501215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

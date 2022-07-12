@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 20:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 21:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[250회_코로나19 및 온열질환 예방 요령]]></title>
+            <link>https://tv.naver.com/v/27906931</link>
+            <guid>https://tv.naver.com/v/27906931</guid>
+            <pubDate>Tue, 12 Jul 2022 21:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[14:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_207/Wx4pP_1657660265131VkPtG_JPEG/cover_cover_20220713055843_20_849_1303310_360_7_0_20220713060501259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 박용진 "두 번 연속 선거서 진 장수 이재명에 지휘권 어떻게 맡기나"]]></title>
             <link>https://tv.naver.com/v/27901945</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 11:19:57 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_298/TkviO_1657621685898QoKfD_JPEG/cover_cover_20220712192127_20_552_1303276_360_7_0_20220712192701214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우회전 위반 단속 첫날 "잘 몰랐습니다"…한 달 뒤엔 범칙금]]></title>
-            <link>https://tv.naver.com/v/27898892</link>
-            <guid>https://tv.naver.com/v/27898892</guid>
-            <pubDate>Tue, 12 Jul 2022 10:26:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_146/fwj4T_16576215761138OGfy_JPEG/cover_cover_20220712191846_20_552_1303275_360_7_0_20220712192501223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
