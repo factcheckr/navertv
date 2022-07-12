@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 10:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 11:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 12일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27899145</link>
+            <guid>https://tv.naver.com/v/27899145</guid>
+            <pubDate>Tue, 12 Jul 2022 11:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_291/DleP0_16576222052333iXUG_JPEG/cover_2022071290109_thumb_073252_20220712193601803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 탈북어민, 판문점 강제북송 사진 단독입수…군사분계선 넘지 않으려 안간힘]]></title>
             <link>https://tv.naver.com/v/27898071</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Jul 2022 13:48:45 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220711_249/JgaPs_1657543944019MWtzX_JPEG/cover_2022071190167_thumb_094731_20220711215131668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2개월만에 검찰위 구성, 총장 인선 시작…이원석·노정연·배성범 등 거론]]></title>
-            <link>https://tv.naver.com/v/27878343</link>
-            <guid>https://tv.naver.com/v/27878343</guid>
-            <pubDate>Mon, 11 Jul 2022 13:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220711_272/sBuee_1657543937846JHo22_JPEG/cover_2022071190163_thumb_094716_20220711215126135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
