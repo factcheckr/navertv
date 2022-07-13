@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 07:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 08:28:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광명역 흙탕물 침수…“열차운행 지장 없어”]]></title>
+            <link>https://tv.naver.com/v/27919127</link>
+            <guid>https://tv.naver.com/v/27919127</guid>
+            <pubDate>Wed, 13 Jul 2022 08:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_69/Cd5l3_1657700062284XVqGi_JPEG/cover_0000230304_001_20220713171401674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출소 1년 만에 또…귀갓길 여성상대 강도]]></title>
             <link>https://tv.naver.com/v/27914906</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 12:48:01 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_285/FUyNQ_16576280577766NhMA_JPEG/cover_0000230263_001_20220712211313304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우회전 ‘일단 멈춤’ 단속 첫날, 1분에 2명꼴 위반…“헷갈려요”]]></title>
-            <link>https://tv.naver.com/v/27901533</link>
-            <guid>https://tv.naver.com/v/27901533</guid>
-            <pubDate>Tue, 12 Jul 2022 12:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_213/VQqIp_16576280690579GMWq_JPEG/cover_0000230262_001_20220712211304092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
