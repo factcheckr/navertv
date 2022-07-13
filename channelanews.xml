@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 02:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 04:01:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사상 첫 ‘빅스텝’…금리 0.5%p 인상]]></title>
+            <link>https://tv.naver.com/v/27912185</link>
+            <guid>https://tv.naver.com/v/27912185</guid>
+            <pubDate>Wed, 13 Jul 2022 04:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_89/4PzvO_1657683313433Fu3Tl_JPEG/cover_0000230285_001_20220713123401719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 확진자 4만 266명…4차 접종 대상 확대]]></title>
+            <link>https://tv.naver.com/v/27912099</link>
+            <guid>https://tv.naver.com/v/27912099</guid>
+            <pubDate>Wed, 13 Jul 2022 04:01:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_65/BFsI9_1657683015771M7qUX_JPEG/cover_0000230284_001_20220713122901666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]‘대통령 사진’ 다시 걸까 / 생중계된 비밀 대화 / 민형배, 복당 준비?]]></title>
             <link>https://tv.naver.com/v/27902945</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 12 Jul 2022 11:19:49 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220712_190/cXrww_1657624141577q5Dyu_JPEG/cover_0000230250_001_20220712200730554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지면에 충돌 직전 헬기…기적의 구사일생]]></title>
-            <link>https://tv.naver.com/v/27899876</link>
-            <guid>https://tv.naver.com/v/27899876</guid>
-            <pubDate>Tue, 12 Jul 2022 11:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_9/3XlKx_1657624070743pkWgz_JPEG/cover_0000230251_001_20220712200723097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어느 의원님의 발차기…지하철 승강기 향해 ‘쾅’]]></title>
-            <link>https://tv.naver.com/v/27899870</link>
-            <guid>https://tv.naver.com/v/27899870</guid>
-            <pubDate>Tue, 12 Jul 2022 11:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220712_127/l0NkY_16576241973668d3Xn_JPEG/cover_0000230252_001_20220712200713009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
