@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 13:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 14:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 내일 오전까지 10~60mm 비…밤사이 열대야]]></title>
+            <link>https://tv.naver.com/v/27927031</link>
+            <guid>https://tv.naver.com/v/27927031</guid>
+            <pubDate>Wed, 13 Jul 2022 14:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_271/dn3lk_1657721904615TTKMh_JPEG/cover_0011301683_001_20220713231801190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 강성주 박사 ‘우리가 빛의 속도로 갈 수 없다면…’]]></title>
             <link>https://tv.naver.com/v/27925930</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Jul 2022 13:45:47 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_273/l9WMO_1657718387390FfDY1_JPEG/cover_0011301556_001_20220713221901555.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 원전 확대…신한울 3·4호기 공사 앞당겨]]></title>
-            <link>https://tv.naver.com/v/27925699</link>
-            <guid>https://tv.naver.com/v/27925699</guid>
-            <pubDate>Wed, 13 Jul 2022 13:45:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_123/kdQtb_1657718293798ectL2_JPEG/cover_0011301676_001_20220713221801202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
