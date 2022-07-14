@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 02:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 04:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규확진자 3만 9196명…이틀 연속 4만 명 안팎]]></title>
+            <link>https://tv.naver.com/v/27936072</link>
+            <guid>https://tv.naver.com/v/27936072</guid>
+            <pubDate>Thu, 14 Jul 2022 04:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_77/1UP3Q_1657769269902560ih_JPEG/cover_0000230347_001_20220714122601754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[교사 5명 있었는데…3살 아이, 통학버스 바닥에 끼어 70m 끌려가]]></title>
             <link>https://tv.naver.com/v/27931136</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Jul 2022 11:20:12 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_173/m9iOy_1657710952766ffDhr_JPEG/cover_0000230312_001_20220713201417878.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘잠행’ 이준석 무등산 올라 “광주시민께 죄송”]]></title>
-            <link>https://tv.naver.com/v/27923244</link>
-            <guid>https://tv.naver.com/v/27923244</guid>
-            <pubDate>Wed, 13 Jul 2022 11:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[6:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_205/WG1Hm_16577110619194pD8p_JPEG/cover_0000230311_001_20220713201401673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
