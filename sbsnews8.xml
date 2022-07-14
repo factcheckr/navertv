@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 20:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 21:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 하루 평균 신규 확진자 13만 명 넘었다…사망도 증가]]></title>
+            <link>https://tv.naver.com/v/27955906</link>
+            <guid>https://tv.naver.com/v/27955906</guid>
+            <pubDate>Thu, 14 Jul 2022 21:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_290/XP0Cz_1657833482341nJxns_JPEG/cover_0000986117_001_20220715061701161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/27954757</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 13:44:55 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220714_282/TYKcX_1657804945004tUnfx_JPEG/cover_0000986048_001_20220714222101212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[14년째 구한 목숨만 수천 명…의사도 아닌 이 사람 누구]]></title>
-            <link>https://tv.naver.com/v/27951619</link>
-            <guid>https://tv.naver.com/v/27951619</guid>
-            <pubDate>Thu, 14 Jul 2022 13:44:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_90/S8QVH_1657804938845bcPk1_JPEG/cover_0000986050_001_20220714222042342.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

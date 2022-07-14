@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 20:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 21:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[251_기상 전망과 폭염 시 행동요령]]></title>
+            <link>https://tv.naver.com/v/27955862</link>
+            <guid>https://tv.naver.com/v/27955862</guid>
+            <pubDate>Thu, 14 Jul 2022 21:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[14:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_196/E0w3B_1657833112412CoUTB_JPEG/cover_cover_20220715060117_20_849_1303506_360_7_0_20220715060601264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] '프레스룸에 온다' 하태경 국민의힘 의원]]></title>
             <link>https://tv.naver.com/v/27950394</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 11:19:26 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220714_105/BUUb5_16577947119056bUye_JPEG/cover_cover_20220714192302_20_552_1303474_360_7_0_20220714193101209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대우조선 사내하청 파업 43일간 5700억 손실…임직원·거제시민 "파업 철회하라"]]></title>
-            <link>https://tv.naver.com/v/27947701</link>
-            <guid>https://tv.naver.com/v/27947701</guid>
-            <pubDate>Thu, 14 Jul 2022 10:26:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_88/QRUEO_1657794382497dlEG5_JPEG/cover_cover_20220714191713_20_552_1303473_360_7_0_20220714192503674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
