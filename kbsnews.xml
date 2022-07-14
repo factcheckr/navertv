@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 16:39:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 17:33:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전파력 강한 ‘BA.2.75’ 변이 첫 확인]]></title>
+            <link>https://tv.naver.com/v/27954850</link>
+            <guid>https://tv.naver.com/v/27954850</guid>
+            <pubDate>Thu, 14 Jul 2022 17:32:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_131/T4a5U_16578183455237dp7n_JPEG/cover_0011302494_001_20220715020501195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[속초 아바이마을 주민 친화 골목길 조성 준공]]></title>
             <link>https://tv.naver.com/v/27953585</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 15:27:35 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_85/Wueqj_1657811330804dT3VL_JPEG/cover_0011302502_001_20220715000833588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 소나무재선충병 급증…"방제 예산 부족"]]></title>
-            <link>https://tv.naver.com/v/27953245</link>
-            <guid>https://tv.naver.com/v/27953245</guid>
-            <pubDate>Thu, 14 Jul 2022 15:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_249/zHvcU_1657811358317aflNf_JPEG/cover_0011302501_001_20220715000825174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
