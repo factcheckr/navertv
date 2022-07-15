@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 04:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 05:43:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['경찰국' 다음 달 2일 출범‥"3개 과·16명"]]></title>
+            <link>https://tv.naver.com/v/27963040</link>
+            <guid>https://tv.naver.com/v/27963040</guid>
+            <pubDate>Fri, 15 Jul 2022 05:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_68/2o3xP_1657861716934PG8zF_JPEG/cover_cover_14news_20220715_135737_1_2_Large_20220715140804232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 남부 폭염 기승‥전국 곳곳 요란한 소나기]]></title>
             <link>https://tv.naver.com/v/27961254</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 23:23:44 GMT</pubDate>
             <content:encoded><![CDATA[5:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_258/Wzp1n_1657838969233wt26y_JPEG/cover_cover_today_20220715_073514_2_48_Large_20220715074732386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[재택플러스] '텃새'된 철새‥대책도 없어]]></title>
-            <link>https://tv.naver.com/v/27956352</link>
-            <guid>https://tv.naver.com/v/27956352</guid>
-            <pubDate>Thu, 14 Jul 2022 23:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_280/n0G3b_1657838889366kKLuG_JPEG/cover_cover_today_20220715_073121_2_47_Large_20220715074724568.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
