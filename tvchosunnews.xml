@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 10:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 11:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 15일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/27971319</link>
+            <guid>https://tv.naver.com/v/27971319</guid>
+            <pubDate>Fri, 15 Jul 2022 11:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_297/wuJYW_1657882004301UEVjG_JPEG/cover_2022071590093_thumb_074156_20220715194601806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["아베 총격범 모친, 땅·집까지 팔아 기부…종교단체 교주 日 방문때 공격 계획"]]></title>
             <link>https://tv.naver.com/v/27957282</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 13:45:33 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220714_180/EayM8_165780312637595KkG_JPEG/cover_2022071490141_thumb_094936_20220714215101716.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야 사개특위 합의…'방송 정책' 과방위 배분이 새 쟁점]]></title>
-            <link>https://tv.naver.com/v/27950760</link>
-            <guid>https://tv.naver.com/v/27950760</guid>
-            <pubDate>Thu, 14 Jul 2022 13:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220714_260/0tTSo_1657802839897ICzXk_JPEG/cover_2022071490131_thumb_094332_20220714214610388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
