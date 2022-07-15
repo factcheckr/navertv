@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 05:43:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 06:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 남부 무더위 기승 서울 29도‥곳곳 요란한 소나기]]></title>
+            <link>https://tv.naver.com/v/27964885</link>
+            <guid>https://tv.naver.com/v/27964885</guid>
+            <pubDate>Fri, 15 Jul 2022 06:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_136/zAG9h_1657866321769h5ICT_JPEG/cover_cover_14news_20220715_151812_1_8_Large_20220715152503095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['행안위·과방위' 진통‥원 구성 협상 난항]]></title>
+            <link>https://tv.naver.com/v/27964315</link>
+            <guid>https://tv.naver.com/v/27964315</guid>
+            <pubDate>Fri, 15 Jul 2022 06:28:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_232/41kgj_16578647897762BrVI_JPEG/cover_cover_14news_20220715_144718_1_6_Large_20220715145902626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['경찰국' 다음 달 2일 출범‥"3개 과·16명"]]></title>
             <link>https://tv.naver.com/v/27963040</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 14 Jul 2022 23:23:44 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_180/UvPzn_1657839099545bzQBQ_JPEG/cover_cover_today_20220715_073943_2_50_Large_20220715075102456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스투데이] BA 2.75 변이 국내 첫 확인‥오늘 4만 명 안팎]]></title>
-            <link>https://tv.naver.com/v/27956391</link>
-            <guid>https://tv.naver.com/v/27956391</guid>
-            <pubDate>Thu, 14 Jul 2022 23:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:46:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_26/M9Luc_1657852197079hHCaO_PNG/1657852176672.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[기후환경 리포트] 기후변화에 지친 나무들‥첫 정밀 건강검진 실시]]></title>
-            <link>https://tv.naver.com/v/27956353</link>
-            <guid>https://tv.naver.com/v/27956353</guid>
-            <pubDate>Thu, 14 Jul 2022 23:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[5:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_258/Wzp1n_1657838969233wt26y_JPEG/cover_cover_today_20220715_073514_2_48_Large_20220715074732386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
