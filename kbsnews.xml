@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:29:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/27966190</link>
+            <guid>https://tv.naver.com/v/27966190</guid>
+            <pubDate>Fri, 15 Jul 2022 07:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[7:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_7/Au5mQ_16578695669886y9Uf_JPEG/cover_0011302935_001_20220715161601697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[크랩] ‘고액 알바’ 탐내다 전과자가 될 수 있는 이유]]></title>
             <link>https://tv.naver.com/v/27964516</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 04:20:01 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_102/UXmaR_1657855711613OEK4b_JPEG/cover_0011302877_001_20220715122810746.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나19 대출, 나눠 갚게 한다…형평성 논란도]]></title>
-            <link>https://tv.naver.com/v/27961050</link>
-            <guid>https://tv.naver.com/v/27961050</guid>
-            <pubDate>Fri, 15 Jul 2022 04:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_67/ECwsf_1657855726575kKQoT_JPEG/cover_0011302876_001_20220715122801234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
