@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 23:23:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 02:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 15 Jul 2022 23:22:08 GMT</pubDate>
             <content:encoded><![CDATA[6:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_16/oje3H_1657927285541jMIfU_JPEG/cover_cover_unity_20220716_075115_1_5_Large_20220716081937619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[건강은 스스로 챙겨라? 북한의 폭염 대처법]]></title>
+            <link>https://tv.naver.com/v/27977459</link>
+            <guid>https://tv.naver.com/v/27977459</guid>
+            <pubDate>Sat, 16 Jul 2022 02:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[11:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_109/2ivRY_1657927353064WI67b_JPEG/cover_cover_unity_20220716_074528_1_4_Large_20220716081928419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신·구 정권 충돌 '어민 북송' 핵심 쟁점]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 12:50:55 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220715_48/fvmdC_1657885374529Pc9A7_JPEG/cover_cover_desk_20220715_203558_1_20_Large_20220715204211326.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새끼고양이 4마리 매장 논란‥"고양이 없는 걸 확인하고 덮었다"]]></title>
-            <link>https://tv.naver.com/v/27972261</link>
-            <guid>https://tv.naver.com/v/27972261</guid>
-            <pubDate>Fri, 15 Jul 2022 12:50:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220715_216/yiMsK_1657885368360930aa_JPEG/cover_cover_desk_20220715_203409_1_19_Large_20220715204203201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
