@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 19:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 20:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 7월 17일]]></title>
+            <link>https://tv.naver.com/v/27988933</link>
+            <guid>https://tv.naver.com/v/27988933</guid>
+            <pubDate>Sat, 16 Jul 2022 20:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[30:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220717_107/dK7bq_1658001808302odDzI_JPEG/cover_cover_MYH20220715016200038_20220717050101944.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지구의 역습 사상 첫 '6월 열대야' [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/27986461</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 07:20:20 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_75/IDdtP_1657954509296iTAvp_JPEG/cover_cover_MYH20220716006600038_20220716155402436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스초점] 3년 만에 열린 '퀴어축제'…찬반 갈등 고조]]></title>
-            <link>https://tv.naver.com/v/27981518</link>
-            <guid>https://tv.naver.com/v/27981518</guid>
-            <pubDate>Sat, 16 Jul 2022 07:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[16:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_229/4ldHp_1657954919429fR1Oa_JPEG/cover_cover_MYH20220716006500038_20220716155302179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
