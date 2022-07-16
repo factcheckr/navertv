@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 15:23:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 16:29:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["더 좋은 사람으로 남겠다"...눈물 흘린 롯데 이대호]]></title>
+            <link>https://tv.naver.com/v/27988329</link>
+            <guid>https://tv.naver.com/v/27988329</guid>
+            <pubDate>Sat, 16 Jul 2022 16:28:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220717_211/n51TK_1657988626389ul0F7_JPEG/cover_cover_202207170117337736_t_20220717012301942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 연이은 악재에 주저앉은 中..."목표 물 건너가"]]></title>
             <link>https://tv.naver.com/v/27987907</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 13:29:09 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_116/l9wbu_1657977855690YIVMA_JPEG/cover_cover_202207162208013116_t_20220716222312726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["10분 만에 땀범벅"...대학 청소 근무 환경 어떻길래?]]></title>
-            <link>https://tv.naver.com/v/27986754</link>
-            <guid>https://tv.naver.com/v/27986754</guid>
-            <pubDate>Sat, 16 Jul 2022 13:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_177/DYw5C_1657977883558eTrI8_JPEG/cover_cover_202207162204538271_t_20220716222302594.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
