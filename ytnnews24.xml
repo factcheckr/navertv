@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 06:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 07:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MZ 세대를 잡아라!...국내 최대 규모 캐릭터 전시회]]></title>
+            <link>https://tv.naver.com/v/27981207</link>
+            <guid>https://tv.naver.com/v/27981207</guid>
+            <pubDate>Sat, 16 Jul 2022 07:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_135/aDuT9_1657952880723rDdr7_JPEG/cover_cover_202207161519313372_t_20220716152702153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[英 의원, 尹 대통령에 서한..."어민 북송 진상 규명"]]></title>
             <link>https://tv.naver.com/v/27981193</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Jul 2022 23:22:52 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_9/oHRGS_1657924891595lnR2x_JPEG/cover_cover_202207160030305869_t_20220716074103795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이 옷 입고 합격하세요"...'무료'로 빌리는 공유옷장]]></title>
-            <link>https://tv.naver.com/v/27977315</link>
-            <guid>https://tv.naver.com/v/27977315</guid>
-            <pubDate>Fri, 15 Jul 2022 23:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_125/Q3EzK_16579247117804UMlS_JPEG/cover_cover_202207160730499756_t_20220716073704069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
