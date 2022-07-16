@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 20:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 21:19:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[252_호우 및 강풍 대처 요령]]></title>
+            <link>https://tv.naver.com/v/27989034</link>
+            <guid>https://tv.naver.com/v/27989034</guid>
+            <pubDate>Sat, 16 Jul 2022 21:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[15:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220717_199/7nXP6_1658005400610MwyV6_JPEG/cover_cover_20220717054301_20_849_1303636_360_7_0_20220717055701211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7월 16일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/27985230</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 02:06:38 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_179/t54eR_1657936399863zkS2x_JPEG/cover_cover_20220716104810_20_675_1303606_360_7_0_20220716105203022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한 그릇에 2만 원 '금계탕' 된 삼계탕…손수 장봐서 해먹어도 부담]]></title>
-            <link>https://tv.naver.com/v/27978330</link>
-            <guid>https://tv.naver.com/v/27978330</guid>
-            <pubDate>Sat, 16 Jul 2022 02:06:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_78/lVFcX_16579361569910F7nA_JPEG/cover_cover_20220716104250_20_675_1303605_360_7_0_20220716104801279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
