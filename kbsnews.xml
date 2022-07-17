@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 09:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 10:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7 날씨] 내일, 전국 장맛비!]]></title>
+            <link>https://tv.naver.com/v/27995327</link>
+            <guid>https://tv.naver.com/v/27995327</guid>
+            <pubDate>Sun, 17 Jul 2022 10:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220717_4/jLEH4_1658052806135vxLCq_JPEG/cover_0011303573_001_20220717191301397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스5 날씨] 내일, 전국 장맛비…남부, 집중호우 주의하세요]]></title>
             <link>https://tv.naver.com/v/27993936</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Jul 2022 13:28:09 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220716_83/uPeTJ_1657976997205F5Q2k_JPEG/cover_0011303476_001_20220716220913920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우즈 탈락, 18번 홀 다리 건넌 후 눈물…“은퇴는 아직”]]></title>
-            <link>https://tv.naver.com/v/27986573</link>
-            <guid>https://tv.naver.com/v/27986573</guid>
-            <pubDate>Sat, 16 Jul 2022 13:28:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220716_217/d0W7U_16579769681675ub9N_JPEG/cover_0011303475_001_20220716220903439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
