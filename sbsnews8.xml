@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 17:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 18:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/28022161</link>
+            <guid>https://tv.naver.com/v/28022161</guid>
+            <pubDate>Mon, 18 Jul 2022 18:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_11/9bfwR_1658165668765aeYJ2_JPEG/cover_0000986834_001_20220719023401200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 남부 아침까지 가끔 비…낮 최고 서울 30도 · 대구 34도]]></title>
+            <link>https://tv.naver.com/v/28022144</link>
+            <guid>https://tv.naver.com/v/28022144</guid>
+            <pubDate>Mon, 18 Jul 2022 18:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_175/4LhON_1658165504926DRz0l_JPEG/cover_0000986833_001_20220719023101176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바심을 넘어라…우상혁의 '위대한 도전']]></title>
             <link>https://tv.naver.com/v/28022102</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 18 Jul 2022 13:48:37 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220718_99/bAM97_1658151288093HfQcM_JPEG/cover_0000986793_001_20220718223320982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월급 적고 미래도 없다…공무원 인기 시들]]></title>
-            <link>https://tv.naver.com/v/28019338</link>
-            <guid>https://tv.naver.com/v/28019338</guid>
-            <pubDate>Mon, 18 Jul 2022 13:48:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_219/Xro56_1658151286451cSU93_JPEG/cover_0000986797_001_20220718223310897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 쇼핑몰서 무차별 총격…시민이 총격범 사살]]></title>
-            <link>https://tv.naver.com/v/28019331</link>
-            <guid>https://tv.naver.com/v/28019331</guid>
-            <pubDate>Mon, 18 Jul 2022 13:48:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220718_131/1zZx2_1658151247517Ljk7r_JPEG/cover_0000986799_001_20220718223301177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
