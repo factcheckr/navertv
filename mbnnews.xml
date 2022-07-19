@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 20:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 21:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[253회_코로나19 및 온열질환 예방 요령]]></title>
+            <link>https://tv.naver.com/v/28045763</link>
+            <guid>https://tv.naver.com/v/28045763</guid>
+            <pubDate>Tue, 19 Jul 2022 21:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[14:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_264/Wx8D0_1658265248326DwUny_JPEG/cover_cover_20220720060302_20_849_1303870_1080_7_20220720060901232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 윤 대통령, 대우조선 파업에 "기다릴 만큼 기다렸다" / 통일부, 북송 사진·영상 공개에 여야 충돌]]></title>
             <link>https://tv.naver.com/v/28041839</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Jul 2022 10:27:18 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220719_7/5Zolk_1658225711205HKaeL_JPEG/cover_cover_20220719191154_20_552_1303839_1080_7_20220719191401260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7월 19일 김주하 앵커가 전하는 MBN 뉴스7 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/28038499</link>
-            <guid>https://tv.naver.com/v/28038499</guid>
-            <pubDate>Tue, 19 Jul 2022 10:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_71/yTjad_1658225343765d9Ht5_JPEG/cover_cover_20220719190538_20_552_1303838_1080_7_20220719190801262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
