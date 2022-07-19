@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 21:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 22:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 20일 굿모닝 MBN 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/28046115</link>
+            <guid>https://tv.naver.com/v/28046115</guid>
+            <pubDate>Tue, 19 Jul 2022 22:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_95/yda0t_16582693723731k74e_JPEG/cover_cover_20220720071653_20_605_1303871_1080_7_20220720072201238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[253회_코로나19 및 온열질환 예방 요령]]></title>
             <link>https://tv.naver.com/v/28045763</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Jul 2022 10:27:18 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220719_175/YNQ78_1658225966143F8dk7_JPEG/cover_cover_20220719191429_20_552_1303840_1080_7_20220719191801248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 "기다릴 만큼 기다렸다"…공권력 투입 시사]]></title>
-            <link>https://tv.naver.com/v/28038597</link>
-            <guid>https://tv.naver.com/v/28038597</guid>
-            <pubDate>Tue, 19 Jul 2022 10:27:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_7/5Zolk_1658225711205HKaeL_JPEG/cover_cover_20220719191154_20_552_1303839_1080_7_20220719191401260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
