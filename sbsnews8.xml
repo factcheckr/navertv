@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 14:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 15:31:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 부산 사하구서 불법 유턴 승용차, 오토바이 부딪혀…운전자 중상]]></title>
+            <link>https://tv.naver.com/v/28043524</link>
+            <guid>https://tv.naver.com/v/28043524</guid>
+            <pubDate>Tue, 19 Jul 2022 15:30:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_120/AcIYW_1658241434556EgQQB_JPEG/cover_0000987077_001_20220719233701175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비디오머그] 미티어 미사일 풀 장착 KF-21…동급의 라팔과 유로파이터 타이푼에 '맞짱']]></title>
             <link>https://tv.naver.com/v/28043115</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Jul 2022 13:44:48 GMT</pubDate>
             <content:encoded><![CDATA[0:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220719_260/en4va_1658236630987CepqR_JPEG/cover_0000987069_001_20220719221701204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거실 바로 앞에 16층 아파트…구청에선 "문제없다"?]]></title>
-            <link>https://tv.naver.com/v/28042116</link>
-            <guid>https://tv.naver.com/v/28042116</guid>
-            <pubDate>Tue, 19 Jul 2022 13:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220719_284/kTCxR_1658236638785wWNYR_JPEG/cover_0000986155_001_20220719221522625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
