@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 05:28:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 06:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제주서 렌터카 전복 관광객 7명 사상]]></title>
+            <link>https://tv.naver.com/v/28055523</link>
+            <guid>https://tv.naver.com/v/28055523</guid>
+            <pubDate>Wed, 20 Jul 2022 06:27:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_284/2dKpz_1658297538083j5LTc_JPEG/cover_0011305652_001_20220720151201209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 밤부터 장맛비 내려요!]]></title>
             <link>https://tv.naver.com/v/28053958</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 04:01:19 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_210/n9YAR_1658287278301HgNnl_JPEG/cover_0011305585_001_20220720122101194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“7월 30일·31일 휴가 인파 최대”…교통분산·방역강화 대책 나왔다]]></title>
-            <link>https://tv.naver.com/v/28050989</link>
-            <guid>https://tv.naver.com/v/28050989</guid>
-            <pubDate>Wed, 20 Jul 2022 04:01:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_194/2Edjn_1658286950752RztaR_JPEG/cover_0011305584_001_20220720121501188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
