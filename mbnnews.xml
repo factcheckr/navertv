@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:28:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 09:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBN 뉴스파이터-2022년 7월 21일 김명준 앵커 오프닝]]></title>
+            <link>https://tv.naver.com/v/28084647</link>
+            <guid>https://tv.naver.com/v/28084647</guid>
+            <pubDate>Thu, 21 Jul 2022 09:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_86/bEYk3_1658395289707elvXD_JPEG/cover_cover_20220721181651_20_673_1304019_1080_7_20220721182101228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] '尹정부 첫 사면' 대상자는?]]></title>
             <link>https://tv.naver.com/v/28081659</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 23:24:13 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_22/Xs8xt_165835847119074tb4_JPEG/cover_cover_20220721080311_20_605_1303984_1080_7_20220721080701224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창경궁-종묘 숲길 90년 만에 이어져…복원사업 완료]]></title>
-            <link>https://tv.naver.com/v/28070259</link>
-            <guid>https://tv.naver.com/v/28070259</guid>
-            <pubDate>Wed, 20 Jul 2022 23:24:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_230/UoPzH_1658358325335jOjRx_JPEG/cover_cover_20220721080057_20_605_1303983_1080_7_20220721080503465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
