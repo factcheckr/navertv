@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 02:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 04:01:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파업 ‘손배소 취하’ 평행선…하청노사 협상 재개]]></title>
+            <link>https://tv.naver.com/v/28074718</link>
+            <guid>https://tv.naver.com/v/28074718</guid>
+            <pubDate>Thu, 21 Jul 2022 04:01:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_50/nUYV8_1658373903213WjaSn_JPEG/cover_0000230736_001_20220721122401717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]BTS와 팔 번쩍 / 정의당 ‘아 옛날이여’ / 민주당 계파 갈등 ‘그땐 그때고’]]></title>
             <link>https://tv.naver.com/v/28064515</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Jul 2022 11:19:12 GMT</pubDate>
             <content:encoded><![CDATA[6:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_164/hm56P_1658315665771ziJq1_JPEG/cover_0000230698_001_20220720201123222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[靑, 북송 3시간 전 법 검토 요청…법무부 “법 근거 없다” 결론]]></title>
-            <link>https://tv.naver.com/v/28063111</link>
-            <guid>https://tv.naver.com/v/28063111</guid>
-            <pubDate>Wed, 20 Jul 2022 11:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[13:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_76/tpatv_1658315810991JMSUz_JPEG/cover_0000230696_001_20220720201101818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
