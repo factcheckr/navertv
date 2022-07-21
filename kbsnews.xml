@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 13:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 14:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 31도…내일 5~40mm 비]]></title>
+            <link>https://tv.naver.com/v/28089987</link>
+            <guid>https://tv.naver.com/v/28089987</guid>
+            <pubDate>Thu, 21 Jul 2022 14:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_163/rRKje_1658412501207MujgI_JPEG/cover_0011306782_001_20220721230801196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘초품아’의 배신, 아파트 밀집지 사고 더 많았다]]></title>
             <link>https://tv.naver.com/v/28089178</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Jul 2022 13:43:48 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_195/QVOWd_1658409359897kQebS_JPEG/cover_0011306654_001_20220721221513373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘유리지갑’ 월급생활자 세 부담 감소…최대 83만 원]]></title>
-            <link>https://tv.naver.com/v/28088995</link>
-            <guid>https://tv.naver.com/v/28088995</guid>
-            <pubDate>Thu, 21 Jul 2022 13:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_60/7h5Cp_16584093527472uh86_JPEG/cover_0011306653_001_20220721221501328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
