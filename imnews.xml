@@ -4,9 +4,33 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 06:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 벼락·돌풍 전국 소나기‥내일 저녁부터 비]]></title>
+            <link>https://tv.naver.com/v/28101393</link>
+            <guid>https://tv.naver.com/v/28101393</guid>
+            <pubDate>Fri, 22 Jul 2022 06:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_75/U9GEt_1658470999224IBDue_JPEG/cover_cover_14news_20220722_151626_1_8_Large_20220722152302539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원 구성 합의‥행안·과방위 '1년씩 번갈아']]></title>
+            <link>https://tv.naver.com/v/28100947</link>
+            <guid>https://tv.naver.com/v/28100947</guid>
+            <pubDate>Fri, 22 Jul 2022 06:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_28/V7hLa_1658470067452waaJg_JPEG/cover_cover_14news_20220722_144543_1_6_Large_20220722150702593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['한동훈 독직폭행' 정진웅 항소심서 무죄]]></title>
+            <link>https://tv.naver.com/v/28100110</link>
+            <guid>https://tv.naver.com/v/28100110</guid>
+            <pubDate>Fri, 22 Jul 2022 06:30:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_16/rjtJq_1658468301258XR4GB_JPEG/cover_cover_desk_20220721_203740_1_20_Large_20220722143803996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대우조선 노사 막바지 협상‥합의안 나오나?]]></title>
             <link>https://tv.naver.com/v/28099730</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 02:08:54 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220722_228/R5lsN_1658450204245MGSqx_JPEG/cover_cover_0930_20220722_093226_1_1_Large_20220722093603880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] "베르사유 궁전처럼"‥복합문화단지 조성]]></title>
-            <link>https://tv.naver.com/v/28092789</link>
-            <guid>https://tv.naver.com/v/28092789</guid>
-            <pubDate>Thu, 21 Jul 2022 23:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_290/UsmBx_1658444483321WEIOs_JPEG/cover_cover_today_20220722_072605_2_39_Large_20220722080111003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] 임윤찬과 함께하는 여름밤 '클래식 축제']]></title>
-            <link>https://tv.naver.com/v/28092788</link>
-            <guid>https://tv.naver.com/v/28092788</guid>
-            <pubDate>Thu, 21 Jul 2022 23:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_73/miGCJ_1658444479805NWBiP_JPEG/cover_cover_today_20220722_072344_2_38_Large_20220722080102154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 전국 소나기‥곳에 따라 벼락·돌풍 동반]]></title>
-            <link>https://tv.naver.com/v/28092721</link>
-            <guid>https://tv.naver.com/v/28092721</guid>
-            <pubDate>Thu, 21 Jul 2022 23:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_53/y9o3z_1658443887990pODe1_JPEG/cover_cover_today_20220722_074344_2_49_Large_20220722075116861.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

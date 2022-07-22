@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 05:31:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 06:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN이 만난 작가] '미술대전 대상' 이영아 작가 "그림 아닌 사람이 주인공"]]></title>
+            <link>https://tv.naver.com/v/28100313</link>
+            <guid>https://tv.naver.com/v/28100313</guid>
+            <pubDate>Fri, 22 Jul 2022 06:31:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_298/KE9TZ_1658468758918lo8ri_JPEG/cover_cover_20220720100406_20_683_1303901_1080_4_20220722144501243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['인하대 사망 사건' 가해자 송치…"살인죄 적용 못해" [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/28097919</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Jul 2022 12:47:37 GMT</pubDate>
             <content:encoded><![CDATA[1:06:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_82/TeNVe_16584043086372qhP3_JPEG/cover_cover_20220721202520_20_536_1304061_1080_7_20220721204201255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 말 아끼고 민생행보 강화하는 윤 대통령, 평가는?]]></title>
-            <link>https://tv.naver.com/v/28087240</link>
-            <guid>https://tv.naver.com/v/28087240</guid>
-            <pubDate>Thu, 21 Jul 2022 12:47:37 GMT</pubDate>
-            <content:encoded><![CDATA[6:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_242/Aq04O_1658403522713a6iyc_JPEG/cover_cover_20220721202135_20_536_1304060_1080_7_20220721203501162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
