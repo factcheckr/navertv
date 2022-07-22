@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 10:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 11:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 22일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28108053</link>
+            <guid>https://tv.naver.com/v/28108053</guid>
+            <pubDate>Fri, 22 Jul 2022 11:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_150/66KNE_1658486507285BieFA_JPEG/cover_2022072290089_thumb_073901_20220722194102073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['소리없는 목격자' 곤충 과학수사 본격화…경찰, '법곤충감정실' 개소]]></title>
             <link>https://tv.naver.com/v/28107488</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Jul 2022 13:44:47 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220721_47/xJeFb_1658408248679Qwi3P_JPEG/cover_2022072190150_thumb_095042_20220721215626249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강남 재건축도 호가 '뚝'…집값 대세 하락 시작됐나]]></title>
-            <link>https://tv.naver.com/v/28088614</link>
-            <guid>https://tv.naver.com/v/28088614</guid>
-            <pubDate>Thu, 21 Jul 2022 13:44:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220721_42/VNYWF_1658408241112ucDGW_JPEG/cover_2022072190148_thumb_095027_20220721215619622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
