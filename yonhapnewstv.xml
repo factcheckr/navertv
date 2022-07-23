@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 19:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 20:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 7월 24일]]></title>
+            <link>https://tv.naver.com/v/28127481</link>
+            <guid>https://tv.naver.com/v/28127481</guid>
+            <pubDate>Sat, 23 Jul 2022 20:22:59 GMT</pubDate>
+            <content:encoded><![CDATA[30:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_260/uiCSd_1658606619081ioFLX_JPEG/cover_cover_MYH20220722015500038_20220724050102093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가을 대유행 전조일까… 다시 짙어진 코로나19 그늘 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/28123892</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Jul 2022 06:27:31 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_242/Eezhj_1658555887330aWk1L_JPEG/cover_cover_MYH20220723005900038_20220723145702286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라 곡물, 흑해 수출길 열렸다…세계 식량난 '숨통']]></title>
-            <link>https://tv.naver.com/v/28117837</link>
-            <guid>https://tv.naver.com/v/28117837</guid>
-            <pubDate>Sat, 23 Jul 2022 06:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_267/YwU9B_1658554511652Q1FPE_JPEG/cover_cover_MYH20220723005800038_20220723143402529.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
