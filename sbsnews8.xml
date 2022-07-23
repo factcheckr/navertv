@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 07:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 08:28:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어른들 갈등에 바리케이드 넘어 등교…철조망도 생겼다]]></title>
+            <link>https://tv.naver.com/v/28119601</link>
+            <guid>https://tv.naver.com/v/28119601</guid>
+            <pubDate>Sat, 23 Jul 2022 08:27:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_202/CRUyf_1658562698444j8tpu_JPEG/cover_0000987795_001_20220723165101168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비디오머그] 청원X 제안O…온라인 '국민 소통' 시즌2, 어떻게 달라졌을까?]]></title>
             <link>https://tv.naver.com/v/28118644</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 22:22:22 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_123/qVtRD_1658528518999Lmc1u_JPEG/cover_0000987876_001_20220723072101161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 7만 명 안팎 예상…재감염 20대 이하 '과반']]></title>
-            <link>https://tv.naver.com/v/28114373</link>
-            <guid>https://tv.naver.com/v/28114373</guid>
-            <pubDate>Fri, 22 Jul 2022 22:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_150/x3CTw_1658528280675ja0Jk_JPEG/cover_0000987874_001_20220723071701175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
