@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 08:28:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 09:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 차츰 전국으로 비 확대…내일 오후에 대부분 그쳐]]></title>
-            <link>https://tv.naver.com/v/28119958</link>
-            <guid>https://tv.naver.com/v/28119958</guid>
-            <pubDate>Sat, 23 Jul 2022 08:27:23 GMT</pubDate>
+            <title><![CDATA[[5시 날씨] 차츰 전국으로 비 확대…내일 오후에 대부분 그쳐]]></title>
+            <link>https://tv.naver.com/v/28120441</link>
+            <guid>https://tv.naver.com/v/28120441</guid>
+            <pubDate>Sat, 23 Jul 2022 09:21:08 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_290/UVEv6_1658564252198ivAAG_JPEG/cover_0011307646_001_20220723171710280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_168/3feZG_1658566403915iAobd_JPEG/cover_0011307646_001_20220723175302327.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상] 한여름 무더위도 잊게 하는 제주 화산 암반수 폭포]]></title>
+            <link>https://tv.naver.com/v/28120091</link>
+            <guid>https://tv.naver.com/v/28120091</guid>
+            <pubDate>Sat, 23 Jul 2022 09:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_284/DcAYN_16585649785727S0LN_JPEG/cover_0011307647_001_20220723172901163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신규 확진 6만 8천 명대…위중증 전주 대비 2배 증가]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Jul 2022 23:22:13 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_69/xkVyJ_1658530982361ag1Bd_PNG/cover_0011307583_001_20220723080201227.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스광장 영상] 회산백련지]]></title>
-            <link>https://tv.naver.com/v/28114526</link>
-            <guid>https://tv.naver.com/v/28114526</guid>
-            <pubDate>Fri, 22 Jul 2022 23:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_257/FRn6s_1658530822744Fd8AC_JPEG/cover_0011307582_001_20220723080011133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
