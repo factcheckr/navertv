@@ -4,7 +4,7 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 15:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 16:31:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Sat, 23 Jul 2022 13:31:29 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_237/NIWqg_1658581792205UDhSA_JPEG/cover_0011307686_001_20220723220901257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교실에 뜬 지구본, 3D로 암 확인…현실로 다가온 ‘확장 현실’]]></title>
-            <link>https://tv.naver.com/v/28124010</link>
-            <guid>https://tv.naver.com/v/28124010</guid>
-            <pubDate>Sat, 23 Jul 2022 13:31:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_270/PTrGX_1658581740472BPso0_JPEG/cover_0011307677_001_20220723220816282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공매도 막으면 증시 풀릴까?…고민 깊은 당국]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 23 Jul 2022 13:31:29 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_159/Nf4J2_1658580858764D8tJI_JPEG/cover_0011307732_001_20220723215401213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낚싯줄에 그물까지…‘해양 쓰레기’ 심각성을 알려요!]]></title>
+            <link>https://tv.naver.com/v/28123812</link>
+            <guid>https://tv.naver.com/v/28123812</guid>
+            <pubDate>Sat, 23 Jul 2022 16:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_24/zoGE6_1658580842790AWBRo_JPEG/cover_0011307731_001_20220723215308910.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
