@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 09:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 10:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] "한 번만 더", "쇼하는 거야?".. 음주단속 천태만상]]></title>
+            <link>https://tv.naver.com/v/28134410</link>
+            <guid>https://tv.naver.com/v/28134410</guid>
+            <pubDate>Sun, 24 Jul 2022 10:23:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_81/MZUqH_1658656425199uytvB_JPEG/cover_cover_220724_alchol_640_20220724185202461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 비 오락가락‥낮 동안 후텁지근]]></title>
             <link>https://tv.naver.com/v/28129473</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Jul 2022 12:37:36 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_6/0D9tO_16585767526137Xpaz_JPEG/cover_cover_desk_20220723_201622_1_9_Large_20220723204506829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금리 올라 다들 힘든데 9조원 쓸어담은 금융지주들]]></title>
-            <link>https://tv.naver.com/v/28122875</link>
-            <guid>https://tv.naver.com/v/28122875</guid>
-            <pubDate>Sat, 23 Jul 2022 12:37:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_10/2DKeL_1658576743867kAa9T_JPEG/cover_cover_desk_20220723_201335_1_8_Large_20220723204458025.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
