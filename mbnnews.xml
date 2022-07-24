@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 08:27:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 09:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스와이드 날씨] 대서, 전국 장맛비, 오후부터 중부·서해안 비 시작]]></title>
+            <link>https://tv.naver.com/v/28133336</link>
+            <guid>https://tv.naver.com/v/28133336</guid>
+            <pubDate>Sun, 24 Jul 2022 09:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_29/Rn5OW_1658651396694FK2IK_JPEG/cover_cover_20220724172710_20_675_1304223_1080_7_20220724172901244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["분당? 호사가들의 이야기일 뿐 가능성 없어" 윤건영 더불어민주당 의원 직격인터뷰 [시사스페셜]]]></title>
             <link>https://tv.naver.com/v/28129959</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Jul 2022 11:20:16 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220723_209/sdkoc_16585749794193W6zO_JPEG/cover_cover_20220723201042_20_906_1304192_1080_7_20220723201504328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안전 위협하는 도심 속 흉물 목욕탕 굴뚝…철거 비용 탓에 방치]]></title>
-            <link>https://tv.naver.com/v/28122384</link>
-            <guid>https://tv.naver.com/v/28122384</guid>
-            <pubDate>Sat, 23 Jul 2022 11:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220723_283/ofEz5_1658574868335lYe4V_JPEG/cover_cover_20220723200805_20_906_1304191_1080_7_20220723201301219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
