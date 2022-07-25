@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 05:32:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 06:30:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈&한반도] 하늘 가른 ‘KF-21’…전력 증강 이상 무!]]></title>
+            <link>https://tv.naver.com/v/28148298</link>
+            <guid>https://tv.naver.com/v/28148298</guid>
+            <pubDate>Mon, 25 Jul 2022 06:29:05 GMT</pubDate>
+            <content:encoded><![CDATA[11:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_108/I5RTo_1658730190616uVSkt_JPEG/cover_0011307587_001_20220725151901198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과학기술연구원, 안정성 높은 태양전지 개발]]></title>
             <link>https://tv.naver.com/v/28147117</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Jul 2022 04:07:27 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_43/sORN0_1658716999197n3Y6A_JPEG/cover_0011308098_001_20220725114301229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대전·세종·충남 전 지역 폭염특보…낮 최고 33도]]></title>
-            <link>https://tv.naver.com/v/28143526</link>
-            <guid>https://tv.naver.com/v/28143526</guid>
-            <pubDate>Mon, 25 Jul 2022 04:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_121/KbKmG_1658716101380py7kN_JPEG/cover_0011308229_001_20220725112803178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
