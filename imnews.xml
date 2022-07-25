@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 08:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 09:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBC 5시뉴스] "경찰서장 회의, 군부 쿠데타나 다름없어"]]></title>
+            <link>https://tv.naver.com/v/28152013</link>
+            <guid>https://tv.naver.com/v/28152013</guid>
+            <pubDate>Mon, 25 Jul 2022 09:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[10:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_264/wg5uO_1658737690873963R4_PNG/1658737688423.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일도 소나기‥중복 찜통더위 계속]]></title>
             <link>https://tv.naver.com/v/28151967</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Jul 2022 02:05:06 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_201/YJNZu_1658709441248doAbg_JPEG/cover_cover_0930_20220725_093303_1_2_Large_20220725093709903.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령실 "총경 회의 부적절"‥ 정면 비판]]></title>
-            <link>https://tv.naver.com/v/28141533</link>
-            <guid>https://tv.naver.com/v/28141533</guid>
-            <pubDate>Mon, 25 Jul 2022 02:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_126/D28f7_1658709459590PEXJi_JPEG/cover_cover_0930_20220725_093225_1_1_Large_20220725093702798.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
