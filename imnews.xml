@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 09:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 10:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 질의 도중 한동훈 쳐다보며 10초 간 정적...대정부질문 주요장면]]></title>
+            <link>https://tv.naver.com/v/28155181</link>
+            <guid>https://tv.naver.com/v/28155181</guid>
+            <pubDate>Mon, 25 Jul 2022 10:26:18 GMT</pubDate>
+            <content:encoded><![CDATA[7:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_170/tSdmP_1658743858142hP7pg_JPEG/cover_cover_220725_politic_1830_640_20220725190902332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBC 5시뉴스] "경찰서장 회의, 군부 쿠데타나 다름없어"]]></title>
             <link>https://tv.naver.com/v/28152013</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Jul 2022 02:05:06 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_232/ZaZgR_16587095176091rvfn_JPEG/cover_cover_0930_20220725_093448_1_3_Large_20220725093803286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[첫 대정부질문‥'편중 인사'·'경찰국' 공방 전망]]></title>
-            <link>https://tv.naver.com/v/28141535</link>
-            <guid>https://tv.naver.com/v/28141535</guid>
-            <pubDate>Mon, 25 Jul 2022 02:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_201/YJNZu_1658709441248doAbg_JPEG/cover_cover_0930_20220725_093303_1_2_Large_20220725093709903.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
