@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 10:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 11:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 25일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28155948</link>
+            <guid>https://tv.naver.com/v/28155948</guid>
+            <pubDate>Mon, 25 Jul 2022 11:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_101/GoUtZ_16587457037529LFhB_JPEG/cover_2022072590112_thumb_073708_20220725194101656.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가짜 중국 담배 만들어 19억원 유통한 일당 붙잡혀]]></title>
             <link>https://tv.naver.com/v/28146607</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 24 Jul 2022 11:19:24 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220724_109/GlSmd_1658659018731IhERn_JPEG/cover_2022072490057_thumb_073158_20220724193608687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[25일부터 尹정부 첫 대정부질문…'강제북송 의혹'·'사적 채용 논란' 대충돌]]></title>
-            <link>https://tv.naver.com/v/28134915</link>
-            <guid>https://tv.naver.com/v/28134915</guid>
-            <pubDate>Sun, 24 Jul 2022 11:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220724_237/OD4w1_1658659011157XnURD_JPEG/cover_2022072490055_thumb_073130_20220724193602220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
