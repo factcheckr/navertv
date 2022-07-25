@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 06:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 中 우주정거장 완성 성큼…실험실 모듈 도킹 성공]]></title>
+            <link>https://tv.naver.com/v/28149169</link>
+            <guid>https://tv.naver.com/v/28149169</guid>
+            <pubDate>Mon, 25 Jul 2022 07:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_100/DqxaR_1658731894607IeRsD_PNG/cover_0011308306_001_20220725155112560.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보영상] 한동훈 vs 박범계, 전현직 법무장관의 격돌]]></title>
+            <link>https://tv.naver.com/v/28149072</link>
+            <guid>https://tv.naver.com/v/28149072</guid>
+            <pubDate>Mon, 25 Jul 2022 07:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[11:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_214/dbios_1658731843667lWCd3_JPEG/cover_0011308311_001_20220725154701224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈&한반도] 하늘 가른 ‘KF-21’…전력 증강 이상 무!]]></title>
             <link>https://tv.naver.com/v/28148298</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 25 Jul 2022 04:07:27 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_179/wVDaz_16587188948505ck8T_JPEG/cover_0011308248_001_20220725121411302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상민 “경찰서장회의, 쿠데타에 준해”…경찰 반발 확산]]></title>
-            <link>https://tv.naver.com/v/28144466</link>
-            <guid>https://tv.naver.com/v/28144466</guid>
-            <pubDate>Mon, 25 Jul 2022 04:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_256/CzPR7_1658718886714hyz79_JPEG/cover_0011308247_001_20220725121401270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북보건환경연구원 “냉동과일 잔류 농약 검사…‘적합’ 수준”]]></title>
-            <link>https://tv.naver.com/v/28143843</link>
-            <guid>https://tv.naver.com/v/28143843</guid>
-            <pubDate>Mon, 25 Jul 2022 04:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_43/sORN0_1658716999197n3Y6A_JPEG/cover_0011308098_001_20220725114301229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
