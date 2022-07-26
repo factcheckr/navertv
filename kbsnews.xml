@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 06:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 07:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앉기 전 버스 출발 ‘전치 2주’…누구 책임이 더 클까]]></title>
+            <link>https://tv.naver.com/v/28172767</link>
+            <guid>https://tv.naver.com/v/28172767</guid>
+            <pubDate>Tue, 26 Jul 2022 07:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_59/RWbhz_16588195930676lrvA_PNG/cover_0011309119_001_20220726161301179.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[속보영상] 질병청 “2차 접종자, 코로나 감염 후 심근경색·뇌경색 위험도 낮다”]]></title>
             <link>https://tv.naver.com/v/28171421</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Jul 2022 04:28:02 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_123/ksPjd_1658805292606pdvM0_JPEG/cover_0011309046_001_20220726121401181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[속보영상] ‘경찰국’ 국무회의 의결…한 총리 “더 투명하고 민주적인 관장”]]></title>
-            <link>https://tv.naver.com/v/28166644</link>
-            <guid>https://tv.naver.com/v/28166644</guid>
-            <pubDate>Tue, 26 Jul 2022 04:28:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_41/U2f9K_16588025155916loqb_PNG/cover_0011309021_001_20220726112801232.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
