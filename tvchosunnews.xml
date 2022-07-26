@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 10:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 11:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 26일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28177595</link>
+            <guid>https://tv.naver.com/v/28177595</guid>
+            <pubDate>Tue, 26 Jul 2022 11:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_58/i4tPY_16588324013190VpdS_JPEG/cover_2022072690123_thumb_074453_20220726194601802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유모차 펴다 14개월 여아 손가락 절단…제조사 "안전 적합 판정 받았다"]]></title>
             <link>https://tv.naver.com/v/28172341</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Jul 2022 12:47:55 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220725_104/Fh4vr_16587532182134DUfz_JPEG/cover_2022072590151_thumb_094158_20220725214602921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1인당 7.7억' 역대 최고 재건축 부담금 폭탄…'재초환 대수술' 할까]]></title>
-            <link>https://tv.naver.com/v/28158269</link>
-            <guid>https://tv.naver.com/v/28158269</guid>
-            <pubDate>Mon, 25 Jul 2022 12:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220725_185/fwAzI_16587529223619v06p_JPEG/cover_2022072590147_thumb_093726_20220725214101664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
