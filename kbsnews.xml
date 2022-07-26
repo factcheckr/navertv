@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 13:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 14:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사기획 창] MZ, 회사를 떠나다]]></title>
+            <link>https://tv.naver.com/v/28180956</link>
+            <guid>https://tv.naver.com/v/28180956</guid>
+            <pubDate>Tue, 26 Jul 2022 14:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[48:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_207/4iy7l_1658844160820kLrFe_JPEG/cover_0011309484_001_20220726230001220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘경찰국 신설’ 국무회의 의결…尹 “중대한 국가기강 문란”]]></title>
             <link>https://tv.naver.com/v/28180431</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Jul 2022 13:43:23 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220726_12/XsaPE_1658841495127xttmz_JPEG/cover_0011309348_001_20220726221733036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 문자 배경과 파장은?…野 “한심, 그 자체” 맹폭]]></title>
-            <link>https://tv.naver.com/v/28180280</link>
-            <guid>https://tv.naver.com/v/28180280</guid>
-            <pubDate>Tue, 26 Jul 2022 13:43:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220726_149/aAWna_16588414925577b1bk_JPEG/cover_0011309346_001_20220726221721482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
