@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 08:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 09:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 7월 27일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/28197740</link>
+            <guid>https://tv.naver.com/v/28197740</guid>
+            <pubDate>Wed, 27 Jul 2022 09:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_80/P5Ddj_1658913464783vBrsY_JPEG/cover_cover_20220727181339_20_845_1304476_1080_7_20220727181701231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 이번엔 경찰대 개혁 추진?]]></title>
             <link>https://tv.naver.com/v/28195464</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Jul 2022 23:21:58 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_13/h8gBV_1658876011742VKrf7_JPEG/cover_cover_20220727074924_20_605_1304442_1080_7_20220727075301206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 기념주화 아닙니다]]></title>
-            <link>https://tv.naver.com/v/28184701</link>
-            <guid>https://tv.naver.com/v/28184701</guid>
-            <pubDate>Tue, 26 Jul 2022 23:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_92/1NUwT_1658875896715e5NpW_JPEG/cover_cover_20220727074747_20_605_1304441_1080_7_20220727075101195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
