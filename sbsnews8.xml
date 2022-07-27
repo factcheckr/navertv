@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 17:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 18:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/28205205</link>
+            <guid>https://tv.naver.com/v/28205205</guid>
+            <pubDate>Wed, 27 Jul 2022 18:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_152/9l6Fs_1658943537058RAu0T_JPEG/cover_0000988895_001_20220728023817016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] '낮 최고 33도' 무더위 · 열대야 계속…소나기 온 뒤 습도↑]]></title>
+            <link>https://tv.naver.com/v/28205204</link>
+            <guid>https://tv.naver.com/v/28205204</guid>
+            <pubDate>Wed, 27 Jul 2022 18:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_125/V62jM_1658943546103LceJS_JPEG/cover_0000988894_001_20220728023809162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['음주운전' 빙속 국가대표 자격 정지…경찰도 수사 착수]]></title>
+            <link>https://tv.naver.com/v/28205193</link>
+            <guid>https://tv.naver.com/v/28205193</guid>
+            <pubDate>Wed, 27 Jul 2022 18:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_277/NUzzo_1658943238597F53l9_JPEG/cover_0000988893_001_20220728023301177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["담배 피우고 오겠다"…파출소서 '감시 소홀' 틈타 달아난 수배범]]></title>
             <link>https://tv.naver.com/v/28205167</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 27 Jul 2022 15:24:49 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_89/RycDr_1658933303904gLaA6_JPEG/cover_0000988860_001_20220727234701270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회 첫 출석한 박순애…논문표절 의혹에 "당시 관행"]]></title>
-            <link>https://tv.naver.com/v/28203838</link>
-            <guid>https://tv.naver.com/v/28203838</guid>
-            <pubDate>Wed, 27 Jul 2022 15:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_221/xu3Qt_1658933219213ftYX2_JPEG/cover_0000988861_001_20220727234553407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주 "경찰 장악 꼼수" vs 국힘 "문 정부는 밀실 통제"]]></title>
-            <link>https://tv.naver.com/v/28203835</link>
-            <guid>https://tv.naver.com/v/28203835</guid>
-            <pubDate>Wed, 27 Jul 2022 15:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_147/gSz5o_1658933212526ngAjA_JPEG/cover_0000988862_001_20220727234543818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국전 전사자 '추모의 벽' 건립…미군·카투사 나란히]]></title>
-            <link>https://tv.naver.com/v/28203833</link>
-            <guid>https://tv.naver.com/v/28203833</guid>
-            <pubDate>Wed, 27 Jul 2022 15:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_202/IqPK0_1658933304741Fh5Yx_JPEG/cover_0000988863_001_20220727234529484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
