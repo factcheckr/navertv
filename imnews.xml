@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:29:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[중계방송] 국회 본회의 대정부질문..교육·사회·문화 분]]></title>
+            <link>https://tv.naver.com/v/28194102</link>
+            <guid>https://tv.naver.com/v/28194102</guid>
+            <pubDate>Wed, 27 Jul 2022 07:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:21:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_76/tXyCj_1658904989995pGksh_JPEG/1954b932-0d79-11ed-90b2-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[World Now] 치약, 비누, 버블티까지 대마초 천국된 태국]]></title>
             <link>https://tv.naver.com/v/28192644</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Jul 2022 02:11:56 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_84/njqkb_1658882864373Ju63A_JPEG/cover_cover_0930_20220727_093310_1_2_Large_20220727094710619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IMF 세계 성장률 3.2%로 하향‥한국은 2.3%]]></title>
-            <link>https://tv.naver.com/v/28185989</link>
-            <guid>https://tv.naver.com/v/28185989</guid>
-            <pubDate>Wed, 27 Jul 2022 02:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_213/GeQFo_1658882862327fi4R6_JPEG/cover_cover_0930_20220727_093127_1_1_Large_20220727094703223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

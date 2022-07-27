@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/28194586</link>
+            <guid>https://tv.naver.com/v/28194586</guid>
+            <pubDate>Wed, 27 Jul 2022 07:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[9:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_278/OwhWY_1658906254891gYBeI_JPEG/cover_0011309953_001_20220727161501180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보영상] 한 총리, ‘대통령 처음’ 尹 발언 지적에 “盧, 못 해먹겠다 한적도”]]></title>
+            <link>https://tv.naver.com/v/28193742</link>
+            <guid>https://tv.naver.com/v/28193742</guid>
+            <pubDate>Wed, 27 Jul 2022 07:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_252/YPIAH_1658904233631eCuCX_JPEG/cover_0011309946_001_20220727154301168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹 ‘내부총질 문자’ 파문 확산…權 “거듭 사과”]]></title>
             <link>https://tv.naver.com/v/28193034</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 27 Jul 2022 04:09:35 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_122/2JxrP_1658892425636M2QIX_JPEG/cover_0011309874_001_20220727122611630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7월 기대인플레이션율 4.7%…역대 최고 수준]]></title>
-            <link>https://tv.naver.com/v/28189127</link>
-            <guid>https://tv.naver.com/v/28189127</guid>
-            <pubDate>Wed, 27 Jul 2022 04:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_73/WPxGp_1658892408093ECS75_JPEG/cover_0011309873_001_20220727122601252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[98일 만에 다시 10만…가족돌봄휴가 지원]]></title>
-            <link>https://tv.naver.com/v/28188991</link>
-            <guid>https://tv.naver.com/v/28188991</guid>
-            <pubDate>Wed, 27 Jul 2022 04:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_87/ocW7e_1658891987068njHhm_JPEG/cover_0011309872_001_20220727121902707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
