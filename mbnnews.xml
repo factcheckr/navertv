@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 08:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 09:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 7월 28일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/28219640</link>
+            <guid>https://tv.naver.com/v/28219640</guid>
+            <pubDate>Thu, 28 Jul 2022 09:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_25/ekNxM_1658999385250JA0O8_JPEG/cover_cover_20220728180500_20_845_1304573_1080_7_20220728180905329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 민주당 '컷오프' 생존자는?]]></title>
             <link>https://tv.naver.com/v/28216992</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Jul 2022 23:22:53 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_236/idRIL_1658963134638hEl0l_JPEG/cover_cover_20220728080147_20_605_1304535_1080_7_20220728080501210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선 왕실 도장 담는 함 '보록' 영국서 다시 우리 품으로]]></title>
-            <link>https://tv.naver.com/v/28206258</link>
-            <guid>https://tv.naver.com/v/28206258</guid>
-            <pubDate>Wed, 27 Jul 2022 23:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_126/jvIS7_1658963043031fCBk1_JPEG/cover_cover_20220728075914_20_605_1304534_1080_7_20220728080301197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
