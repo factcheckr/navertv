@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 06:29:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 07:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/28215246</link>
+            <guid>https://tv.naver.com/v/28215246</guid>
+            <pubDate>Thu, 28 Jul 2022 07:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[10:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_277/kElvN_16589928116942Eg9u_JPEG/cover_0011310750_001_20220728161701203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘부터 모바일 운전면허증 전국 발급 개시]]></title>
             <link>https://tv.naver.com/v/28213084</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 28 Jul 2022 04:03:14 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220728_114/NSKUH_1658979235323G0YXO_JPEG/cover_0011310654_001_20220728123310074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, ‘대선공약 개발 의혹’ 여성가족부 압수수색]]></title>
-            <link>https://tv.naver.com/v/28209945</link>
-            <guid>https://tv.naver.com/v/28209945</guid>
-            <pubDate>Thu, 28 Jul 2022 04:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_5/gTihm_1658979195650w1NG2_JPEG/cover_0011310653_001_20220728123301239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
