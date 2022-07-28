@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 10:27:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 11:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 28일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28223367</link>
+            <guid>https://tv.naver.com/v/28223367</guid>
+            <pubDate>Thu, 28 Jul 2022 11:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220728_150/YZHWA_16590067023404w3kK_JPEG/cover_2022072890095_thumb_080721_20220728201101655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[탐사보도 세븐] '전기차 화재 사고'의 진실]]></title>
             <link>https://tv.naver.com/v/28208833</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Jul 2022 13:50:20 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_269/aihJj_16589269697349iAG7_JPEG/cover_2022072790149_thumb_095829_20220727220120099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올초부터 '해킹' 모의…중간고사 7과목 답안지도 빼냈다]]></title>
-            <link>https://tv.naver.com/v/28202011</link>
-            <guid>https://tv.naver.com/v/28202011</guid>
-            <pubDate>Wed, 27 Jul 2022 13:50:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_238/UyhAT_1658926970484y3yBm_JPEG/cover_2022072790147_thumb_095810_20220727220110769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
