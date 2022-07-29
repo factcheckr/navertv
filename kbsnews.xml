@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 06:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 07:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/28244944</link>
+            <guid>https://tv.naver.com/v/28244944</guid>
+            <pubDate>Fri, 29 Jul 2022 07:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[8:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_274/hg5Uy_1659079043539Ttr1u_JPEG/cover_0011311512_001_20220729161501197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민의힘 ‘비대위 전환론’ 분출…“책임지는 모습 보일 때”]]></title>
             <link>https://tv.naver.com/v/28242287</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 04:07:42 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220729_221/sKKi5_1659065652255xPDrY_JPEG/cover_0011311446_001_20220729123311393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령, 방역·치안 상황 점검…‘문자 논란’은 침묵]]></title>
-            <link>https://tv.naver.com/v/28236871</link>
-            <guid>https://tv.naver.com/v/28236871</guid>
-            <pubDate>Fri, 29 Jul 2022 04:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220729_134/zvlNC_1659065632645bkkgz_JPEG/cover_0011311445_001_20220729123301168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
