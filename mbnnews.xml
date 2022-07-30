@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 11:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 12:37:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 30일 MBN 뉴스센터 클로징]]></title>
+            <link>https://tv.naver.com/v/28269597</link>
+            <guid>https://tv.naver.com/v/28269597</guid>
+            <pubDate>Sat, 30 Jul 2022 12:37:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_123/p3Mjg_1659180231097oynOi_JPEG/cover_cover_20220730202024_20_906_1304747_1080_7_20220730202301934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN뉴스센터 날씨]휴일, 전국 비…제주·남해안 강한 비바람]]></title>
             <link>https://tv.naver.com/v/28269487</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 02:07:13 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220730_285/919Kz_1659140670002CuAVJ_JPEG/cover_cover_20220730092024_20_675_1304716_1080_7_20220730092301188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['에너지 보릿고개' 유럽…가로등도 꺼질 판]]></title>
-            <link>https://tv.naver.com/v/28260976</link>
-            <guid>https://tv.naver.com/v/28260976</guid>
-            <pubDate>Sat, 30 Jul 2022 02:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_25/vxJmO_16591405330376hq5j_JPEG/cover_cover_20220730091726_20_675_1304715_1080_7_20220730092101181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
