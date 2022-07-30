@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 19:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 20:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 7월 31일]]></title>
+            <link>https://tv.naver.com/v/28274565</link>
+            <guid>https://tv.naver.com/v/28274565</guid>
+            <pubDate>Sat, 30 Jul 2022 20:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[30:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_196/Cm2HU_1659211468544ePkAq_JPEG/cover_cover_MYH20220729018700038_20220731050202186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우영우는 판타지, 김정훈은 현실…고래점프 해법은? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/28271196</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 08:27:08 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220730_291/hZMjb_1659165628981wkXWh_JPEG/cover_cover_MYH20220730006300038_20220730162002486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["북한, 의약품 밀매에 최고 사형·가족 강제이주 경고"]]></title>
-            <link>https://tv.naver.com/v/28265854</link>
-            <guid>https://tv.naver.com/v/28265854</guid>
-            <pubDate>Sat, 30 Jul 2022 07:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_229/ykr8S_1659165574544FaVXH_JPEG/cover_cover_MYH20220730006200038_20220730161902158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
