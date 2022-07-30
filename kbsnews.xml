@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 21:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 22:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 전국에 비…제주 산지·남해안·지리산 부근 최대 200mm↑]]></title>
+            <link>https://tv.naver.com/v/28274810</link>
+            <guid>https://tv.naver.com/v/28274810</guid>
+            <pubDate>Sat, 30 Jul 2022 22:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_1/ce0Ai_1659216038998Ig4Q3_JPEG/cover_0011312026_001_20220731062001227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주당 박용진·강훈식 “단일화 위해 논의”]]></title>
             <link>https://tv.naver.com/v/28274797</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 13:29:04 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220730_157/2EtoC_16591870291448XFRN_JPEG/cover_0011311932_001_20220730221615760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스9 헤드라인]]]></title>
-            <link>https://tv.naver.com/v/28271394</link>
-            <guid>https://tv.naver.com/v/28271394</guid>
-            <pubDate>Sat, 30 Jul 2022 13:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_186/CKKM2_16591870025549WJTz_JPEG/cover_0011311930_001_20220730221601265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
