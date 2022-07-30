@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 15:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 16:29:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[北, 한미연합훈련에 잇단 경고...8월 하순 남북관계 분수령]]></title>
+            <link>https://tv.naver.com/v/28273045</link>
+            <guid>https://tv.naver.com/v/28273045</guid>
+            <pubDate>Sat, 30 Jul 2022 16:29:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_264/XnRGC_16591947472486Gqdu_JPEG/cover_cover_202207310021304544_t_20220731002503003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[롯데, 삼성 꺾고 7연패 탈출...LG, 짜릿한 끝내기 홈런]]></title>
             <link>https://tv.naver.com/v/28272703</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 13:29:59 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220730_158/k8IRM_1659186251875sqsk4_JPEG/cover_cover_202207302158250110_t_20220730220302219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간 돌발영상] 7월 마지막 주]]></title>
-            <link>https://tv.naver.com/v/28270874</link>
-            <guid>https://tv.naver.com/v/28270874</guid>
-            <pubDate>Sat, 30 Jul 2022 13:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[18:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_128/YDngT_1659185359779tnlJT_JPEG/cover_cover_202207302100478034_t_20220730214302006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
