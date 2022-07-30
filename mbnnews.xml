@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 20:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 21:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[258회_기상 전망과 냉방기기 화재 예방법]]></title>
+            <link>https://tv.naver.com/v/28274710</link>
+            <guid>https://tv.naver.com/v/28274710</guid>
+            <pubDate>Sat, 30 Jul 2022 21:20:15 GMT</pubDate>
+            <content:encoded><![CDATA[15:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_280/78Kz6_1659214286429aeLSO_JPEG/cover_cover_20220731053721_20_849_1304749_1080_7_20220731054201277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7월 30일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/28269597</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 02:07:13 GMT</pubDate>
             <content:encoded><![CDATA[17:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220730_39/az7SC_1659142940766aq6cU_JPEG/cover_cover_20220730094909_20_675_1304718_1080_7_20220730095401226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁이 따로 없다…자원 부국에 너도나도 깃발 꽂기 경쟁]]></title>
-            <link>https://tv.naver.com/v/28260987</link>
-            <guid>https://tv.naver.com/v/28260987</guid>
-            <pubDate>Sat, 30 Jul 2022 02:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_285/919Kz_1659140670002CuAVJ_JPEG/cover_cover_20220730092024_20_675_1304716_1080_7_20220730092301188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
