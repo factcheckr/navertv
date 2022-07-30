@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 10:23:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 11:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 '송다', 서해상 따라 북상…제주에 최대 300mm 비]]></title>
+            <link>https://tv.naver.com/v/28269510</link>
+            <guid>https://tv.naver.com/v/28269510</guid>
+            <pubDate>Sat, 30 Jul 2022 11:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_100/nc0iQ_16591799260983djsz_JPEG/cover_0000989561_001_20220730201801228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['서울 36.1도' 올해 들어 최고 기온…제주도엔 호우특보]]></title>
+            <link>https://tv.naver.com/v/28269348</link>
+            <guid>https://tv.naver.com/v/28269348</guid>
+            <pubDate>Sat, 30 Jul 2022 11:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_13/Jc9DJ_1659179410687GxL0m_JPEG/cover_0000989560_001_20220730200801224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/28269236</link>
+            <guid>https://tv.naver.com/v/28269236</guid>
+            <pubDate>Sat, 30 Jul 2022 11:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_191/4j55F_1659178963799CDels_JPEG/cover_0000989559_001_20220730200201233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] '통신 조회' 위헌 결정, 법 개정 쟁점은?]]></title>
             <link>https://tv.naver.com/v/28267155</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 29 Jul 2022 23:22:07 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220730_122/edIaz_1659133500532kn9Je_JPEG/cover_0000989472_001_20220730072401191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, '김혜경 법카 의혹' 핵심 배 모 씨 소환조사]]></title>
-            <link>https://tv.naver.com/v/28260586</link>
-            <guid>https://tv.naver.com/v/28260586</guid>
-            <pubDate>Fri, 29 Jul 2022 23:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_191/Ex1nv_1659133430390ypPwT_JPEG/cover_0000989471_001_20220730072301150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 공공기관 개혁 요구…"직원 줄이고 건물 팔아라"]]></title>
-            <link>https://tv.naver.com/v/28260585</link>
-            <guid>https://tv.naver.com/v/28260585</guid>
-            <pubDate>Fri, 29 Jul 2022 23:22:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_35/xBKBX_1659133373003JaE7E_JPEG/cover_0000989470_001_20220730072201157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취임 두 달 만에 지지율 20%대…핵심 지지층도 '흔들']]></title>
-            <link>https://tv.naver.com/v/28260581</link>
-            <guid>https://tv.naver.com/v/28260581</guid>
-            <pubDate>Fri, 29 Jul 2022 22:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_37/FiRtN_1659133310174hTbNi_JPEG/cover_0000989469_001_20220730072101154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
