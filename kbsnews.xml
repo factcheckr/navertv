@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 14:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 15:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 태풍 ‘송다’와 ‘트라세’ 동시 영향…모레까지 비]]></title>
+            <link>https://tv.naver.com/v/28286114</link>
+            <guid>https://tv.naver.com/v/28286114</guid>
+            <pubDate>Sun, 31 Jul 2022 15:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_274/ORp8F_16592787260212FHoU_JPEG/cover_0011312193_001_20220731234501181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 5호·6호 태풍 동시 북상…지리산 최대 200mm 폭우]]></title>
+            <link>https://tv.naver.com/v/28286104</link>
+            <guid>https://tv.naver.com/v/28286104</guid>
+            <pubDate>Sun, 31 Jul 2022 15:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_212/1pgVi_1659278697190fG6p2_JPEG/cover_0011312192_001_20220731234410438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] ‘송다’ 이어 제6호 태풍 ‘트라세’ 북상…이 시각 제주는?]]></title>
+            <link>https://tv.naver.com/v/28286103</link>
+            <guid>https://tv.naver.com/v/28286103</guid>
+            <pubDate>Sun, 31 Jul 2022 15:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_292/giasg_16592786898358H9iJ_JPEG/cover_0011312191_001_20220731234401239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울산 주력업종 기업체 직원 고령화 뚜렷]]></title>
             <link>https://tv.naver.com/v/28285718</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 31 Jul 2022 13:30:35 GMT</pubDate>
             <content:encoded><![CDATA[0:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220731_266/m8jpa_1659271787984isCyQ_JPEG/cover_0011312175_001_20220731214933567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘원주소상공인지원센터’ 설립 추진]]></title>
-            <link>https://tv.naver.com/v/28284658</link>
-            <guid>https://tv.naver.com/v/28284658</guid>
-            <pubDate>Sun, 31 Jul 2022 13:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_10/R8EXd_1659271828109BXMQw_JPEG/cover_0011312174_001_20220731214925304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전북 코로나19 3,010명 확진…방역당국 “주말 3천 명 대 ‘우려’”]]></title>
-            <link>https://tv.naver.com/v/28284655</link>
-            <guid>https://tv.naver.com/v/28284655</guid>
-            <pubDate>Sun, 31 Jul 2022 13:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_151/62BQs_1659271779213u4UUc_JPEG/cover_0011312173_001_20220731214917320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남원 호우주의보…태풍 등 영향으로 모레까지 비 이어져]]></title>
-            <link>https://tv.naver.com/v/28284653</link>
-            <guid>https://tv.naver.com/v/28284653</guid>
-            <pubDate>Sun, 31 Jul 2022 13:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_172/M4xPz_1659271770682UL0TW_JPEG/cover_0011312172_001_20220731214909623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
