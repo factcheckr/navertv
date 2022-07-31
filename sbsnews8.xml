@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 20:24:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 21:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 '송다 · 트라세' 영향…내일까지 중부 · 제주 최대 100mm]]></title>
+            <link>https://tv.naver.com/v/28287828</link>
+            <guid>https://tv.naver.com/v/28287828</guid>
+            <pubDate>Sun, 31 Jul 2022 21:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_87/QoFEv_1659302264996BGdHj_JPEG/cover_0000989749_001_20220801061701163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 미얀마 군부에 처형된 톱스타…"남편 시신 못 찾아"]]></title>
             <link>https://tv.naver.com/v/28286852</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 31 Jul 2022 04:00:17 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220731_83/9QQFl_1659237324977FwPJi_JPEG/cover_0000989658_001_20220731121501176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전현희 "위원장 아닌 직원 괴롭히기식 감사 중단돼야"]]></title>
-            <link>https://tv.naver.com/v/28276317</link>
-            <guid>https://tv.naver.com/v/28276317</guid>
-            <pubDate>Sun, 31 Jul 2022 04:00:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_183/qDfsI_1659237210278kLz4n_JPEG/cover_0000989657_001_20220731121301181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
