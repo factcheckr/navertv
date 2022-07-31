@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 10:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 11:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/28282727</link>
+            <guid>https://tv.naver.com/v/28282727</guid>
+            <pubDate>Sun, 31 Jul 2022 11:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_219/gBV1M_1659265601984D6BaY_JPEG/cover_0000989705_001_20220731200601222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 폭포수처럼 쏟아져 내린 물…사막의 카지노 물바다 난리]]></title>
             <link>https://tv.naver.com/v/28278059</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 12:36:07 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220730_287/vQH5V_16591831985407NGxa_JPEG/cover_0000989566_001_20220730211201211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['1회에만 7점' 롯데, 7연패 탈출 눈앞]]></title>
-            <link>https://tv.naver.com/v/28270324</link>
-            <guid>https://tv.naver.com/v/28270324</guid>
-            <pubDate>Sat, 30 Jul 2022 12:36:07 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_80/0Jrgw_165918303432530pDM_JPEG/cover_0000989574_001_20220730211002331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
