@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 09:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 10:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7 날씨] 태풍 ‘송다’·‘트라세’ 동시 영향…모레까지 큰 비]]></title>
+            <link>https://tv.naver.com/v/28281856</link>
+            <guid>https://tv.naver.com/v/28281856</guid>
+            <pubDate>Sun, 31 Jul 2022 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_230/tDSdc_1659262406779Uuu1N_JPEG/cover_0011312118_001_20220731191301213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5호·6호 태풍 북상…지리산 최대 200mm 폭우]]></title>
+            <link>https://tv.naver.com/v/28281817</link>
+            <guid>https://tv.naver.com/v/28281817</guid>
+            <pubDate>Sun, 31 Jul 2022 10:23:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_294/Ua49N_1659262250952XnqPB_JPEG/cover_0011312117_001_20220731191001299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스5 날씨] 태풍 ‘송다’·‘트라세’ 북상 중]]></title>
             <link>https://tv.naver.com/v/28279861</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 30 Jul 2022 14:19:09 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220730_170/ulAAZ_1659188159374n8lMV_JPEG/cover_0011311940_001_20220730223501158.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스9 날씨] 제주·남해안 비바람…내륙 폭염 계속]]></title>
-            <link>https://tv.naver.com/v/28271467</link>
-            <guid>https://tv.naver.com/v/28271467</guid>
-            <pubDate>Sat, 30 Jul 2022 13:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_24/4MdfK_1659187211422t8eHV_JPEG/cover_0011311980_001_20220730221930113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이청용 마수걸이 골! 울산 선두 질주]]></title>
-            <link>https://tv.naver.com/v/28271465</link>
-            <guid>https://tv.naver.com/v/28271465</guid>
-            <pubDate>Sat, 30 Jul 2022 13:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220730_216/aen6J_1659187183607eQddh_JPEG/cover_0011311966_001_20220730221921467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
