@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 08:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 09:25:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBN 뉴스파이터-2022년 8월 1일 한성원 앵커 오프닝]]></title>
+            <link>https://tv.naver.com/v/28300193</link>
+            <guid>https://tv.naver.com/v/28300193</guid>
+            <pubDate>Mon, 01 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_109/O2Un5_1659345321290acdtl_JPEG/cover_cover_20220801181242_20_673_1304844_1080_7_20220801181501247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 8월 1일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/28300086</link>
+            <guid>https://tv.naver.com/v/28300086</guid>
+            <pubDate>Mon, 01 Aug 2022 09:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_158/ciTrI_1659345109514m2Ynq_JPEG/cover_cover_20220801180740_20_845_1304843_1080_7_20220801181101225.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 거침없는 이재명 '말말말']]></title>
             <link>https://tv.naver.com/v/28297683</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 31 Jul 2022 23:23:05 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_53/fLRge_1659308882527RfDHb_JPEG/cover_cover_20220801080208_20_605_1304807_1080_7_20220801080701225.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['김정은 밀착 경호' 눈길…'아베 피살'의 영향 컸나?]]></title>
-            <link>https://tv.naver.com/v/28288367</link>
-            <guid>https://tv.naver.com/v/28288367</guid>
-            <pubDate>Sun, 31 Jul 2022 23:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_169/wVyTs_1659308671798QDsfl_JPEG/cover_cover_20220801075738_20_605_1304806_1080_7_20220801080301192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 오늘은 개구리 반찬]]></title>
-            <link>https://tv.naver.com/v/28288325</link>
-            <guid>https://tv.naver.com/v/28288325</guid>
-            <pubDate>Sun, 31 Jul 2022 23:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_75/S2SsE_1659308381164kkMfp_JPEG/cover_cover_20220801075609_20_605_1304805_1080_7_20220801075901199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
