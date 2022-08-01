@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 17:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 18:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 무더위에 전력수요 역대 최고…다음 주가 최대 고비]]></title>
+            <link>https://tv.naver.com/v/28308988</link>
+            <guid>https://tv.naver.com/v/28308988</guid>
+            <pubDate>Mon, 01 Aug 2022 18:30:17 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_118/vgLQ6_16593753459580qsbu_JPEG/cover_0011312926_001_20220802023501313.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민의힘 의총서 ‘비대위 체제’ 공감…“비상상황에 동의”]]></title>
             <link>https://tv.naver.com/v/28308777</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Aug 2022 16:33:44 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_209/CLQsP_16593682812701r9Ez_JPEG/cover_0011312942_001_20220802003717660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 소방청 상황실]]></title>
-            <link>https://tv.naver.com/v/28307789</link>
-            <guid>https://tv.naver.com/v/28307789</guid>
-            <pubDate>Mon, 01 Aug 2022 16:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_77/yXceq_1659368257836jrGiB_JPEG/cover_0011312941_001_20220802003709538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
