@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 19:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 20:28:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두 태풍이 남긴 열대수증기…중부 최고 100㎜ 호우]]></title>
+            <link>https://tv.naver.com/v/28310263</link>
+            <guid>https://tv.naver.com/v/28310263</guid>
+            <pubDate>Mon, 01 Aug 2022 20:27:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_247/AHS1X_1659385617579WpORb_JPEG/cover_cover_MYH20220802000100640_20220802052602262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생활날씨] 출근길 수도권·영서 강한 비…최대 100mm↑ 집중호우]]></title>
             <link>https://tv.naver.com/v/28305667</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Aug 2022 11:19:56 GMT</pubDate>
             <content:encoded><![CDATA[23:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_127/PyFkb_16593525651000CCNu_JPEG/cover_cover_MYH20220801017800038_20220801200403447.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치안감 번복인사 논란에…"이래서 경찰국 필요"]]></title>
-            <link>https://tv.naver.com/v/28302000</link>
-            <guid>https://tv.naver.com/v/28302000</guid>
-            <pubDate>Mon, 01 Aug 2022 11:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_200/6eeRo_1659350831384yaR3y_JPEG/cover_cover_MYH20220801017700641_20220801194602701.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
