@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 10:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 11:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 1일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28301999</link>
+            <guid>https://tv.naver.com/v/28301999</guid>
+            <pubDate>Mon, 01 Aug 2022 11:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_231/lrvKr_16593508015476U87l_JPEG/cover_2022080190089_thumb_074341_20220801194601765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[네트워크 초대석] 하승철 하동군수 "혁신으로 하동 미래 밝힐 것"]]></title>
             <link>https://tv.naver.com/v/28296370</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 31 Jul 2022 11:19:31 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220731_219/1W1EI_1659264150997ehojd_JPEG/cover_2022073190055_thumb_073646_20220731194101635.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폐자전거 '매년 3만대'…녹슬고 부서지고 '도심 흉물' 방치]]></title>
-            <link>https://tv.naver.com/v/28282183</link>
-            <guid>https://tv.naver.com/v/28282183</guid>
-            <pubDate>Sun, 31 Jul 2022 11:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220731_282/Vn9B9_16592638599277mxPa_JPEG/cover_2022073190049_thumb_073300_20220731193640870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
