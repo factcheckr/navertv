@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 05:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 전국 산발적 비‥충청·남부 다시 폭염]]></title>
+            <link>https://tv.naver.com/v/28295628</link>
+            <guid>https://tv.naver.com/v/28295628</guid>
+            <pubDate>Mon, 01 Aug 2022 06:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_297/2kvef_1659335600845Dva8s_JPEG/cover_cover_14news_20220801_151821_1_8_Large_20220801153302383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[계곡·하천 피서 '주의'‥"순식간에 휩쓸려"]]></title>
+            <link>https://tv.naver.com/v/28294977</link>
+            <guid>https://tv.naver.com/v/28294977</guid>
+            <pubDate>Mon, 01 Aug 2022 06:40:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_145/nehJ5_1659333898954tMuEW_JPEG/cover_cover_today_20220801_063555_2_4_Large_20220801150404328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규 확진 4만 명대‥고위험군 모니터링 중단]]></title>
             <link>https://tv.naver.com/v/28294705</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 31 Jul 2022 23:21:55 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_191/2JBcx_1659308603044Lgfcr_JPEG/cover_cover_today_20220801_074258_2_45_Large_20220801080301316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1분 튼튼건강]]></title>
-            <link>https://tv.naver.com/v/28288365</link>
-            <guid>https://tv.naver.com/v/28288365</guid>
-            <pubDate>Sun, 31 Jul 2022 23:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_117/AXCw2_165930860156997rhc_JPEG/cover_cover_today_20220801_074128_2_44_Large_20220801080252175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[재택플러스] 2개월 연속 '자이언트 스텝'‥반응은?]]></title>
-            <link>https://tv.naver.com/v/28288362</link>
-            <guid>https://tv.naver.com/v/28288362</guid>
-            <pubDate>Sun, 31 Jul 2022 23:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[5:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_20/iVpMJ_1659308632083Adaes_JPEG/cover_cover_today_20220801_073919_2_43_Large_20220801080242983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
