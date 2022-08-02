@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 05:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 06:28:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 강원 영동 늦은 오후까지 ‘비’…강릉 33도]]></title>
+            <link>https://tv.naver.com/v/28318909</link>
+            <guid>https://tv.naver.com/v/28318909</guid>
+            <pubDate>Tue, 02 Aug 2022 06:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_104/YeG8Y_1659421051661CLmNp_JPEG/cover_0011313198_001_20220802151701210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[14시 날씨] 전국 대부분 폭염특보…내일까지 곳곳 비]]></title>
             <link>https://tv.naver.com/v/28317349</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Aug 2022 04:35:07 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_146/dHuEy_165941092904026Vzz_JPEG/cover_0011313295_001_20220802122801191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민대 “김 여사 논문 3편 표절 아냐…1편은 검증 불가”]]></title>
-            <link>https://tv.naver.com/v/28315233</link>
-            <guid>https://tv.naver.com/v/28315233</guid>
-            <pubDate>Tue, 02 Aug 2022 04:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_172/YjvfY_1659410883148DKWew_JPEG/cover_0011313294_001_20220802122710375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
