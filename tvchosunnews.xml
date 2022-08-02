@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 10:29:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 11:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 2일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28324971</link>
+            <guid>https://tv.naver.com/v/28324971</guid>
+            <pubDate>Tue, 02 Aug 2022 11:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_14/Vniet_1659438099115ylC0F_JPEG/cover_2022080290156_thumb_075949_20220802200101633.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7월 소비자물가 6.3% 증가…IMF 외환위기 이후 최고치]]></title>
             <link>https://tv.naver.com/v/28315962</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 Aug 2022 13:48:41 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220801_196/vC1rh_1659358319303ELfu4_JPEG/cover_2022080190157_thumb_094713_20220801215101692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에너지 수입액 90%↑…14년만에 4개월 연속 '무역적자 행진']]></title>
-            <link>https://tv.naver.com/v/28304251</link>
-            <guid>https://tv.naver.com/v/28304251</guid>
-            <pubDate>Mon, 01 Aug 2022 13:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220801_147/dAYA2_1659358055593qdolR_JPEG/cover_2022080190151_thumb_094137_20220801214615480.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
