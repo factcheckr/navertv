@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 06:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 07:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/28320233</link>
+            <guid>https://tv.naver.com/v/28320233</guid>
+            <pubDate>Tue, 02 Aug 2022 07:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[8:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_133/voXYD_1659424689216wzzRj_JPEG/cover_0011313368_001_20220802161501173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 강원 영동 늦은 오후까지 ‘비’…강릉 33도]]></title>
             <link>https://tv.naver.com/v/28318909</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Aug 2022 04:35:07 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_25/QEgqG_165941099547155gwa_JPEG/cover_0011313296_001_20220802122901222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이종섭 “BTS, 입대하면 활동 기회 준다”…대체복무 불가 시사]]></title>
-            <link>https://tv.naver.com/v/28315251</link>
-            <guid>https://tv.naver.com/v/28315251</guid>
-            <pubDate>Tue, 02 Aug 2022 04:35:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_146/dHuEy_165941092904026Vzz_JPEG/cover_0011313295_001_20220802122801191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
