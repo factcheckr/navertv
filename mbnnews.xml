@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 20:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 21:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[259회_코로나19 및 일본뇌염 예방요령]]></title>
+            <link>https://tv.naver.com/v/28332011</link>
+            <guid>https://tv.naver.com/v/28332011</guid>
+            <pubDate>Tue, 02 Aug 2022 21:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[14:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_81/LzhAN_1659474516777KVB1m_JPEG/cover_cover_20220803055828_20_849_1304987_1080_7_20220803060201696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBN[토요포커스] 정도현 라파스 대표 "국내 바이오 산업의 새로운 도약"]]></title>
             <link>https://tv.naver.com/v/28331153</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Aug 2022 10:29:05 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_141/TF8am_1659435729187iMY8U_JPEG/cover_cover_20220802191629_20_552_1304952_1080_7_20220802192101257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준석 "사퇴하고서 표결" 반발…복귀 막히나]]></title>
-            <link>https://tv.naver.com/v/28324250</link>
-            <guid>https://tv.naver.com/v/28324250</guid>
-            <pubDate>Tue, 02 Aug 2022 10:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220802_142/bFYs9_1659435596245NT9eS_JPEG/cover_cover_20220802191413_20_552_1304951_1080_7_20220802191901199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
