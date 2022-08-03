@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 06:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 07:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/28342842</link>
+            <guid>https://tv.naver.com/v/28342842</guid>
+            <pubDate>Wed, 03 Aug 2022 07:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[9:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_8/vNh1W_1659511119832s0sUV_JPEG/cover_0011314130_001_20220803161601275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] 서병수 “비대위 출범시, 이준석 대표 자동 해임”]]></title>
             <link>https://tv.naver.com/v/28341558</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 Aug 2022 04:17:23 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220803_9/BSMIJ_1659497684707Pf77V_JPEG/cover_0011314061_001_20220803123401218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원도 양양서 3미터 땅꺼짐, 편의점 일부 붕괴]]></title>
-            <link>https://tv.naver.com/v/28337545</link>
-            <guid>https://tv.naver.com/v/28337545</guid>
-            <pubDate>Wed, 03 Aug 2022 04:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_248/mTZT3_1659497255535fw2FS_JPEG/cover_0011314060_001_20220803122701202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
