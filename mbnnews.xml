@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 20:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 21:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[260회_폭염 전망과 수난사고 예방요령]]></title>
+            <link>https://tv.naver.com/v/28380426</link>
+            <guid>https://tv.naver.com/v/28380426</guid>
+            <pubDate>Thu, 04 Aug 2022 21:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[14:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_116/yhL1R_1659647598636UrzdW_JPEG/cover_cover_20220805060128_20_849_1305179_1080_7_20220805060601285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 서울 다시 폭염주의보…밤에는 열대야]]></title>
             <link>https://tv.naver.com/v/28374472</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Aug 2022 10:25:56 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220804_190/mpWyh_16596079242952Hxvg_JPEG/cover_cover_20220804190829_20_552_1305148_1080_7_20220804191101242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령-펠로시 40분 통화…뒤바뀐 여야 공방]]></title>
-            <link>https://tv.naver.com/v/28372710</link>
-            <guid>https://tv.naver.com/v/28372710</guid>
-            <pubDate>Thu, 04 Aug 2022 10:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_258/aoCj4_1659607793435q8Qs8_JPEG/cover_cover_20220804190607_20_552_1305147_1080_7_20220804190901208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
