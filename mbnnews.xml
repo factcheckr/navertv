@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 08:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 09:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[펠로시 "순방 목적, 안보·경제협력 강화" [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/28371858</link>
+            <guid>https://tv.naver.com/v/28371858</guid>
+            <pubDate>Thu, 04 Aug 2022 09:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_111/X8fpc_16596049154560dI4m_JPEG/cover_cover_20220804181804_20_845_1305136_1080_7_20220804182101183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 8월 4일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/28371735</link>
+            <guid>https://tv.naver.com/v/28371735</guid>
+            <pubDate>Thu, 04 Aug 2022 09:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_42/F9JAL_16596045782349kG3F_JPEG/cover_cover_20220804181206_20_845_1305135_1080_7_20220804181501297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 안희정 오늘 만기 출소]]></title>
             <link>https://tv.naver.com/v/28369386</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 03 Aug 2022 23:23:54 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220804_273/RoO2I_1659567028301e9DCR_JPEG/cover_cover_20220804074400_20_605_1305100_1080_7_20220804074901207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['고 이예람 중사' 특검팀, 수사기간 30일 연장 요청]]></title>
-            <link>https://tv.naver.com/v/28357973</link>
-            <guid>https://tv.naver.com/v/28357973</guid>
-            <pubDate>Wed, 03 Aug 2022 23:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_138/tIFqT_1659566719181s3wal_JPEG/cover_cover_20220804074239_20_605_1305099_1080_7_20220804074501218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대낮 부부 흉기 피습…50대 용의자 고속도로 추격전 끝 검거]]></title>
-            <link>https://tv.naver.com/v/28357956</link>
-            <guid>https://tv.naver.com/v/28357956</guid>
-            <pubDate>Wed, 03 Aug 2022 23:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_231/CMns0_1659566641915GRE1k_JPEG/cover_cover_20220804073903_20_605_1305098_1080_7_20220804074301189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
