@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 05:33:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 06:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 04 Aug 2022 05:32:54 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220804_24/PFxXk_1659589009844ggl2Y_JPEG/1659588930406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UNDRR 동북아사무소장 “한중일, 재난 피해 경감에 IT 활용 잠재력”]]></title>
+            <link>https://tv.naver.com/v/28363825</link>
+            <guid>https://tv.naver.com/v/28363825</guid>
+            <pubDate>Thu, 04 Aug 2022 06:31:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_63/Bcipc_1659586642850oXgkU_PNG/1659586620044.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[우크라 "러, 원전을 핵방패 삼아"…IAEA "원전, 통제불능 상태"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 Aug 2022 08:29:43 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220802_93/9QFbz_1659428287369IKzNr_JPEG/1659427611178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['기러기·토마토'…넷플릭스도 머리 싸맨 '우영우' 영어 자막]]></title>
-            <link>https://tv.naver.com/v/28321186</link>
-            <guid>https://tv.naver.com/v/28321186</guid>
-            <pubDate>Tue, 02 Aug 2022 21:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_94/mnglb_1659484361337vetkF_JPEG/1659484359040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
