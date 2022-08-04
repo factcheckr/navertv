@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 13:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 14:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 올해 첫 폭염경보 낮 최고 34도…내일 26~34도]]></title>
+            <link>https://tv.naver.com/v/28376643</link>
+            <guid>https://tv.naver.com/v/28376643</guid>
+            <pubDate>Thu, 04 Aug 2022 14:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_22/G9lVV_1659621559880mXkkM_JPEG/cover_0011315188_001_20220804225901197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스9 날씨] 폭염 특보 확대, 강화…내일도 요란한 소나기]]></title>
             <link>https://tv.naver.com/v/28376239</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 Aug 2022 13:40:39 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220804_224/8dVMD_1659618416516HuwGl_JPEG/cover_0011315179_001_20220804220638488.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어제 합천·하동 등 ‘온열질환자’ 6명 발생]]></title>
-            <link>https://tv.naver.com/v/28375752</link>
-            <guid>https://tv.naver.com/v/28375752</guid>
-            <pubDate>Thu, 04 Aug 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220804_285/Pq3aW_1659618406237jD3Es_JPEG/cover_0011315178_001_20220804220630460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
