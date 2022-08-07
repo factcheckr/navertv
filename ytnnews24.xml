@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 06:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 07:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 4억 이상 떨어진 송파 아파트...수도권은 6억까지 하락]]></title>
+            <link>https://tv.naver.com/v/28417472</link>
+            <guid>https://tv.naver.com/v/28417472</guid>
+            <pubDate>Sun, 07 Aug 2022 07:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_165/lTgUW_16598555033660E2ou_JPEG/cover_cover_202208071553172623_t_20220807155702830.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규 환자 엿새째 10만 명 넘겨...일요일 기준 넉 달 새 최다]]></title>
             <link>https://tv.naver.com/v/28417034</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 07 Aug 2022 02:09:37 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220807_236/dVs8s_1659828365341bgSR4_JPEG/cover_cover_202208070813045811_t_20220807082502042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하반기 고강도 감사 시동?...중립성 논란 격화할 듯]]></title>
-            <link>https://tv.naver.com/v/28414207</link>
-            <guid>https://tv.naver.com/v/28414207</guid>
-            <pubDate>Sun, 07 Aug 2022 02:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_131/5d8kw_1659828244149WDSoM_JPEG/cover_cover_202208070811540550_t_20220807082304312.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

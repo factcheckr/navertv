@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 06:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 07:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[화나요 뉴스]신데렐라 일낼라…이때다 싶어 덤비지 마요]]></title>
+            <link>https://tv.naver.com/v/28417318</link>
+            <guid>https://tv.naver.com/v/28417318</guid>
+            <pubDate>Sun, 07 Aug 2022 07:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_197/30ctD_1659854608007WQLGT_JPEG/cover_0000231660_001_20220807154201848.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]우리가 동지입니까? / 신데렐라 장관]]></title>
             <link>https://tv.naver.com/v/28417211</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 Aug 2022 12:45:01 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220805_141/mo9NX_1659699023244leNKr_JPEG/cover_0000231605_001_20220805202921607.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 대만 상공 가로질러 日 EEZ로 미사일 날렸다]]></title>
-            <link>https://tv.naver.com/v/28396922</link>
-            <guid>https://tv.naver.com/v/28396922</guid>
-            <pubDate>Fri, 05 Aug 2022 12:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220805_188/Ir7sJ_1659699028358huq17_JPEG/cover_0000231604_001_20220805202912688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
