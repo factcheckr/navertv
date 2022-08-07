@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 20:23:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 21:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해임 위기' 이준석 "8월 13일 기자회견" 예고]]></title>
+            <link>https://tv.naver.com/v/28425177</link>
+            <guid>https://tv.naver.com/v/28425177</guid>
+            <pubDate>Sun, 07 Aug 2022 21:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_40/C7wxU_16599069277677RqEv_JPEG/cover_0000991301_001_20220808061501234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘의 주요뉴스]]></title>
             <link>https://tv.naver.com/v/28421273</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 07 Aug 2022 03:48:00 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220807_295/KFGlr_165984123544085uUt_JPEG/cover_0000991213_001_20220807120001247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이천 화재' 원인 규명 본격화…고 현은경 간호사 발인]]></title>
-            <link>https://tv.naver.com/v/28415549</link>
-            <guid>https://tv.naver.com/v/28415549</guid>
-            <pubDate>Sun, 07 Aug 2022 03:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_9/YlPuc_1659841166844P3RUD_JPEG/cover_0000991212_001_20220807115901236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
