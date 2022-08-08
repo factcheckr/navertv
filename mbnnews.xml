@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 03:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 04:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령 "국민의 뜻 잘 받들겠다" [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/28431688</link>
+            <guid>https://tv.naver.com/v/28431688</guid>
+            <pubDate>Mon, 08 Aug 2022 04:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_269/9MI4i_1659933215005WxFjT_JPEG/cover_cover_20220808133050_20_845_1305392_1080_7_20220808133301316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마트에서 사라지는 껌…"옛날 간식 아닌가요?"]]></title>
             <link>https://tv.naver.com/v/28427552</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 07 Aug 2022 23:21:59 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_112/sKPj1_1659911044407OOi2n_JPEG/cover_cover_20220808071712_20_605_1305358_1080_7_20220808072301254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8월 8일  굿모닝 MBN 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/28425546</link>
-            <guid>https://tv.naver.com/v/28425546</guid>
-            <pubDate>Sun, 07 Aug 2022 22:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_243/6zfgO_1659910801516yqmXX_JPEG/cover_cover_20220808071359_20_605_1305357_1080_7_20220808071901252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
