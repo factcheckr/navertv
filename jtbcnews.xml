@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] "제가 우승할 줄 몰랐죠"...한국인 최연소 PGA 우승 김주형]]></title>
+            <link>https://tv.naver.com/v/28432685</link>
+            <guid>https://tv.naver.com/v/28432685</guid>
+            <pubDate>Mon, 08 Aug 2022 05:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_88/0hIwI_1659935602168bTh2c_JPEG/cover_0000308859_001_20220808141301672.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤희근 "경찰권도 견제·감시 대상…중립성·책임성 훼손 안 돼"]]></title>
             <link>https://tv.naver.com/v/28430130</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 07 Aug 2022 23:21:11 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_195/Tkftv_16599109012477Kw7b_JPEG/cover_0000308785_001_20220808072101659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 찾아온 장마에 수도권 300mm 폭우…남부는 폭염]]></title>
-            <link>https://tv.naver.com/v/28425498</link>
-            <guid>https://tv.naver.com/v/28425498</guid>
-            <pubDate>Sun, 07 Aug 2022 22:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_242/6P6LS_1659910183787F7vFK_JPEG/cover_0000308784_001_20220808070901670.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

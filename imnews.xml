@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 서울 호우경보, 모레까지 최고 350mm 물폭탄]]></title>
+            <link>https://tv.naver.com/v/28432834</link>
+            <guid>https://tv.naver.com/v/28432834</guid>
+            <pubDate>Mon, 08 Aug 2022 05:25:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_17/i5STf_1659935910943mas9Q_JPEG/cover_cover_14news_20220808_135306_1_1_Large_20220808141803738.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 중부지방, 강한 비‥수도권·강원 최대 300mm 물폭탄]]></title>
             <link>https://tv.naver.com/v/28431097</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Aug 2022 01:59:05 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_46/Stq2J_1659919457354M7cdi_JPEG/cover_cover_0930_20220808_093909_1_6_Large_20220808094403449.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박진 외교장관 첫 방중‥반도체 공급망 등 논의]]></title>
-            <link>https://tv.naver.com/v/28426796</link>
-            <guid>https://tv.naver.com/v/28426796</guid>
-            <pubDate>Mon, 08 Aug 2022 01:59:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_8/tWwy5_1659919373337pR5DJ_JPEG/cover_cover_0930_20220808_093803_1_5_Large_20220808094210142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
