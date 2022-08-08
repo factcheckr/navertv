@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 16:33:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 17:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 경기 남부 시간당 100mm 폭우…도로 곳곳 침수]]></title>
+            <link>https://tv.naver.com/v/28447381</link>
+            <guid>https://tv.naver.com/v/28447381</guid>
+            <pubDate>Mon, 08 Aug 2022 17:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_58/vX8vu_1659978969636bc0tr_JPEG/cover_0011317073_001_20220809021510692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 지하철역 잠기고 도로 곳곳 침수]]></title>
+            <link>https://tv.naver.com/v/28447380</link>
+            <guid>https://tv.naver.com/v/28447380</guid>
+            <pubDate>Mon, 08 Aug 2022 17:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_288/1WnZo_1659978974956UYVXV_JPEG/cover_0011317072_001_20220809021501243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 수도권 집중호우…이 시각 중랑천]]></title>
+            <link>https://tv.naver.com/v/28447333</link>
+            <guid>https://tv.naver.com/v/28447333</guid>
+            <pubDate>Mon, 08 Aug 2022 17:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_55/PvZM2_1659978366343zthId_JPEG/cover_0011317070_001_20220809020501221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[라인 날씨] 내일까지 중부에 최대 350mm 이상 비]]></title>
             <link>https://tv.naver.com/v/28446564</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 08 Aug 2022 15:26:01 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_83/Beo8z_1659969266543HjSN4_JPEG/cover_0011317027_001_20220808233409559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 울산 사망자가 출생아보다 522명 많아]]></title>
-            <link>https://tv.naver.com/v/28445759</link>
-            <guid>https://tv.naver.com/v/28445759</guid>
-            <pubDate>Mon, 08 Aug 2022 15:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_19/QRvtZ_1659969261639mJdbm_JPEG/cover_0011317026_001_20220808233401290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 휘발유 가격 5주째 하락…리터 당 1,812원]]></title>
-            <link>https://tv.naver.com/v/28445757</link>
-            <guid>https://tv.naver.com/v/28445757</guid>
-            <pubDate>Mon, 08 Aug 2022 15:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_237/iBuPM_1659969247054YOJxm_JPEG/cover_0011317025_001_20220808233351470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 화학업계 실적 악화…이익 감소·적자 전환]]></title>
-            <link>https://tv.naver.com/v/28445754</link>
-            <guid>https://tv.naver.com/v/28445754</guid>
-            <pubDate>Mon, 08 Aug 2022 15:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_50/koxFI_1659969243855Ffrv2_JPEG/cover_0011317024_001_20220808233343329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
