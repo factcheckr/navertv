@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수도권·강원 최대 300㎜ 이상 폭우…중대본 1단계 가동]]></title>
+            <link>https://tv.naver.com/v/28433828</link>
+            <guid>https://tv.naver.com/v/28433828</guid>
+            <pubDate>Mon, 08 Aug 2022 06:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_259/TMXtW_1659938520144VGqWd_JPEG/cover_2022080890126_thumb_025554_20220808150101867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재명, 2차 경선도 압승…박용진 "당헌 개정 땐 尹 웃음꽃"]]></title>
             <link>https://tv.naver.com/v/28428023</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 07 Aug 2022 12:37:33 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220807_108/lMWT3_1659871269691HsPuF_JPEG/cover_2022080790069_thumb_080819_20220807202023407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹, 8일 업무 복귀 '13일만에 도어스테핑'…"더 낮은 자세로 국민 뜻 받들 것"]]></title>
-            <link>https://tv.naver.com/v/28419800</link>
-            <guid>https://tv.naver.com/v/28419800</guid>
-            <pubDate>Sun, 07 Aug 2022 12:37:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_228/no5tn_1659871262028uYTGF_JPEG/cover_2022080790071_thumb_080815_20220807202015664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

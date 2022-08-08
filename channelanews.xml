@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 05:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 06:31:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비대위에 맞설 가처분 신청…쟁점은?]]></title>
+            <link>https://tv.naver.com/v/28432992</link>
+            <guid>https://tv.naver.com/v/28432992</guid>
+            <pubDate>Mon, 08 Aug 2022 06:31:20 GMT</pubDate>
+            <content:encoded><![CDATA[10:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_263/2JS0e_1659936580135YVny1_JPEG/cover_0000231701_001_20220808142421329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[문자 파문 이어…권성동의 휴대폰 리스크?]]></title>
             <link>https://tv.naver.com/v/28432988</link>
@@ -14,6 +22,14 @@
             <pubDate>Mon, 08 Aug 2022 05:26:26 GMT</pubDate>
             <content:encoded><![CDATA[1:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_41/bOxu2_1659936305358wLBX5_JPEG/cover_0000231702_001_20220808142413590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자동해임 D-1…이준석 전면전 태세]]></title>
+            <link>https://tv.naver.com/v/28432983</link>
+            <guid>https://tv.naver.com/v/28432983</guid>
+            <pubDate>Mon, 08 Aug 2022 06:31:20 GMT</pubDate>
+            <content:encoded><![CDATA[5:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_52/3aerD_1659936396787DUCDt_JPEG/cover_0000231700_001_20220808142402078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민주 전대 경선 첫 주 득표율…이재명, 74% 압승]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 07 Aug 2022 11:19:38 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220807_160/8l6tE_1659870534851QbK9h_JPEG/cover_0000231663_001_20220807200716519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입추 폭염 피해 산과 바다로…끝낼 마음 없는 여름]]></title>
-            <link>https://tv.naver.com/v/28419547</link>
-            <guid>https://tv.naver.com/v/28419547</guid>
-            <pubDate>Sun, 07 Aug 2022 11:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_141/MYq2R_1659870208941njuaT_JPEG/cover_0000231661_001_20220807200201913.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석촌호수 건너 123층 계단 오르기…도심 철인 2종]]></title>
-            <link>https://tv.naver.com/v/28419449</link>
-            <guid>https://tv.naver.com/v/28419449</guid>
-            <pubDate>Sun, 07 Aug 2022 11:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220807_102/xqMeb_1659869611339naYIt_JPEG/cover_0000231676_001_20220807195201842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
