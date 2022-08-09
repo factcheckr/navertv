@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 02:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:02:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지하철 9호선 일부 ‘중단’…尹 긴급 대책회의]]></title>
+            <link>https://tv.naver.com/v/28453749</link>
+            <guid>https://tv.naver.com/v/28453749</guid>
+            <pubDate>Tue, 09 Aug 2022 04:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_263/jg86f_1660016425042wtN2V_JPEG/cover_0000231762_001_20220809123901773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중부지방, 80년 만의 물 폭탄…출근길 아수라장]]></title>
             <link>https://tv.naver.com/v/28451149</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Aug 2022 11:19:34 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_228/VgBEl_1659957271898dhIzT_JPEG/cover_0000231725_001_20220808201311349.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최고위원 선거도 싹쓸이 조짐…이재명당 눈앞에]]></title>
-            <link>https://tv.naver.com/v/28442152</link>
-            <guid>https://tv.naver.com/v/28442152</guid>
-            <pubDate>Mon, 08 Aug 2022 11:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_154/uzrW4_1659957281861vaMVB_JPEG/cover_0000231724_001_20220808201301908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
