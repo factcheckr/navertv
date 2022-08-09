@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 15:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 16:32:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 밤사이 중부 국지성 호우...내일까지 350mm 더 온다]]></title>
+            <link>https://tv.naver.com/v/28470284</link>
+            <guid>https://tv.naver.com/v/28470284</guid>
+            <pubDate>Tue, 09 Aug 2022 16:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_23/q28Ji_1660061746527Qac3r_JPEG/cover_cover_202208100052532465_t_20220810011502246.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수도권·강원 지역 곳곳 산사태 '경보·주의보' 발령]]></title>
+            <link>https://tv.naver.com/v/28469977</link>
+            <guid>https://tv.naver.com/v/28469977</guid>
+            <pubDate>Tue, 09 Aug 2022 16:31:49 GMT</pubDate>
+            <content:encoded><![CDATA[8:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_270/wvg0f_1660060467313CD51r_JPEG/cover_cover_202208100044138890_t_20220810005101961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하늘에 오른 천상의 목소리...올리비아 뉴턴 존 별세]]></title>
             <link>https://tv.naver.com/v/28468823</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 09 Aug 2022 13:52:42 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220809_28/9cPoG_1660051671632uXSNC_JPEG/cover_cover_202208092201198028_t_20220809222702625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 모레까지 수도권 300㎜·충청권 350㎜ 비 더 온다]]></title>
-            <link>https://tv.naver.com/v/28466832</link>
-            <guid>https://tv.naver.com/v/28466832</guid>
-            <pubDate>Tue, 09 Aug 2022 13:52:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_139/Nyq0u_1660050111153Rd4oN_JPEG/cover_cover_202208092156472188_t_20220809220111667.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[시청자브리핑 시시콜콜] 서울·수도권 기록적 '물폭탄', 침수·급류·산사태로 피해 '눈덩이']]></title>
-            <link>https://tv.naver.com/v/28466829</link>
-            <guid>https://tv.naver.com/v/28466829</guid>
-            <pubDate>Tue, 09 Aug 2022 13:52:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_101/T0el9_1660050136383vRA9O_JPEG/cover_cover_202208092137082624_t_20220809220103928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
