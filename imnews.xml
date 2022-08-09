@@ -4,9 +4,33 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 06:30:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 07:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBC 뉴스특보] 8명 사망·6명 실종‥ 출근길 교통 대란]]></title>
+            <link>https://tv.naver.com/v/28458621</link>
+            <guid>https://tv.naver.com/v/28458621</guid>
+            <pubDate>Tue, 09 Aug 2022 07:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:01:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_154/sHiga_1660029044699XbfRj_JPEG/1660029027328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["300mm 강우 예보에도 심각성 안 알려줘"]]></title>
+            <link>https://tv.naver.com/v/28458429</link>
+            <guid>https://tv.naver.com/v/28458429</guid>
+            <pubDate>Tue, 09 Aug 2022 07:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[21:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_261/wavdd_16600280064852tLxK_JPEG/cover_cover_14news_20220809_150353_1_11_Large_20220809154813684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['장마' 아닌 '우기' 개념으로 바꿔야?]]></title>
+            <link>https://tv.naver.com/v/28458420</link>
+            <guid>https://tv.naver.com/v/28458420</guid>
+            <pubDate>Tue, 09 Aug 2022 07:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[17:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_266/qnWpm_1660027911360Iw1BG_JPEG/cover_cover_14news_20220809_142246_1_8_Large_20220809154804097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서·중부권 집중호우‥이 시각 기상센터]]></title>
             <link>https://tv.naver.com/v/28457921</link>
@@ -30,14 +54,6 @@
             <pubDate>Tue, 09 Aug 2022 06:29:09 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220809_73/pELL0_1660026345696zg4EM_JPEG/cover_cover_14news_20220809_142635_1_9_Large_20220809152458535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 관측 115년 사상 최대 폭우‥원인은?]]></title>
-            <link>https://tv.naver.com/v/28457908</link>
-            <guid>https://tv.naver.com/v/28457908</guid>
-            <pubDate>Tue, 09 Aug 2022 06:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[17:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_33/dsd33_16600265137467gMoV_JPEG/cover_cover_14news_20220809_142246_1_8_Large_20220809152449736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[8명 사망·6명 실종‥출근길 교통대란]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 09 Aug 2022 05:27:41 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220809_161/hmief_1660018091973Mc4ld_JPEG/cover_cover_211107_car_640xx_20220809130703023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 중부 폭우 계속‥모레까지 350mm 더 예상]]></title>
-            <link>https://tv.naver.com/v/28453480</link>
-            <guid>https://tv.naver.com/v/28453480</guid>
-            <pubDate>Tue, 09 Aug 2022 04:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_79/h78AJ_1660015470322MIlHR_JPEG/cover_cover_noon_20220809_121709_1_10_Large_20220809122403017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내증시 하락세‥셀트리온 4일 연속 ↑]]></title>
-            <link>https://tv.naver.com/v/28453426</link>
-            <guid>https://tv.naver.com/v/28453426</guid>
-            <pubDate>Tue, 09 Aug 2022 04:01:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_121/AZk3N_1660015278765u3wiE_JPEG/cover_cover_noon_20220809_121553_1_9_Large_20220809122102304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
