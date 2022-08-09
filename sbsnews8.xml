@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 16:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 17:25:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/28470499</link>
+            <guid>https://tv.naver.com/v/28470499</guid>
+            <pubDate>Tue, 09 Aug 2022 17:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_124/AE9WX_1660062929040DnkIH_JPEG/cover_0000991847_001_20220810013501209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하루 확진 15만 명 육박…"확산세 더 크고 길게 이어질 수도"]]></title>
+            <link>https://tv.naver.com/v/28470488</link>
+            <guid>https://tv.naver.com/v/28470488</guid>
+            <pubDate>Tue, 09 Aug 2022 17:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_158/F2u8U_1660062901874aPOqE_JPEG/cover_0000991846_001_20220810013401240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칩4 예비회의 참석 통보…중국 "적절한 판단 기대"]]></title>
             <link>https://tv.naver.com/v/28470428</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 09 Aug 2022 13:52:08 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220809_247/gOc3a_1660049841285q6tmD_JPEG/cover_0000991788_001_20220809215601308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["300mm 더 온다" 강원 곳곳 '주의보']]></title>
-            <link>https://tv.naver.com/v/28466732</link>
-            <guid>https://tv.naver.com/v/28466732</guid>
-            <pubDate>Tue, 09 Aug 2022 13:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_296/uEwYG_1660049809776Hbdvm_JPEG/cover_0000991789_001_20220809215544489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충주댐 2년 만에 수문 개방 '예의주시']]></title>
-            <link>https://tv.naver.com/v/28466730</link>
-            <guid>https://tv.naver.com/v/28466730</guid>
-            <pubDate>Tue, 09 Aug 2022 13:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_68/4btPF_1660049819620PQBIx_JPEG/cover_0000991790_001_20220809215533921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
