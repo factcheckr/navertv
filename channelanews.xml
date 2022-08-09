@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 23:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 02:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중부지방, 80년 만의 물 폭탄…출근길 아수라장]]></title>
+            <link>https://tv.naver.com/v/28451149</link>
+            <guid>https://tv.naver.com/v/28451149</guid>
+            <pubDate>Tue, 09 Aug 2022 02:12:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_52/lXm1D_1660009600983sRPoS_JPEG/cover_0000231750_001_20220809104501845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]이재명, 손 내민 박용진에 ‘노룩악수’ / 윤 대통령, 13일 만의 도어스테핑]]></title>
             <link>https://tv.naver.com/v/28443034</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Aug 2022 11:19:34 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220808_154/uzrW4_1659957281861vaMVB_JPEG/cover_0000231724_001_20220808201301908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아군도 자중하라고 주문하지만…이준석 “소송 간다”]]></title>
-            <link>https://tv.naver.com/v/28442144</link>
-            <guid>https://tv.naver.com/v/28442144</guid>
-            <pubDate>Mon, 08 Aug 2022 11:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_300/oz63V_1659957209088JqFgG_JPEG/cover_0000231723_001_20220808201230299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
