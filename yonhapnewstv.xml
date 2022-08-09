@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 13:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 14:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수도권·영서 호우경보…밤사이 추가 피해 우려]]></title>
+            <link>https://tv.naver.com/v/28467968</link>
+            <guid>https://tv.naver.com/v/28467968</guid>
+            <pubDate>Tue, 09 Aug 2022 14:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_90/KoQVR_1660053569904AxwN7_JPEG/cover_cover_MYH20220809022000641_20220809225802918.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 밤새 중부 강한 비…모레까지 최고 350㎜]]></title>
             <link>https://tv.naver.com/v/28467686</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 Aug 2022 12:48:20 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220809_201/ZnVmA_1660044186505cuTUI_JPEG/cover_cover_MYH20220809019100641_20220809202203981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스프라임] 중부 기록적 폭우에 피해 속출…상황별 대처법은?]]></title>
-            <link>https://tv.naver.com/v/28464767</link>
-            <guid>https://tv.naver.com/v/28464767</guid>
-            <pubDate>Tue, 09 Aug 2022 12:48:20 GMT</pubDate>
-            <content:encoded><![CDATA[21:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_142/CT4MO_1660044584275MmFt3_JPEG/cover_cover_MYH20220809018900038_20220809201710896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

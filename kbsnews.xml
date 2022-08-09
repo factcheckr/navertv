@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 13:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 14:24:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 경기 남부 강한 비…하천 범람 주의]]></title>
+            <link>https://tv.naver.com/v/28468030</link>
+            <guid>https://tv.naver.com/v/28468030</guid>
+            <pubDate>Tue, 09 Aug 2022 14:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_146/eSlFj_1660053780426voJTG_JPEG/cover_0011317792_001_20220809230201247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산사태 등 3명 사망…이 시각 원주]]></title>
+            <link>https://tv.naver.com/v/28467897</link>
+            <guid>https://tv.naver.com/v/28467897</guid>
+            <pubDate>Tue, 09 Aug 2022 14:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_227/z5jPx_1660053306847An34m_JPEG/cover_0011317688_001_20220809225401216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 수능 D-100, 노력과 정성의 결실]]></title>
             <link>https://tv.naver.com/v/28467802</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 09 Aug 2022 13:51:52 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220809_132/kNfet_1660052621425TJskV_JPEG/cover_0011317670_001_20220809224251936.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 출퇴근길 ‘아수라장’…차량도 버리고 갔다]]></title>
-            <link>https://tv.naver.com/v/28467677</link>
-            <guid>https://tv.naver.com/v/28467677</guid>
-            <pubDate>Tue, 09 Aug 2022 13:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_111/HnSVH_1660052627420w3ez5_JPEG/cover_0011317669_001_20220809224240137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 대중교통 이용객 대혼란…“정보는 어디에!”]]></title>
-            <link>https://tv.naver.com/v/28467673</link>
-            <guid>https://tv.naver.com/v/28467673</guid>
-            <pubDate>Tue, 09 Aug 2022 13:51:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_229/WCAMN_1660052613420zpvCo_JPEG/cover_0011317668_001_20220809224228179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
