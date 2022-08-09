@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 10:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 11:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 9일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28464153</link>
+            <guid>https://tv.naver.com/v/28464153</guid>
+            <pubDate>Tue, 09 Aug 2022 11:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_4/S1apq_16600420083160NzmV_JPEG/cover_2022080990203_thumb_074208_20220809194601846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지하철 9호선 2시부터 정상 운행…서울시내 도로 여전히 통제]]></title>
             <link>https://tv.naver.com/v/28461471</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 Aug 2022 23:25:21 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220809_107/3hoHt_16599981946783s3Fn_JPEG/cover_2022080990002_thumb_073337_20220809073602079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[입추 지났는데 폭우?…10일까지 최대 350㎜ 더 쏟아진다]]></title>
-            <link>https://tv.naver.com/v/28445501</link>
-            <guid>https://tv.naver.com/v/28445501</guid>
-            <pubDate>Mon, 08 Aug 2022 14:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220808_187/ixjSZ_1659968207577xoNzE_JPEG/cover_2022080890224_thumb_111058_20220808231601873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
