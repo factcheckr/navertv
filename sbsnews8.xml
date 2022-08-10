@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 20:23:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 21:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 비구름 다시 수도권으로…평택 시간당 45mm 강한 비]]></title>
+            <link>https://tv.naver.com/v/28496310</link>
+            <guid>https://tv.naver.com/v/28496310</guid>
+            <pubDate>Wed, 10 Aug 2022 21:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_138/DM1jc_1660166087155r4lEw_JPEG/cover_0000992135_001_20220811061401212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/28495223</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 10 Aug 2022 13:37:26 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220810_229/yJbl0_1660136812508VeDMA_JPEG/cover_0000992079_001_20220810220532770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비판 칼럼 쓰자, 기재부 나서 "예산 내역 내놔라"]]></title>
-            <link>https://tv.naver.com/v/28491363</link>
-            <guid>https://tv.naver.com/v/28491363</guid>
-            <pubDate>Wed, 10 Aug 2022 13:37:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_186/3VcUf_1660136808409M40H9_JPEG/cover_0000992080_001_20220810220522564.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
