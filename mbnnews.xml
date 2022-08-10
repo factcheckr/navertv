@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 01:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 03:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[262회_코로나19 및 온열질환 예방요령]]></title>
+            <link>https://tv.naver.com/v/28475151</link>
+            <guid>https://tv.naver.com/v/28475151</guid>
+            <pubDate>Wed, 10 Aug 2022 03:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[15:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_23/wHNXK_1660099751501GY24L_JPEG/cover_cover_20220810113313_20_849_1305584_1080_7_20220810114001311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인하대 가해 학생에 '미필적 고의' 살인죄 적용…"추락 당시 기억 안 나"]]></title>
             <link>https://tv.naver.com/v/28473610</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 Aug 2022 22:22:40 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220810_97/9c3W8_1660083748970Ccuak_JPEG/cover_cover_20220810071721_20_605_1305550_1080_7_20220810072101224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정류장 지반 무너지며 급류에 사망…수도권 3명 사망·3명 실종]]></title>
-            <link>https://tv.naver.com/v/28471771</link>
-            <guid>https://tv.naver.com/v/28471771</guid>
-            <pubDate>Tue, 09 Aug 2022 22:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_268/IX8PY_166008348726618qBh_JPEG/cover_cover_20220810071443_20_605_1305549_1080_7_20220810071701226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
