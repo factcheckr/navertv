@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 10:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 11:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 10일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28488202</link>
+            <guid>https://tv.naver.com/v/28488202</guid>
+            <pubDate>Wed, 10 Aug 2022 11:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_155/ghgIY_1660128410876vRbHh_JPEG/cover_2022081090166_thumb_074444_20220810194602004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장마전선, 내일 다시 북상…아침부터 수도권·강원 '많은 비']]></title>
             <link>https://tv.naver.com/v/28479129</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 Aug 2022 13:52:49 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220809_38/OMOwA_16600507192758w9TN_JPEG/cover_2022080990220_thumb_100552_20220809221101801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7080 '로망' 올리비아 뉴턴존, 암투병 끝 별세]]></title>
-            <link>https://tv.naver.com/v/28466831</link>
-            <guid>https://tv.naver.com/v/28466831</guid>
-            <pubDate>Tue, 09 Aug 2022 13:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_299/3uh4H_1660050153732nDS1W_JPEG/cover_2022080990250_thumb_095650_20220809220101815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
