@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 08:28:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 09:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 10 Aug 2022 08:26:52 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220810_204/q1CUy_1660119706937Okxpa_JPEG/cover_cover_5news_20220810_171647_1_14_Large_20220810172102686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스특보] '물폭탄' 남하‥이 시각 기상센터]]></title>
+            <link>https://tv.naver.com/v/28484607</link>
+            <guid>https://tv.naver.com/v/28484607</guid>
+            <pubDate>Wed, 10 Aug 2022 09:21:47 GMT</pubDate>
+            <content:encoded><![CDATA[27:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_239/2di7y_1660119782347FzYCr_JPEG/1660119780052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["사드 3불, 합의나 약속 아니라고 분명히 밝혀"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 10 Aug 2022 06:29:08 GMT</pubDate>
             <content:encoded><![CDATA[6:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220810_258/2qbUB_1660109888443cu5n0_JPEG/cover_cover_220704_lg_640_20220810143526280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엠빅뉴스] 남자 선수가 스포츠브라를? 다 이유가 있다!]]></title>
-            <link>https://tv.naver.com/v/28478961</link>
-            <guid>https://tv.naver.com/v/28478961</guid>
-            <pubDate>Wed, 10 Aug 2022 06:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_57/aBPTU_16601098498958JzwU_JPEG/cover_cover_220620_bra_640_RE_20220810143514865.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
