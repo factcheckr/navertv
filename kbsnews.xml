@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 13:38:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 14:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 30.5도…내일 오후부터 5~40mm 비]]></title>
+            <link>https://tv.naver.com/v/28492575</link>
+            <guid>https://tv.naver.com/v/28492575</guid>
+            <pubDate>Wed, 10 Aug 2022 14:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_13/0w8Yr_1660140261791Fhk18_JPEG/cover_0011318593_001_20220810230401249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사형수 김창수에서 독립운동가로…‘청년 김구 역사거리’ 조성]]></title>
             <link>https://tv.naver.com/v/28491802</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 10 Aug 2022 13:37:07 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220810_283/mOS8K_1660137078230hnXmj_JPEG/cover_0011318586_001_20220810221101292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스9 날씨] 모레까지 충청·전북 최대 250mm 이상 비…남해안·제주 폭염]]></title>
-            <link>https://tv.naver.com/v/28491489</link>
-            <guid>https://tv.naver.com/v/28491489</guid>
-            <pubDate>Wed, 10 Aug 2022 13:37:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_274/lCvhP_16601370426592dUmc_JPEG/cover_0011318585_001_20220810221005355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
