@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 10:26:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 11:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 11일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28514241</link>
+            <guid>https://tv.naver.com/v/28514241</guid>
+            <pubDate>Thu, 11 Aug 2022 11:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_254/4sgjP_1660214804898QLlqG_JPEG/cover_2022081190168_thumb_074305_20220811194601858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전북지역 강한 비…폭우에 11명 사망·8명 실종]]></title>
             <link>https://tv.naver.com/v/28505645</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 10 Aug 2022 23:21:56 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_58/NU39G_1660171000650U2q4k_JPEG/cover_2022081190001_thumb_073109_20220811073602045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8월 10일 '뉴스 9' 클로징]]></title>
-            <link>https://tv.naver.com/v/28491226</link>
-            <guid>https://tv.naver.com/v/28491226</guid>
-            <pubDate>Wed, 10 Aug 2022 13:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[0:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_237/yWlmE_1660136485693bLuXG_JPEG/cover_2022081090233_thumb_095753_20220810220114589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
