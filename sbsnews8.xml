@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[실시간 e뉴스] "물난리 난 와중에?" 제주도 연수 떠난 의원님들]]></title>
+            <link>https://tv.naver.com/v/28504782</link>
+            <guid>https://tv.naver.com/v/28504782</guid>
+            <pubDate>Thu, 11 Aug 2022 06:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_55/AMl2x_1660195841390kjEh3_JPEG/cover_0000992177_001_20220811143005236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한강 잠수교 수위 '8.21m'…서울 도로 17곳 통제]]></title>
+            <link>https://tv.naver.com/v/28504619</link>
+            <guid>https://tv.naver.com/v/28504619</guid>
+            <pubDate>Thu, 11 Aug 2022 06:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_266/qRAtk_1660195516794Gez7A_JPEG/cover_0000992249_001_20220811142411234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 시작된 폭우…충청권 곳곳 침수 피해 속출]]></title>
+            <link>https://tv.naver.com/v/28504616</link>
+            <guid>https://tv.naver.com/v/28504616</guid>
+            <pubDate>Thu, 11 Aug 2022 06:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_275/cB1nb_1660195525562xy1zV_JPEG/cover_0000992248_001_20220811142401243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[갤럭시는 '폭우' 아이폰은 '화창'? 휴대폰마다 날씨 예측이 다른 이유 [오목교 전자상가 EP.100]]]></title>
             <link>https://tv.naver.com/v/28502993</link>
@@ -160,14 +184,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_122/rJDyq_1660177509569MRjNU_JPEG/cover_0000992179_001_20220811092401199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["물난리 난 와중에?" 제주도 연수 떠난 의원님들]]></title>
-            <link>https://tv.naver.com/v/28497547</link>
-            <guid>https://tv.naver.com/v/28497547</guid>
-            <pubDate>Thu, 11 Aug 2022 01:55:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_141/lu1F1_1660175913955IkHBr_JPEG/cover_0000992177_001_20220811085801238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[서울시, 지하 · 반지하 없앤다…비상 매뉴얼 시급]]></title>
             <link>https://tv.naver.com/v/28497218</link>
             <guid>https://tv.naver.com/v/28497218</guid>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 10 Aug 2022 23:21:20 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_45/opMgE_1660172332827IsYEA_JPEG/cover_0000992154_001_20220811075801216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광복절 특사에 정치인 제외…낮은 지지율에 발목]]></title>
-            <link>https://tv.naver.com/v/28497132</link>
-            <guid>https://tv.naver.com/v/28497132</guid>
-            <pubDate>Wed, 10 Aug 2022 23:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_253/jURXa_1660172166515c8mtU_JPEG/cover_0000992153_001_20220811075501209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 반도체 협의체 견제에 사드 공세까지]]></title>
-            <link>https://tv.naver.com/v/28497101</link>
-            <guid>https://tv.naver.com/v/28497101</guid>
-            <pubDate>Wed, 10 Aug 2022 23:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_36/54Lk3_1660172042480Q1Vib_JPEG/cover_0000992152_001_20220811075301201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

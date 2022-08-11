@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 05:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 06:32:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전북지역 강한 비…폭우에 11명 사망·8명 실종]]></title>
+            <link>https://tv.naver.com/v/28505645</link>
+            <guid>https://tv.naver.com/v/28505645</guid>
+            <pubDate>Thu, 11 Aug 2022 06:32:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_221/UuCKj_1660197729496PXv9B_JPEG/cover_2022081190126_thumb_025737_20220811150101894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['정점' 온다더니 확대일로…확진 15만 넘고 해외유입도 역대 최대]]></title>
             <link>https://tv.naver.com/v/28502992</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 10 Aug 2022 13:38:07 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220810_237/yWlmE_1660136485693bLuXG_JPEG/cover_2022081090233_thumb_095753_20220810220114589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 12일 오전까지 전국 대부분 비…폭우 주의]]></title>
-            <link>https://tv.naver.com/v/28491216</link>
-            <guid>https://tv.naver.com/v/28491216</guid>
-            <pubDate>Wed, 10 Aug 2022 13:38:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220810_11/ZJtb3_1660136496507eRGxD_JPEG/cover_2022081090231_thumb_095736_20220810220108832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
