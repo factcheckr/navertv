@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 03:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 04:32:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 11 Aug 2022 03:22:29 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_33/git7I_1660188118071vU74g_JPEG/cover_cover_noon_20220811_121519_1_11_Large_20220811122131325.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC 12시뉴스] 시간당 50mm 폭우‥ 이 시각 청주 무심천]]></title>
+            <link>https://tv.naver.com/v/28501574</link>
+            <guid>https://tv.naver.com/v/28501574</guid>
+            <pubDate>Thu, 11 Aug 2022 04:30:59 GMT</pubDate>
+            <content:encoded><![CDATA[17:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_235/WlLeP_1660188088855I6JFc_JPEG/8b7d122d-1924-11ed-ac30-505dac8c37f3_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통일부 "북, 코로나 유입 주장·위협 발언 강한 유감"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 11 Aug 2022 01:54:59 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_206/TY6Zb_1660179241815af4wE_JPEG/cover_cover_0930_20220811_093439_1_3_Large_20220811095317126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간당 50mm 폭우‥이 시각 청주 무심천]]></title>
-            <link>https://tv.naver.com/v/28498243</link>
-            <guid>https://tv.naver.com/v/28498243</guid>
-            <pubDate>Thu, 11 Aug 2022 01:54:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_95/4GnWO_1660179234492AjFgP_JPEG/cover_cover_0930_20220811_093244_1_2_Large_20220811095310128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
