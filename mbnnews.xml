@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 08:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 09:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 8월 11일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/28511785</link>
+            <guid>https://tv.naver.com/v/28511785</guid>
+            <pubDate>Thu, 11 Aug 2022 09:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_178/qtJlB_1660208627847DEEtW_JPEG/cover_cover_20220811180112_20_845_1305694_1080_7_20220811180302282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸 날씨]내일 오전까지 충청이남, 강하고 많은 비 집중…많은 곳 120mm↑]]></title>
             <link>https://tv.naver.com/v/28509559</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 11 Aug 2022 01:56:06 GMT</pubDate>
             <content:encoded><![CDATA[28:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_80/StOmJ_16601801489722YDX4_JPEG/cover_cover_20220811095024_20_606_1305665_1080_7_20220811095501249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울페스타 2022' 공식 개막…"서울 관광 회복 신호탄"]]></title>
-            <link>https://tv.naver.com/v/28498032</link>
-            <guid>https://tv.naver.com/v/28498032</guid>
-            <pubDate>Thu, 11 Aug 2022 01:56:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_54/WbwMy_1660178247500LtwKE_JPEG/cover_cover_20220811093356_20_689_1305664_1080_7_20220811093701786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
