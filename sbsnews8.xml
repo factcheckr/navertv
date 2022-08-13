@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 05:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 06:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 튜브 타다가 1km 떠밀려가…"대형 튜브 주의"]]></title>
+            <link>https://tv.naver.com/v/28550520</link>
+            <guid>https://tv.naver.com/v/28550520</guid>
+            <pubDate>Sat, 13 Aug 2022 06:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220813_271/AzeNB_1660371954852s9bA1_PNG/cover_0000992684_001_20220813152501212.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[민주당, 오늘 부·울·경 전대 순회경선…오후 투표결과 발표]]></title>
             <link>https://tv.naver.com/v/28548710</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 Aug 2022 22:23:08 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220813_248/T2Imn_1660339409798BzwnH_JPEG/cover_0000992621_001_20220813062301222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모처럼 비친 햇살 속 복구…주말 비 예보에 긴장 '지속']]></title>
-            <link>https://tv.naver.com/v/28543137</link>
-            <guid>https://tv.naver.com/v/28543137</guid>
-            <pubDate>Fri, 12 Aug 2022 14:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_137/mQpiT_1660312431905Y9EXX_JPEG/cover_0000992568_001_20220812225223096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
