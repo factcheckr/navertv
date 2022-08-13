@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 08:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 09:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이준석 "윤핵관 · 윤핵관 호소인, 수도권 열세 지역 출마 선언하라"]]></title>
+            <link>https://tv.naver.com/v/28552179</link>
+            <guid>https://tv.naver.com/v/28552179</guid>
+            <pubDate>Sat, 13 Aug 2022 09:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:03:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220813_189/VA6mP_1660380518674YwawK_JPEG/cover_0000992682_001_20220813174501193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비디오머그] "돈 내라니까 주먹이…" 택시비 먹튀 실패하자 5분간 폭행]]></title>
             <link>https://tv.naver.com/v/28551599</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 Aug 2022 22:23:08 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220813_282/CEJ3T_1660342659827KN8Gj_JPEG/cover_0000992626_001_20220813071610792.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더딘 복구작업에 '답답'…또 비 소식에 '걱정']]></title>
-            <link>https://tv.naver.com/v/28546682</link>
-            <guid>https://tv.naver.com/v/28546682</guid>
-            <pubDate>Fri, 12 Aug 2022 22:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220813_294/iMgMC_1660342648438rmFgB_JPEG/cover_0000992625_001_20220813071601426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
