@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 19:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 20:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 8월 14일]]></title>
+            <link>https://tv.naver.com/v/28558078</link>
+            <guid>https://tv.naver.com/v/28558078</guid>
+            <pubDate>Sat, 13 Aug 2022 20:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[30:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_152/fSuW0_16604210209870ej6d_JPEG/cover_cover_MYH20220812017100038_20220814050102142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사교육공화국 벗어나기…교육, 노동·주택 정책과 함께해야 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/28555419</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 Aug 2022 08:27:17 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220813_85/92By6_1660376040814D1s6k_JPEG/cover_cover_MYH20220813006700641_20220813163202620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12만 명대 확진…위중증·사망 석 달 만에 최대]]></title>
-            <link>https://tv.naver.com/v/28551158</link>
-            <guid>https://tv.naver.com/v/28551158</guid>
-            <pubDate>Sat, 13 Aug 2022 07:21:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220813_51/Fs17J_1660375157477IcWcB_JPEG/cover_cover_MYH20220813006600641_20220813161802508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
