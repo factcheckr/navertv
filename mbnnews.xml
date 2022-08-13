@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 20:23:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 21:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[254회_수난사고 예방요령과 태풍 전망]]></title>
+            <link>https://tv.naver.com/v/28558233</link>
+            <guid>https://tv.naver.com/v/28558233</guid>
+            <pubDate>Sat, 13 Aug 2022 21:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[15:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_233/RVBiz_16604252094069t9UG_JPEG/cover_cover_20220814060217_20_849_1305880_1080_7_20220814060601286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스센터 날씨] 밤사이 중부지방 다시 집중호우…남부 폭염 계속]]></title>
             <link>https://tv.naver.com/v/28553850</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 Aug 2022 03:24:20 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220813_28/Efud2_1660356004461Ot1TT_JPEG/cover_cover_20220813105416_20_675_1305851_1080_7_20220813105901242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비 잠시 멈춘 서울 '쓰레기와 전쟁'…폐기물 1만 톤 예상]]></title>
-            <link>https://tv.naver.com/v/28547757</link>
-            <guid>https://tv.naver.com/v/28547757</guid>
-            <pubDate>Sat, 13 Aug 2022 03:24:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220813_233/Z1MU6_1660355767735sa6W1_JPEG/cover_cover_20220813105148_20_675_1305850_1080_7_20220813105501227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
