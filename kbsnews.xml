@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 10:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 11:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7시 날씨] 내일도 중부·경북·전북에 비…남부엔 폭염]]></title>
+            <link>https://tv.naver.com/v/28553626</link>
+            <guid>https://tv.naver.com/v/28553626</guid>
+            <pubDate>Sat, 13 Aug 2022 11:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220813_166/BIrUC_1660388426602zCYIr_JPEG/cover_0011320329_001_20220813200001243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신규 확진 12만 명대…서울 이재민 대피소서 1명 추가 확진]]></title>
             <link>https://tv.naver.com/v/28553134</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 12 Aug 2022 23:21:05 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220813_74/ctnqz_16603452388362yJWW_JPEG/cover_0011320264_001_20220813075901212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 고속도로]]></title>
-            <link>https://tv.naver.com/v/28546833</link>
-            <guid>https://tv.naver.com/v/28546833</guid>
-            <pubDate>Fri, 12 Aug 2022 23:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220813_14/r9WHc_1660345044483rSmQr_JPEG/cover_0011320263_001_20220813075701258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
