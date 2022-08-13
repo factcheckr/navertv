@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 21:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 22:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 12 Aug 2022 22:23:34 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220812_98/DIQMC_1660294206380NgyQr_JPEG/1660294204392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반지하 없애면 세입자는 어디로 가나요]]></title>
+            <link>https://tv.naver.com/v/28544165</link>
+            <guid>https://tv.naver.com/v/28544165</guid>
+            <pubDate>Sat, 13 Aug 2022 22:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220812_18/KqdgL_1660315357426f6H9l_JPEG/1660315291988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트럼프 자택 압수수색 대상에 핵무기 문건 포함설]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 11 Aug 2022 03:23:05 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220811_300/y9bdq_1660182742242Ho96P_JPEG/1660182708203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타임스스퀘어에 뜬 BTS와 갤럭시…베를린에선 K팝 떼창까지]]></title>
-            <link>https://tv.naver.com/v/28500932</link>
-            <guid>https://tv.naver.com/v/28500932</guid>
-            <pubDate>Thu, 11 Aug 2022 03:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220811_296/XfExj_1660186621505E7315_JPEG/1660186565201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
