@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 08:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 09:22:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[재택플러스] '마트 치킨' vs. '프랜차이즈 치킨']]></title>
+            <link>https://tv.naver.com/v/28563352</link>
+            <guid>https://tv.naver.com/v/28563352</guid>
+            <pubDate>Sun, 14 Aug 2022 09:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_290/Zn4Dr_16604656658167i9Jf_JPEG/cover_cover_today_20220805_073626_2_40_Large_20220814172702746.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBC뉴스] - "시간당 110mm 폭우"‥충남 피해 속출]]></title>
             <link>https://tv.naver.com/v/28559731</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 Aug 2022 11:17:44 GMT</pubDate>
             <content:encoded><![CDATA[0:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220813_53/x7dPb_16603867970684gtnK_JPEG/cover_cover_desk_20220812_203821_1_25_Large_20220813193302393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[500mm 내린 강원 영서 주말 비 또 온다‥이 시각 횡성 수해 복구 현장]]></title>
-            <link>https://tv.naver.com/v/28551601</link>
-            <guid>https://tv.naver.com/v/28551601</guid>
-            <pubDate>Sat, 13 Aug 2022 08:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220813_99/mDCfm_1660377228668LgyB4_JPEG/cover_cover_5news_20220813_162241_1_3_Large_20220813165303508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
