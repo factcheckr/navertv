@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 06:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 07:21:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 경복궁 등 4대 궁궐 '소규모 웨딩촬영' 다음 달부터 허가 없이 가능]]></title>
+            <link>https://tv.naver.com/v/28574677</link>
+            <guid>https://tv.naver.com/v/28574677</guid>
+            <pubDate>Mon, 15 Aug 2022 07:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_59/IHeSF_1660545084127ixAq0_JPEG/cover_0000309875_001_20220815153101689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["미 캘리포니아, 100년 또는 200년 만의 대홍수 발생할 수도"]]></title>
             <link>https://tv.naver.com/v/28574399</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 14 Aug 2022 12:37:53 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220814_291/NDT8v_1660477652539fKere_JPEG/cover_0000309799_001_20220814204601733.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광복절 밤부터 또 쏟아진다…시간당 50㎜ '폭포 비']]></title>
-            <link>https://tv.naver.com/v/28565797</link>
-            <guid>https://tv.naver.com/v/28565797</guid>
-            <pubDate>Sun, 14 Aug 2022 12:37:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_266/48pq9_1660477557296chFgM_JPEG/cover_0000309798_001_20220814204501687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
