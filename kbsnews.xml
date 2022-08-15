@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 18:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 19:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[여론조사] “尹, 집중호우 자택 지시 부적절” 65%]]></title>
+            <link>https://tv.naver.com/v/28583184</link>
+            <guid>https://tv.naver.com/v/28583184</guid>
+            <pubDate>Mon, 15 Aug 2022 19:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_114/rhOL5_1660589568116sALc6_JPEG/cover_0011321157_001_20220816035210745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여론조사] 윤 대통령 국정 평가 “못 한다” 67%·“잘 한다” 28%]]></title>
+            <link>https://tv.naver.com/v/28583182</link>
+            <guid>https://tv.naver.com/v/28583182</guid>
+            <pubDate>Mon, 15 Aug 2022 19:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_173/0rGXB_16605895646411wDaB_JPEG/cover_0011321156_001_20220816035201270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보] 밤사이 정체전선 남하로 곳곳에 집중호우…내일까지 150mm↑]]></title>
             <link>https://tv.naver.com/v/28582996</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 15 Aug 2022 16:33:01 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_272/HWiVN_1660577549219horhl_JPEG/cover_0011321162_001_20220816003120621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤사이 정체전선 남하로 곳곳에 집중호우…산사태 비상]]></title>
-            <link>https://tv.naver.com/v/28582161</link>
-            <guid>https://tv.naver.com/v/28582161</guid>
-            <pubDate>Mon, 15 Aug 2022 16:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_165/g53Cn_1660577524514x1Irr_JPEG/cover_0011321161_001_20220816003112272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위중증 한 달 새 8배…취약계층 생활치료센터 검토]]></title>
-            <link>https://tv.naver.com/v/28582158</link>
-            <guid>https://tv.naver.com/v/28582158</guid>
-            <pubDate>Mon, 15 Aug 2022 16:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_184/vcccV_1660577507393CW3xy_JPEG/cover_0011321160_001_20220816003103157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
