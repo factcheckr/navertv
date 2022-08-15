@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 10:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 11:19:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 15일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28578380</link>
+            <guid>https://tv.naver.com/v/28578380</guid>
+            <pubDate>Mon, 15 Aug 2022 11:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_173/tLJjw_1660560716948biyW9_JPEG/cover_2022081590165_thumb_074831_20220815195101807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['광복절 새벽 폭주'…대구·광주서 오토바이 난폭 운전 잇따라]]></title>
             <link>https://tv.naver.com/v/28575903</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 14 Aug 2022 23:22:10 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220815_213/5qwkd_1660516890666nNjAf_JPEG/cover_2022081590020_thumb_073956_20220815074114439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹대통령 "무명의 희생 끝까지 챙길 것"…인적쇄신 '고심']]></title>
-            <link>https://tv.naver.com/v/28570047</link>
-            <guid>https://tv.naver.com/v/28570047</guid>
-            <pubDate>Sun, 14 Aug 2022 23:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_159/HA4XC_16605169085919kLKP_JPEG/cover_2022081590018_thumb_073933_20220815074108634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
