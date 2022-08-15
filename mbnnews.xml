@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 11:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 12:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령 "일본은 이웃" 강조…위안부 언급 없어]]></title>
+            <link>https://tv.naver.com/v/28579553</link>
+            <guid>https://tv.naver.com/v/28579553</guid>
+            <pubDate>Mon, 15 Aug 2022 12:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_4/1QbUS_1660565543383NP6X8_JPEG/cover_cover_20220815210901_20_552_1305948_1080_7_20220815211101263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 차츰 전국 비… 곳곳 시간당 50mm↑ 집중호우 주의]]></title>
             <link>https://tv.naver.com/v/28578346</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 14 Aug 2022 11:19:37 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220814_241/4eXC0_1660475640132WRpFT_JPEG/cover_cover_20220814200702_20_906_1305914_1080_7_20220814201301261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최악의 가뭄에호수도 강도 바닥 드러내…"매일 머리 감지 마" 호소까지]]></title>
-            <link>https://tv.naver.com/v/28565294</link>
-            <guid>https://tv.naver.com/v/28565294</guid>
-            <pubDate>Sun, 14 Aug 2022 11:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220814_203/ZFJNM_1660475412897nuaYR_JPEG/cover_cover_20220814200550_20_906_1305912_1080_7_20220814200901241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
