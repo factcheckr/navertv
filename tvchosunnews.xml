@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 05:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 06:28:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 달리던 트럭 타이어 '펑'…SUV와 정면 충돌, 2명 부상]]></title>
+            <link>https://tv.naver.com/v/28591509</link>
+            <guid>https://tv.naver.com/v/28591509</guid>
+            <pubDate>Tue, 16 Aug 2022 06:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_147/IIJvx_1660630572480GeVfM_JPEG/cover_2022081690155_thumb_031246_20220816151601866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 與비대위, 충청·호남·수도권 초재선 배치]]></title>
             <link>https://tv.naver.com/v/28584390</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 15 Aug 2022 13:45:31 GMT</pubDate>
             <content:encoded><![CDATA[3:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220815_208/733hp_1660568262292fHTuq_JPEG/cover_2022081590218_thumb_095327_20220815215609363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[따져보니] 키즈카페서 또 사망사고…관리 사각지대 이유는?]]></title>
-            <link>https://tv.naver.com/v/28580272</link>
-            <guid>https://tv.naver.com/v/28580272</guid>
-            <pubDate>Mon, 15 Aug 2022 13:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_155/mleyQ_1660568246084S1mjw_JPEG/cover_2022081590206_thumb_095034_20220815215601926.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
