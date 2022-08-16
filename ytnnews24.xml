@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 18:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 19:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명-박용진, 선거 패배·당헌 개정 등 두고 충돌]]></title>
+            <link>https://tv.naver.com/v/28604528</link>
+            <guid>https://tv.naver.com/v/28604528</guid>
+            <pubDate>Tue, 16 Aug 2022 19:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_131/JuJaW_1660676956207JdqU8_JPEG/cover_cover_202208170405216903_t_20220817040901814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[美, 타이완 긴장 속 연기했던 ICBM 시험 발사]]></title>
             <link>https://tv.naver.com/v/28604317</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 Aug 2022 15:25:31 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_270/iThij_1660660343748iuNFu_JPEG/cover_cover_202208162326050907_t_20220816233102210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['日 비판' 빠진 경축사 반겼지만..."낮은 지지율로는 해결 역부족"]]></title>
-            <link>https://tv.naver.com/v/28601886</link>
-            <guid>https://tv.naver.com/v/28601886</guid>
-            <pubDate>Tue, 16 Aug 2022 15:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_129/kEeGW_1660660090908tSh9i_JPEG/cover_cover_202208162325265767_t_20220816232702274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
