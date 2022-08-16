@@ -4,17 +4,9 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 08:25:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[날씨]오늘 남부 지역 폭우]]></title>
-            <link>https://tv.naver.com/v/28593326</link>
-            <guid>https://tv.naver.com/v/28593326</guid>
-            <pubDate>Tue, 16 Aug 2022 07:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_47/dgbaJ_1660634322746Db01B_JPEG/cover_0000232159_001_20220816161802232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[비행기서 우는 아이 부모에게…“누가 애 낳으래?” 침도 뱉어]]></title>
             <link>https://tv.naver.com/v/28591067</link>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 15 Aug 2022 12:46:18 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220815_284/2VNtb_1660563398954Npkrr_JPEG/cover_0000232118_001_20220815203526096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지상 이사 때 월 20만 원 지원…찔끔 반지하 대책]]></title>
+            <link>https://tv.naver.com/v/28578962</link>
+            <guid>https://tv.naver.com/v/28578962</guid>
+            <pubDate>Tue, 16 Aug 2022 08:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220815_235/KQAxW_1660563391548Trmw4_JPEG/cover_0000232119_001_20220815203516731.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
