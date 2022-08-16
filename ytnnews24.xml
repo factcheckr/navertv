@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/ytnnews24/clips</id>
-    <title>뉴스는 YTN ─ 네이버TV</title>
-    <updated>2022-08-16T22:24:50.044Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/ytnnews24/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스는 YTN ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 16 Aug 2022 23:21:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[尹, 오늘 취임 100일 기자회견...여당 내홍 등 화두]]></title>
+            <link>https://tv.naver.com/v/28606196</link>
+            <guid>https://tv.naver.com/v/28606196</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_227/KsdYR_1660691276497caKX2_JPEG/cover_cover_202208170801352650_t_20220817080701954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] "중국 위협 염두에 둔 것 아냐"...美, 미니트맨-3 시험발사]]></title>
+            <link>https://tv.naver.com/v/28606092</link>
+            <guid>https://tv.naver.com/v/28606092</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_166/WZOig_1660690540736VckPR_JPEG/cover_cover_202208170747549458_t_20220817075504495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 남해안·제주 호우, 중부 소나기...내륙 30℃ 더위]]></title>
+            <link>https://tv.naver.com/v/28606014</link>
+            <guid>https://tv.naver.com/v/28606014</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_175/5qiPg_1660690088996WxPA7_JPEG/cover_cover_202208170744082329_t_20220817074725532.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[굿모닝경제] 5년 간 270만 호 공급...서울에만 50만 호 짓는다]]></title>
+            <link>https://tv.naver.com/v/28606013</link>
+            <guid>https://tv.naver.com/v/28606013</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[17:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_125/gr1n2_16606903475302LQg4_JPEG/cover_cover_202208170729536652_t_20220817074708563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크림반도 탄약고 폭발...러시아 "비밀 파괴 공작"]]></title>
+            <link>https://tv.naver.com/v/28605982</link>
+            <guid>https://tv.naver.com/v/28605982</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_85/1EkdS_1660689681313TAmww_JPEG/cover_cover_202208162332065473_t_20220817074104883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든, 910조원 인플레 감축법 서명 ...현대차 등 전기차 업계 '화들짝']]></title>
+            <link>https://tv.naver.com/v/28605954</link>
+            <guid>https://tv.naver.com/v/28605954</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_18/YYiC3_1660689351931zs2nl_JPEG/cover_cover_202208170730591952_t_20220817073502112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 타이완 갈등에 연기했던 ICBM 시험발사 실시]]></title>
+            <link>https://tv.naver.com/v/28605881</link>
+            <guid>https://tv.naver.com/v/28605881</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_86/P5ugn_16606886259758iFrW_JPEG/cover_cover_202208170712310918_t_20220817072302353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] 파출소 앞에서 수천만 원을...탈탈 털렸다]]></title>
+            <link>https://tv.naver.com/v/28605856</link>
+            <guid>https://tv.naver.com/v/28605856</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_31/WnLGO_1660688384434KpqWe_JPEG/cover_cover_202208170716540938_t_20220817071901934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[굿모닝브리핑] 尹 취임 100일, 인사 위기 해법은?]]></title>
+            <link>https://tv.naver.com/v/28605810</link>
+            <guid>https://tv.naver.com/v/28605810</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[8:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_232/M49eP_16606881043269XgYU_JPEG/cover_cover_202208170656158462_t_20220817071301914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[YTN 실시간뉴스] 尹 대통령, 오늘 취임 100일 기자회견]]></title>
+            <link>https://tv.naver.com/v/28605771</link>
+            <guid>https://tv.naver.com/v/28605771</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_77/w7Kce_1660687681835Xg7bc_JPEG/cover_cover_202208170704086783_t_20220817070703622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파출소 앞에서 수천만 원 건네...알고 보니 보이스피싱]]></title>
+            <link>https://tv.naver.com/v/28605551</link>
+            <guid>https://tv.naver.com/v/28605551</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_130/qU4kg_1660686349124Iz0dv_JPEG/cover_cover_202208170518484168_t_20220817064501967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남쪽으로 내려간 비구름...남해안 최대 150㎜ 예보]]></title>
+            <link>https://tv.naver.com/v/28605434</link>
+            <guid>https://tv.naver.com/v/28605434</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_218/GQcvl_16606852683331OREX_JPEG/cover_cover_202208170623161558_t_20220817062701907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 남해안·제주 강한 비...내륙 무더위 속 소나기]]></title>
+            <link>https://tv.naver.com/v/28605313</link>
+            <guid>https://tv.naver.com/v/28605313</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_171/Z2St5_1660684423570cCEnV_JPEG/cover_cover_202208170610024348_t_20220817061301979.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[나이트포커스] 윤석열 대통령 취임 100일...민심은?]]></title>
+            <link>https://tv.naver.com/v/28605301</link>
+            <guid>https://tv.naver.com/v/28605301</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[16:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_172/I0JHL_1660684713016sYOhz_JPEG/cover_cover_202208162238219260_t_20220817061102059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경기도 부천에서 배관 공사하던 60대 추락해 숨져]]></title>
+            <link>https://tv.naver.com/v/28605180</link>
+            <guid>https://tv.naver.com/v/28605180</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_238/a9KN0_1660683354026e7yQO_JPEG/cover_cover_202208170551313365_t_20220817055501810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령, 빌 게이츠 만나 "세계 시민 건강 위한 협력 희망"]]></title>
+            <link>https://tv.naver.com/v/28605149</link>
+            <guid>https://tv.naver.com/v/28605149</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_233/Rf7DN_1660682976203CLQju_JPEG/cover_cover_202208170545139388_t_20220817054901863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빌 게이츠, 국회의장과 40분 환담..."국회연설 영광"]]></title>
+            <link>https://tv.naver.com/v/28605142</link>
+            <guid>https://tv.naver.com/v/28605142</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_136/AbQnj_1660682841944fFVBM_JPEG/cover_cover_202208161327171356_t_20220817054701818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 찾은 반기문 "부차 희생자 역사에 기억돼야"]]></title>
+            <link>https://tv.naver.com/v/28605043</link>
+            <guid>https://tv.naver.com/v/28605043</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_41/4gJUV_1660681637959uJ5oo_JPEG/cover_cover_202208170202313665_t_20220817052701891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제보는Y] 삼성 세탁기 또 '펑'...돌다가 갑자기 유리문 산산조각]]></title>
+            <link>https://tv.naver.com/v/28604962</link>
+            <guid>https://tv.naver.com/v/28604962</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_37/imwdI_1660681078999ITNz5_JPEG/cover_cover_202208170513007195_t_20220817051701908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[싼 임대료에 안정적 거주 기간...2030에 임대주택 인기]]></title>
+            <link>https://tv.naver.com/v/28604916</link>
+            <guid>https://tv.naver.com/v/28604916</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_121/xZQli_1660680828585rfIKP_JPEG/cover_cover_202208170509212906_t_20220817051301832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추경호 "부동산시장 안정세 확고한 곳은 규제지역 추가 해제"]]></title>
+            <link>https://tv.naver.com/v/28604883</link>
+            <guid>https://tv.naver.com/v/28604883</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_234/pMJCP_1660680577290Lavp0_JPEG/cover_cover_202208170505564710_t_20220817050901849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국토부 "5년간 270만 호 주택 공급...민간사업 용적률 상향"]]></title>
+            <link>https://tv.naver.com/v/28604867</link>
+            <guid>https://tv.naver.com/v/28604867</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_104/NLpwQ_1660680439779IhsDB_JPEG/cover_cover_202208161201555776_t_20220817050701748.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크림반도 탄약고 폭발...러시아 "비밀 파괴 공작"]]></title>
+            <link>https://tv.naver.com/v/28604736</link>
+            <guid>https://tv.naver.com/v/28604736</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_64/wz6B1_1660678899969sGwb9_JPEG/cover_cover_202208170436450320_t_20220817044101746.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자포리자 원전 주변 포격 잇따라...러-우크라, 책임 떠 넘기기]]></title>
+            <link>https://tv.naver.com/v/28604727</link>
+            <guid>https://tv.naver.com/v/28604727</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_208/sa0j0_166067879789050xTj_JPEG/cover_cover_202208170433304145_t_20220817043901826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울 동부간선도로에서 SUV 차량 전복...20대 운전자 다쳐]]></title>
+            <link>https://tv.naver.com/v/28604650</link>
+            <guid>https://tv.naver.com/v/28604650</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_43/85mTn_1660678038187bjmRB_JPEG/cover_cover_202208170222225102_t_20220817042701806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명-박용진, 선거 패배·당헌 개정 등 두고 충돌]]></title>
+            <link>https://tv.naver.com/v/28604528</link>
+            <guid>https://tv.naver.com/v/28604528</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_131/JuJaW_1660676956207JdqU8_JPEG/cover_cover_202208170405216903_t_20220817040901814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美, 타이완 긴장 속 연기했던 ICBM 시험 발사]]></title>
+            <link>https://tv.naver.com/v/28604317</link>
+            <guid>https://tv.naver.com/v/28604317</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_251/b5S2T_1660674552894UOfbJ_JPEG/cover_cover_202208170147571810_t_20220817032901700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천문연, 우주망원경 스피어엑스 성능시험 장비 개발]]></title>
+            <link>https://tv.naver.com/v/28604306</link>
+            <guid>https://tv.naver.com/v/28604306</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_55/wwYd5_1660674447799Vq2xy_JPEG/cover_cover_202208170117013513_t_20220817032708852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['ISS 탈퇴 선언' 러시아, 독자 우주정거장 모형 공개]]></title>
+            <link>https://tv.naver.com/v/28604305</link>
+            <guid>https://tv.naver.com/v/28604305</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_8/8FWU9_1660674434285VuXLh_JPEG/cover_cover_202208161409018759_t_20220817032701846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[檢, '서해 피살 공무원' 박지원 자택 등 10여 곳 동시다발 압수수색]]></title>
+            <link>https://tv.naver.com/v/28604281</link>
+            <guid>https://tv.naver.com/v/28604281</guid>
+            <pubDate>Tue, 16 Aug 2022 23:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_8/rHBx9_1660674318660dIVt1_JPEG/cover_cover_202208170321099306_t_20220817032501908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
