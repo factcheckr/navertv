@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 13:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 14:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산, 내일까지 돌풍 동반 강한 비…30~100mm 예상]]></title>
+            <link>https://tv.naver.com/v/28601192</link>
+            <guid>https://tv.naver.com/v/28601192</guid>
+            <pubDate>Tue, 16 Aug 2022 14:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_117/pde28_1660657520229ff62y_JPEG/cover_0011321942_001_20220816224501239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주 ‘당헌 개정’ 막판 진통…“국민 여론은 반대 48.8%”]]></title>
             <link>https://tv.naver.com/v/28600977</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 Aug 2022 13:33:50 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_7/Qn6uR_1660655247571WELzo_JPEG/cover_0011321929_001_20220816220703551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오후 8시, 강원 5,176명 확진…중환자 병상 가동률 70%]]></title>
-            <link>https://tv.naver.com/v/28600603</link>
-            <guid>https://tv.naver.com/v/28600603</guid>
-            <pubDate>Tue, 16 Aug 2022 13:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_214/tvePL_16606552204398jz1U_JPEG/cover_0011321928_001_20220816220642905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
