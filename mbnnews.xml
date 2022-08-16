@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 02:11:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 04:05:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신문브리핑 1 "이준석, 또 윤 대통령·윤핵관 조준 " 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/28586309</link>
+            <guid>https://tv.naver.com/v/28586309</guid>
+            <pubDate>Tue, 16 Aug 2022 04:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[28:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_47/VXn8q_1660616510299sCR30_JPEG/cover_cover_20220816094215_20_606_1305977_1080_7_20220816110701286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[굿모닝MBN 날씨]남부 집중호우 주의…남해안, 내일까지 최고 150mm↑]]></title>
             <link>https://tv.naver.com/v/28585961</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 15 Aug 2022 23:24:02 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220816_135/Mznvn_1660602487795D8ORf_JPEG/cover_cover_20220816072402_20_605_1305956_1080_7_20220816072701280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰,'강제북송' 서호 전 통일부 차관 조사…윗선 줄소환 임박]]></title>
-            <link>https://tv.naver.com/v/28583733</link>
-            <guid>https://tv.naver.com/v/28583733</guid>
-            <pubDate>Mon, 15 Aug 2022 23:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_21/x0Fdh_1660602372283wWYj7_JPEG/cover_cover_20220816072101_20_605_1305955_1080_7_20220816072501190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
