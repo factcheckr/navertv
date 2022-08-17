@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 05:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 06:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 17 Aug 2022 04:22:15 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_85/vZaba_1660705196822YeAC9_JPEG/cover_cover_20220817115428_20_552_1306031_1080_7_20220817115901244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['시간' 없는 벤투호…살 길은 '세트피스']]></title>
-            <link>https://tv.naver.com/v/28607798</link>
-            <guid>https://tv.naver.com/v/28607798</guid>
-            <pubDate>Wed, 17 Aug 2022 02:25:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_218/WUj2U_1660700288958IeRwS_JPEG/cover_cover_20220817103501_20_605_1306091_1080_7_20220817103701625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 아산병원 간호사 이송까지 '7시간'…이송에 우왕좌왕]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 16 Aug 2022 23:21:36 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_234/ttn9S_1660690423312EuovJ_JPEG/cover_cover_20220817075007_20_605_1306060_1080_7_20220817075301381.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WTI, 배럴당 3.2% 하락…우크라 침공 전보다 더 낮은 수준]]></title>
+            <link>https://tv.naver.com/v/28606018</link>
+            <guid>https://tv.naver.com/v/28606018</guid>
+            <pubDate>Wed, 17 Aug 2022 06:31:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_206/Kzl4o_1660690167202dbgzo_JPEG/cover_cover_20220817074624_20_605_1306059_1080_7_20220817074901405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
