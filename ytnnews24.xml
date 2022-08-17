@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 22:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 23:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 오늘 구름 많고 낮 더위, 서울 30℃...일부 소나기]]></title>
+            <link>https://tv.naver.com/v/28633153</link>
+            <guid>https://tv.naver.com/v/28633153</guid>
+            <pubDate>Wed, 17 Aug 2022 23:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_17/LvgwP_1660776340604qbYBy_JPEG/cover_cover_202208180740548878_t_20220818074501969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[굿모닝경제] 7월 FOMC 의사록 공개...금리인상 의지 재확인]]></title>
+            <link>https://tv.naver.com/v/28633106</link>
+            <guid>https://tv.naver.com/v/28633106</guid>
+            <pubDate>Wed, 17 Aug 2022 23:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[20:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_165/ngpb7_1660776454816I6vec_JPEG/cover_cover_202208180716138318_t_20220818074101972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 세탁기 '펑' 모두 5건..."리콜 계획 없다"]]></title>
             <link>https://tv.naver.com/v/28632834</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 17 Aug 2022 16:36:38 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_232/fdRjN_1660750448142YOo26_JPEG/cover_cover_202208180003571195_t_20220818003302039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[100일 앞둔 화물연대 하이트진로 파업...협상 타결 어렵나?]]></title>
-            <link>https://tv.naver.com/v/28627867</link>
-            <guid>https://tv.naver.com/v/28627867</guid>
-            <pubDate>Wed, 17 Aug 2022 16:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_26/R55EW_1660750106436RUKfY_JPEG/cover_cover_202208180021349136_t_20220818002710039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대리운전노조, 카카오모빌리티 본사 앞 천막농성 돌입]]></title>
-            <link>https://tv.naver.com/v/28627865</link>
-            <guid>https://tv.naver.com/v/28627865</guid>
-            <pubDate>Wed, 17 Aug 2022 16:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_248/tciHA_1660750037948aV6HN_JPEG/cover_cover_202208171932203826_t_20220818002702828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
