@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 08:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전장연 지하철 탑승 시위 재개…출근길 4호선 지연 운행]]></title>
+            <link>https://tv.naver.com/v/28618305</link>
+            <guid>https://tv.naver.com/v/28618305</guid>
+            <pubDate>Wed, 17 Aug 2022 09:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_200/tXZGc_1660725055935BToSb_JPEG/cover_0000310184_001_20220817173001767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스썰기] "내 눈물이 진짜" 이준석-나경원 때아닌 논쟁]]></title>
             <link>https://tv.naver.com/v/28617492</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 16 Aug 2022 22:23:52 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_157/tnUW4_1660688451773kTvhg_JPEG/cover_0000310103_001_20220817072001776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 '취임 100일' 회견…인사 논란·여당 내홍 등 주목]]></title>
-            <link>https://tv.naver.com/v/28605854</link>
-            <guid>https://tv.naver.com/v/28605854</guid>
-            <pubDate>Tue, 16 Aug 2022 22:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_259/hazIS_1660688388227vLQ5a_JPEG/cover_0000310102_001_20220817071901691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

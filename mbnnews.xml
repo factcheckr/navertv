@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 08:30:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 09:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBN 뉴스파이터-2022년 8월 17일 김명준 앵커 오프닝]]></title>
+            <link>https://tv.naver.com/v/28619491</link>
+            <guid>https://tv.naver.com/v/28619491</guid>
+            <pubDate>Wed, 17 Aug 2022 09:24:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_9/0O62q_166072750344230MX5_JPEG/cover_cover_20220817180805_20_673_1306103_1080_7_20220817181101294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸 날씨]제주·영동중북부 호우 특보…오늘까지 120mm↑]]></title>
             <link>https://tv.naver.com/v/28617150</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 17 Aug 2022 02:25:16 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220817_198/9aask_1660696228335PS5Q1_JPEG/cover_cover_20220817092653_20_689_1306070_1080_7_20220817092901281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8월 17일 굿모닝 MBN 클로징]]></title>
-            <link>https://tv.naver.com/v/28606156</link>
-            <guid>https://tv.naver.com/v/28606156</guid>
-            <pubDate>Tue, 16 Aug 2022 23:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_123/blc9c_16606908781895JLyj_JPEG/cover_cover_20220817075802_20_605_1306064_1080_7_20220817080101262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
