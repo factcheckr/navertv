@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 08:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 09:24:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBN 뉴스파이터-2022년 8월 18일 김명준 앵커 오프닝]]></title>
+            <link>https://tv.naver.com/v/28648082</link>
+            <guid>https://tv.naver.com/v/28648082</guid>
+            <pubDate>Thu, 18 Aug 2022 09:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_69/QJG4M_1660814375197sWaqQ_JPEG/cover_cover_20220818181626_20_673_1306194_1080_7_20220818181901285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 8월 18일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/28648005</link>
+            <guid>https://tv.naver.com/v/28648005</guid>
+            <pubDate>Thu, 18 Aug 2022 09:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_50/p2uHP_1660814144599e2dF5_JPEG/cover_cover_20220818181206_20_845_1306193_1080_7_20220818181501313.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 폭우가 남긴 상처들]]></title>
             <link>https://tv.naver.com/v/28645676</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 17 Aug 2022 23:23:57 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_32/OEPfj_1660776473410iw3hy_JPEG/cover_cover_20220818074407_20_605_1306156_1080_7_20220818074701675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['음주 운전' 14톤 트럭, 스쿨존 상가로 돌진]]></title>
-            <link>https://tv.naver.com/v/28633149</link>
-            <guid>https://tv.naver.com/v/28633149</guid>
-            <pubDate>Wed, 17 Aug 2022 23:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_164/pmUCx_1660776361870PehUz_JPEG/cover_cover_20220818074213_20_605_1306155_1080_7_20220818074501271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법무부 스토킹 범죄자에게 전자발찌 최대 10년 부착]]></title>
-            <link>https://tv.naver.com/v/28633130</link>
-            <guid>https://tv.naver.com/v/28633130</guid>
-            <pubDate>Wed, 17 Aug 2022 23:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_68/HlP75_1660776238167kM6pv_JPEG/cover_cover_20220818074031_20_605_1306154_1080_7_20220818074301254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
