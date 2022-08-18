@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 20:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 21:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[266회_기상 전망과 폭우 피해 예방법]]></title>
+            <link>https://tv.naver.com/v/28657820</link>
+            <guid>https://tv.naver.com/v/28657820</guid>
+            <pubDate>Thu, 18 Aug 2022 21:21:25 GMT</pubDate>
+            <content:encoded><![CDATA[15:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_32/5Yv60_1660856847533djPfs_JPEG/cover_cover_20220819055718_20_849_1306240_1080_7_20220819060001311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 내일 오후~모레, 전국 비]]></title>
             <link>https://tv.naver.com/v/28651053</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 10:26:51 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_242/EE95O_1660817398391DjM3F_JPEG/cover_cover_20220818190558_20_552_1306205_1080_7_20220818190901223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰총장 이원석·공정위원장 한기정 '사정라인' 완성]]></title>
-            <link>https://tv.naver.com/v/28649045</link>
-            <guid>https://tv.naver.com/v/28649045</guid>
-            <pubDate>Thu, 18 Aug 2022 10:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_300/a04ec_166081730477609o8k_JPEG/cover_cover_20220818190422_20_552_1306204_1080_7_20220818190701260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
