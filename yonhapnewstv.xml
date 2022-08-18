@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 19:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 20:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤대통령, 오늘 신임 국회의장단 초청 만찬]]></title>
+            <link>https://tv.naver.com/v/28657508</link>
+            <guid>https://tv.naver.com/v/28657508</guid>
+            <pubDate>Thu, 18 Aug 2022 20:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_289/8cKVV_1660854262721rq1hq_JPEG/cover_cover_MYH20220819000100640_20220819052402302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생활날씨] 내일 오후부터 중부·경북 비…남부 무더위 지속]]></title>
             <link>https://tv.naver.com/v/28653481</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 11:20:01 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_92/LVLIQ_1660821583602S4MOS_JPEG/cover_cover_MYH20220818018400038_20220818201902468.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[세로뉴스] 관심 높아진 남방큰돌고래…"멀리서 봐주세요"]]></title>
-            <link>https://tv.naver.com/v/28650381</link>
-            <guid>https://tv.naver.com/v/28650381</guid>
-            <pubDate>Thu, 18 Aug 2022 11:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[4:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_70/81uyq_1660821266663Oy9jy_JPEG/cover_cover_MYH20220818018200640_20220818201203099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
