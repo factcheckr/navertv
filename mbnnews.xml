@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 07:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신문브리핑1 “장예찬 “‘이준석 측’ 김용태 2년만에 재산 20억 증가” 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/28668143</link>
+            <guid>https://tv.naver.com/v/28668143</guid>
+            <pubDate>Fri, 19 Aug 2022 07:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[27:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_190/Y0NOm_1660891202560vRmqu_JPEG/cover_cover_20220819094029_20_606_1306272_1080_7_20220819152701239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["인구절벽시대, 여성도 군복무 참여하도록 개혁 필요"]]></title>
             <link>https://tv.naver.com/v/28666876</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 23:23:45 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_188/nKYiq_1660863468302ssjDc_JPEG/cover_cover_20220819075304_20_605_1306254_1080_7_20220819075701236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 낙서쟁이가 디자이너로]]></title>
-            <link>https://tv.naver.com/v/28658847</link>
-            <guid>https://tv.naver.com/v/28658847</guid>
-            <pubDate>Thu, 18 Aug 2022 23:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_75/cD4z5_1660863346970zfV0F_JPEG/cover_cover_20220819075112_20_605_1306253_1080_7_20220819075501421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

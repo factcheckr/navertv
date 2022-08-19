@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 06:32:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 07:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/28669579</link>
+            <guid>https://tv.naver.com/v/28669579</guid>
+            <pubDate>Fri, 19 Aug 2022 07:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[8:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_294/X7Ty8_1660893531592pOhjr_JPEG/cover_0011324027_001_20220819161601234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北 김여정, ‘담대한 구상’ 거부…“매우 유감”]]></title>
+            <link>https://tv.naver.com/v/28669465</link>
+            <guid>https://tv.naver.com/v/28669465</guid>
+            <pubDate>Fri, 19 Aug 2022 07:21:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_238/Gf07S_1660893162560Yu86g_JPEG/cover_0011323964_001_20220819161201233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강원도 양구 농가 돼지열병 바이러스 검출…이동중지령]]></title>
             <link>https://tv.naver.com/v/28665966</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 19 Aug 2022 04:08:36 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_108/itSIR_1660879543011sdTuI_JPEG/cover_0011323972_001_20220819122501259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대법 ‘세월호 보고조작’ 혐의 김기춘 무죄취지 파기환송]]></title>
-            <link>https://tv.naver.com/v/28663177</link>
-            <guid>https://tv.naver.com/v/28663177</guid>
-            <pubDate>Fri, 19 Aug 2022 04:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_40/jOoOL_1660879426850Wp3Di_JPEG/cover_0011323971_001_20220819122301211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오후날씨 꿀팁] 중부·경북 비…주말, 남부 비]]></title>
-            <link>https://tv.naver.com/v/28663115</link>
-            <guid>https://tv.naver.com/v/28663115</guid>
-            <pubDate>Fri, 19 Aug 2022 04:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_149/bHxe4_1660879242203lxnir_JPEG/cover_0011323970_001_20220819122021892.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
