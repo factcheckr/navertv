@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 12:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 13:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스피플] 이준석, 윤리위 직격 "대통령 '내부총질' 문자 어떻게 할 건가"]]></title>
+            <link>https://tv.naver.com/v/28677903</link>
+            <guid>https://tv.naver.com/v/28677903</guid>
+            <pubDate>Fri, 19 Aug 2022 13:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[6:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_57/ijkdm_1660916226452c2kIH_JPEG/cover_cover_20220819222955_20_552_1306328_1080_7_20220819223401267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 이준석, 장외 여론전-집안싸움 생중계…득실은?]]></title>
             <link>https://tv.naver.com/v/28676447</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 Aug 2022 10:28:49 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_60/5ecsa_1660901972585tJ7iY_JPEG/cover_cover_20220819183215_20_845_1306297_1080_7_20220819183901244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-아오리 사과 색깔 논란?…2주째 지지율 상승]]></title>
-            <link>https://tv.naver.com/v/28673503</link>
-            <guid>https://tv.naver.com/v/28673503</guid>
-            <pubDate>Fri, 19 Aug 2022 10:28:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_253/hHII1_1660901918754x2a8i_JPEG/cover_cover_20220819182701_20_673_1306296_1080_7_20220819183701256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
