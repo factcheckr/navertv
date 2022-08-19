@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 04:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 05:32:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 나무에 깔리는 등 5명 숨져…프랑스 휴양지 덮친 폭풍우]]></title>
+            <link>https://tv.naver.com/v/28666141</link>
+            <guid>https://tv.naver.com/v/28666141</guid>
+            <pubDate>Fri, 19 Aug 2022 05:31:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_274/H6jW1_1660886435926bxDnT_JPEG/cover_0000310519_001_20220819142001752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오후 중부지방부터 비 시작…주말엔 전국으로 확대]]></title>
             <link>https://tv.naver.com/v/28662592</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 14:23:52 GMT</pubDate>
             <content:encoded><![CDATA[7:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_266/XAGVY_1660832585286focp3_JPEG/cover_0000310416_001_20220818232101682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[극심한 가뭄에 말라가는 미 서부…강도 호수도 '바싹']]></title>
-            <link>https://tv.naver.com/v/28652573</link>
-            <guid>https://tv.naver.com/v/28652573</guid>
-            <pubDate>Thu, 18 Aug 2022 13:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220818_210/DRZ2y_1660827529288FNH5G_JPEG/cover_0000310431_001_20220818215804201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
