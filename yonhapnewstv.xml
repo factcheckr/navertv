@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 19:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 20:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 8월 14일]]></title>
+            <link>https://tv.naver.com/v/28693198</link>
+            <guid>https://tv.naver.com/v/28693198</guid>
+            <pubDate>Sat, 20 Aug 2022 20:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[30:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220821_195/21ten_1661025804395sGhlg_JPEG/cover_cover_MYH20220819012800038_20220821050102123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['먹거리 효자' K반도체, 미중 고래싸움에 등 터질까 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/28691278</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Aug 2022 08:28:36 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220820_28/6h1Oi_16609833042789AM2x_JPEG/cover_cover_MYH20220820007000641_20220820171403261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스1번지] 민주당 전북 경선…이준석, 또 '윤핵관' 저격]]></title>
-            <link>https://tv.naver.com/v/28687455</link>
-            <guid>https://tv.naver.com/v/28687455</guid>
-            <pubDate>Sat, 20 Aug 2022 08:28:36 GMT</pubDate>
-            <content:encoded><![CDATA[27:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_171/wOA01_16609836155160sRmv_JPEG/cover_cover_MYH20220820006800038_20220820170702259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
