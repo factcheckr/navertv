@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 11:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 12:38:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 20일 MBN 뉴스센터 클로징]]></title>
+            <link>https://tv.naver.com/v/28689922</link>
+            <guid>https://tv.naver.com/v/28689922</guid>
+            <pubDate>Sat, 20 Aug 2022 12:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_32/gRyEh_1660994399128m3INK_JPEG/cover_cover_20220820201526_20_906_1306369_1080_7_20220820201901270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스센터 날씨]휴일, 전국 맑고 무더위…서울·광주 낮 최고 32도]]></title>
             <link>https://tv.naver.com/v/28689886</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 Aug 2022 02:12:01 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220820_8/lkfYH_16609542143386Wnps_JPEG/cover_cover_20220820090500_20_675_1306338_1080_7_20220820090901258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오후 9시까지 12만 4,891명 확진…전날보다 8,886명 줄어]]></title>
-            <link>https://tv.naver.com/v/28681628</link>
-            <guid>https://tv.naver.com/v/28681628</guid>
-            <pubDate>Sat, 20 Aug 2022 02:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_68/LGCSy_1660953920826ul45F_JPEG/cover_cover_20220820090255_20_675_1306337_1080_7_20220820090501271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
