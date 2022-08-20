@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 20:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 21:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 19 Aug 2022 15:26:59 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220819_260/tykNo_16609001955066r2T3_JPEG/1660900046837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국과 거리 두는 사우디…틈새 노리는 중국]]></title>
+            <link>https://tv.naver.com/v/28674004</link>
+            <guid>https://tv.naver.com/v/28674004</guid>
+            <pubDate>Sat, 20 Aug 2022 21:20:33 GMT</pubDate>
+            <content:encoded><![CDATA[5:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220819_75/UW1Ze_1660903502117SRdKS_JPEG/1660903341782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더운 여름 초대형 워터파크에서 더위 날리는 북한 [티븨가이드 北]]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 Aug 2022 02:24:13 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220818_244/WUyWt_1660781644170MpO6F_PNG/1660781568488.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[포켓이슈] '알뜰폰 위치추적' 어렵다는데…위급할 땐 어떡해?]]></title>
-            <link>https://tv.naver.com/v/28617859</link>
-            <guid>https://tv.naver.com/v/28617859</guid>
-            <pubDate>Wed, 17 Aug 2022 22:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220817_158/OY62m_1660724247381Rvlse_JPEG/1660724185423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
