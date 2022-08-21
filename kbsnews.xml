@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 09:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 10:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7 날씨] 내일 늦은 밤~모레 5mm 안팎 비]]></title>
+            <link>https://tv.naver.com/v/28699952</link>
+            <guid>https://tv.naver.com/v/28699952</guid>
+            <pubDate>Sun, 21 Aug 2022 10:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220821_57/jEWNh_1661076926379DzLLJ_JPEG/cover_0011324633_001_20220821191501226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자포리자 원전에 또 포격…우크라·러 ‘상대가 포격’]]></title>
+            <link>https://tv.naver.com/v/28699910</link>
+            <guid>https://tv.naver.com/v/28699910</guid>
+            <pubDate>Sun, 21 Aug 2022 10:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220821_56/Xkaqx_1661076679549w8VIi_JPEG/cover_0011324631_001_20220821191101232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스5  날씨] 내일 더위 계속…늦은 밤부터 비]]></title>
             <link>https://tv.naver.com/v/28698358</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 20 Aug 2022 14:19:21 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220820_82/N0lh1_1661004586225F6jqL_JPEG/cover_0011324535_001_20220820230925712.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 덕하역 폐선 부지에 공공주택·업무시설 건립 추진]]></title>
-            <link>https://tv.naver.com/v/28692184</link>
-            <guid>https://tv.naver.com/v/28692184</guid>
-            <pubDate>Sat, 20 Aug 2022 14:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_99/7AElW_1661004575494wgoci_JPEG/cover_0011324534_001_20220820230917886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 오늘 신규 확진 2,865명…누적 확진 48만 4천여 명]]></title>
-            <link>https://tv.naver.com/v/28692180</link>
-            <guid>https://tv.naver.com/v/28692180</guid>
-            <pubDate>Sat, 20 Aug 2022 14:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220820_153/XfC4e_1661004562598vRlxF_JPEG/cover_0011324533_001_20220820230910073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
