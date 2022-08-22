@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 10:27:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 11:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 22일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/28722772</link>
+            <guid>https://tv.naver.com/v/28722772</guid>
+            <pubDate>Mon, 22 Aug 2022 11:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_231/kHzFZ_16611658060005XXDN_JPEG/cover_2022082290168_thumb_075241_20220822195601796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 무속인과 숨진 채 발견된 여성…왜?]]></title>
             <link>https://tv.naver.com/v/28718825</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 21 Aug 2022 23:22:39 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_75/yg3Oi_16611228947087tVJJ_JPEG/cover_2022082290019_thumb_075926_20220822080114773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍보수석 김은혜·정책기획수석 이관섭…대통령실 개편 "정책·홍보 강화"]]></title>
-            <link>https://tv.naver.com/v/28706707</link>
-            <guid>https://tv.naver.com/v/28706707</guid>
-            <pubDate>Sun, 21 Aug 2022 23:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_108/9WEFB_1661122908738zXimu_JPEG/cover_2022082290015_thumb_075906_20220822080108767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
