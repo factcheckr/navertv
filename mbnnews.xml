@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 02:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 04:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요뉴스 - 8월 22일 낮 12시]]></title>
+            <link>https://tv.naver.com/v/28712377</link>
+            <guid>https://tv.naver.com/v/28712377</guid>
+            <pubDate>Mon, 22 Aug 2022 04:25:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_147/g74OK_1661142107554LJd3c_JPEG/cover_cover_20220822131826_20_845_1306459_1080_7_20220822132101207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['다시 연승 시작' 1위 굳힌 SSG…5연패 키움은 3위도 '흔들']]></title>
             <link>https://tv.naver.com/v/28709330</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 21 Aug 2022 23:22:56 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_18/f5Lb1_1661121010569yfW0x_JPEG/cover_cover_20220822072645_20_605_1306425_1080_7_20220822072901216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미, 오늘부터 연합연습 돌입…4년 만에 대규모 야외기동훈련 부활]]></title>
-            <link>https://tv.naver.com/v/28706377</link>
-            <guid>https://tv.naver.com/v/28706377</guid>
-            <pubDate>Sun, 21 Aug 2022 23:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_143/Cr1fZ_1661120870922MYKa8_JPEG/cover_cover_20220822072432_20_605_1306424_1080_7_20220822072701248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
