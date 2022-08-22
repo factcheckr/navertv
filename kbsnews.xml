@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 13:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 14:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 30.7도…내일 낮부터 5~30mm 비]]></title>
+            <link>https://tv.naver.com/v/28726822</link>
+            <guid>https://tv.naver.com/v/28726822</guid>
+            <pubDate>Mon, 22 Aug 2022 14:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_264/nOhjg_1661176881604dB752_JPEG/cover_0011325420_001_20220822230101190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“액정 깨졌다” 1억 5천만 원 인출 사기]]></title>
             <link>https://tv.naver.com/v/28726081</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 Aug 2022 13:43:29 GMT</pubDate>
             <content:encoded><![CDATA[0:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_266/ESVNf_1661173500289QRnG7_JPEG/cover_0011325413_001_20220822220449933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태안군, 금어기 해제…가을 꽃게 본격 출하]]></title>
-            <link>https://tv.naver.com/v/28725628</link>
-            <guid>https://tv.naver.com/v/28725628</guid>
-            <pubDate>Mon, 22 Aug 2022 13:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_125/iCEeP_1661173504304JsHD1_JPEG/cover_0011325412_001_20220822220442016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
