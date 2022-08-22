@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 09:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 10:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 가방에서 발견된 어린이..엄마는 한국에??]]></title>
+            <link>https://tv.naver.com/v/28721962</link>
+            <guid>https://tv.naver.com/v/28721962</guid>
+            <pubDate>Mon, 22 Aug 2022 10:25:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_63/dkZ6V_1661163102796Vf8hU_JPEG/cover_cover_220822_nz_640_20220822191103057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 저녁부터 중북부 차츰 비‥'처서' 낮더위 계속]]></title>
             <link>https://tv.naver.com/v/28719006</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 22 Aug 2022 04:24:19 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220822_27/mPVFt_1661137876262SSPth_JPEG/cover_cover_noon_20220822_120626_1_5_Large_20220822121102284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령, 을지연습 점검‥"빈틈없는 안보 태세"]]></title>
-            <link>https://tv.naver.com/v/28710744</link>
-            <guid>https://tv.naver.com/v/28710744</guid>
-            <pubDate>Mon, 22 Aug 2022 04:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220822_286/5BVDX_1661137764030b8BEl_JPEG/cover_cover_noon_20220822_120521_1_4_Large_20220822120910483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
