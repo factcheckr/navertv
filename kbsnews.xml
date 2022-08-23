@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 15:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 16:31:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[심층인터뷰] 반복된 ‘세 모녀의 비극’]]></title>
+            <link>https://tv.naver.com/v/28751255</link>
+            <guid>https://tv.naver.com/v/28751255</guid>
+            <pubDate>Tue, 23 Aug 2022 16:30:22 GMT</pubDate>
+            <content:encoded><![CDATA[7:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_187/yufB8_1661268243429c93GX_JPEG/cover_0011326205_001_20220824002201203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼척시, ‘시장과 함께하는 동네 한바퀴’ 운영]]></title>
             <link>https://tv.naver.com/v/28751247</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Aug 2022 15:22:57 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_103/Flndn_1661267104316injq5_JPEG/cover_0011326198_001_20220824000418478.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수명 연장 추진…“안전성 평가 공개해야”]]></title>
-            <link>https://tv.naver.com/v/28750981</link>
-            <guid>https://tv.naver.com/v/28750981</guid>
-            <pubDate>Tue, 23 Aug 2022 15:22:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_259/9oy8L_1661267094042fkHr5_JPEG/cover_0011326197_001_20220824000410068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
