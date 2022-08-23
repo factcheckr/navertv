@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 20:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 21:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[268회_코로나19 유행 전망 및 예방요령]]></title>
+            <link>https://tv.naver.com/v/28752887</link>
+            <guid>https://tv.naver.com/v/28752887</guid>
+            <pubDate>Tue, 23 Aug 2022 21:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[15:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_250/AGD4B_16612894972103W2dx_JPEG/cover_cover_20220824060606_20_849_1306603_1080_7_20220824061001256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 귀가 여성 따라가 성폭행…CCTV에 소름 끼치는 장면 포착]]></title>
             <link>https://tv.naver.com/v/28747467</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Aug 2022 10:26:15 GMT</pubDate>
             <content:encoded><![CDATA[7:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220823_142/ZD593_166124805444294boU_JPEG/cover_cover_20220823183258_20_673_1306569_1080_7_20220823184401275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-"신군부, 절대자" 비유까지…거칠어지는 이준석]]></title>
-            <link>https://tv.naver.com/v/28744278</link>
-            <guid>https://tv.naver.com/v/28744278</guid>
-            <pubDate>Tue, 23 Aug 2022 10:26:15 GMT</pubDate>
-            <content:encoded><![CDATA[39:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_150/kjI0T_1661247656817Ipqyu_JPEG/cover_cover_20220823183013_20_673_1306568_1080_7_20220823183801265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
