@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 06:31:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 07:22:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NASA '블랙홀 소리' 공개…"오싹하다"·"아름답다" 감상평]]></title>
+            <link>https://tv.naver.com/v/28765344</link>
+            <guid>https://tv.naver.com/v/28765344</guid>
+            <pubDate>Wed, 24 Aug 2022 07:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_228/XzFel_16613226711215aCS3_JPEG/cover_2022082490115_thumb_032716_20220824153101664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 김은혜 국회 데뷔 "사실이 아닌데 무슨 답변을?"]]></title>
             <link>https://tv.naver.com/v/28763800</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Aug 2022 13:42:46 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220823_215/TQrVp_1661259695701Xc1kT_JPEG/cover_2022082390226_thumb_095929_20220823220123662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김대기, 野 인사참사 지적에 "저에게 검증 책임"]]></title>
-            <link>https://tv.naver.com/v/28748742</link>
-            <guid>https://tv.naver.com/v/28748742</guid>
-            <pubDate>Tue, 23 Aug 2022 13:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_81/baWfc_16612597300947oXqO_JPEG/cover_2022082390177_thumb_095742_20220823220115614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
