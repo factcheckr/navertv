@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 07:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 08:29:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[앵커의 마침표]업보와 변심 사이]]></title>
+            <link>https://tv.naver.com/v/28768397</link>
+            <guid>https://tv.naver.com/v/28768397</guid>
+            <pubDate>Wed, 24 Aug 2022 08:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_236/1mq3t_1661328218400tLfLk_JPEG/cover_0000232516_001_20220824170301618.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제보가 뉴스다]수업 따돌리고 힘으로 앉히고…“정서 학대”]]></title>
             <link>https://tv.naver.com/v/28764839</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 Aug 2022 11:20:12 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220823_25/le3Al_1661253104786V8rM1_JPEG/cover_0000232578_001_20220823201057010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화성시에 건보료 체납 수차례 통보했지만…1년 넘게 방치]]></title>
-            <link>https://tv.naver.com/v/28746200</link>
-            <guid>https://tv.naver.com/v/28746200</guid>
-            <pubDate>Tue, 23 Aug 2022 11:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220823_49/ngpM1_1661253113788r96j4_JPEG/cover_0000232574_001_20220823201048127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
