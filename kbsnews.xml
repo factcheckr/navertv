@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 05:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 06:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보영상] 한동훈 “탄핵? 민주당이 결정할 문제…헌법 절차 따를 것”]]></title>
+            <link>https://tv.naver.com/v/28763763</link>
+            <guid>https://tv.naver.com/v/28763763</guid>
+            <pubDate>Wed, 24 Aug 2022 06:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_293/96WdA_1661320569434jeTaQ_PNG/cover_0011326642_001_20220824145501180.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 더위 수그러들어…서울 27도]]></title>
             <link>https://tv.naver.com/v/28762013</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 Aug 2022 04:27:22 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220824_184/AdH8g_1661311421630BOGoX_JPEG/cover_0011326593_001_20220824122311086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘4인 가족 8만 원’ 바우처 제도 실효성은?]]></title>
-            <link>https://tv.naver.com/v/28758319</link>
-            <guid>https://tv.naver.com/v/28758319</guid>
-            <pubDate>Wed, 24 Aug 2022 04:27:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_131/FjvsM_1661311432627drLxh_JPEG/cover_0011326592_001_20220824122301186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
