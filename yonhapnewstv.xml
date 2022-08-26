@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 12:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 13:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 8월 26일 뉴스투나잇1부]]></title>
+            <link>https://tv.naver.com/v/28829869</link>
+            <guid>https://tv.naver.com/v/28829869</guid>
+            <pubDate>Fri, 26 Aug 2022 13:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_13/9UdXu_166151823341037kKk_JPEG/cover_cover_MYH20220826022700038_20220826215002998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라, 자포리자 원전 전력망 재연결 시도…러 "불가능"]]></title>
             <link>https://tv.naver.com/v/28829687</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 Aug 2022 10:25:31 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220826_29/7NTe6_1661508811153exS9u_JPEG/cover_cover_MYH20220826018800641_20220826191102506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['줄기세포 주가조작 혐의' 네이처셀 회장 2심도 무죄]]></title>
-            <link>https://tv.naver.com/v/28825711</link>
-            <guid>https://tv.naver.com/v/28825711</guid>
-            <pubDate>Fri, 26 Aug 2022 10:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_271/i6HkP_1661508332769O2AQs_JPEG/cover_cover_MYH20220826018700038_20220826190502549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
