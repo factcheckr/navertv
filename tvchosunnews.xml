@@ -4,16 +4,24 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 04:52:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 06:02:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[영상] 박근혜 전 대통령, 107일 만에 강남에 나타났다]]></title>
+            <link>https://tv.naver.com/v/28814335</link>
+            <guid>https://tv.naver.com/v/28814335</guid>
+            <pubDate>Fri, 26 Aug 2022 06:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_289/3koCu_1661490996509pvvf6_JPEG/cover_2022082690093_thumb_021038_20220826141601724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[영상] 장제원이 윤석열 대통령을 만나지 않은 이유]]></title>
-            <link>https://tv.naver.com/v/28813656</link>
-            <guid>https://tv.naver.com/v/28813656</guid>
-            <pubDate>Fri, 26 Aug 2022 04:51:42 GMT</pubDate>
+            <link>https://tv.naver.com/v/28814210</link>
+            <guid>https://tv.naver.com/v/28814210</guid>
+            <pubDate>Fri, 26 Aug 2022 06:01:45 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_149/biWuS_1661489497935F7Fa5_JPEG/cover_2022082690092_thumb_014639_20220826135101738.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220826_105/FGSPJ_1661490698007vdlM1_JPEG/cover_2022082690092_thumb_020954_20220826141101621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[퍼레이드 인터뷰] 김기현 "이준석 염두에 둔 전당대회? 천동설 수준 발상"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 Aug 2022 13:46:05 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220825_96/HuPFJ_16614327860589bKGE_JPEG/cover_2022082590208_thumb_100425_20220825220615471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 밤사이 서울·경기 서부 비…낮 30도 안팎]]></title>
-            <link>https://tv.naver.com/v/28799931</link>
-            <guid>https://tv.naver.com/v/28799931</guid>
-            <pubDate>Thu, 25 Aug 2022 13:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220825_231/cbV5T_1661432799334uQR1V_JPEG/cover_2022082590206_thumb_100406_20220825220609371.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
