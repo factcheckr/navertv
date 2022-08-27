@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-08-27T13:34:33.520Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 27 Aug 2022 14:20:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[국민의힘, 당헌·당규 재정비해 새 비대위 구성키로]]></title>
+            <link>https://tv.naver.com/v/28846278</link>
+            <guid>https://tv.naver.com/v/28846278</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_200/do9JX_1661606905554WPIE2_JPEG/cover_cover_MYH20220827010000038_20220827222802948.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준석 "칠곡서 책 쓰겠다…TK행 비판 제정신 아냐"]]></title>
+            <link>https://tv.naver.com/v/28846271</link>
+            <guid>https://tv.naver.com/v/28846271</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_93/O2fQC_1661606841773Um2p0_JPEG/cover_cover_MYH20220827010100038_20220827222702729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예고된 인구 디스토피아…이민자·난민 정책은 구멍 '숭숭' [탐사보도 뉴스프리즘]]]></title>
+            <link>https://tv.naver.com/v/28845957</link>
+            <guid>https://tv.naver.com/v/28845957</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[15:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_216/dGFPx_1661605988886c58ja_JPEG/cover_cover_MYH20220826020200038_20220827220202960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미니다큐] 아름다운 사람들 - 226회 : 80년 만의 폭우 현장에서 만난 사람들]]></title>
+            <link>https://tv.naver.com/v/28845181</link>
+            <guid>https://tv.naver.com/v/28845181</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[11:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_26/sVJBI_1661602150519aWkpk_JPEG/cover_cover_MYH20220826013400038_20220827210102175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대전 국민은행 권총 강도살인 용의자들 21년 만에 검거]]></title>
+            <link>https://tv.naver.com/v/28844268</link>
+            <guid>https://tv.naver.com/v/28844268</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_39/tt2lE_1661597520214wciur_JPEG/cover_cover_MYH20220827009900641_20220827195102352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위중증 재유행 이후 최다…중증병상 포화 임박 지역도]]></title>
+            <link>https://tv.naver.com/v/28844249</link>
+            <guid>https://tv.naver.com/v/28844249</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_33/pwmTE_1661597463501o7ddS_JPEG/cover_cover_MYH20220827009800641_20220827195004400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명, 서울·경기서도 압승…최종 득표율 78.2%]]></title>
+            <link>https://tv.naver.com/v/28844143</link>
+            <guid>https://tv.naver.com/v/28844143</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_53/0m9Ms_1661596900150alIbn_JPEG/cover_cover_MYH20220827009700038_20220827194102339.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한반도 브리핑] 한미 연합 UFS 연습…한중 정상, 수교 30주년 축하]]></title>
+            <link>https://tv.naver.com/v/28843811</link>
+            <guid>https://tv.naver.com/v/28843811</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[12:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_42/98cqn_1661595627975wk9Uf_JPEG/cover_cover_MYH20220827009600038_20220827191402383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 이재명, 서울·경기 경선도 1위…누계 78.22% 독주]]></title>
+            <link>https://tv.naver.com/v/28843567</link>
+            <guid>https://tv.naver.com/v/28843567</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_234/iaNC9_1661594215299stWjf_JPEG/cover_cover_MYH20220827009500038_20220827185402654.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환경영향평가 면제 넓힌다…환경단체 "제도 후퇴"]]></title>
+            <link>https://tv.naver.com/v/28843386</link>
+            <guid>https://tv.naver.com/v/28843386</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_198/kFpVg_166159302926768LNf_JPEG/cover_cover_MYH20220827009400641_20220827183602465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산서 산부인과 화재로 80여명 대피…인명피해 없어]]></title>
+            <link>https://tv.naver.com/v/28843301</link>
+            <guid>https://tv.naver.com/v/28843301</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_106/fV1yL_1661592562544zcAcN_JPEG/cover_cover_MYH20220827009300038_20220827182902806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대전 국민은행 강도살인' 용의자 2명 21년만에 검거]]></title>
+            <link>https://tv.naver.com/v/28843278</link>
+            <guid>https://tv.naver.com/v/28843278</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_182/IkqP1_1661592450701j7qwI_JPEG/cover_cover_MYH20220827009200038_20220827182702378.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 여름 끝자락…막바지 휴가철 공항은 북적]]></title>
+            <link>https://tv.naver.com/v/28843265</link>
+            <guid>https://tv.naver.com/v/28843265</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_132/bjoWY_1661592423976Ccp32_JPEG/cover_cover_MYH20220827009100641_20220827182602577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국 네번째 추기경 탄생…유흥식 추기경 오늘 서임식]]></title>
+            <link>https://tv.naver.com/v/28843232</link>
+            <guid>https://tv.naver.com/v/28843232</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_226/uHekX_1661592258867F4vCv_JPEG/cover_cover_MYH20220827009000641_20220827182302187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴란드에 K2전차·K9자주포 1차 수출…7조6천억 규모]]></title>
+            <link>https://tv.naver.com/v/28843188</link>
+            <guid>https://tv.naver.com/v/28843188</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_246/iNhUu_1661592063935DHMxj_JPEG/cover_cover_MYH20220827008900038_20220827182002599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번엔 800원대 꽃게…고물가에 가격 경쟁 치열]]></title>
+            <link>https://tv.naver.com/v/28843168</link>
+            <guid>https://tv.naver.com/v/28843168</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_230/ZpDON_1661591961741N5oUF_JPEG/cover_cover_MYH20220827008800641_20220827181802582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["1등은 피하고 봐야"…은행들 대출금리 인하 분주]]></title>
+            <link>https://tv.naver.com/v/28843125</link>
+            <guid>https://tv.naver.com/v/28843125</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_175/Mnr6j_1661591820116Kee3n_JPEG/cover_cover_MYH20220827008700641_20220827181602979.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조기 완화 선 그은 파월…"금리 더 올린 뒤 유지"]]></title>
+            <link>https://tv.naver.com/v/28843103</link>
+            <guid>https://tv.naver.com/v/28843103</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_136/AnM5f_1661591748883pItGL_JPEG/cover_cover_MYH20220827008600641_20220827181402360.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 검찰 '보완수사·재수사'도 확대…수사준칙 '윤곽']]></title>
+            <link>https://tv.naver.com/v/28843074</link>
+            <guid>https://tv.naver.com/v/28843074</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_277/LeQMw_1661591578109R8PtT_JPEG/cover_cover_MYH20220827008500641_20220827181202619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주 전당대회 관전포인트는…최고위원 5위 다툼 치열]]></title>
+            <link>https://tv.naver.com/v/28843034</link>
+            <guid>https://tv.naver.com/v/28843034</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_293/1vWfs_1661591417996tWXBl_JPEG/cover_cover_MYH20220827008400641_20220827180902363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준석 측 "비대위 유지하면 비대위원도 가처분"]]></title>
+            <link>https://tv.naver.com/v/28842968</link>
+            <guid>https://tv.naver.com/v/28842968</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_70/AmUAP_1661591071453H8t7p_JPEG/cover_cover_MYH20220827008300038_20220827180402988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘 긴급 의원총회…지도체제 논의 결과 주목]]></title>
+            <link>https://tv.naver.com/v/28842934</link>
+            <guid>https://tv.naver.com/v/28842934</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_106/eb5Zh_166159094887866FRD_JPEG/cover_cover_MYH20220827008200038_20220827180203133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 수다] 국민의힘 대혼돈…비대위 출범 열흘만에 좌초 위기]]></title>
+            <link>https://tv.naver.com/v/28842913</link>
+            <guid>https://tv.naver.com/v/28842913</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[22:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_12/aXImD_1661591520426yLYdn_JPEG/cover_cover_MYH20220827008100038_20220827180002824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[되찾은 일상…3년 만에 돌아온 한강달빛야시장]]></title>
+            <link>https://tv.naver.com/v/28842826</link>
+            <guid>https://tv.naver.com/v/28842826</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_261/8QKdk_1661590393715M3R2k_JPEG/cover_cover_MYH20220827008000038_20220827175202512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 일교차 '10도 이상'…대체로 맑아]]></title>
+            <link>https://tv.naver.com/v/28842796</link>
+            <guid>https://tv.naver.com/v/28842796</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_36/qk0iV_1661590183051QJqQT_JPEG/cover_cover_MYH20220827007900038_20220827174902294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당 새 지도부 내일 선출…서울·경기 경선 시작]]></title>
+            <link>https://tv.naver.com/v/28842438</link>
+            <guid>https://tv.naver.com/v/28842438</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_273/34T1l_1661588228961C3Fjb_JPEG/cover_cover_MYH20220827007800641_20220827171502147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['비상상황' 국민의힘…긴급 의원총회서 대책 논의 중]]></title>
+            <link>https://tv.naver.com/v/28842400</link>
+            <guid>https://tv.naver.com/v/28842400</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_189/esVEG_16615879592743kb7h_JPEG/cover_cover_MYH20220827007700641_20220827171102954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스1번지] 국민의힘 긴급의총…민주당 새 지도부 내일 선출]]></title>
+            <link>https://tv.naver.com/v/28842302</link>
+            <guid>https://tv.naver.com/v/28842302</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[26:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_238/37BY1_1661588190886z5C8T_JPEG/cover_cover_MYH20220827007600038_20220827170402850.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일도 전국 쾌청…'10도 안팎' 일교차 유의]]></title>
+            <link>https://tv.naver.com/v/28842177</link>
+            <guid>https://tv.naver.com/v/28842177</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_63/FktEF_1661586820530hf8nK_JPEG/cover_cover_MYH20220827007500038_20220827165302176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴란드에 K2전차·K9자주포 1차 수출…7조6천억 규모]]></title>
+            <link>https://tv.naver.com/v/28841733</link>
+            <guid>https://tv.naver.com/v/28841733</guid>
+            <pubDate>Sat, 27 Aug 2022 14:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_18/K7paY_1661584624499EQj5m_JPEG/cover_cover_MYH20220827007400038_20220827161602447.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
