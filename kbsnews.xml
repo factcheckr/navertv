@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 22:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 23:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8시 날씨] 아침 공기 쌀쌀해요…큰 일교차 주의]]></title>
+            <link>https://tv.naver.com/v/28849516</link>
+            <guid>https://tv.naver.com/v/28849516</guid>
+            <pubDate>Sat, 27 Aug 2022 23:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220828_12/efJJg_1661642066874FLN5W_JPEG/cover_0011328758_001_20220828081401256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한중 경제장관 회의…‘공급망 협력 강화’ 양해각서 체결]]></title>
             <link>https://tv.naver.com/v/28849309</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 Aug 2022 13:33:05 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220827_1/MoIxe_16616054658387QxOy_JPEG/cover_0011328725_001_20220827220409404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주 어제 1,415명·오늘 962명 확진…사망자 없어]]></title>
-            <link>https://tv.naver.com/v/28845980</link>
-            <guid>https://tv.naver.com/v/28845980</guid>
-            <pubDate>Sat, 27 Aug 2022 13:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220827_236/4SKP6_16616054611594O7AE_JPEG/cover_0011328724_001_20220827220401285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
