@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 12:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 13:45:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지하철역 수상한 쇼핑백 릴레이…32억 빼갔다]]></title>
+            <link>https://tv.naver.com/v/28881808</link>
+            <guid>https://tv.naver.com/v/28881808</guid>
+            <pubDate>Mon, 29 Aug 2022 13:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_95/yvXcy_1661777600560Ji5S4_JPEG/cover_0000232947_001_20220829215201776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 달 600억 국부유출 ‘줄줄’…입국 전 검사 추석 뒤 없앨 듯]]></title>
             <link>https://tv.naver.com/v/28880592</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 Aug 2022 11:21:48 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220829_21/Eex11_1661771952750ajR4X_JPEG/cover_0000232955_001_20220829201809871.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제보가 뉴스다]새벽에 20분 펑펑…‘전동휠 폭발’ 아파트가 덜덜]]></title>
-            <link>https://tv.naver.com/v/28879713</link>
-            <guid>https://tv.naver.com/v/28879713</guid>
-            <pubDate>Mon, 29 Aug 2022 11:21:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_152/WpCRt_1661771821223rMCMb_JPEG/cover_0000232948_001_20220829201536109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
