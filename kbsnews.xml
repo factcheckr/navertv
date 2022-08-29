@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 06:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 07:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/28874388</link>
+            <guid>https://tv.naver.com/v/28874388</guid>
+            <pubDate>Mon, 29 Aug 2022 07:27:17 GMT</pubDate>
+            <content:encoded><![CDATA[9:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_178/1fpu2_1661757539647HjEm2_JPEG/cover_0011329301_001_20220829161601240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대구 아파트 하락세 가속도…입주 증가가 부담]]></title>
             <link>https://tv.naver.com/v/28870377</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 Aug 2022 04:50:00 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220829_184/Ksnei_1661743724196lnJYQ_JPEG/cover_0011329234_001_20220829122801261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“한 달 뒤 장관 보고는 미흡…규정 상 문제는 없어”]]></title>
-            <link>https://tv.naver.com/v/28867522</link>
-            <guid>https://tv.naver.com/v/28867522</guid>
-            <pubDate>Mon, 29 Aug 2022 04:50:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_287/iw0C6_1661743564544jaa4d_JPEG/cover_0011329237_001_20220829122519876.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
