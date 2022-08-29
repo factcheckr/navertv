@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 13:45:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 14:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 전국 비…아침 수도권·충남 집중호우]]></title>
+            <link>https://tv.naver.com/v/28882942</link>
+            <guid>https://tv.naver.com/v/28882942</guid>
+            <pubDate>Mon, 29 Aug 2022 14:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_274/zWxEB_16617807441837EbRe_JPEG/cover_cover_MYH20220829023700038_20220829224502697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['강행군' 전북, 포항과 2-2 극적인 무승부]]></title>
             <link>https://tv.naver.com/v/28882907</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 Aug 2022 12:46:35 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220829_128/eTsAM_1661772098560VLwM3_JPEG/cover_cover_MYH20220829020400038_20220829202102107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스프라임] 국민의힘, 추석 전 '새 비대위'…이재명 '영수회담' 요청]]></title>
-            <link>https://tv.naver.com/v/28879539</link>
-            <guid>https://tv.naver.com/v/28879539</guid>
-            <pubDate>Mon, 29 Aug 2022 11:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[22:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_138/YxGLA_1661771873527hET9Y_JPEG/cover_cover_MYH20220829020200038_20220829200603355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
