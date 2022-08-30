@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 09:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 10:26:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now] '제로 코로나' 중국, 다시 시작된 봉쇄]]></title>
+            <link>https://tv.naver.com/v/28902956</link>
+            <guid>https://tv.naver.com/v/28902956</guid>
+            <pubDate>Tue, 30 Aug 2022 10:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_49/19zlF_1661851912272R5AJ1_JPEG/cover_cover_PH220830-24_20220830183103493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 대부분 비‥중부 많은 비·호우특보 유의]]></title>
             <link>https://tv.naver.com/v/28900725</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Aug 2022 04:52:57 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220830_61/NrvVk_1661829156722aPO1y_JPEG/cover_cover_noon_20220830_120548_1_3_Large_20220830121203459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직장인 건보료율 첫 7%대‥월 2천69원 인상]]></title>
-            <link>https://tv.naver.com/v/28891443</link>
-            <guid>https://tv.naver.com/v/28891443</guid>
-            <pubDate>Tue, 30 Aug 2022 04:52:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_228/eFv0f_1661828922286Oz0HA_JPEG/cover_cover_noon_20220830_120400_1_2_Large_20220830120803960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
