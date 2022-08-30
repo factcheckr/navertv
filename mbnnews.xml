@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 20:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 21:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[271회_코로나19 유행 전망 및 예방요령]]></title>
+            <link>https://tv.naver.com/v/28912664</link>
+            <guid>https://tv.naver.com/v/28912664</guid>
+            <pubDate>Tue, 30 Aug 2022 21:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[14:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_295/fR8V0_1661893788253Aqo6m_JPEG/cover_cover_20220831055653_20_849_1307159_1080_7_20220831060201257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 국민의힘 의원총회 "최고위원 4명 궐위 시 비상상황" 추인 / 윤 대통령-이재명 대표 "여야 대표 만나자"]]></title>
             <link>https://tv.naver.com/v/28905802</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Aug 2022 10:26:12 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220830_204/zdSs5_1661854213138TKlVg_JPEG/cover_cover_20220830190520_20_552_1307125_1080_7_20220830190901202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김주하 앵커가 전하는 8월 30일 MBN 뉴스7 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/28903808</link>
-            <guid>https://tv.naver.com/v/28903808</guid>
-            <pubDate>Tue, 30 Aug 2022 10:26:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_31/8c9Ok_1661854097154mb470_JPEG/cover_cover_20220830190322_20_552_1307124_1080_7_20220830190701237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
