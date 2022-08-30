@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 08:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 09:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBN 뉴스파이터-2022년 8월 30일 김명준 앵커 오프닝]]></title>
+            <link>https://tv.naver.com/v/28902749</link>
+            <guid>https://tv.naver.com/v/28902749</guid>
+            <pubDate>Tue, 30 Aug 2022 09:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_193/189UW_1661851410408SVH00_JPEG/cover_cover_20220830182036_20_673_1307112_1080_7_20220830182301197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 尹-李 만남 성사? "빠른 시간 내 만나자"]]></title>
             <link>https://tv.naver.com/v/28900966</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 Aug 2022 02:34:09 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220830_143/cX8eG_1661821217743zMGOg_JPEG/cover_cover_20220830095527_20_689_1307078_1080_7_20220830095901232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유성온천축제를 사계절 테마로…지역 상권 활성화 '기대']]></title>
-            <link>https://tv.naver.com/v/28888306</link>
-            <guid>https://tv.naver.com/v/28888306</guid>
-            <pubDate>Tue, 30 Aug 2022 02:34:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_108/PlKSe_1661820986627AWSJN_JPEG/cover_cover_20220830095055_20_689_1307076_1080_7_20220830095501250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
