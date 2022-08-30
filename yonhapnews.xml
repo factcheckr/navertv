@@ -4,9 +4,17 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 21:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 22:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리빙톡] 아침마다 뻣뻣한 손가락…그냥 두면 안 돼!]]></title>
+            <link>https://tv.naver.com/v/28871411</link>
+            <guid>https://tv.naver.com/v/28871411</guid>
+            <pubDate>Tue, 30 Aug 2022 22:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_26/RHSle_1661752178803eE0IL_JPEG/1661752093930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] "누구에게 총 쏘는지 몰라"…이라크 정계 실세 사퇴에 유혈 충돌]]></title>
             <link>https://tv.naver.com/v/28903712</link>
@@ -46,6 +54,14 @@
             <pubDate>Tue, 30 Aug 2022 09:23:07 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220830_64/VIVSo_1661849350374hUcvG_JPEG/1661849328432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업발언대] 3차원 측정 정보처리 기술 개발 안성준 커브서프 대표]]></title>
+            <link>https://tv.naver.com/v/28901711</link>
+            <guid>https://tv.naver.com/v/28901711</guid>
+            <pubDate>Tue, 30 Aug 2022 22:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[7:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_155/FsTU8_1661848964924YN0P4_JPEG/1661848924327.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[펠로시 효과?… "미, 대규모 미사일 대만 수출 의회승인 요청"]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 29 Aug 2022 06:11:33 GMT</pubDate>
             <content:encoded><![CDATA[3:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220829_195/wSagG_1661749277341xAX27_JPEG/1661747245811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["성서에나 나올 홍수"…물폭탄 덮친 파키스탄 사망자 1천명 넘어]]></title>
-            <link>https://tv.naver.com/v/28869476</link>
-            <guid>https://tv.naver.com/v/28869476</guid>
-            <pubDate>Mon, 29 Aug 2022 04:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_125/W6nhO_1661748560917ILaHt_JPEG/1661748533630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 이재명 "민생 개선 위해 총력 다할 것"…영수회담 재차 요청]]></title>
-            <link>https://tv.naver.com/v/28867095</link>
-            <guid>https://tv.naver.com/v/28867095</guid>
-            <pubDate>Mon, 29 Aug 2022 04:50:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220829_60/mzROG_1661742254383vomW9_JPEG/1661742217655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
