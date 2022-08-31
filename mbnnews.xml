@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 08:29:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 09:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBN 뉴스파이터-2022년 8월 31일 김명준 앵커 오프닝]]></title>
+            <link>https://tv.naver.com/v/28929229</link>
+            <guid>https://tv.naver.com/v/28929229</guid>
+            <pubDate>Wed, 31 Aug 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_20/CRFFV_1661937812628atCpg_JPEG/cover_cover_20220831182028_20_673_1307219_1080_7_20220831182301193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김주하 AI가 전하는 8월 31일 뉴스7 예고]]></title>
+            <link>https://tv.naver.com/v/28929100</link>
+            <guid>https://tv.naver.com/v/28929100</guid>
+            <pubDate>Wed, 31 Aug 2022 09:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_274/nK14A_1661937463410OrTsP_JPEG/cover_cover_20220831181453_20_845_1307218_1080_7_20220831181701222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] '중대 동문' 권성동-이재명, 첫 만남]]></title>
             <link>https://tv.naver.com/v/28927210</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 31 Aug 2022 02:39:53 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220831_258/po5px_1661906682837cebWt_JPEG/cover_cover_20220831093918_20_689_1307184_1080_7_20220831094301188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝MBN 날씨]오후까지 영동·영남 중심 비…낮 기온 올라, 서울 한낮 27도]]></title>
-            <link>https://tv.naver.com/v/28914237</link>
-            <guid>https://tv.naver.com/v/28914237</guid>
-            <pubDate>Wed, 31 Aug 2022 02:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_107/HmJTY_1661906515497G0122_JPEG/cover_cover_20220831085628_20_605_1307182_1080_7_20220831094101218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8월 31일 굿모닝 MBN 클로징]]></title>
-            <link>https://tv.naver.com/v/28913584</link>
-            <guid>https://tv.naver.com/v/28913584</guid>
-            <pubDate>Wed, 31 Aug 2022 02:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220831_70/xRFRl_1661902034264vlAo1_JPEG/cover_cover_20220831082333_20_605_1307178_1080_7_20220831082701341.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
