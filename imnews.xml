@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 09:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 10:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] [엠빅네이처] "저기요 이것 좀 치워주세요"..바다표범의 슬픈 외침]]></title>
+            <link>https://tv.naver.com/v/28956042</link>
+            <guid>https://tv.naver.com/v/28956042</guid>
+            <pubDate>Thu, 01 Sep 2022 10:25:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220901_13/Nku5j_16620242995201wjfQ_JPEG/cover_cover_220901_plastic_1730_final_640_20220901182403745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["의원님, 전쟁입니다."‥검찰, 이재명 오는 6일 소환 통보]]></title>
             <link>https://tv.naver.com/v/28954555</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Sep 2022 04:40:55 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220901_2/OOpsN_1662002458595vLPu8_JPEG/cover_cover_noon_20220901_120711_1_4_Large_20220901122021455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세제 개편' 신경전‥종부세 '완화' 합의]]></title>
-            <link>https://tv.naver.com/v/28945085</link>
-            <guid>https://tv.naver.com/v/28945085</guid>
-            <pubDate>Thu, 01 Sep 2022 04:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220901_281/T6vyT_1662002450407KwWF0_JPEG/cover_cover_noon_20220901_120331_1_2_Large_20220901122012477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
