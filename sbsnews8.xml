@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 20:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 21:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] '힌남노' 매우 강한 세력으로 북상 중…전국 곳곳 강풍 · 호우]]></title>
+            <link>https://tv.naver.com/v/28987313</link>
+            <guid>https://tv.naver.com/v/28987313</guid>
+            <pubDate>Fri, 02 Sep 2022 21:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_2/GXNZ3_1662153406701EnyQc_JPEG/cover_0000997072_001_20220903061601209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['힌남노' 북상 코앞…수해 피해 지역들 대비는 아직도]]></title>
             <link>https://tv.naver.com/v/28984073</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Sep 2022 12:44:11 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220902_115/UVpfY_1662121524262WBKMh_JPEG/cover_0000997048_001_20220902212401239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 전 새 비대위 가능성…'권성동 사퇴론' 속내는]]></title>
-            <link>https://tv.naver.com/v/28982472</link>
-            <guid>https://tv.naver.com/v/28982472</guid>
-            <pubDate>Fri, 02 Sep 2022 12:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_61/keqbk_1662120809917vkH8m_JPEG/cover_0000995970_001_20220902211201217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

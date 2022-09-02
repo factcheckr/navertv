@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 20:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 21:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘힌남노’ 제주 비상대응…이 시각 제주]]></title>
+            <link>https://tv.naver.com/v/28987306</link>
+            <guid>https://tv.naver.com/v/28987306</guid>
+            <pubDate>Fri, 02 Sep 2022 21:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_247/RwIee_1662153179421KB1dy_JPEG/cover_0011332783_001_20220903061201222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 양양송이 풍작 예상…오는 7일 공판 시작]]></title>
             <link>https://tv.naver.com/v/28985888</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Sep 2022 15:23:35 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_261/TN1mY_1662131234228V28EP_JPEG/cover_0011332733_001_20220903000601244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고래여행선 8월 이용객 7천여 명…최근 5년간 최다]]></title>
-            <link>https://tv.naver.com/v/28985154</link>
-            <guid>https://tv.naver.com/v/28985154</guid>
-            <pubDate>Fri, 02 Sep 2022 15:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_182/CaMig_1662129919184VbXR6_JPEG/cover_0011332731_001_20220902234509288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
