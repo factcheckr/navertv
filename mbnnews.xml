@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 11:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 12:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN뉴스센터 날씨]역대급 태풍 '힌남노' 북상…다음 주 초, 전국 직접 영향권]]></title>
+            <link>https://tv.naver.com/v/28995437</link>
+            <guid>https://tv.naver.com/v/28995437</guid>
+            <pubDate>Sat, 03 Sep 2022 12:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_45/n59g1_1662204008771XeIA8_JPEG/cover_cover_20220903201605_20_906_1307499_1080_7_20220903201901204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중소기업·소상공인 '동행축제'…최대 80% 할인]]></title>
             <link>https://tv.naver.com/v/28995360</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Sep 2022 05:36:26 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_90/ySWfV_1662181608431Mus4z_JPEG/cover_cover_20220903140223_20_675_1307470_1080_7_20220903140501224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신문브리핑 "이재명 "말꼬투리 하나 잡아" 檢 "李, 서면조사 불응"" 외 주요기사]]></title>
-            <link>https://tv.naver.com/v/28989322</link>
-            <guid>https://tv.naver.com/v/28989322</guid>
-            <pubDate>Sat, 03 Sep 2022 04:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[58:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_293/lCRcJ_1662173405804b2sLb_JPEG/cover_cover_20220903113920_20_606_1307469_1080_7_20220903114601252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
