@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 20:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 21:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[273회_산행 사고 및 연휴 화재 예방요령]]></title>
+            <link>https://tv.naver.com/v/28999934</link>
+            <guid>https://tv.naver.com/v/28999934</guid>
+            <pubDate>Sat, 03 Sep 2022 21:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[14:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_252/zrmdL_1662238661213TnpRl_JPEG/cover_cover_20220904054342_20_849_1307501_1080_7_20220904055001293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN뉴스센터 날씨]역대급 태풍 '힌남노' 북상…다음 주 초, 전국 직접 영향권]]></title>
             <link>https://tv.naver.com/v/28995437</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Sep 2022 05:36:26 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_189/xYABz_1662181818377hI34r_JPEG/cover_cover_20220903140456_20_675_1307471_1080_7_20220903140901219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['힌남노' 초속 50m면 크레인도 날릴 위력…기자가 태풍 체험해보니]]></title>
-            <link>https://tv.naver.com/v/28990581</link>
-            <guid>https://tv.naver.com/v/28990581</guid>
-            <pubDate>Sat, 03 Sep 2022 05:36:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_90/ySWfV_1662181608431Mus4z_JPEG/cover_cover_20220903140223_20_675_1307470_1080_7_20220903140501224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
