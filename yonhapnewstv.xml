@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 19:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 20:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 9월 4일]]></title>
+            <link>https://tv.naver.com/v/28999798</link>
+            <guid>https://tv.naver.com/v/28999798</guid>
+            <pubDate>Sat, 03 Sep 2022 20:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[30:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_153/Aif0y_1662235408242unKLU_JPEG/cover_cover_MYH20220902016700038_20220904050102041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[브레이크 없는 '플랫폼 기업' 성장세…문어발식엔 경계령 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/28996776</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Sep 2022 07:21:13 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_81/nEreW_1662187163208Ra0kB_JPEG/cover_cover_MYH20220903006500038_20220903153902063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 국무부, 대만에 1조5천억원 무기판매·지원 승인]]></title>
-            <link>https://tv.naver.com/v/28991732</link>
-            <guid>https://tv.naver.com/v/28991732</guid>
-            <pubDate>Sat, 03 Sep 2022 07:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_171/EYEan_1662186986366PnoJB_JPEG/cover_cover_MYH20220903006400038_20220903153602791.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
