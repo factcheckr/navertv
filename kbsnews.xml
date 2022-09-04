@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 09:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 10:24:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 제주에 강한 바람…이 시각 서귀포]]></title>
+            <link>https://tv.naver.com/v/29007803</link>
+            <guid>https://tv.naver.com/v/29007803</guid>
+            <pubDate>Sun, 04 Sep 2022 10:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_20/Xo9cA_1662286559047loCjk_JPEG/cover_0011333113_001_20220904191501193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 오키나와 지난 태풍, 한반도 향해 북상…6천여 가구 정전]]></title>
+            <link>https://tv.naver.com/v/29007792</link>
+            <guid>https://tv.naver.com/v/29007792</guid>
+            <pubDate>Sun, 04 Sep 2022 10:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_217/0DxOp_1662286488421fw5v1_JPEG/cover_0011333112_001_20220904191401165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중대본 3단계·위기경보 ‘심각’ 상향]]></title>
+            <link>https://tv.naver.com/v/29007702</link>
+            <guid>https://tv.naver.com/v/29007702</guid>
+            <pubDate>Sun, 04 Sep 2022 10:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_209/EqfpN_16622861626820Df3s_JPEG/cover_0011333111_001_20220904190901209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보 날씨] 내일은 중부에 집중호우…해안, 강풍·너울 주의]]></title>
             <link>https://tv.naver.com/v/29006414</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 04 Sep 2022 04:26:28 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220904_268/0oVO3_1662261398686XBSOx_JPEG/cover_0011333044_001_20220904121621349.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태풍 힌남노 북상…지금 오키나와는]]></title>
-            <link>https://tv.naver.com/v/29002159</link>
-            <guid>https://tv.naver.com/v/29002159</guid>
-            <pubDate>Sun, 04 Sep 2022 04:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_108/8I4VB_1662261419113c1AqQ_JPEG/cover_0011333043_001_20220904121611600.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘힌남노’ 북상 초긴장 제주…여객선 운항 전면통제]]></title>
-            <link>https://tv.naver.com/v/29002156</link>
-            <guid>https://tv.naver.com/v/29002156</guid>
-            <pubDate>Sun, 04 Sep 2022 04:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_237/kdqQm_1662261411304QOxDG_JPEG/cover_0011333042_001_20220904121601205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태풍 ‘힌남노’, 모레 제주 거쳐 남해안 상륙]]></title>
-            <link>https://tv.naver.com/v/29002121</link>
-            <guid>https://tv.naver.com/v/29002121</guid>
-            <pubDate>Sun, 04 Sep 2022 04:26:28 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_271/YbN91_1662261191811ztWaH_JPEG/cover_0011333040_001_20220904121201191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
