@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 02:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 04:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘태풍 힌남노 북상’ 영호남·제주 예비특보…최대 600mm 호우]]></title>
+            <link>https://tv.naver.com/v/29002321</link>
+            <guid>https://tv.naver.com/v/29002321</guid>
+            <pubDate>Sun, 04 Sep 2022 04:27:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_284/HTEoy_16622625214592Mon9_JPEG/cover_0000233292_001_20220904123401728.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]고의 노출? /조국 시즌2?]]></title>
             <link>https://tv.naver.com/v/28995785</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Sep 2022 12:44:58 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220902_300/giTRT_1662117963274tyrjU_JPEG/cover_0000233252_001_20220902202447584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한기정, 위장전입 질타에…“부적절 처신” 사과]]></title>
-            <link>https://tv.naver.com/v/28981643</link>
-            <guid>https://tv.naver.com/v/28981643</guid>
-            <pubDate>Fri, 02 Sep 2022 12:44:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220902_240/vXkKY_1662117912376whXxf_JPEG/cover_0000233250_001_20220902202429457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
