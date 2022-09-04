@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 23:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 02:24:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상M] "대마 종자 채취" 허가받은 뒤 실제로는 몰래 유통]]></title>
+            <link>https://tv.naver.com/v/29001249</link>
+            <guid>https://tv.naver.com/v/29001249</guid>
+            <pubDate>Sun, 04 Sep 2022 02:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_7/2YuIp_1662254898081O16pm_JPEG/cover_cover_k220904-19_20220904102802469.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모레 아침 상륙‥부산·경남 관통]]></title>
             <link>https://tv.naver.com/v/29000280</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Sep 2022 10:24:50 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220903_97/d40DX_1662200595980SpoHX_JPEG/cover_cover_h2022090309_20220903192302007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 강도·규모 역대급‥태풍 '힌남노' 본격 북상 채비]]></title>
-            <link>https://tv.naver.com/v/28992602</link>
-            <guid>https://tv.naver.com/v/28992602</guid>
-            <pubDate>Sat, 03 Sep 2022 08:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220903_158/kac7B_16621911363523l18z_JPEG/cover_cover__20220903_163418_1_2_Large_20220903164502402.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
