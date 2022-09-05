@@ -4,9 +4,25 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 10:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 11:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9월 5일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/29029291</link>
+            <guid>https://tv.naver.com/v/29029291</guid>
+            <pubDate>Mon, 05 Sep 2022 11:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_117/VPtiN_1662375406506rLeaK_JPEG/cover_2022090590182_thumb_075101_20220905195601806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 尹 노린 지휘권 배제…野 공세 발목 잡았나]]></title>
+            <link>https://tv.naver.com/v/29028700</link>
+            <guid>https://tv.naver.com/v/29028700</guid>
+            <pubDate>Mon, 05 Sep 2022 11:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_258/srWZD_1662373619448aUfxu_JPEG/cover_2022090590178_thumb_072152_20220905192601733.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태풍 힌남노에 부산 '초비상'…내일 오전 7시 최근접]]></title>
             <link>https://tv.naver.com/v/29026500</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 05 Sep 2022 02:29:02 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220905_203/uoE5V_1662335780685VDWLw_JPEG/cover_2022090590059_thumb_085201_20220905085602723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 대목 앞둔 제주 '황금향'…수확량 늘고 당도도 높아]]></title>
-            <link>https://tv.naver.com/v/29014656</link>
-            <guid>https://tv.naver.com/v/29014656</guid>
-            <pubDate>Mon, 05 Sep 2022 02:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_62/aYw1k_1662335538122M5UWu_JPEG/cover_2022090590055_thumb_084723_20220905085124136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["대목 사라질 판"…경기 침체에 지자체 "지역화폐 혜택 확대"]]></title>
-            <link>https://tv.naver.com/v/29014655</link>
-            <guid>https://tv.naver.com/v/29014655</guid>
-            <pubDate>Mon, 05 Sep 2022 02:29:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_258/RFdNZ_1662335536622ANiM1_JPEG/cover_2022090590057_thumb_084951_20220905085116833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
