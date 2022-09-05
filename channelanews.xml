@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 06:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 07:35:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국 전방위 태풍 영향…내일 새벽부터 오전이 고비]]></title>
+            <link>https://tv.naver.com/v/29024308</link>
+            <guid>https://tv.naver.com/v/29024308</guid>
+            <pubDate>Mon, 05 Sep 2022 07:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_83/GrNNk_1662362491539kMhYs_JPEG/cover_0000233363_001_20220905162012753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한반도 뒤덮는 태풍의 강풍 반경…‘힌남노’ 예상 경로는?]]></title>
+            <link>https://tv.naver.com/v/29024303</link>
+            <guid>https://tv.naver.com/v/29024303</guid>
+            <pubDate>Mon, 05 Sep 2022 07:35:33 GMT</pubDate>
+            <content:encoded><![CDATA[5:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_40/lOPfG_1662362563809etsUI_JPEG/cover_0000233362_001_20220905162001742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘尹 추석 선물세트’ 인증샷…중고거래 사이트에 “팔아요”]]></title>
             <link>https://tv.naver.com/v/29021675</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 04 Sep 2022 12:42:52 GMT</pubDate>
             <content:encoded><![CDATA[4:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220904_84/6k25V_1662291059809QWt87_JPEG/cover_0000233310_001_20220904202901792.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘힌남노급’ 시속 100km 강풍 직접 맞아보니]]></title>
-            <link>https://tv.naver.com/v/29009000</link>
-            <guid>https://tv.naver.com/v/29009000</guid>
-            <pubDate>Sun, 04 Sep 2022 12:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_169/NVQR5_16622910200712ktdQ_JPEG/cover_0000233309_001_20220904202829886.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물폭탄 먼저 맞은 일본…4천 가구 정전·11만 명 피난 지시]]></title>
-            <link>https://tv.naver.com/v/29008998</link>
-            <guid>https://tv.naver.com/v/29008998</guid>
-            <pubDate>Sun, 04 Sep 2022 12:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220904_228/bfJb9_1662290995565YhJHq_JPEG/cover_0000233308_001_20220904202821093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
