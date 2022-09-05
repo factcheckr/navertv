@@ -4,16 +4,32 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 16:32:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 17:27:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA["제주도 지난 태풍 힌남노…새벽 3시께 부산 최근접"]]></title>
-            <link>https://tv.naver.com/v/29035603</link>
-            <guid>https://tv.naver.com/v/29035603</guid>
-            <pubDate>Mon, 05 Sep 2022 16:31:42 GMT</pubDate>
+            <title><![CDATA[전남 여수, 내일 새벽 5시 가장 위험…밀물 들어오는 시기]]></title>
+            <link>https://tv.naver.com/v/29035976</link>
+            <guid>https://tv.naver.com/v/29035976</guid>
+            <pubDate>Mon, 05 Sep 2022 17:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_13/4DwiJ_1662397325380dRC48_JPEG/cover_0000312653_001_20220906020101576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["선조치 후보고 해달라"…대통령실, 24시간 비상근무 체제]]></title>
+            <link>https://tv.naver.com/v/29035883</link>
+            <guid>https://tv.naver.com/v/29035883</guid>
+            <pubDate>Mon, 05 Sep 2022 17:26:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_60/wnbQd_1662396656325GAKzd_JPEG/cover_0000312713_001_20220906015001689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["제주도 지난 태풍 힌남노, 새벽 3시께 부산 최근접"]]></title>
+            <link>https://tv.naver.com/v/29035828</link>
+            <guid>https://tv.naver.com/v/29035828</guid>
+            <pubDate>Mon, 05 Sep 2022 17:26:19 GMT</pubDate>
             <content:encoded><![CDATA[6:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_29/g3TIe_1662395151984p72Hl_JPEG/cover_0000312731_001_20220906012401650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_138/msY90_16623963532635q6Ux_JPEG/cover_0000312731_001_20220906014401680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['힌남노' 제주 동쪽해상 통과…오전 8시 울산 거쳐 빠져나갈 듯]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 05 Sep 2022 13:46:27 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220905_181/ZCdma_1662383106187gDnOq_JPEG/cover_0000312695_001_20220905220401700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직장인들 걱정에…기업들도 재택근무·출근시간 조정]]></title>
-            <link>https://tv.naver.com/v/29032089</link>
-            <guid>https://tv.naver.com/v/29032089</guid>
-            <pubDate>Mon, 05 Sep 2022 13:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_108/v90JY_16623828613736YmNl_JPEG/cover_0000312693_001_20220905220001689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2년 전처럼 정지될라…'힌남노'에 원전도 비상태세 돌입]]></title>
-            <link>https://tv.naver.com/v/29031999</link>
-            <guid>https://tv.naver.com/v/29031999</guid>
-            <pubDate>Mon, 05 Sep 2022 13:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_282/Np7V8_1662382604446Nmpmq_JPEG/cover_0000312692_001_20220905215601656.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
