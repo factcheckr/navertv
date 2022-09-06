@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] '힌남노 직격탄' 포스코, 물난리에 불난리까지…"정상적인 방산 작업"]]></title>
+            <link>https://tv.naver.com/v/29047317</link>
+            <guid>https://tv.naver.com/v/29047317</guid>
+            <pubDate>Tue, 06 Sep 2022 07:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_77/QQsu4_1662445841327emi5z_JPEG/cover_0000997850_001_20220906153004595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파도에 휩쓸리고도 개인 방송 이어간 남성…"경솔하다"]]></title>
             <link>https://tv.naver.com/v/29045817</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Sep 2022 02:32:47 GMT</pubDate>
             <content:encoded><![CDATA[4:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_182/aUGms_1662428609247oaJQT_JPEG/cover_0000997774_001_20220906104101182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CCTV로 본 각지 현재 상황…태풍 영향권 언제 벗어날까?]]></title>
-            <link>https://tv.naver.com/v/29039458</link>
-            <guid>https://tv.naver.com/v/29039458</guid>
-            <pubDate>Tue, 06 Sep 2022 02:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_88/xpWQi_1662428323978fo6vS_JPEG/cover_0000997772_001_20220906103702297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

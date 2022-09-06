@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:21:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:41:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_147/j34yG_1662442119093NdNYy_JPEG/cover_0000233451_001_20220906142701668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마린시티 파도 앞 방송…셀카봉 들고 돌진한 유튜버]]></title>
-            <link>https://tv.naver.com/v/29045208</link>
-            <guid>https://tv.naver.com/v/29045208</guid>
-            <pubDate>Tue, 06 Sep 2022 06:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_105/7BBcL_1662441866246e286E_JPEG/cover_0000233469_001_20220906142327713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[태풍 ‘힌남노’, 시속 52Km로 북동진 중]]></title>
             <link>https://tv.naver.com/v/29044254</link>
             <guid>https://tv.naver.com/v/29044254</guid>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 06 Sep 2022 04:58:10 GMT</pubDate>
             <content:encoded><![CDATA[5:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_92/dqArL_1662439456605lEifx_JPEG/cover_0000233461_001_20220906134146206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 오후부터 전국 대부분 ‘힌남노’ 영향 벗어날 듯]]></title>
+            <link>https://tv.naver.com/v/29043835</link>
+            <guid>https://tv.naver.com/v/29043835</guid>
+            <pubDate>Tue, 06 Sep 2022 07:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[9:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_150/GQI5H_1662439573150Ijiz2_JPEG/cover_0000233460_001_20220906134128802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
