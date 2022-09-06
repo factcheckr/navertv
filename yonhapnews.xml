@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 21:22:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 22:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 06 Sep 2022 09:23:47 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_249/Mehaf_1662454584292wdWMl_JPEG/1662453713307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['세상을 바꾸는 기업가' 꿈꾸는 이대화 닥터테일 대표]]></title>
+            <link>https://tv.naver.com/v/29051572</link>
+            <guid>https://tv.naver.com/v/29051572</guid>
+            <pubDate>Tue, 06 Sep 2022 22:24:02 GMT</pubDate>
+            <content:encoded><![CDATA[6:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_255/w0HS9_1662454535236QhSHe_JPEG/1662454432479.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태풍이야 오든 말든…생중계한 유튜버·수영한 외국인 '눈총']]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Sep 2022 02:28:42 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220905_201/wq8qT_1662344586596cA7hY_JPEG/1662344529846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주에서 바라본 초강력 태풍 '힌남노'…'태풍의 눈' 선명]]></title>
-            <link>https://tv.naver.com/v/29017054</link>
-            <guid>https://tv.naver.com/v/29017054</guid>
-            <pubDate>Mon, 05 Sep 2022 02:28:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220905_41/gvxSq_16623443313108KzWg_JPEG/1662343536701.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
