@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 13:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 14:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] 포항 실종 여성 추가 구조…수색 상황 특보]]></title>
+            <link>https://tv.naver.com/v/29058751</link>
+            <guid>https://tv.naver.com/v/29058751</guid>
+            <pubDate>Tue, 06 Sep 2022 14:24:13 GMT</pubDate>
+            <content:encoded><![CDATA[6:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_232/GTMX4_1662473484941lT5b1_JPEG/a82e779d-2ded-11ed-999c-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스데스크 클로징]]></title>
             <link>https://tv.naver.com/v/29055922</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Sep 2022 11:20:01 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_279/VNmCn_1662462236326EkzIM_JPEG/cover_cover_desk_20220906_195409_1_6_Large_20220906200302741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경주 저수지 붕괴 위험‥주민 대피]]></title>
-            <link>https://tv.naver.com/v/29054418</link>
-            <guid>https://tv.naver.com/v/29054418</guid>
-            <pubDate>Tue, 06 Sep 2022 11:20:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_182/wWr0x_1662461993576QTpFO_JPEG/cover_cover_desk_20220906_195150_1_5_Large_20220906195902679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
