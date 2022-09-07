@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 06:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 07:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/29074419</link>
+            <guid>https://tv.naver.com/v/29074419</guid>
+            <pubDate>Wed, 07 Sep 2022 07:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[9:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_221/6zXN4_1662535483118q7yko_JPEG/cover_0011334952_001_20220907162201200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 중국, 지진 강타에도 “봉쇄로 못 나간다고?”]]></title>
+            <link>https://tv.naver.com/v/29073363</link>
+            <guid>https://tv.naver.com/v/29073363</guid>
+            <pubDate>Wed, 07 Sep 2022 07:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_141/aW8BQ_1662533377054kB7r6_JPEG/cover_0011334943_001_20220907154901648.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자 눈Noon] 추석 차례상 9가지 음식으로 충분…“전 없어도 돼”]]></title>
+            <link>https://tv.naver.com/v/29073310</link>
+            <guid>https://tv.naver.com/v/29073310</guid>
+            <pubDate>Wed, 07 Sep 2022 07:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[6:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_167/8Bfvj_1662533411544Dul0s_JPEG/cover_0011334864_001_20220907154701206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주, 오늘 ‘김건희 특검법’ 발의…與 “대국민 호객 행위”]]></title>
             <link>https://tv.naver.com/v/29070416</link>
@@ -144,14 +168,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_105/W1S5N_1662523245558yLkDY_JPEG/cover_0011334866_001_20220907130001252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[기자 눈Noon] 추석 차례상 9가지 음식으로 충분…“전 없어도 돼”]]></title>
-            <link>https://tv.naver.com/v/29068043</link>
-            <guid>https://tv.naver.com/v/29068043</guid>
-            <pubDate>Wed, 07 Sep 2022 04:59:44 GMT</pubDate>
-            <content:encoded><![CDATA[6:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_10/FlgdS_16625231948080P5ld_JPEG/cover_0011334864_001_20220907125801206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[친절한 뉴스K] 자동차 침수 피해 급증…보상·확인 어떻게?]]></title>
             <link>https://tv.naver.com/v/29067990</link>
             <guid>https://tv.naver.com/v/29067990</guid>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 07 Sep 2022 04:59:44 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_46/AXRTp_1662522111221G19gP_JPEG/cover_0011334673_001_20220907124101169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 연휴 3천만 명 이동…고속도로 통행료 면제]]></title>
-            <link>https://tv.naver.com/v/29067583</link>
-            <guid>https://tv.naver.com/v/29067583</guid>
-            <pubDate>Wed, 07 Sep 2022 04:59:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_296/pEcMO_1662521602262KokB2_JPEG/cover_0011334856_001_20220907123211771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘거리두기 없는 추석’…원스톱 진료기관 6천여 곳 운영]]></title>
-            <link>https://tv.naver.com/v/29067577</link>
-            <guid>https://tv.naver.com/v/29067577</guid>
-            <pubDate>Wed, 07 Sep 2022 04:59:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_153/FOFfq_1662521562482xSgJi_JPEG/cover_0011334855_001_20220907123201230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
