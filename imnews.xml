@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 22:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 23:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 08 Sep 2022 22:25:08 GMT</pubDate>
             <content:encoded><![CDATA[0:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220909_174/X9Hfc_16626757302736OeSp_JPEG/cover_cover_today_20220909_071526_1_10_Large_20220909072202616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스투데이] 엘리자베스 2세 영국 여왕 서거‥찰스 왕위]]></title>
+            <link>https://tv.naver.com/v/29110727</link>
+            <guid>https://tv.naver.com/v/29110727</guid>
+            <pubDate>Thu, 08 Sep 2022 23:26:55 GMT</pubDate>
+            <content:encoded><![CDATA[17:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_67/ix3Qz_1662675684850CeHgS_JPEG/7160868a-2fc4-11ed-b07a-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 귀성길 아침 안개‥낮엔 따가운 볕]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Sep 2022 11:21:03 GMT</pubDate>
             <content:encoded><![CDATA[4:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_235/n0zRL_1662635965968AFoTn_JPEG/cover_cover_desk_20220908_201349_1_12_Large_20220908201803171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당정, 태풍 피해 대책 "지하주차장 차수벽 제도화"]]></title>
-            <link>https://tv.naver.com/v/29104552</link>
-            <guid>https://tv.naver.com/v/29104552</guid>
-            <pubDate>Thu, 08 Sep 2022 11:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_47/UXYLS_1662635722583O4TUX_JPEG/cover_cover_desk_20220908_201031_1_11_Large_20220908201512173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

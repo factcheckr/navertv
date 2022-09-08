@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 22:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 23:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 08 Sep 2022 08:29:41 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_186/eoohz_16626226609395koXR_JPEG/1662622647001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이순신 내기 술'부터 '수출 스타'까지…막걸리 천년 역사]]></title>
+            <link>https://tv.naver.com/v/29099551</link>
+            <guid>https://tv.naver.com/v/29099551</guid>
+            <pubDate>Thu, 08 Sep 2022 23:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_59/zFDN9_1662621928765C9BCC_JPEG/1662621869551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[추석특집! 궤도와 함께하는 '지구멸망' 데스매치(f.외계인 침공, AI공격, 바이러스, 환경파]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Sep 2022 09:23:47 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220906_249/Mehaf_1662454584292wdWMl_JPEG/1662453713307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['세상을 바꾸는 기업가' 꿈꾸는 이대화 닥터테일 대표]]></title>
-            <link>https://tv.naver.com/v/29051572</link>
-            <guid>https://tv.naver.com/v/29051572</guid>
-            <pubDate>Tue, 06 Sep 2022 22:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[6:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220906_255/w0HS9_1662454535236QhSHe_JPEG/1662454432479.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
