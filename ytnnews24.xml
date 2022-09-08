@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 16:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 17:34:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] '지금 만나러 갑니다']]></title>
+            <link>https://tv.naver.com/v/29109890</link>
+            <guid>https://tv.naver.com/v/29109890</guid>
+            <pubDate>Thu, 08 Sep 2022 17:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_158/x6Yt6_1662657939633GnvNB_JPEG/cover_cover_202209090221521532_t_20220909022503390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["지진 나도 못 나가!"...재난에도 예외 없는 中 '제로코로나']]></title>
+            <link>https://tv.naver.com/v/29109877</link>
+            <guid>https://tv.naver.com/v/29109877</guid>
+            <pubDate>Thu, 08 Sep 2022 17:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_115/Nk7ah_16626578329820dMqW_JPEG/cover_cover_202209090220087172_t_20220909022304180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민대 석·박사 동문 "김건희 논문 표절 논쟁 끝나"...학교 고발조치 검토]]></title>
             <link>https://tv.naver.com/v/29109302</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 08 Sep 2022 13:39:05 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_118/S8WMH_1662643049023k2YuD_JPEG/cover_cover_202209082205315401_t_20220908221712406.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전현희 "감사 연장은 직권남용" vs 감사원 "청탁금지법 위반 조사"]]></title>
-            <link>https://tv.naver.com/v/29106622</link>
-            <guid>https://tv.naver.com/v/29106622</guid>
-            <pubDate>Thu, 08 Sep 2022 13:39:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_94/uyPVM_1662643071718z0nx4_JPEG/cover_cover_202209082205190345_t_20220908221702305.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당정 "지하 주차장 차수벽 설치"...침수차 보험금도 신속지급]]></title>
-            <link>https://tv.naver.com/v/29106593</link>
-            <guid>https://tv.naver.com/v/29106593</guid>
-            <pubDate>Thu, 08 Sep 2022 13:39:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_177/Rr92z_1662642950447OetMT_JPEG/cover_cover_202209082158499563_t_20220908221502586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
