@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-09-08T12:47:38.777Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 08 Sep 2022 13:39:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[티맵 네비게이션 '먹통' 정상화…"이용자 몰려 과부하"]]></title>
+            <link>https://tv.naver.com/v/29106921</link>
+            <guid>https://tv.naver.com/v/29106921</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_25/LJvuL_1662644068149h22yK_JPEG/cover_cover_MYH20220908023800038_20220908223403041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미 확장억제전략협의체 내주 워싱턴서 재가동…약 5년만]]></title>
+            <link>https://tv.naver.com/v/29106842</link>
+            <guid>https://tv.naver.com/v/29106842</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_6/HLmgi_1662643814281ap7Km_JPEG/cover_cover_MYH20220908023700641_20220908222902554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전현희 "불법감사 중단해라"…감사원 "청탁금지법 위반 복수 제보"]]></title>
+            <link>https://tv.naver.com/v/29106603</link>
+            <guid>https://tv.naver.com/v/29106603</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_183/npsIN_1662643027193NRpqu_JPEG/cover_cover_MYH20220908023600641_20220908221603657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["엘리자베스 여왕 건강상태 우려…의료적 관찰 필요"]]></title>
+            <link>https://tv.naver.com/v/29106482</link>
+            <guid>https://tv.naver.com/v/29106482</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_76/vcASR_1662642566644G0nsn_JPEG/cover_cover_MYH20220908023500038_20220908220902723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 9월 8일 뉴스투나잇1부]]></title>
+            <link>https://tv.naver.com/v/29106158</link>
+            <guid>https://tv.naver.com/v/29106158</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_204/av34V_1662641485906qT6bY_JPEG/cover_cover_MYH20220908023300038_20220908215102756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 연휴 첫날 짙은 안개 주의…태풍 '무이파' 발생]]></title>
+            <link>https://tv.naver.com/v/29105932</link>
+            <guid>https://tv.naver.com/v/29105932</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_214/7gTU6_1662640667040c56Lz_JPEG/cover_cover_MYH20220908022900038_20220908213702528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, '부동산 매물정보 제공 갑질' 네이버 기소]]></title>
+            <link>https://tv.naver.com/v/29105642</link>
+            <guid>https://tv.naver.com/v/29105642</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_93/AODdA_1662639512771Mro82_JPEG/cover_cover_MYH20220908022700038_20220908211802703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석 보름달 구름 사이로…12호 태풍 '무이파' 변수]]></title>
+            <link>https://tv.naver.com/v/29105522</link>
+            <guid>https://tv.naver.com/v/29105522</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_151/fDlnS_1662639062207JHog1_JPEG/cover_cover_MYH20220908022600641_20220908211004283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석 연휴 공항도 북적북적…"모처럼만의 여행"]]></title>
+            <link>https://tv.naver.com/v/29105508</link>
+            <guid>https://tv.naver.com/v/29105508</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_297/irggE_1662639013077ANRKC_JPEG/cover_cover_MYH20220908022500641_20220908210902868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거리두기 해제 후 첫 명절…추석 귀성길 시작]]></title>
+            <link>https://tv.naver.com/v/29105495</link>
+            <guid>https://tv.naver.com/v/29105495</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_136/1kK1p_1662638967837Qqbsk_JPEG/cover_cover_MYH20220908022400641_20220908210803659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포항제철소 초유의 가동 중단…"닷새내에 되살려야"]]></title>
+            <link>https://tv.naver.com/v/29105387</link>
+            <guid>https://tv.naver.com/v/29105387</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_68/8JJrF_1662638599625WydNY_JPEG/cover_cover_MYH20220908022300641_20220908210202727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포항 지하주차장 참사 원인 규명 착수…책임 공방 예상]]></title>
+            <link>https://tv.naver.com/v/29105353</link>
+            <guid>https://tv.naver.com/v/29105353</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_243/UIarJ_1662638474160NExo4_JPEG/cover_cover_MYH20220908022100038_20220908210003416.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별재난지역 포항 복구 '막막'…지하주차장 희생자 발인]]></title>
+            <link>https://tv.naver.com/v/29105316</link>
+            <guid>https://tv.naver.com/v/29105316</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_252/eOQPN_1662638365532yO24Q_JPEG/cover_cover_MYH20220908022200641_20220908205803005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["머릿속엔 재난·경제 대응뿐"…연휴 민생행보]]></title>
+            <link>https://tv.naver.com/v/29105246</link>
+            <guid>https://tv.naver.com/v/29105246</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_199/eUMlp_1662638174845JKvLn_JPEG/cover_cover_MYH20220908022000038_20220908205502439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주 "정진석, 부의장과 비대위원장 중 하나 내려놔야"]]></title>
+            <link>https://tv.naver.com/v/29105153</link>
+            <guid>https://tv.naver.com/v/29105153</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_43/Jw4HG_1662637831850avsNC_JPEG/cover_cover_MYH20220908021900038_20220908205012294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[與, 정진석 비대위원장 임명…권성동 원내대표직 사퇴]]></title>
+            <link>https://tv.naver.com/v/29105151</link>
+            <guid>https://tv.naver.com/v/29105151</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_211/7NdAm_1662637875478NfUyv_JPEG/cover_cover_MYH20220908021800641_20220908205002867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여 "이재명 기소 사필귀정…의혹 중 빙산의 일각"]]></title>
+            <link>https://tv.naver.com/v/29105138</link>
+            <guid>https://tv.naver.com/v/29105138</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_24/0YXGb_1662637764444YkfBq_JPEG/cover_cover_MYH20220908021700038_20220908204902393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["있을 수 없는 일"…이재명 기소에 민주당 강력 반발]]></title>
+            <link>https://tv.naver.com/v/29105127</link>
+            <guid>https://tv.naver.com/v/29105127</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_279/RIKc8_1662637754730hxN7G_JPEG/cover_cover_MYH20220908021600641_20220908204802833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명, 결국 재판에…검찰 "허위발언 선거법 위반"]]></title>
+            <link>https://tv.naver.com/v/29105097</link>
+            <guid>https://tv.naver.com/v/29105097</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_166/msELG_1662637654991u4xXJ_JPEG/cover_cover_MYH20220908021500641_20220908204602772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 9월 8일 뉴스리뷰]]></title>
+            <link>https://tv.naver.com/v/29105032</link>
+            <guid>https://tv.naver.com/v/29105032</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_44/cYc19_1662637355462mA6OH_JPEG/cover_cover_MYH20220908021400038_20220908204202559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 연휴 첫날, 귀성길 맑음…추석 구름 사이 보름달]]></title>
+            <link>https://tv.naver.com/v/29104910</link>
+            <guid>https://tv.naver.com/v/29104910</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_296/3aYcA_1662636879208sPVuN_JPEG/cover_cover_MYH20220908021200038_20220908203404323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5분세계증시] 국내 증시 뉴욕 증시 반등에 힘입어 상승 출발]]></title>
+            <link>https://tv.naver.com/v/29104709</link>
+            <guid>https://tv.naver.com/v/29104709</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[5:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_115/Z2f72_1662636384049402Q8_JPEG/cover_cover_MYH20220908021100641_20220908202403338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["모두가 미쳤어요"…중국 코로나 봉쇄 언제까지]]></title>
+            <link>https://tv.naver.com/v/29104643</link>
+            <guid>https://tv.naver.com/v/29104643</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_269/GwO5z_1662636089551qMzy6_JPEG/cover_cover_MYH20220908021000641_20220908202004539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수사 참여 검사는 기소 배제…검찰 '검수완박' 지침]]></title>
+            <link>https://tv.naver.com/v/29104610</link>
+            <guid>https://tv.naver.com/v/29104610</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_201/PNupQ_16626359850470XSKx_JPEG/cover_cover_MYH20220908020900641_20220908201817383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스프라임] 이준석, 새 비대위에 또 가처분…검, 이재명 불구속기소]]></title>
+            <link>https://tv.naver.com/v/29104604</link>
+            <guid>https://tv.naver.com/v/29104604</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[20:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_148/fKlxS_1662636559296Ot5RE_JPEG/cover_cover_MYH20220908020800641_20220908201802703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[귀성길 시작됐지만…곳곳에 남은 '무거운 마음']]></title>
+            <link>https://tv.naver.com/v/29104507</link>
+            <guid>https://tv.naver.com/v/29104507</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_192/OCYF9_1662635657180puoP4_JPEG/cover_cover_MYH20220908020700641_20220908201302349.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별재난지역 포항 복구 '막막'…지하주차장 희생자 발인]]></title>
+            <link>https://tv.naver.com/v/29104224</link>
+            <guid>https://tv.naver.com/v/29104224</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_74/hjhPs_1662634708986Allqy_JPEG/cover_cover_MYH20220908020600641_20220908195702783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["머릿속엔 재난·경제 대응뿐"…연휴 민생행보]]></title>
+            <link>https://tv.naver.com/v/29104190</link>
+            <guid>https://tv.naver.com/v/29104190</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_37/sZtf2_1662634570042CNmdj_JPEG/cover_cover_MYH20220908020500038_20220908195502604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈5] "함께 이겨내요"…포항 수해 복구·온정 손길 外]]></title>
+            <link>https://tv.naver.com/v/29104156</link>
+            <guid>https://tv.naver.com/v/29104156</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[6:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_16/FuVzC_1662634580005l61Hq_JPEG/cover_cover_MYH20220908020400038_20220908195302921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권영세, 남북회담 공개 제의…"이산가족 논의하자"]]></title>
+            <link>https://tv.naver.com/v/29103959</link>
+            <guid>https://tv.naver.com/v/29103959</guid>
+            <pubDate>Thu, 08 Sep 2022 13:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_61/jIncR_1662633842886sdc5V_JPEG/cover_cover_MYH20220908020300038_20220908194302417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
