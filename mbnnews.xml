@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 07:37:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 9월 8일 목요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/29099635</link>
+            <guid>https://tv.naver.com/v/29099635</guid>
+            <pubDate>Thu, 08 Sep 2022 07:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_194/vS1Gs_166262217303826jvf_JPEG/cover_cover_20220908162655_20_812_1307905_1080_7_20220908162901213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨]추석 연휴 맑고 쾌청…전국 대부분 한가위 보름달 볼 수 있어..]]></title>
+            <link>https://tv.naver.com/v/29099600</link>
+            <guid>https://tv.naver.com/v/29099600</guid>
+            <pubDate>Thu, 08 Sep 2022 07:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_196/BH7Bi_1662622085562aiRCr_JPEG/cover_cover_20220908162300_20_812_1307904_1080_7_20220908162701272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제12호 태풍 '무이파' 발생 임박 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/29095150</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 07 Sep 2022 23:29:51 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_145/7UMOU_1662592054782RDVlz_JPEG/cover_cover_20220908080444_20_605_1307873_1080_7_20220908080701183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 대통령 주위를 빙빙 돌아]]></title>
-            <link>https://tv.naver.com/v/29088700</link>
-            <guid>https://tv.naver.com/v/29088700</guid>
-            <pubDate>Wed, 07 Sep 2022 23:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_33/gMyZy_1662591939489gAnqr_JPEG/cover_cover_20220908080155_20_605_1307872_1080_7_20220908080501281.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 마이클 조던 유니폼 얼마?]]></title>
-            <link>https://tv.naver.com/v/29088681</link>
-            <guid>https://tv.naver.com/v/29088681</guid>
-            <pubDate>Wed, 07 Sep 2022 23:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_170/KijLb_16625918254538uwl2_JPEG/cover_cover_20220908075930_20_605_1307871_1080_7_20220908080301226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
