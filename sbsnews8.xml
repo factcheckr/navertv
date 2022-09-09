@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 06:44:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 07:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 추석 당일 구름 사이로 '보름달'…제주는 낮에 비]]></title>
+            <link>https://tv.naver.com/v/29115214</link>
+            <guid>https://tv.naver.com/v/29115214</guid>
+            <pubDate>Fri, 09 Sep 2022 07:28:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_255/rVJt2_1662705989192FjlnB_JPEG/cover_0000998598_001_20220909154601185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["가동 중단됐던 포항제철소 고로, 내일부터 순차 재가동"]]></title>
             <link>https://tv.naver.com/v/29115180</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Sep 2022 23:27:05 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220909_130/UcLjD_1662678247548n1PSv_JPEG/cover_0000998517_001_20220909080311038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홈런 3방 쾅쾅쾅!…KIA, 선두 SSG도 꺾고 5위 굳히기]]></title>
-            <link>https://tv.naver.com/v/29110889</link>
-            <guid>https://tv.naver.com/v/29110889</guid>
-            <pubDate>Thu, 08 Sep 2022 23:27:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_32/7HsOt_1662678255784AC1F9_JPEG/cover_0000998518_001_20220909080301178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
