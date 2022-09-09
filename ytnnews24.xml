@@ -4,9 +4,33 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 14:28:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 15:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] '2022 YTN배 천하제일 추석 2행시 대회']]></title>
+            <link>https://tv.naver.com/v/29120827</link>
+            <guid>https://tv.naver.com/v/29120827</guid>
+            <pubDate>Fri, 09 Sep 2022 15:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220910_248/Dki5T_1662736291326vWcdb_JPEG/cover_cover_202209100008065728_t_20220910001102263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 아침 내륙 곳곳 안개..추석 둥근 보름달]]></title>
+            <link>https://tv.naver.com/v/29120589</link>
+            <guid>https://tv.naver.com/v/29120589</guid>
+            <pubDate>Fri, 09 Sep 2022 15:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_34/eEgli_1662734513187QVajh_JPEG/cover_cover_202209092324570658_t_20220909234127939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추석 앞두고 여야 충돌...이재명 기소 vs 김건희 특검법]]></title>
+            <link>https://tv.naver.com/v/29120588</link>
+            <guid>https://tv.naver.com/v/29120588</guid>
+            <pubDate>Fri, 09 Sep 2022 15:26:23 GMT</pubDate>
+            <content:encoded><![CDATA[28:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_102/UK9kf_1662734976887kLllE_JPEG/cover_cover_202209092251461118_t_20220909234102120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[나이트포커스] 檢, 이재명 '선거법 위반' 기소... 故 김문기·백현동 관련 허위 발언]]></title>
             <link>https://tv.naver.com/v/29120072</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 09 Sep 2022 13:53:11 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220909_103/zDa1T_1662729098220RMWlm_JPEG/cover_cover_202209092203316119_t_20220909221121340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["추석 앞두고 '코로나19' 트윗 줄고 '여행'은 늘어"]]></title>
-            <link>https://tv.naver.com/v/29119564</link>
-            <guid>https://tv.naver.com/v/29119564</guid>
-            <pubDate>Fri, 09 Sep 2022 13:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_253/yuNHF_1662729087801ICO5I_JPEG/cover_cover_202209092202321982_t_20220909221112338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신규 환자 6만 명대로..."연휴 후 감소 추세 유지"]]></title>
-            <link>https://tv.naver.com/v/29119559</link>
-            <guid>https://tv.naver.com/v/29119559</guid>
-            <pubDate>Fri, 09 Sep 2022 13:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_278/BdGvj_1662729115176UBhlp_JPEG/cover_cover_202209092200413268_t_20220909221102109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일 구름 사이로 한가위 보름달...아침 안개 주의]]></title>
-            <link>https://tv.naver.com/v/29119544</link>
-            <guid>https://tv.naver.com/v/29119544</guid>
-            <pubDate>Fri, 09 Sep 2022 13:53:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_258/thE0D_1662728971944pj84I_JPEG/cover_cover_202209092153449238_t_20220909220913892.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
