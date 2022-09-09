@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 10:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 11:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연휴 첫날 고속도로 정체 대부분 해소]]></title>
+            <link>https://tv.naver.com/v/29118275</link>
+            <guid>https://tv.naver.com/v/29118275</guid>
+            <pubDate>Fri, 09 Sep 2022 11:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_107/GIOJC_1662721639429qMU5l_JPEG/cover_cover_202209091938060520_t_20220909200701893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일 내륙 곳곳 안개..큰 일교차]]></title>
             <link>https://tv.naver.com/v/29117806</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Sep 2022 07:29:25 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220909_175/dgtob_1662706673707sq61G_JPEG/cover_cover_202209091540525180_t_20220909155701847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['중국판 스위치 블레이드'...공격용 드론 영상 공개]]></title>
-            <link>https://tv.naver.com/v/29115107</link>
-            <guid>https://tv.naver.com/v/29115107</guid>
-            <pubDate>Fri, 09 Sep 2022 06:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_76/bQDno_1662705439066zq4gx_JPEG/cover_cover_202209091403588116_t_20220909153702056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
