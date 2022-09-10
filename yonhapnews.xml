@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 23:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 02:32:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Thu, 08 Sep 2022 08:29:41 GMT</pubDate>
             <content:encoded><![CDATA[42:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220908_172/VnmA3_1662620741261BAAw0_JPEG/1662620692442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[즐거운 한가위! 북한에서 먹는 떡은 우리와 다르다?! [티븨가이드北]]]></title>
+            <link>https://tv.naver.com/v/29097386</link>
+            <guid>https://tv.naver.com/v/29097386</guid>
+            <pubDate>Sat, 10 Sep 2022 02:31:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_87/cYnXd_1662617652598TvhdT_JPEG/1662617574942.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영상] 우크라, 크림반도 공격 첫 인정…"러시아 대부분 전쟁고통 몰라"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Sep 2022 07:44:36 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220907_166/Z5UJz_1662525106419gWlqC_JPEG/1662525062357.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IAEA "자포리자 원전 보호구역 설정해야"…사찰 발표일에도 '쾅']]></title>
-            <link>https://tv.naver.com/v/29067153</link>
-            <guid>https://tv.naver.com/v/29067153</guid>
-            <pubDate>Wed, 07 Sep 2022 05:00:27 GMT</pubDate>
-            <content:encoded><![CDATA[3:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_253/gTWwG_1662520213083pvCSF_JPEG/1662520096687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
