@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 07:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 08:30:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now] 비는 그쳐가지만‥전염병에 노출된 파키스탄 어린이들]]></title>
+            <link>https://tv.naver.com/v/29125637</link>
+            <guid>https://tv.naver.com/v/29125637</guid>
+            <pubDate>Sat, 10 Sep 2022 08:29:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220910_28/DVbjC_1662798058484l5O51_JPEG/cover_cover_ph220910-10_20220910172003022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 추석, 보름달 언제 뜨나?‥귀경길 남부 비 확대]]></title>
             <link>https://tv.naver.com/v/29123203</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Sep 2022 11:22:55 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220909_5/FlNPx_1662720814609E7jDB_JPEG/cover_cover_desk_20220909_194550_1_3_Large_20220909195302220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한 시대가 마감됐다"‥여왕으로서 여인으로서 96년 삶]]></title>
-            <link>https://tv.naver.com/v/29118141</link>
-            <guid>https://tv.naver.com/v/29118141</guid>
-            <pubDate>Fri, 09 Sep 2022 11:22:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_36/CWfaa_1662720774431MuHh3_JPEG/cover_cover_desk_20220909_194814_1_4_Large_20220909195202953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
