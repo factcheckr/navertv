@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 05:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 06:33:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 근무 8달 만에 폐 질환…이주노동자에게 무슨 일이?]]></title>
+            <link>https://tv.naver.com/v/29124482</link>
+            <guid>https://tv.naver.com/v/29124482</guid>
+            <pubDate>Sat, 10 Sep 2022 06:32:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220910_1/cBWSp_1662789768552kxg5r_JPEG/cover_0000998698_001_20220910150110286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] '영국 격변의 상징' 엘리자베스 2세 여왕 서거]]></title>
+            <link>https://tv.naver.com/v/29124481</link>
+            <guid>https://tv.naver.com/v/29124481</guid>
+            <pubDate>Sat, 10 Sep 2022 06:32:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220910_207/86NkB_1662789739113gVB00_JPEG/cover_0000998697_001_20220910150101161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 저녁 7시쯤 구름 사이 '보름달'…제주 가끔 비]]></title>
             <link>https://tv.naver.com/v/29123480</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 09 Sep 2022 08:34:56 GMT</pubDate>
             <content:encoded><![CDATA[10:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220909_188/H744l_1662709937128cbOWt_JPEG/cover_0000998541_001_20220909164701176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 추석 당일 구름 사이로 '보름달'…제주는 낮에 비]]></title>
-            <link>https://tv.naver.com/v/29115214</link>
-            <guid>https://tv.naver.com/v/29115214</guid>
-            <pubDate>Fri, 09 Sep 2022 07:28:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_255/rVJt2_1662705989192FjlnB_JPEG/cover_0000998598_001_20220909154601185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["가동 중단됐던 포항제철소 고로, 내일부터 순차 재가동"]]></title>
-            <link>https://tv.naver.com/v/29115180</link>
-            <guid>https://tv.naver.com/v/29115180</guid>
-            <pubDate>Fri, 09 Sep 2022 06:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220909_139/bIrVA_16627058067267kdid_JPEG/cover_0000998597_001_20220909154301182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
