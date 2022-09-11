@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 05:43:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 06:31:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 "자포리자 원전 완전히 가동 중단"]]></title>
+            <link>https://tv.naver.com/v/29134544</link>
+            <guid>https://tv.naver.com/v/29134544</guid>
+            <pubDate>Sun, 11 Sep 2022 06:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[5:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220911_270/2KLFH_1662877124592mjCqM_JPEG/cover_0000998803_001_20220911151601198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 흐리고 선선…귀경길 제주·남부서 비]]></title>
             <link>https://tv.naver.com/v/29133203</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 10 Sep 2022 12:41:10 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220910_137/9fT3b_1662809838061sxHAW_JPEG/cover_0000998730_001_20220910203601211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신지아, 점프 실수 만회하고 첫 금메달]]></title>
-            <link>https://tv.naver.com/v/29127220</link>
-            <guid>https://tv.naver.com/v/29127220</guid>
-            <pubDate>Sat, 10 Sep 2022 12:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220910_195/HRdQx_1662809725531sM2H5_JPEG/cover_0000998727_001_20220910203413613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
