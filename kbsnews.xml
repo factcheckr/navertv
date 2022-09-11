@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀경길 교통상황…“새벽 정체 해소”]]></title>
+            <link>https://tv.naver.com/v/29141268</link>
+            <guid>https://tv.naver.com/v/29141268</guid>
+            <pubDate>Sun, 11 Sep 2022 15:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_191/frVbs_1662909714292NS4R8_JPEG/cover_0011336746_001_20220912002101176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도로점거·경찰관 폭행 화물연대 조합원 3명 집행유예]]></title>
             <link>https://tv.naver.com/v/29140422</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 11 Sep 2022 13:36:55 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220911_95/fXqyI_1662901295213SS6MG_JPEG/cover_0011336728_001_20220911220118544.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개발행위 금지 ‘절대보전지역’ 33만㎡ 확대 추진]]></title>
-            <link>https://tv.naver.com/v/29139691</link>
-            <guid>https://tv.naver.com/v/29139691</guid>
-            <pubDate>Sun, 11 Sep 2022 13:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220911_277/0J0nI_1662901292144fNdN6_JPEG/cover_0011336727_001_20220911220110254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
