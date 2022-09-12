@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 19:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 20:27:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어젯밤 9시까지 5만여명 확진…전날보다 1만9천여명↑]]></title>
+            <link>https://tv.naver.com/v/29156351</link>
+            <guid>https://tv.naver.com/v/29156351</guid>
+            <pubDate>Mon, 12 Sep 2022 20:26:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_181/8NBQ5_1663013244370ETVKQ_JPEG/cover_cover_MYH20220913000100640_20220913050702053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 저녁까지 내륙 곳곳 소나기…내일 충청 이남 비]]></title>
             <link>https://tv.naver.com/v/29150399</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 12 Sep 2022 07:42:41 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220912_280/yqDXZ_1662967593248686We_JPEG/cover_cover_MYH20220912011800038_20220912162603050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연휴에도 태풍 복구 구슬땀…경북지역 응급복구율 49%]]></title>
-            <link>https://tv.naver.com/v/29147803</link>
-            <guid>https://tv.naver.com/v/29147803</guid>
-            <pubDate>Mon, 12 Sep 2022 07:42:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_260/oKSfN_1662967533136iHbrr_JPEG/cover_cover_MYH20220912011700038_20220912162502503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
