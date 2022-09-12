@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 10:29:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 11:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9월 12일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/29151024</link>
+            <guid>https://tv.naver.com/v/29151024</guid>
+            <pubDate>Mon, 12 Sep 2022 11:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220912_230/1AyAa_1662980204215WuQyS_JPEG/cover_2022091290074_thumb_075417_20220912195603401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[연휴 막바지 귀경길 곳곳 정체…오후 3~4시 '절정']]></title>
             <link>https://tv.naver.com/v/29147664</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 11 Sep 2022 11:20:42 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220911_129/kxheY_1662892329722Cg8a2_JPEG/cover_2022091190061_thumb_073001_20220911193115596.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1년새 411조 증발한 코스피…美 8월 소비자물가 '주목']]></title>
-            <link>https://tv.naver.com/v/29137753</link>
-            <guid>https://tv.naver.com/v/29137753</guid>
-            <pubDate>Sun, 11 Sep 2022 11:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220911_127/21TXK_1662892312273xjO8H_JPEG/cover_2022091190057_thumb_072622_20220911193101694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
