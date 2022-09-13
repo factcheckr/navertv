@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 06:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 07:41:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/29167055</link>
+            <guid>https://tv.naver.com/v/29167055</guid>
+            <pubDate>Tue, 13 Sep 2022 07:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[8:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_5/rD4l8_1663053944020F1nVh_JPEG/cover_0011337513_001_20220913162301191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상] 에미상 남우주연상 이정재 “연기에 언어가 중요하지 않다는 것 증명”]]></title>
+            <link>https://tv.naver.com/v/29165464</link>
+            <guid>https://tv.naver.com/v/29165464</guid>
+            <pubDate>Tue, 13 Sep 2022 07:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_238/5UClH_1663050287344E71jt_PNG/cover_0011337505_001_20220913152403472.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[추석 고속도로 차량 18%·휴게소 매출 72% 증가]]></title>
             <link>https://tv.naver.com/v/29165138</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 13 Sep 2022 04:52:54 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220913_143/3O2mu_1663040216690b2fMH_JPEG/cover_0011337453_001_20220913123601245.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[힘겨웠던 추석 연휴…아직도 먼 일상]]></title>
-            <link>https://tv.naver.com/v/29161397</link>
-            <guid>https://tv.naver.com/v/29161397</guid>
-            <pubDate>Tue, 13 Sep 2022 04:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_30/HpuAH_1663040120187EGqxy_JPEG/cover_0011337450_001_20220913123411507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령, 영·미·캐나다 순방…“가치동맹·경제안보 확대”]]></title>
-            <link>https://tv.naver.com/v/29161394</link>
-            <guid>https://tv.naver.com/v/29161394</guid>
-            <pubDate>Tue, 13 Sep 2022 04:52:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_143/cR3vj_1663040088186vc6P2_JPEG/cover_0011337449_001_20220913123401283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
