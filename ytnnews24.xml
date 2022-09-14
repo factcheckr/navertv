@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 13:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 14:31:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 시진핑 만나는 '사면초가' 푸틴...우크라이나 '대혼돈']]></title>
+            <link>https://tv.naver.com/v/29202014</link>
+            <guid>https://tv.naver.com/v/29202014</guid>
+            <pubDate>Wed, 14 Sep 2022 14:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_124/7d6XN_1663165426291MGiIR_JPEG/cover_cover_202209142320203607_t_20220914232302078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다회용 택배 상자 써봤더니..."자원순환 우수성 확인"]]></title>
             <link>https://tv.naver.com/v/29201000</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Sep 2022 11:22:00 GMT</pubDate>
             <content:encoded><![CDATA[15:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220914_298/kPPQm_1663152613881cggLS_JPEG/cover_cover_202209141936500835_t_20220914194514036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["만년필 싫어!"...영국 찰스 3세 '짜증남' 등극]]></title>
-            <link>https://tv.naver.com/v/29196887</link>
-            <guid>https://tv.naver.com/v/29196887</guid>
-            <pubDate>Wed, 14 Sep 2022 11:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_29/hBBIa_1663152353800p1EYw_JPEG/cover_cover_202209141840150905_t_20220914194502308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
