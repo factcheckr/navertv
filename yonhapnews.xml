@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 21:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 22:26:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 14 Sep 2022 09:28:02 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220914_292/J1uiv_1663144545412bkaHo_JPEG/1663143978278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업발언대] 국내 첫 푸드 업사이클 전문기업 ㈜리하베스트 민명준 대표]]></title>
+            <link>https://tv.naver.com/v/29193706</link>
+            <guid>https://tv.naver.com/v/29193706</guid>
+            <pubDate>Wed, 14 Sep 2022 22:26:25 GMT</pubDate>
+            <content:encoded><![CDATA[8:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_88/gUNVU_1663144347212N0Mk4_JPEG/1663144292925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루이비통이 600시간 '한땀 한땀'…정호연 '에미상 패션' 비밀은]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 13 Sep 2022 02:31:32 GMT</pubDate>
             <content:encoded><![CDATA[4:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220913_112/AoyHj_1663036106652CsSfK_JPEG/1663036043352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Why요?] 마시멜로 먹으면 지구 한 바퀴 돌아도 살 안 빠질까?]]></title>
-            <link>https://tv.naver.com/v/29098490</link>
-            <guid>https://tv.naver.com/v/29098490</guid>
-            <pubDate>Mon, 12 Sep 2022 22:25:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220908_107/Pm6vU_1662619853385COYvV_JPEG/1662619777813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
