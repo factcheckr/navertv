@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/29218151</link>
+            <guid>https://tv.naver.com/v/29218151</guid>
+            <pubDate>Thu, 15 Sep 2022 07:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[8:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_117/hRamY_1663226317814yDj4s_JPEG/cover_0011339092_001_20220915161601304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보영상] ‘뉴질랜드 가방 속 어린이 시신’ 피의자, 혐의 부인…“안 했어요”]]></title>
+            <link>https://tv.naver.com/v/29217434</link>
+            <guid>https://tv.naver.com/v/29217434</guid>
+            <pubDate>Thu, 15 Sep 2022 07:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_256/YXJSB_1663224874069WOs5y_PNG/cover_0011339086_001_20220915155401185.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[“일본, 다음 달 외국인 무비자 개인 여행 허용”]]></title>
+            <link>https://tv.naver.com/v/29216000</link>
+            <guid>https://tv.naver.com/v/29216000</guid>
+            <pubDate>Thu, 15 Sep 2022 07:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_191/3rzu3_1663222278678dMDf4_JPEG/cover_0011339065_001_20220915151101165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[춘천지역먹거리통합지원센터 춘천농산물 납품률 저조]]></title>
             <link>https://tv.naver.com/v/29215335</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 15 Sep 2022 04:51:36 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220915_181/tU4aa_166321281994171KPq_JPEG/cover_0011339011_001_20220915123320055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서방 지도자들 “푸틴 태도 안 변해…우크라 전쟁 종식 멀어”]]></title>
-            <link>https://tv.naver.com/v/29211144</link>
-            <guid>https://tv.naver.com/v/29211144</guid>
-            <pubDate>Thu, 15 Sep 2022 04:51:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_217/GP1eY_16632128059303JtKP_JPEG/cover_0011339010_001_20220915123311418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강해지는 태풍…차세대 방파 시설 ‘주목’]]></title>
-            <link>https://tv.naver.com/v/29211142</link>
-            <guid>https://tv.naver.com/v/29211142</guid>
-            <pubDate>Thu, 15 Sep 2022 04:51:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_190/42fLd_16632128640749nEdU_JPEG/cover_0011339009_001_20220915123301215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가동 멈춘 포항 공단…정부 복구 전담팀 가동]]></title>
-            <link>https://tv.naver.com/v/29211034</link>
-            <guid>https://tv.naver.com/v/29211034</guid>
-            <pubDate>Thu, 15 Sep 2022 04:51:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_186/IFX9c_16632124746031bPiD_JPEG/cover_0011339008_001_20220915122701205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

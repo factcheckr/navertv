@@ -4,9 +4,17 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 이어 영국도 "러시아, 북한산 무기 구매 추진" 정보 공개]]></title>
+            <link>https://tv.naver.com/v/29218724</link>
+            <guid>https://tv.naver.com/v/29218724</guid>
+            <pubDate>Thu, 15 Sep 2022 07:34:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_38/KJNKM_1663227152548gDdjM_JPEG/1663226411742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라 대반격에 당황한 러…이번엔 탱크 버리고 '줄행랑']]></title>
             <link>https://tv.naver.com/v/29214435</link>
@@ -22,6 +30,14 @@
             <pubDate>Thu, 15 Sep 2022 06:05:52 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220915_28/hoKpq_1663219216241bfK6a_JPEG/1663218876296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남북 차이 "우물에 가 숭늉 찾는다" 북한에서는 뭐라고 할까?!]]></title>
+            <link>https://tv.naver.com/v/29213289</link>
+            <guid>https://tv.naver.com/v/29213289</guid>
+            <pubDate>Thu, 15 Sep 2022 07:34:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_206/N0HTO_1663217944479vkF3e_JPEG/1663217908943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[젤렌스키 '되찾은 땅' 이지움 방문…동부·남부는 치열한 전투]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 13 Sep 2022 08:31:24 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220913_11/yfQjB_1663057368575cW8Pj_JPEG/1663056640536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["대기 줄만 8㎞ 예상"…여왕 장례식 조문객 75만명 넘을 듯]]></title>
-            <link>https://tv.naver.com/v/29167953</link>
-            <guid>https://tv.naver.com/v/29167953</guid>
-            <pubDate>Tue, 13 Sep 2022 08:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_102/wdOrA_1663055991002sKOV3_JPEG/1663055491820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['우크라 대반격'…"러군 밀어내고 서울 10배 면적 수복"]]></title>
-            <link>https://tv.naver.com/v/29167566</link>
-            <guid>https://tv.naver.com/v/29167566</guid>
-            <pubDate>Tue, 13 Sep 2022 08:31:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220913_290/yHUlW_1663055103169RBoRa_JPEG/1663054898575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

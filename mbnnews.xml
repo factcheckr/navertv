@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 06:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 07:35:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프레스룸 날씨]서쪽 늦더위, 동쪽 선선…내일 전국 대부분 비]]></title>
+            <link>https://tv.naver.com/v/29218534</link>
+            <guid>https://tv.naver.com/v/29218534</guid>
+            <pubDate>Thu, 15 Sep 2022 07:35:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_75/R9GHD_1663226898053yeIe3_JPEG/cover_cover_20220915162305_20_812_1308349_1080_7_20220915162701460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령 "태양광 비리에 혈세 사용…개탄스러워" [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/29213975</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Sep 2022 23:27:07 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220915_96/JCZHm_1663195560731uGjyR_JPEG/cover_cover_20220915074018_20_605_1308314_1080_7_20220915074501218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글]돕는 줄 알았더니…/공격 없었는데…/50인의 떼강도?]]></title>
-            <link>https://tv.naver.com/v/29205784</link>
-            <guid>https://tv.naver.com/v/29205784</guid>
-            <pubDate>Wed, 14 Sep 2022 23:27:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_197/pLmlL_1663195366344B0AT1_JPEG/cover_cover_20220915073854_20_605_1308313_1080_7_20220915074101226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
