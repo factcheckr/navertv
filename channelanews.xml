@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 07:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:35:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Thu, 15 Sep 2022 06:06:17 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220915_131/l6qNY_1663220709424QMcJH_JPEG/cover_0000234033_001_20220915144409333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 15일 뉴스A 라이브 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/29215091</link>
-            <guid>https://tv.naver.com/v/29215091</guid>
-            <pubDate>Thu, 15 Sep 2022 06:06:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220915_41/ocqgq_1663220721819r2a22_JPEG/cover_0000234037_001_20220915144401756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[팩트맨]바닷물 차올라서 한강 수변무대에 고립?]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 14 Sep 2022 12:51:21 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220914_59/NifFo_1663155836419xT9pU_JPEG/cover_0000234008_001_20220914204237446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고구려 지운 中전시에…외교부 “즉각 시정 요구”]]></title>
+            <link>https://tv.naver.com/v/29198220</link>
+            <guid>https://tv.naver.com/v/29198220</guid>
+            <pubDate>Thu, 15 Sep 2022 08:35:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_297/CpHCD_1663155823582AIkes_JPEG/cover_0000234009_001_20220914204227520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
