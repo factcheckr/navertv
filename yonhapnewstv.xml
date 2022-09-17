@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 19:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 20:26:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 9월 18일]]></title>
+            <link>https://tv.naver.com/v/29272238</link>
+            <guid>https://tv.naver.com/v/29272238</guid>
+            <pubDate>Sat, 17 Sep 2022 20:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[30:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_209/nCTEA_1663445013877RDI4T_JPEG/cover_cover_MYH20220916013100038_20220918050102119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['성상납 의혹' 이준석 전 대표, 비공개 경찰 출석]]></title>
             <link>https://tv.naver.com/v/29271073</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Sep 2022 07:23:15 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220917_104/nIjPQ_1663398137825B6bPx_JPEG/cover_cover_MYH20220917006800038_20220917160116738.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 맛있는 우리말] 10회]]></title>
-            <link>https://tv.naver.com/v/29263538</link>
-            <guid>https://tv.naver.com/v/29263538</guid>
-            <pubDate>Sat, 17 Sep 2022 07:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[5:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220917_94/Ibckz_1663398240436WhbXa_JPEG/cover_cover_MYH20220916005100038_20220917160102432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
