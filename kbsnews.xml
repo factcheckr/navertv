@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 22:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 23:25:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[8시 날씨] 태풍 ‘난마돌’ 제주·영남 강한 비바람]]></title>
+            <link>https://tv.naver.com/v/29273020</link>
+            <guid>https://tv.naver.com/v/29273020</guid>
+            <pubDate>Sat, 17 Sep 2022 23:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_122/wFz2R_1663456586060Vykbg_JPEG/cover_0011340415_001_20220918081601232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[6시 날씨] 태풍 ‘난마돌’ 제주·영남 강한 비바람]]></title>
-            <link>https://tv.naver.com/v/29272598</link>
-            <guid>https://tv.naver.com/v/29272598</guid>
-            <pubDate>Sat, 17 Sep 2022 22:23:14 GMT</pubDate>
+            <link>https://tv.naver.com/v/29272885</link>
+            <guid>https://tv.naver.com/v/29272885</guid>
+            <pubDate>Sat, 17 Sep 2022 23:24:30 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_157/c9m7G_1663449847125CmA7m_JPEG/cover_0011340411_001_20220918062330529.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220918_42/qM3Jq_1663453836472tny6S_JPEG/cover_0011340411_001_20220918073001268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘신당역 살해범’ 휴대전화 포렌식…형량 높은 ‘보복살인’ 혐의 적용]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Sep 2022 13:37:35 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220917_38/OUo8n_1663419775503xsKvM_JPEG/cover_0011340317_001_20220917220155092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미 “북핵에 모든 군사능력 동원…전략자산 등 압도적 대응”]]></title>
-            <link>https://tv.naver.com/v/29268783</link>
-            <guid>https://tv.naver.com/v/29268783</guid>
-            <pubDate>Sat, 17 Sep 2022 13:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220917_51/Weer2_1663419775779tVv1C_JPEG/cover_0011340316_001_20220917220143951.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
