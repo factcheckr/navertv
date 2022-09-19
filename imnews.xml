@@ -4,16 +4,24 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 09:29:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 10:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[즐거운 먹고 보고] "백두산 호랑이 보러 오세요!"]]></title>
+            <link>https://tv.naver.com/v/29301140</link>
+            <guid>https://tv.naver.com/v/29301140</guid>
+            <pubDate>Mon, 19 Sep 2022 10:29:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220919_182/12cST_16635813667006Sc4c_JPEG/cover_cover_evening_20170803_1_21_Large_D_20220919185602417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[엠빅뉴스] 유주얼 서스펙트 급 반전.. 이 중에 때린 사람이 있다!! (feat. 이경규 사위)]]></title>
             <link>https://tv.naver.com/v/29300437</link>
             <guid>https://tv.naver.com/v/29300437</guid>
             <pubDate>Mon, 19 Sep 2022 09:28:11 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220919_137/zNYEY_1663579622352tWVJp_JPEG/cover_cover_220919_redcard_640_2_20220919182502331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220919_120/lddj1_1663582054822ClLBk_JPEG/cover_cover_220919_redcard_640_2_20220919182502331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엠빅뉴스] CCTV에 찍힌 동선...신당역 사건 피의자는 31살 전주환]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Sep 2022 04:56:40 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220919_39/O6SUz_1663558029759mNhnO_JPEG/cover_cover_noon_20220919_120608_1_3_Large_20220919122621307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산 시속 120km 강풍‥항공기 43편 결항]]></title>
-            <link>https://tv.naver.com/v/29291246</link>
-            <guid>https://tv.naver.com/v/29291246</guid>
-            <pubDate>Mon, 19 Sep 2022 04:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220919_198/B1Gf7_1663558013746566m3_JPEG/cover_cover_noon_20220919_120409_1_2_Large_20220919122612323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
