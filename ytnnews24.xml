@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 17:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 18:34:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 역대급 태풍의 해... 아직 안심하긴 이르다?]]></title>
+            <link>https://tv.naver.com/v/29309740</link>
+            <guid>https://tv.naver.com/v/29309740</guid>
+            <pubDate>Mon, 19 Sep 2022 18:33:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_71/2oH3P_1663611709930T6uEy_JPEG/cover_cover_202209200150422224_t_20220920032101736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중앙아 키르기스·타지크 국경 무력 충돌...약 100명 사망]]></title>
             <link>https://tv.naver.com/v/29309485</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Sep 2022 14:30:49 GMT</pubDate>
             <content:encoded><![CDATA[6:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220919_265/yvPQb_1663596437198mUKta_JPEG/cover_cover_202209192236298304_t_20220919230504271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['문자 날짜 보여줄 수 있냐'는 취재진 질문에 정진석 답변은? [뉴스케치]]]></title>
-            <link>https://tv.naver.com/v/29306173</link>
-            <guid>https://tv.naver.com/v/29306173</guid>
-            <pubDate>Mon, 19 Sep 2022 13:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220919_18/tI7SB_1663594901263QFeTM_JPEG/cover_cover_202209191840582547_t_20220919224102317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
