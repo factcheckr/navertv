@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 13:57:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 14:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 구름 많고 낮 최고 22.1도…내일 13~23도]]></title>
+            <link>https://tv.naver.com/v/29332929</link>
+            <guid>https://tv.naver.com/v/29332929</guid>
+            <pubDate>Tue, 20 Sep 2022 14:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_11/EQ5am_1663683798564k18BM_JPEG/cover_0011342075_001_20220920232301198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시사기획 창] 너를 사랑해2 ‘거미줄 그루밍’]]></title>
+            <link>https://tv.naver.com/v/29332690</link>
+            <guid>https://tv.naver.com/v/29332690</guid>
+            <pubDate>Tue, 20 Sep 2022 14:32:23 GMT</pubDate>
+            <content:encoded><![CDATA[48:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_275/pdh5X_1663682965146ql5YW_JPEG/cover_0011342073_001_20220920230701204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여 변호사에 한 달여 스토킹…방화 협박까지]]></title>
             <link>https://tv.naver.com/v/29332205</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 20 Sep 2022 13:56:34 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220920_175/7vb0Q_1663679348779GClXc_JPEG/cover_0011342030_001_20220920220728023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“차 가로막았다”며 ‘쾅쾅’…둔기로 폭행한 40대 구속]]></title>
-            <link>https://tv.naver.com/v/29331455</link>
-            <guid>https://tv.naver.com/v/29331455</guid>
-            <pubDate>Tue, 20 Sep 2022 13:56:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_292/MZOxa_1663679302390R0Wtn_JPEG/cover_0011342014_001_20220920220716336.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동해서 규모 4.6 지진…‘불의 고리’ 잇단 지진 영향?]]></title>
-            <link>https://tv.naver.com/v/29331445</link>
-            <guid>https://tv.naver.com/v/29331445</guid>
-            <pubDate>Tue, 20 Sep 2022 13:56:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220920_247/ZwOLm_1663679269508KxET9_JPEG/cover_0011342009_001_20220920220703713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
