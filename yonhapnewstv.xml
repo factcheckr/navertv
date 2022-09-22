@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-09-22T12:50:20.081Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 22 Sep 2022 13:54:19 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 중부 가을비 살짝…비 그치고 선선]]></title>
+            <link>https://tv.naver.com/v/29388598</link>
+            <guid>https://tv.naver.com/v/29388598</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_189/kNKqr_1663854165627saXMe_JPEG/cover_cover_MYH20220922021900038_20220922224211703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다문화 청소년을 위한 역할은'…연합뉴스 다문화포럼]]></title>
+            <link>https://tv.naver.com/v/29388595</link>
+            <guid>https://tv.naver.com/v/29388595</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_270/abLfP_1663854151542VzOhh_JPEG/cover_cover_MYH20220922021800038_20220922224203615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 최대 콘텐츠 종합전시회 광주 에이스페어 개막]]></title>
+            <link>https://tv.naver.com/v/29388550</link>
+            <guid>https://tv.naver.com/v/29388550</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_123/ubIVn_1663854078842KjBzQ_JPEG/cover_cover_MYH20220922021700641_20220922224002810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰 '우리은행 횡령' 707억으로…법원에 달린 환수]]></title>
+            <link>https://tv.naver.com/v/29388287</link>
+            <guid>https://tv.naver.com/v/29388287</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_89/AfDXx_1663853429967QNTp7_JPEG/cover_cover_MYH20220922021600641_20220922222903284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무면허·불법체류로 콜택시 영업…외국인 9명 검거]]></title>
+            <link>https://tv.naver.com/v/29388128</link>
+            <guid>https://tv.naver.com/v/29388128</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_169/ByBWt_1663852984317F5tD7_JPEG/cover_cover_MYH20220922021500038_20220922222202957.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윗선 향하는 '서해피격·강제북송'…계속되는 압수수색]]></title>
+            <link>https://tv.naver.com/v/29388093</link>
+            <guid>https://tv.naver.com/v/29388093</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_231/XIQpw_1663852935083kof4h_JPEG/cover_cover_MYH20220922021300641_20220922222102858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["가족 못 보내" 러 동원령 반대 시위…국외탈출 러시]]></title>
+            <link>https://tv.naver.com/v/29388029</link>
+            <guid>https://tv.naver.com/v/29388029</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_193/cxrNC_1663852808571xaHKv_JPEG/cover_cover_MYH20220922021100038_20220922221902989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["스토킹 가해자 철저 분리"…검경 대책 이번엔?]]></title>
+            <link>https://tv.naver.com/v/29388000</link>
+            <guid>https://tv.naver.com/v/29388000</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_20/4Jvr0_1663852752926RW7Uf_JPEG/cover_cover_MYH20220922021000641_20220922221803314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 9월 22일 뉴스투나잇1부]]></title>
+            <link>https://tv.naver.com/v/29387200</link>
+            <guid>https://tv.naver.com/v/29387200</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_178/vnSJ1_1663850854560Q8CS2_JPEG/cover_cover_MYH20220922020900038_20220922214702790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[고용브리핑365] "회사 성과 높이는 칭찬과 인정"]]></title>
+            <link>https://tv.naver.com/v/29387122</link>
+            <guid>https://tv.naver.com/v/29387122</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[9:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_15/ypwOt_1663850916193uYH2I_JPEG/cover_cover_MYH20220922020800038_20220922214403150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 절기 추분…서울 등 중부 가을비]]></title>
+            <link>https://tv.naver.com/v/29386996</link>
+            <guid>https://tv.naver.com/v/29386996</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_172/dNz0V_1663850317430kRJ7c_JPEG/cover_cover_MYH20220922020700038_20220922213803620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[법원 "남양유업 일가, 한앤코에 주식 넘겨야"]]></title>
+            <link>https://tv.naver.com/v/29386745</link>
+            <guid>https://tv.naver.com/v/29386745</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_174/yGSRw_16638496619494y8uC_JPEG/cover_cover_MYH20220922020600038_20220922212702900.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 측, 부산콘서트 비용 논란 진화…"국가 기여 의지로 참여"]]></title>
+            <link>https://tv.naver.com/v/29386715</link>
+            <guid>https://tv.naver.com/v/29386715</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_14/wkmAB_1663849595615NdJ1a_JPEG/cover_cover_MYH20220922020500038_20220922212603786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생활고로 극단적 선택했다더니…부산 모녀 사망 타살 정황]]></title>
+            <link>https://tv.naver.com/v/29386694</link>
+            <guid>https://tv.naver.com/v/29386694</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_210/GpENr_1663849571437b8RMF_JPEG/cover_cover_MYH20220922020400641_20220922212502956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뇌물 혐의 정찬민 의원 1심 징역 7년 선고…의원직 상실형]]></title>
+            <link>https://tv.naver.com/v/29386418</link>
+            <guid>https://tv.naver.com/v/29386418</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_292/p6gM9_1663848868908714Nj_JPEG/cover_cover_MYH20220922020300038_20220922211403685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검경, 스토킹 대응 협의…"가해자 분리 조치 강화"]]></title>
+            <link>https://tv.naver.com/v/29386326</link>
+            <guid>https://tv.naver.com/v/29386326</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_247/c1W2c_16638486864857k7VQ_JPEG/cover_cover_MYH20220922020200038_20220922211102407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뚜렷한 유행 감소세…실외마스크 완전 해제 내일 발표]]></title>
+            <link>https://tv.naver.com/v/29386064</link>
+            <guid>https://tv.naver.com/v/29386064</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_185/k8ZMd_1663848072881smTFq_JPEG/cover_cover_MYH20220922020100641_20220922210003668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벌어진 한미 금리 격차에 '비상'…한은은 빅스텝 시사]]></title>
+            <link>https://tv.naver.com/v/29386017</link>
+            <guid>https://tv.naver.com/v/29386017</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_192/jvNRE_1663847963687gCkND_JPEG/cover_cover_MYH20220922020000038_20220922205803323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불안한 금융시장…환율 1,400원 돌파에 증시도 출렁]]></title>
+            <link>https://tv.naver.com/v/29385936</link>
+            <guid>https://tv.naver.com/v/29385936</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_11/HpUWq_1663847775395qudgF_JPEG/cover_cover_MYH20220922019900641_20220922205510938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주 "법인세·주식 양도세·다주택 종부세 개정 당론 저지"]]></title>
+            <link>https://tv.naver.com/v/29385933</link>
+            <guid>https://tv.naver.com/v/29385933</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_191/i7wjY_16638477258796z4v8_JPEG/cover_cover_MYH20220922019800038_20220922205502737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여 윤리위 "이준석 추가 가처분, 당헌·당규 위배"]]></title>
+            <link>https://tv.naver.com/v/29385903</link>
+            <guid>https://tv.naver.com/v/29385903</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_274/NoVJu_1663847673565oUMsv_JPEG/cover_cover_MYH20220922019700038_20220922205403400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 맞붙은 한동훈-민주당…"대권주자 빼달라 요청은 호들갑"]]></title>
+            <link>https://tv.naver.com/v/29385880</link>
+            <guid>https://tv.naver.com/v/29385880</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_18/KgKBe_1663847672920wMsKM_JPEG/cover_cover_MYH20220922019600641_20220922205302676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["양국관계 개선" "외교 참사"…여야, 상반된 평가]]></title>
+            <link>https://tv.naver.com/v/29385791</link>
+            <guid>https://tv.naver.com/v/29385791</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_49/I4DCB_1663847481933omDyq_JPEG/cover_cover_MYH20220922019500641_20220922205003042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2년 9개월만에 한일 '30분 약식회담'…"양국관계 개선 공감대"]]></title>
+            <link>https://tv.naver.com/v/29385655</link>
+            <guid>https://tv.naver.com/v/29385655</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_158/9hjSt_16638472193132k2M3_JPEG/cover_cover_MYH20220922019400641_20220922204603608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미 48초 회동…윤대통령, 인플레법 우려 전달]]></title>
+            <link>https://tv.naver.com/v/29385575</link>
+            <guid>https://tv.naver.com/v/29385575</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_148/vvFvp_1663847064180mQeSp_JPEG/cover_cover_MYH20220922019300038_20220922204302638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 9월 22일 뉴스리뷰]]></title>
+            <link>https://tv.naver.com/v/29385509</link>
+            <guid>https://tv.naver.com/v/29385509</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_86/RdhAU_1663846891238SRkSB_JPEG/cover_cover_MYH20220922019200038_20220922204102804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5분세계증시] 미 연준, 기준금리 0.75%p 인상…코스피 2,330선 후퇴]]></title>
+            <link>https://tv.naver.com/v/29385145</link>
+            <guid>https://tv.naver.com/v/29385145</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[5:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_5/Cx8jv_16638461675781HJr1_JPEG/cover_cover_MYH20220922019100641_20220922202702284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 절기 추분…아침~오후 중부 비 살짝]]></title>
+            <link>https://tv.naver.com/v/29385034</link>
+            <guid>https://tv.naver.com/v/29385034</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_144/JyjNZ_1663845755599x3bLk_JPEG/cover_cover_MYH20220922019000038_20220922202202858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스프라임] 푸틴, 예비군 동원령에 핵위협까지…전 세계 비상]]></title>
+            <link>https://tv.naver.com/v/29384978</link>
+            <guid>https://tv.naver.com/v/29384978</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[15:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_128/yL4ms_1663845943515FO1w4_JPEG/cover_cover_MYH20220922018900641_20220922201903160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여수산단서 화학물질 누출 사고…근로자 49명 노출]]></title>
+            <link>https://tv.naver.com/v/29384799</link>
+            <guid>https://tv.naver.com/v/29384799</guid>
+            <pubDate>Thu, 22 Sep 2022 13:53:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220922_33/qj2Y1_1663845029184NpbkC_JPEG/cover_cover_MYH20220922018800038_20220922201003284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
