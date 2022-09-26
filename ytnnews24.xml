@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/ytnnews24/clips</id>
-    <title>뉴스는 YTN ─ 네이버TV</title>
-    <updated>2022-09-26T10:29:39.781Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/ytnnews24/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스는 YTN ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Sep 2022 11:23:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['욕설 논란' 질문에 윤 대통령 해명은?..."진상 밝혀져야" [뉴스케치]]]></title>
+            <link>https://tv.naver.com/v/29475955</link>
+            <guid>https://tv.naver.com/v/29475955</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_56/PZGIE_1664191168682JLrKU_JPEG/cover_cover_202209261035523901_t_20220926201903363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[21년 만에 새 주인 찾은 대우조선...한화에 팔린다]]></title>
+            <link>https://tv.naver.com/v/29475313</link>
+            <guid>https://tv.naver.com/v/29475313</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_119/uH9iz_1664189644622Y0x8H_JPEG/cover_cover_202209261946251376_t_20220926195302483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["내 손으로 묻은 친구 보러 왔어요"...'선감학원' 유해발굴 시작]]></title>
+            <link>https://tv.naver.com/v/29475266</link>
+            <guid>https://tv.naver.com/v/29475266</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_276/zrMDf_1664189531081ze7R9_JPEG/cover_cover_202209261943507778_t_20220926195103950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴있저] "동맹 훼손" vs "적반하장"...尹 '비속어 논란' 정면 돌파?]]></title>
+            <link>https://tv.naver.com/v/29475220</link>
+            <guid>https://tv.naver.com/v/29475220</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[23:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_223/ZRsaP_1664189764001n9W4j_JPEG/cover_cover_202209261918537993_t_20220926194902502.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] 주말마다 열린 파티...참석자 담뱃갑 열었다 '기겁']]></title>
+            <link>https://tv.naver.com/v/29474888</link>
+            <guid>https://tv.naver.com/v/29474888</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_37/UUQne_1664188552218TODQ0_JPEG/cover_cover_202209261932039574_t_20220926193502500.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[與 "MBC 왜곡"vs 野 "박진 해임" 충돌...정국 급랭]]></title>
+            <link>https://tv.naver.com/v/29474493</link>
+            <guid>https://tv.naver.com/v/29474493</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_140/Ji2qk_1664187598627wAqjM_JPEG/cover_cover_202209261913453828_t_20220926191902110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹 "사실과 다른 보도로 동맹 훼손"...사과 대신 역공 선택]]></title>
+            <link>https://tv.naver.com/v/29474357</link>
+            <guid>https://tv.naver.com/v/29474357</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_25/lkaZT_1664187377328CK2m3_JPEG/cover_cover_202209261908486097_t_20220926191502157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['가출팸' 명의 도용에 무차별 갭투자까지...경찰, 전세 사기 340여 명 검거]]></title>
+            <link>https://tv.naver.com/v/29474296</link>
+            <guid>https://tv.naver.com/v/29474296</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_125/SAzMb_1664187244099l1uz9_JPEG/cover_cover_202209261906515112_t_20220926191302505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현대프리미엄아울렛 대전점에 큰불...7명 사망·1명 중상]]></title>
+            <link>https://tv.naver.com/v/29474160</link>
+            <guid>https://tv.naver.com/v/29474160</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_48/JtJ6w_1664187011844offEl_JPEG/cover_cover_202209261901462559_t_20220926190915741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['실외 해제'에도 마스크 쓴 시민들..."아직은 불안해요"]]></title>
+            <link>https://tv.naver.com/v/29474157</link>
+            <guid>https://tv.naver.com/v/29474157</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_13/803qa_1664187010502LXfmw_JPEG/cover_cover_202209261704026673_t_20220926190903035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] 속수무책 붕괴에 증시 '개미무덤'...다가오는 두려운 전망]]></title>
+            <link>https://tv.naver.com/v/29473804</link>
+            <guid>https://tv.naver.com/v/29473804</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_78/7rnrq_1664186260238a8ixm_JPEG/cover_cover_202209261852220891_t_20220926185702547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 낮동안 다소 더워...큰 일교차 주의]]></title>
+            <link>https://tv.naver.com/v/29473552</link>
+            <guid>https://tv.naver.com/v/29473552</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_97/F7GJE_16641856509795yCf5_JPEG/cover_cover_202209261843235584_t_20220926184707935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기업] 무역보험공사, 美 수출입은행과 재보험 협정...해외 수주 지원 확대]]></title>
+            <link>https://tv.naver.com/v/29473488</link>
+            <guid>https://tv.naver.com/v/29473488</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_29/BDFXY_1664185519453z8TXv_JPEG/cover_cover_202209261724123398_t_20220926184509520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기업] SKT 광고모델에 가상인간 '나수아'...AI로 제작]]></title>
+            <link>https://tv.naver.com/v/29473482</link>
+            <guid>https://tv.naver.com/v/29473482</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_220/hv6rv_1664185511345Voz6K_JPEG/cover_cover_202209261722546530_t_20220926184502620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['아베 국장' 앞둔 日...빛 바랜 조문 외교·갈라진 여론]]></title>
+            <link>https://tv.naver.com/v/29473431</link>
+            <guid>https://tv.naver.com/v/29473431</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_43/g618W_1664185450284XSQmS_JPEG/cover_cover_202209261835545951_t_20220926184315363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기업] 한국농수산식품유통공사 "저탄소 먹거리, 글로벌 확대"]]></title>
+            <link>https://tv.naver.com/v/29473429</link>
+            <guid>https://tv.naver.com/v/29473429</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_130/z9U3y_1664185397167O2FwL_JPEG/cover_cover_202209261723076861_t_20220926184308686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기업] 농협, 김칫값 동결..."배춧값 올랐지만 물가부담 고려"]]></title>
+            <link>https://tv.naver.com/v/29473426</link>
+            <guid>https://tv.naver.com/v/29473426</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_69/JIA95_1664185390630vc0e2_JPEG/cover_cover_202209261723008276_t_20220926184302164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청계천에서 자율주행 버스 첫선...10월부터 이용 가능]]></title>
+            <link>https://tv.naver.com/v/29473282</link>
+            <guid>https://tv.naver.com/v/29473282</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_280/YUmkN_1664185076298gFMug_JPEG/cover_cover_202209261833084366_t_20220926183713120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크, K팝 걸그룹 최초 빌보드 앨범 차트 1위]]></title>
+            <link>https://tv.naver.com/v/29473275</link>
+            <guid>https://tv.naver.com/v/29473275</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_44/hE3Dq_1664185092131peRb0_JPEG/cover_cover_202209261831542881_t_20220926183702405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령 비속어 논란은 MBC와 야당의 내통? 수사의뢰도 검토한다는 국민의힘 [뉴스케치]]]></title>
+            <link>https://tv.naver.com/v/29473223</link>
+            <guid>https://tv.naver.com/v/29473223</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_244/h7Yit_1664185011111JYRYC_JPEG/cover_cover_202209261832265492_t_20220926183510098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[동해에서 '핵 항모·핵잠' 연합 훈련...北 SLBM 등 추가 도발 주시]]></title>
+            <link>https://tv.naver.com/v/29473213</link>
+            <guid>https://tv.naver.com/v/29473213</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_106/xsUU5_1664184951258Io42s_JPEG/cover_cover_202209261829232004_t_20220926183502390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["실내 마스크 해제 아직...다음 유행 뒤 한 번에 벗어야"]]></title>
+            <link>https://tv.naver.com/v/29473158</link>
+            <guid>https://tv.naver.com/v/29473158</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_137/6OKW8_1664184844891EdfIr_JPEG/cover_cover_202209261827477595_t_20220926183302570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['실외 해제'에도 마스크 쓴 시민들..."아직은 불안해요"]]></title>
+            <link>https://tv.naver.com/v/29473028</link>
+            <guid>https://tv.naver.com/v/29473028</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_143/hc2yL_1664184629912eMRpY_JPEG/cover_cover_202209261823101281_t_20220926182902255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[노래방·클럽에서 '마약 파티'...베트남인 무더기 적발]]></title>
+            <link>https://tv.naver.com/v/29472923</link>
+            <guid>https://tv.naver.com/v/29472923</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_6/ljHuh_1664184360484KlaHa_JPEG/cover_cover_202209261818201782_t_20220926182503691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['엘리베이터 여학생 납치 미수' 구속영장 재신청...휴대전화에서 '불법 촬영물']]></title>
+            <link>https://tv.naver.com/v/29472811</link>
+            <guid>https://tv.naver.com/v/29472811</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_241/WhQKX_1664184115757Dzr88_JPEG/cover_cover_202209261811256668_t_20220926182102218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹 "보이스피싱·스토킹에 '범죄와의 전쟁' 선포 각오"]]></title>
+            <link>https://tv.naver.com/v/29472632</link>
+            <guid>https://tv.naver.com/v/29472632</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_16/eEnOL_1664183717181aIdd7_JPEG/cover_cover_202209261603207364_t_20220926181502475.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세상만사] 이지움의 우크라이나군 "러시아군 무기 고쳐서 러시아군 몰아낼 것"]]></title>
+            <link>https://tv.naver.com/v/29472565</link>
+            <guid>https://tv.naver.com/v/29472565</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_46/1aoo0_1664183669697I7KcL_JPEG/cover_cover_202209261809418189_t_20220926181302932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세상만사] 지중해의 스페인 휴양지에서 포착된 형형색색의 번개]]></title>
+            <link>https://tv.naver.com/v/29472505</link>
+            <guid>https://tv.naver.com/v/29472505</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_46/78zSv_1664183513408uVFKp_JPEG/cover_cover_202209261808460487_t_20220926181119888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['검은 월요일'...환율 1,430 돌파에 코스닥 5% 폭락]]></title>
+            <link>https://tv.naver.com/v/29472500</link>
+            <guid>https://tv.naver.com/v/29472500</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_22/7SZJU_1664183546641Q4aWk_JPEG/cover_cover_202209261759419843_t_20220926181110387.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['가짜 임대인·깡통 전세'...경찰, 전세사기 집중 단속 348명 검거]]></title>
+            <link>https://tv.naver.com/v/29472494</link>
+            <guid>https://tv.naver.com/v/29472494</guid>
+            <pubDate>Mon, 26 Sep 2022 11:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_172/ODJpF_1664183477881aeA7U_JPEG/cover_cover_202209261200321857_t_20220926181103211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
