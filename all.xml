@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-09-27T07:46:34.993Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 27 Sep 2022 08:40:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨박스] CCTV에 담긴 소름돋는 남성의 행각 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29499387</link>
+            <guid>https://tv.naver.com/v/29499387</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_183/lLWb1_1664266297001kLTpS_JPEG/cover_2022092790131_thumb_050921_20220927171101769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 아내 내연남 때문에 목숨 잃을 뻔한 사연 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29499206</link>
+            <guid>https://tv.naver.com/v/29499206</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_228/yKxwB_1664266007762lOags_JPEG/cover_2022092790132_thumb_050233_20220927170602154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 실외 마스크 전면해제…'실내'는 언제쯤? (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29495684</link>
+            <guid>https://tv.naver.com/v/29495684</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_165/XAWiY_1664259134337aHqrt_JPEG/cover_2022092790112_thumb_030951_20220927151111557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 한동훈 법무부 장관 "검수완박은 선 넘은 것" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29495681</link>
+            <guid>https://tv.naver.com/v/29495681</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_246/PAYxm_1664259196336sxDYD_JPEG/cover_2022092790102_thumb_030929_20220927151104086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 몇초 만에 지하주차장 덮은 검은 연기, 정체는? (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29493582</link>
+            <guid>https://tv.naver.com/v/29493582</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_24/Diu09_1664255541079UXiSF_JPEG/cover_2022092790087_thumb_020708_20220927141101755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] "사냥개 같은 검찰을"…오늘 헌재 직접 나선 한동훈 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29491170</link>
+            <guid>https://tv.naver.com/v/29491170</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_163/4wUl8_1664250702315bNcjs_JPEG/cover_2022092790084_thumb_124729_20220927125101787.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[윤정호의 한 마디] 尹 비속어 논란, "생각대로 들린다, 그래도 결자해지" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29487311</link>
+            <guid>https://tv.naver.com/v/29487311</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_121/ZTvsm_1664241719448Ahqbb_JPEG/cover_2022092690164_thumb_101624_20220927102101749.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아베 국장에 G7 정상 전원 불참… 체면 구긴 기시다 총리 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29486717</link>
+            <guid>https://tv.naver.com/v/29486717</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_210/c75Te_1664240180677V2H9u_JPEG/cover_2022092790024_thumb_095054_20220927095601839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대통령 발언' MBC 첫 보도 30분 전 野박홍근 "尹 막말 사고" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485908</link>
+            <guid>https://tv.naver.com/v/29485908</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_252/bM0Ve_1664237818400nH7SU_JPEG/cover_2022092790012_thumb_091132_20220927091603409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9월 27일 '뉴스 퍼레이드' 클로징 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485835</link>
+            <guid>https://tv.naver.com/v/29485835</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_280/tncb3_1664237472315u774o_JPEG/cover_2022092790041_thumb_090625_20220927091101796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 낮동안 더워요 '서울28도'…일교차 주의 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485524</link>
+            <guid>https://tv.naver.com/v/29485524</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_299/77g8t_1664235980353YiUwB_JPEG/cover_2022092790039_thumb_084456_20220927084601848.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈분석] '검수완박' 헌재 공개변론 쟁점은? (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485475</link>
+            <guid>https://tv.naver.com/v/29485475</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[10:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_201/7XRPm_1664235908754JXeM3_JPEG/cover_2022092790029_thumb_083611_20220927084109737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허리케인 덮친 캐나다 동부…"집 수십 채 바다에 휩쓸려" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485474</link>
+            <guid>https://tv.naver.com/v/29485474</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_16/zgbXv_16642357140737z2eU_JPEG/cover_2022092790035_thumb_083524_20220927084101756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["소행성과 지구 충돌 막자" 인류 첫 '딥임팩트' 실험 실시 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485419</link>
+            <guid>https://tv.naver.com/v/29485419</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_200/1xhbT_1664235463927q2rid_JPEG/cover_2022092790031_thumb_083058_20220927083623910.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아침에 한 장] 가을 하늘이 높고 푸른 이유 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485414</link>
+            <guid>https://tv.naver.com/v/29485414</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_130/4j6Gj_1664235409645SP1uT_JPEG/cover_2022092790037_thumb_083035_20220927083617044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈분석] 쌀값은 폭락, 배추값은 폭등 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485347</link>
+            <guid>https://tv.naver.com/v/29485347</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[5:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_184/GLI9I_1664235198605YA6Uz_JPEG/cover_2022092790033_thumb_082839_20220927083101825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[총 든 군인 옆 '투명' 투표함…속 보이는 러 합병 주민투표 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485211</link>
+            <guid>https://tv.naver.com/v/29485211</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_259/VdDyR_1664234523352bHLOI_JPEG/cover_2022092790018_thumb_081903_20220927082101960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["검은 연기 순식간에"…대전 '현대 아울렛' 큰 불로 7명 사망 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485160</link>
+            <guid>https://tv.naver.com/v/29485160</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_48/NIOMh_1664234225035LnmLV_JPEG/cover_2022092790026_thumb_081202_20220927081610461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸틴, 전직 美 정보요원 애드워드 스노든에 시민권 부여 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485125</link>
+            <guid>https://tv.naver.com/v/29485125</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_79/YsLKN_1664233906141EAlg4_JPEG/cover_2022092790022_thumb_080748_20220927081130617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["기밀 정보 불법 입수"… 러시아, 日 외교관 간첩 혐의 적발 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485124</link>
+            <guid>https://tv.naver.com/v/29485124</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_16/8HEsO_1664233901467vfi9P_JPEG/cover_2022092790020_thumb_080726_20220927081123892.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아침에 이슈] '정언유착' 역공 나선 與 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29485115</link>
+            <guid>https://tv.naver.com/v/29485115</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[17:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_162/4NW3V_1664234221975EgGjG_JPEG/cover_2022092790016_thumb_080648_20220927081101849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 檢, 압수수색 영장에 '피의자 이재명 뇌물 혐의' 적시 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29484891</link>
+            <guid>https://tv.naver.com/v/29484891</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_267/fqX7j_1664232428696iQ5Ec_JPEG/cover_2022092790014_thumb_074252_20220927074610502.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美, 중국의 대만 침공 시 한국 역할 '우회적 시사' (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29484838</link>
+            <guid>https://tv.naver.com/v/29484838</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_257/MIS7H_1664232120604aD6jj_JPEG/cover_2022092790010_thumb_073932_20220927074118707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NASA, 첫 '딥임팩트' 실험…잠시 뒤 소행성에 우주선 충돌 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29484836</link>
+            <guid>https://tv.naver.com/v/29484836</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_224/Chkym_1664232123987fDyNd_JPEG/cover_2022092790008_thumb_073900_20220927074111384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9월 27일 '뉴스 퍼레이드' 오프닝 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29484833</link>
+            <guid>https://tv.naver.com/v/29484833</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220927_218/fCLMd_1664232098992JmV5A_JPEG/cover_2022092790006_thumb_073846_20220927074103890.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마약 사고팔고 파티까지…'마약 온상'된 외국인 유흥업소 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29480744</link>
+            <guid>https://tv.naver.com/v/29480744</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_250/WG1KN_1664202707201juphO_JPEG/cover_2022092690195_thumb_112538_20220926233101719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 경기도-아태협, 공동추진 대북사업만 16개 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29480631</link>
+            <guid>https://tv.naver.com/v/29480631</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_97/chOy7_1664202416657YbvW1_JPEG/cover_2022092690189_thumb_112249_20220926232601798.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['소년 강제 수용소' 선감학원…피해 아동 시신 150구 발굴 나서 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29480531</link>
+            <guid>https://tv.naver.com/v/29480531</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_121/waD6p_1664202151890yeDPq_JPEG/cover_2022092690201_thumb_111927_20220926232110017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 檢, 압수수색 영장에 '피의자 이재명 뇌물 혐의' 적시 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29480525</link>
+            <guid>https://tv.naver.com/v/29480525</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_61/YvxoE_1664202125898VAdVt_JPEG/cover_2022092690187_thumb_111541_20220926232101785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9월 26일 '뉴스 9' 클로징 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29480105</link>
+            <guid>https://tv.naver.com/v/29480105</guid>
+            <pubDate>Tue, 27 Sep 2022 08:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220926_168/TFS5t_1664200886920m11BJ_JPEG/cover_2022092690225_thumb_105743_20220926230115800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
