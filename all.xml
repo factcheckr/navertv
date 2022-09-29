@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-09-29T09:31:49.282Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 29 Sep 2022 10:29:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 설악산 첫 단풍‥서해안·내륙 짙은 안개 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29561647</link>
+            <guid>https://tv.naver.com/v/29561647</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_230/Em0q1_1664439385792WI8Vf_JPEG/cover_cover_5news_20220929_170326_1_7_Large_20220929171603533.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[환율 소폭 하락‥아프리카돼지열병 관련주 강세 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29561156</link>
+            <guid>https://tv.naver.com/v/29561156</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_109/YLxSL_1664438856398O8xus_JPEG/cover_cover_5news_20220929_170220_1_6_Large_20220929170710215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대법원, 고 이예람 중사 성추행 가해자 징역 7년 확정 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29561149</link>
+            <guid>https://tv.naver.com/v/29561149</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_248/PDFM9_1664438833093NCRFS_JPEG/cover_cover_5news_20220929_165855_1_3_Large_u_20220929170702667.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC 5시뉴스] 재건축 초과 이익, 1억 이하 부과금 면제 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29561117</link>
+            <guid>https://tv.naver.com/v/29561117</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[10:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_29/I15Xo_1664439786037aT6eD_PNG/1664439778914.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령 "한미동맹 발전"‥해리스 "공동의 노력" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29561024</link>
+            <guid>https://tv.naver.com/v/29561024</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_7/EeLW7_16644386680744hPzg_JPEG/cover_cover_5news_20220929_170043_1_5_Large_20220929170412569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재건축 초과 이익, 1억 이하 부과금 면제 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29561017</link>
+            <guid>https://tv.naver.com/v/29561017</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_78/9ftaO_1664438706853Fh6eB_JPEG/cover_cover_5news_20220929_165627_1_1_Large_20220929170403935.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["협치로 민생 챙길 것"‥ MBC 향해 공세 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29560975</link>
+            <guid>https://tv.naver.com/v/29560975</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_266/Fl3J3_1664438643888NYuNG_JPEG/cover_cover_5news_20220929_165946_1_4_Large_20220929170302989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[계좌개설 본인확인 강화‥'보이스피싱' 대책 발표 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29560828</link>
+            <guid>https://tv.naver.com/v/29560828</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_49/rfAlq_1664438421059oGlkh_JPEG/cover_cover_5news_20220929_165739_1_2_Large_20220929170003798.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스외전 정치 맞수다] 여야, '비속어 논란' 강대강 대치‥해법은? (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29559548</link>
+            <guid>https://tv.naver.com/v/29559548</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[27:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_143/S1H45_1664437082371xITwb_JPEG/cover_cover_14news_20220929_151129_1_7_Large_20220929163204264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스외전 포커스] 전현희 "내가 표적인 감사인데, 왜 나를 조사 안 하나?" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29557118</link>
+            <guid>https://tv.naver.com/v/29557118</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[16:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_12/DlrNI_1664433324955UIn58_JPEG/cover_cover_14news_20220929_144045_1_5_Large_20220929153219332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스외전 경제 '쏙'] 영국 '파운드화', 어쩌다 이 지경까지? (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29557110</link>
+            <guid>https://tv.naver.com/v/29557110</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[13:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_224/KhX0v_1664433339539zPida_JPEG/cover_cover_14news_20220929_142319_1_4_Large_20220929153211977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스외전 이슈+] 국민의힘, '비속어 논란' MBC 사장 등 검찰 고발‥법적 쟁점은? (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29557100</link>
+            <guid>https://tv.naver.com/v/29557100</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[12:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_130/5i87r_1664433354810dyuhU_JPEG/cover_cover_14news_20220929_140829_1_2_Large_20220929153204183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 뿌연 하늘, 수도권·충남 미세먼지↑ (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29556788</link>
+            <guid>https://tv.naver.com/v/29556788</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_55/YR1Sc_1664432718210HXLrr_JPEG/cover_cover_14news_20220929_151607_1_8_Large_20220929152502724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["협치로 민생 챙길 것"‥MBC 향해 공세 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29555346</link>
+            <guid>https://tv.naver.com/v/29555346</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_199/arH88_1664430580088FbpW3_JPEG/cover_cover_14news_20220929_144357_1_6_Large_20220929144902620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국, 금융시장 혼란에 긴급 국채 매입 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29554422</link>
+            <guid>https://tv.naver.com/v/29554422</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_50/shYrZ_1664429019956t8Uk5_JPEG/cover_cover_14news_20220929_141432_1_3_Large_20220929142302621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상M] '90도 인사' 정장 차림 남성들의 수상한 정체 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29553576</link>
+            <guid>https://tv.naver.com/v/29553576</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_209/2ETJN_1664427383503DhSKF_JPEG/cover_cover_0929-1_4_20220929135603932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 수도권 미세먼지↑‥남부 다소 더워, 큰 일교차 주의 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551353</link>
+            <guid>https://tv.naver.com/v/29551353</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_278/nx2Sy_16644218090333uO8e_JPEG/cover_cover_noon_20220929_121614_1_14_Large_20220929122311230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[英 금융시장 혼란에 긴급 국채 매입‥코스피·코스닥 상승 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551345</link>
+            <guid>https://tv.naver.com/v/29551345</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_198/cznIp_1664421802139mByyS_JPEG/cover_cover_noon_20220929_121517_1_13_Large_20220929122302472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시 강남역·광화문·도림천 '빗물 터널' 본격화 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551268</link>
+            <guid>https://tv.naver.com/v/29551268</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_244/T9AHH_1664421589932W7HED_JPEG/cover_cover_noon_20220929_121350_1_12_Large_20220929121937857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신당역 살인' 전주환, 스토킹 혐의 1심 징역 9년 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551266</link>
+            <guid>https://tv.naver.com/v/29551266</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_207/oXuLW_1664421592183h6ssn_JPEG/cover_cover_noon_20220929_121350_1_11_Large_20220929121930361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 확진 3만 881명‥위중증 51일 만에 최소 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551264</link>
+            <guid>https://tv.naver.com/v/29551264</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_55/fgNkN_16644215745513txmj_JPEG/cover_cover_noon_20220929_121241_1_10_Large_20220929121922606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여야, 박진 '해임 건의안' 논의‥입장차 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551261</link>
+            <guid>https://tv.naver.com/v/29551261</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_295/t1ZI0_1664421571338gDsf5_JPEG/cover_cover_noon_20220929_121241_1_9_Large_20220929121914969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[EU, 러시아 추가 제재‥"군사작전 지속" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551258</link>
+            <guid>https://tv.naver.com/v/29551258</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_244/CRT84_1664421592126YJNoo_JPEG/cover_cover_noon_20220929_121145_1_8_Large_20220929121906937.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 증시 상승‥코스피·환율도 진정세 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551251</link>
+            <guid>https://tv.naver.com/v/29551251</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_123/CSQUV_1664421553701CPltV_JPEG/cover_cover_noon_20220929_120154_1_2_Large_20220929121857581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["북, 불안정하고 도발적"‥연합태세 강화 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551247</link>
+            <guid>https://tv.naver.com/v/29551247</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_30/ps6Ih_1664421558254NuLC2_JPEG/cover_cover_noon_20220929_120902_1_6_Large_20220929121848165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[8월까지 국세 수입 289조‥작년보다 41조 ↑ (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551244</link>
+            <guid>https://tv.naver.com/v/29551244</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_56/eDE5E_1664421540104eguzh_JPEG/cover_cover_noon_20220929_120719_1_5_Large_20220929121839393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재건축 초과 이익, 1억 이하 부과금 면제 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551241</link>
+            <guid>https://tv.naver.com/v/29551241</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_121/GS4F7_16644215567300TJKv_JPEG/cover_cover_noon_20220929_120631_1_4_Large_20220929121829688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["협치로 민생 챙길 것"‥ MBC 향해 공세 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551238</link>
+            <guid>https://tv.naver.com/v/29551238</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_206/SrIH8_1664421542431kbCWt_JPEG/cover_cover_noon_20220929_120412_1_3_Large_20220929121820279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국, 금융시장 혼란에 긴급 국채 매입 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551237</link>
+            <guid>https://tv.naver.com/v/29551237</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_291/nthQX_1664421529224oMWkX_JPEG/cover_cover_noon_20220929_120119_1_1_Large_20220929121811027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해리스 부통령 한국 도착, 윤 대통령 예방 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29551233</link>
+            <guid>https://tv.naver.com/v/29551233</guid>
+            <pubDate>Thu, 29 Sep 2022 10:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220929_148/gVoBH_1664421495746WUof6_JPEG/cover_cover_noon_20220929_120942_1_7_Large_20220929121802939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
