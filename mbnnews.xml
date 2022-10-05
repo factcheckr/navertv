@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/mbnnews/clips</id>
-    <title>MBN 뉴스 ─ 네이버TV</title>
-    <updated>2022-10-05T07:38:42.230Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/mbnnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBN 뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 05 Oct 2022 08:34:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕 지하철에 나타난 '녹색 쫄쫄이' 강도단]]></title>
+            <link>https://tv.naver.com/v/29693470</link>
+            <guid>https://tv.naver.com/v/29693470</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_74/vvhCZ_16649573852600E8Vw_JPEG/1664957327741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[프레스룸 날씨] 종일 흐리고 서늘…강원 영동 많은 비]]></title>
+            <link>https://tv.naver.com/v/29692914</link>
+            <guid>https://tv.naver.com/v/29692914</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_290/uSixW_1664956674484A9Gfg_JPEG/cover_cover_20221005163447_20_812_1309977_1080_7_20221005165701239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행안부 “여가부 폐지 후 복지부 산하 본부로” [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/29692828</link>
+            <guid>https://tv.naver.com/v/29692828</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_225/2B8X8_16649565468086iDez_JPEG/cover_cover_20221005164426_20_845_1309983_1080_7_20221005165501231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] '이스타 채용비리 의혹' 실명 공개]]></title>
+            <link>https://tv.naver.com/v/29692700</link>
+            <guid>https://tv.naver.com/v/29692700</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[23:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_300/DZR5t_1664956926365qEIgT_JPEG/cover_cover_20221005164104_20_812_1309982_1080_7_20221005165201288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 박수홍 父, 친족상도례 노림수?]]></title>
+            <link>https://tv.naver.com/v/29692442</link>
+            <guid>https://tv.naver.com/v/29692442</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[11:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_273/dlTAf_1664956298713X5TrV_JPEG/cover_cover_20221005163959_20_812_1309981_1080_7_20221005164601288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 보수논객 김동길 명예교수 별세]]></title>
+            <link>https://tv.naver.com/v/29692308</link>
+            <guid>https://tv.naver.com/v/29692308</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_11/ZQ4fv_1664955961195eajs8_JPEG/cover_cover_20221005163845_20_812_1309980_1080_7_20221005164301242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] "전쟁 났나" 잠 못 든 강릉?]]></title>
+            <link>https://tv.naver.com/v/29692259</link>
+            <guid>https://tv.naver.com/v/29692259</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[8:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_203/TIWNJ_16649559501805JUkS_JPEG/cover_cover_20221005163724_20_812_1309979_1080_7_20221005164201275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] 10월 5일 수요일 오프닝]]></title>
+            <link>https://tv.naver.com/v/29692103</link>
+            <guid>https://tv.naver.com/v/29692103</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_85/bFPpN_1664955584122KRMr8_JPEG/cover_cover_20221005163612_20_812_1309978_1080_7_20221005163901271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김주하 AI 앵커와 함께하는 이 시각 주요뉴스 - 10월 5일 낮 12시]]></title>
+            <link>https://tv.naver.com/v/29684886</link>
+            <guid>https://tv.naver.com/v/29684886</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_230/vyrJV_1664944664568KacrU_JPEG/cover_cover_20221005133236_20_845_1309973_1080_7_20221005133701264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MBN 뉴스파이터-박수홍, 검찰 조사 중 부친에게 폭행당해]]></title>
+            <link>https://tv.naver.com/v/29681827</link>
+            <guid>https://tv.naver.com/v/29681827</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[17:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_30/gnz67_1664938512970d8vpH_JPEG/cover_cover_20221004182010_20_673_1309880_1080_7_20221005114601283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박수홍, 검찰 조사 도중 부친에게 폭행당해]]></title>
+            <link>https://tv.naver.com/v/29681614</link>
+            <guid>https://tv.naver.com/v/29681614</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_40/rcrio_1664937574695IL3J9_JPEG/1664937564539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['MZ세대' 서울시의원들 취임 100일…"청년 정치 기대하세요"]]></title>
+            <link>https://tv.naver.com/v/29681076</link>
+            <guid>https://tv.naver.com/v/29681076</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_166/pWagj_1664936787333YR8ez_JPEG/cover_cover_20221005095143_20_689_1309949_1080_7_20221005112505486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뇌물 받고 터널 부실시공에 눈감아…국토관리사무소 공무원 3명 구속]]></title>
+            <link>https://tv.naver.com/v/29680866</link>
+            <guid>https://tv.naver.com/v/29680866</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_38/8ktAT_1664936398058qlwxF_JPEG/cover_cover_20221005110125_20_605_1309972_1080_7_20221005111901222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스피 2,200선 회복…10조 원 규모 증안펀드 이달 중순 재가동]]></title>
+            <link>https://tv.naver.com/v/29680797</link>
+            <guid>https://tv.naver.com/v/29680797</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_95/tNXU9_1664936305340JPqLo_JPEG/cover_cover_20221005105849_20_605_1309971_1080_7_20221005111701258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['채널A 기자 명예훼손' 최강욱 1심서 무죄…"비방 목적 없어"]]></title>
+            <link>https://tv.naver.com/v/29680731</link>
+            <guid>https://tv.naver.com/v/29680731</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_241/vRm4R_16649361682670PVze_JPEG/cover_cover_20221005105415_20_605_1309969_1080_7_20221005111501251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['택시 표시등' 뗀 차들 즐비…호출료 인상하면 떠난 기사들 돌아올까?]]></title>
+            <link>https://tv.naver.com/v/29680664</link>
+            <guid>https://tv.naver.com/v/29680664</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_24/plhAu_1664936061241ONWwS_JPEG/cover_cover_20221005105303_20_605_1309968_1080_7_20221005111301579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤 10시 이후 호출료 최대 5천 원…심야 파트타임도 허용]]></title>
+            <link>https://tv.naver.com/v/29680594</link>
+            <guid>https://tv.naver.com/v/29680594</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_141/UXHG7_1664935925526DBNpz_JPEG/cover_cover_20221005105203_20_605_1309967_1080_7_20221005111101242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정경심 한 달간 석방된다…수술 일정 잡힌 점 등 고려]]></title>
+            <link>https://tv.naver.com/v/29680523</link>
+            <guid>https://tv.naver.com/v/29680523</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_27/dzyir_1664935807799xHRt2_JPEG/cover_cover_20221005105101_20_605_1309966_1080_7_20221005110901239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령 "감사원은 독립 기관"…이재명 "독재정권처럼 공포정치"]]></title>
+            <link>https://tv.naver.com/v/29680458</link>
+            <guid>https://tv.naver.com/v/29680458</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_286/kEQe4_16649356975155Ec0T_JPEG/cover_cover_20221005104950_20_605_1309965_1080_7_20221005110704220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['김건희 논문' 증인 불출석…야당 "동행명령 검토"에 정면 충돌]]></title>
+            <link>https://tv.naver.com/v/29680380</link>
+            <guid>https://tv.naver.com/v/29680380</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_75/jjfH9_1664935566272FUL95_JPEG/cover_cover_20221005104824_20_605_1309964_1080_7_20221005110501227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령실 이전 비용 두고 충돌…IRA법 정부 대응 두고 질타]]></title>
+            <link>https://tv.naver.com/v/29680331</link>
+            <guid>https://tv.naver.com/v/29680331</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_13/Qc8X7_1664935454860sTf8y_JPEG/cover_cover_20221005104702_20_605_1309963_1080_7_20221005110302998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외통위 국감 파행 거듭…행안위선 윤 대통령 논란된 뉴욕 영상 틀어]]></title>
+            <link>https://tv.naver.com/v/29680264</link>
+            <guid>https://tv.naver.com/v/29680264</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_214/aPSXM_16649353392325TJJL_JPEG/cover_cover_20221005104550_20_605_1309962_1080_7_20221005110101328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 열도 5년 만에 통과…홋카이도 한때 대피령]]></title>
+            <link>https://tv.naver.com/v/29680203</link>
+            <guid>https://tv.naver.com/v/29680203</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_81/uLMvy_1664935211084zc5ts_JPEG/cover_cover_20221005104439_20_605_1309961_1080_7_20221005105901217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신문브리핑 6 "러 핵실험 준비 정황…"'종말의 무기' 북극해로 향해"" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/29680144</link>
+            <guid>https://tv.naver.com/v/29680144</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_263/DB7h8_1664935145653YbnPt_JPEG/cover_cover_20221005104129_20_606_1309959_1080_7_20221005105701222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북, 화성-12형 추정 미사일 '정상각도' 발사…괌까지 타격 가능]]></title>
+            <link>https://tv.naver.com/v/29680076</link>
+            <guid>https://tv.naver.com/v/29680076</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_203/20El2_1664934971650utSya_JPEG/cover_cover_20221005104244_20_605_1309960_1080_7_20221005105501228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신문브리핑 5 "심야 택시 기본료 1만 원…모빌리티 혁신안은 빠져" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/29680021</link>
+            <guid>https://tv.naver.com/v/29680021</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_143/xclcr_1664934951498auhEg_JPEG/cover_cover_20221005103942_20_606_1309958_1080_7_20221005105301244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신문브리핑 4 "與 "김건희 관련 증인 野 일방 채택, 명백한 폭력"" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/29679930</link>
+            <guid>https://tv.naver.com/v/29679930</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[13:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_31/pmwrB_1664935098373mH1gw_JPEG/cover_cover_20221005103733_20_606_1309957_1080_7_20221005105001328.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신문브리핑 3 ""이스타항공 채용비리" 2명 실명 공개에 발칵" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/29679822</link>
+            <guid>https://tv.naver.com/v/29679822</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[12:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_175/w7RRX_1664934751254OlGBv_JPEG/cover_cover_20221005103550_20_606_1309956_1080_7_20221005104601388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신문브리핑 2 "北 미사일 쏜 날 '남북대화' 강조한 文" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/29679765</link>
+            <guid>https://tv.naver.com/v/29679765</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[7:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_98/POtjB_1664934451960hOprL_JPEG/cover_cover_20221005103417_20_606_1309955_1080_7_20221005104401276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신문브리핑 1 "北 미사일, 日 가로질러 괌 미군까지 '핵 위협'" 외 주요기사]]></title>
+            <link>https://tv.naver.com/v/29679590</link>
+            <guid>https://tv.naver.com/v/29679590</guid>
+            <pubDate>Wed, 05 Oct 2022 08:34:01 GMT</pubDate>
+            <content:encoded><![CDATA[23:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221005_238/WXTA3_1664934611142BjMgv_JPEG/cover_cover_20221005103226_20_606_1309954_1080_7_20221005103801292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
