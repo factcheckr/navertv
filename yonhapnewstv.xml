@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-10-11T08:37:38.611Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 11 Oct 2022 09:31:45 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[외교부 "정부 승인 없이 일본 자위대 우리 영역 진입 못해"]]></title>
+            <link>https://tv.naver.com/v/29837622</link>
+            <guid>https://tv.naver.com/v/29837622</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_152/bxBz7_16654806270940OwDS_JPEG/cover_cover_MYH20221011016100038_20221011183003144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상구성] 도심 강타한 미사일…다시 파괴된 우크라이나]]></title>
+            <link>https://tv.naver.com/v/29836909</link>
+            <guid>https://tv.naver.com/v/29836909</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_168/jA1IB_1665479090198oW0xz_JPEG/cover_cover_MYH20221011016000038_20221011180403214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 10월 11일 뉴스워치]]></title>
+            <link>https://tv.naver.com/v/29836586</link>
+            <guid>https://tv.naver.com/v/29836586</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_244/P630e_1665478411282NGcYf_JPEG/cover_cover_MYH20221011015700038_20221011175302226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 밤사이 기온 '뚝'…내일 일교차 15도 안팎]]></title>
+            <link>https://tv.naver.com/v/29836091</link>
+            <guid>https://tv.naver.com/v/29836091</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_182/2xcaH_1665477580843OQHCP_JPEG/cover_cover_MYH20221011015400038_20221011173903011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선우은숙, 4살 연하 아나운서 유영재와 재혼]]></title>
+            <link>https://tv.naver.com/v/29835928</link>
+            <guid>https://tv.naver.com/v/29835928</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_124/oivj9_1665477317131WtiGK_JPEG/cover_cover_MYH20221011015300038_20221011173502502.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['공조 2' 5주 연속 박스오피스 1위]]></title>
+            <link>https://tv.naver.com/v/29835899</link>
+            <guid>https://tv.naver.com/v/29835899</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_285/tEMDh_1665477261601lNIKS_JPEG/cover_cover_MYH20221011015200038_20221011173403232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비즈&] 한화 창립 70주년, 김승연 "지속적 혁신 주문" 外]]></title>
+            <link>https://tv.naver.com/v/29835863</link>
+            <guid>https://tv.naver.com/v/29835863</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_23/xfYBG_1665477255806mRbG4_JPEG/cover_cover_MYH20221011015100038_20221011173302384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[관리 업체 직원이 학교서 불법촬영…20대 구속영장]]></title>
+            <link>https://tv.naver.com/v/29835561</link>
+            <guid>https://tv.naver.com/v/29835561</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_147/OfQrI_1665476728541Lsaw5_JPEG/cover_cover_MYH20221011015000038_20221011172502374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경남서 자녀 살해 뒤 극단적 선택 잇따라]]></title>
+            <link>https://tv.naver.com/v/29835524</link>
+            <guid>https://tv.naver.com/v/29835524</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_141/rcsR8_1665476669351Oj8kO_JPEG/cover_cover_MYH20221011014900038_20221011172403390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LH, 오늘부터 행복주택 3,570호 청약 접수]]></title>
+            <link>https://tv.naver.com/v/29835492</link>
+            <guid>https://tv.naver.com/v/29835492</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_69/aelpM_1665476608121Nfrcc_JPEG/cover_cover_MYH20221011014700038_20221011172302627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1기 신도시 선도지구 내후년에…그 외는 특별법 따라]]></title>
+            <link>https://tv.naver.com/v/29835443</link>
+            <guid>https://tv.naver.com/v/29835443</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_1/EEFqE_16654765936703zjEG_JPEG/cover_cover_MYH20221011014600641_20221011172203276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김장철·연말 182억원 규모 농축수산물 쿠폰 배포]]></title>
+            <link>https://tv.naver.com/v/29835320</link>
+            <guid>https://tv.naver.com/v/29835320</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_257/GiJs5_1665476377919hEypW_JPEG/cover_cover_MYH20221011014500038_20221011171902618.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코스피 2,200선 재붕괴…환율 22.8원 폭등]]></title>
+            <link>https://tv.naver.com/v/29835282</link>
+            <guid>https://tv.naver.com/v/29835282</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_221/RoGcV_1665476307721CS7xO_JPEG/cover_cover_MYH20221011014400038_20221011171803909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸틴의 보복 감행…공습에 담긴 다른 노림수는?]]></title>
+            <link>https://tv.naver.com/v/29835108</link>
+            <guid>https://tv.naver.com/v/29835108</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_241/VHBah_1665476033108bbiME_JPEG/cover_cover_MYH20221011014300032_20221011171302549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무비자 관광 재개에 일본행 급증…"해외여행 40%"]]></title>
+            <link>https://tv.naver.com/v/29834940</link>
+            <guid>https://tv.naver.com/v/29834940</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_84/GBFls_16654757366166oX3j_JPEG/cover_cover_MYH20221011014100641_20221011170801865.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내산 모더나 2가 백신 157만회분 국가출하승인]]></title>
+            <link>https://tv.naver.com/v/29834781</link>
+            <guid>https://tv.naver.com/v/29834781</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_99/mjZ9w_1665475462240Rqyc9_JPEG/cover_cover_MYH20221011013900038_20221011170403065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정은, 대형 무력도발 직후 민생행보…온실농장 준공식]]></title>
+            <link>https://tv.naver.com/v/29834743</link>
+            <guid>https://tv.naver.com/v/29834743</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_287/vyMPD_1665475453994A7BtH_JPEG/cover_cover_MYH20221011013800038_20221011170302602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령실, 이주호 교육장관 후보자 인사청문요청안 국회 제출]]></title>
+            <link>https://tv.naver.com/v/29834644</link>
+            <guid>https://tv.naver.com/v/29834644</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_279/oIlQf_1665475240336i6gb9_JPEG/cover_cover_MYH20221011013600038_20221011170019369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야 "감사원 독립성 훼손"…여 "정쟁국감 그만"]]></title>
+            <link>https://tv.naver.com/v/29834640</link>
+            <guid>https://tv.naver.com/v/29834640</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_197/nCCZh_1665475295031cqkkT_JPEG/cover_cover_MYH20221011013500641_20221011170011239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통일부 "북한의 대남 전술핵 훈련, 매우 심각하게 주시"]]></title>
+            <link>https://tv.naver.com/v/29834634</link>
+            <guid>https://tv.naver.com/v/29834634</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_117/tBcW9_16654752272298Cweu_JPEG/cover_cover_MYH20221011013700038_20221011170003513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1번지이슈] 북 전술핵 과시…윤대통령 "한미일 안보협력 대응"]]></title>
+            <link>https://tv.naver.com/v/29834498</link>
+            <guid>https://tv.naver.com/v/29834498</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[18:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_23/QvuUr_16654754480843EsAU_JPEG/cover_cover_MYH20221011013200038_20221011165603454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1번지현장] '친일국방' 공방 가열…장경태 최고위원 생각은]]></title>
+            <link>https://tv.naver.com/v/29834472</link>
+            <guid>https://tv.naver.com/v/29834472</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[15:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_242/L4pen_1665475303006noKC9_JPEG/cover_cover_MYH20221011012900038_20221011165502717.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 올들어 가장 쌀쌀…큰 일교차 유의]]></title>
+            <link>https://tv.naver.com/v/29834217</link>
+            <guid>https://tv.naver.com/v/29834217</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_112/3dTr9_1665474464011t5Sfd_JPEG/cover_cover_MYH20221011013300038_20221011164702291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장의재구성] '피의 보복' 나선 푸틴…크림대교가 뭐길래]]></title>
+            <link>https://tv.naver.com/v/29833830</link>
+            <guid>https://tv.naver.com/v/29833830</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_80/GzpTr_1665473895296gUJA5_JPEG/cover_cover_MYH20221011013000038_20221011163603240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신화' 신혜성 음주측정 거부 체포…도난차량 운전]]></title>
+            <link>https://tv.naver.com/v/29832714</link>
+            <guid>https://tv.naver.com/v/29832714</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_235/wMtc1_1665472067345YSFgv_JPEG/cover_cover_MYH20221011012800641_20221011160702201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사진구성] 어린이 대피시키는 응급대원 外]]></title>
+            <link>https://tv.naver.com/v/29832558</link>
+            <guid>https://tv.naver.com/v/29832558</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_201/b3Vt1_1665471827072C05Id_JPEG/cover_cover_MYH20221011012600038_20221011160302850.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야 "감사원 독립성 훼손"…여 "정쟁국감 그만"]]></title>
+            <link>https://tv.naver.com/v/29832326</link>
+            <guid>https://tv.naver.com/v/29832326</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_271/fu3jC_1665471477813MnTSE_JPEG/cover_cover_MYH20221011012500641_20221011155603015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤대통령, 민주평통 수석부의장에 김관용 임명]]></title>
+            <link>https://tv.naver.com/v/29831905</link>
+            <guid>https://tv.naver.com/v/29831905</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_93/Msyhe_1665470607313zaHUu_JPEG/cover_cover_MYH20221011012400038_20221011154302774.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 아침까지 때이른 추위…당분간 대체로 맑아]]></title>
+            <link>https://tv.naver.com/v/29831153</link>
+            <guid>https://tv.naver.com/v/29831153</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_18/twR0K_1665469357400M71pK_JPEG/cover_cover_MYH20221011011100038_20221011152202981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스메이커] 황선우]]></title>
+            <link>https://tv.naver.com/v/29831073</link>
+            <guid>https://tv.naver.com/v/29831073</guid>
+            <pubDate>Tue, 11 Oct 2022 09:31:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_194/eO0f1_1665469246196Tjy97_JPEG/cover_cover_MYH20221011011000038_20221011152003600.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
