@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/channelanews/clips</id>
-    <title>채널A뉴스 ─ 네이버TV</title>
-    <updated>2022-10-11T09:31:45.373Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/channelanews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>채널A뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 11 Oct 2022 10:31:02 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[與 “文 정부, 대북 코인 연루”…이복현 “최대한 조사”]]></title>
+            <link>https://tv.naver.com/v/29838982</link>
+            <guid>https://tv.naver.com/v/29838982</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_109/LYxtz_16654838103639tP1e_JPEG/cover_0000235697_001_20221011192211355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감사원장 “김정숙 인도 방문 감사 검토”]]></title>
+            <link>https://tv.naver.com/v/29838977</link>
+            <guid>https://tv.naver.com/v/29838977</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_39/tVuOJ_16654837914536cseK_JPEG/cover_0000235696_001_20221011192201794.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北, 南에 미사일 쏜 뒤 불꽃놀이 ‘축포’]]></title>
+            <link>https://tv.naver.com/v/29838907</link>
+            <guid>https://tv.naver.com/v/29838907</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_91/owwES_1665483607111QSEos_JPEG/cover_0000235695_001_20221011191909770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국힘 “인공기는 되나” vs 李 “친일파”…더 거친 말싸움]]></title>
+            <link>https://tv.naver.com/v/29838905</link>
+            <guid>https://tv.naver.com/v/29838905</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_156/tDArw_1665483608800rSwzi_JPEG/cover_0000235694_001_20221011191901662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹, 후보 시절 ‘최후 수단’ 전술핵 재배치 거론…비핵화 30년 만에 파기?]]></title>
+            <link>https://tv.naver.com/v/29838761</link>
+            <guid>https://tv.naver.com/v/29838761</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_54/DtqBZ_1665483185084kYcLS_JPEG/cover_0000235693_001_20221011191208943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여권, 북 핵실험 땐 전술핵 재배치 고려]]></title>
+            <link>https://tv.naver.com/v/29838755</link>
+            <guid>https://tv.naver.com/v/29838755</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_231/gvh1d_1665483201531nbfEA_JPEG/cover_0000235692_001_20221011191201804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 민간인 덮친 미사일…‘푸틴의 보복’ 뒤엔 강경파 있다?]]></title>
+            <link>https://tv.naver.com/v/29838706</link>
+            <guid>https://tv.naver.com/v/29838706</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_71/Djvdk_1665483147369fjjhx_JPEG/cover_0000235691_001_20221011191001776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고성 오간 감사원 국감…책상 ‘쾅’ 박범계, 무슨 일?]]></title>
+            <link>https://tv.naver.com/v/29838678</link>
+            <guid>https://tv.naver.com/v/29838678</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[6:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_250/XVjhj_16654831379726j2aC_JPEG/cover_0000235690_001_20221011190901644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정숙 여사 인도 방문 때 靑요리사도 디자이너 딸도 갔다]]></title>
+            <link>https://tv.naver.com/v/29838668</link>
+            <guid>https://tv.naver.com/v/29838668</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[9:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_91/k1HUS_1665483167181c5wPd_JPEG/cover_0000235689_001_20221011190840926.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“괜찮다고 그냥 가더니”…‘콩’ 받히고 200만 원 요구]]></title>
+            <link>https://tv.naver.com/v/29838656</link>
+            <guid>https://tv.naver.com/v/29838656</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_182/q0W38_1665482986070HTyoN_JPEG/cover_0000235688_001_20221011190832860.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신화 신혜성 도난車 음주운전…발레파킹 직원이 키 건네서?]]></title>
+            <link>https://tv.naver.com/v/29838651</link>
+            <guid>https://tv.naver.com/v/29838651</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_17/gjKau_1665483030446SNJGW_JPEG/cover_0000235687_001_20221011190823084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김의겸이 쏜 자책골?…‘이재명 대북코인’ 국감 등장]]></title>
+            <link>https://tv.naver.com/v/29838643</link>
+            <guid>https://tv.naver.com/v/29838643</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[13:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_224/s7fkN_1665483205430ftTIA_JPEG/cover_0000235686_001_20221011190801819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“尹 퇴진” 외친 ‘처럼회’ 김용민…野지도부 “개인 의견” 선 긋기?]]></title>
+            <link>https://tv.naver.com/v/29838629</link>
+            <guid>https://tv.naver.com/v/29838629</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[7:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_190/hN79Y_1665483083069EBVXe_JPEG/cover_0000235684_001_20221011190745854.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정은 잇단 ‘무력시위’…尹 “핵으로 얻을 것 없다” 경고]]></title>
+            <link>https://tv.naver.com/v/29838620</link>
+            <guid>https://tv.naver.com/v/29838620</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[16:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_181/3H0gr_1665483290238bulx6_JPEG/cover_0000235683_001_20221011190718923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘욱일기’ 꺼내자 ‘인공기’ 맞불…여야 ‘친일 국방’ 난타전]]></title>
+            <link>https://tv.naver.com/v/29838608</link>
+            <guid>https://tv.naver.com/v/29838608</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[12:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_225/2opwj_1665483164814M9eIt_JPEG/cover_0000235682_001_20221011190701665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재용 부회장, ‘2조 투자’ 세계 최대 바이오 4공장 참석]]></title>
+            <link>https://tv.naver.com/v/29833740</link>
+            <guid>https://tv.naver.com/v/29833740</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_69/f8j4m_1665473709820ksSkV_JPEG/cover_0000235678_001_20221011163401755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“곽 막힌 연통에...” 무주 일가족 참변]]></title>
+            <link>https://tv.naver.com/v/29833074</link>
+            <guid>https://tv.naver.com/v/29833074</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_12/y8pgv_16654726051940DC8R_JPEG/8f64acb4-4934-11ed-a14d-505dac8c3607_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박범계, 한동훈에 “‘예 의원님’ 하라”]]></title>
+            <link>https://tv.naver.com/v/29833053</link>
+            <guid>https://tv.naver.com/v/29833053</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_233/nDMsj_16654725722566WhmY_JPEG/7fcad71e-4934-11ed-a7c3-d4f5ef58ad5e_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“자유를 위하여” 머리카락 싹둑]]></title>
+            <link>https://tv.naver.com/v/29833043</link>
+            <guid>https://tv.naver.com/v/29833043</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_51/6bHTI_1665472547988Q8npU_JPEG/697055f7-4934-11ed-8d11-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만취 승객...택시 빼앗아 도주]]></title>
+            <link>https://tv.naver.com/v/29833030</link>
+            <guid>https://tv.naver.com/v/29833030</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_149/KzhVT_1665472521845wwRO4_JPEG/56a479d8-4934-11ed-aa59-d4f5ef58ac88_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아빠 손 맞잡은 딸...접촉면회 재개]]></title>
+            <link>https://tv.naver.com/v/29833014</link>
+            <guid>https://tv.naver.com/v/29833014</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_149/jkpVM_16654724971711vlYB_JPEG/41c686d5-4934-11ed-8bc9-d4f5ef5906a4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집 나간 가을 전어...“바다가 변했다”]]></title>
+            <link>https://tv.naver.com/v/29832953</link>
+            <guid>https://tv.naver.com/v/29832953</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_138/2Tklv_1665472407031hPqkJ_JPEG/d687ff36-4933-11ed-b6e8-48df37ae3dc4_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가을 모기 “작별은 일러”]]></title>
+            <link>https://tv.naver.com/v/29832940</link>
+            <guid>https://tv.naver.com/v/29832940</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_74/1aTNn_1665472384043GaBVb_JPEG/e55647c1-4933-11ed-aa59-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러, 키이우 폭격..삼성전자 빌딩도 피해]]></title>
+            <link>https://tv.naver.com/v/29830955</link>
+            <guid>https://tv.naver.com/v/29830955</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_100/GPJ6L_16654689928462u1vY_JPEG/01d72959-492c-11ed-8d11-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가수 ‘신화’ 신혜성, 도난차량서 음주측정 거부]]></title>
+            <link>https://tv.naver.com/v/29828381</link>
+            <guid>https://tv.naver.com/v/29828381</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_11/kkbxH_1665464204183CBJHT_JPEG/cover_0000235665_001_20221011135532481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[친족상도례 존폐 논쟁…69년 만에 바뀌나 기대감]]></title>
+            <link>https://tv.naver.com/v/29828375</link>
+            <guid>https://tv.naver.com/v/29828375</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_257/L48K9_1665464177219Ipvnr_JPEG/cover_0000235664_001_20221011135525055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘어린이 성폭행범’ 김근식, 17일 출소…조두순급 관리]]></title>
+            <link>https://tv.naver.com/v/29828366</link>
+            <guid>https://tv.naver.com/v/29828366</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[5:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_36/cgE0e_1665464257515j1z2q_JPEG/cover_0000235663_001_20221011135514534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국정감사 2주 차 최대 격전지 ‘감사원’]]></title>
+            <link>https://tv.naver.com/v/29828358</link>
+            <guid>https://tv.naver.com/v/29828358</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[8:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_40/V6v7D_1665464329900rhtSO_JPEG/cover_0000235661_001_20221011135501657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김용민 “尹, 퇴진하게 해야”…野 지도부 “개인 의견일뿐”]]></title>
+            <link>https://tv.naver.com/v/29828340</link>
+            <guid>https://tv.naver.com/v/29828340</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_210/9xGKM_16654641756759bqUe_JPEG/cover_0000235660_001_20221011135427572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김의겸 의혹 제기에…‘X맨·자폭’ 평가까지?]]></title>
+            <link>https://tv.naver.com/v/29828334</link>
+            <guid>https://tv.naver.com/v/29828334</guid>
+            <pubDate>Tue, 11 Oct 2022 10:30:52 GMT</pubDate>
+            <content:encoded><![CDATA[6:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221011_191/hYAFP_1665464214207AtbiY_JPEG/cover_0000235659_001_20221011135415535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
