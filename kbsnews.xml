@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/kbsnews/clips</id>
-    <title>KBS뉴스 ─ 네이버TV</title>
-    <updated>2022-10-15T09:29:36.232Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/kbsnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>KBS뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 15 Oct 2022 10:28:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7시 날씨] 청명한 가을…다음 주 기온 급격히 내려가]]></title>
+            <link>https://tv.naver.com/v/29950286</link>
+            <guid>https://tv.naver.com/v/29950286</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_269/5blyJ_1665829112389nB3yX_JPEG/cover_0011356800_001_20221015191807945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추경호 “한국 경제, 내년이 더 어려울 것”…美, ‘강달러’ 지속 재확인]]></title>
+            <link>https://tv.naver.com/v/29950284</link>
+            <guid>https://tv.naver.com/v/29950284</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_182/en2AH_1665829140424mJ4JU_JPEG/cover_0011356799_001_20221015191801186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北 “남측 사격에 대응조치”…또 책임 떠넘긴 북]]></title>
+            <link>https://tv.naver.com/v/29950261</link>
+            <guid>https://tv.naver.com/v/29950261</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_42/RePho_1665829011703ySwwb_JPEG/cover_0011356798_001_20221015191607909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 “2시간 안에 전체 서비스 복구 전망”]]></title>
+            <link>https://tv.naver.com/v/29950257</link>
+            <guid>https://tv.naver.com/v/29950257</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_231/SnIc7_1665829019423kSQ1c_JPEG/cover_0011356797_001_20221015191601225.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 서비스 전반에 장애…카카오 “데이터센터 화재”]]></title>
+            <link>https://tv.naver.com/v/29950167</link>
+            <guid>https://tv.naver.com/v/29950167</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_49/ERfnL_1665828650504cAOw5_JPEG/cover_0011356795_001_20221015191001415.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[5시 날씨] 완연한 가을…다음 주 기온 급격히 내려가]]></title>
+            <link>https://tv.naver.com/v/29949374</link>
+            <guid>https://tv.naver.com/v/29949374</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_218/gZnMH_1665824972534Pfs2y_JPEG/cover_0011356786_001_20221015180907251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[의정부시장 “김근식 이송 막기 위해 도로 폐쇄”]]></title>
+            <link>https://tv.naver.com/v/29949372</link>
+            <guid>https://tv.naver.com/v/29949372</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_55/9WhWn_1665824955895vQFj4_JPEG/cover_0011356785_001_20221015180902231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추경호 “한국 경제, 내년이 더 어려울 것”…美, ‘강달러’ 지속 재확인]]></title>
+            <link>https://tv.naver.com/v/29949369</link>
+            <guid>https://tv.naver.com/v/29949369</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_276/xIsxw_1665824999004LpA5d_JPEG/cover_0011356784_001_20221015180855931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北 “남측 사격에 대응조치”…또 책임 떠넘긴 북]]></title>
+            <link>https://tv.naver.com/v/29949368</link>
+            <guid>https://tv.naver.com/v/29949368</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_78/gq2aH_1665824973218hKs0t_JPEG/cover_0011356783_001_20221015180851098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK 판교캠퍼스 화재로 카카오 서비스 장애]]></title>
+            <link>https://tv.naver.com/v/29949359</link>
+            <guid>https://tv.naver.com/v/29949359</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_228/IuQaH_1665824929893PEVLo_JPEG/cover_0011356781_001_20221015180811996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 서비스 전반에 장애…카카오 “데이터센터 화재”]]></title>
+            <link>https://tv.naver.com/v/29949358</link>
+            <guid>https://tv.naver.com/v/29949358</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_39/eNZPF_1665824920196weg4H_JPEG/cover_0011356780_001_20221015180807060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 카카오 서비스 전반에 장애…카카오 “데이터센터 화재”]]></title>
+            <link>https://tv.naver.com/v/29949356</link>
+            <guid>https://tv.naver.com/v/29949356</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_211/fkhN0_1665824918017r89rd_JPEG/cover_0011356778_001_20221015180801857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] SK 판교캠퍼스 화재로 카카오 서비스 장애]]></title>
+            <link>https://tv.naver.com/v/29949355</link>
+            <guid>https://tv.naver.com/v/29949355</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_106/go8Py_1665824922694SDNpj_JPEG/cover_0011356779_001_20221015180756960.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보영상] 카카오·다음 서비스 장애…“데이터 센터 화재”]]></title>
+            <link>https://tv.naver.com/v/29949351</link>
+            <guid>https://tv.naver.com/v/29949351</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_205/4xwUp_1665824875348vXhoH_JPEG/cover_0011356776_001_20221015180745158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12시 날씨] 완연한 가을…다음 주 기온 ‘뚝’ 초겨울 추위]]></title>
+            <link>https://tv.naver.com/v/29944450</link>
+            <guid>https://tv.naver.com/v/29944450</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_152/3NF5E_1665803606292ldx53_JPEG/cover_0011356765_001_20221015121301185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산은 보랏빛 물결…BTS공연 대비 분주]]></title>
+            <link>https://tv.naver.com/v/29944441</link>
+            <guid>https://tv.naver.com/v/29944441</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_50/SpBmx_16658035714062i2ft_JPEG/cover_0011356764_001_20221015121201189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이스타 항공 부정 채용 의혹’ 이상직 전 의원 구속]]></title>
+            <link>https://tv.naver.com/v/29944426</link>
+            <guid>https://tv.naver.com/v/29944426</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_287/b9VM3_1665803422304pvICX_JPEG/cover_0011356763_001_20221015121001212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감사원 “中 어선에 먼저 발견 정황”…검찰, 해경청장 소환]]></title>
+            <link>https://tv.naver.com/v/29944417</link>
+            <guid>https://tv.naver.com/v/29944417</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_170/9MnHs_1665803384979ezwlC_JPEG/cover_0011356762_001_20221015120901178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쌍방울·아태협 간부 자택 압수수색…달러 밀반출 혐의]]></title>
+            <link>https://tv.naver.com/v/29944391</link>
+            <guid>https://tv.naver.com/v/29944391</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_174/MG6ON_16658032378162cmom_JPEG/cover_0011356761_001_20221015120701209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북, “남측 도발에 대한 대응조치…명백한 경고 목적”]]></title>
+            <link>https://tv.naver.com/v/29944382</link>
+            <guid>https://tv.naver.com/v/29944382</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_172/yogFI_1665803186628qQUqH_JPEG/cover_0011356760_001_20221015120608866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“북한, 400발 포사격 도발로 9.19 합의 또 위반”]]></title>
+            <link>https://tv.naver.com/v/29944378</link>
+            <guid>https://tv.naver.com/v/29944378</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_121/82TJK_1665803204989dqv0R_JPEG/cover_0011356759_001_20221015120601193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크랩] 공연·경기 티켓 사려면 ‘은행’가서 줄 서던 90년대 클라스]]></title>
+            <link>https://tv.naver.com/v/29943614</link>
+            <guid>https://tv.naver.com/v/29943614</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_176/cHAap_16657995436741dgtk_JPEG/cover_0011356752_001_20221015110401209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[930 날씨] 완연한 가을…다음 주, 초겨울 추위 찾아와]]></title>
+            <link>https://tv.naver.com/v/29942947</link>
+            <guid>https://tv.naver.com/v/29942947</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_213/NeMS3_16657951454200UHID_JPEG/cover_0011356748_001_20221015095201236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 확진 2만 2,844명…위중증 245명·사망 25명]]></title>
+            <link>https://tv.naver.com/v/29942883</link>
+            <guid>https://tv.naver.com/v/29942883</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_234/SuS6d_1665794656621ob7mU_JPEG/cover_0011356747_001_20221015094403261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이스타 부정 채용 의혹’ 이상직 전 의원 구속]]></title>
+            <link>https://tv.naver.com/v/29942872</link>
+            <guid>https://tv.naver.com/v/29942872</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_120/0lSpB_1665794606725dyLle_JPEG/cover_0011356746_001_20221015094307449.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영 트러스 총리 감세정책 철회…재무장관 초단기 경질]]></title>
+            <link>https://tv.naver.com/v/29942869</link>
+            <guid>https://tv.naver.com/v/29942869</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_290/xgpzh_1665794632040y9gv0_JPEG/cover_0011356745_001_20221015094301156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북 “남측 사격에 대응 조치…무모한 도발 중단하라”]]></title>
+            <link>https://tv.naver.com/v/29942864</link>
+            <guid>https://tv.naver.com/v/29942864</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_122/RuGUJ_1665794536573vC31I_JPEG/cover_0011356744_001_20221015094201187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 국무부 “북, 모든 도발과 위협 중단 촉구”]]></title>
+            <link>https://tv.naver.com/v/29942837</link>
+            <guid>https://tv.naver.com/v/29942837</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_196/Nr65m_16657943871838XWLz_JPEG/cover_0011356743_001_20221015093907457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“북한, 400발 포사격 도발로 9.19 합의 또 위반”]]></title>
+            <link>https://tv.naver.com/v/29942836</link>
+            <guid>https://tv.naver.com/v/29942836</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_73/gfGdw_1665794383044TJFDY_JPEG/cover_0011356742_001_20221015093901174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“학원에서 풀었는데 그대로네?”…광주 모 고교 재시험]]></title>
+            <link>https://tv.naver.com/v/29942723</link>
+            <guid>https://tv.naver.com/v/29942723</guid>
+            <pubDate>Sat, 15 Oct 2022 10:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_231/x9NhP_1665793239274fNSzI_JPEG/cover_0011356717_001_20221015092001216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
