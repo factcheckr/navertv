@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-16T09:27:58.058Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 16 Oct 2022 10:29:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 아침 기온 '뚝'...중국발 미세먼지 주의 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29965153</link>
+            <guid>https://tv.naver.com/v/29965153</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_60/EC4gj_1665915216566ALabC_JPEG/cover_cover_202210161910106540_t_20221016191302019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든 "강한 달러 걱정 안 해...美 경제 지독히 강해" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29965113</link>
+            <guid>https://tv.naver.com/v/29965113</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_40/4ni6p_1665915110944YwU1c_JPEG/cover_cover_202210161908142033_t_20221016191101948.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北, 중국 당 대회엔 도발 자제하나...軍, 내일부터 호국훈련 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964935</link>
+            <guid>https://tv.naver.com/v/29964935</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_169/t34x0_1665914522868h71CS_JPEG/cover_cover_202210161857403345_t_20221016190102837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] '추가 성범죄' 김근식 다시 구속...내일 출소 무산 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964892</link>
+            <guid>https://tv.naver.com/v/29964892</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_82/v5qVu_1665914245836YylAp_JPEG/cover_cover_202210161808514988_t_20221016185702030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 "판교센터 서버복구 절반 안 돼...완전복구 시점 미정" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964868</link>
+            <guid>https://tv.naver.com/v/29964868</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_218/lwVxv_1665914118355RcLjY_JPEG/cover_cover_202210161741107883_t_20221016185501894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주 "文 향한 정치보복...권력 붕괴 방아쇠 될 것" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964836</link>
+            <guid>https://tv.naver.com/v/29964836</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_16/20RiI_16659139957771C3Ut_JPEG/cover_cover_202210161621130024_t_20221016185302113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[中 20차 당대회 개막...향후 5년 밑그림은? (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964222</link>
+            <guid>https://tv.naver.com/v/29964222</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[15:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_250/58Q3N_1665911661782owx9F_JPEG/cover_cover_202210161643077478_t_20221016180912642.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["사실상 국가기간통신망 마비"...카카오 초유의 '먹통' (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964220</link>
+            <guid>https://tv.naver.com/v/29964220</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[10:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_161/VXaeG_1665911530803Mcop4_JPEG/cover_cover_202210161412586154_t_20221016180902453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출소 하루 앞둔 김근식, 다시 구속 갈림길...오후 늦게 결정될 듯 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964135</link>
+            <guid>https://tv.naver.com/v/29964135</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_79/QHjLe_1665911036005wqIk8_JPEG/cover_cover_202210161800109898_t_20221016180301983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[택시기사·자영업자 등 유료 가입자도 피해...보상은 어떻게? (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964098</link>
+            <guid>https://tv.naver.com/v/29964098</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_78/prqMi_1665910922743BOscR_JPEG/cover_cover_202210161758342543_t_20221016180102949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사진·영상 전송에 PC 버전까지 '버벅'..."완전 복구 시점 불투명" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964059</link>
+            <guid>https://tv.naver.com/v/29964059</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_269/icvrU_16659107929588Hb4a_JPEG/cover_cover_202210161756227986_t_20221016175902042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판교 데이터센터 현장 감식..."화재, 배터리 주변 전기 요인 추정" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29964021</link>
+            <guid>https://tv.naver.com/v/29964021</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_143/MH5C6_1665910667500RX53D_JPEG/cover_cover_202210161754253377_t_20221016175703352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[中 당대회 개막, 시진핑 3연임 공식화 의미는? (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29963990</link>
+            <guid>https://tv.naver.com/v/29963990</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[18:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_266/ZYlcU_16659108628378anFy_JPEG/cover_cover_202210161253280343_t_20221016175501853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반환점 돈 尹 정부 첫 국정감사...곳곳이 지뢰밭 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29963971</link>
+            <guid>https://tv.naver.com/v/29963971</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[25:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_107/NBnne_1665910826429BAlBb_JPEG/cover_cover_202210161038010142_t_20221016175302404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남방큰돌고래 '비봉이' 방류...17년 만의 귀향 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29963508</link>
+            <guid>https://tv.naver.com/v/29963508</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_294/5FM9k_1665908771780DsklF_JPEG/cover_cover_202210161722013925_t_20221016172502369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SPC그룹, 영국 진출...런던에 파리바게뜨 1호점 개점 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29963469</link>
+            <guid>https://tv.naver.com/v/29963469</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_78/1Ek0X_1665908593063wVO0p_JPEG/cover_cover_202210161101238591_t_20221016172302097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑 집권 3기 출사표..."타이완 무력통일 불사" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29963397</link>
+            <guid>https://tv.naver.com/v/29963397</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_263/D1Ceo_1665908412092Veg16_JPEG/cover_cover_202210161714550058_t_20221016171902476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세종시 '낙화놀이' 행사장에서 3명 다쳐...병원 이송 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29963206</link>
+            <guid>https://tv.naver.com/v/29963206</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_12/8LdZo_1665907642874HEfa6_JPEG/cover_cover_202210161420445912_t_20221016170702147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[野 "감사원까지 정치감사...퇴행 민주주의 지키겠다" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29963077</link>
+            <guid>https://tv.naver.com/v/29963077</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_267/jbZKd_16659071573949Rv6L_JPEG/cover_cover_202210161554231006_t_20221016165903669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여야 과방위 위원, 한목소리로 '카카오 먹통 사태' 질책 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29963008</link>
+            <guid>https://tv.naver.com/v/29963008</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_263/nQZdA_1665906923563LoI8G_JPEG/cover_cover_202210161635212408_t_20221016165502090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹 "네트워크 교란, 안보 치명적"...민관 협력해 방안 마련 지시 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962969</link>
+            <guid>https://tv.naver.com/v/29962969</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_218/s3NOa_1665906799997vIooy_JPEG/cover_cover_202210161650386349_t_20221016165302206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사진·영상 전송에 PC 버전까지 '버벅'..."완전 복구 시점 불투명" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962932</link>
+            <guid>https://tv.naver.com/v/29962932</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_297/Lvgn0_1665906728668xoOER_JPEG/cover_cover_202210161647513879_t_20221016165102608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10년 만에 또 먹통 대란...초고속 성장에만 몰두했나? (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962903</link>
+            <guid>https://tv.naver.com/v/29962903</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_66/wbJNt_16659065851320Isk5_JPEG/cover_cover_202210161645273989_t_20221016164901929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남방큰돌고래 '비봉이' 방류...17년 만에 고향으로 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962797</link>
+            <guid>https://tv.naver.com/v/29962797</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_141/B8WuO_1665906201925dfChO_JPEG/cover_cover_202210161334239124_t_20221016164301945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 110년 만에 송현동 부지 개방...내일부터 기온 '뚝' (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962496</link>
+            <guid>https://tv.naver.com/v/29962496</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_153/FUQa2_1665905164995CYNth_JPEG/cover_cover_202210161621005497_t_20221016162503284.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출소 하루 앞둔 김근식, 다시 구속 갈림길...오후 늦게 결정될 듯 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962317</link>
+            <guid>https://tv.naver.com/v/29962317</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_140/qLyN1_1665904427155vjKYc_JPEG/cover_cover_202210161611023068_t_20221016161301921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[與, 노영민 檢 소환 통보에 "탈북어민 사건 진실 밝혀야" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962258</link>
+            <guid>https://tv.naver.com/v/29962258</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_127/GbbVG_1665904160364QfnwB_JPEG/cover_cover_202210161440063604_t_20221016160902144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국회 '카카오 먹통' 현장점검...김범수 국감 소환 추진 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962230</link>
+            <guid>https://tv.naver.com/v/29962230</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_45/kLoeW_1665904186866IbuKy_JPEG/cover_cover_202210161604045236_t_20221016160702100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 서비스 일부 복구..."완전 정상화 시점 미정" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962185</link>
+            <guid>https://tv.naver.com/v/29962185</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_67/nEq4L_1665903856618xVfkF_JPEG/cover_cover_202210161600558152_t_20221016160311747.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판교 데이터센터 1차 합동감식..."배터리 주변 전기 요인 발화" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/29962183</link>
+            <guid>https://tv.naver.com/v/29962183</guid>
+            <pubDate>Sun, 16 Oct 2022 10:29:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_62/ReQXR_1665903824463fRHHm_JPEG/cover_cover_202210161558485321_t_20221016160304761.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
