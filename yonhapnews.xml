@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnews/clips</id>
-    <title>연합뉴스 ─ 네이버TV</title>
-    <updated>2022-10-17T10:34:21.046Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 17 Oct 2022 11:26:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[급증하는 신종 마약, 마약 탐지견 추적 사각지대에 / 연합뉴스 (Yonhapnews)]]></title>
+            <link>https://tv.naver.com/v/29992702</link>
+            <guid>https://tv.naver.com/v/29992702</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_147/ztG1f_1665999525764rbCOz_JPEG/1665999503071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아군 9천명 벨라루스 속속 집결…국경 방어? 전쟁 합류?]]></title>
+            <link>https://tv.naver.com/v/29991985</link>
+            <guid>https://tv.naver.com/v/29991985</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_57/fEmr4_1665998096981Uk01l_JPEG/1665998063933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서방에 번지는 '푸틴 스타일'…"민주국가에 극우 권위주의 바람"]]></title>
+            <link>https://tv.naver.com/v/29991929</link>
+            <guid>https://tv.naver.com/v/29991929</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_266/9xvhL_1665997998138OEn5F_JPEG/1665997968436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키이우에 자폭드론 '쾅쾅쾅쾅'…러, 이번에도 출근길 노렸다]]></title>
+            <link>https://tv.naver.com/v/29991281</link>
+            <guid>https://tv.naver.com/v/29991281</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_179/1Laz0_1665996715064B2dUt_JPEG/1665996495652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["러시아 신병은 인간 방패…우크라 투입 며칠 만에 전사 속출"]]></title>
+            <link>https://tv.naver.com/v/29990742</link>
+            <guid>https://tv.naver.com/v/29990742</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_15/EE9jY_16659957985685i9cO_JPEG/1665995450443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS, 맏형 진부터 군대 간다…입영연기 전격 철회]]></title>
+            <link>https://tv.naver.com/v/29990411</link>
+            <guid>https://tv.naver.com/v/29990411</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_292/yN0Es_1665995314886w1kSf_JPEG/1665995303073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후손만 50마리…'넘버 2' 최장수 고릴라 안락사]]></title>
+            <link>https://tv.naver.com/v/29990070</link>
+            <guid>https://tv.naver.com/v/29990070</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_210/I1kvC_1665994891387btN9v_JPEG/1665993216751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부가 '카톡 복구' 재난문자 발송…왜 이례적으로?]]></title>
+            <link>https://tv.naver.com/v/29989724</link>
+            <guid>https://tv.naver.com/v/29989724</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_284/gftrK_1665994396842ftl3k_JPEG/1665994354101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러, '점령지 콘서트 거부' 우크라 음악가 살해]]></title>
+            <link>https://tv.naver.com/v/29989453</link>
+            <guid>https://tv.naver.com/v/29989453</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_211/nH67m_1665994017097NzeKq_JPEG/1665993383608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트레이 키즈 '빌보드 200' 또 1위…올해만 두번째 정상 차지 / 연합뉴스 (Yonhapnews)]]></title>
+            <link>https://tv.naver.com/v/29984768</link>
+            <guid>https://tv.naver.com/v/29984768</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_14/tccqj_1665987064089OtezJ_JPEG/1665987036543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["러, 미사일 발사만큼 생산 못해"…이란 지대지미사일 러 공급]]></title>
+            <link>https://tv.naver.com/v/29982415</link>
+            <guid>https://tv.naver.com/v/29982415</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_1/GzovW_1665983616101AWxog_JPEG/1665983586072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["러군, 비아그라 들고 다니며 성폭행…우크라 남녀 모두 당해"]]></title>
+            <link>https://tv.naver.com/v/29981615</link>
+            <guid>https://tv.naver.com/v/29981615</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_142/cqC12_1665982404180OVFFg_JPEG/1665982072913.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["러, 기숙사 들이닥쳐 무더기 징집…노숙자까지 전쟁 동원"]]></title>
+            <link>https://tv.naver.com/v/29981390</link>
+            <guid>https://tv.naver.com/v/29981390</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_257/K1E02_1665982049733BEkgr_JPEG/1665982017253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[16년전 성범죄 또 드러났다…출소 하루 전 재구속]]></title>
+            <link>https://tv.naver.com/v/29978264</link>
+            <guid>https://tv.naver.com/v/29978264</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_135/4Rlza_1665976007556k4PCu_JPEG/1665975878414.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카톡 '멀티프로필' 노출 사생활 피해 논란…카카오 "사실 아냐"]]></title>
+            <link>https://tv.naver.com/v/29978233</link>
+            <guid>https://tv.naver.com/v/29978233</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_14/xzag4_16659759396552Ddfj_JPEG/1665975911414.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑 '3연임 당대회'서 "대만에 무력행사 절대 포기 안 해"]]></title>
+            <link>https://tv.naver.com/v/29977630</link>
+            <guid>https://tv.naver.com/v/29977630</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221017_45/efFFm_1665974663155IAnNA_JPEG/1665974566681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[톺뉴스] 대기업 총수에 BTS까지…엑스포가 뭐길래?]]></title>
+            <link>https://tv.naver.com/v/29930395</link>
+            <guid>https://tv.naver.com/v/29930395</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_212/RaiEF_1665738234818zzoEo_JPEG/1665738161111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달리던 트럭 들이받고 휘청였던 코뿔소…3일 뒤 공개된 영상]]></title>
+            <link>https://tv.naver.com/v/29962058</link>
+            <guid>https://tv.naver.com/v/29962058</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221016_287/6Ep3p_1665903263169lq0H0_JPEG/1665903250746.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리빙톡] 쌀쌀하고 건조한 바람에…가을 불청객 '안구건조증']]></title>
+            <link>https://tv.naver.com/v/29885386</link>
+            <guid>https://tv.naver.com/v/29885386</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_49/CsolD_1665628020347EDVIl_JPEG/1665627988407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러-우크라 첫 '드론 전투'…러 드론 공중분해]]></title>
+            <link>https://tv.naver.com/v/29948131</link>
+            <guid>https://tv.naver.com/v/29948131</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_113/ruJM5_1665818671067OthSk_JPEG/1665818400594.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸틴 "대규모 추가 공습 불필요…나토군과 충돌은 재앙"]]></title>
+            <link>https://tv.naver.com/v/29945895</link>
+            <guid>https://tv.naver.com/v/29945895</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221015_15/uu6oj_1665810045933vgOzF_JPEG/1665809784292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Why요?] '뚝뚝' 꺾으면 손가락 두꺼워질까?]]></title>
+            <link>https://tv.naver.com/v/29896651</link>
+            <guid>https://tv.naver.com/v/29896651</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221013_193/sZihu_1665648745861nTDub_JPEG/1665648654034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['음주측정 거부' 래퍼 장용준 징역 1년 확정…경찰 폭행은 무죄]]></title>
+            <link>https://tv.naver.com/v/29931735</link>
+            <guid>https://tv.naver.com/v/29931735</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_163/2AdYv_1665741059224gGfCo_JPEG/1665741032174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[흔들리는 푸틴·시진핑? 중국 뒤집은 현수막 내용은]]></title>
+            <link>https://tv.naver.com/v/29930955</link>
+            <guid>https://tv.naver.com/v/29930955</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[5:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_148/JXsNA_1665739324840iBH8X_JPEG/1665739290815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소련제 미사일 사용하는 러시아…재고 부족? '최후 한방' 전략?]]></title>
+            <link>https://tv.naver.com/v/29930349</link>
+            <guid>https://tv.naver.com/v/29930349</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_259/r0VSx_1665738142940NMHyK_JPEG/1665738122589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페인, 우크라에 호크 대공미사일 지원…G7 "재정지원 약속"]]></title>
+            <link>https://tv.naver.com/v/29930287</link>
+            <guid>https://tv.naver.com/v/29930287</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_172/2XPCz_1665738036163Vehny_JPEG/1665738000123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[징집 피해 탈출하는 러시아인 돕는 전직 슈퍼모델 막시모바]]></title>
+            <link>https://tv.naver.com/v/29930102</link>
+            <guid>https://tv.naver.com/v/29930102</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_209/ejgoT_1665737684686l862J_JPEG/1665736522267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심판이 갖고 있었다!…마라도나 '신의 손' 축구공 경매 나온다]]></title>
+            <link>https://tv.naver.com/v/29930024</link>
+            <guid>https://tv.naver.com/v/29930024</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_265/7EDoz_16657375505976f5BF_JPEG/1665736796507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 전장서 살아남아 4개월 만에 집에 돌아온 경비견 '재키']]></title>
+            <link>https://tv.naver.com/v/29929710</link>
+            <guid>https://tv.naver.com/v/29929710</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_139/2VSi9_1665737091613DyGfa_JPEG/1665734348189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업발언대] 부티크 재고 정보 실시간 확인 기술 개발 윤재섭 구하다 대표]]></title>
+            <link>https://tv.naver.com/v/29929516</link>
+            <guid>https://tv.naver.com/v/29929516</guid>
+            <pubDate>Mon, 17 Oct 2022 11:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[8:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221014_73/FUdky_1665736754793Pj4Yg_JPEG/1665736701572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
