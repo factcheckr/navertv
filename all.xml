@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-20T21:26:39.243Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 20 Oct 2022 22:28:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SPC 28개 브랜드 불매운동‥"이제는 못 먹겠다" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104466</link>
+            <guid>https://tv.naver.com/v/30104466</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_34/gUtRc_1666304499902lHG6V_JPEG/cover_cover_today_20221021_071528_2_24_Large_20221021072102059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10년물 미국 국채금리 14년만에 최고 기록 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104455</link>
+            <guid>https://tv.naver.com/v/30104455</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_70/qQDFk_1666304355827I28yc_JPEG/cover_cover_today_20221021_071056_2_22_Large_20221021071902144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, '이재명 최측근' 김용 구속영장 청구 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104423</link>
+            <guid>https://tv.naver.com/v/30104423</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_117/ORzrL_1666304017318xsxjm_JPEG/cover_cover_today_20221021_070249_2_20_Large_20221021071302122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[와글와글] 700년 일본 사찰 화장실 문 '산산조각'‥무슨 일? (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104392</link>
+            <guid>https://tv.naver.com/v/30104392</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_43/JOqLS_16663035456303PIJw_JPEG/cover_cover_today_20221021_065930_2_16_Large_20221021070528931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[와글와글] '다 막아줄 테다' 거미손 로봇 골키퍼 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104390</link>
+            <guid>https://tv.naver.com/v/30104390</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_133/EVhav_1666303543117rKjmM_JPEG/cover_cover_today_20221021_065930_2_15_Large_20221021070522395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[와글와글] 엄마도 옆에 있는데‥대낮에 초등학생 납치 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104389</link>
+            <guid>https://tv.naver.com/v/30104389</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_106/4Z9jy_1666303535192IxuTG_JPEG/cover_cover_today_20221021_065730_2_14_Large_20221021070516006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[와글와글] 뉴욕 타임스스퀘어에 나타난 '방호복 인간' (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104387</link>
+            <guid>https://tv.naver.com/v/30104387</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_194/HQaT1_16663035282982wLxv_JPEG/cover_cover_today_20221021_065730_2_13_Large_20221021070509291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[와글와글] 팔순 잔치 주인공이 누구길래‥부산 경찰 긴장 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104385</link>
+            <guid>https://tv.naver.com/v/30104385</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_240/Wq6A2_1666303523908i59b7_JPEG/cover_cover_today_20221021_065612_2_12_Large_20221021070502325.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신선한 경제] 넷플릭스 요금제 바뀐 이유? 구원투수는 'K-콘텐츠' (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104371</link>
+            <guid>https://tv.naver.com/v/30104371</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[4:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_172/6Sch8_1666303406452Q6Tsq_JPEG/cover_cover_today_20221021_065358_2_11_Large_20221021070202481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이 시각 세계] 튀르키예, 3개월 연속 금리 낮춰 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104345</link>
+            <guid>https://tv.naver.com/v/30104345</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_281/iXPvO_1666302878520HHMUX_JPEG/cover_cover_today_20221021_064939_2_10_Large_20221021065422108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이 시각 세계] 미국 고속도로에서 60중 추돌 사고 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104344</link>
+            <guid>https://tv.naver.com/v/30104344</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_5/2zIxD_1666302864332SUoMt_JPEG/cover_cover_today_20221021_064939_2_9_Large_20221021065416031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이 시각 세계] 리즈 트러스 영국 총리 '최단기 불명예' (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104343</link>
+            <guid>https://tv.naver.com/v/30104343</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_35/qE6oH_1666302876437RO8HG_JPEG/cover_cover_today_20221021_064939_2_8_Large_20221021065409507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[kt, 키움 잡고 원점으로‥내일 마지막 승부 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104342</link>
+            <guid>https://tv.naver.com/v/30104342</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_176/7dazi_1666303040244AT4SQ_JPEG/cover_cover_today_20221021_064654_2_7_Large_20221021065402450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이게 미래형 교실?‥"스프링클러 70% 없어" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104328</link>
+            <guid>https://tv.naver.com/v/30104328</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_10/J2qhe_1666302701648T8OfI_JPEG/cover_cover_today_20221021_064654_2_6_Large_20221021065109510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KF-21 최초 민간 공개‥3년 만에 돌아온 에어쇼 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104327</link>
+            <guid>https://tv.naver.com/v/30104327</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_151/3vo26_16663026926977R8Iz_JPEG/cover_cover_today_20221021_064654_2_5_Large_20221021065102163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고금리 시대 재테크‥주식 대신 '채권' 뜬다 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104317</link>
+            <guid>https://tv.naver.com/v/30104317</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_9/OS5PX_1666302572577sscCM_JPEG/cover_cover_today_20221021_064113_2_4_Large_20221021064902052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스 열어보기] "대기업 믿었는데‥잦은 사고 알았다면 보냈겠나" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104293</link>
+            <guid>https://tv.naver.com/v/30104293</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_80/fNM76_1666302311124pnW0v_JPEG/cover_cover_today_20221021_063904_2_3_Large_20221021064402750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, '이재명 최측근' 김용 구속영장 청구 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104270</link>
+            <guid>https://tv.naver.com/v/30104270</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_165/3jE5i_1666302051429TER6I_JPEG/cover_cover_today_20221021_063536_2_2_Large_20221021064002421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[섬에 묻힌 '선감학원' 아이들‥40년 만의 사과 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104231</link>
+            <guid>https://tv.naver.com/v/30104231</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_224/N9CWM_1666301392264FJY52_JPEG/cover_cover_today_20221021_062429_1_14_Large_20221021062902011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["방사청이 변경 지시"‥관계부처 실무협의도 열어 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104223</link>
+            <guid>https://tv.naver.com/v/30104223</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_3/qPd6S_16663012524417btr4_JPEG/cover_cover_today_20221021_062137_1_13_Large_20221021062701994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전력시설만 300회 넘게 공격‥"러, 난민사태 노려" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104215</link>
+            <guid>https://tv.naver.com/v/30104215</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_152/B8LXP_166630113961772GBq_JPEG/cover_cover_today_20221021_062000_1_12_Large_20221021062508526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["북, 남한 영상물 유포자 사형·시청자 징역 15년" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104212</link>
+            <guid>https://tv.naver.com/v/30104212</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_134/ucKqF_1666301114008EnOGS_JPEG/cover_cover_today_20221021_061831_1_11_Large_20221021062502423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 "핵 포함 모든 확장억제 제공" 재확인 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104204</link>
+            <guid>https://tv.naver.com/v/30104204</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_157/Ixp5j_1666300911383eCWrP_JPEG/cover_cover_today_20221021_061708_1_10_Large_20221021062115874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 트러스 총리 44일 만에 사임‥최단명 불명예 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104203</link>
+            <guid>https://tv.naver.com/v/30104203</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_144/JhmVv_1666300907047I5Qo6_JPEG/cover_cover_today_20221021_061458_1_9_Large_20221021062108818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9월 생산자물가지수 0.2% 상승‥공공요금 인상 영향 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104202</link>
+            <guid>https://tv.naver.com/v/30104202</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_6/HZJkx_1666300874180LgfxC_JPEG/cover_cover_today_20221021_061400_1_8_Large_20221021062102135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔·달러 150엔 돌파‥아시아 외환시장 불안 확산 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104200</link>
+            <guid>https://tv.naver.com/v/30104200</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_280/x60CW_16663008413092u638_JPEG/cover_cover_today_20221021_061243_1_7_Large_20221021062002521.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SPC 계열사 '제빵공장' 압수수색‥대표 입건 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104183</link>
+            <guid>https://tv.naver.com/v/30104183</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_175/D9qjZ_1666300548633iwOUh_JPEG/cover_cover_today_20221021_061041_1_6_Large_20221021061508565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["노골적인 국감 방해"‥"죄를 짓지 말든가" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104182</link>
+            <guid>https://tv.naver.com/v/30104182</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_103/WzZbi_1666300548041zYYxw_JPEG/cover_cover_today_20221021_060836_1_5_Large_20221021061502173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령 "국민이 아실 것"‥'야당 탄압' 일축 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104172</link>
+            <guid>https://tv.naver.com/v/30104172</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_290/n6qNw_1666300303514W9man_JPEG/cover_cover_today_20221021_060646_1_4_Large_20221021061109736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["불법자금 1원도 쓴 일 없다"‥장외투쟁도 불사 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30104171</link>
+            <guid>https://tv.naver.com/v/30104171</guid>
+            <pubDate>Thu, 20 Oct 2022 22:27:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_18/7ajKE_1666300299762i6oou_JPEG/cover_cover_today_20221021_060446_1_3_Large_20221021061102217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
