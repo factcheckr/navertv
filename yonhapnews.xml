@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnews/clips</id>
-    <title>연합뉴스 ─ 네이버TV</title>
-    <updated>2022-10-22T20:28:43.935Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 22 Oct 2022 21:24:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김연아·고우림 '백년가약'…웨딩 화보 공개]]></title>
+            <link>https://tv.naver.com/v/30138324</link>
+            <guid>https://tv.naver.com/v/30138324</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221022_241/VqRVq_1666422518118HisqW_JPEG/1666422104390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대만, 국가 주요시설 전쟁 대비 훈련…"최악 시나리오 근거"]]></title>
+            <link>https://tv.naver.com/v/30137351</link>
+            <guid>https://tv.naver.com/v/30137351</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221022_216/n3S6V_1666419541629amhFV_JPEG/1666419251474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 주요 도시 미사일 공격…러 "우크라가 피난행렬에 포격"]]></title>
+            <link>https://tv.naver.com/v/30134638</link>
+            <guid>https://tv.naver.com/v/30134638</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221022_40/D3lRC_1666408571088v0dGV_JPEG/1666408411192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위반차량만 골라 사고낸 외국인…22차례 쾅쾅! 1억원 챙겼다]]></title>
+            <link>https://tv.naver.com/v/30122224</link>
+            <guid>https://tv.naver.com/v/30122224</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_114/7tDTy_1666343413491gYNmA_JPEG/1666343386694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안성 물류창고 공사장서 추락 사고…"외국인 노동자 5명 사상"]]></title>
+            <link>https://tv.naver.com/v/30122201</link>
+            <guid>https://tv.naver.com/v/30122201</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_224/2Ncis_1666343367541uE3d3_JPEG/1666343155685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[법원 국감 충돌…"정치검사 편드나" vs "안온 게 누군데"]]></title>
+            <link>https://tv.naver.com/v/30121761</link>
+            <guid>https://tv.naver.com/v/30121761</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_16/X7gKJ_1666342451622QUWfF_JPEG/1666342435095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['유럽의 마지막 독재자' 벨라루스 대통령, 푸틴 SOS에 응답하나]]></title>
+            <link>https://tv.naver.com/v/30121509</link>
+            <guid>https://tv.naver.com/v/30121509</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[4:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_8/7XLIJ_1666342013695QXsbz_JPEG/1666341988369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['강한남자' 푸틴, 훈련소 징집병 앞 저격총 엎드려쏴 시범 보여]]></title>
+            <link>https://tv.naver.com/v/30121263</link>
+            <guid>https://tv.naver.com/v/30121263</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_76/Dtolg_1666341573418VQFQT_JPEG/1666340739432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이륙직후 추락' 러 SU-34 전투기 조종사, "격추됐죠?" 질문에]]></title>
+            <link>https://tv.naver.com/v/30120936</link>
+            <guid>https://tv.naver.com/v/30120936</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_164/WZUWv_16663409535051KIBz_JPEG/1666340734958.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["미-대만, 정밀폭탄 생산 협력 가능"…패트리엇3 기술 지원 계약]]></title>
+            <link>https://tv.naver.com/v/30120689</link>
+            <guid>https://tv.naver.com/v/30120689</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_186/l5uJu_1666340474674TnfnJ_JPEG/1666340466260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SPC 대국민 사과 "사고 다음 날 작업, 있을 수 없는 일"]]></title>
+            <link>https://tv.naver.com/v/30120666</link>
+            <guid>https://tv.naver.com/v/30120666</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_33/hOUS1_1666340435206hjemR_JPEG/1666339756355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주한미군, 北이 트집잡은 MLRS 훈련영상 공개…"일상적 훈련"]]></title>
+            <link>https://tv.naver.com/v/30119601</link>
+            <guid>https://tv.naver.com/v/30119601</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_1/JWyks_1666338558465cYi6I_JPEG/1666338455858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['서해 피격' 김홍희 전 해경청장 구속 심문 출석…'묵묵부답']]></title>
+            <link>https://tv.naver.com/v/30116638</link>
+            <guid>https://tv.naver.com/v/30116638</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_132/rnp3p_1666333732547VY7H2_JPEG/1666332720312.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국, 일본에 다용도 SM-6 요격미사일 판매 잠정 결정]]></title>
+            <link>https://tv.naver.com/v/30113167</link>
+            <guid>https://tv.naver.com/v/30113167</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_292/Oz0sQ_16663282234352udws_JPEG/1666328187096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 국방부 "러, 우크라 남부서 강 건너 대대적 후퇴 검토"]]></title>
+            <link>https://tv.naver.com/v/30112955</link>
+            <guid>https://tv.naver.com/v/30112955</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_45/iHNsX_1666327842290EeQQY_JPEG/1666327672529.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명 '대장동 특검' 제안…"대선자금 커녕 사탕 하나 안받아"]]></title>
+            <link>https://tv.naver.com/v/30110773</link>
+            <guid>https://tv.naver.com/v/30110773</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[6:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_49/hv3rf_1666323926207Rwjt0_JPEG/1666323892543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석, 유부남 됐다…17살 연하 예정화와 지난해 혼인신고 / 연합뉴스 (Yonhapnews)]]></title>
+            <link>https://tv.naver.com/v/30109704</link>
+            <guid>https://tv.naver.com/v/30109704</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_83/1L3MW_1666321491828pkpcl_JPEG/1666321467106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 "핵 등 모든 방어역량으로 한국에 확장억제 제공"]]></title>
+            <link>https://tv.naver.com/v/30109580</link>
+            <guid>https://tv.naver.com/v/30109580</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_5/QECt6_1666321233807omfE2_JPEG/1666320930380.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트러스 英총리 44일 만에 사임…역대 최단명 총리 불명예]]></title>
+            <link>https://tv.naver.com/v/30109366</link>
+            <guid>https://tv.naver.com/v/30109366</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_278/uIn0x_16663207998795xTLT_JPEG/1666320551189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[책임 공방 시작됐다…카카오-SK C&C, 엇갈린 '7분'의 진실은]]></title>
+            <link>https://tv.naver.com/v/30109314</link>
+            <guid>https://tv.naver.com/v/30109314</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_38/rlENR_1666320709609rixw5_JPEG/1666320594531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['서해 피격' 서욱 전 국방장관 영장심사…"삭제 지시했나" 묻자]]></title>
+            <link>https://tv.naver.com/v/30106920</link>
+            <guid>https://tv.naver.com/v/30106920</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221021_249/4uAA8_1666316481452SRc94_JPEG/1666316009314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[톺뉴스] '통장협박'이 뭔데?]]></title>
+            <link>https://tv.naver.com/v/30009683</link>
+            <guid>https://tv.naver.com/v/30009683</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221018_14/QyQmj_1666054279489X6Qzi_JPEG/1666054218480.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["여성들 나라 된것 같다"…남성 사라진 모스크바 경제도 휘청]]></title>
+            <link>https://tv.naver.com/v/30092645</link>
+            <guid>https://tv.naver.com/v/30092645</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_272/ed9uo_1666258342627rHn5K_JPEG/1666258313348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혼자서 버스 타고 놀러가던 '시애틀 명견' 하늘나라로]]></title>
+            <link>https://tv.naver.com/v/30091410</link>
+            <guid>https://tv.naver.com/v/30091410</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_255/8WDs4_1666256047945LHC7R_JPEG/1666255672041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] "러 공격에 전력망 40% 파괴"…우크라 전역 순환 단전 돌입]]></title>
+            <link>https://tv.naver.com/v/30090679</link>
+            <guid>https://tv.naver.com/v/30090679</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_292/d0eaD_1666254990482v86se_JPEG/1666254577927.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['출전 불발' 호날두 또 조기 퇴근…감독의 '쿨내나는' 한 마디]]></title>
+            <link>https://tv.naver.com/v/30090527</link>
+            <guid>https://tv.naver.com/v/30090527</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_287/rz9dl_1666254740017D2m1u_JPEG/1666253912349.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백원짜리 동전 24만개 빼돌린 한은 직원…80배에 판매]]></title>
+            <link>https://tv.naver.com/v/30089395</link>
+            <guid>https://tv.naver.com/v/30089395</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_105/WuGVD_1666253122453ukDuH_JPEG/1666252446266.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업발언대] '로봇 보급 전도사' 김민교 빅웨이브로보틱스 대표]]></title>
+            <link>https://tv.naver.com/v/30089024</link>
+            <guid>https://tv.naver.com/v/30089024</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[9:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_136/DtltM_1666252563134TbGSw_JPEG/1666252354513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5일새 장관 2명 사퇴…'내각 대탈출' 조짐 英총리 낙마 위기]]></title>
+            <link>https://tv.naver.com/v/30087817</link>
+            <guid>https://tv.naver.com/v/30087817</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_275/EY1NU_1666250670033RV5YG_JPEG/1666250629997.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 "이란제 드론 223대 격추"…이스라엘은 무기 지원 거부]]></title>
+            <link>https://tv.naver.com/v/30085916</link>
+            <guid>https://tv.naver.com/v/30085916</guid>
+            <pubDate>Sat, 22 Oct 2022 21:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221020_6/pCZOb_1666247872043vsHuz_JPEG/1666247830584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
