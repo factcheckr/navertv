@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/ytnnews24/clips</id>
-    <title>뉴스는 YTN ─ 네이버TV</title>
-    <updated>2022-10-23T05:49:15.449Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/ytnnews24/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>뉴스는 YTN ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 23 Oct 2022 06:38:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희귀 동전 어떻게 구했나 했더니..."한국은행 직원이 빼돌려"]]></title>
+            <link>https://tv.naver.com/v/30153121</link>
+            <guid>https://tv.naver.com/v/30153121</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_239/7VJk5_1666506840347cQAiD_JPEG/cover_cover_202210202006513976_t_20221023153302187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3년 만에 전국 차인(茶人) 큰잔치...기품있는 차예절과 전통음식 선보여]]></title>
+            <link>https://tv.naver.com/v/30153079</link>
+            <guid>https://tv.naver.com/v/30153079</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_255/seq8W_1666506701440wfBoP_JPEG/cover_cover_202210231154175462_t_20221023153113500.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[희귀 동전 어떻게 구했나 했더니..."한국은행 직원이 빼돌려"]]></title>
+            <link>https://tv.naver.com/v/30153074</link>
+            <guid>https://tv.naver.com/v/30153074</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_173/Op60r_1666506718880MXPBb_JPEG/cover_cover_202210202217358692_t_20221023153102535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑 3기 권력 독점 가시화...한중·미중 관계 미칠 영향은?]]></title>
+            <link>https://tv.naver.com/v/30152895</link>
+            <guid>https://tv.naver.com/v/30152895</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[11:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_169/6uG0V_1666506413209G8cFQ_JPEG/cover_cover_202210231432278763_t_20221023152302222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부, 자금시장 경색 우려에 비상 회의..."유동성 공급 확대"]]></title>
+            <link>https://tv.naver.com/v/30152809</link>
+            <guid>https://tv.naver.com/v/30152809</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_238/e1FaP_1666505998704nwIIt_JPEG/cover_cover_202210231514013991_t_20221023151912626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[中 수뇌부 7명 '시진핑 일색'...국제사회 영향은?]]></title>
+            <link>https://tv.naver.com/v/30152806</link>
+            <guid>https://tv.naver.com/v/30152806</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_41/a9rWe_1666506010426VBBgQ_JPEG/cover_cover_202210231459585730_t_20221023151902823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사고 유발자 전동킥보드...안전불감증 '여전']]></title>
+            <link>https://tv.naver.com/v/30152632</link>
+            <guid>https://tv.naver.com/v/30152632</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_256/UTLDz_1666505555408UVl5q_JPEG/cover_cover_202210231456300656_t_20221023151102637.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[與, 특검 거듭 거부 "민심 외면한 공허한 정치 공세"]]></title>
+            <link>https://tv.naver.com/v/30152433</link>
+            <guid>https://tv.naver.com/v/30152433</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_199/64AUg_1666504875932U1tn0_JPEG/cover_cover_202210231330121471_t_20221023150103063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상+] 주호영 "특검 수용할 수 없어...시정연설 듣는 건 국회의 책무"]]></title>
+            <link>https://tv.naver.com/v/30152257</link>
+            <guid>https://tv.naver.com/v/30152257</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[7:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_158/wFrDL_1666504503013Wj1YD_JPEG/cover_cover_202210231433203910_t_20221023145301976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러, '혹독한 겨울' 무기화...전황 악화에 또 긴급 대피령]]></title>
+            <link>https://tv.naver.com/v/30151850</link>
+            <guid>https://tv.naver.com/v/30151850</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_216/MTrnl_1666503303508a6rQ2_JPEG/cover_cover_202210231427299788_t_20221023143318082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놀이공원에 붐비는 가을 나들이객들...지금은 '핼러윈 축제']]></title>
+            <link>https://tv.naver.com/v/30151844</link>
+            <guid>https://tv.naver.com/v/30151844</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_223/ZYmhe_1666503251802dpjW5_JPEG/cover_cover_202210231355385671_t_20221023143310384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 함평 국화 축제 한창...내일부터 반짝 추위]]></title>
+            <link>https://tv.naver.com/v/30151839</link>
+            <guid>https://tv.naver.com/v/30151839</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_31/C5ZKv_1666503251272eAxBY_JPEG/cover_cover_202210231353276787_t_20221023143302260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] SPC 계열사 샤니 성남 공장에서 손가락 절단 사고]]></title>
+            <link>https://tv.naver.com/v/30151766</link>
+            <guid>https://tv.naver.com/v/30151766</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_84/VR4tf_1666502990198WzE5z_JPEG/cover_cover_202210231355587053_t_20221023142910324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 환자 2만 6,256명...겨울철 재유행 우려]]></title>
+            <link>https://tv.naver.com/v/30151762</link>
+            <guid>https://tv.naver.com/v/30151762</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_222/eC2ir_1666502997983A8xYT_JPEG/cover_cover_202210231353439435_t_20221023142902246.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[野 "尹 검찰, 민주진영 학살 목표"...국민의힘 맞불 기자간담회]]></title>
+            <link>https://tv.naver.com/v/30151724</link>
+            <guid>https://tv.naver.com/v/30151724</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_97/lzuOa_16665029069936mYGr_JPEG/cover_cover_202210231355088812_t_20221023142702320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[檢, 김용 구속 뒤 오늘 첫 조사...'이재명 관여 여부' 집중 규명]]></title>
+            <link>https://tv.naver.com/v/30151689</link>
+            <guid>https://tv.naver.com/v/30151689</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_54/uxTOs_1666502765349Co7nr_JPEG/cover_cover_202210231354180733_t_20221023142502300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상+] 박홍근 "尹, 대국회 사과해야...시정연설 결코 용인 못해"]]></title>
+            <link>https://tv.naver.com/v/30151214</link>
+            <guid>https://tv.naver.com/v/30151214</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[6:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_115/XNOtR_16665013876787qtzB_JPEG/cover_cover_202210231333447581_t_20221023140112436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당 박홍근 원내대표 기자간담회…檢 수사 등 입장 발표]]></title>
+            <link>https://tv.naver.com/v/30151210</link>
+            <guid>https://tv.naver.com/v/30151210</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[6:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_290/Sm5Nx_1666501385448zed4d_JPEG/cover_cover_202210231334355147_t_20221023140102004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑 권력 독점 가시화...中 수뇌부 첫 공개]]></title>
+            <link>https://tv.naver.com/v/30150696</link>
+            <guid>https://tv.naver.com/v/30150696</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_177/ioZyR_1666499781250loNKB_JPEG/cover_cover_202210231319027785_t_20221023133502211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] '상강' 선선한 가을...함평 국화 향 가득]]></title>
+            <link>https://tv.naver.com/v/30150178</link>
+            <guid>https://tv.naver.com/v/30150178</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_112/ZEvZz_1666497842949cfU8t_JPEG/cover_cover_202210231249502322_t_20221023130307214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[與 "이재명을 위한 특검, 국민이 거부권 행사할 것"]]></title>
+            <link>https://tv.naver.com/v/30150176</link>
+            <guid>https://tv.naver.com/v/30150176</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_178/VkpM2_1666497798807aWYns_JPEG/cover_cover_202210231055542359_t_20221023130302238.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조정식 "尹, 25일 시정연설 전까지 특검 분명히 답해야"]]></title>
+            <link>https://tv.naver.com/v/30150145</link>
+            <guid>https://tv.naver.com/v/30150145</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_74/FTyE5_1666497682187uQc13_JPEG/cover_cover_202210231216339918_t_20221023130102540.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北, 9·19 군사 합의 무력화 시도...7차 핵실험 명분 쌓나?]]></title>
+            <link>https://tv.naver.com/v/30149980</link>
+            <guid>https://tv.naver.com/v/30149980</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[25:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_28/1iJb6_1666497551350e8gii_JPEG/cover_cover_202210231225064122_t_20221023125102040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] SPC 계열사에서 또 인명사고...샤니 성남 공장에서 손가락 절단돼]]></title>
+            <link>https://tv.naver.com/v/30149815</link>
+            <guid>https://tv.naver.com/v/30149815</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_158/7yLF0_1666496264072KvE33_JPEG/cover_cover_202210231046446858_t_20221023123702772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명 '사법 리스크' 최대 위기...野 '특검' 승부수]]></title>
+            <link>https://tv.naver.com/v/30149785</link>
+            <guid>https://tv.naver.com/v/30149785</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[24:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_279/GOFWx_1666496632437l5sXP_JPEG/cover_cover_202210231013443330_t_20221023123502278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴일 가을 나들이 나선 시민들...놀이공원은 핼러윈 축제]]></title>
+            <link>https://tv.naver.com/v/30149663</link>
+            <guid>https://tv.naver.com/v/30149663</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_168/NPwNy_1666495554276Ulwho_JPEG/cover_cover_202210231154460846_t_20221023122503409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밀고 의혹 김순호 실적 봤더니...민주화 운동 관련자 줄줄이]]></title>
+            <link>https://tv.naver.com/v/30149646</link>
+            <guid>https://tv.naver.com/v/30149646</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_49/gIGAw_1666495443762BwRtU_JPEG/cover_cover_202210231218126115_t_20221023122310703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 환자 2만 6,256명...겨울철 재유행 우려]]></title>
+            <link>https://tv.naver.com/v/30149643</link>
+            <guid>https://tv.naver.com/v/30149643</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_111/gSqEI_1666495446585q88Ys_JPEG/cover_cover_202210231154120949_t_20221023122302011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] SPC 계열사 샤니 성남 공장에서 손가락 절단 사고]]></title>
+            <link>https://tv.naver.com/v/30149596</link>
+            <guid>https://tv.naver.com/v/30149596</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_146/B0NRD_1666495177785QjIHb_JPEG/cover_cover_202210231155151879_t_20221023121902154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["尹 검찰, 민주진영 학살 목표"..."특검 부적절"]]></title>
+            <link>https://tv.naver.com/v/30149581</link>
+            <guid>https://tv.naver.com/v/30149581</guid>
+            <pubDate>Sun, 23 Oct 2022 06:37:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_190/DiRNm_16664950972143FbY4_JPEG/cover_cover_202210231212457126_t_20221023121709137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
