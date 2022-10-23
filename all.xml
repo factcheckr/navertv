@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-23T10:28:57.742Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 23 Oct 2022 11:23:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연합뉴스TV 스페셜] 249회 : 마약 청정국의 민낯, 중독의 늪에 빠진 청소년들 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30157236</link>
+            <guid>https://tv.naver.com/v/30157236</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[21:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_5/AFeOy_1666523665905MGqOP_JPEG/cover_cover_MYH20221021022300038_20221023200102580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[일요와이드] 시진핑 3기 출범…'1인 천하' 장기집권 시대 열어 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30156719</link>
+            <guid>https://tv.naver.com/v/30156719</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[20:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_57/RTqqC_16665210733192myzA_JPEG/cover_cover_MYH20221023012500038_20221023192202646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 핵실험 임박…강대강 대치 이어지는 한반도 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30156365</link>
+            <guid>https://tv.naver.com/v/30156365</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_65/nVfHA_1666518983878AFWIF_JPEG/cover_cover_MYH20221023012400641_20221023185515142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[일요와이드] 이재명이 제안한 '대장동 특검법' 운명은? (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30156362</link>
+            <guid>https://tv.naver.com/v/30156362</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[19:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_55/rLUuD_1666519545842zch3F_JPEG/cover_cover_MYH20221023012200038_20221023185502595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정은, 시진핑에 축전 "북중 아름다운 미래 설계" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30156347</link>
+            <guid>https://tv.naver.com/v/30156347</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_140/Jgwn4_1666518813654fPmWA_JPEG/cover_cover_MYH20221023012300038_20221023185302823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑 측근 리창, 차기 경제사령탑…"실권없는 총리될 듯" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30156312</link>
+            <guid>https://tv.naver.com/v/30156312</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_296/x6uBD_16665187423842E4dP_JPEG/cover_cover_MYH20221023012100038_20221023185102318.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정치국원 24명으로 감소…여성은 한 명도 없어 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30156257</link>
+            <guid>https://tv.naver.com/v/30156257</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_132/uS3yw_1666518445416EPKjp_JPEG/cover_cover_MYH20221023012000038_20221023184702006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑 3기 출범…'1인 천하' 장기집권 시대 열어 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30156246</link>
+            <guid>https://tv.naver.com/v/30156246</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_165/KMB9r_1666518432327AOXgR_JPEG/cover_cover_MYH20221023011900641_20221023184603151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬 바람 불며 반짝 추위…동해안 요란한 가을비 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30155854</link>
+            <guid>https://tv.naver.com/v/30155854</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_260/ncqKv_1666516867766NCVb8_JPEG/cover_cover_MYH20221023011800641_20221023182002820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 확진 2만6천여명…유행 감소세 주춤 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30155818</link>
+            <guid>https://tv.naver.com/v/30155818</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_208/h2dYZ_1666516702960oyfqr_JPEG/cover_cover_MYH20221023011700038_20221023181703519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돈줄 말랐는데…내년 상반기까지 회사채 68조 만기 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30155803</link>
+            <guid>https://tv.naver.com/v/30155803</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_36/FzmBA_1666516636966PEjR1_JPEG/cover_cover_MYH20221023011600641_20221023181602801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유동규, 왜 입 열었나…'꼬리자르기' 배신감? (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30155741</link>
+            <guid>https://tv.naver.com/v/30155741</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_199/hoq4e_16665163244983oq8o_JPEG/cover_cover_MYH20221023011500641_20221023181102398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['서해피격' 수사 속도…'윗선간 공모' 규명 박차 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30155732</link>
+            <guid>https://tv.naver.com/v/30155732</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_115/b51kY_16665162698977wPtf_JPEG/cover_cover_MYH20221023011400641_20221023181002722.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 휴일 완연한 가을…월요일 출근길 반짝 추위 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30155529</link>
+            <guid>https://tv.naver.com/v/30155529</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_87/Dfr0l_1666515340283If7Qo_JPEG/cover_cover_MYH20221023011100038_20221023175502500.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수리남서 엑스포 홍보전…수리남측 "새 드라마 함께" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30155330</link>
+            <guid>https://tv.naver.com/v/30155330</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_34/Bp1Ys_166651442760864m0x_JPEG/cover_cover_MYH20221023010800038_20221023174003273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SPC 계열사 공장서 또 사고…경찰·노동부 조사 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30155224</link>
+            <guid>https://tv.naver.com/v/30155224</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_10/1jRsS_16665140742974E8az_JPEG/cover_cover_MYH20221023010700038_20221023173402893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유동성 '50조+α' 공급…강원도발 불안 진화 나서 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30155090</link>
+            <guid>https://tv.naver.com/v/30155090</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_74/7WJM3_16665136263895mICS_JPEG/cover_cover_MYH20221023010600641_20221023172602938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['현무 낙탄' 대응태세 우려에…군 "대체전력 충분" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154978</link>
+            <guid>https://tv.naver.com/v/30154978</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_50/5kOqT_1666513173684xkp2f_JPEG/cover_cover_MYH20221023010500038_20221023171902272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령실, 야당 특검 요구에 "여야가 합의할 사항" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154920</link>
+            <guid>https://tv.naver.com/v/30154920</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_118/tgxK4_1666512987737kNifw_JPEG/cover_cover_MYH20221023010400038_20221023171603067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰발 사정정국 충돌 심화…야 "특검 수용" 여 "물타기" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154904</link>
+            <guid>https://tv.naver.com/v/30154904</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_106/H6sjE_1666513027366pSfNp_JPEG/cover_cover_MYH20221023010300038_20221023171503022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스1번지] '대선자금' 수사 속도…가팔라진 대치정국 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154739</link>
+            <guid>https://tv.naver.com/v/30154739</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[27:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_265/F9ygu_16665130028732sp7g_JPEG/cover_cover_MYH20221023009900038_20221023170502955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 절기 상강, 서쪽 맑고 동쪽 비…월요일 반짝 추위 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154551</link>
+            <guid>https://tv.naver.com/v/30154551</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_22/FwXTS_1666511694254Al2mM_JPEG/cover_cover_MYH20221023009400038_20221023165403345.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제37회 이북도민 체육대회…한총리 "가족상봉 국제연대" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154345</link>
+            <guid>https://tv.naver.com/v/30154345</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_256/gS2WE_1666511014263McWqJ_JPEG/cover_cover_MYH20221023009200038_20221023164302481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청주 단독 주택서 가스폭발 추정 화재…1명 부상 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154306</link>
+            <guid>https://tv.naver.com/v/30154306</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_18/T5NgN_1666510832775dcrDm_JPEG/cover_cover_MYH20221023009100038_20221023164009926.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["로또가 5분마다"?…불법 파워볼 게임장 적발 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154303</link>
+            <guid>https://tv.naver.com/v/30154303</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_18/8Cjqu_1666510871433o0rSf_JPEG/cover_cover_MYH20221023009000038_20221023164003461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사흘째 전주 대비 확진자 증가…다가오는 겨울철 재유행 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154245</link>
+            <guid>https://tv.naver.com/v/30154245</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_244/OXuDn_1666510630512Rjxye_JPEG/cover_cover_MYH20221023008900038_20221023163603165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자금시장 경색에 유동성 공급 '50조원+α'로 확대 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30154036</link>
+            <guid>https://tv.naver.com/v/30154036</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_99/AS4va_1666509937606fGJjj_JPEG/cover_cover_MYH20221023008800038_20221023162502621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용산 청사에 무궁화·봉황…대통령실, 새 '로고' 공개 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30153967</link>
+            <guid>https://tv.naver.com/v/30153967</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_162/iuPcZ_1666509681969DkVzP_JPEG/cover_cover_MYH20221023008700038_20221023162102383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰발 사정정국 충돌 심화…야 "특검 수용" 여 "물타기" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30153935</link>
+            <guid>https://tv.naver.com/v/30153935</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_127/cBn2t_1666509626820gIxQj_JPEG/cover_cover_MYH20221023008600038_20221023161902535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정수 전 중앙지검장 "유동규·정진상·김용과 일면식도 없어" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30153836</link>
+            <guid>https://tv.naver.com/v/30153836</guid>
+            <pubDate>Sun, 23 Oct 2022 11:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221023_98/QVc5x_1666509151702FCqg7_JPEG/cover_cover_MYH20221023008500038_20221023161203898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
