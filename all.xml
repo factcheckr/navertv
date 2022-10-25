@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-25T02:36:54.742Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 25 Oct 2022 05:01:44 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨박스] '고급 바에 동백아가씨' 장관 직 건 한동훈, 김의겸은? (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30208951</link>
+            <guid>https://tv.naver.com/v/30208951</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_101/aS3P3_1666670510688LGUHW_JPEG/cover_2022102590099_thumb_125557_20221025130101613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 찰스왕 밀랍인형에 초콜릿케이크 던진 英 기후운동가들 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30206242</link>
+            <guid>https://tv.naver.com/v/30206242</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_252/ksHZl_1666665383582HXvAV_JPEG/cover_2022102590091_thumb_113320_20221025113604106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 尹 시정연설 "그동안 정치적 목적 앞선 방만 재정…건전재정 기조" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30205266</link>
+            <guid>https://tv.naver.com/v/30205266</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[19:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_6/21Qht_1666664037975wBLxR_JPEG/cover_2022102590078_thumb_110201_20221025110601876.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스특보] 윤석열 대통령 2023년도 예산안 시정연설 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30204425</link>
+            <guid>https://tv.naver.com/v/30204425</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[19:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_232/aHSHF_1666662522769NAcpu_JPEG/cover_2022102590051_thumb_103821_20221025104105383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자원봉사센터에 당원 명부가 왜?…전북지사 경선 개입 공무원 등 무더기 적발 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30204168</link>
+            <guid>https://tv.naver.com/v/30204168</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_2/9JkmU_1666661519879aSEBv_JPEG/cover_2022102590037_thumb_102517_20221025103108710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아침에 한 장] '피란 수도' 부산의 기억 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30204164</link>
+            <guid>https://tv.naver.com/v/30204164</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_199/3DPul_1666661500935d3Ib1_JPEG/cover_2022102590039_thumb_102647_20221025103101653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아침에 이슈] 유동규 진술, '李 선거법 재판'에 변수 될까? (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30204031</link>
+            <guid>https://tv.naver.com/v/30204031</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[26:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_17/MxnEs_1666661836200A20uY_JPEG/cover_2022102590023_thumb_102423_20221025102602895.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["시진핑 천하 中, 세계에 위험 초래"…反시진핑 시위 확산 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30203128</link>
+            <guid>https://tv.naver.com/v/30203128</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_59/N2GVo_1666658825924nzzth_JPEG/cover_2022102590029_thumb_094409_20221025094604338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈분석] 北 도발은 '7차 핵실험' 임박 신호? (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30202441</link>
+            <guid>https://tv.naver.com/v/30202441</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[5:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_259/cG0iR_16666564936561Hng3_JPEG/cover_2022102590033_thumb_090211_20221025090601740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈분석] 카카오 먹통 사태와 사업 확장, 관계있나? (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30202385</link>
+            <guid>https://tv.naver.com/v/30202385</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[8:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_155/Hmns7_1666656232375ixX72_JPEG/cover_2022102590027_thumb_085659_20221025090101653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월 25일 '뉴스 퍼레이드' 클로징 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30202215</link>
+            <guid>https://tv.naver.com/v/30202215</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_137/DePgR_16666548795353Td72_JPEG/cover_2022102590043_thumb_083919_20221025084109317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 출근길 어제보다 추워…동해안 아침까지 비 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30202212</link>
+            <guid>https://tv.naver.com/v/30202212</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_134/e1ht5_1666654882390V4KFm_JPEG/cover_2022102590041_thumb_083811_20221025084101824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시총 100대 반도체 기업 중 韓 3개뿐…삼성마저 3위로 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30202166</link>
+            <guid>https://tv.naver.com/v/30202166</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_266/ZsYOE_1666654625485xOL59_JPEG/cover_2022102590035_thumb_083153_20221025083611319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美 "북 핵실험 언제든 가능, 대화 제안은 유지" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30202087</link>
+            <guid>https://tv.naver.com/v/30202087</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_138/aUplG_1666654012544PeVVk_JPEG/cover_2022102590031_thumb_082458_20221025082601784.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국감장 늦장 출석 최태원 "국민께 송구" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30202052</link>
+            <guid>https://tv.naver.com/v/30202052</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_227/yW8mI_16666537148819S6ne_JPEG/cover_2022102590025_thumb_081649_20221025082101659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김의겸 '尹·韓 술자리' 의혹 제기…한동훈 "장관직 걸겠다" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30202010</link>
+            <guid>https://tv.naver.com/v/30202010</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_147/oSuPW_1666653419478NmNyG_JPEG/cover_2022102590021_thumb_081445_20221025081602740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[울먹인 이재명 "'김건희 특검' 빼고 대장동만 하자" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30201855</link>
+            <guid>https://tv.naver.com/v/30201855</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_295/EhJfn_1666652224039r7k8i_JPEG/cover_2022102590019_thumb_075243_20221025075601710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹대통령 "시정연설에 조건 붙인 건 헌정사 없어" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30201821</link>
+            <guid>https://tv.naver.com/v/30201821</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_21/0fdyM_1666651921505wBma9_JPEG/cover_2022102590017_thumb_074516_20221025075101691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권영세, 文 서면조사 거부 논란에 "모든 국민 법 앞에 평등" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30201789</link>
+            <guid>https://tv.naver.com/v/30201789</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_242/ulD9c_166665161725162DqU_JPEG/cover_2022102590015_thumb_074218_20221025074604368.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월 25일 '뉴스 퍼레이드' 오프닝 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30201712</link>
+            <guid>https://tv.naver.com/v/30201712</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221025_219/OpFZK_16666510008924xwbf_JPEG/cover_2022102590011_thumb_073232_20221025073604493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CSI] 심야 택시 '기본료 1만원' 코앞인데…불법 매크로 방치하는 카카오T (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30193131</link>
+            <guid>https://tv.naver.com/v/30193131</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_111/ATbss_1666616841974gyT63_JPEG/cover_2022102490210_thumb_100103_20221024220601887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월 24일 '뉴스 9' 클로징 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30192944</link>
+            <guid>https://tv.naver.com/v/30192944</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_74/qKrny_1666616471892O6G8h_JPEG/cover_2022102490228_thumb_095510_20221024220101601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG, 만원관중 앞에서 플레이오프 기선제압…키움에 6-3 승리 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30192773</link>
+            <guid>https://tv.naver.com/v/30192773</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_175/ECQSP_1666616413225KL7SQ_JPEG/cover_2022102490224_thumb_095318_20221024215608964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] '서울 5도' 출근길 추위 계속…낮엔 기온 크게 올라 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30192769</link>
+            <guid>https://tv.naver.com/v/30192769</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_143/IpNdT_1666616190020xybIG_JPEG/cover_2022102490226_thumb_095337_20221024215601757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부 유동성 투입에도 시장은 "한은이 직접 돈풀어라" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30192615</link>
+            <guid>https://tv.naver.com/v/30192615</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_40/o22Vn_1666615949267MmFnQ_JPEG/cover_2022102490214_thumb_094806_20221024215120542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고흐·모네도 당했다…기후 활동가들, 연이은 '명화 테러 퍼포먼스' (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30192611</link>
+            <guid>https://tv.naver.com/v/30192611</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_222/wPA9h_1666615925885tAmpe_JPEG/cover_2022102490222_thumb_094949_20221024215114470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['레고랜드' 쇼크에 50조 풀지만…"충분" vs "부족" 반응 엇갈려 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30192606</link>
+            <guid>https://tv.naver.com/v/30192606</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_82/ucESx_1666615942751m8MBP_JPEG/cover_2022102490212_thumb_094746_20221024215108126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[英 총리, '인도계' 수낵 전 장관 유력…210년 만에 최연소 (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30192605</link>
+            <guid>https://tv.naver.com/v/30192605</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_49/Qd6mV_1666615926950f6vEw_JPEG/cover_2022102490218_thumb_094927_20221024215101667.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김의겸 '尹-韓 술자리' 의혹 제기…한동훈 "장관직 걸겠다" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30192444</link>
+            <guid>https://tv.naver.com/v/30192444</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_179/faRfe_16666156382818aG0C_JPEG/cover_2022102490190_thumb_094100_20221024214601810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오 '먹통사태'에 김범수 "불편 끼쳐 죄송" (TV조선 뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30192299</link>
+            <guid>https://tv.naver.com/v/30192299</guid>
+            <pubDate>Tue, 25 Oct 2022 05:01:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221024_289/sTcBe_1666615335771QBkRD_JPEG/cover_2022102490208_thumb_093954_20221024214115140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
