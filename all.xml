@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-27T07:23:24.151Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 27 Oct 2022 08:33:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초등생에 “개돼지” 폭언한 교사 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30282260</link>
+            <guid>https://tv.naver.com/v/30282260</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_103/hhkIS_1666856601574jw0Em_JPEG/1666856584822.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무주택자 LTV 50%로 완화…15억 초과 아파트 주담대 허용 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280752</link>
+            <guid>https://tv.naver.com/v/30280752</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_40/PnBsP_1666854183127CgyLL_JPEG/cover_0000236734_001_20221027160111300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹 대통령 “경제정책 방향은 공정한 시장질서 확립” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280744</link>
+            <guid>https://tv.naver.com/v/30280744</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_290/CKrgm_16668541957123kbEM_JPEG/cover_0000236733_001_20221027160101653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“학교 교육과정, 획기적으로 디지털화 해야” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280709</link>
+            <guid>https://tv.naver.com/v/30280709</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[11:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_90/acx8k_1666854454915d7m8u_JPEG/cover_0000236732_001_20221027160001857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 속 관광산업 활성화 방안 논의 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280646</link>
+            <guid>https://tv.naver.com/v/30280646</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[7:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_56/LBZeD_1666854197614dkmrS_JPEG/cover_0000236731_001_20221027155901588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“중소기업 경영 안정 및 혁신 위한 50조 공급” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280543</link>
+            <guid>https://tv.naver.com/v/30280543</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[12:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_20/cn0r4_16668543053307dnHe_JPEG/cover_0000236730_001_20221027155701659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해외 건설·인프라 관련 수주 확대 방안 논의 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280421</link>
+            <guid>https://tv.naver.com/v/30280421</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[11:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_263/d6HDs_1666853973839SgGEs_JPEG/cover_0000236729_001_20221027155401816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세모자 살인사건…용의자 남편 체포 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280393</link>
+            <guid>https://tv.naver.com/v/30280393</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_66/qqqOp_1666853619085NzmyM_JPEG/1666853577111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이차전지, 현재 수주금액 560조 달해…“키워나갈 핵심 전력” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280295</link>
+            <guid>https://tv.naver.com/v/30280295</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[23:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_90/YXkht_1666854084583rmME5_JPEG/cover_0000236728_001_20221027155101623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[추경호 부총리, 경제활성화 추진 방향 보고 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280216</link>
+            <guid>https://tv.naver.com/v/30280216</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_17/W4kRu_1666853463372ECnNK_JPEG/cover_0000236727_001_20221027154901656.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[尹 대통령 주재 비상경제민생회의 개최 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30280156</link>
+            <guid>https://tv.naver.com/v/30280156</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[5:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_68/g47FM_16668533574354XQaq_JPEG/cover_0000236726_001_20221027154701610.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마동석, 작년부터 유부남…‘6년 열애’ 예정화와 혼인신고 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276250</link>
+            <guid>https://tv.naver.com/v/30276250</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_273/RlmiD_16668467766888QS7W_JPEG/cover_0000236714_001_20221027135757902.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김연아, 시아버지 축사에 빵 터진 이유? (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276246</link>
+            <guid>https://tv.naver.com/v/30276246</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_196/1Z4C0_1666846770356Gdvom_JPEG/cover_0000236713_001_20221027135748820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[野 ‘서해 공무원·북송 사건’ 반박 회견…文 외교라인 첫 기자회견 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276245</link>
+            <guid>https://tv.naver.com/v/30276245</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_136/LSRHx_1666846734120iilcU_JPEG/cover_0000236705_001_20221027135740566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재용, 10년 만에 삼성전자 회장 승진 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276239</link>
+            <guid>https://tv.naver.com/v/30276239</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_226/EqhRE_1666846742885uu5HE_JPEG/cover_0000236704_001_20221027135732442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김의겸이 쏘아올린 ‘한동훈 술자리’ 파장 계속 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276235</link>
+            <guid>https://tv.naver.com/v/30276235</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_289/fZAnl_1666846747007CGlbF_JPEG/cover_0000236710_001_20221027135722854.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조상준 돌연 사퇴에…尹 “일신상의 이유” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276228</link>
+            <guid>https://tv.naver.com/v/30276228</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_277/9j24J_16668467173240E5bo_JPEG/cover_0000236711_001_20221027135713864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“부모가 개돼지로 키워”…교사 폭언에 등교 거부 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276223</link>
+            <guid>https://tv.naver.com/v/30276223</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_55/xHvlI_1666846681664XkBFX_JPEG/cover_0000236712_001_20221027135705487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유동규 “2020년에도 돈 줬다…명절에는 고가 선물” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276210</link>
+            <guid>https://tv.naver.com/v/30276210</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[6:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_68/IaiPh_1666846800284vOS3B_JPEG/cover_0000236708_001_20221027135652130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명, ‘촛불’에 호소…“정권 끌어내린 국민” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276203</link>
+            <guid>https://tv.naver.com/v/30276203</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[9:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_16/zIIm8_16668469218352gc6w_JPEG/cover_0000236709_001_20221027135632790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, ‘유동규 폰’ 복구…“안 좋은 마음먹지 마라” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276193</link>
+            <guid>https://tv.naver.com/v/30276193</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[11:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_210/yjmpw_16668468731413hxp4_JPEG/cover_0000236706_001_20221027135612961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김용 “광주에 돈 뿌려야 한다”…호남 공략 위해 20억 요구? (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276186</link>
+            <guid>https://tv.naver.com/v/30276186</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_164/1hlJ3_1666846660882qKE4v_JPEG/cover_0000236707_001_20221027135601874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨]완연한 가을 날씨…화재 사고 유의해야 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276158</link>
+            <guid>https://tv.naver.com/v/30276158</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_217/Gm5MQ_1666846547911kjb9L_JPEG/cover_0000236717_001_20221027135518629.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[경제 톡톡톡]공정위 “유니클로 에어리즘 제품 거짓·과장광고”…과징금 부과 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276155</link>
+            <guid>https://tv.naver.com/v/30276155</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_130/jT1U9_16668465726087BBPA_JPEG/cover_0000236716_001_20221027135510847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박수홍 돈으로 박수홍과 소송한 친형 부부? (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30276148</link>
+            <guid>https://tv.naver.com/v/30276148</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221027_67/hzKM7_1666846594339pRFrM_JPEG/cover_0000236715_001_20221027135501681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[팩트맨]마약김밥, 마약베개…이제부터 사용 금지? (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30259509</link>
+            <guid>https://tv.naver.com/v/30259509</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_127/tyDTY_1666788479879XiBk0_JPEG/cover_0000236675_001_20221026214701640.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초등생 제자 향해 “개돼지” 언어폭력…학생들, 등교 거부 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30259073</link>
+            <guid>https://tv.naver.com/v/30259073</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_140/USfv0_1666787521833T7wdk_JPEG/cover_0000236673_001_20221026213101657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여랑야랑]김의겸, 상의 없이 / 여야의 물귀신 작전? (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30258093</link>
+            <guid>https://tv.naver.com/v/30258093</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[4:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_105/Pd0Wd_1666785390066DwkXK_JPEG/cover_0000236668_001_20221026205401810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장 카메라]정어리 폐사 부른 ‘죽음의 해역’ 커진다 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30257775</link>
+            <guid>https://tv.naver.com/v/30257775</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_35/QmquA_1666784463715NLUOa_JPEG/cover_0000236677_001_20221026203846605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“안 좋은 마음 먹지 말고”…유동규, ‘대장동 형제들’ 50차례 통화 시도 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30257771</link>
+            <guid>https://tv.naver.com/v/30257771</guid>
+            <pubDate>Thu, 27 Oct 2022 08:33:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221026_248/aMcAy_1666784438022t70NI_JPEG/cover_0000236659_001_20221026203837194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
