@@ -1,7 +1,491 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-29T11:20:36.161Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 29 Oct 2022 12:42:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미니다큐] 아름다운 사람들 - 235회 : 봉사는 나의 인생 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339982</link>
+            <guid>https://tv.naver.com/v/30339982</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[11:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_143/ogPJP_1667045311006hboA6_JPEG/cover_cover_MYH20221028012600038_20221029210102699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한반도 브리핑] 북한, NLL 침범…2주 만에 탄도미사일 발사 재개 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338067</link>
+            <guid>https://tv.naver.com/v/30338067</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[13:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_184/lAael_1667038359786qpqkD_JPEG/cover_cover_MYH20221029009700038_20221029190702734.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 휴일 내륙 맑고 일교차 커…동해안 산발적 비 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30338005</link>
+            <guid>https://tv.naver.com/v/30338005</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_206/QG87D_1667037808531sJN3H_JPEG/cover_cover_MYH20221029009600038_20221029190302265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴란드 원전 사업 결국 미국으로…한수원 '고배' (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337513</link>
+            <guid>https://tv.naver.com/v/30337513</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_298/PmAG0_1667035691349wbMlC_JPEG/cover_cover_MYH20221029009500641_20221029182702270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3년만의 '노마스크 핼러윈'…이태원 구름인파 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337465</link>
+            <guid>https://tv.naver.com/v/30337465</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_24/ynmWx_16670355084207qLh9_JPEG/cover_cover_MYH20221029009400641_20221029182402724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사흘 연속 3만 명대 확진…핼러윈·단풍 절정 여파는 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337422</link>
+            <guid>https://tv.naver.com/v/30337422</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_173/pzper_1667035316545IvIdQ_JPEG/cover_cover_MYH20221029009300641_20221029182102143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美, 북한과 군축협상 가능성 일축…"완전한 비핵화" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337407</link>
+            <guid>https://tv.naver.com/v/30337407</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_209/rOWfj_1667035269283lz23T_JPEG/cover_cover_MYH20221029009200038_20221029182002752.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지진 발생시 행동 요령…"머리 보호하며 안전한 곳으로 이동" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337395</link>
+            <guid>https://tv.naver.com/v/30337395</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_110/LW89N_166703520012029j76_JPEG/cover_cover_MYH20221029009100641_20221029181902313.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충북 역대 가장 센 지진…"주변 활성단층 여부 살펴야" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337352</link>
+            <guid>https://tv.naver.com/v/30337352</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_220/7OQxB_16670350331298OLpj_JPEG/cover_cover_MYH20221029009000641_20221029181602816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중대본 가동·비상근무…"지진 관련 신고 168건" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337327</link>
+            <guid>https://tv.naver.com/v/30337327</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_211/zyt0v_1667034877334XEEH3_JPEG/cover_cover_MYH20221029008900038_20221029181405729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['꽝' 소리 나고 몸이 떨려…지진에 전국이 '화들짝' (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337293</link>
+            <guid>https://tv.naver.com/v/30337293</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_227/qUnxK_1667034810905zC7A0_JPEG/cover_cover_MYH20221029008800641_20221029181202462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충북 괴산 규모 4.1 지진…올해 가장 큰 규모 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337260</link>
+            <guid>https://tv.naver.com/v/30337260</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_287/zON8w_1667034679999yT8SQ_JPEG/cover_cover_MYH20221029008700641_20221029181002884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 휴일도 일교차 큰 가을 날씨…밤사이 내륙 안개 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337011</link>
+            <guid>https://tv.naver.com/v/30337011</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_106/FwVw4_1667033497968KYKY8_JPEG/cover_cover_MYH20221029008600038_20221029175102287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자들의 수다] 시정연설 '보이콧'…여야 "헌정사 최초" 맞불 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30337002</link>
+            <guid>https://tv.naver.com/v/30337002</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[16:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_187/lmr2b_1667033979673yAybj_JPEG/cover_cover_MYH20221029008500038_20221029175002997.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사흘 연속 3만 명대 확진…핼러윈·단풍 절정 여파는 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30336935</link>
+            <guid>https://tv.naver.com/v/30336935</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_179/oeaPQ_1667033165107MGt2V_JPEG/cover_cover_MYH20221029008400641_20221029174503115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연쇄 성폭행범 박병화 곧 출소…수원주민들 항의집회 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30336869</link>
+            <guid>https://tv.naver.com/v/30336869</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_282/5pPEV_1667032711617sehCP_JPEG/cover_cover_MYH20221029008300038_20221029173803091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스1번지] '술자리 의혹' 공방 격화 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30336551</link>
+            <guid>https://tv.naver.com/v/30336551</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[30:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_231/GVlDv_1667031513379zau3X_JPEG/cover_cover_MYH20221029008000038_20221029171602677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국 건축물 내진율 15% 불과…노후주택 사각지대 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30336521</link>
+            <guid>https://tv.naver.com/v/30336521</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_213/BSgMk_1667031313596mDDC4_JPEG/cover_cover_MYH20221029008200641_20221029171402548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['꽝' 소리 나고 몸이 떨려…지진에 전국이 '화들짝' (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30336510</link>
+            <guid>https://tv.naver.com/v/30336510</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_38/3oqxH_1667031258096i3BYS_JPEG/cover_cover_MYH20221029008100641_20221029171302366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 주말 완연한 가을…내륙 일교차 유의 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30336223</link>
+            <guid>https://tv.naver.com/v/30336223</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_215/yrBCy_16670300146423nQYb_JPEG/cover_cover_MYH20221029007900038_20221029165302144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충북 괴산 규모 4.1 지진…올해 가장 큰 규모 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30335747</link>
+            <guid>https://tv.naver.com/v/30335747</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_210/ncLcg_16670278922827s6Ql_JPEG/cover_cover_MYH20221029007600641_20221029161702919.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[판교 신축공사장서 60대 근로자 장비에 깔려 숨져 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30335635</link>
+            <guid>https://tv.naver.com/v/30335635</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_202/jKEU6_1667027428224vh1da_JPEG/cover_cover_MYH20221029007400038_20221029161002721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10개월 만에 규모 4 넘는 강진…역대 38번째 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30335616</link>
+            <guid>https://tv.naver.com/v/30335616</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_100/grQeS_1667027405633wSM3q_JPEG/cover_cover_MYH20221029007300641_20221029160902346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국토부, 철도·도로·건설현장 지진 피해 점검 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30335593</link>
+            <guid>https://tv.naver.com/v/30335593</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_126/QnEHV_166702730395120hof_JPEG/cover_cover_MYH20221029007200038_20221029160802814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여야, 괴산 지진에 "피해 예방 만전에 최우선" 한목소리 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30335569</link>
+            <guid>https://tv.naver.com/v/30335569</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_69/03KEW_16670272476662oqRj_JPEG/cover_cover_MYH20221029007100038_20221029160702450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 주말 내륙 맑고 큰 일교차…동해안 빗방울 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30335181</link>
+            <guid>https://tv.naver.com/v/30335181</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_190/sbYkl_1667026082349gEeO7_JPEG/cover_cover_MYH20221029007500038_20221029154702143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내륙 맑고 동해안 빗방울…대기 갈수록 건조 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30334154</link>
+            <guid>https://tv.naver.com/v/30334154</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_96/vF3ha_1667022719674FA2dX_JPEG/cover_cover_MYH20221029007000038_20221029145102378.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BTS 진, 입대 심경 토로…"귀국 며칠내 서류 작성" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30334123</link>
+            <guid>https://tv.naver.com/v/30334123</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_87/DBS7o_1667022565542APfhB_JPEG/cover_cover_MYH20221029006900038_20221029144902808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["프로모터와 문제"…MLB, 다음달 월드투어 취소 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30334106</link>
+            <guid>https://tv.naver.com/v/30334106</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_109/ZGvdb_1667022812009ORQzj_JPEG/cover_cover_MYH20221029006800038_20221029144801869.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지진 발생시 행동 요령…"머리 보호하며 안전한 곳으로 이동" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30334070</link>
+            <guid>https://tv.naver.com/v/30334070</guid>
+            <pubDate>Sat, 29 Oct 2022 12:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_242/YeIL8_1667022369712e6vOk_JPEG/cover_cover_MYH20221029006600641_20221029144502288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지진에 놀란 괴산 주민들…“전쟁난 줄 알았다” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339182</link>
+            <guid>https://tv.naver.com/v/30339182</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_300/SyUNb_1667042205793ndEIv_JPEG/cover_0000236856_001_20221029201535221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴일 아침에 덮친 ‘규모 4.1’ 지진…전국서 신고 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339179</link>
+            <guid>https://tv.naver.com/v/30339179</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_197/bZVDE_166704221918193MsJ_JPEG/cover_0000236855_001_20221029201527414.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원인은 옥천단층?…기상청·지질연 “단층대 활성 조사” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339178</link>
+            <guid>https://tv.naver.com/v/30339178</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_242/SV7J9_1667042172501gx2kM_JPEG/cover_0000236857_001_20221029201520092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘봉화 광산 붕괴’ 지하 진입로 직접 들어간 가족들 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339176</link>
+            <guid>https://tv.naver.com/v/30339176</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_135/XSliL_1667042172465WChas_JPEG/cover_0000236858_001_20221029201512151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남욱, 대장동 재판서 “김만배, 나머진 이재명 측 지분이라고” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339171</link>
+            <guid>https://tv.naver.com/v/30339171</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_213/EAPM0_1667042169692P8E7D_JPEG/cover_0000236859_001_20221029201504016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아는 기자]“이재명 측 지분 있다”…유동규-남욱 ‘폭로 도미노’ (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339167</link>
+            <guid>https://tv.naver.com/v/30339167</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_39/zQmnQ_1667042206066JaGfc_JPEG/cover_0000236861_001_20221029201453484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유동규 “이상하니까 발 뺀다”…이재명 향해 ‘직격탄’ (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339165</link>
+            <guid>https://tv.naver.com/v/30339165</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_171/djj0n_1667042153734LTFyw_JPEG/cover_0000236860_001_20221029201445534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도심 점령한 집회 소음…기중기에 대형 스피커 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339158</link>
+            <guid>https://tv.naver.com/v/30339158</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_129/0TwK8_1667042162897s5YJV_JPEG/cover_0000236862_001_20221029201437375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여랑야랑]저격수 시즌2 / 공익신고자? (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339154</link>
+            <guid>https://tv.naver.com/v/30339154</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_275/7UZkZ_16670421929958BBiP_JPEG/cover_0000236863_001_20221029201427093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[붕어빵 1개에 1천 원…“길거리 간식 맞아?” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339151</link>
+            <guid>https://tv.naver.com/v/30339151</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_191/xo9S3_1667042132794SoeKO_JPEG/cover_0000236864_001_20221029201419083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지상 골프장·지하 물탱크…마드리드 빗물터널 서울 적용 검토 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339148</link>
+            <guid>https://tv.naver.com/v/30339148</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_120/J5GlQ_1667042109234tnIUF_JPEG/cover_0000236865_001_20221029201411509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사건을 보다]‘코리아타운 투자’ 다단계 사기 사건의 전말 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339143</link>
+            <guid>https://tv.naver.com/v/30339143</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_246/QG0vB_1667042128927PKD4q_JPEG/cover_0000236866_001_20221029201401826.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘美 서열 3위’ 펠로시 노렸나…남편, 자택서 괴한에 피습 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339135</link>
+            <guid>https://tv.naver.com/v/30339135</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_293/B6VLw_1667042090694q15As_JPEG/cover_0000236867_001_20221029201336852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[세계를 가다]목적지는 유럽인데…이집트에 발묶인 난민 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339131</link>
+            <guid>https://tv.naver.com/v/30339131</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_75/iEhpI_1667042135455rhjsr_JPEG/cover_0000236868_001_20221029201327528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정미 정의당 대표 “대장동 수사 통해 실체 밝혀야…尹 정부는 30점” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339125</link>
+            <guid>https://tv.naver.com/v/30339125</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_150/aXOJx_16670420955053tywu_JPEG/cover_0000236869_001_20221029201318001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“운동도 내 개성대로”…혼자 즐기는 피트니스센터 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339122</link>
+            <guid>https://tv.naver.com/v/30339122</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_224/sYcwf_1667042063950UxFcH_JPEG/cover_0000236870_001_20221029201309478.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨]지금 단풍 절정인 산은?…맑고 일교차 커요 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30339118</link>
+            <guid>https://tv.naver.com/v/30339118</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_189/iwiBg_1667042010122bMx5w_JPEG/cover_0000236871_001_20221029201301651.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]이재명의 남자들 2부, 故김문기와 12년 무슨 일이? (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30335573</link>
+            <guid>https://tv.naver.com/v/30335573</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[12:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_183/FiyqS_1667027469808vcnE0_JPEG/cover_0000236854_001_20221029160701615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충북 괴산서 4.1 지진…올해 가장 큰 규모 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30332150</link>
+            <guid>https://tv.naver.com/v/30332150</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221029_183/nVVuF_1667014165560wEaQr_JPEG/cover_0000236849_001_20221029122801748.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사고 당했는데 치료비 걱정…“내가 돕겠다” 쏟아진 온정의 손길 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30323409</link>
+            <guid>https://tv.naver.com/v/30323409</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_44/L7Dd4_1666957148408KKSJF_JPEG/cover_0000236834_001_20221028203801698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김용 “남욱에게 돈 받자” 상의…유-정, 전달 방법도 논의 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30323384</link>
+            <guid>https://tv.naver.com/v/30323384</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_159/98wrK_1666957102184LuE92_JPEG/cover_0000236826_001_20221028203701615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[여랑야랑]재산 순위 ‘1위’는 446억 원 / 국민의힘 특강 말말말 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30322814</link>
+            <guid>https://tv.naver.com/v/30322814</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_213/4prHJ_1666955567209GMDUu_JPEG/cover_0000236829_001_20221028201101603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉화 광산 ‘지하 190m’ 49시간째 사투…옆 갱도로 매몰지점 접근 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30322749</link>
+            <guid>https://tv.naver.com/v/30322749</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_295/hufr5_1666955358810RHXcX_JPEG/cover_0000236821_001_20221028200758790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[앵커의 마침표]무조건 싸우고 보는 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30322748</link>
+            <guid>https://tv.naver.com/v/30322748</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_150/ApTNZ_1666955297827wqhdO_JPEG/cover_0000236844_001_20221028200751192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈 “룸살롱서 쌍욕한 사람이”…민주당 겨냥 작심 발언 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30322747</link>
+            <guid>https://tv.naver.com/v/30322747</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_217/M4dDu_1666955334231ByUEH_JPEG/cover_0000236823_001_20221028200742705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1시간에 1m 진입도 어려워…“자체 구조로 신고 늦어” 사과 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30322743</link>
+            <guid>https://tv.naver.com/v/30322743</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_281/kv07t_1666955317319Gc3LY_JPEG/cover_0000236822_001_20221028200734569.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유동규 “김용에게 건넨 돈 경선자금으로 안다” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30322740</link>
+            <guid>https://tv.naver.com/v/30322740</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_126/XWzY1_1666955328917PGtfM_JPEG/cover_0000236825_001_20221028200726439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김의겸, 증거 제시 없이…“尹 대통령 사과하면 나도 사과” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30322732</link>
+            <guid>https://tv.naver.com/v/30322732</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_27/GXFkA_1666955292030dJnmn_JPEG/cover_0000236824_001_20221028200718089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정근, 돈 필요할 때마다…고위 공직자·정치인 친분 내세워 (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30322731</link>
+            <guid>https://tv.naver.com/v/30322731</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_161/JSTb0_16669552971791YiHW_JPEG/cover_0000236827_001_20221028200710258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명, 대구에서 尹 정부 실정 공격…“경제 리스크” (채널A뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30322724</link>
+            <guid>https://tv.naver.com/v/30322724</guid>
+            <pubDate>Sat, 29 Oct 2022 12:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221028_172/l82wo_16669552896982seGz_JPEG/cover_0000236828_001_20221028200702459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
