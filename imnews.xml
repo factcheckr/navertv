@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/imnews/clips</id>
-    <title>MBC뉴스 ─ 네이버TV</title>
-    <updated>2022-10-30T06:29:54.669Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/imnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 30 Oct 2022 07:22:30 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여야 긴급 회의 소집 "대책 마련 최선"]]></title>
+            <link>https://tv.naver.com/v/30351128</link>
+            <guid>https://tv.naver.com/v/30351128</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_256/Ra4hC_1667113656842vTPk6_JPEG/cover_cover__20221030_155533_1_1_Large_20221030160702487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[골목길 한꺼번에 몰리며 순식간에 아수라장]]></title>
+            <link>https://tv.naver.com/v/30350574</link>
+            <guid>https://tv.naver.com/v/30350574</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_17/jItrg_1667111624004FPXK2_JPEG/cover_cover_today_20221030_071101_1_2_Large_20221030153302203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엠빅뉴스] [사망 151?부상 82] 제보영상으로 본 이태원 참사 현장]]></title>
+            <link>https://tv.naver.com/v/30349854</link>
+            <guid>https://tv.naver.com/v/30349854</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_67/ZLgwZ_1667108610878yUP4B_JPEG/cover_cover_221030_640-1_20221030144102471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외신들 일제히 타전‥각국 정상 "애도"]]></title>
+            <link>https://tv.naver.com/v/30348679</link>
+            <guid>https://tv.naver.com/v/30348679</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_264/vaafc_166710317315101ATY_JPEG/cover_cover__20221030_130532_1_3_Large_20221030131203322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 총리 "용산구 특별재난지역 선포‥부상자 치료 총력 대응"]]></title>
+            <link>https://tv.naver.com/v/30348080</link>
+            <guid>https://tv.naver.com/v/30348080</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_219/los2O_1667100235643T3xGJ_JPEG/cover_cover__20221030_120505_1_8_Large_20221030122302172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비극 현장이 된 이태원 골목길, 이유는?]]></title>
+            <link>https://tv.naver.com/v/30347794</link>
+            <guid>https://tv.naver.com/v/30347794</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_53/fBuKr_1667098598676iO1fP_JPEG/cover_cover__20221030_114944_1_6_Large_20221030115602722.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누적 실종 신고 2,200여 건‥이 시각 한남동 주민센터]]></title>
+            <link>https://tv.naver.com/v/30347785</link>
+            <guid>https://tv.naver.com/v/30347785</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_285/pt57a_1667098526641mkktY_JPEG/cover_cover__20221030_114138_1_5_Large_20221030115502208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 대통령 "사고 수습, 국정 최우선"]]></title>
+            <link>https://tv.naver.com/v/30347663</link>
+            <guid>https://tv.naver.com/v/30347663</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_18/EvcmG_1667097768213TM99n_JPEG/cover_cover__20221030_113456_1_4_Large_20221030114203158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핼러윈 인파에 참사‥"151명 사망·82명 부상"]]></title>
+            <link>https://tv.naver.com/v/30347224</link>
+            <guid>https://tv.naver.com/v/30347224</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_202/ytd02_1667095309830WYanR_JPEG/cover_cover__20221030_105653_1_3_Large_20221030110102273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이시각 한남동 주민센터‥1천 4백 건 이상 실종 접수]]></title>
+            <link>https://tv.naver.com/v/30347020</link>
+            <guid>https://tv.naver.com/v/30347020</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_230/s0ATd_1667093668322HTTkH_JPEG/cover_cover__20221030_101238_1_8_Large_20221030103403235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시청자 제보 영상으로 본 이태원 참사‥"순식간에 넘어져"]]></title>
+            <link>https://tv.naver.com/v/30346890</link>
+            <guid>https://tv.naver.com/v/30346890</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[3:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_101/apSDh_1667092937518xQAd8_JPEG/cover_cover__20221030_100450_1_6_Large_20221030102102043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령 "오늘부터 국가애도 기간‥사고수습 할 것"]]></title>
+            <link>https://tv.naver.com/v/30346798</link>
+            <guid>https://tv.naver.com/v/30346798</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_128/PJ1CL_1667092230785aY4I4_JPEG/cover_cover_h20221029034_20221030101002983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시각 한남동 주민센터]]></title>
+            <link>https://tv.naver.com/v/30346493</link>
+            <guid>https://tv.naver.com/v/30346493</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_167/P0XpN_16670900131202mAFj_JPEG/cover_cover__20221030_092535_1_3_Large_20221030093302071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핼러윈 인파에 참사‥"149명 사망·76명 부상"]]></title>
+            <link>https://tv.naver.com/v/30346349</link>
+            <guid>https://tv.naver.com/v/30346349</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_28/1tEWI_1667088597438VFPJL_JPEG/cover_cover__20221030_090515_1_1_Large_20221030090901975.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령 "사망자 신원 신속 확인" 지시]]></title>
+            <link>https://tv.naver.com/v/30346203</link>
+            <guid>https://tv.naver.com/v/30346203</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_171/FMALJ_1667086909728A2HWh_JPEG/cover_cover__20221030_083550_1_19_Large_20221030084102640.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시각 이태원 참사 현장‥주변 통행 전면 통제]]></title>
+            <link>https://tv.naver.com/v/30346179</link>
+            <guid>https://tv.naver.com/v/30346179</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_203/sxrUq_1667086495164Q6sB9_JPEG/cover_cover__20221030_082031_1_18_Large_20221030083407208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이태원 참사' 사상자 225명‥사망 149명·부상 76명]]></title>
+            <link>https://tv.naver.com/v/30346055</link>
+            <guid>https://tv.naver.com/v/30346055</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[6:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_144/Jv0ok_1667084529000Rb6Gi_JPEG/cover_cover_today_20221030_073342_1_13_Large_20221030080002242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤새 브리핑‥사망자 눈덩이처럼 불어나]]></title>
+            <link>https://tv.naver.com/v/30346052</link>
+            <guid>https://tv.naver.com/v/30346052</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_13/kq3xb_1667084403131Hb9R9_JPEG/cover_cover_today_20221030_074759_1_17_Large_20221030075915260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수십만명 인파 예상됐는데‥대비책 있었나?]]></title>
+            <link>https://tv.naver.com/v/30346051</link>
+            <guid>https://tv.naver.com/v/30346051</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_224/lIrCT_1667084387116NwyiI_JPEG/cover_cover_today_20221030_074759_1_16_Large_20221030075908674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시청자 제보 영상]]></title>
+            <link>https://tv.naver.com/v/30346050</link>
+            <guid>https://tv.naver.com/v/30346050</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_232/dX25P_16670844093940D6vt_JPEG/cover_cover_today_20221030_073342_1_15_Large_20221030075902248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외신도 긴급뉴스, 바이든 "한국과 함께 할 것"]]></title>
+            <link>https://tv.naver.com/v/30346024</link>
+            <guid>https://tv.naver.com/v/30346024</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_183/5DiIB_1667083856206EKlPw_JPEG/cover_cover_today_20221030_073342_1_14_Large_20221030075016996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["도미노처럼 넘어져‥살려달라 아우성"]]></title>
+            <link>https://tv.naver.com/v/30346021</link>
+            <guid>https://tv.naver.com/v/30346021</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_294/MIbFD_1667083855793atiAE_JPEG/cover_cover_today_20221030_073342_1_12_Large_20221030075002361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['이태원 참사' 사상자 225명‥사망 149명·부상 76명]]></title>
+            <link>https://tv.naver.com/v/30346006</link>
+            <guid>https://tv.naver.com/v/30346006</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_158/XqDfR_1667083490930ctDA3_JPEG/cover_cover_today_20221030_072048_1_6_Large_20221030074402290.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["좁고 미끄러운 내리막길"‥참사 원인은?]]></title>
+            <link>https://tv.naver.com/v/30345994</link>
+            <guid>https://tv.naver.com/v/30345994</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_255/4BRxl_1667083246389DoPJA_JPEG/cover_cover_today_20221030_072048_1_10_Large_20221030074002482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이시각 원효로 다목적체육관]]></title>
+            <link>https://tv.naver.com/v/30345988</link>
+            <guid>https://tv.naver.com/v/30345988</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_284/jZdfg_1667083131470vOYny_JPEG/cover_cover_today_20221030_072048_1_9_Large_20221030073822475.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시각 순천향대병원]]></title>
+            <link>https://tv.naver.com/v/30345987</link>
+            <guid>https://tv.naver.com/v/30345987</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_248/Yt1qI_1667083127915Dfl5g_JPEG/cover_cover_today_20221030_072048_1_8_Large_20221030073816472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시각 이태원 참사 현장]]></title>
+            <link>https://tv.naver.com/v/30345985</link>
+            <guid>https://tv.naver.com/v/30345985</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_166/5nJXK_1667083127977b46D6_JPEG/cover_cover_today_20221030_072048_1_7_Large_20221030073809177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 핼러윈 대형 압사 소방 당국 최종 브리핑]]></title>
+            <link>https://tv.naver.com/v/30345952</link>
+            <guid>https://tv.naver.com/v/30345952</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_122/ZAJni_1667082443932u73yl_JPEG/cover_cover_today_20221030_071533_1_5_Large_20221030072629219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도로 바닥서 심폐소생‥시민들도 손 보태]]></title>
+            <link>https://tv.naver.com/v/30345951</link>
+            <guid>https://tv.naver.com/v/30345951</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_25/BsUJT_1667082425144sjOqI_JPEG/cover_cover_today_20221030_071533_1_4_Large_20221030072622637.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["살려주세요‥밀지마세요" 곳곳서 비명]]></title>
+            <link>https://tv.naver.com/v/30345949</link>
+            <guid>https://tv.naver.com/v/30345949</guid>
+            <pubDate>Sun, 30 Oct 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221030_231/MzRgU_1667082411808COext_JPEG/cover_cover_today_20221030_071314_1_3_Large_20221030072616167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
