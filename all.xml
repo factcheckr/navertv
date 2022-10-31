@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-10-31T12:53:03.885Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 31 Oct 2022 13:57:37 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385876</link>
+            <guid>https://tv.naver.com/v/30385876</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_138/XExlp_1667223564387mfgrc_JPEG/cover_0011366226_001_20221031223910732.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스9 날씨] 내일 미세먼지, 안개 주의…중부 낮까지 빗방울 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385872</link>
+            <guid>https://tv.naver.com/v/30385872</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_159/aXlEN_1667223566635odvIt_JPEG/cover_0011366225_001_20221031223901740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘좌파 대부’ 룰라 12년 만에 재집권…중남미 거센 좌파 물결 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385871</link>
+            <guid>https://tv.naver.com/v/30385871</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_23/FemMS_1667223589184vEUB8_JPEG/cover_0011366224_001_20221031223852683.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인도서 현수교 무너져 140여명 사망…축제 인파 몰려 희생 커져 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385866</link>
+            <guid>https://tv.naver.com/v/30385866</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_295/s5WwC_1667223577931iJa8I_JPEG/cover_0011366222_001_20221031223843564.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개선흐름 느려진 경기…경기둔화 시작됐나 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385863</link>
+            <guid>https://tv.naver.com/v/30385863</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_270/O3rdy_1667223564644kfrQy_JPEG/cover_0011366216_001_20221031223834619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연쇄 성폭행범 박병화 화성에 거처…화성시, 강력 반발 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385859</link>
+            <guid>https://tv.naver.com/v/30385859</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_97/Qgm8S_1667223547634W5dCD_JPEG/cover_0011366210_001_20221031223825961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉화 광산 매몰사고 엿새째…78mm 배관 시추 실패 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385852</link>
+            <guid>https://tv.naver.com/v/30385852</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_1/wOHXP_1667223559633cIvlL_JPEG/cover_0011366205_001_20221031223816542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국시리즈도 차분하게…스포츠계 애도 물결 계속 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385847</link>
+            <guid>https://tv.naver.com/v/30385847</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_274/s6ubo_1667223549757z58Nl_JPEG/cover_0011366203_001_20221031223810611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 경찰에 민간 인력까지 총동원…“핼러윈 사고 막아라” (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385845</link>
+            <guid>https://tv.naver.com/v/30385845</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_203/bhHDI_16672235488184suJH_JPEG/cover_0011366199_001_20221031223801562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핼러윈 D-day…싸늘하게 가라앉은 ‘축제 분위기’ (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385837</link>
+            <guid>https://tv.naver.com/v/30385837</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_203/iL5bo_1667223531110KTTbE_JPEG/cover_0011366195_001_20221031223751982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트라우마 치료에도 골든타임 “초기 대응 중요” (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385833</link>
+            <guid>https://tv.naver.com/v/30385833</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_263/ZdPqr_1667223512101Q7oDG_JPEG/cover_0011366178_001_20221031223743096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[병원 이송에 1시간…“매뉴얼 제대로 작동했나” (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385828</link>
+            <guid>https://tv.naver.com/v/30385828</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_224/06ocG_1667223502950ozs02_JPEG/cover_0011366174_001_20221031223732819.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당 서영석 의원 당원 워크숍 술자리…李 “감찰 지시” (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385823</link>
+            <guid>https://tv.naver.com/v/30385823</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_3/c9OIv_1667223481371U9sAC_JPEG/cover_0011366155_001_20221031223722961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여야 ‘애도’ 속 ‘이상민 발언’ 질타…‘예고된 인재’ 비판도 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385821</link>
+            <guid>https://tv.naver.com/v/30385821</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_249/Zhbt4_1667223490189V7Y90_JPEG/cover_0011366150_001_20221031223713117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주최 없는 축제 매뉴얼 어떻게?…“일본도 4년 걸려” (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385814</link>
+            <guid>https://tv.naver.com/v/30385814</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_149/8t8B5_1667223478484QEqcx_JPEG/cover_0011366140_001_20221031223703876.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령 조문…“철저한 진상조사, 주최자 없는 행사 안전대책 마련” (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385803</link>
+            <guid>https://tv.naver.com/v/30385803</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_83/tzqtD_1667223460327R7JWg_JPEG/cover_0011366139_001_20221031223654106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외신, “안전 관리에 의문” 제기…“250명 당 1명 관리자 있어야” (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385795</link>
+            <guid>https://tv.naver.com/v/30385795</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_238/Z4Ui4_1667223451664eaKTV_JPEG/cover_0011366135_001_20221031223644657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인근 CCTV에 담긴 ‘긴박한 순간’…“누군가 밀었다” 경찰 수사 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385788</link>
+            <guid>https://tv.naver.com/v/30385788</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_57/vwkr4_1667223507287xV45f_JPEG/cover_0011366134_001_20221031223634524.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“떡볶이를 좋아했던 친구”…외국인 유족들 ‘슬픈 한국행’ (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385783</link>
+            <guid>https://tv.naver.com/v/30385783</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_30/cX4rs_1667223437632Bmm7I_JPEG/cover_0011366133_001_20221031223625024.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[“10년 만에 얻은 딸이었는데”…믿기지 않은 이별들 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385776</link>
+            <guid>https://tv.naver.com/v/30385776</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_63/ACAdg_1667223436821ijDsp_JPEG/cover_0011366132_001_20221031223615033.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“제발 살아라. 부탁이야” 친구들 애끓는 문자에도… (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385773</link>
+            <guid>https://tv.naver.com/v/30385773</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_55/S8IAU_1667223416058UiNvb_JPEG/cover_0011366131_001_20221031223605972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수도권 병원 40여 곳 분산 이송…검찰 “전원 검시 완료” (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385770</link>
+            <guid>https://tv.naver.com/v/30385770</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_262/3N2jk_1667223394150xYfmC_JPEG/cover_0011366129_001_20221031223556662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시각 이태원…추모 발길 이어져 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385765</link>
+            <guid>https://tv.naver.com/v/30385765</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_243/SA46l_1667223409770Q7vo2_JPEG/cover_0011366128_001_20221031223546820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중학생 1명·고등학생 5명 사망…“안전 교육 보완” (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385761</link>
+            <guid>https://tv.naver.com/v/30385761</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_181/uie9O_1667223396172Py9Fa_JPEG/cover_0011366127_001_20221031223537751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“내 자식·내 친구 같아서요”…온·오프라인 추모 물결 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385759</link>
+            <guid>https://tv.naver.com/v/30385759</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_140/yCFAy_1667223377536PEDXM_JPEG/cover_0011366126_001_20221031223527818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“어렵게 취업한 딸인데”…전국에 애도 물결 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385755</link>
+            <guid>https://tv.naver.com/v/30385755</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_34/E9Zuv_1667223361157zEm2T_JPEG/cover_0011366125_001_20221031223517966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울광장 등 25개 자치구에 분향소…장례비 1,500만 원 지원 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385749</link>
+            <guid>https://tv.naver.com/v/30385749</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_157/LzVVY_1667223381725mK1HK_JPEG/cover_0011366124_001_20221031223507952.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스9 헤드라인] (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385741</link>
+            <guid>https://tv.naver.com/v/30385741</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_297/BkvAc_1667223344779Wm6dQ_JPEG/cover_0011366201_001_20221031223501534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에너지공대 캠퍼스 조성 ‘2,071억 원’ 공사 발주 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385525</link>
+            <guid>https://tv.naver.com/v/30385525</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_286/QiEbC_16672227368528RYUs_JPEG/cover_0011366221_001_20221031222523678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[광주시의회·전남도의회 다음 달 행정사무감사 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30385523</link>
+            <guid>https://tv.naver.com/v/30385523</guid>
+            <pubDate>Mon, 31 Oct 2022 13:56:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221031_21/YSRLB_1667222736841nJGJQ_JPEG/cover_0011366220_001_20221031222518229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
