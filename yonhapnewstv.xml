@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-11-03T21:19:46.141Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 03 Nov 2022 22:21:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[AM-PM] 국회 국방위, '북한 미사일 도발' 긴급 현안보고 外]]></title>
+            <link>https://tv.naver.com/v/30479234</link>
+            <guid>https://tv.naver.com/v/30479234</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_228/zLB6i_1667513699886wawB2_JPEG/cover_cover_MYH20221104000600038_20221104071402292.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 올가을 들어 가장 추운 출근길…곳곳 영하권 추위]]></title>
+            <link>https://tv.naver.com/v/30479209</link>
+            <guid>https://tv.naver.com/v/30479209</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_87/nR2bm_1667513559011hNk2e_JPEG/cover_cover_MYH20221104000500038_20221104071202331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미 국방 "美전략자산, 필요따라 적시 전개"]]></title>
+            <link>https://tv.naver.com/v/30478801</link>
+            <guid>https://tv.naver.com/v/30478801</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_147/H1K1x_1667509360884ztgIM_JPEG/cover_cover_MYH20221104000400640_20221104060102249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[美, 대북제재 위반자 첫 현상수배…최대 71억 지급]]></title>
+            <link>https://tv.naver.com/v/30478750</link>
+            <guid>https://tv.naver.com/v/30478750</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_2/7uQyr_1667508626153ODarA_JPEG/cover_cover_MYH20221104000300640_20221104055002519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이종섭 "전술핵 한반도 재배치 고려 안해"]]></title>
+            <link>https://tv.naver.com/v/30478736</link>
+            <guid>https://tv.naver.com/v/30478736</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_265/ELyoK_1667508323841q2BAl_JPEG/cover_cover_MYH20221104000200640_20221104054502154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북, ICBM 발사…한미 훈련 연장엔 심야 무력 도발]]></title>
+            <link>https://tv.naver.com/v/30478715</link>
+            <guid>https://tv.naver.com/v/30478715</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221104_161/5RagU_1667507981236w0aNR_JPEG/cover_cover_MYH20221104000100640_20221104053802424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[합참 "북, 탄도미사일 3발 발사"…오늘만 6발째]]></title>
+            <link>https://tv.naver.com/v/30474419</link>
+            <guid>https://tv.naver.com/v/30474419</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_221/Tdz59_1667483693354nONC3_JPEG/cover_cover_MYH20221103021600641_20221103225402360.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특수본, 압수수색 자료 분석…초동조치 집중조사]]></title>
+            <link>https://tv.naver.com/v/30474258</link>
+            <guid>https://tv.naver.com/v/30474258</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_14/2rm1t_1667483413743J3r5Y_JPEG/cover_cover_MYH20221103021500641_20221103224902196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 올가을 들어 가장 추워…대기 차츰 건조]]></title>
+            <link>https://tv.naver.com/v/30474095</link>
+            <guid>https://tv.naver.com/v/30474095</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_175/GgkfZ_1667483089118nJLcG_JPEG/cover_cover_MYH20221103021400038_20221103224402452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[복지부, '마음안심버스' 확대…심리지원 강화]]></title>
+            <link>https://tv.naver.com/v/30474025</link>
+            <guid>https://tv.naver.com/v/30474025</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_158/N6Nzk_1667482949285kYfb2_JPEG/cover_cover_MYH20221103021300038_20221103224202572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["그 손 놓지 않았다면"…트라우마 시달리는 생존자들]]></title>
+            <link>https://tv.naver.com/v/30473976</link>
+            <guid>https://tv.naver.com/v/30473976</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_16/zoYwN_1667482885330OPhpu_JPEG/cover_cover_MYH20221103021200641_20221103224002869.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시민단체 "참사 수습해야할 때 민간 사찰" 반발]]></title>
+            <link>https://tv.naver.com/v/30473935</link>
+            <guid>https://tv.naver.com/v/30473935</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_143/REiDJ_1667482776126gLma4_JPEG/cover_cover_MYH20221103021100038_20221103223902242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예방대책 부재에 부실대응까지…국가배상 가능성은]]></title>
+            <link>https://tv.naver.com/v/30473906</link>
+            <guid>https://tv.naver.com/v/30473906</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_48/xD3VU_1667482754379aivdM_JPEG/cover_cover_MYH20221103021000641_20221103223802411.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 합참 "북, 오후 9시 35분쯤 탄도미사일 3발 추가 발사"]]></title>
+            <link>https://tv.naver.com/v/30473676</link>
+            <guid>https://tv.naver.com/v/30473676</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_218/0AEOA_1667482296145Vz72C_JPEG/cover_cover_MYH20221103020900038_20221103223102182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스특보] 북, 이번엔 ICBM 발사…추가 도발 가능성은?]]></title>
+            <link>https://tv.naver.com/v/30473644</link>
+            <guid>https://tv.naver.com/v/30473644</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[17:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_255/6XFPk_16674827097138l3CT_JPEG/cover_cover_MYH20221103020800038_20221103223002559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상구성] 북한 연쇄 도발…ICBM 미사일 발사]]></title>
+            <link>https://tv.naver.com/v/30472806</link>
+            <guid>https://tv.naver.com/v/30472806</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_279/Qox4W_1667480503438GiTl3_JPEG/cover_cover_MYH20221103020700038_20221103220102417.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 합참 "북, 동해상으로 탄도미사일 발사"]]></title>
+            <link>https://tv.naver.com/v/30472545</link>
+            <guid>https://tv.naver.com/v/30472545</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_84/NzrXN_1667479881061vh9yP_JPEG/cover_cover_MYH20221103020600038_20221103215102399.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 아침 서울 0도…올가을 들어 가장 추워]]></title>
+            <link>https://tv.naver.com/v/30472242</link>
+            <guid>https://tv.naver.com/v/30472242</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_241/fE9L5_1667478997514kRrHz_JPEG/cover_cover_MYH20221103020200038_20221103213602640.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["원팀에서 벗어나는 선수 엄벌"…강인권, NC 감독 취임]]></title>
+            <link>https://tv.naver.com/v/30472156</link>
+            <guid>https://tv.naver.com/v/30472156</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_191/admBv_1667478861922o24NF_JPEG/cover_cover_MYH20221103020100038_20221103213302081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 상황관리관 자리 비운 사이 이태원 신고만 195건]]></title>
+            <link>https://tv.naver.com/v/30472127</link>
+            <guid>https://tv.naver.com/v/30472127</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_148/YwGDA_1667478782639mfRqX_JPEG/cover_cover_MYH20221103015300641_20221103213202590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["생존 소식 만이라도"…봉화 광산 타공 성공·성과는 아직]]></title>
+            <link>https://tv.naver.com/v/30472065</link>
+            <guid>https://tv.naver.com/v/30472065</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_68/IpfE1_1667478696125B1Jpe_JPEG/cover_cover_MYH20221103020000641_20221103213002586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일상화된 '과밀문화'…"경각심 가져야"]]></title>
+            <link>https://tv.naver.com/v/30471824</link>
+            <guid>https://tv.naver.com/v/30471824</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_205/2UiA0_166747811713808SKq_JPEG/cover_cover_MYH20221103019900641_20221103212002592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 계열사, 사회안전시스템 구축에 50억원 기부]]></title>
+            <link>https://tv.naver.com/v/30471772</link>
+            <guid>https://tv.naver.com/v/30471772</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_292/OfUaR_1667477903060Eg9qv_JPEG/cover_cover_MYH20221103019800038_20221103211802604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주, 국정조사 추진 공식화…"파면·경질·사과하라"]]></title>
+            <link>https://tv.naver.com/v/30471745</link>
+            <guid>https://tv.naver.com/v/30471745</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_214/1KHJy_1667477896434uKjsG_JPEG/cover_cover_MYH20221103019700641_20221103211702244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘, '선수습' 강조…'국정조사'엔 선 긋기]]></title>
+            <link>https://tv.naver.com/v/30471690</link>
+            <guid>https://tv.naver.com/v/30471690</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_174/V4LYg_1667477768586SqrzQ_JPEG/cover_cover_MYH20221103019600641_20221103211504697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통합지원센터 설치…'셀프수사' 논란엔 "의혹 남으면 다른 방안도"]]></title>
+            <link>https://tv.naver.com/v/30471639</link>
+            <guid>https://tv.naver.com/v/30471639</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_11/wXI0B_1667477640314j24Dr_JPEG/cover_cover_MYH20221103019500038_20221103211302316.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1분1초 급한데…긴급문자 늦게받은 행안장관]]></title>
+            <link>https://tv.naver.com/v/30471551</link>
+            <guid>https://tv.naver.com/v/30471551</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_12/KZ30V_1667477469834Mhhor_JPEG/cover_cover_MYH20221103019300641_20221103210902180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 북한 박정천 "한미 공중훈련 연장, 엄청난 실수"]]></title>
+            <link>https://tv.naver.com/v/30471374</link>
+            <guid>https://tv.naver.com/v/30471374</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_224/pCuxS_1667476827957joNLj_JPEG/cover_cover_MYH20221103019200038_20221103210002740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日 공휴일 아침에 피난경보…1시간 뒤 "상공 통과안해"]]></title>
+            <link>https://tv.naver.com/v/30471352</link>
+            <guid>https://tv.naver.com/v/30471352</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_299/Ea5qO_1667476822795Q9lfA_JPEG/cover_cover_MYH20221103019100038_20221103205902711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천궁 미사일 교신 불량 속 자폭…패트리엇은 오류로 발사 실패]]></title>
+            <link>https://tv.naver.com/v/30471265</link>
+            <guid>https://tv.naver.com/v/30471265</guid>
+            <pubDate>Thu, 03 Nov 2022 22:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_2/m1JRS_1667476636649NuDqx_JPEG/cover_cover_MYH20221103019000038_20221103205602628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
