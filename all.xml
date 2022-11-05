@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-11-05T11:18:38.388Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 05 Nov 2022 12:40:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[한반도 브리핑] 북한 탄도미사일 NLL 이남에 날아와…ICBM 발사도 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30515628</link>
+            <guid>https://tv.naver.com/v/30515628</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[15:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_25/2SRST_1667644167276ttQr9_JPEG/cover_cover_MYH20221105009600038_20221105192302014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스특보] 소방청 "10시15분 이전 사고 현장서 1건 신고" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30515305</link>
+            <guid>https://tv.naver.com/v/30515305</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[19:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_102/9CsoC_1667643011114jHM7v_JPEG/cover_cover_MYH20221105009400038_20221105190202853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미일 등 장외성명…"北ICBM, 안보리 의지 시험" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30515205</link>
+            <guid>https://tv.naver.com/v/30515205</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_202/a3bmh_1667642277319JxNfm_JPEG/cover_cover_MYH20221105009300038_20221105185702193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北 놓고 갈라진 서방 vs 중·러…안보리 또 빈손 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30515163</link>
+            <guid>https://tv.naver.com/v/30515163</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_167/DaU32_1667642109429Et6Jh_JPEG/cover_cover_MYH20221105009200641_20221105185402781.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["北 핵실험 신속·강력 대응"…국제사회 일제히 경고 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30515107</link>
+            <guid>https://tv.naver.com/v/30515107</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_136/vR2L0_1667641868648Iv3iL_JPEG/cover_cover_MYH20221105009100038_20221105185002533.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미 연합공중훈련 오늘 종료…전략폭격기 B-1B 참가 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30515073</link>
+            <guid>https://tv.naver.com/v/30515073</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_29/m8zzB_1667641706957Vbgtk_JPEG/cover_cover_MYH20221105009000038_20221105184802408.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 단거리 미사일 4발 발사…한미 공중훈련 반발 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30515055</link>
+            <guid>https://tv.naver.com/v/30515055</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_45/1fPQ7_16676416469828BgqB_JPEG/cover_cover_MYH20221105008900038_20221105184701682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴전 끝낸 여야…'이태원 참사' 국정조사 놓고 격돌 예고 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30514739</link>
+            <guid>https://tv.naver.com/v/30514739</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_119/VfLwn_1667640200035G3y5G_JPEG/cover_cover_MYH20221105008600641_20221105182202630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 오늘 오전 서해상에 단거리 미사일 4발 발사 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30514725</link>
+            <guid>https://tv.naver.com/v/30514725</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_110/sY2jv_1667640124702hUy6r_JPEG/cover_cover_MYH20221105008400641_20221105182102061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애도기간 마지막 날 추모 물결…희생자 영원한 안식 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30514668</link>
+            <guid>https://tv.naver.com/v/30514668</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_69/UsDRy_1667639854230F5GuY_JPEG/cover_cover_MYH20221105008500641_20221105181602666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 낮 평년 기온 회복…월요일 중부 '비' (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30514377</link>
+            <guid>https://tv.naver.com/v/30514377</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_147/BzSBq_16676385383478MbOs_JPEG/cover_cover_MYH20221105008300038_20221105175502274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[녹취구성] 생환 광부 "배터리 소진돼 깜박일 때 두려움 밀려와" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30514362</link>
+            <guid>https://tv.naver.com/v/30514362</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_136/dKHin_1667638549396Y77CH_JPEG/cover_cover_MYH20221105008200038_20221105175402817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 오늘 오전 서해상에 단거리 미사일 4발 발사 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30514253</link>
+            <guid>https://tv.naver.com/v/30514253</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_269/muzOu_1667638024121pHdBj_JPEG/cover_cover_MYH20221105008100641_20221105174602307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[청주 가금농장 2곳서 AI…고병원성 여부 검사중 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30514054</link>
+            <guid>https://tv.naver.com/v/30514054</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_167/kNIAI_1667637272907zpwnY_JPEG/cover_cover_MYH20221105008000038_20221105173403124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한산 족두리봉서 화재…소방헬기 출동해 진화 작업 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30513971</link>
+            <guid>https://tv.naver.com/v/30513971</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_105/Zg815_1667636962432Q8nDP_JPEG/cover_cover_MYH20221105007900038_20221105172902262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휴전 끝낸 여야…'이태원 참사' 국정조사 놓고 격돌 예고 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30513929</link>
+            <guid>https://tv.naver.com/v/30513929</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_111/Csceq_1667636831191q8EiC_JPEG/cover_cover_MYH20221105007700641_20221105172602678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 북한, 오늘 오전 서해상으로 SRBM 4발 발사 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30513918</link>
+            <guid>https://tv.naver.com/v/30513918</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_283/G3bG0_1667636735246EarQA_JPEG/cover_cover_MYH20221105007800038_20221105172502224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤대통령 "미안한 마음 영원히…무한한 책임감" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30513735</link>
+            <guid>https://tv.naver.com/v/30513735</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_103/ohFpX_1667635985286MALgY_JPEG/cover_cover_MYH20221105007600641_20221105171202715.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["이태원 119신고 밤 10시15분 이전에도 있었다" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30513682</link>
+            <guid>https://tv.naver.com/v/30513682</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_56/yvbjj_1667635711461NdDD2_JPEG/cover_cover_MYH20221105007500038_20221105170802472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스1번지] 여야 '이태원 참사' 국정조사 대치 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30513668</link>
+            <guid>https://tv.naver.com/v/30513668</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[29:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_248/5a2FZ_16676364664226E6dr_JPEG/cover_cover_MYH20221105007400038_20221105170702331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 아침까지 초겨울 추위…낮 평년 기온 회복 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30513486</link>
+            <guid>https://tv.naver.com/v/30513486</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_271/FWBKz_1667634998199IOfs7_JPEG/cover_cover_MYH20221105007300038_20221105165602694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한총리 "조사 결과 따라 엄중 조치…국민께 소상히 설명" (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30512843</link>
+            <guid>https://tv.naver.com/v/30512843</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_65/liwNI_1667632646573j8YhY_JPEG/cover_cover_MYH20221105007100038_20221105161702147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 주말 초겨울 추위…내일 낮부터 추위 풀려 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30512506</link>
+            <guid>https://tv.naver.com/v/30512506</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_269/lbbZ5_1667631485119IDdBl_JPEG/cover_cover_MYH20221105007000038_20221105155702197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한 지붕 두 은행에 LP듣는 지점도…달라지는 은행들 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30512482</link>
+            <guid>https://tv.naver.com/v/30512482</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_5/A8GGh_16676313734173JzEu_JPEG/cover_cover_MYH20221105006800038_20221105155502153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한산 족두리봉서 화재…소방헬기 출동해 진화 작업 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30512393</link>
+            <guid>https://tv.naver.com/v/30512393</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_26/Y60T9_1667630955572QPEk6_JPEG/cover_cover_MYH20221105006900038_20221105154902142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한 푼이 아쉽다"…포인트로 '슬기로운 소비생활' (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30512381</link>
+            <guid>https://tv.naver.com/v/30512381</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_284/y3ZVk_1667630949763Tn8l2_JPEG/cover_cover_MYH20221105006700641_20221105154802541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[G7, 러 원유 가격상한제 합의…우크라엔 추가 지원 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30512360</link>
+            <guid>https://tv.naver.com/v/30512360</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_74/koeCe_1667630894627dMIjN_JPEG/cover_cover_MYH20221105006600038_20221105154702118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충남 서산 앞바다 규모 2.5 지진…일부 지역 흔들림 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30512288</link>
+            <guid>https://tv.naver.com/v/30512288</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_291/IPvuL_1667630536360lF9yh_JPEG/cover_cover_MYH20221105006500038_20221105154202583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 주말 때 이른 초겨울 추위…한낮에도 '쌀쌀' (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30511516</link>
+            <guid>https://tv.naver.com/v/30511516</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_288/TvFUG_1667627943143LvdpI_JPEG/cover_cover_MYH20221105006400038_20221105145802412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스특보] "북한 동창리 로켓 발사장 움직임"…도발 여부 주시 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30511352</link>
+            <guid>https://tv.naver.com/v/30511352</guid>
+            <pubDate>Sat, 05 Nov 2022 12:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[16:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_271/gScOV_1667627888916OT71n_JPEG/cover_cover_MYH20221105006200038_20221105145003347.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
