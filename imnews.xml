@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/imnews/clips</id>
-    <title>MBC뉴스 ─ 네이버TV</title>
-    <updated>2022-11-05T15:22:41.245Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/imnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 05 Nov 2022 16:30:13 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[참사 후 첫 주말‥이 시각 이태원역]]></title>
+            <link>https://tv.naver.com/v/30517241</link>
+            <guid>https://tv.naver.com/v/30517241</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_22/9FbY7_16676488265785w0so_JPEG/cover_cover_desk_20221105_200117_1_1_Large_u_20221105204602828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스데스크 클로징]]></title>
+            <link>https://tv.naver.com/v/30517203</link>
+            <guid>https://tv.naver.com/v/30517203</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_256/R3QxV_1667648655134ijup8_JPEG/cover_cover_desk_20221105_203232_1_17_Large_20221105204409344.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 휴일, 낮부터 추위 누그러져‥동쪽 건조 계속 '산불 조심']]></title>
+            <link>https://tv.naver.com/v/30517201</link>
+            <guid>https://tv.naver.com/v/30517201</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_285/WzIvt_1667648664330UY8cR_JPEG/cover_cover_desk_20221105_203232_1_16_Large_20221105204402693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포츠 영상] 홈 18연승 신기록‥'안방에서 무적이네!']]></title>
+            <link>https://tv.naver.com/v/30517137</link>
+            <guid>https://tv.naver.com/v/30517137</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_232/4ZNyu_16676484974958DqdV_JPEG/cover_cover_desk_20221105_203054_1_15_Large_20221105204025988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[톱플레이] 60년만에 대기록‥'30점은 기본이지']]></title>
+            <link>https://tv.naver.com/v/30517136</link>
+            <guid>https://tv.naver.com/v/30517136</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_170/MdHAC_1667648489909rrz9T_JPEG/cover_cover_desk_20221105_202953_1_14_Large_20221105204019674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손흥민, 수술은 성공적‥'월드컵 출전은 미정']]></title>
+            <link>https://tv.naver.com/v/30517132</link>
+            <guid>https://tv.naver.com/v/30517132</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221106_107/OUp7r_1667661498171sL5cD_JPEG/cover_cover_desk_20221105_202830_1_13_Large_20221105204013105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['3회 5점' 키움, 시리즈 원점‥"박찬호가 좋은 기운"]]></title>
+            <link>https://tv.naver.com/v/30517127</link>
+            <guid>https://tv.naver.com/v/30517127</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_6/d8OUF_1667648480848OzfsB_JPEG/cover_cover_desk_20221105_202709_1_12_Large_20221105204004866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스데스크] '10·29 참사'...지금 그곳은]]></title>
+            <link>https://tv.naver.com/v/30517051</link>
+            <guid>https://tv.naver.com/v/30517051</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[38:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_108/WtiBR_1667648232873xRwvQ_PNG/1667648226069.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[사망사고로 현장감독 받던 SPC, 감독관 가방 뒤져 서류 유출]]></title>
+            <link>https://tv.naver.com/v/30516965</link>
+            <guid>https://tv.naver.com/v/30516965</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_37/TnyxW_1667647899436xtiof_JPEG/cover_cover_desk_20221105_202454_1_11_Large_20221105203102687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['커피믹스', 암벽에 흐르는 물로 열흘 버텼다]]></title>
+            <link>https://tv.naver.com/v/30516958</link>
+            <guid>https://tv.naver.com/v/30516958</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_296/1HWbk_1667647905219SiqHk_JPEG/cover_cover_desk_20221105_201804_1_8_Large_20221105203055500.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[221시간 만의 기적적인 생환‥"두발로 걸어 나왔다"]]></title>
+            <link>https://tv.naver.com/v/30516956</link>
+            <guid>https://tv.naver.com/v/30516956</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_246/9IrVU_1667647911517F38xa_JPEG/cover_cover_desk_20221105_201522_1_7_Large_20221105203048140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['막바지 추모 행렬 계속'‥이 시각 서울광장 합동분향소]]></title>
+            <link>https://tv.naver.com/v/30516955</link>
+            <guid>https://tv.naver.com/v/30516955</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_140/jWxbO_1667647906702emuO6_JPEG/cover_cover_desk_20221105_200411_1_2_Large_20221105203040541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국가 애도기간 마지막날‥추모 집회 잇따라]]></title>
+            <link>https://tv.naver.com/v/30516947</link>
+            <guid>https://tv.naver.com/v/30516947</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_209/Lhv10_1667647844149CBrOw_JPEG/cover_cover_desk_20221105_201026_1_5_Large_20221105203033455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["관용차로 이동하려다‥" 용산서장 참사 50분 뒤 도착]]></title>
+            <link>https://tv.naver.com/v/30516946</link>
+            <guid>https://tv.naver.com/v/30516946</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_109/2EGPp_1667647868946sSJql_JPEG/cover_cover_desk_20221105_200649_1_3_Large_20221105203025908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애도는 끝나지 않았습니다]]></title>
+            <link>https://tv.naver.com/v/30516940</link>
+            <guid>https://tv.naver.com/v/30516940</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_195/QsthR_1667647881433CyK5p_JPEG/cover_cover_desk_20221105_201314_1_6_Large_20221105203010479.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애도기간 종료‥"적폐DNA 버려야" VS "진상규명, 처벌의 시간"]]></title>
+            <link>https://tv.naver.com/v/30516937</link>
+            <guid>https://tv.naver.com/v/30516937</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_101/TbfZZ_1667647847906C94lK_JPEG/cover_cover_desk_20221105_200918_1_4_Large_20221105203002605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['B-1B' 전략폭격기 , 한미연합공중훈련 마지막날 훈련 참여]]></title>
+            <link>https://tv.naver.com/v/30516922</link>
+            <guid>https://tv.naver.com/v/30516922</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_263/isFyV_1667647802747GM8lm_JPEG/cover_cover_desk_20221105_202228_1_10_Large_20221105202914557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미연합공중훈련 마지막날에도 탄도미사일 발사]]></title>
+            <link>https://tv.naver.com/v/30516915</link>
+            <guid>https://tv.naver.com/v/30516915</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_26/5OwWx_1667647785892WE4wD_JPEG/cover_cover_desk_20221105_201949_1_9_Large_20221105202907058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["가출하면 성매매해서 돈 벌래?" 초등학교 교사 막말]]></title>
+            <link>https://tv.naver.com/v/30512408</link>
+            <guid>https://tv.naver.com/v/30512408</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_84/KJOTi_1667631046729u9cvh_JPEG/cover_cover_desk_20221104_225028_1_11_Large_20221105155002726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 주말, 일교차 극심‥내일 낮 추위 약해져]]></title>
+            <link>https://tv.naver.com/v/30509419</link>
+            <guid>https://tv.naver.com/v/30509419</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_252/GDFCC_16676195000741QJrt_JPEG/cover_cover_noon_20221105_122800_1_5_Large_20221105123802808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉화 광산 매몰자 2명 극적 구조‥"건강 양호"]]></title>
+            <link>https://tv.naver.com/v/30509368</link>
+            <guid>https://tv.naver.com/v/30509368</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_214/au5PD_1667619263610JUMct_JPEG/cover_cover_noon_20221105_122732_1_4_Large_20221105123404388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안보리 "북한 도발 규탄"‥중·러 "미국 위협 탓"]]></title>
+            <link>https://tv.naver.com/v/30509345</link>
+            <guid>https://tv.naver.com/v/30509345</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_268/ZyXUo_1667619159688NFq4L_JPEG/cover_cover_noon_20221105_122642_1_3_Large_20221105123202951.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애도 기간 마지막 날‥분향소 추모 이어져]]></title>
+            <link>https://tv.naver.com/v/30509321</link>
+            <guid>https://tv.naver.com/v/30509321</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_144/iAJq7_1667619110248PiuCf_JPEG/cover_cover_noon_20221105_122446_1_2_Large_20221105123102440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC 뉴스] - 국가 애도 기간 종료..정부 "진상 규명 철저"]]></title>
+            <link>https://tv.naver.com/v/30509323</link>
+            <guid>https://tv.naver.com/v/30509323</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[9:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_292/LDhnn_166762005203093jQO_PNG/1667620049240.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[국가 애도 기간 종료‥정부 "진상 규명 철저"]]></title>
+            <link>https://tv.naver.com/v/30509255</link>
+            <guid>https://tv.naver.com/v/30509255</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_48/EEU5s_1667618869305aoyxT_JPEG/cover_cover_noon_20221105_122250_1_1_Large_20221105122702982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['9회 타선 폭발' SSG, 한국시리즈 2승 선착]]></title>
+            <link>https://tv.naver.com/v/30507797</link>
+            <guid>https://tv.naver.com/v/30507797</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_96/fXYZC_1667609561333aVyzh_JPEG/cover_cover_today_20221105_071500_1_8_Large_20221105095202743.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[북한말 한마디] '터널'의 북한말은?]]></title>
+            <link>https://tv.naver.com/v/30507582</link>
+            <guid>https://tv.naver.com/v/30507582</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_145/vNqOC_1667607292924m6zas_JPEG/cover_cover_unity_20221105_084515_1_6_Large_1_20221105091438629.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['먼저 온 통일' 남북한 주민 어울림 마당]]></title>
+            <link>https://tv.naver.com/v/30507581</link>
+            <guid>https://tv.naver.com/v/30507581</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[6:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_32/l4QJP_1667607387273ytHLE_JPEG/cover_cover_unity_20221105_084515_1_5_Large_1_20221105091431824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너구리 쇠메 다람이 북한의 만화영화]]></title>
+            <link>https://tv.naver.com/v/30507580</link>
+            <guid>https://tv.naver.com/v/30507580</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[12:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_233/Ug7Bu_1667607459942hgQt0_JPEG/cover_cover_unity_20221105_084222_1_4_Large_1_20221105091423628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김정은 호통에 3년 만에 또 리모델링]]></title>
+            <link>https://tv.naver.com/v/30507578</link>
+            <guid>https://tv.naver.com/v/30507578</guid>
+            <pubDate>Sat, 05 Nov 2022 16:29:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_91/qg3Y8_1667607309951PEGzk_JPEG/cover_cover_unity_20221105_073441_1_3_Large_1_20221105091417059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
