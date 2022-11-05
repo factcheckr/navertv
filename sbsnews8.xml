@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/sbsnews8/clips</id>
-    <title>SBS뉴스 ─ 네이버TV</title>
-    <updated>2022-11-05T05:20:59.071Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/sbsnews8/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>SBS뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 05 Nov 2022 06:28:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 천막치고, 불피우고, 커피믹스에 지하수…봉화 고립 작업자들 기적의 생환]]></title>
+            <link>https://tv.naver.com/v/30511304</link>
+            <guid>https://tv.naver.com/v/30511304</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_121/mdLeW_1667627347208m6CqO_JPEG/cover_0001010979_001_20221105144801219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 올가을 가장 추웠던 아침…내일 낮부터 기온 회복]]></title>
+            <link>https://tv.naver.com/v/30509249</link>
+            <guid>https://tv.naver.com/v/30509249</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_264/K54yy_1667618849424oHbpT_JPEG/cover_0001010968_001_20221105122701193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 확진 사흘째 4만 명대…"재유행 대비 변이 감시"]]></title>
+            <link>https://tv.naver.com/v/30509207</link>
+            <guid>https://tv.naver.com/v/30509207</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_141/C3Sf2_1667618662135Eltu2_JPEG/cover_0001010966_001_20221105122401203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국가 애도기간 오늘 종료…한 총리 "철저한 원인 조사"]]></title>
+            <link>https://tv.naver.com/v/30509193</link>
+            <guid>https://tv.naver.com/v/30509193</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_130/oxVeg_1667618657441S7XGu_JPEG/cover_0001010965_001_20221105122301181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스토리] 자산시장의 붕괴, 부동산 시장은?]]></title>
+            <link>https://tv.naver.com/v/30507485</link>
+            <guid>https://tv.naver.com/v/30507485</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[26:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_189/xAzLT_1667606986139jAnzf_JPEG/cover_0001010934_001_20221105085601193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라가레스 역전 투런…SSG, 한국시리즈 2승 1패]]></title>
+            <link>https://tv.naver.com/v/30507268</link>
+            <guid>https://tv.naver.com/v/30507268</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_256/RYp80_1667601889946Qi7qT_JPEG/cover_0001010926_001_20221105074301358.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["이게 무슨 날벼락"…아들 신발 앞에 주저앉은 어머니]]></title>
+            <link>https://tv.naver.com/v/30507264</link>
+            <guid>https://tv.naver.com/v/30507264</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_269/Ww9px_1667601792065WABr9_JPEG/cover_0001010925_001_20221105074201322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서장실 · 청장실은 압수수색 안 한 경찰…'셀프수사' 우려]]></title>
+            <link>https://tv.naver.com/v/30507258</link>
+            <guid>https://tv.naver.com/v/30507258</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_37/AXyo9_1667601720687BoUP7_JPEG/cover_0001010924_001_20221105074101201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북 비행에 F-35 등 80대 맞대응…오늘은 B-1B 투입]]></title>
+            <link>https://tv.naver.com/v/30507242</link>
+            <guid>https://tv.naver.com/v/30507242</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_43/HHeem_1667601621546cfa4A_JPEG/cover_0001010922_001_20221105073901306.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["시위대에 총 쏘고 흉기도"…유혈 진압에 불붙는 '히잡 시위']]></title>
+            <link>https://tv.naver.com/v/30507232</link>
+            <guid>https://tv.naver.com/v/30507232</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_239/NfUNC_1667601545246rJVbm_JPEG/cover_0001010921_001_20221105073801198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김근식 범죄 더 있었다…DNA로 밝혀낸 16년 전 강제추행]]></title>
+            <link>https://tv.naver.com/v/30507230</link>
+            <guid>https://tv.naver.com/v/30507230</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_168/ugFo1_1667601488957cKA3k_JPEG/cover_0001010920_001_20221105073701158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[숙박업체 대표가 한수원 이사?…'낙하산'에 부글부글]]></title>
+            <link>https://tv.naver.com/v/30507225</link>
+            <guid>https://tv.naver.com/v/30507225</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_102/attvr_16676014115845VNYi_JPEG/cover_0001010919_001_20221105073601285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["'보조금 차별' 3년 유예 해달라" 미국에 입장 전달]]></title>
+            <link>https://tv.naver.com/v/30507222</link>
+            <guid>https://tv.naver.com/v/30507222</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_96/tUf1E_1667601363255yHCue_JPEG/cover_0001010918_001_20221105073501291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우윳값 3천 원 시대 온다…가격 경쟁력 우려도]]></title>
+            <link>https://tv.naver.com/v/30507219</link>
+            <guid>https://tv.naver.com/v/30507219</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_225/MIW3p_1667601317008Tziuj_JPEG/cover_0001010917_001_20221105073401981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심야 택시 '호출료 5천 원' 첫날…효과 어땠나]]></title>
+            <link>https://tv.naver.com/v/30507218</link>
+            <guid>https://tv.naver.com/v/30507218</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_4/0uq9U_1667601248529k86kL_JPEG/cover_0001010916_001_20221105073301192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["압박 사고 후 소변 색 이렇다면 빨리 병원가세요"]]></title>
+            <link>https://tv.naver.com/v/30507215</link>
+            <guid>https://tv.naver.com/v/30507215</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_58/jsXfs_1667601176736F1wJs_JPEG/cover_0001010915_001_20221105073201194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용산구청장, 이상 징후에도 조치 대신 단톡방에 "우려"]]></title>
+            <link>https://tv.naver.com/v/30507208</link>
+            <guid>https://tv.naver.com/v/30507208</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_254/Yqo51_1667601083335m2Qbf_JPEG/cover_0001010914_001_20221105073001194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[참사 모른 채 자고 있던 경찰청장…줄줄이 '뒷북 대응']]></title>
+            <link>https://tv.naver.com/v/30507199</link>
+            <guid>https://tv.naver.com/v/30507199</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_97/GGFdX_1667600941275MnYwV_JPEG/cover_0001010913_001_20221105072801228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걸어서 20분 거린데…용산서장의 '1시간 21분' 미스터리]]></title>
+            <link>https://tv.naver.com/v/30507195</link>
+            <guid>https://tv.naver.com/v/30507195</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_211/wDtpf_1667600894876N7tFF_JPEG/cover_0001010912_001_20221105072701168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소방, 참사 당시 경찰에 15번 공동대응 요청했는데…]]></title>
+            <link>https://tv.naver.com/v/30507192</link>
+            <guid>https://tv.naver.com/v/30507192</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_23/NjTSO_1667600776942fNJ3Q_JPEG/cover_0001010911_001_20221105072501145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 올가을 최저 기온…'체감온도 영하권' 초겨울 추위]]></title>
+            <link>https://tv.naver.com/v/30507178</link>
+            <guid>https://tv.naver.com/v/30507178</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_283/XqYd4_1667600500190Qjark_JPEG/cover_0001010910_001_20221105072101153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['홀로 조문' 이상민, 거취 묻자 "월요일에 설명하겠다"]]></title>
+            <link>https://tv.naver.com/v/30507175</link>
+            <guid>https://tv.naver.com/v/30507175</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_171/4UIBm_1667600486796bcMlS_JPEG/cover_0001010909_001_20221105072010286.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령, 참사 이후 첫 사과…'책임론' 불붙을 듯]]></title>
+            <link>https://tv.naver.com/v/30507172</link>
+            <guid>https://tv.naver.com/v/30507172</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_74/h0o24_1667600462246BPqHu_JPEG/cover_0001010908_001_20221105072001259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국가 애도기간 마지막 날…여전히 이태원엔 추모 열기]]></title>
+            <link>https://tv.naver.com/v/30507148</link>
+            <guid>https://tv.naver.com/v/30507148</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_161/QNvGx_1667600100484tqvoX_JPEG/cover_0001010907_001_20221105071401236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['북 도발'에 유엔 안보리 공개 회의…중·러는 "미국 탓"]]></title>
+            <link>https://tv.naver.com/v/30507143</link>
+            <guid>https://tv.naver.com/v/30507143</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_60/Re7ak_1667600045665p9FND_JPEG/cover_0001010906_001_20221105071309425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미 연합훈련 연장에…북 "자주권 침해에 초강력 대응"]]></title>
+            <link>https://tv.naver.com/v/30507142</link>
+            <guid>https://tv.naver.com/v/30507142</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_290/nDfNF_1667600040732BEgcb_JPEG/cover_0001010905_001_20221105071301200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[열흘 만의 '기적 생환'…광산 고립 2명, 이렇게 버텼다]]></title>
+            <link>https://tv.naver.com/v/30507141</link>
+            <guid>https://tv.naver.com/v/30507141</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_220/FlvXE_1667599994165mB2lw_JPEG/cover_0001010904_001_20221105071201197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유엔 안보리 공개회의…"북, 제재 결의 위반" 강력 규탄]]></title>
+            <link>https://tv.naver.com/v/30507023</link>
+            <guid>https://tv.naver.com/v/30507023</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_120/Ujihd_1667597208734wxCsP_JPEG/cover_0001010901_001_20221105062601168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한미 연합훈련에…북 "자주권 침해에 끝까지 초강력 대응"]]></title>
+            <link>https://tv.naver.com/v/30506999</link>
+            <guid>https://tv.naver.com/v/30506999</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_2/QUKgI_1667596676003J3TMl_JPEG/cover_0001010900_001_20221105061701150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉화 광산 고립자 2명 구조…221시간 만의 '기적 생환']]></title>
+            <link>https://tv.naver.com/v/30506988</link>
+            <guid>https://tv.naver.com/v/30506988</guid>
+            <pubDate>Sat, 05 Nov 2022 06:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221105_121/OSKDt_16675963916317d8t2_JPEG/cover_0001010899_001_20221105061201220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
