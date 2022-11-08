@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnews/clips</id>
-    <title>연합뉴스 ─ 네이버TV</title>
-    <updated>2022-11-08T14:27:32.187Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 08 Nov 2022 15:25:34 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[中공무원 뇌물은닉 '기상천외'…오리·닭 뱃속에서 금괴가]]></title>
+            <link>https://tv.naver.com/v/30591159</link>
+            <guid>https://tv.naver.com/v/30591159</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_107/s17GE_1667898280489MRi7i_JPEG/1667898251079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국 침공 대비 대만군 대응 달라졌다…"작전구 독자 대응하라"]]></title>
+            <link>https://tv.naver.com/v/30590947</link>
+            <guid>https://tv.naver.com/v/30590947</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_270/F1qdv_1667897871382f70CP_JPEG/1667897474542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['NASAMS' 우크라 도착…'결전 임박' 헤르손서 결국 판가름 날까]]></title>
+            <link>https://tv.naver.com/v/30590895</link>
+            <guid>https://tv.naver.com/v/30590895</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_227/VHaLf_1667897753733MdHld_JPEG/1667897704831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계 최장신 여성, 좌석 6개 비우고 누운 채 생애 첫 비행]]></title>
+            <link>https://tv.naver.com/v/30590559</link>
+            <guid>https://tv.naver.com/v/30590559</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_210/I3Noy_1667897097657chmpJ_JPEG/b639f33f-5f40-11ed-aee9-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["CPR인원 모자라, 빨리"…119 무전에 '경찰 출동' 언급 29차례]]></title>
+            <link>https://tv.naver.com/v/30589667</link>
+            <guid>https://tv.naver.com/v/30589667</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_110/Q4Xgz_1667895582679u8AJl_JPEG/1667895138251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낚싯배 위로 솟구친 2.6m 식인상어…강태공들 '혼비백산'/ 연합뉴스 (Yonhapnews)]]></title>
+            <link>https://tv.naver.com/v/30589151</link>
+            <guid>https://tv.naver.com/v/30589151</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_186/To10F_16678947472752TKuF_JPEG/1667894735574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러, 최신 핵잠수함 성능 시험 완료…태평양함대 배치 예정]]></title>
+            <link>https://tv.naver.com/v/30588652</link>
+            <guid>https://tv.naver.com/v/30588652</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_212/fScz8_1667893928607FKbUX_JPEG/1667893278689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이정재, 디즈니+ 스타워즈 시리즈 '어콜라이트'에 공식 캐스팅]]></title>
+            <link>https://tv.naver.com/v/30586952</link>
+            <guid>https://tv.naver.com/v/30586952</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_238/dJxFn_1667891021789lIMYC_JPEG/1667890626734.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러군에 파괴된 세계 최대 수송기…"비밀리 복원 중, 30% 완료"]]></title>
+            <link>https://tv.naver.com/v/30586875</link>
+            <guid>https://tv.naver.com/v/30586875</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_257/LJ2Gt_1667890892038A65fW_JPEG/1667890857147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['부아앙, 쾅' 공포의 자폭드론…이란 "러시아에 팔았다" 첫 시인]]></title>
+            <link>https://tv.naver.com/v/30586607</link>
+            <guid>https://tv.naver.com/v/30586607</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_262/VKjso_1667890375224Gezrz_JPEG/1667889953770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[머스크, 미 중간선거 앞서 공화당 지지 촉구…'정치 편향' 논란]]></title>
+            <link>https://tv.naver.com/v/30583099</link>
+            <guid>https://tv.naver.com/v/30583099</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_133/Q8HFF_1667884023375etAJN_JPEG/1667883993045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 동부 전선서 러군 대패…"동원병 570명 대부분 사망" / 연합뉴스 (Yonhapnews)]]></title>
+            <link>https://tv.naver.com/v/30582934</link>
+            <guid>https://tv.naver.com/v/30582934</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_114/CEf2s_1667883706458HH8UD_JPEG/1667882858638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[걸그룹 뉴진스 '하이프 보이', 스포티파이 재생 수 1억건 돌파]]></title>
+            <link>https://tv.naver.com/v/30579594</link>
+            <guid>https://tv.naver.com/v/30579594</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_264/3NlcM_1667879455760PMK6O_JPEG/1667879453675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스텔스기·무인기·드론요격장비…'공군력 과시' 中최대 에어쇼]]></title>
+            <link>https://tv.naver.com/v/30579202</link>
+            <guid>https://tv.naver.com/v/30579202</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_270/82pgY_1667876070810R5bJ2_JPEG/1667875412982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 오메가엑스 "울고싶을만큼 부당한 대우"…소속사 대표 결국 사퇴]]></title>
+            <link>https://tv.naver.com/v/30579110</link>
+            <guid>https://tv.naver.com/v/30579110</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221108_180/j7wpX_1667875893488S7jiF_JPEG/1667875403078.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Why요?] 차 막히는 고속도로, 맨 앞차는 뭐할까? #shorts]]></title>
+            <link>https://tv.naver.com/v/30450498</link>
+            <guid>https://tv.naver.com/v/30450498</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221103_284/64mE7_16674370219453RJPb_JPEG/1667436973081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상민 "이태원 거의 참사 수준의 사고"…국회 행안위 답변]]></title>
+            <link>https://tv.naver.com/v/30563746</link>
+            <guid>https://tv.naver.com/v/30563746</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_254/yE5Op_1667822515686LgPIF_JPEG/1667822434263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['우주굴기' 중국 "500t 추력 세계 최강 로켓 YF-130 실험 성공"]]></title>
+            <link>https://tv.naver.com/v/30559665</link>
+            <guid>https://tv.naver.com/v/30559665</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_128/VRUj1_16678129687205dIJC_JPEG/1667812946106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸틴이 추켜세웠던 '러시아의 영웅'…넉달만에 사령관서 경질 / 연합뉴스 (Yonhapnews)]]></title>
+            <link>https://tv.naver.com/v/30559524</link>
+            <guid>https://tv.naver.com/v/30559524</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_152/F2aFz_1667812713498Bqv65_JPEG/1667812697968.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지구온난화 갈수록 심각…WMO "최근 8년간 가장 더웠다"]]></title>
+            <link>https://tv.naver.com/v/30559443</link>
+            <guid>https://tv.naver.com/v/30559443</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_163/TfcxV_1667812557792EmbQA_JPEG/1667812543205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["밀고 밀리며 비명·고성"…서울 1호선 일부 중단에 출근길 대란]]></title>
+            <link>https://tv.naver.com/v/30558469</link>
+            <guid>https://tv.naver.com/v/30558469</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_18/efqTu_1667810632812SSj3j_JPEG/1667809687838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러, 핵사용 임박?…미-러, 몇 달간 비밀대화설, 무슨 말 나왔나]]></title>
+            <link>https://tv.naver.com/v/30558242</link>
+            <guid>https://tv.naver.com/v/30558242</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_64/yvtWR_1667810235835c4cP1_JPEG/1667809459237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트위터 이어 메타도 정리해고…빅테크 기업에 부는 감원 바람]]></title>
+            <link>https://tv.naver.com/v/30552569</link>
+            <guid>https://tv.naver.com/v/30552569</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_57/ykhst_1667812443447FjHkP_JPEG/1667812434372.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[법규위반 차량만 골라 '쾅'…보험사기 일당 등 3명 구속]]></title>
+            <link>https://tv.naver.com/v/30551522</link>
+            <guid>https://tv.naver.com/v/30551522</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_22/dTIUf_16677993955138pR7u_JPEG/1667798905519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용산서장 차량이동 고집해 현장 늑장도착…내려서도 '뒷짐' / 연합뉴스 (Yonhapnews)]]></title>
+            <link>https://tv.naver.com/v/30551469</link>
+            <guid>https://tv.naver.com/v/30551469</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_215/44Yud_1667799325562gH6V2_JPEG/1667799310426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러 공격에 우크라 키이우 블랙아웃 '코앞'…"300만명 대피 계획"]]></title>
+            <link>https://tv.naver.com/v/30550117</link>
+            <guid>https://tv.naver.com/v/30550117</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_227/u2LUB_1667796798217vkLEN_JPEG/1667796201237.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['제로 코로나' 중국 지하철서 비닐 쓰고 바나나 먹은 승객 논란]]></title>
+            <link>https://tv.naver.com/v/30550030</link>
+            <guid>https://tv.naver.com/v/30550030</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_245/4VRJd_1667796623471aDtkM_JPEG/1667796597754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北총참모부 "2∼5일 군사작전…울산 앞 공해 순항미사일 2발"]]></title>
+            <link>https://tv.naver.com/v/30547051</link>
+            <guid>https://tv.naver.com/v/30547051</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_163/6BF9d_1667790378804316e3_JPEG/1667790031911.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["기차가 미친듯 흔들리더니"…279명 탄 무궁화호 탈선 당시 순간]]></title>
+            <link>https://tv.naver.com/v/30546291</link>
+            <guid>https://tv.naver.com/v/30546291</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_200/41VeB_16677889310640FYRN_JPEG/1667788830924.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아프리카 탄자니아 여객기 호수에 추락…"최소 19명 사망"]]></title>
+            <link>https://tv.naver.com/v/30546048</link>
+            <guid>https://tv.naver.com/v/30546048</guid>
+            <pubDate>Tue, 08 Nov 2022 15:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221107_251/Sk3Jr_16677885098378NklL_JPEG/1667787901074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
