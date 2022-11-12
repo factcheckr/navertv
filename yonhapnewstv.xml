@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-11-12T07:22:20.342Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 12 Nov 2022 08:28:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[美 애리조나 상원의원 민주당 몫으로…49-49 팽팽]]></title>
+            <link>https://tv.naver.com/v/30713518</link>
+            <guid>https://tv.naver.com/v/30713518</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_228/Hacnk_1668241346340eFAFL_JPEG/cover_cover_MYH20221112008700038_20221112172203138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손정의의 소프트뱅크, FTX 파산으로 1억달러 손실]]></title>
+            <link>https://tv.naver.com/v/30713490</link>
+            <guid>https://tv.naver.com/v/30713490</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_166/jlZfS_16682412491311CJPd_JPEG/cover_cover_MYH20221112008600038_20221112172027740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사흘 연속 5만 명대…개량백신 접종 권고]]></title>
+            <link>https://tv.naver.com/v/30713488</link>
+            <guid>https://tv.naver.com/v/30713488</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_298/dz2HS_1668241281462599B6_JPEG/cover_cover_MYH20221112008500641_20221112172021472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스1번지] 윤 대통령, '아세안+한중일 정상회의' 참석]]></title>
+            <link>https://tv.naver.com/v/30713482</link>
+            <guid>https://tv.naver.com/v/30713482</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[32:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_281/6b8UU_1668241359371kIs4A_JPEG/cover_cover_MYH20221112008100038_20221112172002651.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나토, 이달 '최대 규모' 사이버방어훈련…韓은 옵서버국 참여]]></title>
+            <link>https://tv.naver.com/v/30713457</link>
+            <guid>https://tv.naver.com/v/30713457</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_81/bedXf_16682411120704wGAY_JPEG/cover_cover_MYH20221112008400038_20221112171809460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[中 움직일 美의 한수…"北도발 지속시 미군 주둔 확대"]]></title>
+            <link>https://tv.naver.com/v/30713452</link>
+            <guid>https://tv.naver.com/v/30713452</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_79/N5zZw_1668241148462o62U4_JPEG/cover_cover_MYH20221112008300038_20221112171802639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령실 "내일 캄보디아서 한일 정상회담 개최"]]></title>
+            <link>https://tv.naver.com/v/30713421</link>
+            <guid>https://tv.naver.com/v/30713421</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_111/7jjoJ_166824098107600S8s_JPEG/cover_cover_MYH20221112008200038_20221112171602921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 포근하고 비 내리는 주말…휴일 기온 뚝]]></title>
+            <link>https://tv.naver.com/v/30713192</link>
+            <guid>https://tv.naver.com/v/30713192</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_150/1hwlt_1668240099542HymUv_JPEG/cover_cover_MYH20221112007900038_20221112170103738.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 대통령실 "내일 캄보디아서 한일정상회담 개최 합의"]]></title>
+            <link>https://tv.naver.com/v/30713172</link>
+            <guid>https://tv.naver.com/v/30713172</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_237/2lGqY_1668240020235b9hhk_JPEG/cover_cover_MYH20221112007700038_20221112170002988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주 서울시당 서명운동 발대식…여 "이재명 방탄"]]></title>
+            <link>https://tv.naver.com/v/30712666</link>
+            <guid>https://tv.naver.com/v/30712666</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_267/h4jR8_1668238160094vk5gf_JPEG/cover_cover_MYH20221112007500641_20221112162802687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손흥민 등 태극전사 26인 발표…이강인 극적 합류]]></title>
+            <link>https://tv.naver.com/v/30712381</link>
+            <guid>https://tv.naver.com/v/30712381</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_246/yAcXs_1668237432160O1znR_JPEG/cover_cover_MYH20221112007400641_20221112161602949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 주말 전국 요란한 비…내일부터 기온 '뚝']]></title>
+            <link>https://tv.naver.com/v/30711860</link>
+            <guid>https://tv.naver.com/v/30711860</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_289/oK613_1668235685501x4wJK_JPEG/cover_cover_MYH20221112007200038_20221112154702460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤대통령 "한중일 3국 협력 활성화"…한미일, 내일 북 대응 논의]]></title>
+            <link>https://tv.naver.com/v/30711083</link>
+            <guid>https://tv.naver.com/v/30711083</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_111/QiHDb_1668233306626TVllv_JPEG/cover_cover_MYH20221112006800038_20221112150702218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 주말 전국 요란한 가을비…먼지 차츰 해소]]></title>
+            <link>https://tv.naver.com/v/30710827</link>
+            <guid>https://tv.naver.com/v/30710827</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_276/la1ao_1668232497502Yvy0b_JPEG/cover_cover_MYH20221112006700038_20221112145408484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['안와골절' 손흥민 카타르행…이강인 최종명단 포함]]></title>
+            <link>https://tv.naver.com/v/30710825</link>
+            <guid>https://tv.naver.com/v/30710825</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_286/VkP5r_1668232468837z7sV9_JPEG/cover_cover_MYH20221112006600038_20221112145402444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라, 8개월만에 남부 헤르손 탈환…"역사적인 날"]]></title>
+            <link>https://tv.naver.com/v/30710807</link>
+            <guid>https://tv.naver.com/v/30710807</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_96/VXh6b_1668232475070GwE8I_JPEG/cover_cover_MYH20221112006500038_20221112145302151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스초점] 윤 대통령, '아세안+한중일 정상회의' 참석]]></title>
+            <link>https://tv.naver.com/v/30710730</link>
+            <guid>https://tv.naver.com/v/30710730</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[16:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_164/ABE8v_1668232582354dof1a_JPEG/cover_cover_MYH20221112006400038_20221112144902488.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[항체치료제 안듣는 오미크론 BQ, 다음주 美 우세종될듯]]></title>
+            <link>https://tv.naver.com/v/30710652</link>
+            <guid>https://tv.naver.com/v/30710652</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_20/Eo6La_1668231909689Nj7QT_JPEG/cover_cover_MYH20221112006300038_20221112144402551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닷새 앞으로 다가온 수능…주말 합격기도 행렬]]></title>
+            <link>https://tv.naver.com/v/30710545</link>
+            <guid>https://tv.naver.com/v/30710545</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_110/dgtQN_1668231481014qBDXo_JPEG/cover_cover_MYH20221112006200038_20221112143702409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤대통령 "북 핵실험시 국제사회 단호히 대응해야"…내일 한미일 회담]]></title>
+            <link>https://tv.naver.com/v/30710251</link>
+            <guid>https://tv.naver.com/v/30710251</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_214/B6fFC_1668230383436FMOit_JPEG/cover_cover_MYH20221112006100038_20221112141802815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["미리 배워 대비해야죠" 전국서 심폐소생술 교육 열기]]></title>
+            <link>https://tv.naver.com/v/30710139</link>
+            <guid>https://tv.naver.com/v/30710139</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_161/Dk142_16682300053720pkjX_JPEG/cover_cover_MYH20221112006000641_20221112141202607.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한총리 "모레부터 안전한국훈련…실제 위기 때 적용토록 준비"]]></title>
+            <link>https://tv.naver.com/v/30710110</link>
+            <guid>https://tv.naver.com/v/30710110</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_289/3IKIU_1668229847496Gn2vh_JPEG/cover_cover_MYH20221112005900038_20221112141023081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스초점] 벤투 감독, 카타르 월드컵 최종명단 발표]]></title>
+            <link>https://tv.naver.com/v/30710105</link>
+            <guid>https://tv.naver.com/v/30710105</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[11:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_119/SpQzh_1668230156360vXsPE_JPEG/cover_cover_MYH20221112005700038_20221112141009598.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 포근한 주말…가을비 내리며 미세먼지 해소]]></title>
+            <link>https://tv.naver.com/v/30710101</link>
+            <guid>https://tv.naver.com/v/30710101</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_197/tlDt4_1668229855542TX057_JPEG/cover_cover_MYH20221112005800038_20221112141002641.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만취 음주운전 차량에 야간근무하던 병사 3명 사상]]></title>
+            <link>https://tv.naver.com/v/30709992</link>
+            <guid>https://tv.naver.com/v/30709992</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_62/AS6nE_1668229403272WnEu4_JPEG/cover_cover_MYH20221112005600038_20221112140302723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여야, 국정조사 대치 계속…민주당 서명운동으로 압박]]></title>
+            <link>https://tv.naver.com/v/30709915</link>
+            <guid>https://tv.naver.com/v/30709915</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_72/nDzi3_1668229154382uquQE_JPEG/cover_cover_MYH20221112005500641_20221112135802461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[항체치료제 안먹히는 오미크론 BQ, 미국서 곧 우세종 된다]]></title>
+            <link>https://tv.naver.com/v/30709898</link>
+            <guid>https://tv.naver.com/v/30709898</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_23/vPFkg_16682290539019zSP8_JPEG/cover_cover_MYH20221112005400038_20221112135709545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[닷새 앞으로 다가온 수능…주말 합격기도 행렬]]></title>
+            <link>https://tv.naver.com/v/30709895</link>
+            <guid>https://tv.naver.com/v/30709895</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_277/rk4d1_1668229084946AUobE_JPEG/cover_cover_MYH20221112005200038_20221112135702422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 축구대표팀, 카타르월드컵 최종명단 발표]]></title>
+            <link>https://tv.naver.com/v/30709878</link>
+            <guid>https://tv.naver.com/v/30709878</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[10:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_269/8uvYV_1668229345477FSjdW_JPEG/cover_cover_MYH20221112005000038_20221112135608693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상구성] 방방곡곡]]></title>
+            <link>https://tv.naver.com/v/30709876</link>
+            <guid>https://tv.naver.com/v/30709876</guid>
+            <pubDate>Sat, 12 Nov 2022 08:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_286/BiJKx_1668228987062iqwY3_JPEG/cover_cover_MYH20221112005100038_20221112135602803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
