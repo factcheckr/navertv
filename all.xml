@@ -1,7 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://factcheckr.github.io/navertv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-11-12T10:24:08.363Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 12 Nov 2022 11:19:33 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 6만명 규모 전국노동자대회‥노란봉투법 촉구,10·29 참사 추모 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30716558</link>
+            <guid>https://tv.naver.com/v/30716558</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_289/gCRAt_1668251773926nk3n3_JPEG/cover_cover_desk_20221112_200836_1_5_Large_20221112201602515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 보고서 삭제 뒤 내부 입단속‥"기자 상대 마라" 금지령 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30716506</link>
+            <guid>https://tv.naver.com/v/30716506</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_216/2NS0J_1668251623835SlvHD_JPEG/cover_cover_desk_20221112_200748_1_4_Large_20221112201305256.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[참사 2주째‥마지막 '합동분향소'에 이어진 추모 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30716477</link>
+            <guid>https://tv.naver.com/v/30716477</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_91/ufCXf_16682515009930X7oQ_JPEG/cover_cover_desk_20221112_200511_1_3_Large_20221112201102437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령, 내일 기시다와 회담‥한미·한미일도 이어져 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30716437</link>
+            <guid>https://tv.naver.com/v/30716437</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_115/i19rz_1668251321926Ff9XH_JPEG/cover_cover_desk_20221112_200306_1_2_Large_20221112200802650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국, "북한 도발 계속되면 동북아 지역 군사력 강화" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30716382</link>
+            <guid>https://tv.naver.com/v/30716382</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_112/VfaRf_1668251141852d32Mb_JPEG/cover_cover_desk_20221112_200043_1_1_Large_20221112200502930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 전국에 차츰 비‥곳에 따라 벼락·돌풍 동반 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30708441</link>
+            <guid>https://tv.naver.com/v/30708441</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_219/hiZI4_1668222722911JcFak_JPEG/cover_cover_noon_20221112_114600_1_6_Large_20221112121140271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 확진 5만 4328명‥겨울철 유행 본격화 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30708435</link>
+            <guid>https://tv.naver.com/v/30708435</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_220/ODRmZ_1668222709476VCJbs_JPEG/cover_cover_noon_20221112_114500_1_5_Large_20221112121132873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 헤르손 탈환‥"역사적인 날" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30708430</link>
+            <guid>https://tv.naver.com/v/30708430</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_199/bp1LZ_1668222724037aqqjy_JPEG/cover_cover_noon_20221112_114418_1_4_Large_20221112121125167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤희근, 용산서 전 정보계장 조문 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30708427</link>
+            <guid>https://tv.naver.com/v/30708427</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_8/5aMz3_1668222695310xuOez_JPEG/cover_cover_noon_20221112_114229_1_3_Large_20221112121117361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백악관 "북한 도발 계속되면 동북아 주둔 미군 강화" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30708423</link>
+            <guid>https://tv.naver.com/v/30708423</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_24/HaGKq_1668222683836cVSMj_JPEG/cover_cover_noon_20221112_114141_1_2_Large_20221112121109996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한중일 협력 메커니즘 조속 활성화 기대" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30708418</link>
+            <guid>https://tv.naver.com/v/30708418</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_192/RXKzJ_1668222680993eUlRk_JPEG/cover_cover_noon_20221112_114109_1_1_Large_20221112121102309.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC뉴스] - "한중일 협력 메커니즘 조속 활성화 기대" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30708124</link>
+            <guid>https://tv.naver.com/v/30708124</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[7:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_276/KSTfz_16682228642128kr6t_JPEG/1668222854870.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감자로 옥수수로 북한음식 요리경연 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705413</link>
+            <guid>https://tv.naver.com/v/30705413</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[6:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_55/njoyk_1668209750348lrddh_JPEG/cover_cover_unity_20221112_075357_1_5_Large_u_20221112083329076.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["15%만 간다" 북한의 대학 입시 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705411</link>
+            <guid>https://tv.naver.com/v/30705411</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[11:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_264/iknR9_1668209811330BuQpB_JPEG/cover_cover_unity_20221112_074658_1_4_Large_u_20221112083319550.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한식 축구 중계 손흥민도 나온다 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705408</link>
+            <guid>https://tv.naver.com/v/30705408</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_255/PthZc_1668209668950anB0G_JPEG/cover_cover_unity_20221112_073633_1_3_Large_u_20221112083311141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나팔수 자처한 노동신문 '통일'은 삭제 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705407</link>
+            <guid>https://tv.naver.com/v/30705407</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_239/rkFxU_1668209626962dV4Ir_JPEG/cover_cover_unity_20221112_073235_1_2_Large_u_20221112083302259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["거짓말".."생억지" 북한 미사일의 실체 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705385</link>
+            <guid>https://tv.naver.com/v/30705385</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[6:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_47/nqPi9_1668209560713q8Q85_JPEG/cover_cover_unity_20221112_072936_1_1_Large_u_20221112083102104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[북한말 한마디] '누그러들다'의 북한말은? (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705379</link>
+            <guid>https://tv.naver.com/v/30705379</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_123/UI0Zd_1668209417381pSd7X_JPEG/cover_cover_unity_20221112_075548_1_6_Large_u_20221112083002457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 오후 찬 바람‥강원 북부 산지 1~5cm 눈 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705093</link>
+            <guid>https://tv.naver.com/v/30705093</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_234/EJdSL_1668205529682zr4wh_JPEG/cover_cover_today_20221112_071747_1_12_Large_20221112072508885.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시각 교통정보 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705091</link>
+            <guid>https://tv.naver.com/v/30705091</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_20/kvsHh_1668205519815S6UL5_JPEG/cover_cover_today_20221112_071631_1_11_Large_20221112072502129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스투데이] 한국판 '인·태 전략' 선언‥오늘 아세안+3 정상회의 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705079</link>
+            <guid>https://tv.naver.com/v/30705079</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[17:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_51/We73B_1668205462099eCqje_PNG/1668205459352.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA['대북송금 의혹' 아태협 회장 구속‥"범죄혐의 소명" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705076</link>
+            <guid>https://tv.naver.com/v/30705076</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_283/szpNC_16682052335001yz1p_JPEG/cover_cover_today_20221112_071519_1_10_Large_20221112072022999.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['라임' 김봉현, 추적장치 끊고 도주‥검찰 "지명수배" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705075</link>
+            <guid>https://tv.naver.com/v/30705075</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_123/cdAVl_1668205233906KELVv_JPEG/cover_cover_today_20221112_071425_1_9_Large_20221112072016951.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[순천자원순환센터 밤새 불‥고속도로 6중 사고 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705073</link>
+            <guid>https://tv.naver.com/v/30705073</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_89/9E2kt_1668205236536FxOwe_JPEG/cover_cover_today_20221112_071123_1_7_Large_20221112072002385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FTX 파산 신청‥부채 66조 원 가상화폐 사상 최대 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705059</link>
+            <guid>https://tv.naver.com/v/30705059</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_151/gPYei_1668204868436YfN0r_JPEG/cover_cover_today_20221112_070940_1_6_Large_20221112071402265.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라 "남부 헤르손 수복"‥러 "철수 완료" (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705052</link>
+            <guid>https://tv.naver.com/v/30705052</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_93/bgszY_1668204755980Hxfca_JPEG/cover_cover_today_20221112_070801_1_5_Large_20221112071202296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국판 '인·태 전략' 선언‥오늘 아세안+3 정상회의 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705045</link>
+            <guid>https://tv.naver.com/v/30705045</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_85/bPU8A_1668204648352XjM4o_JPEG/cover_cover_today_20221112_070624_1_4_Large_20221112071010712.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아래 직원만 조사?"‥'윗선' 수사 언제 하나 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705043</link>
+            <guid>https://tv.naver.com/v/30705043</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_284/kmj3f_1668204637577LuWAh_JPEG/cover_cover_today_20221112_070419_1_3_Large_20221112071003027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['보고서 삭제' 의혹 전 정보계장 숨진 채 발견 (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30705034</link>
+            <guid>https://tv.naver.com/v/30705034</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221112_33/nCZuz_1668204455539g0cjH_JPEG/cover_cover_today_20221112_070233_1_2_Large_20221112070701962.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['라임' 김봉현 도주‥법원 뒤늦게 '보석 취소' (MBC뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/30700509</link>
+            <guid>https://tv.naver.com/v/30700509</guid>
+            <pubDate>Sat, 12 Nov 2022 11:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221111_255/SoVnZ_1668178249151QSxh0_JPEG/cover_cover_desk_20221111_202933_1_20_Large_20221111235003367.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
