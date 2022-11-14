@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2022-11-14T16:33:44.774Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 14 Nov 2022 17:35:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤대통령, 내일 시진핑 첫 대면 가능성…한중회담 열릴까]]></title>
+            <link>https://tv.naver.com/v/30767560</link>
+            <guid>https://tv.naver.com/v/30767560</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_263/CYIly_1668434969496t1avt_JPEG/cover_cover_MYH20221114022000038_20221114230803246.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미중 정상 회담…바이든 "北 책임있는 행동 촉구해야"]]></title>
+            <link>https://tv.naver.com/v/30767307</link>
+            <guid>https://tv.naver.com/v/30767307</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_179/AJmJL_1668434365835o2T9V_JPEG/cover_cover_MYH20221114021900641_20221114225803001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 아침 오늘보다 추워…중서부 곳곳 비 조금]]></title>
+            <link>https://tv.naver.com/v/30767157</link>
+            <guid>https://tv.naver.com/v/30767157</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_182/XHfqm_1668434020535tFDYj_JPEG/cover_cover_MYH20221114021800038_20221114225302313.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[입구에 KOREA 현수막…축구대표팀 숙소 단장]]></title>
+            <link>https://tv.naver.com/v/30766878</link>
+            <guid>https://tv.naver.com/v/30766878</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_21/3TFzB_1668434305559EoiVi_JPEG/cover_cover_MYH20221114021700038_20221114224503853.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대출 규제 풀었지만 DSR 유지…부동산 효과 '한계']]></title>
+            <link>https://tv.naver.com/v/30766685</link>
+            <guid>https://tv.naver.com/v/30766685</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_195/tDDss_1668433205507Ci6Jo_JPEG/cover_cover_MYH20221114021600641_20221114223902548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 바이든 "하나의 중국 불변…대만 일방적 현상변경 반대"]]></title>
+            <link>https://tv.naver.com/v/30766605</link>
+            <guid>https://tv.naver.com/v/30766605</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_263/XhNZ2_1668432988565EdrYr_JPEG/cover_cover_MYH20221114021500038_20221114223603467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['라임핵심' 김봉현 도주 나흘째…행방추적 난항]]></title>
+            <link>https://tv.naver.com/v/30766217</link>
+            <guid>https://tv.naver.com/v/30766217</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_142/dtcW6_1668432195014DhDdg_JPEG/cover_cover_MYH20221114021300641_20221114222203557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박영수 "법리·사실관계 벗어난 기소…재판서 소명"]]></title>
+            <link>https://tv.naver.com/v/30766033</link>
+            <guid>https://tv.naver.com/v/30766033</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_81/31Aj3_1668431742105SUrpG_JPEG/cover_cover_MYH20221114021000038_20221114221502708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['가짜 수산업자 금품' 박영수 前특검·검사·언론인 기소]]></title>
+            <link>https://tv.naver.com/v/30766003</link>
+            <guid>https://tv.naver.com/v/30766003</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_55/EH5qL_1668431737968YgPPY_JPEG/cover_cover_MYH20221114020900641_20221114221404333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든 "경쟁이 충돌 않도록"…시진핑 "건전한 궤도로 되돌려야"]]></title>
+            <link>https://tv.naver.com/v/30765257</link>
+            <guid>https://tv.naver.com/v/30765257</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_251/yBNsI_1668430593708IOYx3_JPEG/cover_cover_MYH20221114020800641_20221114215502603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤대통령 내일 G20 참석…시진핑 만남 여부 주목]]></title>
+            <link>https://tv.naver.com/v/30765227</link>
+            <guid>https://tv.naver.com/v/30765227</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_34/mF7p6_16684304729708eqcS_JPEG/cover_cover_MYH20221114020700038_20221114215403466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤대통령 "공급측 혁신 핵심은 디지털 전환"…발리서 경제외교 행보]]></title>
+            <link>https://tv.naver.com/v/30765165</link>
+            <guid>https://tv.naver.com/v/30765165</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_269/4Q360_1668430397168nr3PO_JPEG/cover_cover_MYH20221114020600641_20221114215203702.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 11월 14일 뉴스투나잇1부]]></title>
+            <link>https://tv.naver.com/v/30765000</link>
+            <guid>https://tv.naver.com/v/30765000</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_24/mk9eM_166843005254420tQI_JPEG/cover_cover_MYH20221114020500038_20221114214702346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 아침 쌀쌀…오후~밤 중서부 산발적 비]]></title>
+            <link>https://tv.naver.com/v/30764737</link>
+            <guid>https://tv.naver.com/v/30764737</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_298/dI5Ck_1668429584211cIS4X_JPEG/cover_cover_MYH20221114020400038_20221114213903632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['www' 창시자 버너스 리 서울평화상 수상…"큰 영광"]]></title>
+            <link>https://tv.naver.com/v/30764705</link>
+            <guid>https://tv.naver.com/v/30764705</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_280/TuPc9_1668429534841koWnR_JPEG/cover_cover_MYH20221114020300038_20221114213803329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공정위원장 "플랫폼 독과점 규제 법제화 검토"]]></title>
+            <link>https://tv.naver.com/v/30764533</link>
+            <guid>https://tv.naver.com/v/30764533</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_63/h9ZPe_1668429270878ABi5K_JPEG/cover_cover_MYH20221114020200641_20221114213302380.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레고랜드 사태 정쟁 비화…"네 탓 공방"]]></title>
+            <link>https://tv.naver.com/v/30764480</link>
+            <guid>https://tv.naver.com/v/30764480</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_131/epjiu_1668429136304NeNl1_JPEG/cover_cover_MYH20221114020100641_20221114213102163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, '가짜 수산업자 금품수수' 박영수·현직 검사 등 기소]]></title>
+            <link>https://tv.naver.com/v/30764295</link>
+            <guid>https://tv.naver.com/v/30764295</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_12/0PByQ_1668428746070ETp6e_JPEG/cover_cover_MYH20221114020000038_20221114212502419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['가방 시신' 여성 뉴질랜드 송환…한동훈, 인도명령]]></title>
+            <link>https://tv.naver.com/v/30764186</link>
+            <guid>https://tv.naver.com/v/30764186</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_210/1Cnj1_1668428503507eAKp2_JPEG/cover_cover_MYH20221114019900038_20221114212102656.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수능 문·답지 전국 배부…"확진 즉시 알려야"]]></title>
+            <link>https://tv.naver.com/v/30764160</link>
+            <guid>https://tv.naver.com/v/30764160</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_29/y2N2P_1668428465291d5T3B_JPEG/cover_cover_MYH20221114019800641_20221114212003044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최신 개량백신 접종 시작…예약 없이도 접종 가능]]></title>
+            <link>https://tv.naver.com/v/30764105</link>
+            <guid>https://tv.naver.com/v/30764105</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_5/Hgyff_1668428357115ds4BS_JPEG/cover_cover_MYH20221114019700641_20221114211803401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여야, 예산안 충돌…"정권 발목잡기" "혈세 낭비"]]></title>
+            <link>https://tv.naver.com/v/30763979</link>
+            <guid>https://tv.naver.com/v/30763979</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_111/XYetL_1668428121675N2eYJ_JPEG/cover_cover_MYH20221114019600641_20221114211403036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 국가배상 법률검토 본격화…과실 인정될까]]></title>
+            <link>https://tv.naver.com/v/30763856</link>
+            <guid>https://tv.naver.com/v/30763856</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_179/0DB9o_16684278174224clzt_JPEG/cover_cover_MYH20221114019500038_20221114210902503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부 "경찰 대혁신" 예고…소방노조, 행안장관 고발]]></title>
+            <link>https://tv.naver.com/v/30763670</link>
+            <guid>https://tv.naver.com/v/30763670</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_232/iceT3_1668427418363idJQx_JPEG/cover_cover_MYH20221114019300641_20221114210204087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피의자 줄소환 예고…"소방서장 근무 지정 확인"]]></title>
+            <link>https://tv.naver.com/v/30763629</link>
+            <guid>https://tv.naver.com/v/30763629</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_191/m0pLr_1668427323921jES8H_JPEG/cover_cover_MYH20221114019200641_20221114210102773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여야 "유족 동의 없는 희생자 명단 공개는 부적절"]]></title>
+            <link>https://tv.naver.com/v/30763607</link>
+            <guid>https://tv.naver.com/v/30763607</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_176/tIMJV_1668427227968b7IaF_JPEG/cover_cover_MYH20221114019100038_20221114210003139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야, 국정조사·특검 연일 강공…"성역없이 진상 밝혀야"]]></title>
+            <link>https://tv.naver.com/v/30763553</link>
+            <guid>https://tv.naver.com/v/30763553</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_233/NGux0_1668427158641PbrLj_JPEG/cover_cover_MYH20221114019000641_20221114205803107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여, 국정조사 요구에 강경 대응…경제 현안 강조]]></title>
+            <link>https://tv.naver.com/v/30763520</link>
+            <guid>https://tv.naver.com/v/30763520</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_148/hVgBp_16684271017479lt65_JPEG/cover_cover_MYH20221114018900641_20221114205702747.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이상민 "'폼나게 사표' 논란에 송구"…야당 사퇴 요구 '일축']]></title>
+            <link>https://tv.naver.com/v/30763410</link>
+            <guid>https://tv.naver.com/v/30763410</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_131/FV45q_16684268542589zptc_JPEG/cover_cover_MYH20221114018800641_20221114205302680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 핵 도발땐 "압도적 대응"…미 전략자산 전개 확대 가능성]]></title>
+            <link>https://tv.naver.com/v/30763346</link>
+            <guid>https://tv.naver.com/v/30763346</guid>
+            <pubDate>Mon, 14 Nov 2022 17:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_222/YsHti_1668426800271544ih_JPEG/cover_cover_MYH20221114018700641_20221114205102681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
