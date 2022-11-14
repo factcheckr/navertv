@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/channelanews/clips</id>
-    <title>채널A뉴스 ─ 네이버TV</title>
-    <updated>2022-11-14T01:56:50.697Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/channelanews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>채널A뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 14 Nov 2022 03:39:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한미·한미일·한일 연쇄 정상회담…숨 가쁜 북핵 공조]]></title>
+            <link>https://tv.naver.com/v/30734440</link>
+            <guid>https://tv.naver.com/v/30734440</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_125/BSOS1_166833878303840tdl_JPEG/cover_0000237866_001_20221113202410361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명, 대장동 의혹 막고 이태원 참사 때리고]]></title>
+            <link>https://tv.naver.com/v/30734436</link>
+            <guid>https://tv.naver.com/v/30734436</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_12/vPKIY_1668338711650Qm6xu_JPEG/cover_0000237867_001_20221113202401701.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강경론 vs 현실론…국민의힘, 국정조사 수용 놓고 내홍]]></title>
+            <link>https://tv.naver.com/v/30734429</link>
+            <guid>https://tv.naver.com/v/30734429</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_132/RLWTT_1668338689828YpKqA_JPEG/cover_0000237868_001_20221113202344851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주인 못 찾은 9백 점…이태원 참사 유실물 용산경찰서 보관]]></title>
+            <link>https://tv.naver.com/v/30734425</link>
+            <guid>https://tv.naver.com/v/30734425</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_230/q6xPR_1668338690500gMqff_JPEG/cover_0000237869_001_20221113202336913.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김봉현, 블랙박스·전화 흔적 지우고 도주…사전 계획 가능성]]></title>
+            <link>https://tv.naver.com/v/30734420</link>
+            <guid>https://tv.naver.com/v/30734420</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_111/4gYF5_1668338679697xd1Ih_JPEG/cover_0000237871_001_20221113202318430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배수로 덮은 낙엽…늦가을 폭우에 곳곳 침수]]></title>
+            <link>https://tv.naver.com/v/30734417</link>
+            <guid>https://tv.naver.com/v/30734417</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_190/6piLx_1668338679487wWcBK_JPEG/cover_0000237872_001_20221113202310446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[분리배출 안 된 배터리에서 화재…굵은 빗줄기에도 ‘활활’]]></title>
+            <link>https://tv.naver.com/v/30734414</link>
+            <guid>https://tv.naver.com/v/30734414</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_200/SbCjF_1668338658688kCItm_JPEG/cover_0000237873_001_20221113202302333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘울긋불긋’ 마지막 가을 나들이…비 내린 뒤 겨울 성큼]]></title>
+            <link>https://tv.naver.com/v/30734411</link>
+            <guid>https://tv.naver.com/v/30734411</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_7/kydro_1668338669417pmdkz_JPEG/cover_0000237874_001_20221113202253907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장 카메라]“인천대교 추락 사고 막아라”…해법은?]]></title>
+            <link>https://tv.naver.com/v/30734409</link>
+            <guid>https://tv.naver.com/v/30734409</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_284/vIaIP_1668338673008MBKhj_JPEG/cover_0000237875_001_20221113202244633.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지난 3년간 로드킬 4만 마리 이상…셋 중 둘은 고라니]]></title>
+            <link>https://tv.naver.com/v/30734406</link>
+            <guid>https://tv.naver.com/v/30734406</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_73/OGm5B_16683386392324unVc_JPEG/cover_0000237876_001_20221113202236830.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넘치는 미분양 물량에 골머리…무순위 청약 3배]]></title>
+            <link>https://tv.naver.com/v/30734400</link>
+            <guid>https://tv.naver.com/v/30734400</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_213/dg3ok_1668338611331MjBxB_JPEG/cover_0000237877_001_20221113202228620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금추였는데…배추값만 내리고 김치 속재료 가격 ‘껑충’]]></title>
+            <link>https://tv.naver.com/v/30734397</link>
+            <guid>https://tv.naver.com/v/30734397</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_50/nRdwX_1668338622005LW8Rw_JPEG/cover_0000237878_001_20221113202220337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상원 지켰다…“민주당 승리” 힘 붙는 바이든]]></title>
+            <link>https://tv.naver.com/v/30734391</link>
+            <guid>https://tv.naver.com/v/30734391</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_92/cPNET_1668338634448CehPy_JPEG/cover_0000237879_001_20221113202211948.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이젠 꼭! 바꾸자]참사 먼저 겪은 외국…압사 사고 후 뭘 바꿨나]]></title>
+            <link>https://tv.naver.com/v/30734387</link>
+            <guid>https://tv.naver.com/v/30734387</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_250/gbNs6_1668338637655XDoIk_JPEG/cover_0000237881_001_20221113202201941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 댈러스 에어쇼에서 군용기 2대 충돌]]></title>
+            <link>https://tv.naver.com/v/30734357</link>
+            <guid>https://tv.naver.com/v/30734357</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_131/Ehj5g_1668338558932sx5XX_JPEG/cover_0000237882_001_20221113202109359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨]올해 ‘수능 한파’ 없어…내일 출근길 남부 10도 ‘뚝’]]></title>
+            <link>https://tv.naver.com/v/30734356</link>
+            <guid>https://tv.naver.com/v/30734356</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_195/3sWE3_1668338485723LulqI_JPEG/cover_0000237883_001_20221113202101623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주, ‘국정조사·특검’ 서명운동…여의도에서 전국으로 여론전]]></title>
+            <link>https://tv.naver.com/v/30734202</link>
+            <guid>https://tv.naver.com/v/30734202</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_124/WeFUg_16683380552076dHJa_JPEG/cover_0000237783_001_20221113201301639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]손혜원과 목포 1부, 투기 의혹 혐의는?]]></title>
+            <link>https://tv.naver.com/v/30729017</link>
+            <guid>https://tv.naver.com/v/30729017</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[12:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_114/R9exr_16683201433915dn0V_JPEG/cover_0000237813_001_20221113151101613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]손혜원과 목포 2부, 재판부 결정은?]]></title>
+            <link>https://tv.naver.com/v/30729001</link>
+            <guid>https://tv.naver.com/v/30729001</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[11:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_279/GJGZM_1668320037373Y21NG_JPEG/cover_0000237856_001_20221113151001777.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘라임 핵심’ 김봉현, 재판 당일 전자팔찌 끊고 도주]]></title>
+            <link>https://tv.naver.com/v/30728010</link>
+            <guid>https://tv.naver.com/v/30728010</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[6:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_135/qVt9T_166831626252153XPU_JPEG/cover_0000237852_001_20221113140809178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[앞으로 뉴스]월드컵 대표팀, 카타르 도하로 출발]]></title>
+            <link>https://tv.naver.com/v/30728005</link>
+            <guid>https://tv.naver.com/v/30728005</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_83/nC9fB_1668316149642qA0Pj_JPEG/cover_0000237853_001_20221113140801684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[화나요 뉴스]망신살이 뻗치다]]></title>
+            <link>https://tv.naver.com/v/30727944</link>
+            <guid>https://tv.naver.com/v/30727944</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_30/B4kRw_16683159217023VToQ_JPEG/cover_0000237851_001_20221113140401768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남욱, 폭로전 가세…김용에 경선자금 건넸나]]></title>
+            <link>https://tv.naver.com/v/30727939</link>
+            <guid>https://tv.naver.com/v/30727939</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[12:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_92/wZdnv_1668316139171GA9Tw_JPEG/cover_0000237850_001_20221113140329996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국감서 ‘웃기고 있네’ 메모…김은혜 “죄송, 사적 얘기”]]></title>
+            <link>https://tv.naver.com/v/30727936</link>
+            <guid>https://tv.naver.com/v/30727936</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_239/m2HX3_1668315946521n7xKI_JPEG/cover_0000237849_001_20221113140319225.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여야, 이태원 참사 ‘희생자 명단 공개’ 공방]]></title>
+            <link>https://tv.naver.com/v/30727932</link>
+            <guid>https://tv.naver.com/v/30727932</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[12:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_44/bzxlj_1668316105173kq6tw_JPEG/cover_0000237848_001_20221113140301658.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거리로 나온 민주당…장외 서명운동·여론전]]></title>
+            <link>https://tv.naver.com/v/30727924</link>
+            <guid>https://tv.naver.com/v/30727924</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[7:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_281/bNsSg_1668315955591l6j2b_JPEG/cover_0000237846_001_20221113140230365.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“북 도발? 미군 강화”…한일→한미→한미일 연쇄 회담]]></title>
+            <link>https://tv.naver.com/v/30727915</link>
+            <guid>https://tv.naver.com/v/30727915</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[18:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_166/RRPDc_1668316200621MVAQu_JPEG/cover_0000237845_001_20221113140201739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘라임 사태’ 김봉현, 해외 밀항시도?…항구 단속 비상]]></title>
+            <link>https://tv.naver.com/v/30726852</link>
+            <guid>https://tv.naver.com/v/30726852</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_29/QpVFb_1668310076933XVydc_JPEG/cover_0000237826_001_20221113122701615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고금리 여파로 ‘급전 창구’ 전당포도 줄폐업]]></title>
+            <link>https://tv.naver.com/v/30725819</link>
+            <guid>https://tv.naver.com/v/30725819</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_10/0siKU_1668304690739FapFs_JPEG/cover_0000237834_001_20221113105701619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고금리 여파로 ‘급전 창구’ 전당포도 줄폐업]]></title>
+            <link>https://tv.naver.com/v/30725805</link>
+            <guid>https://tv.naver.com/v/30725805</guid>
+            <pubDate>Mon, 14 Nov 2022 03:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221113_10/TkPFg_1668304630989soe0i_JPEG/cover_0000237840_001_20221113105601711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
