@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/tvchosunnews/clips</id>
-    <title>TV조선 뉴스 ─ 네이버TV</title>
-    <updated>2022-11-15T08:30:48.107Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/tvchosunnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>TV조선 뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 15 Nov 2022 09:22:39 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["북한 휴대전화 가입자 최대 700만 명…기지국은 1천여 개"]]></title>
+            <link>https://tv.naver.com/v/30789031</link>
+            <guid>https://tv.naver.com/v/30789031</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_179/cCIZj_1668501369392SkdxX_JPEG/cover_2022111590144_thumb_053153_20221115173601832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 희생자 명단 공개에 정치권서도 논란]]></title>
+            <link>https://tv.naver.com/v/30785856</link>
+            <guid>https://tv.naver.com/v/30785856</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_241/sVwqE_1668496303873fDTrs_JPEG/cover_2022111590107_thumb_040903_20221115161101660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] "영부인, 이미지 정치" vs "악마화해서 민주당이 공격"]]></title>
+            <link>https://tv.naver.com/v/30783812</link>
+            <guid>https://tv.naver.com/v/30783812</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_22/rU1Gw_1668493014167H2suB_JPEG/cover_2022111590108_thumb_031300_20221115151601891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] '이재명 최측근' 정진상 비공개 검찰 출석]]></title>
+            <link>https://tv.naver.com/v/30780963</link>
+            <guid>https://tv.naver.com/v/30780963</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_51/EQEcP_1668487914826abx5X_JPEG/cover_2022111590083_thumb_014523_20221115135101700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[與 "명단 공개, 법적책임 져야"↔野 "원하는 유족 상당수"]]></title>
+            <link>https://tv.naver.com/v/30775663</link>
+            <guid>https://tv.naver.com/v/30775663</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_107/emzqL_16684762377259N8Cr_JPEG/cover_2022111590016_thumb_103426_20221115103615655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈분석] 김용·정진상 이어 이재명 수사 가시화?]]></title>
+            <link>https://tv.naver.com/v/30775658</link>
+            <guid>https://tv.naver.com/v/30775658</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[11:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_212/cqXha_1668476442459iv4W0_JPEG/cover_2022111590024_thumb_103346_20221115103604961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[친야매체, 이태원 참사 희생자 실명 공개 파문]]></title>
+            <link>https://tv.naver.com/v/30773951</link>
+            <guid>https://tv.naver.com/v/30773951</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_69/FmBR3_1668470228416IHpiN_JPEG/cover_2022111490191_thumb_085218_20221115085601920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성공회-천주교 신부, '尹 전용기 추락 염원' 파문]]></title>
+            <link>https://tv.naver.com/v/30773913</link>
+            <guid>https://tv.naver.com/v/30773913</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_259/J3XCc_16684699104563VG2c_JPEG/cover_2022111590012_thumb_084524_20221115085109405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[11월 15일 '뉴스 퍼레이드' 오프닝]]></title>
+            <link>https://tv.naver.com/v/30773889</link>
+            <guid>https://tv.naver.com/v/30773889</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_100/0vuSh_1668469736872BWkyk_JPEG/cover_2022111590004_thumb_084357_20221115084825128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑 만난 바이든 "中, 北에 책임있는 행동 촉구해야"]]></title>
+            <link>https://tv.naver.com/v/30773888</link>
+            <guid>https://tv.naver.com/v/30773888</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_80/47Rax_1668469759379Mw15T_JPEG/cover_2022111590006_thumb_084355_20221115084818457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시진핑 "대만은 첫 번째 레드라인…독립 허락 못 해"]]></title>
+            <link>https://tv.naver.com/v/30773885</link>
+            <guid>https://tv.naver.com/v/30773885</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_156/6D62C_1668469752182uepVv_JPEG/cover_2022111590008_thumb_084353_20221115084811866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈분석] 마주앉은 美-中 정상]]></title>
+            <link>https://tv.naver.com/v/30773881</link>
+            <guid>https://tv.naver.com/v/30773881</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[11:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_133/Q2ZZn_1668469966472LnWaK_JPEG/cover_2022111590010_thumb_084351_20221115084801811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여야, 김건희 행보 놓고 설전…"빈곤 포르노"↔"정치테러"]]></title>
+            <link>https://tv.naver.com/v/30773877</link>
+            <guid>https://tv.naver.com/v/30773877</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_53/vX56c_1668469687132Ln0jY_JPEG/cover_2022111590014_thumb_084346_20221115084700299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈분석] '이태원 참사' 희생자 명단 공개 파문]]></title>
+            <link>https://tv.naver.com/v/30773875</link>
+            <guid>https://tv.naver.com/v/30773875</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[16:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_22/SdsNr_1668469964126bEmuA_JPEG/cover_2022111590018_thumb_084342_20221115084641653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정진상, 이르면 오늘 檢 출석…대장동 '윗선 수사' 분수령]]></title>
+            <link>https://tv.naver.com/v/30773873</link>
+            <guid>https://tv.naver.com/v/30773873</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_206/J980C_166846964142625rCv_JPEG/cover_2022111590020_thumb_084340_20221115084634750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유동규 이어 남욱까지, 입 여는 대장동팀…심경 변화 이유는?]]></title>
+            <link>https://tv.naver.com/v/30773870</link>
+            <guid>https://tv.naver.com/v/30773870</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_100/8RVrP_1668469646005U23pd_JPEG/cover_2022111590022_thumb_084336_20221115084628077.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버지니아 대학교 총기 난사 사건…학생 3명 사망·2명 부상]]></title>
+            <link>https://tv.naver.com/v/30773864</link>
+            <guid>https://tv.naver.com/v/30773864</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_272/aJfg9_1668469606065miOES_JPEG/cover_2022111590026_thumb_084328_20221115084611763.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[튀르키예 "美, 이스탄불 테러 배후조직 지원…조의 거부"]]></title>
+            <link>https://tv.naver.com/v/30773862</link>
+            <guid>https://tv.naver.com/v/30773862</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_244/TSRFw_16684696216802domp_JPEG/cover_2022111590028_thumb_084207_20221115084604531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[아침에 한 장] 아름다운 숲길의 돌탑들]]></title>
+            <link>https://tv.naver.com/v/30773828</link>
+            <guid>https://tv.naver.com/v/30773828</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_194/VLr70_16684693278728GULK_JPEG/cover_2022111590030_thumb_083848_20221115084114930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 바람 불며 종일 쌀쌀…오후 중서부 빗방울]]></title>
+            <link>https://tv.naver.com/v/30773827</link>
+            <guid>https://tv.naver.com/v/30773827</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_263/wS9QJ_16684692862140uHj0_JPEG/cover_2022111590032_thumb_083746_20221115084108007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[11월 15일 '뉴스 퍼레이드' 클로징]]></title>
+            <link>https://tv.naver.com/v/30773826</link>
+            <guid>https://tv.naver.com/v/30773826</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_44/qXdKI_1668469273868AjXMS_JPEG/cover_2022111590034_thumb_083730_20221115084101709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[11월 14일 '뉴스 9' 클로징]]></title>
+            <link>https://tv.naver.com/v/30765489</link>
+            <guid>https://tv.naver.com/v/30765489</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_292/fTx9j_1668430890254guwpe_JPEG/cover_2022111490231_thumb_095708_20221114220116126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 출근길 기온 '뚝'…일교차 커요]]></title>
+            <link>https://tv.naver.com/v/30765482</link>
+            <guid>https://tv.naver.com/v/30765482</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_26/xa2R2_1668430907035K9Evj_JPEG/cover_2022111490229_thumb_095652_20221114220109702.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신동욱 앵커의 시선] 진실은 침몰하지 않는다]]></title>
+            <link>https://tv.naver.com/v/30765476</link>
+            <guid>https://tv.naver.com/v/30765476</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_94/bIHsg_1668431009846PbL5b_JPEG/cover_2022111490227_thumb_095632_20221114220101676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["자랑스런 결과 내겠다" 출사표…축구대표팀 카타르 입성]]></title>
+            <link>https://tv.naver.com/v/30765291</link>
+            <guid>https://tv.naver.com/v/30765291</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_267/BwZOq_1668430629036Gv2Yi_JPEG/cover_2022111490225_thumb_095109_20221114215608590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[254년 전 대형 불화 최초 공개…'숭유억불' 조선 때 더 융성]]></title>
+            <link>https://tv.naver.com/v/30765284</link>
+            <guid>https://tv.naver.com/v/30765284</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_213/VedhX_1668430620223dTKUr_JPEG/cover_2022111490223_thumb_095415_20221114215601815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이스탄불 도심서 폭발 테러로 8명 사망·80여명 부상]]></title>
+            <link>https://tv.naver.com/v/30765129</link>
+            <guid>https://tv.naver.com/v/30765129</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_191/KGTNE_16684303383242iguf_JPEG/cover_2022111490221_thumb_094858_20221114215109991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MBC, 법인세 누락·분식회계로 520억원 추징 받아]]></title>
+            <link>https://tv.naver.com/v/30765125</link>
+            <guid>https://tv.naver.com/v/30765125</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_150/wPDve_1668430308029keIEq_JPEG/cover_2022111490219_thumb_094706_20221114215101646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[따져보니] '라임 몸통' 김봉현…'보석·영장' 논란]]></title>
+            <link>https://tv.naver.com/v/30764975</link>
+            <guid>https://tv.naver.com/v/30764975</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_49/JCMdj_1668430055294NgIBd_JPEG/cover_2022111490199_thumb_094439_20221114214620667.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은행 돌며 엔화 쇼핑…日 여행 급증·재테크 수요 늘어]]></title>
+            <link>https://tv.naver.com/v/30764971</link>
+            <guid>https://tv.naver.com/v/30764971</guid>
+            <pubDate>Tue, 15 Nov 2022 09:22:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221114_3/YKzOX_1668430038637U3Uvz_JPEG/cover_2022111490215_thumb_094137_20221114214614138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
