@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnews/clips</id>
-    <title>연합뉴스 ─ 네이버TV</title>
-    <updated>2022-11-16T16:32:55.467Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:26:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['캡틴 조로' 손흥민 첫 훈련…직접 밝힌 '7번 마스크'의 비밀은]]></title>
+            <link>https://tv.naver.com/v/30825925</link>
+            <guid>https://tv.naver.com/v/30825925</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_172/6sxBJ_1668599079267Pd0lL_JPEG/1668598709165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호날두가 싫은 페르난데스?…포르투갈 라커룸 냉랭한 악수]]></title>
+            <link>https://tv.naver.com/v/30820975</link>
+            <guid>https://tv.naver.com/v/30820975</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_225/2BkMy_1668588718689v65UV_JPEG/1668588705541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만만한 팀 없는 H조…레전드 카푸·케이힐 "한국 꼴찌"]]></title>
+            <link>https://tv.naver.com/v/30820730</link>
+            <guid>https://tv.naver.com/v/30820730</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_75/8CUni_1668588306107OELRz_JPEG/1668586811036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["적 항공기 격추시 600만원"…러, 전쟁 투입 예비군에 보상금]]></title>
+            <link>https://tv.naver.com/v/30820424</link>
+            <guid>https://tv.naver.com/v/30820424</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_167/wlxXI_1668587801533V3GCh_JPEG/1668587110992.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폴란드에 미사일 떨어져 2명 사망…미 "우크라군 요격 미사일"]]></title>
+            <link>https://tv.naver.com/v/30820196</link>
+            <guid>https://tv.naver.com/v/30820196</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_71/fcLXU_1668587357474Dr3Br_JPEG/1668586663087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["미국을 다시 위대하게"…트럼프, 2024년 대선 출마 공식 선언]]></title>
+            <link>https://tv.naver.com/v/30819872</link>
+            <guid>https://tv.naver.com/v/30819872</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_31/YWct7_1668586788588qlll1_JPEG/1668586765883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살려고 발버둥 치는 라쿤을…러, 헤르손 퇴각하며 이런 짓까지]]></title>
+            <link>https://tv.naver.com/v/30819165</link>
+            <guid>https://tv.naver.com/v/30819165</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_25/78cRd_1668585682813j0vXi_JPEG/1668585639982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[만취 관객 '노노'…카타르 월드컵 조직위 '술 깨는 구역' 설치]]></title>
+            <link>https://tv.naver.com/v/30817206</link>
+            <guid>https://tv.naver.com/v/30817206</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_240/7qLsq_16685823197175Ewrd_JPEG/1668582317589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라전은 첨단무기 시험장…헤르손 수복 일등공신 '델타']]></title>
+            <link>https://tv.naver.com/v/30813683</link>
+            <guid>https://tv.naver.com/v/30813683</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_42/u2lCL_16685763018329lhVU_JPEG/1668576267679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["더는 못 참아!" 계속된 봉쇄에 성난 中주민들 폭력 시위]]></title>
+            <link>https://tv.naver.com/v/30812749</link>
+            <guid>https://tv.naver.com/v/30812749</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_84/Mu0nF_1668574746450qj52I_JPEG/1668573915803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카타르서 생일 맞은 김민재 "팀에 헌신할 준비 끝!"]]></title>
+            <link>https://tv.naver.com/v/30812409</link>
+            <guid>https://tv.naver.com/v/30812409</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_159/UYHdT_1668574171814tNmM3_JPEG/1668574148083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤르손 빼앗긴 러, 미사일 100발 퍼부어…700만 가구 정전]]></title>
+            <link>https://tv.naver.com/v/30809748</link>
+            <guid>https://tv.naver.com/v/30809748</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_233/qKStU_1668568236388JNn7B_JPEG/1668568215442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카타르 입성 손흥민, 부은 얼굴에도 밝은 미소…몸 상태는?]]></title>
+            <link>https://tv.naver.com/v/30809733</link>
+            <guid>https://tv.naver.com/v/30809733</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_175/nuXB5_1668568199031gGjjG_JPEG/1668568187418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한중 정상 3년만에 발리서 대면회담…양국관계 방향에 '온도차']]></title>
+            <link>https://tv.naver.com/v/30809453</link>
+            <guid>https://tv.naver.com/v/30809453</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_202/gIPfU_1668567505454oooM3_JPEG/1668566259429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[길 잃자 제 발로 경찰서 찾은 반려견…목걸이로 주인 찾아]]></title>
+            <link>https://tv.naver.com/v/30809265</link>
+            <guid>https://tv.naver.com/v/30809265</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_119/8WG1c_1668567087233Ek7i0_JPEG/1668567047836.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[톺뉴스] 7년 만에 바뀌는 교육과정, 어떻게 달라지나?#shorts]]></title>
+            <link>https://tv.naver.com/v/30788349</link>
+            <guid>https://tv.naver.com/v/30788349</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_13/YmpPT_1668500141428DGVOu_JPEG/1668500087451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벤투호 카타르 첫 훈련 뜨거웠다…밝은 표정으로 구슬땀]]></title>
+            <link>https://tv.naver.com/v/30790151</link>
+            <guid>https://tv.naver.com/v/30790151</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_300/E8vL6_1668503346544AjezH_JPEG/1668502710158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[튀르키예, 미국 '폭발 테러' 조의 거절 "살인범이 현장 온 것"]]></title>
+            <link>https://tv.naver.com/v/30790044</link>
+            <guid>https://tv.naver.com/v/30790044</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_129/cBC6a_1668503109031e9Vfv_JPEG/1668503078843.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세계인구 80억명 돌파…"인류 다양성·발전 축하할 기회"]]></title>
+            <link>https://tv.naver.com/v/30789956</link>
+            <guid>https://tv.naver.com/v/30789956</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_107/dTvJE_1668502943019tj8Uo_JPEG/1668502923678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불타는 차, 잠긴 문, 의식 잃은 운전자…이때 그들이 나타났다]]></title>
+            <link>https://tv.naver.com/v/30789963</link>
+            <guid>https://tv.naver.com/v/30789963</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_51/VqCxa_1668585588990JWkib_JPEG/1668585584726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈퍼카만 42대…태국 '부패 경찰' 500억원대 재산 몰수]]></title>
+            <link>https://tv.naver.com/v/30788851</link>
+            <guid>https://tv.naver.com/v/30788851</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_214/vUXQm_1668500996282X6xqo_JPEG/1668500768864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번엔 정상회담 취재 불허·특정매체 면담 논란]]></title>
+            <link>https://tv.naver.com/v/30788354</link>
+            <guid>https://tv.naver.com/v/30788354</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_150/uoGtU_16685001468529qEPb_JPEG/1668500133548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[푸틴 빠진 G20 화상 참석한 젤렌스키 "미중 경고 대상 누구냐면"]]></title>
+            <link>https://tv.naver.com/v/30787862</link>
+            <guid>https://tv.naver.com/v/30787862</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_246/04kW4_1668499348980Ae6jy_JPEG/1668498116932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가왕 조용필, 신곡 '찰나'·'세렝게티처럼' 18일 공개]]></title>
+            <link>https://tv.naver.com/v/30786194</link>
+            <guid>https://tv.naver.com/v/30786194</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_98/e5p9B_1668496731648ccVX6_JPEG/1668496700476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러-우크라 잇단 '협상 임박설'…나토·EU "판단은 우크라 몫"]]></title>
+            <link>https://tv.naver.com/v/30782443</link>
+            <guid>https://tv.naver.com/v/30782443</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_296/ezWi3_1668490650151Wtphf_JPEG/1668490617361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감기 걸린 바이든 손 꼭 잡은 시진핑…대만 문제엔?]]></title>
+            <link>https://tv.naver.com/v/30780323</link>
+            <guid>https://tv.naver.com/v/30780323</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_6/hgZLd_1668486629693mCbcP_JPEG/1668480202018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 희생자 명단 공개…'유족 패싱' 논란]]></title>
+            <link>https://tv.naver.com/v/30780254</link>
+            <guid>https://tv.naver.com/v/30780254</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_242/6zbIP_1668486473405qbu8e_JPEG/1668486381456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세르비아 다시 '친러'로?…러 '전쟁 배상' 결의안 가결]]></title>
+            <link>https://tv.naver.com/v/30778588</link>
+            <guid>https://tv.naver.com/v/30778588</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_288/4JFOQ_1668482689054hM5IW_JPEG/1668482640613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["영부인도 개인 삶 살아야" 33세 칠레 퍼스트레이디 폭탄선언]]></title>
+            <link>https://tv.naver.com/v/30778422</link>
+            <guid>https://tv.naver.com/v/30778422</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_75/ns2b1_1668482229808Tavnq_JPEG/1668482220956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[젤렌스키, 러시아서 되찾은 헤르손 전격 방문…종전의 시작]]></title>
+            <link>https://tv.naver.com/v/30778161</link>
+            <guid>https://tv.naver.com/v/30778161</guid>
+            <pubDate>Wed, 16 Nov 2022 17:26:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221115_96/uae2O_1668481476732dYrDM_JPEG/1668481460676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

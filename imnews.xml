@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/imnews/clips</id>
-    <title>MBC뉴스 ─ 네이버TV</title>
-    <updated>2022-11-16T16:32:55.457Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/imnews/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>MBC뉴스 ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:26:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[헤어진 여성을 차로 치고 흉기 휘두르고‥40대 남성 긴급 체포]]></title>
+            <link>https://tv.naver.com/v/30828561</link>
+            <guid>https://tv.naver.com/v/30828561</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_139/sArum_1668603465865NYGix_JPEG/cover_cover_desk_20221116_202904_1_19_Large_20221116215702603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반세기 만에 인류를 달로‥아르테미스 4전 5기 발사 성공]]></title>
+            <link>https://tv.naver.com/v/30828480</link>
+            <guid>https://tv.naver.com/v/30828480</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_32/wPnP3_166860336221508bej_JPEG/cover_cover_desk_20221116_203646_1_22_Large_20221116215503016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['살인의 추억' 누명 쓴 20년 옥살이‥"국가 20억 원 배상해야"]]></title>
+            <link>https://tv.naver.com/v/30827402</link>
+            <guid>https://tv.naver.com/v/30827402</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_256/o3JUe_1668601377846dnqDe_JPEG/cover_cover_desk_20221116_202703_1_18_Large_20221116212204246.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수입 김치 역대 최대‥오른 물가에 김장철 걱정]]></title>
+            <link>https://tv.naver.com/v/30827157</link>
+            <guid>https://tv.naver.com/v/30827157</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_281/Ux7LE_1668601059960mul9N_JPEG/cover_cover_desk_20221116_202433_1_17_Large_20221116211603919.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대구 가스충전소 폭발‥8명 부상]]></title>
+            <link>https://tv.naver.com/v/30826386</link>
+            <guid>https://tv.naver.com/v/30826386</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_47/unt1U_1668599882833Tqvy0_JPEG/cover_cover_desk_20221116_200338_1_8_Large_20221116205703362.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스데스크 클로징]]></title>
+            <link>https://tv.naver.com/v/30826172</link>
+            <guid>https://tv.naver.com/v/30826172</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_89/d9aaf_1668599489191KvtwA_JPEG/cover_cover_desk_20221116_204632_1_29_Large_20221116205122486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 수능일 아침 짙은 안개‥큰 일교차, 옷차림 유의]]></title>
+            <link>https://tv.naver.com/v/30826167</link>
+            <guid>https://tv.naver.com/v/30826167</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_13/Ew2tg_1668599500164q8re6_JPEG/cover_cover_desk_20221116_204549_1_28_Large_20221116205116194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['양의지, 친정 복귀?' 두산, '강력한 영입 의지']]></title>
+            <link>https://tv.naver.com/v/30826164</link>
+            <guid>https://tv.naver.com/v/30826164</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_126/29pXM_1668599707281kgm9p_JPEG/cover_cover_desk_20221116_204350_1_26_Large_20221116205109678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가나도 첫 훈련‥"우리도 경쟁력 있습니다!"]]></title>
+            <link>https://tv.naver.com/v/30826157</link>
+            <guid>https://tv.naver.com/v/30826157</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_28/8oFv3_1668600504672zq2jw_JPEG/cover_cover_desk_20221116_204213_1_25_Large_20221116205102954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스데스크] 국회 출석한 용산서장과 서울청 상황관리관 "현장 보고가 없었다"]]></title>
+            <link>https://tv.naver.com/v/30826161</link>
+            <guid>https://tv.naver.com/v/30826161</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:41:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_203/9L8EX_1668603246956IxOIa_PNG/1668603244624.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[고액 체납자 만여 명 공개‥'빌라왕' 포함되고 전두환은 빠져]]></title>
+            <link>https://tv.naver.com/v/30826033</link>
+            <guid>https://tv.naver.com/v/30826033</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_155/H5DMi_16685992673062pBKr_JPEG/cover_cover_desk_20221116_203202_1_20_Large_20221116204702696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['월드컵 첫 경험' 김민재‥"헌신할 준비됐다"]]></title>
+            <link>https://tv.naver.com/v/30825949</link>
+            <guid>https://tv.naver.com/v/30825949</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_185/bb1Iz_1668600517083vYLWj_JPEG/cover_cover_desk_20221116_204040_1_24_Large_20221116204502995.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트럼프, 다시 대권 도전‥"민주당이 더 신나" 곱지 않은 시선]]></title>
+            <link>https://tv.naver.com/v/30825866</link>
+            <guid>https://tv.naver.com/v/30825866</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_21/oXwMS_1668599032449GtKdc_JPEG/cover_cover_desk_20221116_203839_1_23_Large_20221116204302425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['공짜 비료'라며 폐기물 불법 매립‥'조폭' 도운 전직 공무원들]]></title>
+            <link>https://tv.naver.com/v/30825749</link>
+            <guid>https://tv.naver.com/v/30825749</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_245/SFaIY_1668598857063cwLFh_JPEG/cover_cover_desk_20221116_203433_1_21_Large_20221116204003682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[순방에서 불거진 대통령실의 언론 인식 논란‥설명도 부족]]></title>
+            <link>https://tv.naver.com/v/30825552</link>
+            <guid>https://tv.naver.com/v/30825552</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_58/pLdxs_1668598592310NYN8a_JPEG/cover_cover_desk_20221116_195544_1_5_Large_20221116203502914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['빈곤 포르노' 발언 윤리위 제소, 장경태 "사과할 뜻 없다"]]></title>
+            <link>https://tv.naver.com/v/30825437</link>
+            <guid>https://tv.naver.com/v/30825437</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_250/z1elh_1668598378420lapfF_JPEG/cover_cover_desk_20221116_195752_1_6_Large_20221116203204300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[집중취재M] 2022년 결혼 보고서‥동거도 비혼출산도 OK. 그런데‥]]></title>
+            <link>https://tv.naver.com/v/30825370</link>
+            <guid>https://tv.naver.com/v/30825370</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_136/gY7Cr_1668598262288lhsky_JPEG/cover_cover_desk_20221116_202210_1_16_Large_20221116203003546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫 공개 훈련 우루과이, "1차전이 가장 중요"]]></title>
+            <link>https://tv.naver.com/v/30825306</link>
+            <guid>https://tv.naver.com/v/30825306</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_46/wvhKF_1668598962506MhR5D_JPEG/cover_cover_desk_20221116_202028_1_15_Large_20221116202803564.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손흥민, 마스크 끼고 첫 훈련 "뛰는 데 문제없다"]]></title>
+            <link>https://tv.naver.com/v/30825245</link>
+            <guid>https://tv.naver.com/v/30825245</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_83/Ku2Um_1668598060743b9LYv_JPEG/cover_cover_desk_20221116_201848_1_14_Large_20221116202635660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[욱일기에 경례까지 했는데‥뒤통수 치는 일본]]></title>
+            <link>https://tv.naver.com/v/30825239</link>
+            <guid>https://tv.naver.com/v/30825239</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_4/tW87j_1668598034562zhdLN_JPEG/cover_cover_desk_20221116_201711_1_13_Large_20221116202628589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나토국 폴란드에 난데없는 미사일‥국제사회 한때 초긴장]]></title>
+            <link>https://tv.naver.com/v/30825233</link>
+            <guid>https://tv.naver.com/v/30825233</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_37/BHmJ5_16685980286882BzS6_JPEG/cover_cover_desk_20221116_201138_1_12_Large_20221116202620299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["노웅래 최고위원 선거 1억 가져가"‥노웅래 전격 압수수색]]></title>
+            <link>https://tv.naver.com/v/30825226</link>
+            <guid>https://tv.naver.com/v/30825226</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_126/vuxRW_1668598019456ThsJ6_JPEG/cover_cover_desk_20221116_200939_1_11_Large_20221116202612403.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 골목길 밖엔 경찰 있었지만‥참사 당일 이태원로 CCTV 입수]]></title>
+            <link>https://tv.naver.com/v/30825219</link>
+            <guid>https://tv.naver.com/v/30825219</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_66/S70pL_1668598027571TP7Px_JPEG/cover_cover_desk_20221116_194637_1_2_Large_20221116202603553.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["확진 수험생, 지난해 20배"‥당일 증상 있어도 응시 가능]]></title>
+            <link>https://tv.naver.com/v/30824934</link>
+            <guid>https://tv.naver.com/v/30824934</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_29/Zguc3_16685974719467sYsm_JPEG/cover_cover_desk_20221116_200514_1_9_Large_20221116201702704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백신 접종률을 끌어올려라‥"재유행 비상"]]></title>
+            <link>https://tv.naver.com/v/30824804</link>
+            <guid>https://tv.naver.com/v/30824804</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_28/Ofy4n_1668597183590Bg9Ac_JPEG/cover_cover_desk_20221116_200737_1_10_Large_20221116201212673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['최측근' 정진상 구속영장 청구‥이재명 수사 2차 분수령]]></title>
+            <link>https://tv.naver.com/v/30824798</link>
+            <guid>https://tv.naver.com/v/30824798</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_161/84w4E_1668597175673oicow_JPEG/cover_cover_desk_20221116_200117_1_7_Large_20221116201204187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[순방 마치고 다시 국내 현안으로, 대통령실 "대국민보고대회 추진"]]></title>
+            <link>https://tv.naver.com/v/30824585</link>
+            <guid>https://tv.naver.com/v/30824585</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_134/Ydjye_1668596769498xBxia_JPEG/cover_cover_desk_20221116_195134_1_4_Large_20221116200503083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특수본, 이상민 장관 피의자 입건‥"지휘 의무 확인 중"]]></title>
+            <link>https://tv.naver.com/v/30824263</link>
+            <guid>https://tv.naver.com/v/30824263</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_276/beqeM_1668596155854vquX9_JPEG/cover_cover_desk_20221116_195018_1_3_Large_20221116195503709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국회 출석한 용산서장과 서울청 상황관리관 "현장 보고가 없었다"]]></title>
+            <link>https://tv.naver.com/v/30824162</link>
+            <guid>https://tv.naver.com/v/30824162</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_223/X2cWc_1668595923505MnjUF_JPEG/cover_cover_desk_20221116_194250_1_1_Large_20221116195102919.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 마스크 쓴 손흥민 “전력질주도 문제 없어요”]]></title>
+            <link>https://tv.naver.com/v/30823622</link>
+            <guid>https://tv.naver.com/v/30823622</guid>
+            <pubDate>Wed, 16 Nov 2022 17:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221116_49/P5e1A_1668594740589PQryR_JPEG/cover_cover_640_20221116192902996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
