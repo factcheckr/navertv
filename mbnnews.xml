@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 20:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 21:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[305회_안개 및 미세먼지 대응요령]]></title>
+            <link>https://tv.naver.com/v/30868596</link>
+            <guid>https://tv.naver.com/v/30868596</guid>
+            <pubDate>Thu, 17 Nov 2022 21:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[15:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_31/uxXUC_1668719470358pj4ki_JPEG/cover_cover_20221118060053_20_849_1313574_1080_7_20221118060401277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정진상 영장심사 앞두고 민주당 "정치 수사"…한동훈, 야당 주장 적극 반박]]></title>
             <link>https://tv.naver.com/v/30860597</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 11:19:17 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_74/6LRUO_1668681007569lH5g8_JPEG/cover_cover_20221117192131_20_552_1313545_1080_7_20221117192901235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남북, 유엔서 '이태원 참사' 언급 충돌한 이유는]]></title>
-            <link>https://tv.naver.com/v/30858010</link>
-            <guid>https://tv.naver.com/v/30858010</guid>
-            <pubDate>Thu, 17 Nov 2022 11:19:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_229/hD7CY_1668680888079qFXaR_JPEG/cover_cover_20221117192014_20_552_1313544_1080_7_20221117192701193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
