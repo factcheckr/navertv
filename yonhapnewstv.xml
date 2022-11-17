@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 13:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 14:21:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 맑고 큰 일교차…내륙 곳곳 짙은 안개]]></title>
+            <link>https://tv.naver.com/v/30863596</link>
+            <guid>https://tv.naver.com/v/30863596</guid>
+            <pubDate>Thu, 17 Nov 2022 14:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_31/IfxEB_1668692563392SNKO8_JPEG/cover_cover_MYH20221117025000038_20221117224202888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["돈보다 '물고기 잡는 법' 필요…어른의 격려도"]]></title>
             <link>https://tv.naver.com/v/30863476</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 12:44:32 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_257/VPrrd_16686846058778vnL2_JPEG/cover_cover_MYH20221117020500641_20221117202902208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부·서울시 등 압수수색…윗선 수사 본격화]]></title>
-            <link>https://tv.naver.com/v/30859418</link>
-            <guid>https://tv.naver.com/v/30859418</guid>
-            <pubDate>Thu, 17 Nov 2022 12:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_108/wJ8Tj_1668684361816RndWX_JPEG/cover_cover_MYH20221117020400641_20221117202502274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
