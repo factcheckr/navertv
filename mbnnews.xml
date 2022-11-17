@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:28:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우유 1L 2800원대…'밀크플레이션' 우려 [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/30843300</link>
+            <guid>https://tv.naver.com/v/30843300</guid>
+            <pubDate>Thu, 17 Nov 2022 04:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_148/Xznse_1668658543372JyPHK_JPEG/cover_cover_20221117131120_20_845_1313512_1080_7_20221117131501285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첫 국제 OTT 포럼 개최 "국내 사업자 경쟁보다 협력해야"]]></title>
             <link>https://tv.naver.com/v/30839437</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Nov 2022 23:23:13 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_58/HRVdZ_1668639338239aRPcI_JPEG/cover_cover_20221117075102_20_605_1313479_1080_7_20221117075501185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 성탄절 빛의 향연]]></title>
-            <link>https://tv.naver.com/v/30835764</link>
-            <guid>https://tv.naver.com/v/30835764</guid>
-            <pubDate>Wed, 16 Nov 2022 23:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_252/bIMcZ_1668639223097vpCWg_JPEG/cover_cover_20221117074944_20_605_1313478_1080_7_20221117075302873.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
