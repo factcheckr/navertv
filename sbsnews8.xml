@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 윤 대통령 "MBC, 가짜뉴스로 동맹 이간질"…특정 언론 면담 논란엔 "개인적 일"]]></title>
+            <link>https://tv.naver.com/v/30876263</link>
+            <guid>https://tv.naver.com/v/30876263</guid>
+            <pubDate>Fri, 18 Nov 2022 05:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[7:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_291/pdIV8_1668746292566Qxjjz_JPEG/cover_0001014084_001_20221118133501264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서울 낮 최고 17도…일부 지역 옅은 안개로 시야 흐릿]]></title>
             <link>https://tv.naver.com/v/30875504</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 01:57:41 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_39/5IOrB_1668727911897cogGi_JPEG/cover_0001013981_001_20221118083044595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국어 조금 쉬웠고 수학 비슷했다…7차 유행 속 수능]]></title>
-            <link>https://tv.naver.com/v/30869587</link>
-            <guid>https://tv.naver.com/v/30869587</guid>
-            <pubDate>Fri, 18 Nov 2022 01:57:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_47/lnTF4_1668727906591bT02u_JPEG/cover_0001013983_001_20221118083035969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
