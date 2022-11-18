@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 13:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 14:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고기온 19도…내일 9~18도]]></title>
+            <link>https://tv.naver.com/v/30892122</link>
+            <guid>https://tv.naver.com/v/30892122</guid>
+            <pubDate>Fri, 18 Nov 2022 14:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_21/MGdJT_1668780678462xTNTF_JPEG/cover_0011377423_001_20221118231101201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[與, ‘MBC 전방위 압박’…野 “비뚤어진 언론관”]]></title>
             <link>https://tv.naver.com/v/30891511</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 13:39:14 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_186/Xfupt_1668777012232PLNzU_JPEG/cover_0011377302_001_20221118220925567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 노웅래 자택 추가 압수수색…‘돈 다발’ 압수]]></title>
-            <link>https://tv.naver.com/v/30890908</link>
-            <guid>https://tv.naver.com/v/30890908</guid>
-            <pubDate>Fri, 18 Nov 2022 13:39:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_53/aaxbF_16687770377563tFcM_JPEG/cover_0011377301_001_20221118220917230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

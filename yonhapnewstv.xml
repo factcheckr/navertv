@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 13:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 14:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 주말 큰 일교차 유의…밤사이 중부 짙은 안개]]></title>
+            <link>https://tv.naver.com/v/30891587</link>
+            <guid>https://tv.naver.com/v/30891587</guid>
+            <pubDate>Fri, 18 Nov 2022 14:21:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_248/AhexC_1668779020437yhnne_JPEG/cover_cover_MYH20221118021900038_20221118224302487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국회, '주식 내역 미제출' 백경란 질병청장 15일 검찰 고발]]></title>
             <link>https://tv.naver.com/v/30891052</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 11:18:28 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_1/3RAjb_1668769142618z4gqb_JPEG/cover_cover_MYH20221118018400641_20221118195803108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야권, '이태원 국정조사' 위원 11명 확정…여, 반대 입장 유지]]></title>
-            <link>https://tv.naver.com/v/30887856</link>
-            <guid>https://tv.naver.com/v/30887856</guid>
-            <pubDate>Fri, 18 Nov 2022 11:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_117/YRWXE_1668769096041MTYKS_JPEG/cover_cover_MYH20221118018300641_20221118195702467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
