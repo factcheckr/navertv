@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 07:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 08:28:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘세계 최대 갑부’의 방한 20시간]]></title>
+            <link>https://tv.naver.com/v/30883784</link>
+            <guid>https://tv.naver.com/v/30883784</guid>
+            <pubDate>Fri, 18 Nov 2022 08:27:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_285/z6idF_1668759269577cnlLg_JPEG/1668759231993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이태원 외국인 희생자 사진벽보 공개한 목사]]></title>
             <link>https://tv.naver.com/v/30880918</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 12:45:07 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_236/Vl9FF_1668685126065VVOyN_JPEG/cover_0000238215_001_20221117203802083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]출근길 쌀쌀하지만 낮 기온↑…큰 일교차 유의]]></title>
-            <link>https://tv.naver.com/v/30859704</link>
-            <guid>https://tv.naver.com/v/30859704</guid>
-            <pubDate>Thu, 17 Nov 2022 12:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_9/q3BKX_1668685046495B9brQ_JPEG/cover_0000238216_001_20221117203654163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
