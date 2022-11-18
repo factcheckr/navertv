@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 16:31:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 17:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 이통3사 당혹 그 자체...정부 "사상 초유의 결정"]]></title>
+            <link>https://tv.naver.com/v/30894896</link>
+            <guid>https://tv.naver.com/v/30894896</guid>
+            <pubDate>Fri, 18 Nov 2022 17:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_103/btJeD_1668791517089rysgV_JPEG/cover_cover_202211190208143977_t_20221119021104530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['멀티버스'로 터졌다...제3전성기 맞은 환갑 양자경]]></title>
             <link>https://tv.naver.com/v/30894377</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 13:40:12 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_193/JkRQY_16687774860557Ji6O_JPEG/cover_cover_202211182213349173_t_20221118221702321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주, 국정조사 특위 위원장에 우상호 내정...與, 반발 속 고심]]></title>
-            <link>https://tv.naver.com/v/30891051</link>
-            <guid>https://tv.naver.com/v/30891051</guid>
-            <pubDate>Fri, 18 Nov 2022 13:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_125/CAdml_16687773630620Dh8p_JPEG/cover_cover_202211182211265444_t_20221118221502542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
