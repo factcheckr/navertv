@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 06:35:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 07:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태원 외국인 희생자 사진벽보 공개한 목사]]></title>
+            <link>https://tv.naver.com/v/30880918</link>
+            <guid>https://tv.naver.com/v/30880918</guid>
+            <pubDate>Fri, 18 Nov 2022 07:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_194/dzHGF_1668754057554mPuqS_JPEG/1668753932691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[민생을 부탁해]정기명 여수시장 “여수-순천 고속도로 연장 사업 추진”]]></title>
             <link>https://tv.naver.com/v/30877632</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Nov 2022 12:45:07 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221117_9/q3BKX_1668685046495B9brQ_JPEG/cover_0000238216_001_20221117203654163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[앵커의 마침표]정치 인질이 된 내 돈]]></title>
-            <link>https://tv.naver.com/v/30859703</link>
-            <guid>https://tv.naver.com/v/30859703</guid>
-            <pubDate>Thu, 17 Nov 2022 12:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221117_64/mhTP0_166868503441482K28_JPEG/cover_0000238217_001_20221117203646800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
