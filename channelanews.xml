@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 05:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 06:28:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]이재명과 선거자금 1부, 성남시장 재선]]></title>
+            <link>https://tv.naver.com/v/30902521</link>
+            <guid>https://tv.naver.com/v/30902521</guid>
+            <pubDate>Sat, 19 Nov 2022 06:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[13:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_237/kJJ9R_1668839081223NcA4m_JPEG/cover_0000238304_001_20221119151901623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘이재명 최측근’ 정진상 구속…검찰 수사 가속]]></title>
             <link>https://tv.naver.com/v/30899393</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 11:19:00 GMT</pubDate>
             <content:encoded><![CDATA[7:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_98/i4KZ6_166876990029982gYp_JPEG/cover_0000238263_001_20221118200853645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남욱·김만배 구속 연장 안 한다…‘대장동 키맨’ 전원 석방]]></title>
-            <link>https://tv.naver.com/v/30888119</link>
-            <guid>https://tv.naver.com/v/30888119</guid>
-            <pubDate>Fri, 18 Nov 2022 11:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[4:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_94/eJscg_16687698553310IopW_JPEG/cover_0000238262_001_20221118200842675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
