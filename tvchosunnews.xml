@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 06:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 07:20:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 19 Nov 2022 06:27:57 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_297/6cooT_1668839189188J5CWb_JPEG/cover_2022111990018_thumb_032407_20221119152610861.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT·LGU+, 사상 첫 주파수 할당 취소]]></title>
+            <link>https://tv.naver.com/v/30902644</link>
+            <guid>https://tv.naver.com/v/30902644</guid>
+            <pubDate>Sat, 19 Nov 2022 07:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[10:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_296/K4v1n_1668839419309XUSIj_JPEG/cover_2022111990016_thumb_032352_20221119152601732.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[광역버스 입석 금지 첫날…버스 무정차 통과에 지각 속출]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 12:41:24 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_259/9GSPK_1668773829598kxb2R_JPEG/cover_2022111890134_thumb_091355_20221118211609175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[檢, 노웅래 자택서 수억 돈다발 압수…"현금 소지가 죄냐"]]></title>
-            <link>https://tv.naver.com/v/30889563</link>
-            <guid>https://tv.naver.com/v/30889563</guid>
-            <pubDate>Fri, 18 Nov 2022 12:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_15/7oVw6_1668773828798FMqVW_JPEG/cover_2022111890132_thumb_091027_20221118211601693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
