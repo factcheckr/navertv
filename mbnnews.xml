@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 20:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 21:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[306회_산불 대응 및 예방요령]]></title>
+            <link>https://tv.naver.com/v/30914973</link>
+            <guid>https://tv.naver.com/v/30914973</guid>
+            <pubDate>Sat, 19 Nov 2022 21:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[14:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_16/gkIZT_1668891479157ma7Kh_JPEG/cover_cover_20221120054506_20_849_1313706_1080_7_20221120055101304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스센터 날씨] 내일도 낮 동안 포근…남부 약한 비]]></title>
             <link>https://tv.naver.com/v/30909054</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 12:41:40 GMT</pubDate>
             <content:encoded><![CDATA[11:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_122/Jm2se_1668772085493y4xMB_JPEG/cover_cover_20221118203754_20_536_1313670_1080_7_20221118204201262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 22년 만의 여야 친선 축구…협치 불씨?]]></title>
-            <link>https://tv.naver.com/v/30888786</link>
-            <guid>https://tv.naver.com/v/30888786</guid>
-            <pubDate>Fri, 18 Nov 2022 12:41:40 GMT</pubDate>
-            <content:encoded><![CDATA[8:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_154/lLdTT_1668771882419TW2UI_JPEG/cover_cover_20221118203132_20_536_1313669_1080_7_20221118204001244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
