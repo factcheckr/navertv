@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 19:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 20:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 11월 20일]]></title>
+            <link>https://tv.naver.com/v/30914915</link>
+            <guid>https://tv.naver.com/v/30914915</guid>
+            <pubDate>Sat, 19 Nov 2022 20:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[30:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_278/ABFQ8_1668888221289oFFvf_JPEG/cover_cover_MYH20221119006600038_20221120050102023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굶지 않으려 열대우림 개발한다는데…선진국 역할은? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/30910056</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Nov 2022 07:19:35 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_176/oYSNU_1668839473080MIRY2_JPEG/cover_cover_MYH20221119007500038_20221119153003161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정은과 손잡고 ICBM 참관한 딸 첫 공개…둘째 김주애 추정]]></title>
-            <link>https://tv.naver.com/v/30902553</link>
-            <guid>https://tv.naver.com/v/30902553</guid>
-            <pubDate>Sat, 19 Nov 2022 06:27:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_102/CbEqS_16688389230836aSpw_JPEG/cover_cover_MYH20221119007400038_20221119152101988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
