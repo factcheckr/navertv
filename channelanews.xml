@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 08:27:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 09:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sun, 20 Nov 2022 06:27:35 GMT</pubDate>
             <content:encoded><![CDATA[14:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221120_157/QtImi_1668924491230eg8u0_JPEG/cover_0000238359_001_20221120150301642.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[앞으로 뉴스]월드컵 개막전…카타르 대 에콰도르]]></title>
-            <link>https://tv.naver.com/v/30919300</link>
-            <guid>https://tv.naver.com/v/30919300</guid>
-            <pubDate>Sun, 20 Nov 2022 06:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_194/jsRkg_16689219451613OP84_JPEG/cover_0000238356_001_20221120142504504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘금투세 유예’ 與 강공에 한발 물러난 민주당?]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 19 Nov 2022 06:28:05 GMT</pubDate>
             <content:encoded><![CDATA[13:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_237/kJJ9R_1668839081223NcA4m_JPEG/cover_0000238304_001_20221119151901623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘이재명 최측근’ 정진상 구속…검찰 수사 가속]]></title>
+            <link>https://tv.naver.com/v/30899393</link>
+            <guid>https://tv.naver.com/v/30899393</guid>
+            <pubDate>Sun, 20 Nov 2022 09:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_37/ueCqC_1668828309709lT1kJ_JPEG/cover_0000238299_001_20221119122401693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
