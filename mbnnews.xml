@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 21:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 22:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월 21일 굿모닝MBN 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/30935449</link>
+            <guid>https://tv.naver.com/v/30935449</guid>
+            <pubDate>Sun, 20 Nov 2022 22:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_191/FYdAc_1668982686001vUuTW_JPEG/cover_cover_20221121071447_20_605_1313734_1080_7_20221121071701177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대장동 키맨' 남욱도 석방…폭로 가세하나?]]></title>
+            <link>https://tv.naver.com/v/30935430</link>
+            <guid>https://tv.naver.com/v/30935430</guid>
+            <pubDate>Sun, 20 Nov 2022 22:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_114/uTsWs_1668982570697rS7cK_JPEG/cover_cover_20221121071117_20_605_1313733_1080_7_20221121071501817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스센터 날씨]늦가을 정취 완연…큰 일교차 주의]]></title>
             <link>https://tv.naver.com/v/30925696</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 19 Nov 2022 11:18:19 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_12/Mfv4v_16688563390560r80O_JPEG/cover_cover_20221119200524_20_906_1313696_1080_7_20221119201101215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] '부르면 오는' 10인승 콜버스 투입…가격 저렴하고 편리]]></title>
-            <link>https://tv.naver.com/v/30908091</link>
-            <guid>https://tv.naver.com/v/30908091</guid>
-            <pubDate>Sat, 19 Nov 2022 11:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_135/ksMsa_1668856210466pEYWf_JPEG/cover_cover_20221119200346_20_906_1313695_1080_7_20221119200901227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감염자 급증에…베이징은 흡입형 백신 접종, 광저우엔 초대형 격리시설]]></title>
-            <link>https://tv.naver.com/v/30908048</link>
-            <guid>https://tv.naver.com/v/30908048</guid>
-            <pubDate>Sat, 19 Nov 2022 11:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_214/uXuk3_16688560889184s0UP_JPEG/cover_cover_20221119200213_20_906_1313694_1080_7_20221119200701235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
