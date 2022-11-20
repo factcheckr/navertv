@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 20:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 21:19:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['29일간의 열전' 카타르 월드컵 개막…에콰도르, 개막전 완승]]></title>
+            <link>https://tv.naver.com/v/30934852</link>
+            <guid>https://tv.naver.com/v/30934852</guid>
+            <pubDate>Sun, 20 Nov 2022 21:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_170/w9AtY_1668978978274EvQ4m_JPEG/cover_0001014468_001_20221121061501190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] BTS 정국, 월드컵의 문을 열다…공식 주제가 열창 (카타르월드컵 개막식)]]></title>
             <link>https://tv.naver.com/v/30931490</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Nov 2022 12:37:20 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_6/BfLTt_16688598522032swAj_JPEG/cover_0001014319_001_20221119210911026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신무기 발사장에 딸 '주애' 동행…김정은의 의도는?]]></title>
-            <link>https://tv.naver.com/v/30909203</link>
-            <guid>https://tv.naver.com/v/30909203</guid>
-            <pubDate>Sat, 19 Nov 2022 12:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_188/x7KUS_1668859805965eLY8h_JPEG/cover_0001014321_001_20221119210901193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
