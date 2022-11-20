@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 10:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 11:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/30924789</link>
+            <guid>https://tv.naver.com/v/30924789</guid>
+            <pubDate>Sun, 20 Nov 2022 11:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221120_299/gNOss_1668942291938nfdoK_JPEG/cover_0001014416_001_20221120200401209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] '평년보다 10도↑' 포근한 휴일…일교차는 커요]]></title>
             <link>https://tv.naver.com/v/30916890</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Nov 2022 06:27:12 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221119_207/jkca7_16688374230311fMPr_JPEG/cover_0001014297_001_20221119145601205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장영상] ICBM 쏘던 날…손 꼭 잡고 딸바보 과시한 김정은]]></title>
-            <link>https://tv.naver.com/v/30901474</link>
-            <guid>https://tv.naver.com/v/30901474</guid>
-            <pubDate>Sat, 19 Nov 2022 05:19:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221119_299/xLMvn_1668834703414tjYDF_JPEG/cover_0001014293_001_20221119141101194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
