@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 21:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 22:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Mon, 21 Nov 2022 07:21:08 GMT</pubDate>
             <content:encoded><![CDATA[7:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_275/iKip4_1669013999296JkIGH_JPEG/1669013949586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[톺뉴스] 역대 '막내 호랑이', 누구 있었지? #shorts]]></title>
+            <link>https://tv.naver.com/v/30948191</link>
+            <guid>https://tv.naver.com/v/30948191</guid>
+            <pubDate>Mon, 21 Nov 2022 22:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_205/uo0Ag_1669013056255ThyQk_JPEG/1669013003455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['맥주금지' 뒤통수에 팬·후원사 부글부글]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Nov 2022 08:27:24 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221118_69/eZ1Vj_1668759277815Utg0U_JPEG/1668759204771.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 중간선거 후폭풍…트럼프 vs '리틀 트럼프' 디샌티스]]></title>
-            <link>https://tv.naver.com/v/30883757</link>
-            <guid>https://tv.naver.com/v/30883757</guid>
-            <pubDate>Fri, 18 Nov 2022 08:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[6:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221118_73/0h2mQ_1668759197545G7zBx_JPEG/1668756521233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
