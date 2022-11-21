@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 13:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 14:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나이트포커스] "불미스러운 사태 관련"...멈춰버린 도어스테핑]]></title>
+            <link>https://tv.naver.com/v/30961709</link>
+            <guid>https://tv.naver.com/v/30961709</guid>
+            <pubDate>Mon, 21 Nov 2022 14:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[23:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_281/m9ruH_1669039958940kNhPl_JPEG/cover_cover_202211212252242094_t_20221121230103203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[中 신규 감염 5일째 2만 명대...베이징서 2명 또 사망]]></title>
             <link>https://tv.naver.com/v/30960892</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 12:43:22 GMT</pubDate>
             <content:encoded><![CDATA[4:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_164/hOCrX_1669033006635VpYyt_JPEG/cover_cover_202211211859331736_t_20221121211502048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소폭 줄어든 예대금리차...NH농협 석 달 연속 '최대']]></title>
-            <link>https://tv.naver.com/v/30958472</link>
-            <guid>https://tv.naver.com/v/30958472</guid>
-            <pubDate>Mon, 21 Nov 2022 12:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_73/mEz4z_1669032836559B9v4s_JPEG/cover_cover_202211212034083834_t_20221121211308127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
