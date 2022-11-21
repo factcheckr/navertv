@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 06:34:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 07:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/30949405</link>
+            <guid>https://tv.naver.com/v/30949405</guid>
+            <pubDate>Mon, 21 Nov 2022 07:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[9:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_50/vpkJT_1669015093614hOqbO_JPEG/cover_0011378247_001_20221121161501207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] 바이든 “감독님, 저를 투입하세요”…미국 월드컵 대표팀과 통화]]></title>
             <link>https://tv.naver.com/v/30947385</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 04:30:18 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_181/eo3T7_1669001293014b5OhL_JPEG/cover_0011378176_001_20221121122716750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰 “민주당사 폭발물 설치” 게시글 작성자 추적]]></title>
-            <link>https://tv.naver.com/v/30941556</link>
-            <guid>https://tv.naver.com/v/30941556</guid>
-            <pubDate>Mon, 21 Nov 2022 04:30:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_39/qeZtw_1669001245913vyqRQ_JPEG/cover_0011378175_001_20221121122710026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
