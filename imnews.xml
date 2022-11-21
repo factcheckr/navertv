@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 08:29:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 09:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경부고속도로서 버스 추돌로 1명 사망·31명 부상 외]]></title>
+            <link>https://tv.naver.com/v/30952650</link>
+            <guid>https://tv.naver.com/v/30952650</guid>
+            <pubDate>Mon, 21 Nov 2022 09:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_47/27MbU_1669020050080mG1gx_JPEG/cover_cover_today_20221121_070332_2_22_Large_20221121174003776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서해안 지역 중심으로 미세먼지‥비 온 뒤 대기질↑]]></title>
             <link>https://tv.naver.com/v/30951562</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 04:30:27 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_291/4TBwY_1669001710650duk8H_JPEG/cover_cover_noon_20221121_120634_1_3_Large_20221121123420759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령실 "약식 회견 중단‥불미스러운 일 관련"]]></title>
-            <link>https://tv.naver.com/v/30941745</link>
-            <guid>https://tv.naver.com/v/30941745</guid>
-            <pubDate>Mon, 21 Nov 2022 04:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_14/qUUsu_1669001693109N0TN5_JPEG/cover_cover_noon_20221121_120239_1_1_Large_20221121123412457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
