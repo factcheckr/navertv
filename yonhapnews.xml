@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 21:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 22:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 22 Nov 2022 08:31:01 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_195/DxxDc_1669105359426tM8e1_JPEG/1669105282750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Why요?] 월드컵 트로피가 궁금해? #shorts]]></title>
+            <link>https://tv.naver.com/v/30984655</link>
+            <guid>https://tv.naver.com/v/30984655</guid>
+            <pubDate>Tue, 22 Nov 2022 22:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_112/ZOvgR_1669105019809MlnzW_JPEG/1669104983867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북 탄도미사일 요격…'한국형 사드' L-SAM 첫 요격시험 성공]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 05:21:10 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_18/7KQ6z_1669005584780OfiXC_JPEG/1669001555703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도 구치소서 '마사지' 받는 장관 논란…"물리치료 받는 것"]]></title>
-            <link>https://tv.naver.com/v/30943538</link>
-            <guid>https://tv.naver.com/v/30943538</guid>
-            <pubDate>Mon, 21 Nov 2022 05:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_81/yGfY5_1669005320469LwQ85_JPEG/1669005293991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
