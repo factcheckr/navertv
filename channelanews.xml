@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 07:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 08:31:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["맥주를 원해!" 카타르의 金주]]></title>
+            <link>https://tv.naver.com/v/30983070</link>
+            <guid>https://tv.naver.com/v/30983070</guid>
+            <pubDate>Tue, 22 Nov 2022 08:31:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_260/C4AIY_1669102082078XKKaw_JPEG/1669101841050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘용산시대 상징’ 출근길 문답 중단, 왜?]]></title>
             <link>https://tv.naver.com/v/30981469</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 12:43:37 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_280/A8pI0_1669029945093w7IUc_JPEG/cover_0000238445_001_20221121202432319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[앵커의 마침표]빠를수록 좋은 62번째 소통]]></title>
-            <link>https://tv.naver.com/v/30957135</link>
-            <guid>https://tv.naver.com/v/30957135</guid>
-            <pubDate>Mon, 21 Nov 2022 12:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_231/NQknl_1669029896405Ka47B_JPEG/cover_0000238457_001_20221121202425586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
