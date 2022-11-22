@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 13:36:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 14:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 내일 낮까지 10~30mm 비…내일 12~17도]]></title>
+            <link>https://tv.naver.com/v/30994846</link>
+            <guid>https://tv.naver.com/v/30994846</guid>
+            <pubDate>Tue, 22 Nov 2022 14:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_271/MEWHY_1669125687559JVjcD_JPEG/cover_0011379231_001_20221122230101160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 충북 내일 오전까지 최대 20mm 비…한낮 기온 ‘14~16도’]]></title>
             <link>https://tv.naver.com/v/30993879</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Nov 2022 13:35:09 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_197/iJtHS_1669122047365SK3xb_JPEG/cover_0011379223_001_20221122220032307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구 1인당 근로소득 전국 최하위권]]></title>
-            <link>https://tv.naver.com/v/30993208</link>
-            <guid>https://tv.naver.com/v/30993208</guid>
-            <pubDate>Tue, 22 Nov 2022 13:35:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_139/kDwIk_1669122048404J8fsA_JPEG/cover_0011379222_001_20221122220026788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
