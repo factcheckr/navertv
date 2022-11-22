@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 04:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 05:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] '라임 사태 핵심' 김봉현 도주 당시 CCTV 모습 공개]]></title>
+            <link>https://tv.naver.com/v/30976396</link>
+            <guid>https://tv.naver.com/v/30976396</guid>
+            <pubDate>Tue, 22 Nov 2022 05:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_207/SMgV9_1669091655104826FG_JPEG/cover_0000322392_001_20221122133406175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] '소설'에 눈 대신 비 소식…23일 오전 대부분 그쳐]]></title>
             <link>https://tv.naver.com/v/30973946</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 13:44:06 GMT</pubDate>
             <content:encoded><![CDATA[0:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221121_182/m1e0p_16690376574496iidr_JPEG/cover_0000322296_001_20221121223401689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도네시아 규모 5.6 지진 발생…"최소 46명 사망"]]></title>
-            <link>https://tv.naver.com/v/30960910</link>
-            <guid>https://tv.naver.com/v/30960910</guid>
-            <pubDate>Mon, 21 Nov 2022 13:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221121_158/p8uua_16690375976738z8dl_JPEG/cover_0000322298_001_20221121223301659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

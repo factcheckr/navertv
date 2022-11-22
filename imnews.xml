@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 04:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 05:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기업 경기전망 26개월 만에 최저‥재고도 쌓여]]></title>
+            <link>https://tv.naver.com/v/30977870</link>
+            <guid>https://tv.naver.com/v/30977870</guid>
+            <pubDate>Tue, 22 Nov 2022 05:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_68/24aGV_1669094030363GFl3E_JPEG/cover_cover_14news_20221122_140404_1_2_Large_20221122141303765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 소설, 전국 차츰 비‥동해안 집중 호우]]></title>
             <link>https://tv.naver.com/v/30974424</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 23:24:08 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_294/1pOyb_1669071511834IgwS2_JPEG/cover_cover_today_20221122_073316_2_27_Large_20221122075805705.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] BTS, '아메리칸 뮤직 어워드' 5년 연속 수상]]></title>
-            <link>https://tv.naver.com/v/30967809</link>
-            <guid>https://tv.naver.com/v/30967809</guid>
-            <pubDate>Mon, 21 Nov 2022 23:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_66/VlXe3_1669071497434c56aL_JPEG/cover_cover_today_20221122_073102_2_25_Large_20221122075750718.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

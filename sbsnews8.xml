@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 04:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 05:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰 '라임 주범' 김봉현 도피 조력자 지인 2명 구속 [영상]]]></title>
+            <link>https://tv.naver.com/v/30977044</link>
+            <guid>https://tv.naver.com/v/30977044</guid>
+            <pubDate>Tue, 22 Nov 2022 05:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_98/V7PFW_1669092619252izKdh_JPEG/cover_0001014866_001_20221122135001206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 짙은 안개 · 서쪽 지방 미세먼지…차츰 전국에 비]]></title>
             <link>https://tv.naver.com/v/30974360</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Nov 2022 23:24:19 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_150/U2ggd_1669069379645pv3O6_JPEG/cover_0001014780_001_20221122072201184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[튀르키예 국경에 떨어진 로켓…어린이 포함 3명 사망]]></title>
-            <link>https://tv.naver.com/v/30967370</link>
-            <guid>https://tv.naver.com/v/30967370</guid>
-            <pubDate>Mon, 21 Nov 2022 23:24:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_80/w6BLP_1669069316797u2xs6_JPEG/cover_0001014779_001_20221122072101179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
