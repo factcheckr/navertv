@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 08:31:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 09:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now] 1천6백만 원 '분쇄쇼' 벌인 영국 개그맨, 이유는?]]></title>
+            <link>https://tv.naver.com/v/30986096</link>
+            <guid>https://tv.naver.com/v/30986096</guid>
+            <pubDate>Tue, 22 Nov 2022 09:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_166/a4LQT_1669107270329tkdgR_JPEG/cover_cover_PCA_20221122_08_20221122175403846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[역대급 물가에 김치 수입 '사상 최대']]></title>
             <link>https://tv.naver.com/v/30984987</link>
@@ -40,20 +48,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_54/ZXRZq_1669104561163BKgSJ_JPEG/cover_cover_5news_20221122_170334_1_8_Large_20221122170902684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MBC 5시뉴스] 기업 경기전망 26개월 만에 최저‥ 재고도]]></title>
-            <link>https://tv.naver.com/v/30984276</link>
-            <guid>https://tv.naver.com/v/30984276</guid>
-            <pubDate>Tue, 22 Nov 2022 08:30:26 GMT</pubDate>
-            <content:encoded><![CDATA[10:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_85/w3t6L_16691043707592bNXj_JPEG/63ee5877-6a3c-11ed-bfc6-505dac8c3639_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코스피↓ 2400선 마감‥중국 소비 관련주 일제히 하락]]></title>
             <link>https://tv.naver.com/v/30984273</link>
             <guid>https://tv.naver.com/v/30984273</guid>
             <pubDate>Tue, 22 Nov 2022 08:30:26 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_3/2paX8_1669104390543owLW0_JPEG/cover_cover_5news_20221122_170236_1_7_Large_20221122170603831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC 5시뉴스] 기업 경기전망 26개월 만에 최저‥ 재고도 쌓여]]></title>
+            <link>https://tv.naver.com/v/30984276</link>
+            <guid>https://tv.naver.com/v/30984276</guid>
+            <pubDate>Tue, 22 Nov 2022 08:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[10:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_293/OQ64B_1669106234024ltbvN_PNG/1669106230284.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공시가 현실화율, 2020년 수준 하락 전망]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Nov 2022 04:26:51 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221122_103/dPaNm_16690876488147QqJx_JPEG/cover_cover_noon_20221122_122029_1_15_Large_20221122122708498.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코스피·코스닥 내림세‥금호석유, 5거래일째 하락]]></title>
-            <link>https://tv.naver.com/v/30974419</link>
-            <guid>https://tv.naver.com/v/30974419</guid>
-            <pubDate>Tue, 22 Nov 2022 04:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221122_265/FZaB1_1669087643494tI35C_JPEG/cover_cover_noon_20221122_121925_1_14_Large_20221122122702244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
