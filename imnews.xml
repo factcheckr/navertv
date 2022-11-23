@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 20:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 21:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 시각 부산항 화물연대 총파업 돌입]]></title>
+            <link>https://tv.naver.com/v/31036518</link>
+            <guid>https://tv.naver.com/v/31036518</guid>
+            <pubDate>Wed, 23 Nov 2022 21:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_228/opvgC_16692380784329nHhO_JPEG/cover_cover_today_20221124_061052_1_6_Large_20221124061402541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스데스크 클로징]]></title>
             <link>https://tv.naver.com/v/31029353</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 08:25:53 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_243/DoDTO_1669190698856nEMTR_JPEG/cover_cover_221123_Doll_640_20221123170404787.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[접종 간격 90일로‥다음 달 17일부터 개량백신만]]></title>
-            <link>https://tv.naver.com/v/31018975</link>
-            <guid>https://tv.naver.com/v/31018975</guid>
-            <pubDate>Wed, 23 Nov 2022 13:34:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_178/QlZYg_1669190604614qx3QW_JPEG/cover_cover_5news_20221123_165939_1_4_Large_20221123170310434.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
