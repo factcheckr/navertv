@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 01:45:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now] 마크롱인줄 알았는데‥개그맨에 속은 폴란드 대통령]]></title>
+            <link>https://tv.naver.com/v/31007015</link>
+            <guid>https://tv.naver.com/v/31007015</guid>
+            <pubDate>Wed, 23 Nov 2022 03:06:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_125/6qRjC_1669169962047lWU6o_JPEG/cover_cover_R1123-13_20221123111902391.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 위중증 477명‥신규 확진 7만 324명]]></title>
             <link>https://tv.naver.com/v/31004222</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Nov 2022 23:21:01 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_257/jlQGW_1669157400984Gntco_JPEG/cover_cover_today_20221123_064744_2_12_Large_20221123074933513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 유엔 "이란 시위 사망자 300여 명"]]></title>
-            <link>https://tv.naver.com/v/31002001</link>
-            <guid>https://tv.naver.com/v/31002001</guid>
-            <pubDate>Tue, 22 Nov 2022 23:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_150/WRTn1_1669157382059TFm3k_JPEG/cover_cover_today_20221123_064630_2_11_Large_20221123074926100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
