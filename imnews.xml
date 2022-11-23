@@ -4,16 +4,24 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 08:27:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 09:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[[World Now] 중국에서 잇따른 '폭력 방역' 논란]]></title>
-            <link>https://tv.naver.com/v/31019514</link>
-            <guid>https://tv.naver.com/v/31019514</guid>
-            <pubDate>Wed, 23 Nov 2022 08:25:53 GMT</pubDate>
+            <link>https://tv.naver.com/v/31019872</link>
+            <guid>https://tv.naver.com/v/31019872</guid>
+            <pubDate>Wed, 23 Nov 2022 09:19:59 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_6/CWRip_1669191441746RWgWT_JPEG/cover_cover_joo221123_21_20221123171703067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_232/JwP3R_1669191986322r1S9f_JPEG/cover_cover_joo221123_21_20221123172604743.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스외전 포커스] "협상 어려울 것‥이번 겨울 전황이 미래 좌우"]]></title>
+            <link>https://tv.naver.com/v/31019752</link>
+            <guid>https://tv.naver.com/v/31019752</guid>
+            <pubDate>Wed, 23 Nov 2022 09:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[15:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_151/TNNm9_1669192024574xFoeQ_JPEG/cover_cover_14news_20221123_150701_1_8_Large_20221123172302927.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 밤사이 내륙 짙은 안개‥출근길 쌀쌀]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 04:25:42 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_68/tsLSn_1669174068741Em7Kc_JPEG/cover_cover_noon_20221123_120913_1_5_Large_20221123122734574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정진상 이메일 압수수색‥오늘 구속적부심]]></title>
-            <link>https://tv.naver.com/v/31009095</link>
-            <guid>https://tv.naver.com/v/31009095</guid>
-            <pubDate>Wed, 23 Nov 2022 04:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_52/C3LrC_1669174093387lsfIw_JPEG/cover_cover_noon_20221123_120828_1_4_Large_20221123122727054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
