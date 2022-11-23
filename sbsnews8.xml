@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 05:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 06:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내일부터 편의점 봉지 · 식당 종이컵 금지…일회용품 제한]]></title>
+            <link>https://tv.naver.com/v/31012715</link>
+            <guid>https://tv.naver.com/v/31012715</guid>
+            <pubDate>Wed, 23 Nov 2022 06:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_222/QRrv9_1669181023454uT7FE_JPEG/cover_0001015228_001_20221123142301200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 7호선 출근길 열차, 문 열린 채 달려…점검 조치 후 정상 운행]]></title>
             <link>https://tv.naver.com/v/31012325</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 01:44:11 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_115/8k9gR_1669161449995c9lRx_JPEG/cover_0001015150_001_20221123085701174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치쇼] 정성호 "이재명 겨냥 수사에 이낙연계 움직임? 소설같은 이야기"]]></title>
-            <link>https://tv.naver.com/v/31003099</link>
-            <guid>https://tv.naver.com/v/31003099</guid>
-            <pubDate>Wed, 23 Nov 2022 01:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[19:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_221/rOvjc_1669161683716l8eP3_JPEG/cover_0001015149_001_20221123085301160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
