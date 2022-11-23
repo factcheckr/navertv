@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 04:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 05:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희귀해진 붕어빵 1개 천원에 발길 '뚝']]></title>
+            <link>https://tv.naver.com/v/31011124</link>
+            <guid>https://tv.naver.com/v/31011124</guid>
+            <pubDate>Wed, 23 Nov 2022 05:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_75/JjI0W_1669178169484pRu9v_JPEG/1669178094153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OECD, 내년 한국 성장률 1.8%…더 낮췄다 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/31010276</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Nov 2022 23:22:11 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_219/ChDa9_1669156454863rQhfs_JPEG/cover_cover_20221123072949_20_605_1313940_1080_7_20221123073302955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령실, 민주 장경태 고발 "허위사실 유포"…장경태 "재갈 물리기"]]></title>
-            <link>https://tv.naver.com/v/31001711</link>
-            <guid>https://tv.naver.com/v/31001711</guid>
-            <pubDate>Tue, 22 Nov 2022 23:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_145/oBbP9_1669156315740mlWKp_JPEG/cover_cover_20221123072804_20_605_1313939_1080_7_20221123073101212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

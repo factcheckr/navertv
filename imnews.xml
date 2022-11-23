@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 04:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 05:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[줄줄이 파업에 '물류대란' 우려‥"엄정 대응"]]></title>
+            <link>https://tv.naver.com/v/31012437</link>
+            <guid>https://tv.naver.com/v/31012437</guid>
+            <pubDate>Wed, 23 Nov 2022 05:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_115/GpMrs_1669180475339daL7r_JPEG/cover_cover_14news_20221123_140334_1_2_Large_20221123141404081.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 동해안 밤까지 비‥내륙 가을 햇살, 대전·전북 미세먼지]]></title>
             <link>https://tv.naver.com/v/31009121</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Nov 2022 23:21:01 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_185/PShx6_1669157537822CUh4G_JPEG/cover_cover_today_20221123_072629_2_31_Large_20221123075158895.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] BTS '다이너마이트' 뮤비 16억 뷰 돌파]]></title>
-            <link>https://tv.naver.com/v/31002056</link>
-            <guid>https://tv.naver.com/v/31002056</guid>
-            <pubDate>Tue, 22 Nov 2022 23:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_175/Cf2aW_1669157524879MsvpO_JPEG/cover_cover_today_20221123_072543_2_30_Large_20221123075151869.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
