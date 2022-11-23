@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 12:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 13:35:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 토요포커스] 조규태 서울YMCA회장 "가정 밖 청소년 취업 지원, 쉼터 지원 강화“]]></title>
+            <link>https://tv.naver.com/v/31029041</link>
+            <guid>https://tv.naver.com/v/31029041</guid>
+            <pubDate>Wed, 23 Nov 2022 13:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[14:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_265/tcWBx_1669208641365dQm9E_JPEG/cover_cover_20221122204011_20_910_1313926_1080_7_20221123215801255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBN 뉴스7 오프닝 - 2022년 11월 23일]]></title>
             <link>https://tv.naver.com/v/31027159</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 10:23:39 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_205/r2hi1_1669198825470XbeVv_JPEG/cover_cover_20221123191430_20_552_1313998_1080_7_20221123191901215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스추적] 경찰 고위직 수사 / 기동대 요청 공방 / 국정조사 남은 쟁점]]></title>
-            <link>https://tv.naver.com/v/31023389</link>
-            <guid>https://tv.naver.com/v/31023389</guid>
-            <pubDate>Wed, 23 Nov 2022 10:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_59/ZysHF_1669198789056gb7cy_JPEG/cover_cover_20221123191137_20_552_1313997_1080_7_20221123191701214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
