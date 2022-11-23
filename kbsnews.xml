@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 06:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 07:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사멘터리 이슈 추적] 소각장, 또 지어야만 하나?]]></title>
+            <link>https://tv.naver.com/v/31015440</link>
+            <guid>https://tv.naver.com/v/31015440</guid>
+            <pubDate>Wed, 23 Nov 2022 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[24:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_296/jhAZp_1669185641576g9H2V_JPEG/cover_0011377783_001_20221123153112319.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시사멘터리 추적] 어느 인간 중계기의 고백]]></title>
+            <link>https://tv.naver.com/v/31015428</link>
+            <guid>https://tv.naver.com/v/31015428</guid>
+            <pubDate>Wed, 23 Nov 2022 07:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[23:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_11/wGs3k_1669185572634rxxIf_JPEG/cover_0011377781_001_20221123153101213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[월드컵 영상] “기적은 시작됐다” 이변 속출하는 월드컵, 다음 주인공은 한국? (월드컵 실시간)]]></title>
             <link>https://tv.naver.com/v/31014873</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 04:25:32 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_127/Mq0f0_1669175296371TPUsA_JPEG/cover_0011379602_001_20221123124801203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스in뉴스] UN안보리 ‘북ICBM 제재’ 무산…김정은 딸 공개 의미는?]]></title>
-            <link>https://tv.naver.com/v/31009523</link>
-            <guid>https://tv.naver.com/v/31009523</guid>
-            <pubDate>Wed, 23 Nov 2022 04:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[6:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_238/MIfj2_1669175303418CQkVN_JPEG/cover_0011379601_001_20221123124601224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EU, 미국 인플레법 반발…맞대응 검토]]></title>
-            <link>https://tv.naver.com/v/31009508</link>
-            <guid>https://tv.naver.com/v/31009508</guid>
-            <pubDate>Wed, 23 Nov 2022 04:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_197/B5rEq_1669175163190yYkw3_JPEG/cover_0011379600_001_20221123124517909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
