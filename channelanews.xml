@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 08:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 09:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조두순, 선부동으로 이사 안 간다…집 계약 포기]]></title>
+            <link>https://tv.naver.com/v/31057010</link>
+            <guid>https://tv.naver.com/v/31057010</guid>
+            <pubDate>Thu, 24 Nov 2022 09:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_40/hp8Px_1669279291731eq6zD_JPEG/1669279282277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자정 ‘땡’하면 출소하는 이유?]]></title>
             <link>https://tv.naver.com/v/31049986</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 12:41:03 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221123_19/iLGKb_1669202974409Nn5zQ_JPEG/cover_0000238600_001_20221123202812586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내년 부동산 보유세 ‘2020년 수준’으로 낮춘다]]></title>
-            <link>https://tv.naver.com/v/31025946</link>
-            <guid>https://tv.naver.com/v/31025946</guid>
-            <pubDate>Wed, 23 Nov 2022 12:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221123_96/zfgCW_1669202948323JTt82_JPEG/cover_0000238601_001_20221123202804181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
