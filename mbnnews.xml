@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 20:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 21:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[308회_침수 및 고농도 미세먼지 대응요령]]></title>
+            <link>https://tv.naver.com/v/31069076</link>
+            <guid>https://tv.naver.com/v/31069076</guid>
+            <pubDate>Thu, 24 Nov 2022 21:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[14:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_67/3tsd2_1669323965787rP0xW_JPEG/cover_cover_20221125055535_20_849_1314131_1080_7_20221125055901215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] '청담동 술자리 의혹' 거짓으로…법적 책임의 시간?]]></title>
             <link>https://tv.naver.com/v/31062935</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Nov 2022 10:22:58 GMT</pubDate>
             <content:encoded><![CDATA[2:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_191/8qLcT_1669282713881qPXFt_JPEG/cover_cover_20221124183214_20_673_1314094_1080_7_20221124183701193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-'태양의 표정' 어떻게 보이나요?]]></title>
-            <link>https://tv.naver.com/v/31058883</link>
-            <guid>https://tv.naver.com/v/31058883</guid>
-            <pubDate>Thu, 24 Nov 2022 10:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_55/CRfCD_1669282553407RnGT7_JPEG/cover_cover_20221124183009_20_673_1314095_1080_7_20221124183501228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
