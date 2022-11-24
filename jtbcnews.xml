@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 22:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 23:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 큰 일교차 유의…중부지방 오후부터 비 소식]]></title>
+            <link>https://tv.naver.com/v/31069730</link>
+            <guid>https://tv.naver.com/v/31069730</guid>
+            <pubDate>Thu, 24 Nov 2022 23:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_215/yHOQ3_16693317241966USao_JPEG/cover_0000322781_001_20221125081501578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이태원 참사 국조, 진통 끝 국회 통과…일부 '윤핵관' 의원들 반대 표결]]></title>
             <link>https://tv.naver.com/v/31064029</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Nov 2022 02:56:45 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_230/eRpH7_1669258158285D8Hsh_JPEG/cover_0000322683_001_20221124114901605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대장동 의혹 핵심' 김만배 출소…"법률적 판단 떠나 죄송"]]></title>
-            <link>https://tv.naver.com/v/31042723</link>
-            <guid>https://tv.naver.com/v/31042723</guid>
-            <pubDate>Thu, 24 Nov 2022 02:56:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_95/IUfPZ_1669258101863VQVMl_JPEG/cover_0000322682_001_20221124114801692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
