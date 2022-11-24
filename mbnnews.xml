@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 05:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 06:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["내 이름 걸고 X인다" 이승기 소속사 대표 폭언]]></title>
+            <link>https://tv.naver.com/v/31048471</link>
+            <guid>https://tv.naver.com/v/31048471</guid>
+            <pubDate>Thu, 24 Nov 2022 06:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_240/0BoYf_1669268293005mHttP_JPEG/1669268289788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘부터 편의점 비닐봉지 사라진다 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/31045255</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 23:21:45 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_218/ZcgNt_1669243925134kWA6G_JPEG/cover_cover_20221124074723_20_605_1314046_1080_7_20221124075101421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외화자금 빼돌려 호화생활에 도박까지…53명 세무조사]]></title>
-            <link>https://tv.naver.com/v/31037389</link>
-            <guid>https://tv.naver.com/v/31037389</guid>
-            <pubDate>Wed, 23 Nov 2022 23:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_50/QvBrd_1669243795500V3gJT_JPEG/cover_cover_20221124074526_20_605_1314045_1080_7_20221124074901438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

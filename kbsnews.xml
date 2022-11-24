@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 05:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 06:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[월드컵 영상] “일본 조롱?” 경기 중 등장한 뤼디거의 ‘타조 스텝’ (월드컵 하이라이트)]]></title>
+            <link>https://tv.naver.com/v/31049473</link>
+            <guid>https://tv.naver.com/v/31049473</guid>
+            <pubDate>Thu, 24 Nov 2022 06:25:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_91/07XSa_1669269758774e78PH_PNG/cover_0011380476_001_20221124150110191.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 오늘도 포근해요…내일은 밤부터 비 조금]]></title>
             <link>https://tv.naver.com/v/31047625</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Nov 2022 03:29:52 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_220/rIGYp_1669260379915VTxNy_JPEG/cover_0011380416_001_20221124122510017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물연대, 무기한 총파업 돌입…이 시각 의왕 컨테이너 기지]]></title>
-            <link>https://tv.naver.com/v/31043831</link>
-            <guid>https://tv.naver.com/v/31043831</guid>
-            <pubDate>Thu, 24 Nov 2022 03:29:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_57/BbQoU_1669260369560uMi7j_JPEG/cover_0011380415_001_20221124122501175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
