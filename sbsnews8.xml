@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 03:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 04:26:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 낮 동안 비교적 포근…밤부터 서쪽 지방 미세먼지]]></title>
+            <link>https://tv.naver.com/v/31044041</link>
+            <guid>https://tv.naver.com/v/31044041</guid>
+            <pubDate>Thu, 24 Nov 2022 04:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_39/LZa9R_1669260816016gRHxE_JPEG/cover_0001015529_001_20221124123301175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, '서해 공무원 피격' 의혹 서훈 전 국가안보실장 소환]]></title>
             <link>https://tv.naver.com/v/31043933</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Nov 2022 23:20:45 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_149/oiY1y_1669242851079J7oWu_JPEG/cover_0001015432_001_20221124073308872.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['보고서 삭제 의혹' 윗선 겨눈다…서울청 정보부장 입건]]></title>
-            <link>https://tv.naver.com/v/31037222</link>
-            <guid>https://tv.naver.com/v/31037222</guid>
-            <pubDate>Wed, 23 Nov 2022 23:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_281/Ai1os_1669242855207eSUc1_JPEG/cover_0001015433_001_20221124073301221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
