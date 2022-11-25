@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 22:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 23:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 25 Nov 2022 09:21:07 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_276/959ro_1669366566117CL0TM_JPEG/1669365708235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[80년대생 MZ 직장인이 조용필 신곡에 빠진 이유]]></title>
+            <link>https://tv.naver.com/v/31085521</link>
+            <guid>https://tv.naver.com/v/31085521</guid>
+            <pubDate>Fri, 25 Nov 2022 23:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[6:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_193/GJtIP_1669365592663inXUH_JPEG/1669363567492.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아찔한 낮술 교통사고…마티즈 번쩍 들어 할머니 구한 시민들]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Nov 2022 06:25:53 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_235/dKe94_1669269754646E8Vxg_JPEG/1669269725604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[톺뉴스] 대한민국 16강, 필요한 승점은? #shorts]]></title>
-            <link>https://tv.naver.com/v/31048223</link>
-            <guid>https://tv.naver.com/v/31048223</guid>
-            <pubDate>Thu, 24 Nov 2022 06:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_63/GayHE_1669267941479PihEK_JPEG/1669267894065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
