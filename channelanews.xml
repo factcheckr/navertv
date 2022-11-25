@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 07:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 08:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 25 Nov 2022 06:28:17 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_61/Hs1WM_1669355990902ViTcU_JPEG/1669355953141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘의 영상]잘 싸웠다…광화문의 ‘대~한민국’]]></title>
-            <link>https://tv.naver.com/v/31079416</link>
-            <guid>https://tv.naver.com/v/31079416</guid>
-            <pubDate>Fri, 25 Nov 2022 06:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_77/9ocFT_1669355660961XP2pg_JPEG/cover_0000238725_001_20221125145301654.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[檢 수사 겨냥한 이재명 “검찰, 연기력 형편없어”]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 24 Nov 2022 12:41:31 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_87/9EL4E_16692891439572NXqo_JPEG/cover_0000238685_001_20221124202441608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비닐봉투·종이컵 일회용품 금지 첫날…일부 혼선도]]></title>
+            <link>https://tv.naver.com/v/31062147</link>
+            <guid>https://tv.naver.com/v/31062147</guid>
+            <pubDate>Fri, 25 Nov 2022 08:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_268/k3nMJ_166928914250872Oa8_JPEG/cover_0000238686_001_20221124202433213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
