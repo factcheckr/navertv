@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 03:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 04:26:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 이재명 "검찰, 언제든 털어보라…계좌 다 닳아 없어질 듯"]]></title>
+            <link>https://tv.naver.com/v/31075592</link>
+            <guid>https://tv.naver.com/v/31075592</guid>
+            <pubDate>Fri, 25 Nov 2022 04:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_267/OgmoX_1669348485314VibaF_JPEG/cover_0000322826_001_20221125125408856.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 중서부 오후부터 약한 비…일요일 영하권 추위]]></title>
             <link>https://tv.naver.com/v/31074049</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Nov 2022 12:40:47 GMT</pubDate>
             <content:encoded><![CDATA[0:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221124_57/kGcQ1_1669289533797YB5Ue_JPEG/cover_0000322751_001_20221124203201657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이재명 계좌' 쫓는 검찰…'대장동 자금 연관성' 파악 중]]></title>
-            <link>https://tv.naver.com/v/31062286</link>
-            <guid>https://tv.naver.com/v/31062286</guid>
-            <pubDate>Thu, 24 Nov 2022 12:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221124_248/PhUzB_1669289442793h35d1_JPEG/cover_0000322750_001_20221124203001726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
