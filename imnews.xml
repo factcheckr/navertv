@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 04:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 05:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Fri, 25 Nov 2022 04:25:24 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_270/5VJsx_1669346319293l7U4F_JPEG/cover_cover_noon_20221125_121249_1_6_Large_20221125121802764.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포르투갈, 가나에 진땀승‥호날두 5개 대회 연속 득점]]></title>
-            <link>https://tv.naver.com/v/31074586</link>
-            <guid>https://tv.naver.com/v/31074586</guid>
-            <pubDate>Fri, 25 Nov 2022 04:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_206/hSlqX_1669346213822vaRqH_JPEG/cover_cover_noon_20221125_120855_1_4_Large_20221125121602676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 위중증 453명‥신규 확진 5만 3천698명]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 24 Nov 2022 23:22:07 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_247/HtrrF_1669329578392WheUM_JPEG/cover_cover_today_20221125_072906_2_33_Large_20221125073921424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이 시각 세계] 지진 발생 사흘 만에 6살 아이 구조]]></title>
+            <link>https://tv.naver.com/v/31069507</link>
+            <guid>https://tv.naver.com/v/31069507</guid>
+            <pubDate>Fri, 25 Nov 2022 05:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_85/4L1Jc_1669329569494Vsb9f_JPEG/cover_cover_today_20221125_072838_2_32_Large_20221125073914780.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
