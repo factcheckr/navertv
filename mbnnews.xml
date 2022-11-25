@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 08:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 09:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김주하의 '그런데'] 공시가격 정부가 제멋대로?]]></title>
+            <link>https://tv.naver.com/v/31085201</link>
+            <guid>https://tv.naver.com/v/31085201</guid>
+            <pubDate>Fri, 25 Nov 2022 09:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_243/KRcKk_1669365185546wOX7A_JPEG/cover_cover_20221125172624_20_552_1314182_1080_7_20221125173101190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남욱 "김만배가 이재명 설득하겠다 해" [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/31083933</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Nov 2022 23:23:26 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_129/x1xy5_1669330186597kYO33_JPEG/cover_cover_20221125074420_20_605_1314149_1080_7_20221125074901601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 추수감사절 풍선 퍼레이드]]></title>
-            <link>https://tv.naver.com/v/31069560</link>
-            <guid>https://tv.naver.com/v/31069560</guid>
-            <pubDate>Thu, 24 Nov 2022 23:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_155/If6Cu_1669330066119YICsT_JPEG/cover_cover_20221125074255_20_605_1314148_1080_7_20221125074701229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
