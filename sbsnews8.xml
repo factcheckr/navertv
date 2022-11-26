@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 03:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 04:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] '반짝 추위' 서울 낮 최고 8도…미세먼지 나쁨]]></title>
+            <link>https://tv.naver.com/v/31102767</link>
+            <guid>https://tv.naver.com/v/31102767</guid>
+            <pubDate>Sat, 26 Nov 2022 04:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_20/eWis3_1669433428788gResz_JPEG/cover_0001015978_001_20221126123001200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스브스뉴스] 수능 몇 개 틀려야 서울대 의대 갈까?]]></title>
             <link>https://tv.naver.com/v/31101633</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 12:39:16 GMT</pubDate>
             <content:encoded><![CDATA[15:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_76/ySld5_1669376666542MRDOb_JPEG/cover_0001015845_001_20221125203701157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D리포트] 베이징 봉쇄 확대일로…특파원도 발 묶여]]></title>
-            <link>https://tv.naver.com/v/31090402</link>
-            <guid>https://tv.naver.com/v/31090402</guid>
-            <pubDate>Fri, 25 Nov 2022 12:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_75/9zBMQ_1669375215374mkvAM_JPEG/cover_0001015844_001_20221125201901158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
