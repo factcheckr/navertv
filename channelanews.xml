@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 05:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 06:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]최순실 태블릿 1편, 진짜 주인은 누구?]]></title>
+            <link>https://tv.naver.com/v/31105221</link>
+            <guid>https://tv.naver.com/v/31105221</guid>
+            <pubDate>Sat, 26 Nov 2022 06:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[14:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_195/b95ke_1669443138282loRnv_JPEG/cover_0000238777_001_20221126150701608.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오후 1시 집회에 출근길 막혔다…민노총 총파업에 교통대란]]></title>
             <link>https://tv.naver.com/v/31090279</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 11:19:14 GMT</pubDate>
             <content:encoded><![CDATA[20:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_243/V5njG_1669374395206QsSDd_JPEG/cover_0000238734_001_20221125195708162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종이학 두고 떠난 일본 대표팀]]></title>
-            <link>https://tv.naver.com/v/31082529</link>
-            <guid>https://tv.naver.com/v/31082529</guid>
-            <pubDate>Fri, 25 Nov 2022 07:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_189/bSSiv_1669360655594K0Stl_JPEG/1669360649767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
