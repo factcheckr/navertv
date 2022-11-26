@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 01:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 02:54:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크랩] 잡을 땐 언제고! 이젠 돈 줄테니 떠나라고?]]></title>
+            <link>https://tv.naver.com/v/31101536</link>
+            <guid>https://tv.naver.com/v/31101536</guid>
+            <pubDate>Sat, 26 Nov 2022 02:53:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_50/TJuAJ_1669428324951C6jUM_JPEG/cover_0011381701_001_20221126110301158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[930 날씨] 찬 바람 불어 낮에도 쌀쌀…내일 아침 대부분 영하권]]></title>
             <link>https://tv.naver.com/v/31100706</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 22:18:55 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221126_190/FrNzp_1669413229582NDVcs_JPEG/cover_0011381652_001_20221126065301179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남욱 “김만배, 이재명 설득용…대장동 지분, 선거비용으로 들어”]]></title>
-            <link>https://tv.naver.com/v/31099602</link>
-            <guid>https://tv.naver.com/v/31099602</guid>
-            <pubDate>Fri, 25 Nov 2022 22:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_250/yeBif_1669412579278I7kbp_JPEG/cover_0011381651_001_20221126064210631.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
