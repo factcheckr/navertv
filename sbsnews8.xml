@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 06:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 07:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스토리] K-푸드의 대항해 : 밥상의 미래]]></title>
+            <link>https://tv.naver.com/v/31105711</link>
+            <guid>https://tv.naver.com/v/31105711</guid>
+            <pubDate>Sat, 26 Nov 2022 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:12:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_48/5utsw_1669444495743QKroh_JPEG/cover_0001015952_001_20221126153101148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신촌서 모녀 숨진 채 발견…현관엔 5달째 밀린 고지서]]></title>
             <link>https://tv.naver.com/v/31103654</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 14:18:46 GMT</pubDate>
             <content:encoded><![CDATA[0:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_91/HGlC8_16693832505123XnyM_JPEG/cover_0001015880_001_20221125223401182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인싸이팅] 사법 사상 최장기간 소년재판 담당, '천종호' 판사의 성장 키워드는?]]></title>
-            <link>https://tv.naver.com/v/31090712</link>
-            <guid>https://tv.naver.com/v/31090712</guid>
-            <pubDate>Fri, 25 Nov 2022 12:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[15:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_76/ySld5_1669376666542MRDOb_JPEG/cover_0001015845_001_20221125203701157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
