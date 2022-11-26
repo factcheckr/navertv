@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 08:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 09:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['대장동 3인방' 공판 출석]]></title>
+            <link>https://tv.naver.com/v/31107657</link>
+            <guid>https://tv.naver.com/v/31107657</guid>
+            <pubDate>Sat, 26 Nov 2022 09:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[21:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_224/DNYyO_1669451649388dB69p_JPEG/cover_cover_20221126171313_20_675_1314234_1080_7_20221126172401226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['민주당의 입' 김의겸 책임론]]></title>
             <link>https://tv.naver.com/v/31107571</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 10:23:47 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221125_29/x1gfc_1669371505586eAhiq_JPEG/cover_cover_20221125191252_20_552_1314195_1080_7_20221125191701240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "언제든 털어보라"…'유감 표명' 대신 검찰 맹폭]]></title>
-            <link>https://tv.naver.com/v/31088795</link>
-            <guid>https://tv.naver.com/v/31088795</guid>
-            <pubDate>Fri, 25 Nov 2022 10:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221125_78/hygal_16693713657423baq5_JPEG/cover_cover_20221125191129_20_552_1314194_1080_7_20221125191501192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
