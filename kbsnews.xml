@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 22:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 23:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8시 날씨] 아침에 내륙 영하권 추위…큰 일교차 주의]]></title>
+            <link>https://tv.naver.com/v/31116235</link>
+            <guid>https://tv.naver.com/v/31116235</guid>
+            <pubDate>Sat, 26 Nov 2022 23:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_96/hgBJX_1669504529334HpxFC_JPEG/cover_0011381857_001_20221127081501148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 아침에 곳곳 영하권…맑고 일교차 커요]]></title>
             <link>https://tv.naver.com/v/31115975</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Nov 2022 13:24:43 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221126_215/7g6af_16694679281231ltKY_JPEG/cover_0011381756_001_20221126220419400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부상 김민재 훈련 불참…부상 정도 촉각]]></title>
-            <link>https://tv.naver.com/v/31112054</link>
-            <guid>https://tv.naver.com/v/31112054</guid>
-            <pubDate>Sat, 26 Nov 2022 13:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_115/pVTCZ_16694679053724Wq1M_JPEG/cover_0011381754_001_20221126220413198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
