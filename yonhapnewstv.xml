@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 10:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 11:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일~모레 많고 강한 비…주중반 강추위]]></title>
+            <link>https://tv.naver.com/v/31124557</link>
+            <guid>https://tv.naver.com/v/31124557</guid>
+            <pubDate>Sun, 27 Nov 2022 11:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_213/fJ2CS_16695445726815nxYW_JPEG/cover_cover_MYH20221127011100038_20221127192202589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국서 방역 불만 폭발…"시진핑·공산당 물러나라"]]></title>
             <link>https://tv.naver.com/v/31124407</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 27 Nov 2022 07:18:50 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221127_59/CweEA_1669533452025aF5We_JPEG/cover_cover_MYH20221127006800038_20221127161702169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 한낮에도 쌀쌀…내일~모레 전국 많고 강한 비]]></title>
-            <link>https://tv.naver.com/v/31121270</link>
-            <guid>https://tv.naver.com/v/31121270</guid>
-            <pubDate>Sun, 27 Nov 2022 07:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_85/6zXXa_1669532949454Yp6Pg_JPEG/cover_cover_MYH20221127006700038_20221127160802582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
