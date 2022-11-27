@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 09:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 10:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[월드컵 영상] “약점이 안 보인다” 4년 전 샛별 음바페, 차세대 축구 황제 우뚝]]></title>
+            <link>https://tv.naver.com/v/31124247</link>
+            <guid>https://tv.naver.com/v/31124247</guid>
+            <pubDate>Sun, 27 Nov 2022 10:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[3:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_140/tIoFu_1669543232644s9RCD_JPEG/cover_0011381930_001_20221127185816431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[축구대표팀 가나전 대비 마지막 훈련]]></title>
             <link>https://tv.naver.com/v/31122503</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Nov 2022 13:24:43 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221126_65/sMPtH_1669467991681h8Q7b_JPEG/cover_0011381824_001_20221126220620275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스9 날씨] 내륙에 한파주의보…내일 아침 대부분 영하권]]></title>
-            <link>https://tv.naver.com/v/31112113</link>
-            <guid>https://tv.naver.com/v/31112113</guid>
-            <pubDate>Sat, 26 Nov 2022 13:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_112/4qSZv_1669468000856NUqNT_JPEG/cover_0011381817_001_20221126220612151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
