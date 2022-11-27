@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 14:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 15:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“시진핑 하야” 中 상하이 대규모 시위…불만 곳곳 폭발]]></title>
+            <link>https://tv.naver.com/v/31129691</link>
+            <guid>https://tv.naver.com/v/31129691</guid>
+            <pubDate>Sun, 27 Nov 2022 15:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_233/kmwgo_166956143984383dvE_JPEG/cover_0011381965_001_20221128000301167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서범수, 울산고속도로 통행료 감면 법제화 나서]]></title>
             <link>https://tv.naver.com/v/31128838</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 27 Nov 2022 13:25:23 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221127_192/OB0jH_1669553452002RprtK_JPEG/cover_0011382001_001_20221127215035720.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“익산시민 10명 중 7명은 고향사랑기부제 동참”]]></title>
-            <link>https://tv.naver.com/v/31127280</link>
-            <guid>https://tv.naver.com/v/31127280</guid>
-            <pubDate>Sun, 27 Nov 2022 13:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_127/FqfqW_1669553472091yMrM2_JPEG/cover_0011382000_001_20221127215030330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
