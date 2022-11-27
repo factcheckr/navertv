@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 01:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 03:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[월드컵 영상] 음바페의 프랑스 16강 확정·폴란드 사우디 제압, “메시는 메시다”]]></title>
+            <link>https://tv.naver.com/v/31117573</link>
+            <guid>https://tv.naver.com/v/31117573</guid>
+            <pubDate>Sun, 27 Nov 2022 03:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[3:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_161/w1igh_1669516866966Ktr2R_JPEG/cover_0011381881_001_20221127113914807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[8시 날씨] 아침에 내륙 영하권 추위…큰 일교차 주의]]></title>
             <link>https://tv.naver.com/v/31116235</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Nov 2022 13:24:43 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221126_131/8RYBu_1669467928755OMFWx_JPEG/cover_0011381757_001_20221126220425676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가나도 한국전에 올인, “우리도 한국이 1승 상대”]]></title>
-            <link>https://tv.naver.com/v/31112058</link>
-            <guid>https://tv.naver.com/v/31112058</guid>
-            <pubDate>Sat, 26 Nov 2022 13:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_215/7g6af_16694679281231ltKY_JPEG/cover_0011381756_001_20221126220419400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
