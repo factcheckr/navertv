@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 03:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 04:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Sun, 27 Nov 2022 03:10:18 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221127_80/2bdLF_1669518394203x0YbE_JPEG/cover_cover_noon_20221127_115925_1_4_Large_20221127120623498.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황희찬 이틀 연속 훈련‥김민재는 불참]]></title>
-            <link>https://tv.naver.com/v/31117869</link>
-            <guid>https://tv.naver.com/v/31117869</guid>
-            <pubDate>Sun, 27 Nov 2022 03:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_109/YB8h8_1669518394341ulQYr_JPEG/cover_cover_noon_20221127_115833_1_3_Large_20221127120616985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강원 양양서 헬기 추락‥인명피해 확인 중]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 25 Nov 2022 23:20:31 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221126_35/Fd4Tn_16694148875119ac88_JPEG/cover_cover_today_20221126_071630_1_11_Large_20221126072108219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 시각 교통정보]]></title>
+            <link>https://tv.naver.com/v/31099787</link>
+            <guid>https://tv.naver.com/v/31099787</guid>
+            <pubDate>Sun, 27 Nov 2022 04:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_101/u3IiR_1669414878826rlrdu_JPEG/cover_cover_today_20221126_071545_1_10_Large_20221126072101961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
