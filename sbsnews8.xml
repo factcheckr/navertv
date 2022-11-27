@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 06:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 07:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 김정은 둘째 딸, 두 번째 공개 행보…리설주와 판박이]]></title>
+            <link>https://tv.naver.com/v/31121399</link>
+            <guid>https://tv.naver.com/v/31121399</guid>
+            <pubDate>Sun, 27 Nov 2022 07:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_108/1H3Gy_1669533442379e8tQp_JPEG/cover_0001016079_001_20221127161601186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 양양 헬기 사망 5명…"사망자 2명은 계류장 CCTV 포착"]]></title>
+            <link>https://tv.naver.com/v/31120769</link>
+            <guid>https://tv.naver.com/v/31120769</guid>
+            <pubDate>Sun, 27 Nov 2022 07:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_291/5uBJf_1669531222012q73Nm_JPEG/cover_0001016124_001_20221127153901148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2명 탑승한 산불 진화용 헬기 강원도 양양서 추락]]></title>
             <link>https://tv.naver.com/v/31118598</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 25 Nov 2022 23:20:41 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221126_167/lqTuM_1669416408241UnDnl_JPEG/cover_0001015934_001_20221126074601174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "얼마든 계좌 털라" 국힘 "심판의 날 다가와"]]></title>
-            <link>https://tv.naver.com/v/31099841</link>
-            <guid>https://tv.naver.com/v/31099841</guid>
-            <pubDate>Fri, 25 Nov 2022 23:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_15/S6VZv_166941595140662vBS_JPEG/cover_0001015931_001_20221126073811095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 찬 바람에 기온 뚝…'영하 1도' 주말 반짝 추위]]></title>
-            <link>https://tv.naver.com/v/31099838</link>
-            <guid>https://tv.naver.com/v/31099838</guid>
-            <pubDate>Fri, 25 Nov 2022 23:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221126_62/UWHU6_1669415856675vv40h_JPEG/cover_0001015930_001_20221126073701157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
