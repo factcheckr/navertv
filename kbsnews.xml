@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 13:31:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 14:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 내일 오전까지 천둥·번개 동반 10~50mm 비]]></title>
+            <link>https://tv.naver.com/v/31157276</link>
+            <guid>https://tv.naver.com/v/31157276</guid>
+            <pubDate>Mon, 28 Nov 2022 14:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_166/7q5If_1669644204009vHSpg_JPEG/cover_0011382756_001_20221128230301143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우주정책 로드맵 발표…고흥 클러스터 ‘탄력’ 기대]]></title>
             <link>https://tv.naver.com/v/31156602</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Nov 2022 13:30:22 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221128_293/2sOkQ_1669641066112o2wt0_JPEG/cover_0011382750_001_20221128221047992.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상철 곡성군수·우승희 영암군수 선거법 위반 기소]]></title>
-            <link>https://tv.naver.com/v/31156389</link>
-            <guid>https://tv.naver.com/v/31156389</guid>
-            <pubDate>Mon, 28 Nov 2022 13:30:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_7/42dPR_1669641055527jnltn_JPEG/cover_0011382749_001_20221128221042699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
