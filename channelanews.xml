@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 07:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 08:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[역주행 가을 날씨 끝…비 그치면 한파]]></title>
+            <link>https://tv.naver.com/v/31145968</link>
+            <guid>https://tv.naver.com/v/31145968</guid>
+            <pubDate>Mon, 28 Nov 2022 08:28:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_152/H5kSL_1669620400529MyGNi_JPEG/1669620341339.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘민생’ 강조 행보…이재명 상임위 출석률은?]]></title>
             <link>https://tv.naver.com/v/31142000</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 27 Nov 2022 07:19:27 GMT</pubDate>
             <content:encoded><![CDATA[14:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221127_206/omJ3f_1669532562586SNWN0_JPEG/cover_0000238819_001_20221127155701611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정은, ICBM 공로자들과 기념사진…둘째 딸 또 동행]]></title>
-            <link>https://tv.naver.com/v/31119728</link>
-            <guid>https://tv.naver.com/v/31119728</guid>
-            <pubDate>Sun, 27 Nov 2022 06:25:48 GMT</pubDate>
-            <content:encoded><![CDATA[10:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221127_144/J6s6r_1669527445418VQy0H_JPEG/cover_0000238808_001_20221127143201889.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
