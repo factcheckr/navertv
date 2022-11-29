@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 01:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 02:56:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 정부 "운송 거부자 복귀 안하면 법 · 원칙 따라 엄정 대응"]]></title>
+            <link>https://tv.naver.com/v/31168150</link>
+            <guid>https://tv.naver.com/v/31168150</guid>
+            <pubDate>Tue, 29 Nov 2022 02:55:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_2/wrxKC_1669689524880ztze3_JPEG/cover_0001016537_001_20221129113701173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스브스뉴스] 다시 봐도 짜릿한 '조규성 활약상' 모음집]]></title>
             <link>https://tv.naver.com/v/31166110</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Nov 2022 12:38:35 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221128_292/UVEfx_1669638100881ICfeh_JPEG/cover_0001016405_001_20221128212117085.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 밤 사이 강한 비…중부지방 · 남해안 최고 70mm]]></title>
-            <link>https://tv.naver.com/v/31154941</link>
-            <guid>https://tv.naver.com/v/31154941</guid>
-            <pubDate>Mon, 28 Nov 2022 12:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221128_106/IdsLv_1669638108722kKvGU_JPEG/cover_0001016409_001_20221128212108708.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
