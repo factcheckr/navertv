@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 04:26:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 05:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정은과 사진 찍으려다? 북한 군인들 '와르르']]></title>
+            <link>https://tv.naver.com/v/31172852</link>
+            <guid>https://tv.naver.com/v/31172852</guid>
+            <pubDate>Tue, 29 Nov 2022 05:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_55/8xEhA_16696981969469b2Bn_JPEG/1669698029770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['가방 속 아동 시신' 용의자 뉴질랜드로 송환 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/31169108</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Nov 2022 23:22:23 GMT</pubDate>
             <content:encoded><![CDATA[0:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_65/kDbAb_1669675153794mXkkx_JPEG/cover_cover_20221129073454_20_605_1314387_1080_7_20221129073901291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지하철 파업 여전히 노사 갈등 '팽팽'…"오늘 18시 시한"]]></title>
-            <link>https://tv.naver.com/v/31163619</link>
-            <guid>https://tv.naver.com/v/31163619</guid>
-            <pubDate>Mon, 28 Nov 2022 23:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_220/8U9p5_16696750389159lcOV_JPEG/cover_cover_20221129073019_20_605_1314386_1080_7_20221129073701433.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
