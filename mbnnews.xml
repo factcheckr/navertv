@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 20:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 21:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[310회_코로나·노로바이러스 감염 예방법]]></title>
+            <link>https://tv.naver.com/v/31197707</link>
+            <guid>https://tv.naver.com/v/31197707</guid>
+            <pubDate>Tue, 29 Nov 2022 21:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[15:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_8/7CpFV_1669756101785lLhRs_JPEG/cover_cover_20221130055820_20_849_1314471_1080_7_20221130060101218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오프닝] 첫 업무개시명령]]></title>
             <link>https://tv.naver.com/v/31188252</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Nov 2022 10:23:54 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_278/mGS5z_1669716755265LEQo8_JPEG/cover_cover_20221129190652_20_552_1314439_1080_7_20221129191101204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[18년 만에 시멘트 분야 업무개시명령…윤 대통령 "절대 타협 없다"]]></title>
-            <link>https://tv.naver.com/v/31185040</link>
-            <guid>https://tv.naver.com/v/31185040</guid>
-            <pubDate>Tue, 29 Nov 2022 10:23:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_91/x7bka_1669716629127ckt3l_JPEG/cover_cover_20221129190459_20_552_1314438_1080_7_20221129190901230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

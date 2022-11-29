@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 20:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 21:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 지하철 6년 만에 파업‥이 시각 신도림역]]></title>
+            <link>https://tv.naver.com/v/31197802</link>
+            <guid>https://tv.naver.com/v/31197802</guid>
+            <pubDate>Tue, 29 Nov 2022 21:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_111/2AF59_1669756547645BSpVt_JPEG/cover_cover_today_20221130_061214_1_2_Large_20221130061502173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시멘트 공급 끊기고 주유소엔 휘발유 '품절']]></title>
             <link>https://tv.naver.com/v/31189102</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Nov 2022 06:26:08 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_36/eKMct_1669701286568I7YUW_JPEG/cover_cover_R1129-1_20221129145403037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["불가피한 결정"‥"부당한 레드카드"]]></title>
-            <link>https://tv.naver.com/v/31173459</link>
-            <guid>https://tv.naver.com/v/31173459</guid>
-            <pubDate>Tue, 29 Nov 2022 06:26:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_3/YoVUS_1669699177826c2aRX_JPEG/cover_cover_14news_20221129_140443_1_3_Large_20221129141907976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
