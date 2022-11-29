@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 13:32:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 14:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사기획 창] K클래식은 없다]]></title>
+            <link>https://tv.naver.com/v/31192108</link>
+            <guid>https://tv.naver.com/v/31192108</guid>
+            <pubDate>Tue, 29 Nov 2022 14:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[48:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_10/gefmK_1669730808061fqzxl_JPEG/cover_0011383515_001_20221129230401212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화물연대 파업 엿새째…삭발 결의 맞불]]></title>
             <link>https://tv.naver.com/v/31190977</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Nov 2022 13:30:50 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_120/ECFAB_1669727569314msf7N_JPEG/cover_0011383511_001_20221129221225123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이도주공 1단지 재건축 건축계획심의에서 ‘제동’]]></title>
-            <link>https://tv.naver.com/v/31190658</link>
-            <guid>https://tv.naver.com/v/31190658</guid>
-            <pubDate>Tue, 29 Nov 2022 13:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_191/mY0gC_1669727567166CqYMH_JPEG/cover_0011383510_001_20221129221219620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
