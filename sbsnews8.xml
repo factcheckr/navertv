@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 06:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 07:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 낮에도 영하권 맹추위 기승…서해안 최대 7cm 눈]]></title>
+            <link>https://tv.naver.com/v/31212914</link>
+            <guid>https://tv.naver.com/v/31212914</guid>
+            <pubDate>Wed, 30 Nov 2022 07:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_178/6uWmz_1669791301081PgUAn_JPEG/cover_0001016850_001_20221130155401239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[실시간 e뉴스] '계약 만료' 조두순, 갈 곳이 없다…부인 인적사항 퍼져]]></title>
             <link>https://tv.naver.com/v/31211631</link>
@@ -14,6 +22,14 @@
             <pubDate>Wed, 30 Nov 2022 06:26:24 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_52/EvzGF_1669789519690k2AVG_JPEG/cover_0001016753_001_20221130152437955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[벙커버스터] '리틀 리설주'와 화성-17형 환호…김정은, 믿는 구석이 있다?]]></title>
+            <link>https://tv.naver.com/v/31211610</link>
+            <guid>https://tv.naver.com/v/31211610</guid>
+            <pubDate>Wed, 30 Nov 2022 07:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[12:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_131/9Bko4_16697898602482Pi9P_JPEG/cover_0001016857_001_20221130152401249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BTS · 빅히트, '러브 마이셀프' 캠페인 5년간 59억 원 기부]]></title>
@@ -46,14 +62,6 @@
             <pubDate>Wed, 30 Nov 2022 06:26:24 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_36/TKz2M_166978617232360SKk_JPEG/cover_0001016851_001_20221130142902426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낮에도 영하권 맹추위 기승…서해안 최대 7cm 눈]]></title>
-            <link>https://tv.naver.com/v/31209111</link>
-            <guid>https://tv.naver.com/v/31209111</guid>
-            <pubDate>Wed, 30 Nov 2022 06:26:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_54/LO6UK_16697861464471AOfY_JPEG/cover_0001016850_001_20221130142801179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[비디오머그] 의문투성이였던 프랑스행, 엄마도 모르게 강제 해외입양됐습니다]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Nov 2022 01:43:29 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_44/Nr9tJ_1669764722977mlvhO_JPEG/cover_0001016397_001_20221130083103189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물연대 파업 '심각' 격상…강대강 대치 상황 해법은?]]></title>
-            <link>https://tv.naver.com/v/31198931</link>
-            <guid>https://tv.naver.com/v/31198931</guid>
-            <pubDate>Wed, 30 Nov 2022 01:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[13:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_148/BKwVc_1669764961167RQ8fi_JPEG/cover_0001016346_001_20221130083003210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
