@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 지하철 30일부터 '파업' 돌입, 파업 기간 노선별 운행률은?]]></title>
+            <link>https://tv.naver.com/v/31208189</link>
+            <guid>https://tv.naver.com/v/31208189</guid>
+            <pubDate>Wed, 30 Nov 2022 06:27:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_30/b3Csr_1669784890849ysPdI_JPEG/1669784872793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울지하철 1~8호선, 오늘부터 파업 돌입 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/31205869</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Nov 2022 23:22:23 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_19/LPhos_1669762577866co5sy_JPEG/cover_cover_20221130074959_20_605_1314486_1080_7_20221130075501230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글]파리 누비는 '부기'/51년 만에 가족상봉/푸틴 건강 이상?]]></title>
-            <link>https://tv.naver.com/v/31198618</link>
-            <guid>https://tv.naver.com/v/31198618</guid>
-            <pubDate>Tue, 29 Nov 2022 23:22:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_296/FYYif_1669762369223dpg7A_JPEG/cover_cover_20221130074636_20_605_1314485_1080_7_20221130075101200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

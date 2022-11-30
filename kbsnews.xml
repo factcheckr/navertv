@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[월드컵 영상] “지금까지 이런 개최국은 없었다”…역대급 ‘수모’ 카타르]]></title>
+            <link>https://tv.naver.com/v/31210296</link>
+            <guid>https://tv.naver.com/v/31210296</guid>
+            <pubDate>Wed, 30 Nov 2022 06:26:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_277/IxINI_16697877334699wJ0K_PNG/cover_0011383954_001_20221130145401262.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 내일 아침, 기온 더 내려가요]]></title>
             <link>https://tv.naver.com/v/31208645</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Nov 2022 03:27:54 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_144/XN0zq_1669778216402A0PMw_JPEG/cover_0011383897_001_20221130121601226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 부산 올 겨울 첫 한파경보…감기 가능 지수 ‘매우 높음’]]></title>
-            <link>https://tv.naver.com/v/31201997</link>
-            <guid>https://tv.naver.com/v/31201997</guid>
-            <pubDate>Wed, 30 Nov 2022 02:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_223/GNDyx_1669773974329NKkx5_JPEG/cover_0011383874_001_20221130110535338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

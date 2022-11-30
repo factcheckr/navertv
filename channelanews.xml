@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 05:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 06:27:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]남욱의 폭탄 선언, “내 돈 받은 사람”]]></title>
+            <link>https://tv.naver.com/v/31210779</link>
+            <guid>https://tv.naver.com/v/31210779</guid>
+            <pubDate>Wed, 30 Nov 2022 06:27:19 GMT</pubDate>
+            <content:encoded><![CDATA[16:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_153/m0aNH_1669788746435URfB4_JPEG/cover_0000239015_001_20221130150601779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백악관에 크리스마스 트리]]></title>
             <link>https://tv.naver.com/v/31208659</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Nov 2022 12:40:14 GMT</pubDate>
             <content:encoded><![CDATA[13:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221129_274/l22fb_1669721682333v9Krd_JPEG/cover_0000238948_001_20221129202830834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 한동훈 신변보호 조치…현직 장관 ‘스마트워치’ 찰까]]></title>
-            <link>https://tv.naver.com/v/31187530</link>
-            <guid>https://tv.naver.com/v/31187530</guid>
-            <pubDate>Tue, 29 Nov 2022 12:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[23:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221129_282/uqlIq_1669721910012r9vbS_JPEG/cover_0000238947_001_20221129202801774.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
