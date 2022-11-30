@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 13:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 14:20:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[벤투호 훈련 '최상의 전력으로 포르투갈과 싸운다']]></title>
+            <link>https://tv.naver.com/v/31227529</link>
+            <guid>https://tv.naver.com/v/31227529</guid>
+            <pubDate>Wed, 30 Nov 2022 14:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[3:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_263/kjUop_1669817562214EyJmF_JPEG/cover_cover_202211302306500773_t_20221130231102601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빙글빙글 추락 후 수차례 폭발..."끝까지 조종간 놓지 않은 듯"]]></title>
             <link>https://tv.naver.com/v/31226412</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Nov 2022 12:41:57 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_54/BGgPX_1669811121905kYhsr_JPEG/cover_cover_202211301459229453_t_20221130212502040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 지하철 6년 만에 파업...일부 운행 차질]]></title>
-            <link>https://tv.naver.com/v/31224163</link>
-            <guid>https://tv.naver.com/v/31224163</guid>
-            <pubDate>Wed, 30 Nov 2022 12:41:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_37/m9pZU_1669810933417UBAHy_JPEG/cover_cover_202211302117473600_t_20221130212102546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
