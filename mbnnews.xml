@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 20:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 21:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[311회_가뭄 및 침수 피해 예방대책]]></title>
+            <link>https://tv.naver.com/v/31266618</link>
+            <guid>https://tv.naver.com/v/31266618</guid>
+            <pubDate>Thu, 01 Dec 2022 21:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[14:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_218/2CxKt_1669929051502LklGj_JPEG/cover_cover_20221202055912_20_849_1314673_1080_7_20221202060301196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['국조 특위' 만난 유가족…"철저한 진상규명 해 달라" 호소]]></title>
             <link>https://tv.naver.com/v/31259825</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Dec 2022 10:24:07 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_161/SceiO_1669889679171QoxRa_JPEG/cover_cover_20221201190951_20_552_1314641_1080_7_20221201191301217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화물연대 파업 8일째…"산업계 피해액 1조 6천억 원"]]></title>
-            <link>https://tv.naver.com/v/31255632</link>
-            <guid>https://tv.naver.com/v/31255632</guid>
-            <pubDate>Thu, 01 Dec 2022 10:24:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_111/J5jRJ_1669889553904tkGa2_JPEG/cover_cover_20221201190817_20_552_1314640_1080_7_20221201191101209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
