@@ -4,17 +4,9 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 06:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 07:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[러시아 가족의 10대 소녀 '납치혼' 시도]]></title>
-            <link>https://tv.naver.com/v/31244586</link>
-            <guid>https://tv.naver.com/v/31244586</guid>
-            <pubDate>Thu, 01 Dec 2022 05:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_176/H8OWM_16698718881392WAFM_JPEG/1669871865998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[기름 떨어진 주유소 곳곳에 '품절'…"군 탱크로리 투입"]]></title>
             <link>https://tv.naver.com/v/31243852</link>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 30 Nov 2022 23:22:26 GMT</pubDate>
             <content:encoded><![CDATA[0:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_64/XXHz8_166984963630792f0m_JPEG/cover_cover_20221201075806_20_605_1314592_1080_7_20221201080701236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[굿모닝MBN 날씨]오늘 강추위 절정…내일까지 서해안·제주 산지 눈]]></title>
+            <link>https://tv.naver.com/v/31235130</link>
+            <guid>https://tv.naver.com/v/31235130</guid>
+            <pubDate>Thu, 01 Dec 2022 07:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_160/S3GXx_1669849560188kOSMu_JPEG/cover_cover_20221201075635_20_605_1314591_1080_7_20221201080501196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
