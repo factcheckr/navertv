@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 07:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 08:28:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘中 경제성장 주역’ 장쩌민 전 주석 별세]]></title>
+            <link>https://tv.naver.com/v/31251228</link>
+            <guid>https://tv.naver.com/v/31251228</guid>
+            <pubDate>Thu, 01 Dec 2022 08:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_22/cfYho_16698814908221nCBC_JPEG/1669881485211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파업이 만든 꿀알바…“로드 탁송” 긴 줄]]></title>
             <link>https://tv.naver.com/v/31247586</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Nov 2022 11:18:45 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221130_243/Zzc2Z_16698067871689kYpS_JPEG/cover_0000239043_001_20221130201222074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당, 이상민 해임건의안 제출…“거부하면 탄핵 추진”]]></title>
-            <link>https://tv.naver.com/v/31222238</link>
-            <guid>https://tv.naver.com/v/31222238</guid>
-            <pubDate>Wed, 30 Nov 2022 11:18:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221130_295/QtqV0_1669806794383ON0cf_JPEG/cover_0000239042_001_20221130201214632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
