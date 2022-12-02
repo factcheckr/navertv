@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 20:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 21:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황희찬, 마지막에 터졌다!]]></title>
+            <link>https://tv.naver.com/v/31296228</link>
+            <guid>https://tv.naver.com/v/31296228</guid>
+            <pubDate>Fri, 02 Dec 2022 21:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_51/ymGGG_1670015692826OslMQ_JPEG/cover_0011385938_001_20221203061401203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고객 돈 횡령 새마을금고 전 직원 2명 구속 기소]]></title>
             <link>https://tv.naver.com/v/31293070</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Dec 2022 13:24:54 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_45/SIBcX_1669986975490EW3aC_JPEG/cover_0011385888_001_20221202221601257.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대전·세종·충남 주말에도 추위 계속…일부 지역에 눈·비]]></title>
-            <link>https://tv.naver.com/v/31290954</link>
-            <guid>https://tv.naver.com/v/31290954</guid>
-            <pubDate>Fri, 02 Dec 2022 13:24:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_121/TMPxs_1669986938165O8lYo_JPEG/cover_0011385887_001_20221202221521487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
