@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 10:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 11:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 2일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/31287572</link>
+            <guid>https://tv.naver.com/v/31287572</guid>
+            <pubDate>Fri, 02 Dec 2022 11:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_240/J4jXy_1669978006802NDMWl_JPEG/cover_2022120290134_thumb_074257_20221202194601764.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 뇌물로 받은 수산물 횟집서 돈으로 바꾼 공무원]]></title>
             <link>https://tv.naver.com/v/31281899</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Dec 2022 13:37:42 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_237/KQhxr_1669899754483HIyPj_JPEG/cover_2022120190208_thumb_095621_20221201220101712.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신동욱 앵커의 시선] 공은 둥글다]]></title>
-            <link>https://tv.naver.com/v/31260143</link>
-            <guid>https://tv.naver.com/v/31260143</guid>
-            <pubDate>Thu, 01 Dec 2022 13:37:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_2/gNlNN_16698994561802ffhK_JPEG/cover_2022120190225_thumb_095115_20221201215614615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
