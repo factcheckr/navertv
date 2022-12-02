@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 01:36:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 02:52:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["데리러 올게" 3살 명동에 버린 엄마…법원, 선처한 이유]]></title>
+            <link>https://tv.naver.com/v/31271586</link>
+            <guid>https://tv.naver.com/v/31271586</guid>
+            <pubDate>Fri, 02 Dec 2022 02:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_132/Xxr1J_1669947046584kYf7y_JPEG/cover_0001017352_001_20221202111001189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["항복하고 싶다며 러시아 병사들 문의 하루 100건 빗발"]]></title>
+            <link>https://tv.naver.com/v/31270458</link>
+            <guid>https://tv.naver.com/v/31270458</guid>
+            <pubDate>Fri, 02 Dec 2022 02:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_216/g6xbj_1669945007812QjTdg_JPEG/cover_0001017359_001_20221202103602786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] 북한의 150억 원 훔친 특수부대 그 사람]]></title>
+            <link>https://tv.naver.com/v/31270424</link>
+            <guid>https://tv.naver.com/v/31270424</guid>
+            <pubDate>Fri, 02 Dec 2022 02:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_238/f06HX_1669944948686iHidf_PNG/cover_0001017387_001_20221202103501174.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[신규 확진 5만 2,987명…엿새째 전주 대비 감소]]></title>
             <link>https://tv.naver.com/v/31270286</link>
@@ -176,22 +200,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_96/ZPqM3_1669939801578cr4pK_JPEG/cover_0001017364_001_20221202090101180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[뉴스딱] "항복하고 싶다"…러 병사들 하루 100건 문의]]></title>
-            <link>https://tv.naver.com/v/31268413</link>
-            <guid>https://tv.naver.com/v/31268413</guid>
-            <pubDate>Fri, 02 Dec 2022 01:35:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_67/mEMdj_1669938408503XCuQd_JPEG/cover_0001017359_001_20221202084601235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스딱] "데리러 올게"…3살 딸 버린 엄마 '선처', 왜?]]></title>
-            <link>https://tv.naver.com/v/31268076</link>
-            <guid>https://tv.naver.com/v/31268076</guid>
-            <pubDate>Thu, 01 Dec 2022 23:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_20/zXRAa_1669936783214W06Ue_JPEG/cover_0001017352_001_20221202081901198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[뉴스딱] 스키 타다 실수로 '쾅'…즐기러 가서 전과자 될 수도]]></title>
             <link>https://tv.naver.com/v/31267995</link>
             <guid>https://tv.naver.com/v/31267995</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Dec 2022 12:44:01 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221201_138/NPBe0_1669897176451lCoNw_JPEG/cover_0001017244_001_20221201211805657.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회 찾은 이태원 참사 유족들 "이상민 장관 파면하라"]]></title>
-            <link>https://tv.naver.com/v/31259111</link>
-            <guid>https://tv.naver.com/v/31259111</guid>
-            <pubDate>Thu, 01 Dec 2022 12:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221201_71/ZnVTH_16698971875170zp4P_JPEG/cover_0001017243_001_20221201211756407.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
