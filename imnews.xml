@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 02:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 03:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Sat, 03 Dec 2022 01:25:46 GMT</pubDate>
             <content:encoded><![CDATA[2:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_5/gRiH5_1670027285777zl66e_JPEG/cover_cover_unity_20221203_074851_1_1_Large_1_20221203092702122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["제발 한 골만"‥영하 추위 잊은 '함성·환호']]></title>
-            <link>https://tv.naver.com/v/31297301</link>
-            <guid>https://tv.naver.com/v/31297301</guid>
-            <pubDate>Sat, 03 Dec 2022 01:25:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_239/Svvoa_1670026808275pzGou_JPEG/cover_cover_today_20221203_073028_1_13_Large_20221203091702023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[결국 시한 넘긴 예산안‥'이상민 해임안'도 연기]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 02 Dec 2022 08:23:44 GMT</pubDate>
             <content:encoded><![CDATA[24:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_87/5kT9A_1669965811464emEXP_JPEG/cover_cover_14news_20221202_154236_1_15_Large_20221202161802739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 주말, 추위 잠시 주춤‥일요일 다시 강한 바람]]></title>
+            <link>https://tv.naver.com/v/31280925</link>
+            <guid>https://tv.naver.com/v/31280925</guid>
+            <pubDate>Sat, 03 Dec 2022 03:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_173/5UrGj_1669964439901onJau_JPEG/cover_cover_14news_20221202_154658_1_16_Large_20221202160021687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
