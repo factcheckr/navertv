@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 08:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 09:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[월드컵 영상] ‘브라질이랑 붙나요?’, ‘부딪혀 봐야죠!’ 믹스드존 선수들 반응]]></title>
+            <link>https://tv.naver.com/v/31305152</link>
+            <guid>https://tv.naver.com/v/31305152</guid>
+            <pubDate>Sat, 03 Dec 2022 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_113/7Dn9r_1670058683110F4lVM_JPEG/cover_0011386043_001_20221203181008339.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[월드컵 영상] 벤버지! 늦게 깨달아서 미안해요 (Feat. 쏘니의 헤드락)]]></title>
             <link>https://tv.naver.com/v/31304182</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Dec 2022 01:25:36 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_6/zvPbC_1670026295151LdW4l_JPEG/cover_0011385994_001_20221203091101172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘공영방송 지배구조법’ 과방위 통과…野 단독처리·與 반발]]></title>
-            <link>https://tv.naver.com/v/31297256</link>
-            <guid>https://tv.naver.com/v/31297256</guid>
-            <pubDate>Sat, 03 Dec 2022 01:25:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_184/zZ30z_1670026134858NjiKz_JPEG/cover_0011385949_001_20221203090801239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
