@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 20:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 21:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[312회_기상 전망 및 미세먼지 대응요령]]></title>
+            <link>https://tv.naver.com/v/31313302</link>
+            <guid>https://tv.naver.com/v/31313302</guid>
+            <pubDate>Sat, 03 Dec 2022 21:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[15:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_67/kUVSd_1670100756717Orqvc_JPEG/cover_cover_20221204054043_20_849_1314792_1080_7_20221204054503271.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12월 03일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/31307898</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Dec 2022 11:15:43 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_263/u1yLB_16699784701599UX4B_JPEG/cover_cover_20221202194722_20_552_1314754_1080_7_20221202195301261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["뉴스는 봤지만 막상 내가 겪으니 당황"…품절 주유소 60개로 늘어]]></title>
-            <link>https://tv.naver.com/v/31287712</link>
-            <guid>https://tv.naver.com/v/31287712</guid>
-            <pubDate>Fri, 02 Dec 2022 11:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_296/anwlW_1669978341266qhvcG_JPEG/cover_cover_20221202191433_20_552_1314740_1080_7_20221202195101213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
