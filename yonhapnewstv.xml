@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 19:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 20:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 12월 4일]]></title>
+            <link>https://tv.naver.com/v/31313144</link>
+            <guid>https://tv.naver.com/v/31313144</guid>
+            <pubDate>Sat, 03 Dec 2022 20:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[30:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_225/6gY34_1670097864485UcnDf_JPEG/cover_cover_MYH20221202014600641_20221204050202261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 세 번째 겨울, 이번이 마지막? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/31309122</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Dec 2022 05:17:22 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_272/om2xF_16700434184589o6TL_JPEG/cover_cover_MYH20221203007800032_20221203134102229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["추위야 늦었지만 반갑다"…스키장 본격 개장]]></title>
-            <link>https://tv.naver.com/v/31300195</link>
-            <guid>https://tv.naver.com/v/31300195</guid>
-            <pubDate>Sat, 03 Dec 2022 05:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_248/1afcx_1670042401990NV5eC_JPEG/cover_cover_MYH20221203007300641_20221203133902148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
