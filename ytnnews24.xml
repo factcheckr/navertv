@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 11:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 12:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[화물연대 파업 피해 본격화...민노총, 서울·부산서 노동자대회]]></title>
+            <link>https://tv.naver.com/v/31307245</link>
+            <guid>https://tv.naver.com/v/31307245</guid>
+            <pubDate>Sat, 03 Dec 2022 12:34:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_263/sKh9N_1670066282069SVnFE_JPEG/cover_cover_202212032010403263_t_20221203201702430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["한국, 최근 월드컵 7골 중 4골 추가 시간에...드라마 같다"]]></title>
             <link>https://tv.naver.com/v/31306979</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Dec 2022 06:23:30 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221203_53/6p8r6_16700473983306KhfF_JPEG/cover_cover_202212031322498332_t_20221203150301795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 고용시장 아직 '탄탄'...금리 더 오를까?]]></title>
-            <link>https://tv.naver.com/v/31300861</link>
-            <guid>https://tv.naver.com/v/31300861</guid>
-            <pubDate>Sat, 03 Dec 2022 06:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_105/5pddR_1670045031842HcGte_JPEG/cover_cover_202212031420052755_t_20221203142301802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

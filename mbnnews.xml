@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 11:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 12:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 03일 MBN 뉴스센터 클로징]]></title>
+            <link>https://tv.naver.com/v/31307898</link>
+            <guid>https://tv.naver.com/v/31307898</guid>
+            <pubDate>Sat, 03 Dec 2022 12:35:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_217/mDPcx_1670068316064zlyF8_JPEG/cover_cover_20221203204911_20_906_1314791_1080_7_20221203205101217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내일 다시 -12도 강추위…초겨울 기온 오르락내리락]]></title>
             <link>https://tv.naver.com/v/31307160</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Dec 2022 11:15:43 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_296/anwlW_1669978341266qhvcG_JPEG/cover_cover_20221202191433_20_552_1314740_1080_7_20221202195101213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물가 상승 주춤했지만…가공식품·외식물가 '고공행진' 여전]]></title>
-            <link>https://tv.naver.com/v/31287538</link>
-            <guid>https://tv.naver.com/v/31287538</guid>
-            <pubDate>Fri, 02 Dec 2022 11:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_19/c1UAH_1669977996328PiJjy_JPEG/cover_cover_20221202194202_20_552_1314752_1080_7_20221202194501337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
