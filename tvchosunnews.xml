@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 06:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 07:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국, 12년만에 월드컵 16강 진출…다음 상대는 브라질]]></title>
+            <link>https://tv.naver.com/v/31302742</link>
+            <guid>https://tv.naver.com/v/31302742</guid>
+            <pubDate>Sat, 03 Dec 2022 07:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[6:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221203_74/gUddu_1670051285812n1Wzy_JPEG/cover_2022120390025_thumb_035727_20221203160101699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12월 3일 '뉴스현장' 클로징]]></title>
             <link>https://tv.naver.com/v/31301941</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Dec 2022 12:36:24 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_167/9EdWC_1669983733320MbUrM_JPEG/cover_2022120290159_thumb_091608_20221202212101724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 정부 "업무개시명령 후 화물연대 균열"…시멘트 출하량 회복세]]></title>
-            <link>https://tv.naver.com/v/31289569</link>
-            <guid>https://tv.naver.com/v/31289569</guid>
-            <pubDate>Fri, 02 Dec 2022 12:36:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_95/HxMQz_1669983443362T2jwI_JPEG/cover_2022120290155_thumb_091328_20221202211621439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
