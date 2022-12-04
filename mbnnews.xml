@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 02:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 03:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN뉴스센터 날씨]밤사이 기온 뚝↓…내일 아침 서울 체감 '영하 13도']]></title>
+            <link>https://tv.naver.com/v/31315853</link>
+            <guid>https://tv.naver.com/v/31315853</guid>
+            <pubDate>Sun, 04 Dec 2022 03:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_142/zDFGc_1670123629515DyYQH_JPEG/cover_cover_20221204120941_20_906_1314794_1080_7_20221204121301202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[312회_기상 전망 및 미세먼지 대응요령]]></title>
             <link>https://tv.naver.com/v/31313302</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Dec 2022 11:15:43 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_260/H5ppF_1669978920357qelJj_JPEG/cover_cover_20221202195642_20_552_1314756_1080_7_20221202200101220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올겨울 스키장 첫 개장했더니…하루에 스키어 1천 명 몰려]]></title>
-            <link>https://tv.naver.com/v/31287772</link>
-            <guid>https://tv.naver.com/v/31287772</guid>
-            <pubDate>Fri, 02 Dec 2022 11:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_263/u1yLB_16699784701599UX4B_JPEG/cover_cover_20221202194722_20_552_1314754_1080_7_20221202195301261.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
