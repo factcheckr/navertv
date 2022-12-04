@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 22:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 23:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 서울 아침 영하 7도…전국 곳곳 건조특보]]></title>
+            <link>https://tv.naver.com/v/31333219</link>
+            <guid>https://tv.naver.com/v/31333219</guid>
+            <pubDate>Sun, 04 Dec 2022 23:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_12/3FEtp_1670195785150npcJC_JPEG/cover_0000323878_001_20221205081601659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨플러스] 수요일까지 추위…알아두면 좋을 '거리의 온기']]></title>
             <link>https://tv.naver.com/v/31325710</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Dec 2022 12:35:46 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221202_292/l0AWT_1669981816622BSUhF_JPEG/cover_0000323706_001_20221202205001662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사고 목격하고 구조 후 CPR…비번날 생명 살린 소방관들]]></title>
-            <link>https://tv.naver.com/v/31288987</link>
-            <guid>https://tv.naver.com/v/31288987</guid>
-            <pubDate>Fri, 02 Dec 2022 12:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221202_34/uYh2s_1669981782067U0F0p_JPEG/cover_0000323705_001_20221202204901616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
