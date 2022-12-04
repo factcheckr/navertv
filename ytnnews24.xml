@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 03:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 04:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 우리 국민을, 우리 의료진이, 우리 비행기로...]]></title>
+            <link>https://tv.naver.com/v/31316090</link>
+            <guid>https://tv.naver.com/v/31316090</guid>
+            <pubDate>Sun, 04 Dec 2022 04:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_45/PcL4t_1670124595639nw5X0_JPEG/cover_cover_202212041225594693_t_20221204122901764.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] '백지 시위' 후 속속 방역 완화하는 중국...그러나 잇따르는 경고]]></title>
             <link>https://tv.naver.com/v/31315938</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 04 Dec 2022 01:38:33 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221204_206/nlThu_1670109853377P2k3X_JPEG/cover_cover_202212040820452214_t_20221204082301797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['메시 선제골' 아르헨티나, 호주 꺾고 네덜란드와 8강 격돌]]></title>
-            <link>https://tv.naver.com/v/31313735</link>
-            <guid>https://tv.naver.com/v/31313735</guid>
-            <pubDate>Sat, 03 Dec 2022 23:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_95/4LV4y_1670109077171TJQUy_JPEG/cover_cover_202212040633459391_t_20221204081102462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
