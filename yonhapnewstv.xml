@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 11:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 12:36:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연합뉴스TV 스페셜] 254회 : 발등의 불 '쓰레기 대란' 해법을 찾아라!]]></title>
+            <link>https://tv.naver.com/v/31324048</link>
+            <guid>https://tv.naver.com/v/31324048</guid>
+            <pubDate>Sun, 04 Dec 2022 12:35:17 GMT</pubDate>
+            <content:encoded><![CDATA[24:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_269/Thu9z_1670152671949hoft2_JPEG/cover_cover_MYH20221202010100641_20221204200102152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국, '노령층 백신 접종률' 끌어올릴 수 있을까]]></title>
             <link>https://tv.naver.com/v/31323046</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 04 Dec 2022 05:17:46 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221204_125/9qcPX_1670128830687H1NUS_JPEG/cover_cover_MYH20221204006500641_20221204134002503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 금융자산 10억원이상 42만명…8% 늘어]]></title>
-            <link>https://tv.naver.com/v/31317121</link>
-            <guid>https://tv.naver.com/v/31317121</guid>
-            <pubDate>Sun, 04 Dec 2022 05:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_239/qQ0pC_167012858718641c2x_JPEG/cover_cover_MYH20221204006400038_20221204133602411.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
