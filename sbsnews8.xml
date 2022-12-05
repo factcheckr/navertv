@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신규 확진 2만 3,160명…1주 전보다 800여 명 늘어]]></title>
+            <link>https://tv.naver.com/v/31335610</link>
+            <guid>https://tv.naver.com/v/31335610</guid>
+            <pubDate>Mon, 05 Dec 2022 02:44:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_93/n8sqH_1670204180007VvGyN_JPEG/cover_0001017952_001_20221205103601183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 중북부 지역 한파특보…낮에도 체감 추위 영하권]]></title>
             <link>https://tv.naver.com/v/31335588</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 04 Dec 2022 13:22:49 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221204_34/ualVA_1670157486420EHLil_JPEG/cover_0001017846_001_20221204213601178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['14살 중학생' 신지아…언니들 제치고 우승]]></title>
-            <link>https://tv.naver.com/v/31326051</link>
-            <guid>https://tv.naver.com/v/31326051</guid>
-            <pubDate>Sun, 04 Dec 2022 13:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_132/9W6VX_1670157369624jekPt_JPEG/cover_0001017845_001_20221204213508949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

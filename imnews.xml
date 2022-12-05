@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 01:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 02:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상M] '신고 없이' 음식 폐기물을 먹이로‥동물 농장 무더기 적발]]></title>
+            <link>https://tv.naver.com/v/31337426</link>
+            <guid>https://tv.naver.com/v/31337426</guid>
+            <pubDate>Mon, 05 Dec 2022 02:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_218/5d7Ty_1670208076727wK1xu_JPEG/cover_cover_ph221205-14_20221205114102153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 위중증 458명‥신규 확진 2만 3천160명]]></title>
             <link>https://tv.naver.com/v/31334358</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 04 Dec 2022 23:19:14 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_159/3PqvQ_1670195010179IUKDG_JPEG/cover_cover_today_20221205_064129_2_6_Large_20221205080301574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 보는 한 주]]></title>
-            <link>https://tv.naver.com/v/31333039</link>
-            <guid>https://tv.naver.com/v/31333039</guid>
-            <pubDate>Sun, 04 Dec 2022 23:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_135/e5PGT_1670196398057kaVGc_JPEG/cover_cover_today_20221205_061857_1_12_Large_20221205080222063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
