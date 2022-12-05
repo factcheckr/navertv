@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 08:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 09:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]‘민지 천하’ 박민지 “조규성 선수, 사인 한 장 해주세요”]]></title>
+            <link>https://tv.naver.com/v/31350772</link>
+            <guid>https://tv.naver.com/v/31350772</guid>
+            <pubDate>Mon, 05 Dec 2022 09:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_149/knqno_1670230915617TKTbV_JPEG/cover_0000239312_001_20221205180101695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1층은 배달 맛집…2층은 성매매 알선]]></title>
             <link>https://tv.naver.com/v/31343969</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 04 Dec 2022 11:16:28 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221204_189/TLBrQ_1670152062307FGVAc_JPEG/cover_0000239276_001_20221204200609741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]꽁꽁 얼린 한파, 화요일까지 이어져]]></title>
-            <link>https://tv.naver.com/v/31324155</link>
-            <guid>https://tv.naver.com/v/31324155</guid>
-            <pubDate>Sun, 04 Dec 2022 11:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221204_130/mXj1h_1670151987807bSpSx_JPEG/cover_0000239277_001_20221204200601785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
