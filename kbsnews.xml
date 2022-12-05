@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 06:26:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 07:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[월드컵 영상] 3:0에도 ‘세네갈 소년단’ 칼군무…“마지막까지 월드컵 즐겼다”]]></title>
+            <link>https://tv.naver.com/v/31345214</link>
+            <guid>https://tv.naver.com/v/31345214</guid>
+            <pubDate>Mon, 05 Dec 2022 07:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_207/sl6jZ_1670222373822t0bsl_JPEG/cover_0011386740_001_20221205153802208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“집값 2배 뛸 때 무주택자 출산 0.15∼0.45명 감소”]]></title>
             <link>https://tv.naver.com/v/31344168</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Dec 2022 04:24:30 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221205_36/XPwXy_1670211840722rNBsY_JPEG/cover_0011386693_001_20221205124301187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야, 막바지 예산 협상 돌입…‘이상민’·‘쟁점법안’ 변수]]></title>
-            <link>https://tv.naver.com/v/31338949</link>
-            <guid>https://tv.naver.com/v/31338949</guid>
-            <pubDate>Mon, 05 Dec 2022 04:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221205_71/6PhlZ_1670211772811wNI3c_JPEG/cover_0011386692_001_20221205124201218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
