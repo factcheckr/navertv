@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 20:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 21:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[313회_코로나19 유행 전망과 방역수칙]]></title>
+            <link>https://tv.naver.com/v/31399178</link>
+            <guid>https://tv.naver.com/v/31399178</guid>
+            <pubDate>Tue, 06 Dec 2022 21:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[15:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_211/p4LQr_1670360847098s2TVf_JPEG/cover_cover_20221207055602_20_849_1314995_1080_7_20221207060001260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[상가 돌진한 전기차 택시 폭발, 2시간 불타…70대 운전기사 숨져]]></title>
             <link>https://tv.naver.com/v/31393543</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Dec 2022 10:22:32 GMT</pubDate>
             <content:encoded><![CDATA[4:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221206_287/ZPbsK_1670318676620GQ0fC_JPEG/cover_cover_20221206181909_20_673_1314962_1080_7_20221206182301217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-"소화기 빌려주세요" 출동 중 불 끈 경찰관]]></title>
-            <link>https://tv.naver.com/v/31385567</link>
-            <guid>https://tv.naver.com/v/31385567</guid>
-            <pubDate>Tue, 06 Dec 2022 10:22:32 GMT</pubDate>
-            <content:encoded><![CDATA[7:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221206_102/dfWV1_1670318763152DDHnO_JPEG/cover_cover_20221206181644_20_673_1314961_1080_7_20221206182201248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
