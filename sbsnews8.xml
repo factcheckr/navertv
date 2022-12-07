@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 17:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 18:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/31430239</link>
+            <guid>https://tv.naver.com/v/31430239</guid>
+            <pubDate>Wed, 07 Dec 2022 18:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_233/RimS4_1670433627660OPqu4_JPEG/cover_0001018748_001_20221208022001171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 당분간 큰 추위 없어…곳곳 미세먼지 '일시 나쁨']]></title>
+            <link>https://tv.naver.com/v/31430234</link>
+            <guid>https://tv.naver.com/v/31430234</guid>
+            <pubDate>Wed, 07 Dec 2022 18:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_204/Kwkct_1670433570755yeK6C_JPEG/cover_0001018747_001_20221208021901170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SBS 김수형 기자, 올해의 생명과학보도상 수상]]></title>
             <link>https://tv.naver.com/v/31430193</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 11:16:50 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_210/qnt5e_1670410264542w1ruf_JPEG/cover_0001018695_001_20221207195001212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D리포트] "장관 역할에 최선"…차출론 선 그은 한동훈]]></title>
-            <link>https://tv.naver.com/v/31421354</link>
-            <guid>https://tv.naver.com/v/31421354</guid>
-            <pubDate>Wed, 07 Dec 2022 11:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_87/BFuSg_1670409375097yUaXj_JPEG/cover_0001018692_001_20221207193501156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D리포트] 류미진 3차 소환…이임재 영장 재신청 예정]]></title>
-            <link>https://tv.naver.com/v/31419872</link>
-            <guid>https://tv.naver.com/v/31419872</guid>
-            <pubDate>Wed, 07 Dec 2022 10:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_70/CUFGR_1670405849041RaM47_JPEG/cover_0001018686_001_20221207183601193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
