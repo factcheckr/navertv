@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 22:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 23:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 중부·전북 오전까지 짙은 안개…동해안 대기 건조]]></title>
+            <link>https://tv.naver.com/v/31431777</link>
+            <guid>https://tv.naver.com/v/31431777</guid>
+            <pubDate>Wed, 07 Dec 2022 23:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_1/Bqtp5_1670454875411IkJoo_JPEG/cover_0000324318_001_20221208081403227.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지자체발 '실내 마스크 해제' 논쟁…당국 "이르면 1월말 조정"]]></title>
             <link>https://tv.naver.com/v/31431157</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 10:21:48 GMT</pubDate>
             <content:encoded><![CDATA[13:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_205/aFFPj_1670407258344lvbA5_JPEG/cover_0000324264_001_20221207185702103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 화물연대 포항지부 압수수색…"파업동참 안하면 응징" 문자협박혐의]]></title>
-            <link>https://tv.naver.com/v/31418129</link>
-            <guid>https://tv.naver.com/v/31418129</guid>
-            <pubDate>Wed, 07 Dec 2022 09:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_166/3Ja8t_1670402294184OKfEc_JPEG/cover_0000324245_001_20221207173801659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
