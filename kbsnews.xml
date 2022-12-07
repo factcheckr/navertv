@@ -4,7 +4,7 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 13:28:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 14:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 07 Dec 2022 13:26:35 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_216/tpFWB_1670419583320YODA7_JPEG/cover_0011388651_001_20221207222607479.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘완전 진화’ 현장서 재발화 25억 원 피해…충북소방, 부실대응·은폐 의혹]]></title>
+            <link>https://tv.naver.com/v/31426179</link>
+            <guid>https://tv.naver.com/v/31426179</guid>
+            <pubDate>Wed, 07 Dec 2022 14:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_213/XYMeO_1670419609287kyvms_JPEG/cover_0011388650_001_20221207222601213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구의료원 “전문의 충원·격리병상 확대”]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 13:26:35 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_155/cDRz7_1670418621670HUSG5_JPEG/cover_0011388630_001_20221207220919298.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불붙은 득점왕 경쟁…음바페 5골로 선두 질주]]></title>
-            <link>https://tv.naver.com/v/31425669</link>
-            <guid>https://tv.naver.com/v/31425669</guid>
-            <pubDate>Wed, 07 Dec 2022 13:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_241/tKILZ_1670418610179T5YGD_JPEG/cover_0011388629_001_20221207220913280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
