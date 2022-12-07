@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 09:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 10:22:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,6 +192,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_292/qH4YC_1670384409829T3a3x_JPEG/cover_cover_noon_20221207_120327_1_2_Large_20221207123955630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[축구 국가대표팀, 윤 대통령과 내일 만찬]]></title>
+            <link>https://tv.naver.com/v/31406517</link>
+            <guid>https://tv.naver.com/v/31406517</guid>
+            <pubDate>Wed, 07 Dec 2022 10:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_291/00Nxh_1670406654642lLfcy_JPEG/cover_cover_noon_20221207_120711_1_5_Large_20221207123933069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA["실내마스크‥이르면 내년 1월, 늦어도 3월 완화"]]></title>
             <link>https://tv.naver.com/v/31406510</link>
             <guid>https://tv.naver.com/v/31406510</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Dec 2022 01:39:29 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221207_47/FH0dO_16703741850443jcVf_JPEG/cover_cover_0930_20221207_094055_1_5_Large_20221207094924723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라, 러 본토 잇따라 공격‥확전 가능성]]></title>
-            <link>https://tv.naver.com/v/31401216</link>
-            <guid>https://tv.naver.com/v/31401216</guid>
-            <pubDate>Wed, 07 Dec 2022 09:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221207_237/bxXHf_16703741958411u4gY_JPEG/cover_cover_0930_20221207_093928_1_4_Large_20221207094919313.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
