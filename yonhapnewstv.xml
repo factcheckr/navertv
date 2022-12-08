@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 21:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 22:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨클릭] 출근길 중부 눈·비 조금…동쪽 연일 건조]]></title>
+            <link>https://tv.naver.com/v/31463246</link>
+            <guid>https://tv.naver.com/v/31463246</guid>
+            <pubDate>Thu, 08 Dec 2022 22:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_256/4wwca_167053774638565NmI_JPEG/cover_cover_MYH20221209000700641_20221209071502308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["가습기살균제, 호흡기 통해 폐까지 도달" 첫 확인]]></title>
             <link>https://tv.naver.com/v/31462594</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Dec 2022 12:36:39 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_147/nrmdC_1670499936707pI2Qk_JPEG/cover_cover_MYH20221208019200038_20221208204502397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주노총, 업무명령 확대 반발…정치권 물밑대화 기류도]]></title>
-            <link>https://tv.naver.com/v/31452919</link>
-            <guid>https://tv.naver.com/v/31452919</guid>
-            <pubDate>Thu, 08 Dec 2022 12:36:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_145/yhP1g_1670499171972PiMK9_JPEG/cover_cover_MYH20221208017800641_20221208203109547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
