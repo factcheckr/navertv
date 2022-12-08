@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 01:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 02:48:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Thu, 08 Dec 2022 01:35:34 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_235/opcup_16704602256469cM7i_JPEG/cover_cover_0930_20221208_093533_1_3_Large_20221208094313500.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태극전사 귀국‥벤투 감독 '아름다운 마무리']]></title>
-            <link>https://tv.naver.com/v/31432765</link>
-            <guid>https://tv.naver.com/v/31432765</guid>
-            <pubDate>Thu, 08 Dec 2022 01:35:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_219/Hy1jb_1670460243395B3RDk_JPEG/cover_cover_0930_20221208_093344_1_2_Large_20221208094307862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 약해진 추위, 충청·남부 미세먼지↑‥동쪽 대기 건조, 불조심]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Wed, 07 Dec 2022 23:18:49 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_143/BVSu5_16704540856528oz9f_JPEG/cover_cover_today_20221208_060526_1_3_Large_20221208080043818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이 시각 세계] 타임 '올해의 인물' 젤렌스키 대통령·'우크라이나의 투혼']]></title>
+            <link>https://tv.naver.com/v/31431632</link>
+            <guid>https://tv.naver.com/v/31431632</guid>
+            <pubDate>Thu, 08 Dec 2022 02:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_44/G6BRC_1670454051537R2NMd_JPEG/cover_cover_today_20221208_064725_2_12_Large_20221208080036425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
