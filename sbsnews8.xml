@@ -4,7 +4,7 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 17:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 18:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Thu, 08 Dec 2022 16:27:32 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_146/wqbWb_16705155146975xw2b_JPEG/cover_0001019025_001_20221209010401182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['포르투갈전 폭풍질주는 모험'…황희찬이 전한 뒷얘기]]></title>
-            <link>https://tv.naver.com/v/31459279</link>
-            <guid>https://tv.naver.com/v/31459279</guid>
-            <pubDate>Thu, 08 Dec 2022 16:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_175/fhMp8_1670515058155PHp7Y_JPEG/cover_0001019024_001_20221209005601162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[축구대표팀 환영 만찬…윤 대통령 "우리에겐 우승팀"]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 08 Dec 2022 13:26:05 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_245/UBIbQ_1670503855981dRTv3_JPEG/cover_0001018996_001_20221208214929194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["범인이라며 젊은 사람 싹 잡아갔어"…피해자 20명 넘어]]></title>
+            <link>https://tv.naver.com/v/31454830</link>
+            <guid>https://tv.naver.com/v/31454830</guid>
+            <pubDate>Thu, 08 Dec 2022 18:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_12/n61lU_1670503893989HNoNY_JPEG/cover_0001018998_001_20221208214901175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
