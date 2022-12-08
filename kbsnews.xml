@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 13:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 14:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 12.1도…내일 1~14도]]></title>
+            <link>https://tv.naver.com/v/31456886</link>
+            <guid>https://tv.naver.com/v/31456886</guid>
+            <pubDate>Thu, 08 Dec 2022 14:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_277/Tj7ym_16705084449333XBNB_JPEG/cover_0011389414_001_20221208230702412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화물연대 대전서 긴급회의…‘3년 연장안’ 논의]]></title>
             <link>https://tv.naver.com/v/31455758</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Dec 2022 13:25:47 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_245/xHoDZ_1670505006745T0HX4_JPEG/cover_0011389403_001_20221208220908722.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스9 날씨] 내일 아침, 경기·영서 북부에 비나 눈…미세먼지 주의]]></title>
-            <link>https://tv.naver.com/v/31455454</link>
-            <guid>https://tv.naver.com/v/31455454</guid>
-            <pubDate>Thu, 08 Dec 2022 13:25:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_29/GUCOt_1670504978252xCQ2i_JPEG/cover_0011389402_001_20221208220901258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
