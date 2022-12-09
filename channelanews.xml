@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 07:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 08:25:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[젖지 않는 ‘종이 빨대’ 개발]]></title>
+            <link>https://tv.naver.com/v/31479686</link>
+            <guid>https://tv.naver.com/v/31479686</guid>
+            <pubDate>Fri, 09 Dec 2022 08:25:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_210/8ab4T_1670572555338RxjMj_JPEG/1670572513207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김종민, 한동훈 향해 “정치 공부 다시 해야”]]></title>
             <link>https://tv.naver.com/v/31472975</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Dec 2022 11:17:34 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_145/Ffb2o_16704981437779Kf3b_JPEG/cover_0000239580_001_20221208201522395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]내일 새벽 중부 약한 눈…서쪽 중심 공기질 탁해]]></title>
-            <link>https://tv.naver.com/v/31452530</link>
-            <guid>https://tv.naver.com/v/31452530</guid>
-            <pubDate>Thu, 08 Dec 2022 11:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_150/Lnf4s_1670498147904b1XaQ_JPEG/cover_0000239581_001_20221208201514940.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
