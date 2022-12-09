@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 08:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 09:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령 축구 실력은?]]></title>
+            <link>https://tv.naver.com/v/31482162</link>
+            <guid>https://tv.naver.com/v/31482162</guid>
+            <pubDate>Fri, 09 Dec 2022 09:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_94/1xI5P_1670576839980SndYc_JPEG/1670576828239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[젖지 않는 ‘종이 빨대’ 개발]]></title>
             <link>https://tv.naver.com/v/31479686</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Dec 2022 11:17:34 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221208_207/gm7CK_1670498224907Bzq4N_JPEG/cover_0000239577_001_20221208201546049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채널A 다큐 ‘환생’, 한국기독언론대상 최고상 수상]]></title>
-            <link>https://tv.naver.com/v/31452531</link>
-            <guid>https://tv.naver.com/v/31452531</guid>
-            <pubDate>Thu, 08 Dec 2022 11:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221208_145/Ffb2o_16704981437779Kf3b_JPEG/cover_0000239580_001_20221208201522395.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
