@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한 총리 "실내마스크 해제 판단 기준, 이달 중 확정" [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/31469016</link>
+            <guid>https://tv.naver.com/v/31469016</guid>
+            <pubDate>Fri, 09 Dec 2022 03:23:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_223/bgFee_1670554782305KH5gO_JPEG/cover_cover_20221209115642_20_845_1315237_1080_7_20221209115901185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] '윤석열 찍어내기 감찰' 수사 본격화…이성윤 소환 통보]]></title>
             <link>https://tv.naver.com/v/31466835</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Dec 2022 23:21:57 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_39/fGSIT_1670538840534whcHY_JPEG/cover_cover_20221209072928_20_605_1315203_1080_7_20221209073301797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류삼영 "목숨 걸고 경찰국 막았어야"…윤희근 중징계 요구에 '부글부글']]></title>
-            <link>https://tv.naver.com/v/31463362</link>
-            <guid>https://tv.naver.com/v/31463362</guid>
-            <pubDate>Thu, 08 Dec 2022 23:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_45/Doo8f_1670538615202GKvwp_JPEG/cover_cover_20221209072434_20_605_1315202_1080_7_20221209072901166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

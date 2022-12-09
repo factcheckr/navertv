@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 02:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 03:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 12월 9일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/31469438</link>
+            <guid>https://tv.naver.com/v/31469438</guid>
+            <pubDate>Fri, 09 Dec 2022 03:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_293/r1bUS_1670555615260HPa6Y_JPEG/cover_cover_MYH20221209006200038_20221209121302283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스포커스] '뜨거운 감자' 된 실내마스크…해제 논의 당겨질까]]></title>
             <link>https://tv.naver.com/v/31468146</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Dec 2022 23:21:22 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_135/HFPkt_16705414488109eEjW_JPEG/cover_cover_MYH20221209002200641_20221209081602474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈+] '서해피격' 檢 칼끝, 문대통령으로 향하나]]></title>
-            <link>https://tv.naver.com/v/31463798</link>
-            <guid>https://tv.naver.com/v/31463798</guid>
-            <pubDate>Fri, 09 Dec 2022 01:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[23:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_150/tj06o_1670541866443Ae7N6_JPEG/cover_cover_MYH20221208010300641_20221209081302291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
