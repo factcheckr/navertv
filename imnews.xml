@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 09:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 10:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 태극전사 대표 미남은? 조규성→손흥민→김민재]]></title>
+            <link>https://tv.naver.com/v/31482555</link>
+            <guid>https://tv.naver.com/v/31482555</guid>
+            <pubDate>Fri, 09 Dec 2022 10:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_95/Gwsdb_1670577820560DsrkR_JPEG/cover_cover_221209_president_640_20221209182202730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['이재명 최측근' 정진상, 뇌물 등 구속 기소]]></title>
             <link>https://tv.naver.com/v/31481202</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Dec 2022 03:22:09 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_163/VTikq_1670556036112F9NfV_JPEG/cover_cover_noon_20221209_121651_1_9_Large_20221209122017988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상·하원 모두 동성혼 인정‥대통령 서명만 남아]]></title>
-            <link>https://tv.naver.com/v/31469674</link>
-            <guid>https://tv.naver.com/v/31469674</guid>
-            <pubDate>Fri, 09 Dec 2022 03:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_23/IUS5I_1670556046383HvygQ_JPEG/cover_cover_noon_20221209_121539_1_8_Large_20221209122010972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
