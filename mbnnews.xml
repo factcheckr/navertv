@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 07:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 08:24:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마이크 잡은 김건희 여사 1210]]></title>
+            <link>https://tv.naver.com/v/31499810</link>
+            <guid>https://tv.naver.com/v/31499810</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[16:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_43/70zTa_1670660233105l7YcD_JPEG/cover_cover_20221210170445_20_675_1315301_1080_7_20221210171001234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화물연대 총파업 종료 1210]]></title>
+            <link>https://tv.naver.com/v/31499752</link>
+            <guid>https://tv.naver.com/v/31499752</guid>
+            <pubDate>Sat, 10 Dec 2022 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[17:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_101/uhhAU_1670660048028v8UDJ_JPEG/cover_cover_20221210165951_20_675_1315300_1080_7_20221210170601210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 윤 대통령 만난 '벤투호']]></title>
             <link>https://tv.naver.com/v/31498100</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 09 Dec 2022 10:22:04 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_258/zDmfX_1670581084777YB1WN_JPEG/cover_cover_20221209191439_20_552_1315262_1080_7_20221209191701220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, '이재명 최측근' 정진상 구속 기소…뇌물·부패방지법 위반 등 혐의]]></title>
-            <link>https://tv.naver.com/v/31483808</link>
-            <guid>https://tv.naver.com/v/31483808</guid>
-            <pubDate>Fri, 09 Dec 2022 10:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_284/w5Ou9_1670580986590FoDtQ_JPEG/cover_cover_20221209191232_20_552_1315261_1080_7_20221209191501208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내년 예산안 정기국회 회기 내 처리 불발…이상민 해임안도 임시국회로 넘어가]]></title>
-            <link>https://tv.naver.com/v/31483755</link>
-            <guid>https://tv.naver.com/v/31483755</guid>
-            <pubDate>Sat, 10 Dec 2022 02:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_265/koMsO_1670580895886ROTiA_JPEG/cover_cover_20221209190947_20_552_1315260_1080_7_20221209191301209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
