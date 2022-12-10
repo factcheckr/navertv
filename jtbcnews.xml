@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 03:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 04:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 구름 많고 낮 최고 14도 '포근'…제주도 눈·비]]></title>
+            <link>https://tv.naver.com/v/31495255</link>
+            <guid>https://tv.naver.com/v/31495255</guid>
+            <pubDate>Sat, 10 Dec 2022 04:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_31/noNcW_1670642476006ilg47_JPEG/cover_0000324606_001_20221210122101575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["탈북 시도 주민 인권침해"…미, 북 국경수비대 제재]]></title>
             <link>https://tv.naver.com/v/31495243</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Dec 2022 11:17:05 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221209_229/aUaNB_16705842522306YvkF_JPEG/cover_0000324551_001_20221209201010352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 정진상 뇌물 1억 추가…"유동규가 건네줬다"]]></title>
-            <link>https://tv.naver.com/v/31484937</link>
-            <guid>https://tv.naver.com/v/31484937</guid>
-            <pubDate>Fri, 09 Dec 2022 11:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221209_154/KHdIo_16705840177386vo8S_JPEG/cover_0000324550_001_20221209200601637.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
