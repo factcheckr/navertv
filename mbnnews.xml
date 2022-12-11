@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 11:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 12:34:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 11일 MBN 뉴스센터 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/31520685</link>
+            <guid>https://tv.naver.com/v/31520685</guid>
+            <pubDate>Sun, 11 Dec 2022 12:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_28/NJjIc_1670759155888w0Yo8_JPEG/cover_cover_20221211204223_20_906_1315345_1080_7_20221211204501195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스센터 날씨]모레까지 큰 추위 없이 눈 비 소식 잦아…주 중반 기온 '뚝']]></title>
+            <link>https://tv.naver.com/v/31520214</link>
+            <guid>https://tv.naver.com/v/31520214</guid>
+            <pubDate>Sun, 11 Dec 2022 12:34:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_86/AgE6j_1670757842801yePs4_JPEG/cover_cover_20221211202030_20_906_1315343_1080_7_20221211202301200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["가나 골 무효"…도 넘은 유튜브 가짜뉴스 처벌 못 받나]]></title>
             <link>https://tv.naver.com/v/31519970</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 10 Dec 2022 11:16:18 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221210_31/pwuwV_1670670155230KmHsH_JPEG/cover_cover_20221210195731_20_906_1315310_1080_7_20221210200101207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양평서 고교생 4명 탄 승용차 전신주 들이받아…4명 사상]]></title>
-            <link>https://tv.naver.com/v/31502597</link>
-            <guid>https://tv.naver.com/v/31502597</guid>
-            <pubDate>Sat, 10 Dec 2022 11:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_117/P4ItR_1670670026502TSTco_JPEG/cover_cover_20221210195526_20_906_1315309_1080_7_20221210195901195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이태원 참사 유가족협의회 출범…"재난 정쟁화" 권성동 비판]]></title>
-            <link>https://tv.naver.com/v/31502566</link>
-            <guid>https://tv.naver.com/v/31502566</guid>
-            <pubDate>Sat, 10 Dec 2022 11:16:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_296/xPodS_1670669892148tXESO_JPEG/cover_cover_20221210195311_20_906_1315308_1080_7_20221210195701203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
