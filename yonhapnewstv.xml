@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 21:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 22:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨클릭] 오후부터 전국 대부분 비·눈…내일까지 큰 추위 없어]]></title>
+            <link>https://tv.naver.com/v/31526628</link>
+            <guid>https://tv.naver.com/v/31526628</guid>
+            <pubDate>Sun, 11 Dec 2022 22:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_294/hi4Zf_1670796827916XCfNy_JPEG/cover_cover_MYH20221212000800641_20221212071302121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[완만한 증가세…오늘부터 12세 이상도 개량백신 접종]]></title>
             <link>https://tv.naver.com/v/31526374</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 11 Dec 2022 07:17:18 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221211_227/6orVF_1670742984142y31qk_JPEG/cover_cover_MYH20221211008500641_20221211161602495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 이상민 장관 해임안 통과 "별도 입장 없다"]]></title>
-            <link>https://tv.naver.com/v/31515823</link>
-            <guid>https://tv.naver.com/v/31515823</guid>
-            <pubDate>Sun, 11 Dec 2022 07:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_223/pU2P1_16707423829617QO06_JPEG/cover_cover_MYH20221211008400641_20221211160602547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
