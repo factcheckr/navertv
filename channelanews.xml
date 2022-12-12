@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 06:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 07:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성범죄자 이사오자…떠나는 주민들]]></title>
+            <link>https://tv.naver.com/v/31537585</link>
+            <guid>https://tv.naver.com/v/31537585</guid>
+            <pubDate>Mon, 12 Dec 2022 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_128/HxXwF_16708263526437wlos_JPEG/1670826266535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지하철 임산부석…안내음에 ‘깜짝’]]></title>
             <link>https://tv.naver.com/v/31535900</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 11 Dec 2022 12:34:49 GMT</pubDate>
             <content:encoded><![CDATA[4:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221211_194/ZXIk7_1670757676455q03Kn_JPEG/cover_0000239712_001_20221211201901694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예산 시한 D-4…감액안 단독 처리 가능성?]]></title>
-            <link>https://tv.naver.com/v/31520109</link>
-            <guid>https://tv.naver.com/v/31520109</guid>
-            <pubDate>Sun, 11 Dec 2022 12:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_112/R54gM_1670757553861v2XNt_JPEG/cover_0000239711_001_20221211201810002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
