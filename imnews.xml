@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 04:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 05:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상M] 새벽 시간 서울 문래창작촌서 불‥건물 4개 동 불타]]></title>
+            <link>https://tv.naver.com/v/31533112</link>
+            <guid>https://tv.naver.com/v/31533112</guid>
+            <pubDate>Mon, 12 Dec 2022 05:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_224/kBUNp_16708191568891hYAd_JPEG/cover_cover_p20221207_21_20221212132502197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 오늘 전국 대체로 흐린 가운데 곳곳에 눈과 비]]></title>
             <link>https://tv.naver.com/v/31531785</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 11 Dec 2022 23:19:06 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_217/5cdAO_1670799384405oaS7J_JPEG/cover_cover_today_20221212_072509_2_24_Large_20221212075608932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] 황재균♥지연 결혼‥콘서트 같은 열기]]></title>
-            <link>https://tv.naver.com/v/31526869</link>
-            <guid>https://tv.naver.com/v/31526869</guid>
-            <pubDate>Sun, 11 Dec 2022 23:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_209/EGS1m_1670799384957Ez0CH_JPEG/cover_cover_today_20221212_072408_2_23_Large_20221212075601486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
