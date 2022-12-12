@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 22:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 23:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 오후부터 많은 눈…황사 영향 미세먼지 '매우 나쁨']]></title>
+            <link>https://tv.naver.com/v/31558866</link>
+            <guid>https://tv.naver.com/v/31558866</guid>
+            <pubDate>Mon, 12 Dec 2022 23:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_72/EkZh5_1670886748059iEk3F_JPEG/cover_0000324868_001_20221213081201615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[떼인 보증금 받기까지 '산 넘어 산'…정부는 해법 못 내놔]]></title>
             <link>https://tv.naver.com/v/31552146</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 12 Dec 2022 10:21:34 GMT</pubDate>
             <content:encoded><![CDATA[10:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_278/tJKV5_1670840121551bgYSk_JPEG/cover_0000324815_001_20221212191201646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유가족협의회 출범…권성동 "이태원, 세월호 길 안 돼"]]></title>
-            <link>https://tv.naver.com/v/31545241</link>
-            <guid>https://tv.naver.com/v/31545241</guid>
-            <pubDate>Mon, 12 Dec 2022 10:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[12:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_270/Lq6Lv_1670839443643u5c7q_JPEG/cover_0000324813_001_20221212190001645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
