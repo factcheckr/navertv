@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 02:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 03:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다음 달 2만 명 ‘만 5세 입학’ 의견 조사…순서 바뀐 여론청취]]></title>
+            <link>https://tv.naver.com/v/31531130</link>
+            <guid>https://tv.naver.com/v/31531130</guid>
+            <pubDate>Mon, 12 Dec 2022 03:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_220/sBfFH_1670814188255HJokh_JPEG/cover_0000231469_001_20221212120201700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지하철 임산부석, 이래도 앉으시겠습니까…안내음에 ‘깜짝’]]></title>
             <link>https://tv.naver.com/v/31520945</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 10 Dec 2022 12:34:24 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221210_263/FY5KV_1670673847434shYWE_JPEG/cover_0000239678_001_20221210210249653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“성남시청 사무실서 1천만 원”…정진상 전 실장 측은 반박]]></title>
-            <link>https://tv.naver.com/v/31503900</link>
-            <guid>https://tv.naver.com/v/31503900</guid>
-            <pubDate>Sat, 10 Dec 2022 12:34:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_141/fc2aJ_1670673840951zN3kF_JPEG/cover_0000239679_001_20221210210241753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

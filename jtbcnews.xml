@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 02:52:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 03:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['상클' 방송 벌써 한 달…월례 회의 진행｜상클 2교시]]></title>
+            <link>https://tv.naver.com/v/31531449</link>
+            <guid>https://tv.naver.com/v/31531449</guid>
+            <pubDate>Mon, 12 Dec 2022 03:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[38:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_269/GkOQc_16708149098822pwAO_JPEG/cover_0000324764_001_20221212121301586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 오후부터 눈 또는 비…서울 낮 최고 5도]]></title>
             <link>https://tv.naver.com/v/31530824</link>
@@ -14,6 +22,14 @@
             <pubDate>Mon, 12 Dec 2022 02:51:35 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_75/dgC3n_1670813487637G2OAD_JPEG/cover_0000324759_001_20221212115108027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['달 궤도 접근' 미 무인 우주선 '오리온'…지구로 무사 귀환]]></title>
+            <link>https://tv.naver.com/v/31530820</link>
+            <guid>https://tv.naver.com/v/31530820</guid>
+            <pubDate>Mon, 12 Dec 2022 03:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_99/24XsC_16708135069324jdgF_JPEG/cover_0000324758_001_20221212115101627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미 동아태차관보 오늘 방한…북핵·전기차 등 논의]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 11 Dec 2022 03:25:06 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221211_278/bDRjE_1670728223101agauN_JPEG/cover_0000324656_001_20221211121008125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이상민 해임건의안' 국회 통과…야당 '단독 처리']]></title>
-            <link>https://tv.naver.com/v/31511928</link>
-            <guid>https://tv.naver.com/v/31511928</guid>
-            <pubDate>Sun, 11 Dec 2022 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_183/JXQWU_1670728223522htTnQ_JPEG/cover_0000324655_001_20221211121001664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨플러스] 다시 강추위…'얼어붙은 마음' 녹여줄 문화 행사들]]></title>
-            <link>https://tv.naver.com/v/31503457</link>
-            <guid>https://tv.naver.com/v/31503457</guid>
-            <pubDate>Sat, 10 Dec 2022 12:33:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221210_16/CA8Xs_1670672689633xdn5e_JPEG/cover_0000324632_001_20221210204401645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
