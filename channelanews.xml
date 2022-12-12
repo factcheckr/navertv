@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 05:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 06:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지하철 임산부석…안내음에 ‘깜짝’]]></title>
+            <link>https://tv.naver.com/v/31535900</link>
+            <guid>https://tv.naver.com/v/31535900</guid>
+            <pubDate>Mon, 12 Dec 2022 06:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_168/jG0ou_1670823898365Wu7nQ_JPEG/1670823766566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정진석 “이재명, ‘점점점 대표’란 별칭 생겼다더라”]]></title>
             <link>https://tv.naver.com/v/31534679</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 11 Dec 2022 12:34:49 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221211_112/R54gM_1670757553861v2XNt_JPEG/cover_0000239711_001_20221211201810002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴일 본회의 열어 野, 해임안 단독 처리…꼬이는 예산안·국조]]></title>
-            <link>https://tv.naver.com/v/31520101</link>
-            <guid>https://tv.naver.com/v/31520101</guid>
-            <pubDate>Sun, 11 Dec 2022 12:34:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221211_154/LyFmJ_1670757573077SGkc9_JPEG/cover_0000239710_001_20221211201801756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

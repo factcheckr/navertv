@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 05:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 06:25:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, ‘6천만 원 수수’ 노웅래 의원 영장 청구]]></title>
+            <link>https://tv.naver.com/v/31537131</link>
+            <guid>https://tv.naver.com/v/31537131</guid>
+            <pubDate>Mon, 12 Dec 2022 06:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_93/k4qFx_16708257275836sGr1_JPEG/cover_0011390879_001_20221212151502027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 오후, 곳곳 비·눈]]></title>
             <link>https://tv.naver.com/v/31534695</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 12 Dec 2022 04:23:03 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221212_232/mSa3J_1670815853408C72Ti_JPEG/cover_0011390836_001_20221212123010872.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 신혼부부 큰 폭 감소…맞벌이, 무주택자 자녀수↓]]></title>
-            <link>https://tv.naver.com/v/31531867</link>
-            <guid>https://tv.naver.com/v/31531867</guid>
-            <pubDate>Mon, 12 Dec 2022 04:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221212_185/fASyz_1670815849515PdGAb_JPEG/cover_0011390835_001_20221212123001209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
