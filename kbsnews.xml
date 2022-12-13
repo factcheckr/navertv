@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 20:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 21:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[출근길 날씨] 아침에 영하 10도 안팎 강추위…충청·호남 눈]]></title>
+            <link>https://tv.naver.com/v/31588362</link>
+            <guid>https://tv.naver.com/v/31588362</guid>
+            <pubDate>Tue, 13 Dec 2022 21:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_212/pfk9U_1670965916800eauYD_JPEG/cover_0011392056_001_20221214061101176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“나라 구하다 죽었냐” 잇단 막말…유족 “2차 가해 분노”]]></title>
             <link>https://tv.naver.com/v/31586117</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 13 Dec 2022 15:24:03 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221213_121/Fsl90_1670942960934uIoWk_JPEG/cover_0011391998_001_20221213234901162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대중 노사, 임단협 2차 잠정합의안 마련…15일 투표]]></title>
-            <link>https://tv.naver.com/v/31584782</link>
-            <guid>https://tv.naver.com/v/31584782</guid>
-            <pubDate>Tue, 13 Dec 2022 15:24:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_195/8PWWs_1670942847635svrG4_JPEG/cover_0011391997_001_20221213234713088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
