@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 17:18:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 18:24:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 오늘 아침 올겨울 '최고 추위'…찬 바람에 체감 -15도]]></title>
+            <link>https://tv.naver.com/v/31587450</link>
+            <guid>https://tv.naver.com/v/31587450</guid>
+            <pubDate>Tue, 13 Dec 2022 18:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_6/FKXNw_1670954087947Ivo1C_JPEG/cover_0001020147_001_20221214025401165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/31587349</link>
+            <guid>https://tv.naver.com/v/31587349</guid>
+            <pubDate>Tue, 13 Dec 2022 18:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_55/6C1WA_1670953109138w5zpS_JPEG/cover_0001020156_001_20221214023801183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[나이트라인 초대석] 친구 권유로 시작한 재즈…유럽서 극찬 '가장 아름다운 목소리']]></title>
+            <link>https://tv.naver.com/v/31587340</link>
+            <guid>https://tv.naver.com/v/31587340</guid>
+            <pubDate>Tue, 13 Dec 2022 18:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[6:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_39/m7NbE_1670953204582NSs1L_JPEG/cover_0001020155_001_20221214023701164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTS 맏형 진, 차분한 분위기 속 입대…CNN 등 외신 주목]]></title>
             <link>https://tv.naver.com/v/31586844</link>
@@ -46,14 +70,6 @@
             <pubDate>Tue, 13 Dec 2022 16:27:54 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_107/3YxRj_16709481926499g6RT_JPEG/cover_0001020148_001_20221214011601186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 오늘 아침 올겨울 '최고 추위'…찬 바람 · 체감 -15도]]></title>
-            <link>https://tv.naver.com/v/31586338</link>
-            <guid>https://tv.naver.com/v/31586338</guid>
-            <pubDate>Tue, 13 Dec 2022 16:27:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_116/NgZUy_1670947978195nzU4o_JPEG/cover_0001020147_001_20221214011201180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘부터 '최강 한파'…대설특보 속 출근길 비상]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 13 Dec 2022 12:36:36 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221213_64/uQHFa_1670934382056OiUQE_JPEG/cover_0001020126_001_20221213212521073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["2025년부터 고교 내신 절대평가로"…대학 입시 어떻게]]></title>
-            <link>https://tv.naver.com/v/31581091</link>
-            <guid>https://tv.naver.com/v/31581091</guid>
-            <pubDate>Tue, 13 Dec 2022 12:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[4:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_158/r4kQa_1670934427230WffJH_JPEG/cover_0001020129_001_20221213212510710.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["과학사에서 중대한 돌파구"…'인공 태양' 가능성 열리나]]></title>
-            <link>https://tv.naver.com/v/31581088</link>
-            <guid>https://tv.naver.com/v/31581088</guid>
-            <pubDate>Tue, 13 Dec 2022 12:36:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_132/4TThh_1670934378536rioqD_JPEG/cover_0001020127_001_20221213212501198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
