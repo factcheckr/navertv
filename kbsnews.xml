@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 13:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 14:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사기획 창] 6호 시설 아이들]]></title>
+            <link>https://tv.naver.com/v/31583695</link>
+            <guid>https://tv.naver.com/v/31583695</guid>
+            <pubDate>Tue, 13 Dec 2022 14:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[48:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_217/6s7Lk_1670940395627tduFT_JPEG/cover_0011391985_001_20221213230401174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘우호적 당원 모집’…조직 선거 부추기는 경선 제도]]></title>
             <link>https://tv.naver.com/v/31582572</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 13 Dec 2022 13:26:46 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221213_273/yRGry_1670937045801judUD_JPEG/cover_0011391978_001_20221213220859054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북 전교조 해직교사, 국가폭력 피해 회복 촉구]]></title>
-            <link>https://tv.naver.com/v/31582301</link>
-            <guid>https://tv.naver.com/v/31582301</guid>
-            <pubDate>Tue, 13 Dec 2022 13:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_140/PW4ut_1670936953773Fadv2_JPEG/cover_0011391977_001_20221213220853581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
