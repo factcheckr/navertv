@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 03:28:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 04:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 오늘 오후부터 본격적으로 굵어지는 눈발]]></title>
+            <link>https://tv.naver.com/v/31565081</link>
+            <guid>https://tv.naver.com/v/31565081</guid>
+            <pubDate>Tue, 13 Dec 2022 04:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_103/cU9j7_1670902167468v967N_JPEG/cover_cover_noon_20221213_122117_1_14_Large_20221213122908711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 11월 소비자물가지수 발표를 앞두고 코스피 '혼조세']]></title>
+            <link>https://tv.naver.com/v/31565078</link>
+            <guid>https://tv.naver.com/v/31565078</guid>
+            <pubDate>Tue, 13 Dec 2022 04:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_43/rWQoB_1670902160824AoSl9_JPEG/cover_cover_noon_20221213_121944_1_13_Large_20221213122902122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["올해 수도권 아파트 공급, 전년 대비 11% 감소"]]></title>
             <link>https://tv.naver.com/v/31564919</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 12 Dec 2022 23:20:47 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221213_157/7WzwQ_1670886203500Qzxcp_JPEG/cover_cover_today_20221213_073139_2_29_Large_20221213080309242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] "이번엔 할리우드"‥임영웅, LA 콘서트 연다]]></title>
-            <link>https://tv.naver.com/v/31558766</link>
-            <guid>https://tv.naver.com/v/31558766</guid>
-            <pubDate>Mon, 12 Dec 2022 23:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_102/Rq3mQ_1670886203260g1W6h_JPEG/cover_cover_today_20221213_073139_2_28_Large_20221213080300900.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 산타 250명, 슬로프 단체 활강]]></title>
-            <link>https://tv.naver.com/v/31558764</link>
-            <guid>https://tv.naver.com/v/31558764</guid>
-            <pubDate>Mon, 12 Dec 2022 23:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_168/1LZVb_16708861845719krVX_JPEG/cover_cover_today_20221213_072928_2_27_Large_20221213080252975.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
