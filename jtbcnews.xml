@@ -4,9 +4,25 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 06:26:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 시사·경제·문화까지 알짜 정보 다 있슈! JTBC '상암동 클라스']]></title>
+            <link>https://tv.naver.com/v/31600182</link>
+            <guid>https://tv.naver.com/v/31600182</guid>
+            <pubDate>Wed, 14 Dec 2022 06:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[5:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_157/b3YMu_1670997190775Pfqr9_JPEG/cover_0000325084_001_20221214145108264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 방송에서 풀지 못한 정보 모바일로 대방출! JTBC '상클 2교시']]></title>
+            <link>https://tv.naver.com/v/31600175</link>
+            <guid>https://tv.naver.com/v/31600175</guid>
+            <pubDate>Wed, 14 Dec 2022 06:25:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_227/M0bq4_16709971062512Oefc_JPEG/cover_0000325083_001_20221214145101597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박지원 "첩보 삭제 지시 받거나 지시하지 않아…국정원 정치에 끌어들이지 말라"]]></title>
             <link>https://tv.naver.com/v/31594237</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 13 Dec 2022 13:27:16 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221213_53/Uc5ph_1670937005908OkAVa_JPEG/cover_0000324982_001_20221213220909892.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["숨진 딸과 함께 하는 마음으로"…아버지가 대신 읽은 탄원서]]></title>
-            <link>https://tv.naver.com/v/31582169</link>
-            <guid>https://tv.naver.com/v/31582169</guid>
-            <pubDate>Tue, 13 Dec 2022 13:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_253/pZVdp_1670936751269sWjgg_JPEG/cover_0000324989_001_20221213220501614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북 영동 주택·괴산 창고서…밤사이 화재 잇따라]]></title>
-            <link>https://tv.naver.com/v/31582149</link>
-            <guid>https://tv.naver.com/v/31582149</guid>
-            <pubDate>Tue, 13 Dec 2022 13:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221213_8/De5cA_1670936673155Q7IBc_JPEG/cover_0000324991_001_20221213220416861.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
