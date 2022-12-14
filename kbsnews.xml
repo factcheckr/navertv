@@ -4,7 +4,7 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 06:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 07:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 14 Dec 2022 06:24:34 GMT</pubDate>
             <content:encoded><![CDATA[19:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_183/SwP2d_1670998912277EzUkz_JPEG/cover_0011390458_001_20221214151514980.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[시사멘터리 추적] 공무원 국외훈련…표절 또 표절]]></title>
+            <link>https://tv.naver.com/v/31601088</link>
+            <guid>https://tv.naver.com/v/31601088</guid>
+            <pubDate>Wed, 14 Dec 2022 07:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[28:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_273/foN7k_1670999167096JdseF_JPEG/cover_0011390455_001_20221214151501156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경북 대부분 한파 특보에 체감온도 ‘영하권’ 추위…대구 낮 1도]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Dec 2022 04:23:49 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_117/hbcWK_1670989439802LJtXM_JPEG/cover_0011392396_001_20221214124308404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CIA 월드 팩트북 “북 남성 군복무기간 10년에서 7~8년으로 단축”]]></title>
-            <link>https://tv.naver.com/v/31595763</link>
-            <guid>https://tv.naver.com/v/31595763</guid>
-            <pubDate>Wed, 14 Dec 2022 04:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_171/v1JQa_1670989405638PG0P4_JPEG/cover_0011392395_001_20221214124301179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
