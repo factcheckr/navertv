@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 20:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 21:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[317회_한파와 대설 대응요령]]></title>
+            <link>https://tv.naver.com/v/31650943</link>
+            <guid>https://tv.naver.com/v/31650943</guid>
+            <pubDate>Thu, 15 Dec 2022 21:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[15:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_39/LOp6R_1671138721302rCMIy_JPEG/cover_cover_20221216055958_20_849_1315743_1080_7_20221216060401235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBN 뉴스7 오프닝 '개혁 못하면 망해' - 2022년 12월 15일]]></title>
             <link>https://tv.naver.com/v/31642879</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 11:20:48 GMT</pubDate>
             <content:encoded><![CDATA[2:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_224/csooj_1671100001654Vg7Hc_JPEG/cover_cover_20221215192030_20_552_1315714_1080_7_20221215192501190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["추워서 못 나가겠어요"…구내식당 '북적' 도시락 '뚝딱']]></title>
-            <link>https://tv.naver.com/v/31640004</link>
-            <guid>https://tv.naver.com/v/31640004</guid>
-            <pubDate>Thu, 15 Dec 2022 11:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_216/2qM4j_1671099867777lOwKH_JPEG/cover_cover_20221215191900_20_552_1315713_1080_7_20221215192301242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
