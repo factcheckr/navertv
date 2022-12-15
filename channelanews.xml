@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 05:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 06:26:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3천여 명 고독사…절반이 5060 남성]]></title>
+            <link>https://tv.naver.com/v/31629698</link>
+            <guid>https://tv.naver.com/v/31629698</guid>
+            <pubDate>Thu, 15 Dec 2022 06:26:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_78/U313y_16710824908640m6oo_JPEG/1671082486899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[권익위, 조민 청구 ‘기각’…의사면허 유지 ‘빨간불’]]></title>
             <link>https://tv.naver.com/v/31628511</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Dec 2022 11:17:51 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221214_265/OAitE_1671016209654WhQLX_JPEG/cover_0000239948_001_20221214200909604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“8시간제 연장 안 되면 문 닫을 판”…정부 ‘주 최대 69시간’ 추진]]></title>
-            <link>https://tv.naver.com/v/31610545</link>
-            <guid>https://tv.naver.com/v/31610545</guid>
-            <pubDate>Wed, 14 Dec 2022 11:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221214_235/3jtKN_1671016187186eqcfJ_JPEG/cover_0000239950_001_20221214200809581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
