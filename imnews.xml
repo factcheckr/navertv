@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 07:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 08:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] ‘작심 발언’ 김민재 출국 인터뷰 풀영상]]></title>
+            <link>https://tv.naver.com/v/31634936</link>
+            <guid>https://tv.naver.com/v/31634936</guid>
+            <pubDate>Thu, 15 Dec 2022 08:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[6:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_211/CkUmW_167109015214974jEf_JPEG/cover_cover_221215_kim_640_20221215164002859.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[World Now] 나무 막대기로 중국군 '타격'‥중·인 국경 분쟁]]></title>
             <link>https://tv.naver.com/v/31631626</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Dec 2022 23:20:10 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_62/xVeEU_1671058103184YRLNA_JPEG/cover_cover_today_20221215_074115_2_36_Large_20221215074741794.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1분 튼튼건강]]></title>
-            <link>https://tv.naver.com/v/31620141</link>
-            <guid>https://tv.naver.com/v/31620141</guid>
-            <pubDate>Wed, 14 Dec 2022 23:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_136/hT6JY_1671058089521oYajl_JPEG/cover_cover_today_20221215_073913_2_35_Large_20221215074734180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

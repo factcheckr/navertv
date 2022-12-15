@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 07:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 08:26:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 중부지방 최대 10cm 폭설…한파 지속에 빙판길 주의보]]></title>
+            <link>https://tv.naver.com/v/31635011</link>
+            <guid>https://tv.naver.com/v/31635011</guid>
+            <pubDate>Thu, 15 Dec 2022 08:25:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_12/GYQQN_1671090220256oHaXc_JPEG/cover_0001020709_001_20221215164201173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스딱] 흩어진 폐지 줍는 할아버지…여중생들 주저 없이 뛰어갔다]]></title>
             <link>https://tv.naver.com/v/31631207</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 01:39:35 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_286/eYwlS_1671060818593xF1lP_JPEG/cover_0001020553_001_20221215083301263.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스딱] SNS에 떡하니 올린 'PX 영수증'…군대 내 보안 논란]]></title>
-            <link>https://tv.naver.com/v/31620384</link>
-            <guid>https://tv.naver.com/v/31620384</guid>
-            <pubDate>Thu, 15 Dec 2022 01:39:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_30/VXkaG_16710603385288bsP9_JPEG/cover_0001020549_001_20221215082504102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
