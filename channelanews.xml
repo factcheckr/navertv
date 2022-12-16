@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:24:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[엄마 폭행에 숨진 4세 딸]]></title>
+            <link>https://tv.naver.com/v/31665379</link>
+            <guid>https://tv.naver.com/v/31665379</guid>
+            <pubDate>Fri, 16 Dec 2022 08:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_127/wHKt6_1671176703868YtnJN_JPEG/1671176677060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["260억 은닉 혐의" 김만배 측근 '헬멧남' 누구길래?]]></title>
             <link>https://tv.naver.com/v/31663695</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 11:20:40 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_24/F8fOu_16711026305407fYGG_JPEG/cover_0000240027_001_20221215200823122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘백년소공인’ 알짜 기업도 2배 금리에 벼랑 끝]]></title>
-            <link>https://tv.naver.com/v/31641267</link>
-            <guid>https://tv.naver.com/v/31641267</guid>
-            <pubDate>Thu, 15 Dec 2022 11:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_175/rbmQQ_1671102588946p4YmP_JPEG/cover_0000240030_001_20221215200815192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
