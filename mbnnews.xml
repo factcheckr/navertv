@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 02:37:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 03:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한 "'140톤 추진력' 신형 미사일 엔진시험 성공" [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/31656760</link>
+            <guid>https://tv.naver.com/v/31656760</guid>
+            <pubDate>Fri, 16 Dec 2022 03:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_23/b8HQf_1671160784947lxuHE_JPEG/cover_cover_20221216121518_20_845_1315787_1080_7_20221216121901208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 이성윤 "한동훈 수사 때 尹 폭언에 모멸감 느껴"]]></title>
             <link>https://tv.naver.com/v/31655004</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 23:21:33 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_89/KxIV1_1671143637397lIxNs_JPEG/cover_cover_20221216073024_20_605_1315753_1080_7_20221216073301195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중부지방에 함박눈 펑펑…이번 주말 최강 한파]]></title>
-            <link>https://tv.naver.com/v/31651344</link>
-            <guid>https://tv.naver.com/v/31651344</guid>
-            <pubDate>Thu, 15 Dec 2022 23:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_182/6JRd3_1671143519061Pr7Xj_JPEG/cover_cover_20221216072719_20_605_1315752_1080_7_20221216073101206.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
