@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 15:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 16:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[라인 초대석] ‘현역 최고령’ 배우 이순재]]></title>
+            <link>https://tv.naver.com/v/31675881</link>
+            <guid>https://tv.naver.com/v/31675881</guid>
+            <pubDate>Fri, 16 Dec 2022 16:25:16 GMT</pubDate>
+            <content:encoded><![CDATA[8:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_51/41Sli_1671204093449D8XYs_JPEG/cover_0011394264_001_20221217001901197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘대장동 수익 은닉’ 김만배 측근 2명 구속]]></title>
             <link>https://tv.naver.com/v/31675854</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Dec 2022 15:20:24 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_167/lIeg4_1671201051534VMqpy_JPEG/cover_0011394231_001_20221216233009179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방폭안전교육센터 구축…화학사고 줄어들까?]]></title>
-            <link>https://tv.naver.com/v/31675061</link>
-            <guid>https://tv.naver.com/v/31675061</guid>
-            <pubDate>Fri, 16 Dec 2022 15:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_239/8viCX_1671201052708FAp3I_JPEG/cover_0011394230_001_20221216233001216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
