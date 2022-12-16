@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 12:34:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 13:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]감사원, ‘소주성‘ 설계자 홍장표 곧 소환 예정]]></title>
+            <link>https://tv.naver.com/v/31673066</link>
+            <guid>https://tv.naver.com/v/31673066</guid>
+            <pubDate>Fri, 16 Dec 2022 13:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_251/vrS6e_1671195262537hukdW_JPEG/cover_0000240085_001_20221216215301613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“전 소속사 돈 50억 기부”…이승기 무슨 사연?]]></title>
             <link>https://tv.naver.com/v/31671306</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Dec 2022 11:16:56 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_97/0QeTI_1671189103355DURSz_JPEG/cover_0000240091_001_20221216201038083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아는 기자]‘소주성‘ 통계 조작 의혹…청와대로 조사 확대?]]></title>
-            <link>https://tv.naver.com/v/31670812</link>
-            <guid>https://tv.naver.com/v/31670812</guid>
-            <pubDate>Fri, 16 Dec 2022 11:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[4:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_34/4Ihnn_1671189050244dMr2X_JPEG/cover_0000240088_001_20221216200826860.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
