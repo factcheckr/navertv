@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 08:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 09:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/31667883</link>
+            <guid>https://tv.naver.com/v/31667883</guid>
+            <pubDate>Fri, 16 Dec 2022 09:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_67/XS39c_1671181059262yEBct_JPEG/cover_cover_20221216175312_20_845_1315803_1080_7_20221216175701201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸 날씨]이번 주 강력한 한파에 폭설 주의…제주 산간 50cm▲]]></title>
             <link>https://tv.naver.com/v/31666135</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Dec 2022 01:26:32 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_228/FP4cN_1671151044690MI1ny_JPEG/cover_cover_20221216093330_20_689_1315773_1080_7_20221216093701743.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["전기차, 뜯어보고 배우자"…부품업체 기술개발 지원]]></title>
-            <link>https://tv.naver.com/v/31652380</link>
-            <guid>https://tv.naver.com/v/31652380</guid>
-            <pubDate>Fri, 16 Dec 2022 01:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_27/sve2M_1671150959230Auu7w_JPEG/cover_cover_20221216093208_20_689_1315772_1080_7_20221216093501218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
