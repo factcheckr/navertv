@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 05:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 06:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI작곡가, 대학생과 협업해 음원 출시]]></title>
+            <link>https://tv.naver.com/v/31660147</link>
+            <guid>https://tv.naver.com/v/31660147</guid>
+            <pubDate>Fri, 16 Dec 2022 06:24:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_269/myxnL_1671168087642VQxKO_JPEG/cover_0000240069_001_20221216142101672.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국민의힘 ‘룰의 전쟁’…친윤·비윤 갈등 불붙나?]]></title>
             <link>https://tv.naver.com/v/31659738</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Dec 2022 11:20:40 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221215_248/y8PwH_1671102597050vAFXE_JPEG/cover_0000240028_001_20221215200806430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건설 현장 돌며 협박…2억 뜯은 ‘유령 노조’]]></title>
-            <link>https://tv.naver.com/v/31641259</link>
-            <guid>https://tv.naver.com/v/31641259</guid>
-            <pubDate>Thu, 15 Dec 2022 11:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221215_5/gvEMZ_167110257922257fV8_JPEG/cover_0000240029_001_20221215200757987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
