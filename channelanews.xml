@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 15:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 16:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sat, 17 Dec 2022 12:32:40 GMT</pubDate>
             <content:encoded><![CDATA[9:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_257/UXEsT_1671276141175XLYza_JPEG/cover_0000240137_001_20221217201801693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토트넘서 다시 ‘마스크’ 쓴 손흥민…회복에 시간 필요]]></title>
+            <link>https://tv.naver.com/v/31688514</link>
+            <guid>https://tv.naver.com/v/31688514</guid>
+            <pubDate>Sat, 17 Dec 2022 16:24:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_218/3KmDn_16712933923652ubnV_JPEG/cover_0000240136_001_20221217201738989.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베를린 호텔 로비 초대형 수족관 ‘펑’…투숙객 350여 명 대피]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Dec 2022 12:34:32 GMT</pubDate>
             <content:encoded><![CDATA[10:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_4/tKKn5_1671190515743zRVau_JPEG/cover_0000240078_001_20221216203001725.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[앵커의 마침표]숫자는 거짓말하지 않는다]]></title>
-            <link>https://tv.naver.com/v/31670977</link>
-            <guid>https://tv.naver.com/v/31670977</guid>
-            <pubDate>Fri, 16 Dec 2022 11:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_113/FGmpq_1671189340459dKn9F_JPEG/cover_0000240109_001_20221216201506916.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

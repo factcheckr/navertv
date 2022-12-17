@@ -4,7 +4,7 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 15:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 16:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_75/hXTnv_1671278555322k1EOE_JPEG/cover_0001021251_001_20221217205108330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마스크 다시 쓴 '슈퍼 손'…출격 준비]]></title>
+            <link>https://tv.naver.com/v/31689071</link>
+            <guid>https://tv.naver.com/v/31689071</guid>
+            <pubDate>Sat, 17 Dec 2022 16:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_61/hkgu2_1671293390869ntDRW_JPEG/cover_0001021250_001_20221217205101175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김민선, 월드컵 4연속 우승…또 개인 최고 기록]]></title>
             <link>https://tv.naver.com/v/31689057</link>
             <guid>https://tv.naver.com/v/31689057</guid>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Dec 2022 01:23:12 GMT</pubDate>
             <content:encoded><![CDATA[2:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_267/NW2QG_1671239558045gJabk_JPEG/cover_0001021091_001_20221217101101182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쓰레기 두고 간 세입자 한 마디에…집주인도 손 못 대]]></title>
-            <link>https://tv.naver.com/v/31679237</link>
-            <guid>https://tv.naver.com/v/31679237</guid>
-            <pubDate>Sat, 17 Dec 2022 01:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_298/UUVBK_1671234248882GCp9D_JPEG/cover_0001021165_001_20221217084301208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
