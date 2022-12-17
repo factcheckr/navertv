@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 20:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 21:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[318회_지진과 산불 발생 시 대처요령]]></title>
+            <link>https://tv.naver.com/v/31693783</link>
+            <guid>https://tv.naver.com/v/31693783</guid>
+            <pubDate>Sat, 17 Dec 2022 21:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[14:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_229/vEho0_167131007702324bbR_JPEG/cover_cover_20221218053708_20_849_1315876_1080_7_20221218054001213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12월 17일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/31688536</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Dec 2022 12:34:42 GMT</pubDate>
             <content:encoded><![CDATA[5:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_218/6VWlW_1671190333903xgkOL_JPEG/cover_cover_20221216201653_20_536_1315840_1080_7_20221216202901216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 민주당, 박지원 복당 보류]]></title>
-            <link>https://tv.naver.com/v/31671141</link>
-            <guid>https://tv.naver.com/v/31671141</guid>
-            <pubDate>Fri, 16 Dec 2022 12:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[5:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_35/028Rc_167119022360439uYL_JPEG/cover_cover_20221216201503_20_536_1315839_1080_7_20221216202701177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
