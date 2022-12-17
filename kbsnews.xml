@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 14:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 15:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대설주의보 해제…충남 7개 시·군 한파경보 발효]]></title>
+            <link>https://tv.naver.com/v/31691421</link>
+            <guid>https://tv.naver.com/v/31691421</guid>
+            <pubDate>Sat, 17 Dec 2022 15:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_120/ITvmK_1671287672396S2DMS_JPEG/cover_0011394409_001_20221217233401204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[의령군 올해 인구 감소 ‘지난해 절반’…장려상]]></title>
             <link>https://tv.naver.com/v/31690292</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Dec 2022 13:20:20 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_116/kBxMT_1671282380097z2or3_JPEG/cover_0011394416_001_20221217220601224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결승 코 앞에 둔 프랑스…‘감기’ 바이러스로 비상]]></title>
-            <link>https://tv.naver.com/v/31690135</link>
-            <guid>https://tv.naver.com/v/31690135</guid>
-            <pubDate>Sat, 17 Dec 2022 13:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_86/CMUsH_1671282364318EPRJf_JPEG/cover_0011394395_001_20221217220459266.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
