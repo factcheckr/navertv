@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 19:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 20:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 577회]]></title>
+            <link>https://tv.naver.com/v/31693698</link>
+            <guid>https://tv.naver.com/v/31693698</guid>
+            <pubDate>Sat, 17 Dec 2022 20:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[30:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_40/gg6te_1671307411329IUqt6_JPEG/cover_cover_MYH20221216014000641_20221218050101531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도랑에 든 한국…미중 반도체 전쟁 포염 속 실리 해법은? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/31690077</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Dec 2022 07:16:15 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_259/mL4OM_1671260670427cnmsG_JPEG/cover_cover_MYH20221217008400641_20221217160401600.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 곳곳 한파특보, 내일 추위 절정…서해안 제주 폭설]]></title>
-            <link>https://tv.naver.com/v/31684430</link>
-            <guid>https://tv.naver.com/v/31684430</guid>
-            <pubDate>Sat, 17 Dec 2022 07:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_29/M5VF0_16712599274106KK2W_JPEG/cover_cover_MYH20221217008200038_20221217155101521.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
