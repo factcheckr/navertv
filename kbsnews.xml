@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 22:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 23:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 휴일, 더 강해진 추위…충남·호남·제주 폭설]]></title>
+            <link>https://tv.naver.com/v/31694168</link>
+            <guid>https://tv.naver.com/v/31694168</guid>
+            <pubDate>Sat, 17 Dec 2022 23:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_245/kMynK_1671318931365SIYp8_JPEG/cover_0011394467_001_20221218081501154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 휴일, 더 강해진 추위…충남·호남·제주 폭설]]></title>
+            <link>https://tv.naver.com/v/31694152</link>
+            <guid>https://tv.naver.com/v/31694152</guid>
+            <pubDate>Sat, 17 Dec 2022 23:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_234/YnuLZ_1671318445320Yvvgg_JPEG/cover_0011394462_001_20221218080701159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크로아티아, 모로코 돌풍 넘고 3위…전 K리거 오르시치 결승골]]></title>
             <link>https://tv.naver.com/v/31693911</link>
@@ -14,14 +30,6 @@
             <pubDate>Sat, 17 Dec 2022 22:16:23 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221218_251/0VRGw_1671312297122gfVC6_JPEG/cover_0011394463_001_20221218062351985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[6시 날씨] 휴일, 더 강해진 추위…충남·호남·제주 폭설]]></title>
-            <link>https://tv.naver.com/v/31693910</link>
-            <guid>https://tv.naver.com/v/31693910</guid>
-            <pubDate>Sat, 17 Dec 2022 22:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_264/UsraP_16713122479148MJLJ_JPEG/cover_0011394462_001_20221218062344930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머스크, 언론인 트위터 대부분 복구]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Dec 2022 13:20:20 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_57/SqtPE_1671282472382fM1Hs_JPEG/cover_0011394425_001_20221217220652222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충청북도, 낡은 공공건축물 단열설비 개선]]></title>
-            <link>https://tv.naver.com/v/31690175</link>
-            <guid>https://tv.naver.com/v/31690175</guid>
-            <pubDate>Sat, 17 Dec 2022 13:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[0:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_137/nM5mq_1671282418020LaPdN_JPEG/cover_0011394424_001_20221217220646909.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
