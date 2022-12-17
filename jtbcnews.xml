@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 03:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 04:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['신 빙속 여제' 김민선, 월드컵 500m 4회 연속 정상에]]></title>
+            <link>https://tv.naver.com/v/31681496</link>
+            <guid>https://tv.naver.com/v/31681496</guid>
+            <pubDate>Sat, 17 Dec 2022 04:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_68/WgWCe_1671248417014SgBwB_JPEG/cover_0000325463_001_20221217124001726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 한낮에도 영하권 강추위…제주 최고 50㎝ 폭설]]></title>
             <link>https://tv.naver.com/v/31681272</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Dec 2022 11:16:00 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_53/69vLD_1671188391364tCSGf_JPEG/cover_0000325408_001_20221216195901588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 감사원, 홍장표 조사 방침…'문 정부 청와대' 정조준]]></title>
-            <link>https://tv.naver.com/v/31670581</link>
-            <guid>https://tv.naver.com/v/31670581</guid>
-            <pubDate>Fri, 16 Dec 2022 11:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_15/CGvym_16711882216254Mw6x_JPEG/cover_0000325407_001_20221216195601625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
