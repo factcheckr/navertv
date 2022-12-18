@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 18:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 19:15:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FIFA, 월드컵결승전 젤렌스키 영상 상영 거절 '지나치게 정치적']]></title>
+            <link>https://tv.naver.com/v/31710581</link>
+            <guid>https://tv.naver.com/v/31710581</guid>
+            <pubDate>Sun, 18 Dec 2022 19:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_269/YylQL_1671390194133rToHK_JPEG/cover_cover_202212190256378567_t_20221219040301168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아르헨티나, 승부차기 끝에 프랑스 꺾고 카타르월드컵 정상 등극]]></title>
+            <link>https://tv.naver.com/v/31710573</link>
+            <guid>https://tv.naver.com/v/31710573</guid>
+            <pubDate>Sun, 18 Dec 2022 19:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_119/MNRkW_1671390086484A5iRl_JPEG/cover_cover_202212190326292549_t_20221219040101161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보] '메시 2골' 아르헨티나, 프랑스 승부차기로 꺾고 카타르월드컵 우승]]></title>
             <link>https://tv.naver.com/v/31710325</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 18 Dec 2022 14:16:53 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221218_51/4nrWk_1671370653606X0Ly9_JPEG/cover_cover_202212182234509098_t_20221218223712741.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말연시 불빛 밝힌 울산 경관 조명..."따뜻함 전해요"]]></title>
-            <link>https://tv.naver.com/v/31706443</link>
-            <guid>https://tv.naver.com/v/31706443</guid>
-            <pubDate>Sun, 18 Dec 2022 14:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_288/RIZLd_1671370678832sz2mf_JPEG/cover_cover_202212182231229628_t_20221218223701173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[살을 에는 듯한 강추위에도 "연말 분위기 즐겨요"]]></title>
-            <link>https://tv.naver.com/v/31706380</link>
-            <guid>https://tv.naver.com/v/31706380</guid>
-            <pubDate>Sun, 18 Dec 2022 14:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_185/HIAFR_16713704544053sqwp_JPEG/cover_cover_202212182230153775_t_20221218223309428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
