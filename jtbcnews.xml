@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 22:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 23:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 매서운 한파에 전국이 '꽁꽁'…중부 한낮에도 영하권]]></title>
+            <link>https://tv.naver.com/v/31712247</link>
+            <guid>https://tv.naver.com/v/31712247</guid>
+            <pubDate>Sun, 18 Dec 2022 23:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_9/5TQEH_1671405408090p50db_JPEG/cover_0000325573_001_20221219081601697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[백브리핑] "탈출 작전명 '노아의 방주'"…푸틴 도피설까지]]></title>
             <link>https://tv.naver.com/v/31706527</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Dec 2022 12:31:50 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_193/IXasj_1671278097596ByhkH_JPEG/cover_0000325487_001_20221217205401678.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상구성] 서해안 뒤덮은 눈…월요일 오전까지 '폭설']]></title>
-            <link>https://tv.naver.com/v/31687054</link>
-            <guid>https://tv.naver.com/v/31687054</guid>
-            <pubDate>Sat, 17 Dec 2022 10:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_28/Yr5Bx_1671270379130KtKkB_JPEG/cover_0000325497_001_20221217184601639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
