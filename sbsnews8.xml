@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 07:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 08:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 콘서트 인파 몰려들자…10분 만에 취소]]></title>
+            <link>https://tv.naver.com/v/31700025</link>
+            <guid>https://tv.naver.com/v/31700025</guid>
+            <pubDate>Sun, 18 Dec 2022 08:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_31/DPAC7_1671349210573ig9kh_JPEG/cover_0001021352_001_20221218163901156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 크리스마스 이브에 문 닫는 명동 노점…왜?]]></title>
             <link>https://tv.naver.com/v/31699221</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Dec 2022 12:31:39 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221217_191/3WKU0_1671278549205aFMrM_JPEG/cover_0001021252_001_20221217205201177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김연경 · 이주아 '펄펄'…흥국생명 5연승]]></title>
-            <link>https://tv.naver.com/v/31689073</link>
-            <guid>https://tv.naver.com/v/31689073</guid>
-            <pubDate>Sat, 17 Dec 2022 12:31:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221217_75/hXTnv_1671278555322k1EOE_JPEG/cover_0001021251_001_20221217205108330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
