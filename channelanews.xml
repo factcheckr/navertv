@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 05:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 06:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]대장동 지분 1탄, 대장동 누구 겁니까?]]></title>
+            <link>https://tv.naver.com/v/31698493</link>
+            <guid>https://tv.naver.com/v/31698493</guid>
+            <pubDate>Sun, 18 Dec 2022 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[11:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_74/whCFd_1671343616483C67IW_JPEG/cover_0000240158_001_20221218150201716.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앞으로 뉴스]아르헨티나 대 프랑스…월드컵 결승전]]></title>
             <link>https://tv.naver.com/v/31697678</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Dec 2022 12:34:32 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221216_247/l4va2_1671190464133cYACg_JPEG/cover_0000240084_001_20221216203318189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명이 민 ‘박지원 복당’…정청래가 ‘퇴짜’ 놓은 까닭]]></title>
-            <link>https://tv.naver.com/v/31671291</link>
-            <guid>https://tv.naver.com/v/31671291</guid>
-            <pubDate>Fri, 16 Dec 2022 12:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[10:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221216_204/wGwYE_1671190618128hPwpP_JPEG/cover_0000240083_001_20221216203301652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
