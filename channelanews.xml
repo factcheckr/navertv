@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 07:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 08:25:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘문어 영표’…우승팀 예언 적중]]></title>
+            <link>https://tv.naver.com/v/31725993</link>
+            <guid>https://tv.naver.com/v/31725993</guid>
+            <pubDate>Mon, 19 Dec 2022 08:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_262/TnCpI_16714361666238cxtU_JPEG/1671436036429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장 카메라]명당석 50만 원…바가지 터진 불꽃축제]]></title>
             <link>https://tv.naver.com/v/31723375</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 18 Dec 2022 11:15:40 GMT</pubDate>
             <content:encoded><![CDATA[2:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221218_97/o9V2s_1671361708584cizzV_JPEG/cover_0000240175_001_20221218200625861.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령 탄핵으로 마추픽추에 발 묶인 관광객]]></title>
-            <link>https://tv.naver.com/v/31703374</link>
-            <guid>https://tv.naver.com/v/31703374</guid>
-            <pubDate>Sun, 18 Dec 2022 11:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221218_106/iXN15_1671361656854iTVvm_JPEG/cover_0000240176_001_20221218200617658.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
