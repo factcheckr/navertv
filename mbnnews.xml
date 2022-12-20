@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 02:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 03:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김여정, '정찰위성 조악 수준' 지적에 "말 같지도 않아" [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/31746779</link>
+            <guid>https://tv.naver.com/v/31746779</guid>
+            <pubDate>Tue, 20 Dec 2022 03:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_43/2dgfD_1671505785870uqQaT_JPEG/cover_cover_20221220120522_20_845_1316044_1080_7_20221220120901177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["다누리 달 궤도 진입"…1차 진입 기동 성공]]></title>
             <link>https://tv.naver.com/v/31743829</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 23:20:40 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_268/XGUBv_1671489454746Pp4u8_JPEG/cover_cover_20221220073350_20_605_1316011_1080_7_20221220073701216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] 초등생 장래희망 1위는?]]></title>
-            <link>https://tv.naver.com/v/31741368</link>
-            <guid>https://tv.naver.com/v/31741368</guid>
-            <pubDate>Mon, 19 Dec 2022 23:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_129/jbBP6_1671489349310kRixS_JPEG/cover_cover_20221220073230_20_605_1316010_1080_7_20221220073501175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
