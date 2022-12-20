@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 06:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 07:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 중부 큰 눈‥눈·비 그친 뒤 다시 강추위]]></title>
+            <link>https://tv.naver.com/v/31754387</link>
+            <guid>https://tv.naver.com/v/31754387</guid>
+            <pubDate>Tue, 20 Dec 2022 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_286/QUxtE_1671520229752AAWNR_JPEG/cover_cover_14news_20221220_155044_1_8_Large_20221220161001977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['예산' 평행선‥'닥터카 논란' 신현영 사임]]></title>
             <link>https://tv.naver.com/v/31751450</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 20 Dec 2022 01:26:33 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_54/ZuTbb_1671497747242q1FVM_JPEG/cover_cover_0930_20221220_093217_1_1_Large_20221220095501811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혁신가에서 비호감 기업가로‥"트위터 손 떼라"]]></title>
-            <link>https://tv.naver.com/v/31742461</link>
-            <guid>https://tv.naver.com/v/31742461</guid>
-            <pubDate>Tue, 20 Dec 2022 01:26:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_85/R8e1R_1671495578650OlbSe_JPEG/cover_cover_today_20221220_061511_1_9_Large_20221220091901458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

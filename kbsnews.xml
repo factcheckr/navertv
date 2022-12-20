@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 06:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 07:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[월드컵 영상] “메시 골은 무효” 오심 의혹이 제기됐다]]></title>
+            <link>https://tv.naver.com/v/31754250</link>
+            <guid>https://tv.naver.com/v/31754250</guid>
+            <pubDate>Tue, 20 Dec 2022 07:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_153/vjfcj_1671519944022o0pNv_JPEG/cover_0011395796_001_20221220160501167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“사회서비스 비용 부담 차등화에 78.7% 동의”]]></title>
             <link>https://tv.naver.com/v/31752587</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 20 Dec 2022 04:23:03 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221220_192/Msb5N_1671507411495zUn83_JPEG/cover_0011395722_001_20221220123601174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오후날씨 꿀팁] 오후 추위 주춤해요!…내일 전국 비나 눈]]></title>
-            <link>https://tv.naver.com/v/31747365</link>
-            <guid>https://tv.naver.com/v/31747365</guid>
-            <pubDate>Tue, 20 Dec 2022 04:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_73/NptO4_1671507204659Oqa0J_JPEG/cover_0011395720_001_20221220123301157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
