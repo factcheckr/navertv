@@ -4,9 +4,25 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 10:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 11:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 20일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/31760553</link>
+            <guid>https://tv.naver.com/v/31760553</guid>
+            <pubDate>Tue, 20 Dec 2022 11:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_241/ltnNd_1671533202099qhQRF_JPEG/cover_2022122090170_thumb_074223_20221220194601691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 신현영, 닥터카 탑승 파문에 국정조사 위원직 '사의']]></title>
+            <link>https://tv.naver.com/v/31760116</link>
+            <guid>https://tv.naver.com/v/31760116</guid>
+            <pubDate>Tue, 20 Dec 2022 11:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221220_152/sxn5s_1671532005573904VQ_JPEG/cover_2022122090173_thumb_072116_20221220192601672.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 영하 17도 스키장서 4시간 '공중 고립']]></title>
             <link>https://tv.naver.com/v/31755536</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 19 Dec 2022 13:25:13 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221219_255/Xvb5H_1671454926739ra5Wo_JPEG/cover_2022121990193_thumb_095637_20221219220109725.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신동욱 앵커의 시선] 통계의 마법]]></title>
-            <link>https://tv.naver.com/v/31734672</link>
-            <guid>https://tv.naver.com/v/31734672</guid>
-            <pubDate>Mon, 19 Dec 2022 13:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_272/C0FNF_1671454961664pE4fL_JPEG/cover_2022121990203_thumb_095628_20221219220101763.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["국민 위로할 수 있다면"…'기부 여왕' 된 가수 이미자]]></title>
-            <link>https://tv.naver.com/v/31734550</link>
-            <guid>https://tv.naver.com/v/31734550</guid>
-            <pubDate>Mon, 19 Dec 2022 13:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221219_9/40ZTK_1671454649856Iok5p_JPEG/cover_2022121990201_thumb_095308_20221219215610510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
