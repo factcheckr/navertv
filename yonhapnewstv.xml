@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 02:38:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 03:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스포커스] 여 '국조특위' 전격복귀…오늘부터 현장조사]]></title>
+            <link>https://tv.naver.com/v/31775383</link>
+            <guid>https://tv.naver.com/v/31775383</guid>
+            <pubDate>Wed, 21 Dec 2022 03:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[37:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_104/HrZfO_1671590755163JVkND_JPEG/cover_cover_MYH20221221005300641_20221221113801897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨톡톡] 추위 대신 눈이 말썽…중부 15cm 이상 폭설]]></title>
             <link>https://tv.naver.com/v/31775030</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 20 Dec 2022 23:19:28 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_39/kggSR_1671575010093hRf2Q_JPEG/cover_cover_MYH20221221001700641_20221221072301602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHO "우크라 의료시설 파손 700건 이상"]]></title>
-            <link>https://tv.naver.com/v/31770615</link>
-            <guid>https://tv.naver.com/v/31770615</guid>
-            <pubDate>Tue, 20 Dec 2022 23:19:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_4/6PZxR_1671575219470HnPHC_JPEG/cover_cover_MYH20221221001600641_20221221072201765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
