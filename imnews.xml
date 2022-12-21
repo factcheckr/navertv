@@ -4,16 +4,24 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 01:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 02:38:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[World Now] 메시, 퍼레이드 버스에서 헬기로 급히 환승]]></title>
+            <link>https://tv.naver.com/v/31774099</link>
+            <guid>https://tv.naver.com/v/31774099</guid>
+            <pubDate>Wed, 21 Dec 2022 02:37:06 GMT</pubDate>
+            <content:encoded><![CDATA[3:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_172/mitP2_1671588144200Np4mN_JPEG/cover_cover_1_20221221110101589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코스피, 상승 출발 후 하락 전환‥제주은행 52주 신고가 기록]]></title>
-            <link>https://tv.naver.com/v/31772813</link>
-            <guid>https://tv.naver.com/v/31772813</guid>
-            <pubDate>Wed, 21 Dec 2022 01:23:33 GMT</pubDate>
+            <link>https://tv.naver.com/v/31774063</link>
+            <guid>https://tv.naver.com/v/31774063</guid>
+            <pubDate>Wed, 21 Dec 2022 02:37:06 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_54/qLuGH_1671585682385shGaw_JPEG/cover_cover_0930_20221221_093959_1_7_Large_20221221102101976.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_292/2JiFh_1671588029114I8bDm_JPEG/cover_cover_0930_20221221_093959_1_7_Large_u_20221221110002282.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캘리포니아 규모 6.4 지진‥7만 가구 정전]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 20 Dec 2022 23:18:55 GMT</pubDate>
             <content:encoded><![CDATA[1:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_64/8O91B_1671576882490s3gpG_JPEG/cover_cover_today_20221221_070232_2_19_Large_20221221075418490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출근길 '눈 폭탄'‥이 시각 광화문]]></title>
-            <link>https://tv.naver.com/v/31770903</link>
-            <guid>https://tv.naver.com/v/31770903</guid>
-            <pubDate>Tue, 20 Dec 2022 23:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_223/PUDSB_1671576897791oXztB_JPEG/cover_cover_today_20221221_070107_2_18_Large_20221221075410871.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
