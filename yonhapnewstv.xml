@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 19:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 20:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[눈 그치자 더 강력한 한파…충청·호남·제주 폭설]]></title>
+            <link>https://tv.naver.com/v/31801895</link>
+            <guid>https://tv.naver.com/v/31801895</guid>
+            <pubDate>Wed, 21 Dec 2022 20:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_237/dandA_1671653824907jH7hY_JPEG/cover_cover_MYH20221222000100641_20221222051602340.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생활날씨] 내일부터 서쪽 중심 많은 눈…밤사이 기온 '뚝']]></title>
             <link>https://tv.naver.com/v/31797119</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 21 Dec 2022 12:35:16 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_130/Ww0Y6_16716233088147qDV2_JPEG/cover_cover_MYH20221221017800641_20221221204701793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이시각헤드라인] 12월 21일 뉴스리뷰]]></title>
-            <link>https://tv.naver.com/v/31794160</link>
-            <guid>https://tv.naver.com/v/31794160</guid>
-            <pubDate>Wed, 21 Dec 2022 12:35:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_162/ZP8xL_16716231999124GQas_JPEG/cover_cover_MYH20221221017500641_20221221204602241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
