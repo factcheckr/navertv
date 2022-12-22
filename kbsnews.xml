@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 20:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 21:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광주·전남 대설특보…내일까지 최고 20cm]]></title>
+            <link>https://tv.naver.com/v/31830130</link>
+            <guid>https://tv.naver.com/v/31830130</guid>
+            <pubDate>Thu, 22 Dec 2022 21:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_126/ixSPe_1671743767913BigGY_JPEG/cover_0011397718_001_20221223061509191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전북 모든 시군 대설특보…이 시각 전북]]></title>
+            <link>https://tv.naver.com/v/31830128</link>
+            <guid>https://tv.naver.com/v/31830128</guid>
+            <pubDate>Thu, 22 Dec 2022 21:16:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_191/XnHJd_1671743764630X9kjm_JPEG/cover_0011397717_001_20221223061501165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[지방과 청년 ‘회사 밖으로 출근’]④ 코로나에 원격근무 확산…‘수도권 일극화’ 실마리]]></title>
             <link>https://tv.naver.com/v/31828763</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 22 Dec 2022 15:19:59 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_241/VfL2f_1671721324650yuYM0_JPEG/cover_0011397671_001_20221223000109485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 전북 모든 시·군 ‘대설특보’…모레까지 최고 30cm 눈]]></title>
-            <link>https://tv.naver.com/v/31827837</link>
-            <guid>https://tv.naver.com/v/31827837</guid>
-            <pubDate>Thu, 22 Dec 2022 15:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_288/dcHO4_1671721314163cxg4r_JPEG/cover_0011397670_001_20221223000101759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 이 시각 전북 재난안전대책본부…피해 상황과 주의점은?]]></title>
-            <link>https://tv.naver.com/v/31827021</link>
-            <guid>https://tv.naver.com/v/31827021</guid>
-            <pubDate>Thu, 22 Dec 2022 15:19:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_38/XMqyL_1671719042987wYxI8_JPEG/cover_0011397672_001_20221222232301149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

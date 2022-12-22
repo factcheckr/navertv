@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 20:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 21:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[320회_미세먼지 및 한파 대응요령]]></title>
+            <link>https://tv.naver.com/v/31830044</link>
+            <guid>https://tv.naver.com/v/31830044</guid>
+            <pubDate>Thu, 22 Dec 2022 21:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[15:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_272/tXYA5_1671743249440PUQ41_JPEG/cover_cover_20221223055619_20_849_1316316_1080_7_20221223060001254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['도로 위 지그재그' 신고했더니…음주 아닌 저혈당 쇼크 '아찔']]></title>
             <link>https://tv.naver.com/v/31823002</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Dec 2022 10:22:31 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_130/AvJmX_1671703825186mzYdW_JPEG/cover_cover_20221222190548_20_552_1316283_1080_7_20221222190901163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성남 FC 의혹' 이재명 피의자 신분 28일 소환 통보]]></title>
-            <link>https://tv.naver.com/v/31820551</link>
-            <guid>https://tv.naver.com/v/31820551</guid>
-            <pubDate>Thu, 22 Dec 2022 10:22:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_219/cF6Lp_1671703688541ja1FQ_JPEG/cover_cover_20221222190349_20_552_1316282_1080_7_20221222190701153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
