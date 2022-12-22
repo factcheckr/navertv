@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 05:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 06:25:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울철 교통사고, 눈보다 더 위험한 비?]]></title>
+            <link>https://tv.naver.com/v/31811955</link>
+            <guid>https://tv.naver.com/v/31811955</guid>
+            <pubDate>Thu, 22 Dec 2022 06:24:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_153/WCtvP_1671687160011uKSIh_JPEG/1671687080852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘文 정부’ 부동산 통계 왜곡 논란…민간 발표와 차이 커]]></title>
             <link>https://tv.naver.com/v/31810988</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 21 Dec 2022 11:16:57 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_69/uQROu_1671621303650mVyaa_JPEG/cover_0000240398_001_20221221201344434.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]다시 강력 한파·눈 폭탄…눈 최대 50cm]]></title>
-            <link>https://tv.naver.com/v/31793432</link>
-            <guid>https://tv.naver.com/v/31793432</guid>
-            <pubDate>Wed, 21 Dec 2022 11:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_84/MJvgv_1671621247640zmHET_JPEG/cover_0000240399_001_20221221201336928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
