@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 02:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 03:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[탐사보도 세븐] 민생은 왜 늘 뒷전일까]]></title>
+            <link>https://tv.naver.com/v/31807421</link>
+            <guid>https://tv.naver.com/v/31807421</guid>
+            <pubDate>Thu, 22 Dec 2022 03:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_268/InZvp_1671676886140YnbBy_JPEG/cover_2022120190083_thumb_113507_20221222114101663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['30분 지연' 신현영, 닥터카 직접 불렀다…방송선 "골든타임 4분" 강조]]></title>
             <link>https://tv.naver.com/v/31804082</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 21 Dec 2022 13:25:04 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221221_208/gBFWT_16716271403232byNA_JPEG/cover_2022122190238_thumb_094722_20221221215110557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[檢, 김만배 '추가 120억' 추적…로비·선거자금 의심]]></title>
-            <link>https://tv.naver.com/v/31795692</link>
-            <guid>https://tv.naver.com/v/31795692</guid>
-            <pubDate>Wed, 21 Dec 2022 13:25:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_118/Jc4az_1671627111570sb1D4_JPEG/cover_2022122190214_thumb_094717_20221221215103269.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
