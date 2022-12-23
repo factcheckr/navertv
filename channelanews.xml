@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 06:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 07:18:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울철 발목 ‘삐끗’…“냉찜질 먼저”]]></title>
+            <link>https://tv.naver.com/v/31841964</link>
+            <guid>https://tv.naver.com/v/31841964</guid>
+            <pubDate>Fri, 23 Dec 2022 07:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_71/iqtVi_1671777783316PSgvS_JPEG/1671777719457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“2천만 원 받고…” 제주 살인 사건 전말]]></title>
             <link>https://tv.naver.com/v/31840584</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Dec 2022 11:17:11 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_268/yM3wG_16717075965300w4L2_JPEG/cover_0000240469_001_20221222201210520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청와대 갈 땐 자율주행버스로…전국 최초로 정기 운행]]></title>
-            <link>https://tv.naver.com/v/31822210</link>
-            <guid>https://tv.naver.com/v/31822210</guid>
-            <pubDate>Thu, 22 Dec 2022 11:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_138/DdfPo_1671707605727h9Lug_JPEG/cover_0000240470_001_20221222201202893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
