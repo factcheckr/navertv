@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 05:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 06:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“2천만 원 받고…” 제주 살인 사건 전말]]></title>
+            <link>https://tv.naver.com/v/31840584</link>
+            <guid>https://tv.naver.com/v/31840584</guid>
+            <pubDate>Fri, 23 Dec 2022 06:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_84/oVfYE_1671775483436IBkF9_JPEG/1671775137810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[경제를 보다]빅테크 되고, 은행은 안 되고]]></title>
             <link>https://tv.naver.com/v/31838160</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Dec 2022 11:17:11 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_138/DdfPo_1671707605727h9Lug_JPEG/cover_0000240470_001_20221222201202893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘다른 듯 닮은’ 공격 김연경, 수비 김연견…빅2 답네]]></title>
-            <link>https://tv.naver.com/v/31822205</link>
-            <guid>https://tv.naver.com/v/31822205</guid>
-            <pubDate>Thu, 22 Dec 2022 11:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_25/7ggeX_1671708550263E4tVm_JPEG/cover_0000240471_001_20221222201155308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
