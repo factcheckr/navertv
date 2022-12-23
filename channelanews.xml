@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 03:21:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 04:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검찰, 이재명 소환 통보…다시 주목받는 ‘성남FC’ 의혹은?]]></title>
+            <link>https://tv.naver.com/v/31837273</link>
+            <guid>https://tv.naver.com/v/31837273</guid>
+            <pubDate>Fri, 23 Dec 2022 04:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[11:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_60/ZTYwo_1671769382372TgWFl_JPEG/cover_0000240487_001_20221223131701611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여인선이 간다]소아과 지원 전국 ‘33명’…동네 소아과도 ‘붕괴 상황’]]></title>
             <link>https://tv.naver.com/v/31822729</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Dec 2022 11:17:11 GMT</pubDate>
             <content:encoded><![CDATA[18:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_265/jhRpa_1671706527559Nv2xF_JPEG/cover_0000240446_001_20221222194701773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 소환 통보에 팥죽 먹은 이재명]]></title>
-            <link>https://tv.naver.com/v/31821502</link>
-            <guid>https://tv.naver.com/v/31821502</guid>
-            <pubDate>Thu, 22 Dec 2022 11:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[5:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_155/En2Zx_16717061290724DPUy_JPEG/cover_0000240444_001_20221222194621899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
