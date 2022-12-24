@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 22:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 23:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 성탄절, 맑고 강추위 계속…빙판길 주의]]></title>
+            <link>https://tv.naver.com/v/31871469</link>
+            <guid>https://tv.naver.com/v/31871469</guid>
+            <pubDate>Sat, 24 Dec 2022 23:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221225_281/Ob9gs_1671923724239ntG6t_JPEG/cover_0011398662_001_20221225081501142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[6시 날씨] 성탄절, 맑고 강추위 계속…빙판길 주의]]></title>
             <link>https://tv.naver.com/v/31871323</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 24 Dec 2022 13:20:40 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221224_11/G4DUz_167188694203653jhF_JPEG/cover_0011398631_001_20221224220201160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해운대 아파트 화재…330만 원 피해]]></title>
-            <link>https://tv.naver.com/v/31867457</link>
-            <guid>https://tv.naver.com/v/31867457</guid>
-            <pubDate>Sat, 24 Dec 2022 13:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221224_150/gr3BL_1671886868651998g0_JPEG/cover_0011398630_001_20221224220056294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
