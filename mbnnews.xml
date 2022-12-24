@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 11:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 12:33:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 24일 MBN 뉴스센터 클로징]]></title>
+            <link>https://tv.naver.com/v/31866044</link>
+            <guid>https://tv.naver.com/v/31866044</guid>
+            <pubDate>Sat, 24 Dec 2022 12:33:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221224_111/HrexV_1671880683569nFBO6_JPEG/cover_cover_20221224201441_20_906_1316450_1080_7_20221224201701184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스센터 날씨] 꽁꽁 얼어붙은 크리스마스 이브, 전국 한파특보]]></title>
             <link>https://tv.naver.com/v/31866028</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Dec 2022 12:35:08 GMT</pubDate>
             <content:encoded><![CDATA[39:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_237/to5Kb_16717957734612Q9ta_JPEG/cover_cover_20221223202430_20_536_1316414_1080_7_20221223203601216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 국민의힘 룰 변경 확정, 전대 변수는?]]></title>
-            <link>https://tv.naver.com/v/31849651</link>
-            <guid>https://tv.naver.com/v/31849651</guid>
-            <pubDate>Fri, 23 Dec 2022 12:35:08 GMT</pubDate>
-            <content:encoded><![CDATA[11:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_76/fhvLb_1671795340385DdIYX_JPEG/cover_cover_20221223202327_20_536_1316413_1080_7_20221223203101215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
