@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 21:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 22:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 24 Dec 2022 05:17:17 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221224_299/ugFTx_16718570231929Palu_JPEG/1671855712686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리빙톡] 난로와 가까워질수록 피부는 망가진다]]></title>
+            <link>https://tv.naver.com/v/31811935</link>
+            <guid>https://tv.naver.com/v/31811935</guid>
+            <pubDate>Sat, 24 Dec 2022 22:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221222_209/FUXYr_1671687128422t9l85_JPEG/1671687084525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Why요?] 산타클로스는 굴뚝으로 드나들 수 있을까? #shorts]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 22 Dec 2022 02:39:26 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221222_252/upL3m_1671675179692lbMMS_JPEG/1671674225250.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[400만 인파 몰린 아르헨 카퍼레이드…메시, 5시간만에 헬기 탈출]]></title>
-            <link>https://tv.naver.com/v/31793104</link>
-            <guid>https://tv.naver.com/v/31793104</guid>
-            <pubDate>Wed, 21 Dec 2022 11:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221221_115/UmMy3_1671620464755w3ecb_JPEG/1671620386658.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
