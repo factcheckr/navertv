@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 05:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 06:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]김경수의 죄 1탄, 킹크랩과 닭갈비]]></title>
+            <link>https://tv.naver.com/v/31862095</link>
+            <guid>https://tv.naver.com/v/31862095</guid>
+            <pubDate>Sat, 24 Dec 2022 06:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[16:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221224_98/0323j_1671862115726tv9Xd_JPEG/cover_0000240564_001_20221224150301609.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[세계를 가다]트리플데믹에 “다시 마스크”…독감 약 구매 제한]]></title>
             <link>https://tv.naver.com/v/31849729</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 23 Dec 2022 10:21:23 GMT</pubDate>
             <content:encoded><![CDATA[11:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221223_209/V4YdX_1671790656933Q593p_JPEG/cover_0000240523_001_20221223191301641.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[朴 옥죈 ‘제3자 뇌물’…이재명 향한다]]></title>
-            <link>https://tv.naver.com/v/31847966</link>
-            <guid>https://tv.naver.com/v/31847966</guid>
-            <pubDate>Fri, 23 Dec 2022 10:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[10:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221223_129/qBsjt_1671790580600cf2AS_JPEG/cover_0000240522_001_20221223191001696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
