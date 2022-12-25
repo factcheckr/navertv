@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 23:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 01:36:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 성탄절, 맑고 강추위 계속…빙판길 주의]]></title>
-            <link>https://tv.naver.com/v/31871469</link>
-            <guid>https://tv.naver.com/v/31871469</guid>
-            <pubDate>Sat, 24 Dec 2022 23:18:13 GMT</pubDate>
+            <title><![CDATA[[창+] 잔류 농약 농산물이 유통되고 있다]]></title>
+            <link>https://tv.naver.com/v/31871831</link>
+            <guid>https://tv.naver.com/v/31871831</guid>
+            <pubDate>Sun, 25 Dec 2022 01:35:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221225_131/SWcVJ_1671930222410u19Mx_PNG/cover_0011398672_001_20221225100303595.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[8시 날씨] 성탄절, 맑고 강추위 계속…빙판길 주의]]></title>
+            <link>https://tv.naver.com/v/31871478</link>
+            <guid>https://tv.naver.com/v/31871478</guid>
+            <pubDate>Sun, 25 Dec 2022 01:35:07 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221225_281/Ob9gs_1671923724239ntG6t_JPEG/cover_0011398662_001_20221225081501142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221225_227/6scEg_16719241459354dPDO_JPEG/cover_0011398662_001_20221225082201152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[6시 날씨] 성탄절, 맑고 강추위 계속…빙판길 주의]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 24 Dec 2022 13:20:40 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221224_205/DCwwX_1671887000739zjsr0_JPEG/cover_0011398632_001_20221224220301135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산 학교 급식노동자에 ‘안전 발토시’]]></title>
-            <link>https://tv.naver.com/v/31867476</link>
-            <guid>https://tv.naver.com/v/31867476</guid>
-            <pubDate>Sat, 24 Dec 2022 13:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221224_11/G4DUz_167188694203653jhF_JPEG/cover_0011398631_001_20221224220201160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
