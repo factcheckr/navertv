@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 06:23:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 07:17:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 불타는 차량, 최루가스 가득한 거리…파리의 '크리스마스 악몽']]></title>
+            <link>https://tv.naver.com/v/31875634</link>
+            <guid>https://tv.naver.com/v/31875634</guid>
+            <pubDate>Sun, 25 Dec 2022 07:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221225_214/wnfnw_1671952113885tWTrI_JPEG/cover_0001023219_001_20221225160701155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 추운 날씨 탓에 상수도관 파열…성탄 전야 주민들 불편]]></title>
             <link>https://tv.naver.com/v/31874073</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 24 Dec 2022 11:15:17 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221224_168/q2JVn_1671879619226TX1RB_JPEG/cover_0001023122_001_20221224194501163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 영하 50도 '폭탄 사이클론'…성탄절 덮친 미 최악 한파]]></title>
-            <link>https://tv.naver.com/v/31864043</link>
-            <guid>https://tv.naver.com/v/31864043</guid>
-            <pubDate>Sat, 24 Dec 2022 09:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221224_71/J56xi_1671870661051aYQyl_JPEG/cover_0001023094_001_20221224173001161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
