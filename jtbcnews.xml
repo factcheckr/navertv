@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 10:20:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 11:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨플러스] 16일 일찍 언 한강…이번 주도 강추위]]></title>
+            <link>https://tv.naver.com/v/31878808</link>
+            <guid>https://tv.naver.com/v/31878808</guid>
+            <pubDate>Sun, 25 Dec 2022 11:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221225_180/wW1FX_16719642631761a82G_JPEG/cover_0000326386_001_20221225193003089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[강지영의 시그널] 우크라이나에도 평화의 기적을]]></title>
             <link>https://tv.naver.com/v/31878492</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 24 Dec 2022 11:15:27 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221224_178/o9HVX_1671879885132QSswj_JPEG/cover_0000326131_001_20221224200401601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[강지영의 시그널] 그래도 산타는 온다]]></title>
-            <link>https://tv.naver.com/v/31865145</link>
-            <guid>https://tv.naver.com/v/31865145</guid>
-            <pubDate>Sat, 24 Dec 2022 10:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221224_218/uvfob_1671876396182TTegx_JPEG/cover_0000326333_001_20221224190601602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
