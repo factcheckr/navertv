@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 17:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 18:22:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북극 한파에 한강 2년 만에 '꽁꽁'...예년보다 16일 빨라]]></title>
+            <link>https://tv.naver.com/v/31884716</link>
+            <guid>https://tv.naver.com/v/31884716</guid>
+            <pubDate>Sun, 25 Dec 2022 18:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_194/FO2tb_1671989516976q9I3B_JPEG/cover_cover_202212260225104740_t_20221226023103842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여야, 오늘부터 '일몰법안' 본격 논의...진통 예상]]></title>
             <link>https://tv.naver.com/v/31884408</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 25 Dec 2022 13:22:06 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221225_143/d5lpJ_1671973749350n4Xeu_JPEG/cover_cover_202212252159554154_t_20221225220728518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성탄절 한파 속 화재 잇따라...80대 노부부 숨져]]></title>
-            <link>https://tv.naver.com/v/31881500</link>
-            <guid>https://tv.naver.com/v/31881500</guid>
-            <pubDate>Sun, 25 Dec 2022 13:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221225_285/Gs0Ho_1671973687345LJHvE_JPEG/cover_cover_202212252159448459_t_20221225220720812.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
