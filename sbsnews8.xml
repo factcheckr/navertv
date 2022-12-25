@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 04:23:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 05:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 추운 날씨 탓에 상수도관 파열…성탄 전야 주민들 불편]]></title>
+            <link>https://tv.naver.com/v/31874073</link>
+            <guid>https://tv.naver.com/v/31874073</guid>
+            <pubDate>Sun, 25 Dec 2022 05:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221225_249/7pAFC_1671944924775RHkKp_JPEG/cover_0001023210_001_20221225140801170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 성탄절, 맑고 강추위…곳곳 빙판길 주의하세요]]></title>
             <link>https://tv.naver.com/v/31873009</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 24 Dec 2022 09:17:15 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221224_71/J56xi_1671870661051aYQyl_JPEG/cover_0001023094_001_20221224173001161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 한동훈 "수사받는 정치인의 과장된 발언"…이재명에 반박]]></title>
-            <link>https://tv.naver.com/v/31861488</link>
-            <guid>https://tv.naver.com/v/31861488</guid>
-            <pubDate>Sat, 24 Dec 2022 05:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221224_167/jcR1g_1671858777486S9yly_JPEG/cover_0001023072_001_20221224141201202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
