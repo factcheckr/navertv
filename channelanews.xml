@@ -4,16 +4,24 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 07:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 08:24:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[[오늘의 영상]산타복 입고 승리 선물]]></title>
-            <link>https://tv.naver.com/v/31896757</link>
-            <guid>https://tv.naver.com/v/31896757</guid>
-            <pubDate>Mon, 26 Dec 2022 07:18:14 GMT</pubDate>
+            <link>https://tv.naver.com/v/31897283</link>
+            <guid>https://tv.naver.com/v/31897283</guid>
+            <pubDate>Mon, 26 Dec 2022 08:24:44 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_52/qpTUh_16720389472116tcU6_JPEG/cover_0000240660_001_20221226161501579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_280/kmaRX_1672040038548TMN5b_JPEG/cover_0000240660_001_20221226163301602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2030 눈 건강 ‘비상’…젊은 노안 막으려면]]></title>
+            <link>https://tv.naver.com/v/31896962</link>
+            <guid>https://tv.naver.com/v/31896962</guid>
+            <pubDate>Mon, 26 Dec 2022 08:24:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_14/pXp6z_1672039429637e8OJQ_JPEG/1672039408005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차갑게 식은 후원…더 귀해진 한 끼]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 25 Dec 2022 11:16:01 GMT</pubDate>
             <content:encoded><![CDATA[4:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221225_87/1O2KT_1671966728559QW1qQ_JPEG/cover_0000240611_001_20221225201010523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국힘, 선관위원장 추천하며 전대 본격 레이스…“윤심은 나”]]></title>
-            <link>https://tv.naver.com/v/31879394</link>
-            <guid>https://tv.naver.com/v/31879394</guid>
-            <pubDate>Sun, 25 Dec 2022 11:16:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221225_60/sHeYz_1671966653086PW2X0_JPEG/cover_0000240610_001_20221225201001730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
