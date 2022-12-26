@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 12:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 13:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_84/k3kEW_1672054541514uPfsE_JPEG/cover_0000240677_001_20221226203433176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[아는 기자]북한 무인기, 현재 위치…격추 실패 이유는?]]></title>
-            <link>https://tv.naver.com/v/31903794</link>
-            <guid>https://tv.naver.com/v/31903794</guid>
-            <pubDate>Mon, 26 Dec 2022 12:34:45 GMT</pubDate>
-            <content:encoded><![CDATA[4:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_227/sLKRw_1672054644600k4pOU_JPEG/cover_0000240675_001_20221226203421016.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한 무인기 대응 출격하다…또 공군 항공기 추락]]></title>
             <link>https://tv.naver.com/v/31903791</link>
             <guid>https://tv.naver.com/v/31903791</guid>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 26 Dec 2022 12:34:45 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_74/Aq3wn_1672053989123bVsED_JPEG/cover_0000240671_001_20221226202457221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“이재명 나와라”…민주당사 기습한 민노총]]></title>
+            <link>https://tv.naver.com/v/31903497</link>
+            <guid>https://tv.naver.com/v/31903497</guid>
+            <pubDate>Mon, 26 Dec 2022 13:23:39 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_196/03owf_1672054036533kTGJz_JPEG/cover_0000240670_001_20221226202447322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
