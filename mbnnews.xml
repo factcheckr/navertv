@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 08:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 09:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBN 뉴스파이터-2022년 12월 27일 김명준 앵커 오프닝]]></title>
+            <link>https://tv.naver.com/v/31928106</link>
+            <guid>https://tv.naver.com/v/31928106</guid>
+            <pubDate>Tue, 27 Dec 2022 09:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_33/M80YH_1672132660387CefV4_JPEG/cover_cover_20221227181515_20_673_1316655_1080_7_20221227181701184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령 "군 대비태세 부족…드론부대 조기 창설" [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/31926281</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Dec 2022 02:38:50 GMT</pubDate>
             <content:encoded><![CDATA[16:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221227_85/EAjOt_1672104638873EOHKK_JPEG/cover_cover_20221227100939_20_606_1316625_1080_7_20221227102201194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "28일 출석 어려워…檢 납득 어렵지만 당당히 임할 것"]]></title>
-            <link>https://tv.naver.com/v/31913907</link>
-            <guid>https://tv.naver.com/v/31913907</guid>
-            <pubDate>Tue, 27 Dec 2022 01:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[12:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_284/D4K07_16721042990601pRgf_JPEG/cover_cover_20221227100659_20_606_1316624_1080_7_20221227101801175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
