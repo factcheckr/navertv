@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 10:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 11:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 27일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/31930564</link>
+            <guid>https://tv.naver.com/v/31930564</guid>
+            <pubDate>Tue, 27 Dec 2022 11:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_139/MyuCJ_1672139214510iIoGB_JPEG/cover_2022122790167_thumb_080351_20221227200602494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] "전 여친도 살해"…'옷장 시신' 사건의 전말]]></title>
             <link>https://tv.naver.com/v/31926074</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 26 Dec 2022 13:23:30 GMT</pubDate>
             <content:encoded><![CDATA[3:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221226_52/zzLuX_1672059456219DSvEK_JPEG/cover_2022122690242_thumb_095348_20221226215614096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월 26일 '뉴스 9' 클로징]]></title>
-            <link>https://tv.naver.com/v/31905958</link>
-            <guid>https://tv.naver.com/v/31905958</guid>
-            <pubDate>Mon, 26 Dec 2022 13:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221226_267/FwrpQ_1672059381229aNtcc_JPEG/cover_2022122690246_thumb_095416_20221226215608057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
