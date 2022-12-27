@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 13:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 14:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사기획 창] 바겐세일 재팬]]></title>
+            <link>https://tv.naver.com/v/31934806</link>
+            <guid>https://tv.naver.com/v/31934806</guid>
+            <pubDate>Tue, 27 Dec 2022 14:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[48:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_194/fkGUc_1672149647779Sc7P5_JPEG/cover_0011400237_001_20221227225801171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앵커 대담] 이정식 고용노동부 장관, 노동계 현안 어떻게 풀까?]]></title>
             <link>https://tv.naver.com/v/31933767</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Dec 2022 13:22:24 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221227_90/Eu79a_1672146198195niJUX_JPEG/cover_0011400226_001_20221227220307883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부산 올해의 뉴스]⑤ 거리두기 사라진 1년…‘실내 마스크’ 해제 논의까지]]></title>
-            <link>https://tv.naver.com/v/31933559</link>
-            <guid>https://tv.naver.com/v/31933559</guid>
-            <pubDate>Tue, 27 Dec 2022 13:22:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221227_144/KiHT8_1672146286110Px7g0_JPEG/cover_0011400225_001_20221227220301144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
