@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 06:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 07:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/31951457</link>
+            <guid>https://tv.naver.com/v/31951457</guid>
+            <pubDate>Wed, 28 Dec 2022 07:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_113/5wjm8_1672209731839j06xs_JPEG/cover_cover_20221228153859_20_845_1316749_1080_7_20221228154101242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['트롯 열풍 창시자' 서혜진 PD "뉴트롯맨 시대 연다"…세대교체 주인공 누구?]]></title>
             <link>https://tv.naver.com/v/31947113</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 27 Dec 2022 23:21:13 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_278/cMbxL_1672181028758GC1AY_JPEG/cover_cover_20221228074033_20_605_1316715_1080_7_20221228074301161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] "세월 지나 장관 할 수도" 격려받은 사람은?]]></title>
-            <link>https://tv.naver.com/v/31940170</link>
-            <guid>https://tv.naver.com/v/31940170</guid>
-            <pubDate>Wed, 28 Dec 2022 05:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_6/NAiNF_1672180902635ne26a_JPEG/cover_cover_20221228073908_20_605_1316714_1080_7_20221228074101161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
