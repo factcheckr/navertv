@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 08:24:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 09:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김경수 "노 전 대통령, 국민통합 이제야 알 것 같다" [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/31955698</link>
+            <guid>https://tv.naver.com/v/31955698</guid>
+            <pubDate>Wed, 28 Dec 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_173/vRQCW_1672216791554fDSwX_JPEG/cover_cover_20221228173655_20_845_1316759_1080_7_20221228173901175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] '빌라왕'은 8위…646억 떼먹은 임대인도]]></title>
             <link>https://tv.naver.com/v/31954206</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 28 Dec 2022 01:26:18 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221228_79/8dOiX_16721877725686Ps5q_JPEG/cover_cover_20221228093222_20_689_1316730_1080_7_20221228093501183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝MBN 날씨]출근길 빙판길 주의…곳곳 초미세먼지 나쁨]]></title>
-            <link>https://tv.naver.com/v/31940549</link>
-            <guid>https://tv.naver.com/v/31940549</guid>
-            <pubDate>Tue, 27 Dec 2022 23:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221228_189/AHDjB_1672183071407vvCjb_JPEG/cover_cover_20221228081314_20_605_1316728_1080_7_20221228081701858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
