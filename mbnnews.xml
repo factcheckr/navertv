@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 02:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 03:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 지하철·버스 요금 300원 인상 [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/31973783</link>
+            <guid>https://tv.naver.com/v/31973783</guid>
+            <pubDate>Thu, 29 Dec 2022 03:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_13/kuEro_1672282545298Oy28W_JPEG/cover_cover_20221229115038_20_845_1316844_1080_7_20221229115501199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이른 출국 류현진 "재활 생각뿐, 7월 복귀 노린다" [엠픽]]]></title>
             <link>https://tv.naver.com/v/31972881</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 28 Dec 2022 23:19:56 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221229_287/BbOLG_16722665645619CU4V_JPEG/cover_cover_20221229072500_20_605_1316813_1080_7_20221229072901177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안전운임제-추가연장근로 일몰법안 상정 불발…올해로 폐기]]></title>
-            <link>https://tv.naver.com/v/31969179</link>
-            <guid>https://tv.naver.com/v/31969179</guid>
-            <pubDate>Wed, 28 Dec 2022 23:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_290/QHVrC_1672266322255wCSLP_JPEG/cover_cover_20221229072310_20_605_1316812_1080_7_20221229072501845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
