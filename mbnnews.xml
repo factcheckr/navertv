@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 20:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 21:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[323회_한파와 대설 대응요령]]></title>
+            <link>https://tv.naver.com/v/31994229</link>
+            <guid>https://tv.naver.com/v/31994229</guid>
+            <pubDate>Thu, 29 Dec 2022 21:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[15:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_129/kXU6m_1672348224418skIA3_JPEG/cover_cover_20221230055732_20_849_1316917_1080_7_20221230060201201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 밤사이 중부 약한 눈…내일도 강추위]]></title>
             <link>https://tv.naver.com/v/31987809</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Dec 2022 11:16:47 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221229_68/1FNiS_1672316031915tIYiK_JPEG/cover_cover_20221229191833_20_552_1316884_1080_7_20221229192101169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 "당 전투력 증대시켜야"…김정은 기반 당 전원회의 강화 주문]]></title>
-            <link>https://tv.naver.com/v/31985877</link>
-            <guid>https://tv.naver.com/v/31985877</guid>
-            <pubDate>Thu, 29 Dec 2022 10:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_141/BMxOL_1672309208595EcaB5_JPEG/cover_cover_20221229191633_20_552_1316882_1080_7_20221229191901162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
