@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 06:25:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 07:17:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인터뷰 풀영상] '재벌집' 이성민 "내년에 소원 꼭 다 이루레이"]]></title>
+            <link>https://tv.naver.com/v/32004997</link>
+            <guid>https://tv.naver.com/v/32004997</guid>
+            <pubDate>Fri, 30 Dec 2022 07:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[21:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_253/IzVHp_1672384479485J4HTR_JPEG/cover_0000327044_001_20221230160901632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이명박 "국민께 심려 끼쳐 대단히 송구"]]></title>
             <link>https://tv.naver.com/v/32002700</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Dec 2022 13:22:58 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221229_281/xTwZR_1672319119216TLU9n_JPEG/cover_0000326963_001_20221229220409932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['비밀경찰서 논란' 중식당 대표, 설명회 하겠다며 "입장권 1인당 3만원"]]></title>
-            <link>https://tv.naver.com/v/31989616</link>
-            <guid>https://tv.naver.com/v/31989616</guid>
-            <pubDate>Thu, 29 Dec 2022 13:22:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221229_58/bGI6T_1672318918042Mz9h3_JPEG/cover_0000326957_001_20221229220101536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
