@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 01:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 02:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now] 영면에 든 펠레‥예전 활약 영상]]></title>
+            <link>https://tv.naver.com/v/31997396</link>
+            <guid>https://tv.naver.com/v/31997396</guid>
+            <pubDate>Fri, 30 Dec 2022 02:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_249/wWdWt_1672365227795mTeXr_JPEG/cover_cover_pth2022123005-1_20221230105302556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코로나19 위중증 532명‥신규 확진 6만 5천207명]]></title>
             <link>https://tv.naver.com/v/31995965</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Dec 2022 23:20:00 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_68/JvVkY_167235382054773J8T_JPEG/cover_cover_today_20221230_073051_2_36_Large_20221230074328096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] '예능 공주' 전현무, 5년 만에 두 번째 대상]]></title>
-            <link>https://tv.naver.com/v/31994686</link>
-            <guid>https://tv.naver.com/v/31994686</guid>
-            <pubDate>Thu, 29 Dec 2022 23:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_226/GD2nv_1672353832318AdY0D_JPEG/cover_cover_today_20221230_072941_2_35_Large_20221230074321730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
