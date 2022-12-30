@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 02:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 03:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 12월 30일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/31999537</link>
+            <guid>https://tv.naver.com/v/31999537</guid>
+            <pubDate>Fri, 30 Dec 2022 03:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_48/UprjA_1672370373028JqABO_JPEG/cover_cover_MYH20221230007600641_20221230121902440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 윤대통령 "압도적 전쟁준비"…야 "무책임한 선동"]]></title>
+            <link>https://tv.naver.com/v/31998669</link>
+            <guid>https://tv.naver.com/v/31998669</guid>
+            <pubDate>Fri, 30 Dec 2022 03:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[27:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_79/FuOXl_1672368778997FFroG_JPEG/cover_cover_MYH20221230007100641_20221230113814802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨톡톡] 종일 찬바람…내일 구름 사이로 해넘이 보여요!]]></title>
             <link>https://tv.naver.com/v/31998337</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 29 Dec 2022 23:20:39 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_72/Koav5_1672354428244nv2Wq_JPEG/cover_cover_MYH20221230002800641_20221230075301966.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤대통령 "북한인권재단 출범 못해 안타까워…北 인권개선 노력"]]></title>
-            <link>https://tv.naver.com/v/31994756</link>
-            <guid>https://tv.naver.com/v/31994756</guid>
-            <pubDate>Thu, 29 Dec 2022 23:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_79/zuyQX_1672354348611zFr3K_JPEG/cover_cover_MYH20221230002700641_20221230075203662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이시각헤드라인] 12월 30일 라이브투데이1부]]></title>
-            <link>https://tv.naver.com/v/31994749</link>
-            <guid>https://tv.naver.com/v/31994749</guid>
-            <pubDate>Thu, 29 Dec 2022 23:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_41/Jw2bH_1672354300385Betx0_JPEG/cover_cover_MYH20221230002900641_20221230075109611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
