@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 06:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 07:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[창+] 日 반도체 부활에 걸다…그런데 사람이 없다(타산지석 일본②)]]></title>
+            <link>https://tv.naver.com/v/32021430</link>
+            <guid>https://tv.naver.com/v/32021430</guid>
+            <pubDate>Sat, 31 Dec 2022 07:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[6:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_280/hN67B_1672470398858pLjIo_PNG/cover_0011402545_001_20221231160401164.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[북, 탄도미사일 3발 발사…남 고체추진 발사체 성공 하루만]]></title>
             <link>https://tv.naver.com/v/32018790</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Dec 2022 22:17:09 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221231_77/rv9Gl_1672438321326QUlpb_JPEG/cover_0011402475_001_20221231071118650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금은 ‘유령 아파트’가 됐습니다…여전한 ‘코로나 낙인’]]></title>
-            <link>https://tv.naver.com/v/32017009</link>
-            <guid>https://tv.naver.com/v/32017009</guid>
-            <pubDate>Fri, 30 Dec 2022 22:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[4:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_233/t5oKJ_1672438362561hgMgK_JPEG/cover_0011402474_001_20221231071110150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
