@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 19:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 20:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 1월 1일]]></title>
+            <link>https://tv.naver.com/v/32030141</link>
+            <guid>https://tv.naver.com/v/32030141</guid>
+            <pubDate>Sat, 31 Dec 2022 20:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[30:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_42/6YnYa_1672517026970K77CG_JPEG/cover_cover_MYH20221230016800641_20230101050101877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검은 토끼의 해 계묘년…"새해 복 많이 받으세요"]]></title>
             <link>https://tv.naver.com/v/32029409</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221231_188/Nvsct_1672478134292bweWn_JPEG/cover_cover_MYH20221231010900641_20221231181504106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지구촌톡톡] 유자 노천탕서 '노곤노곤'…카피바라의 특급 겨울나기 外]]></title>
-            <link>https://tv.naver.com/v/32023320</link>
-            <guid>https://tv.naver.com/v/32023320</guid>
-            <pubDate>Sat, 31 Dec 2022 09:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_120/gIzzt_1672481717296oP6Ti_JPEG/cover_cover_MYH20221231010700641_20221231181102626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
