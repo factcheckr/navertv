@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 20:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 21:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[324회_미세먼지 및 산불 대응요령]]></title>
+            <link>https://tv.naver.com/v/32030230</link>
+            <guid>https://tv.naver.com/v/32030230</guid>
+            <pubDate>Sat, 31 Dec 2022 21:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[15:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_131/IEBBj_16725199348768M7mf_JPEG/cover_cover_20230101053907_20_849_1317047_1080_7_20230101054401194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스센터 날씨]계묘년 새해 첫날 한파 주춤…새해 첫 출근길 아침 기온 '뚝']]></title>
             <link>https://tv.naver.com/v/32026638</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Dec 2022 11:16:50 GMT</pubDate>
             <content:encoded><![CDATA[2:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_169/NoM7c_1672398398049O86xP_JPEG/cover_cover_20221230200204_20_552_1317009_1080_7_20221230200501170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 돌아온 해맞이 행사…전국 명소에 126만 명 찾는다]]></title>
-            <link>https://tv.naver.com/v/32010269</link>
-            <guid>https://tv.naver.com/v/32010269</guid>
-            <pubDate>Fri, 30 Dec 2022 11:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_146/bkSAD_1672398156946161Ny_JPEG/cover_cover_20221230195729_20_552_1317007_1080_7_20221230200101152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
