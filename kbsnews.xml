@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 21:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 22:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 2023년 새로운 희망을 꿈꾼다]]></title>
+            <link>https://tv.naver.com/v/32030397</link>
+            <guid>https://tv.naver.com/v/32030397</guid>
+            <pubDate>Sat, 31 Dec 2022 22:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_48/bOU58_1672524499672uK7Sc_JPEG/cover_0011402687_001_20230101070801180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3년 만에 울린 ‘제야의 종’…안전관리는?]]></title>
             <link>https://tv.naver.com/v/32029046</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 13:20:25 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221231_140/XQXqR_1672492387337eyOGD_JPEG/cover_0011402657_001_20221231221240986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경남 재난안전 콘트롤타워 내년 5월 가동]]></title>
-            <link>https://tv.naver.com/v/32027292</link>
-            <guid>https://tv.naver.com/v/32027292</guid>
-            <pubDate>Sat, 31 Dec 2022 13:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_158/fzbvv_1672492369935fqmGk_JPEG/cover_0011402656_001_20221231221235532.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
