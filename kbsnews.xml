@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 14:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 15:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] “언제 어디서나 함께 합니다”…국군 장병들의 새해 인사]]></title>
+            <link>https://tv.naver.com/v/32028745</link>
+            <guid>https://tv.naver.com/v/32028745</guid>
+            <pubDate>Sat, 31 Dec 2022 15:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_240/CD56V_1672499029897TjyLf_PNG/cover_0011402670_001_20230101000201156.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/32027547</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 13:20:25 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221231_212/jLkHf_16724923697571qznt_JPEG/cover_0011402655_001_20221231221230350.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼척대게축제 3년 만에 재개…사흘 동안 열려]]></title>
-            <link>https://tv.naver.com/v/32027284</link>
-            <guid>https://tv.naver.com/v/32027284</guid>
-            <pubDate>Sat, 31 Dec 2022 13:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_13/ad0Cg_1672492366510BhpwR_JPEG/cover_0011402654_001_20221231221224652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
