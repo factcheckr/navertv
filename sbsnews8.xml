@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 09:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 10:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SDF] "시간이 필요했습니다"]]></title>
+            <link>https://tv.naver.com/v/32023367</link>
+            <guid>https://tv.naver.com/v/32023367</guid>
+            <pubDate>Sat, 31 Dec 2022 10:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[19:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_231/2pV40_1672478479229COxkg_JPEG/cover_0001024852_001_20221231181301134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SDF] ’네이버’ 덕에 돌아오게 됐다고요? / 플뢰르 펠르랭 전 프랑스 장관 인터뷰]]></title>
             <link>https://tv.naver.com/v/32023028</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Dec 2022 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221231_4/fCPCV_1672441481701Xbq22_JPEG/cover_0001024757_001_20221231080319132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[역전세난에 세입자 '귀한 몸'…"고금리로 월세 선호해 전셋값 하락"]]></title>
-            <link>https://tv.naver.com/v/32017182</link>
-            <guid>https://tv.naver.com/v/32017182</guid>
-            <pubDate>Fri, 30 Dec 2022 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_294/PyX9b_16724414592065xaIf_JPEG/cover_0001024756_001_20221231080310737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
