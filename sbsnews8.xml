@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 10:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 11:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32025032</link>
+            <guid>https://tv.naver.com/v/32025032</guid>
+            <pubDate>Sat, 31 Dec 2022 11:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_139/cl7vL_16724852855594bx10_JPEG/cover_0001024862_001_20221231201401137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SDF] "시간이 필요했습니다"]]></title>
             <link>https://tv.naver.com/v/32023367</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Dec 2022 23:18:40 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221231_257/gVHoW_1672441541255XtGcB_JPEG/cover_0001024758_001_20221231080401171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3년 만에 노마스크 해맞이…안전 관리에 총력]]></title>
-            <link>https://tv.naver.com/v/32017183</link>
-            <guid>https://tv.naver.com/v/32017183</guid>
-            <pubDate>Fri, 30 Dec 2022 23:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_4/fCPCV_1672441481701Xbq22_JPEG/cover_0001024757_001_20221231080319132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
