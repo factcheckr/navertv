@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 06:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 07:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]농구 보며 새해 맞이…전석 매진 ‘농구영신’]]></title>
+            <link>https://tv.naver.com/v/32034351</link>
+            <guid>https://tv.naver.com/v/32034351</guid>
+            <pubDate>Sun, 01 Jan 2023 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_80/BRFFC_1672555898678xs0Y9_JPEG/cover_0000241048_001_20230101155001668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[동앵과 뉴스터디]2023년 예습, ‘이 사건’에 주목!]]></title>
             <link>https://tv.naver.com/v/32033826</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Dec 2022 13:24:50 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_176/iavkX_1672403893021ABxSB_JPEG/cover_0000240991_001_20221230213701574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여랑야랑]국회서 도둑 촬영? / “부스럭거리는 소리” / 연하장 표절? 권리?]]></title>
-            <link>https://tv.naver.com/v/32012268</link>
-            <guid>https://tv.naver.com/v/32012268</guid>
-            <pubDate>Fri, 30 Dec 2022 13:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[5:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_221/XD642_1672403846396w1mhc_JPEG/cover_0000240984_001_20221230213501776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
