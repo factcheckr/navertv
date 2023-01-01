@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 08:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 09:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상구성] 모두의 소망 담은…'계묘년' 새해 첫 일출]]></title>
+            <link>https://tv.naver.com/v/32036493</link>
+            <guid>https://tv.naver.com/v/32036493</guid>
+            <pubDate>Sun, 01 Jan 2023 09:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_272/xzZoH_167256446662460o0R_JPEG/cover_0000327214_001_20230101181401577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 배우 이성민 "진양철 회장 나이 연기에 가장 신경 쓰였다"]]></title>
             <link>https://tv.naver.com/v/32035071</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Dec 2022 14:16:46 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221230_216/TdoQy_16724082412104BRnY_JPEG/cover_0000327087_001_20221230224949621.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오픈 뉴스룸] '거리두기 해제'부터 '월드컵'까지…울고 웃었던 10대 이슈｜뉴스룸 뒤(D)]]></title>
-            <link>https://tv.naver.com/v/32013775</link>
-            <guid>https://tv.naver.com/v/32013775</guid>
-            <pubDate>Fri, 30 Dec 2022 14:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[16:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221230_63/EAmuw_1672408548685LJmhp_JPEG/cover_0000327109_001_20221230224937442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

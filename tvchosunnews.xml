@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 08:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 09:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 해군 함정 '마라도함'에서 바라본 새해 첫 일출]]></title>
+            <link>https://tv.naver.com/v/32036237</link>
+            <guid>https://tv.naver.com/v/32036237</guid>
+            <pubDate>Sun, 01 Jan 2023 09:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_207/S9dln_1672563091122eID9T_JPEG/cover_2023010190044_thumb_054941_20230101175105094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령, 신년사서 11번 언급한 '경제' 키워드]]></title>
             <link>https://tv.naver.com/v/32034263</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 10:19:51 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221231_274/iyxCy_1672481502506VkwS3_JPEG/cover_2022123190049_thumb_070937_20221231191101590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월 31일 '뉴스 7' 헤드라인]]></title>
-            <link>https://tv.naver.com/v/32024141</link>
-            <guid>https://tv.naver.com/v/32024141</guid>
-            <pubDate>Sat, 31 Dec 2022 10:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_252/gCrBJ_16724812040191BNAA_JPEG/cover_2022123190041_thumb_070335_20221231190609023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

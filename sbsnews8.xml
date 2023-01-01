@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 08:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 09:18:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] SBS 여론조사…국정 지지율 "잘한다" 36.8% "잘 못한다" 54.7%]]></title>
+            <link>https://tv.naver.com/v/32036077</link>
+            <guid>https://tv.naver.com/v/32036077</guid>
+            <pubDate>Sun, 01 Jan 2023 09:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_243/uYgjb_1672562406986gBhdI_JPEG/cover_0001024976_001_20230101173909125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SDF2022] 공론 정치 확산을 위한 정치 개혁 : 제도 개혁과 민주적 혁신 | 연구발표, 유홍림 교수 총론]]></title>
             <link>https://tv.naver.com/v/32034761</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 12:31:47 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221231_39/W1hnK_1672489340374991IB_JPEG/cover_0001024866_001_20221231212101172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBS가 선정한 2022년 10대 뉴스]]></title>
-            <link>https://tv.naver.com/v/32026339</link>
-            <guid>https://tv.naver.com/v/32026339</guid>
-            <pubDate>Sat, 31 Dec 2022 12:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_74/pzwz0_16724893352452FwGf_JPEG/cover_0001024872_001_20221231212034536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
