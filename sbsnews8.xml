@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 05:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 06:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 연봉 2700억 호날두, 싸늘한 축구계]]></title>
+            <link>https://tv.naver.com/v/32033528</link>
+            <guid>https://tv.naver.com/v/32033528</guid>
+            <pubDate>Sun, 01 Jan 2023 06:23:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_68/Daghe_1672552177163z8QfQ_JPEG/cover_0001024959_001_20230101144501136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 윤석열 대통령 신년사 "3대 개혁 미룰 수 없어…먼저 노동개혁으로 성장 견인하겠다"]]></title>
             <link>https://tv.naver.com/v/32033045</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 12:31:47 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20221231_90/GUXId_1672489187066bmx8q_JPEG/cover_0001024878_001_20221231211911127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페퍼, 개막 17연패 끊고 감격의 첫승]]></title>
-            <link>https://tv.naver.com/v/32025844</link>
-            <guid>https://tv.naver.com/v/32025844</guid>
-            <pubDate>Sat, 31 Dec 2022 12:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20221231_134/OiTo5_1672488168773hBjvX_JPEG/cover_0001024876_001_20221231205901126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
