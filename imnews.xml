@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Jan 2023 13:23:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 14:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트] 2023년 대한민국, 실종된 '정치'를 찾습니다]]></title>
+            <link>https://tv.naver.com/v/32040811</link>
+            <guid>https://tv.naver.com/v/32040811</guid>
+            <pubDate>Sun, 01 Jan 2023 14:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[35:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_186/LFtQ9_1672580273041mOmbl_JPEG/cover_cover_y0101-29_20230101223604228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장 36.5] 2023 우리가 바라는 대한민국]]></title>
             <link>https://tv.naver.com/v/32039203</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 31 Dec 2022 23:17:47 GMT</pubDate>
             <content:encoded><![CDATA[0:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230101_103/WdAG2_1672527389210Uk2Fz_JPEG/cover_cover_today_20230101_072253_1_5_Large_1_20230101075619624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['검은 토끼의 해' 밝았다‥새해 첫 순간들]]></title>
-            <link>https://tv.naver.com/v/32030551</link>
-            <guid>https://tv.naver.com/v/32030551</guid>
-            <pubDate>Sat, 31 Dec 2022 23:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_244/suVbI_1672527418715t2fL8_JPEG/cover_cover_today_20230101_072253_1_2_Large_1_20230101075611549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
