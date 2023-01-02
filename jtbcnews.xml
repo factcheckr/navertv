@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 07:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 08:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[기상센터] 새해 맞는 주말 큰 추위 없어…전국서 해맞이 가능]]></title>
+            <link>https://tv.naver.com/v/32055989</link>
+            <guid>https://tv.naver.com/v/32055989</guid>
+            <pubDate>Mon, 02 Jan 2023 08:24:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_177/TeDS5_1672644897685hF4ic_JPEG/cover_0000327105_001_20230102163401599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 새해 밝자 다시 추위…낮에도 서울 영하 1도]]></title>
             <link>https://tv.naver.com/v/32048244</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 01 Jan 2023 10:19:08 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230101_86/fvebv_16725675815016ruij_JPEG/cover_0000327222_001_20230101190601565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2일부터 중국발 입국자 전원 24시간 내 PCR 검사]]></title>
-            <link>https://tv.naver.com/v/32037125</link>
-            <guid>https://tv.naver.com/v/32037125</guid>
-            <pubDate>Sun, 01 Jan 2023 10:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_174/qH8GE_1672567511970kFQkY_JPEG/cover_0000327221_001_20230101190501545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

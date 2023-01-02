@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 07:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 08:26:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상가로 돌진한 SUV…엄마와 아기 숨져]]></title>
+            <link>https://tv.naver.com/v/32057228</link>
+            <guid>https://tv.naver.com/v/32057228</guid>
+            <pubDate>Mon, 02 Jan 2023 08:25:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_235/XEv1h_1672647177675spPO9_JPEG/cover_0000240988_001_20230102171201733.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상]저걸 받아? 상대팀은 의욕상실]]></title>
             <link>https://tv.naver.com/v/32054640</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 01 Jan 2023 12:34:32 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230101_173/DRfIR_1672572286322QeeKa_JPEG/cover_0000241061_001_20230101202311427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제2경인고속도로 ‘21.9km’ 통제…출퇴근 정체 심할 듯]]></title>
-            <link>https://tv.naver.com/v/32038473</link>
-            <guid>https://tv.naver.com/v/32038473</guid>
-            <pubDate>Sun, 01 Jan 2023 12:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230101_46/MWygE_1672572246299fR1P0_JPEG/cover_0000241063_001_20230101202242676.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
