@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 20:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 21:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32070998</link>
+            <guid>https://tv.naver.com/v/32070998</guid>
+            <pubDate>Mon, 02 Jan 2023 21:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_115/Ee1rQ_1672693903435bHcfp_JPEG/cover_0001025298_001_20230103061101152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중 "심각한데 내수 소비 회복이 더 급해"…IMF는 우려]]></title>
             <link>https://tv.naver.com/v/32070854</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 02 Jan 2023 12:34:55 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230102_142/rFoml_1672662767515jGU4z_JPEG/cover_0001025243_001_20230102213115556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피 말리는 새벽 공습 잇따라…'키이우는 지금']]></title>
-            <link>https://tv.naver.com/v/32064390</link>
-            <guid>https://tv.naver.com/v/32064390</guid>
-            <pubDate>Mon, 02 Jan 2023 12:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_159/1uobq_1672662807866SsEqh_JPEG/cover_0001025246_001_20230102213101149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
