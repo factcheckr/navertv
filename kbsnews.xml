@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 06:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 07:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 경찰, 이기영 살해 ‘여성’ 시신 묻힌 장소 특정…수색견 ‘반응’]]></title>
+            <link>https://tv.naver.com/v/32084802</link>
+            <guid>https://tv.naver.com/v/32084802</guid>
+            <pubDate>Tue, 03 Jan 2023 07:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_284/SrBm3_1672729242073t5OEv_JPEG/cover_0011404011_001_20230103160014313.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공정위, 테슬라 ‘부당 광고’ 과징금 28억여 원]]></title>
             <link>https://tv.naver.com/v/32083211</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 04:22:18 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_93/ngoHx_1672717165696QjUvM_JPEG/cover_0011403949_001_20230103123901150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든 “한미 공동핵 연습 논의?” 질문에 “아니다”]]></title>
-            <link>https://tv.naver.com/v/32077097</link>
-            <guid>https://tv.naver.com/v/32077097</guid>
-            <pubDate>Tue, 03 Jan 2023 04:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_223/sFy9Z_1672716532051h7xn1_JPEG/cover_0011403948_001_20230103122801173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
