@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 19:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 20:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또 '방음벽' 화재...전국 곳곳에서 화재 잇따라]]></title>
+            <link>https://tv.naver.com/v/32101656</link>
+            <guid>https://tv.naver.com/v/32101656</guid>
+            <pubDate>Tue, 03 Jan 2023 20:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_146/9kvVC_1672776947554zmKo3_JPEG/cover_cover_202301040504476023_t_20230104051501691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수출 3년 만에 역성장 예상...반도체 흐림·자동차 맑음]]></title>
+            <link>https://tv.naver.com/v/32101647</link>
+            <guid>https://tv.naver.com/v/32101647</guid>
+            <pubDate>Tue, 03 Jan 2023 20:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_8/1qF5F_1672776484411N12rd_JPEG/cover_cover_202301040502125409_t_20230104050702324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["北, 평양 훈련장에 만3천여 명 집결"...열병식 임박 관측]]></title>
             <link>https://tv.naver.com/v/32101519</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 14:18:31 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_266/CpoO5_16727554731013moR9_JPEG/cover_cover_202301032309491259_t_20230103231718565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 서울 강남 3구·용산 빼고 규제지역 모두 해제]]></title>
-            <link>https://tv.naver.com/v/32098246</link>
-            <guid>https://tv.naver.com/v/32098246</guid>
-            <pubDate>Tue, 03 Jan 2023 14:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_164/8WkIA_1672755476014Ww3pe_JPEG/cover_cover_202301032309332080_t_20230103231711144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국토부 "부동산 규제 정상화...공공주택 본격 공급"]]></title>
-            <link>https://tv.naver.com/v/32098243</link>
-            <guid>https://tv.naver.com/v/32098243</guid>
-            <pubDate>Tue, 03 Jan 2023 14:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_90/zGnYk_1672755445910g7jz1_JPEG/cover_cover_202301032309161692_t_20230103231702318.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
