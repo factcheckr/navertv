@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 01:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 02:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사찰 커튼에 불 붙인 50대 남성 방화 혐의 검거]]></title>
+            <link>https://tv.naver.com/v/32073814</link>
+            <guid>https://tv.naver.com/v/32073814</guid>
+            <pubDate>Tue, 03 Jan 2023 02:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_17/9T1PJ_1672709857145NH0pk_JPEG/cover_0000241158_001_20230103103701605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김정은, 미사일 기지에 딸 등장시켜…핵 엄포 ‘도장’]]></title>
             <link>https://tv.naver.com/v/32072607</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 02 Jan 2023 12:36:02 GMT</pubDate>
             <content:encoded><![CDATA[7:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230102_244/r8dR1_1672658680359vLiJs_JPEG/cover_0000241116_001_20230102202101605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명과 평양온반 오찬…文 “민주주의 후퇴 안 돼”]]></title>
-            <link>https://tv.naver.com/v/32062343</link>
-            <guid>https://tv.naver.com/v/32062343</guid>
-            <pubDate>Mon, 02 Jan 2023 12:36:02 GMT</pubDate>
-            <content:encoded><![CDATA[7:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230102_239/mcDRd_1672658647601EiKn1_PNG/cover_0000241115_001_20230102202001709.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
