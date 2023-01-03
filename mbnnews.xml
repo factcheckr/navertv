@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 02:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Jan 2023 03:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 유행 XBB.1.5 이미 국내 유입 [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/32076403</link>
+            <guid>https://tv.naver.com/v/32076403</guid>
+            <pubDate>Tue, 03 Jan 2023 03:21:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_158/Sl7Sq_1672715023524xbf6J_JPEG/cover_cover_20230103120054_20_845_1317211_1080_7_20230103120301200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고체연료 우주발사체, 2~4단 분리 등 성공 영상 공개…2025년까지 초소형위성 발사]]></title>
             <link>https://tv.naver.com/v/32074531</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 02 Jan 2023 23:19:46 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_97/wAbUZ_1672699533117xdq4F_JPEG/cover_cover_20230103074231_20_605_1317179_1080_7_20230103074503280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[병역비리 스포츠계 전반 확대되나…K리그 선수 검찰 조사]]></title>
-            <link>https://tv.naver.com/v/32071448</link>
-            <guid>https://tv.naver.com/v/32071448</guid>
-            <pubDate>Mon, 02 Jan 2023 23:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_222/egqko_1672699438193wJdO7_JPEG/cover_cover_20230103073821_20_605_1317178_1080_7_20230103074301184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
