@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 02:43:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 03:21:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32106930</link>
+            <guid>https://tv.naver.com/v/32106930</guid>
+            <pubDate>Wed, 04 Jan 2023 03:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_49/ALrWT_1672801847728yhBpC_JPEG/cover_0001025700_001_20230104121001163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈Q&A] 중국발 '비상'에 신종 변이까지…마스크 언제 벗을 수 있죠? (ft. SBS 의학기자)]]></title>
+            <link>https://tv.naver.com/v/32106807</link>
+            <guid>https://tv.naver.com/v/32106807</guid>
+            <pubDate>Wed, 04 Jan 2023 03:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_292/w4trG_1672801598740MgbhA_JPEG/cover_0001025699_001_20230104120411539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["속옷만 빼고 다 벗으세요"…이게 채용 절차라니]]></title>
             <link>https://tv.naver.com/v/32105563</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 22:18:21 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_95/ErKeX_1672781911686cb62J_JPEG/cover_0001025597_001_20230104063801128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자사고 양정고, 수험생 60여 명에 합격 여부 번복]]></title>
-            <link>https://tv.naver.com/v/32101900</link>
-            <guid>https://tv.naver.com/v/32101900</guid>
-            <pubDate>Tue, 03 Jan 2023 22:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_131/Bl2Ip_1672781843560eHDWa_JPEG/cover_0001025596_001_20230104063701139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전장연 "올해 내내 평일 출근길 지하철 시위할 것"]]></title>
-            <link>https://tv.naver.com/v/32101893</link>
-            <guid>https://tv.naver.com/v/32101893</guid>
-            <pubDate>Tue, 03 Jan 2023 22:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_135/0nRTD_1672781841625QzVny_JPEG/cover_0001025595_001_20230104063601149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
