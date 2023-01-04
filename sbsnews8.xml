@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 15:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 16:33:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[확진 중국인, 격리 거부하고 도주…경찰 추적 중]]></title>
+            <link>https://tv.naver.com/v/32129351</link>
+            <guid>https://tv.naver.com/v/32129351</guid>
+            <pubDate>Wed, 04 Jan 2023 16:32:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_83/AzjeD_1672849149129CInmt_JPEG/cover_0001025844_001_20230105011801170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["참사 현장서 무력감에 외로웠다" 베테랑 소방관의 증언]]></title>
             <link>https://tv.naver.com/v/32127309</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Jan 2023 13:25:12 GMT</pubDate>
             <content:encoded><![CDATA[2:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_131/tc0ia_1672838031513x5lI1_JPEG/cover_0001025835_001_20230104221216172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[월드리포트] 미, 코로나 기간 중 '식용대마'에 노출된 아동 급증]]></title>
-            <link>https://tv.naver.com/v/32124661</link>
-            <guid>https://tv.naver.com/v/32124661</guid>
-            <pubDate>Wed, 04 Jan 2023 13:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_191/NWxpj_1672838009059M8U0x_JPEG/cover_0001025710_001_20230104221204923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
