@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Jan 2023 23:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 01:29:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2명 살해 이기영 “죄송…추가 피해자 없다”]]></title>
+            <link>https://tv.naver.com/v/32103474</link>
+            <guid>https://tv.naver.com/v/32103474</guid>
+            <pubDate>Wed, 04 Jan 2023 01:29:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_46/2MpFb_1672792782997LW6tU_JPEG/cover_0000241229_001_20230104093901570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다시 간다]콘크리트 굳히려다…또 ‘죽음의 연기’에 질식]]></title>
             <link>https://tv.naver.com/v/32097312</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 12:37:46 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230103_102/2D1Gq_1672744744896IJk9S_JPEG/cover_0000241220_001_20230103201743463.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]“강원도가 ‘쪼개기 입찰’ 먼저 제안”]]></title>
-            <link>https://tv.naver.com/v/32093376</link>
-            <guid>https://tv.naver.com/v/32093376</guid>
-            <pubDate>Tue, 03 Jan 2023 12:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230103_219/Se0MR_1672744726210ae4KK_JPEG/cover_0000241221_001_20230103201735339.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
