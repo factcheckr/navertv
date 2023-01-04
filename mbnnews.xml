@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 06:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 07:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/32112699</link>
+            <guid>https://tv.naver.com/v/32112699</guid>
+            <pubDate>Wed, 04 Jan 2023 07:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_77/cBali_1672813551273VK2dF_JPEG/cover_cover_20230104152224_20_845_1317318_1080_7_20230104152501235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['얼굴 감춘' 이기영 "제 살해 행각 죄송" [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/32106128</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Jan 2023 23:21:26 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_272/09atQ_1672786956170QjMjs_JPEG/cover_cover_20230104075603_20_605_1317284_1080_7_20230104080101195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝MBN 날씨]출근길 강추위 이어져…서울 건조주의보]]></title>
-            <link>https://tv.naver.com/v/32102475</link>
-            <guid>https://tv.naver.com/v/32102475</guid>
-            <pubDate>Tue, 03 Jan 2023 23:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_191/OezEt_1672786656836r6hjU_JPEG/cover_cover_20230104075446_20_605_1317283_1080_7_20230104075701187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
