@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 02:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 03:21:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["북한 무인기, 비행금지구역 일부 통과"…군, 말 바꿔]]></title>
+            <link>https://tv.naver.com/v/32138210</link>
+            <guid>https://tv.naver.com/v/32138210</guid>
+            <pubDate>Thu, 05 Jan 2023 03:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_61/wp14I_1672888221422TfjoX_JPEG/cover_0001025972_001_20230105120901120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32137981</link>
+            <guid>https://tv.naver.com/v/32137981</guid>
+            <pubDate>Thu, 05 Jan 2023 03:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_294/qMIGM_1672887635873devG1_JPEG/cover_0001025968_001_20230105120001189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 낮부터 추위 누그러져…서쪽 초미세먼지 '나쁨']]></title>
             <link>https://tv.naver.com/v/32135973</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 04 Jan 2023 22:19:06 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_227/nbUu7_1672868345201jzt3v_JPEG/cover_0001025868_001_20230105063801149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["너무나 외로웠다"…19년 차 소방관도 무력했던 그날]]></title>
-            <link>https://tv.naver.com/v/32132448</link>
-            <guid>https://tv.naver.com/v/32132448</guid>
-            <pubDate>Wed, 04 Jan 2023 22:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_204/EFrrh_1672867995565lbUQB_JPEG/cover_0001025867_001_20230105063210315.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[둔촌주공 분양시장 '활기'…"언제든 부담되면 팔면 되지"]]></title>
-            <link>https://tv.naver.com/v/32132432</link>
-            <guid>https://tv.naver.com/v/32132432</guid>
-            <pubDate>Wed, 04 Jan 2023 22:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_48/OkDzC_1672867858501s3cL1_JPEG/cover_0001025866_001_20230105063001160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
