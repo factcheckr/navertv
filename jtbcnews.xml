@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 22:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 23:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 늦은 오후부터 전국에 눈·비…초미세먼지 '나쁨' 수준]]></title>
+            <link>https://tv.naver.com/v/32165296</link>
+            <guid>https://tv.naver.com/v/32165296</guid>
+            <pubDate>Thu, 05 Jan 2023 23:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_88/bBDFX_1672960723106wB9KR_JPEG/cover_0000327779_001_20230106081802388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 2kg 벌크업한 20살 안세영의 새해 목표…"즐기는 배드민턴 하겠다"]]></title>
             <link>https://tv.naver.com/v/32164398</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Jan 2023 10:21:09 GMT</pubDate>
             <content:encoded><![CDATA[3:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_26/Dntg8_1672912791450xFq5y_JPEG/cover_0000327737_001_20230105185801632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 '중대선거구제' 제안에…정치권 '설왕설래']]></title>
-            <link>https://tv.naver.com/v/32151235</link>
-            <guid>https://tv.naver.com/v/32151235</guid>
-            <pubDate>Thu, 05 Jan 2023 10:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[11:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_3/PEoBq_1672912424406Wa6XM_JPEG/cover_0000327736_001_20230105185001704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
