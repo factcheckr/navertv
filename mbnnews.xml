@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 06:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 07:18:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 격리 거부하고 도주한 '확진 중국인' 서울서 검거...CCTV 포착된 모습]]></title>
+            <link>https://tv.naver.com/v/32146228</link>
+            <guid>https://tv.naver.com/v/32146228</guid>
+            <pubDate>Thu, 05 Jan 2023 07:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_251/gxWGa_1672902797138Gz0sj_JPEG/cover_cover_20230105160837_20_683_1317423_1080_7_20230105161302165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
             <link>https://tv.naver.com/v/32143964</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Jan 2023 23:20:29 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_242/s53Wt_1672873418343Ncsg2_JPEG/cover_cover_20230105080043_20_605_1317390_1080_7_20230105080301474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 무려 15년 만에 크루즈선이 베네수엘라에?]]></title>
-            <link>https://tv.naver.com/v/32133240</link>
-            <guid>https://tv.naver.com/v/32133240</guid>
-            <pubDate>Wed, 04 Jan 2023 23:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_211/Qm9CZ_1672873309608jDVd4_JPEG/cover_cover_20230105075859_20_605_1317389_1080_7_20230105080101201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
