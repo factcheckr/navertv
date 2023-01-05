@@ -4,9 +4,17 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 21:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 22:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포켓이슈] 교권 추락의 해결책이 생활기록부?]]></title>
+            <link>https://tv.naver.com/v/32114259</link>
+            <guid>https://tv.naver.com/v/32114259</guid>
+            <pubDate>Thu, 05 Jan 2023 22:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_270/knzXe_1672816078595tPkFK_JPEG/1672816012232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['호크아이' 레너 제설차 몰고 이웃 돕다가…두 차례 수술]]></title>
             <link>https://tv.naver.com/v/32151770</link>
@@ -70,6 +78,14 @@
             <pubDate>Thu, 05 Jan 2023 08:25:03 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_183/E7A1I_16729049279788CMzJ_JPEG/1672904894859.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업발언대] "홈페이지 뚝딱 만들 수 있어요"웹사이트 제작 툴 진화 이끄는 아임웹]]></title>
+            <link>https://tv.naver.com/v/32145595</link>
+            <guid>https://tv.naver.com/v/32145595</guid>
+            <pubDate>Thu, 05 Jan 2023 22:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[6:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_172/iDIni_1672901744474VRbp1_JPEG/1672896654139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인천서 도주한 중국인 확진자 서울 호텔서 검거…동선 봤더니]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 04 Jan 2023 03:21:10 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230104_231/Jc7L4_1672800918922cyNDI_JPEG/1672800550930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭죽놀이 왜 막냐…경찰차 올라타고 부수고 뒤집고]]></title>
-            <link>https://tv.naver.com/v/32106392</link>
-            <guid>https://tv.naver.com/v/32106392</guid>
-            <pubDate>Wed, 04 Jan 2023 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_110/7tcuo_1672800652376GGSj3_JPEG/1672800158836.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마스크로 얼굴 가린 이기영…"뭐가 죄송하냐" 질문에 "살인해서"]]></title>
-            <link>https://tv.naver.com/v/32106208</link>
-            <guid>https://tv.naver.com/v/32106208</guid>
-            <pubDate>Wed, 04 Jan 2023 03:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230104_140/UDR55_1672800338328nyn8V_JPEG/1672800297943.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
