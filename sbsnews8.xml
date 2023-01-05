@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 20:21:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 21:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32164403</link>
+            <guid>https://tv.naver.com/v/32164403</guid>
+            <pubDate>Thu, 05 Jan 2023 21:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_23/9CCNl_1672953347507YMNVF_JPEG/cover_0001026149_001_20230106061501140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["생일 축하" 기름 뿌리고 '화르르'…청년 삶 무너졌다]]></title>
             <link>https://tv.naver.com/v/32162613</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Jan 2023 12:35:45 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_20/whThZ_1672922030944AI9C1_JPEG/cover_0001026093_001_20230105213220538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 언론사 간부들에게 흘러간 수표…"명품 선물도"]]></title>
-            <link>https://tv.naver.com/v/32155450</link>
-            <guid>https://tv.naver.com/v/32155450</guid>
-            <pubDate>Thu, 05 Jan 2023 12:35:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_99/2H7lT_1672921977644MwRsW_JPEG/cover_0001026101_001_20230105213131026.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
