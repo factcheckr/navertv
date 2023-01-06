@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 02:47:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 03:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이태원 참사 청문회 ⑧]]></title>
+            <link>https://tv.naver.com/v/32169148</link>
+            <guid>https://tv.naver.com/v/32169148</guid>
+            <pubDate>Fri, 06 Jan 2023 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[14:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_265/P7d83_1672973983366DlfJU_JPEG/cover_cover_202301061126118114_t_20230106115126600.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이태원 참사 청문회 ⑦]]></title>
+            <link>https://tv.naver.com/v/32169137</link>
+            <guid>https://tv.naver.com/v/32169137</guid>
+            <pubDate>Fri, 06 Jan 2023 03:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[25:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_213/a9AGD_1672974136893Vsb8F_JPEG/cover_cover_202301061054474390_t_20230106115104472.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스라이더] 비행금지구역 뚫렸는데..."용산 상공은 안 지났다"]]></title>
             <link>https://tv.naver.com/v/32168516</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 05 Jan 2023 23:21:05 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_144/WAl3G_167295860888431oef_JPEG/cover_cover_202301060710216949_t_20230106074309677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주도 "정부의 일방적 제주 제2 공항 재추진 유감"]]></title>
-            <link>https://tv.naver.com/v/32165027</link>
-            <guid>https://tv.naver.com/v/32165027</guid>
-            <pubDate>Thu, 05 Jan 2023 23:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_208/0E5eq_1672958595509uOmrC_JPEG/cover_cover_202301060710122602_t_20230106074301700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 이민정책 비판하던 바이든 되레 '강제 추방' 확대]]></title>
-            <link>https://tv.naver.com/v/32164877</link>
-            <guid>https://tv.naver.com/v/32164877</guid>
-            <pubDate>Thu, 05 Jan 2023 23:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_49/vS0ol_1672957678439IPkdk_JPEG/cover_cover_202301060650243513_t_20230106072709147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
