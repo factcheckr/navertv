@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 06:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 07:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D:이슈] '뚜두뚜두 20억뷰' 블랙핑크, 또 하나의 역사 썼다]]></title>
+            <link>https://tv.naver.com/v/32177879</link>
+            <guid>https://tv.naver.com/v/32177879</guid>
+            <pubDate>Fri, 06 Jan 2023 07:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_9/2wCHS_1672989208673kyeQT_JPEG/cover_0000327766_001_20230106161301497.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈 인터뷰] "달에 석유를 대체할 에너지 자원 600경 규모 매장"]]></title>
             <link>https://tv.naver.com/v/32174559</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Jan 2023 13:27:44 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_193/Ed6rL_1672924137051HdtgQ_JPEG/cover_0000327738_001_20230105220810092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2분이면 대통령실 닿을 거리…군이 놓친 그때도 '무방비']]></title>
-            <link>https://tv.naver.com/v/32155634</link>
-            <guid>https://tv.naver.com/v/32155634</guid>
-            <pubDate>Thu, 05 Jan 2023 13:27:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_136/IYABg_1672922347559e7TTE_JPEG/cover_0000327741_001_20230105213801604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

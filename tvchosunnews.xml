@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Jan 2023 06:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Jan 2023 07:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨박스] 이재명 대표, 오는 10일 검찰 출석]]></title>
+            <link>https://tv.naver.com/v/32176055</link>
+            <guid>https://tv.naver.com/v/32176055</guid>
+            <pubDate>Fri, 06 Jan 2023 07:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[6:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_299/Es36y_1672986523488noxpK_JPEG/cover_2023010690118_thumb_032353_20230106152601682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 비행금지구역 침범 뒤늦게 인정한 軍]]></title>
             <link>https://tv.naver.com/v/32174078</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Jan 2023 14:19:23 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230105_274/y5nKH_1672926574008mrb3F_JPEG/cover_2023010590174_thumb_104154_20230105224759854.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[軍, 北무인기 비행금지구역 침범 시인…국정원 "대통령실 촬영 가능성"]]></title>
-            <link>https://tv.naver.com/v/32157814</link>
-            <guid>https://tv.naver.com/v/32157814</guid>
-            <pubDate>Thu, 05 Jan 2023 14:19:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230105_172/Hj3iO_1672926530665kXsdD_JPEG/cover_2023010590176_thumb_104150_20230105224752964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
