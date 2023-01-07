@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 22:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 23:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 고농도 미세먼지 이어져…아침 기온 어제보다 낮아]]></title>
+            <link>https://tv.naver.com/v/32209499</link>
+            <guid>https://tv.naver.com/v/32209499</guid>
+            <pubDate>Sat, 07 Jan 2023 23:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_200/htGsl_1673133265150afPRg_JPEG/cover_0011406716_001_20230108081401136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 오늘도 뿌연 하늘…고농도 미세먼지 계속]]></title>
             <link>https://tv.naver.com/v/32209014</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 13:20:54 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230107_128/V6lhO_16730962051751X0Fd_JPEG/cover_0011406638_001_20230107215533291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양성률 하루새 11%p 올라…홍콩·마카오발도 입국전 검사]]></title>
-            <link>https://tv.naver.com/v/32204330</link>
-            <guid>https://tv.naver.com/v/32204330</guid>
-            <pubDate>Sat, 07 Jan 2023 13:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_288/9gTbB_16730961855524PYai_JPEG/cover_0011406637_001_20230107215524233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
