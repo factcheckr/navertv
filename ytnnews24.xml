@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 11:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 12:34:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 전 세계 '절대악' 체포...블랙호크까지 동원]]></title>
+            <link>https://tv.naver.com/v/32203588</link>
+            <guid>https://tv.naver.com/v/32203588</guid>
+            <pubDate>Sat, 07 Jan 2023 12:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_290/FTEr0_1673093535592QFaO8_JPEG/cover_cover_202301072107406086_t_20230107211102912.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간 돌발영상] 1월 첫째 주]]></title>
+            <link>https://tv.naver.com/v/32203499</link>
+            <guid>https://tv.naver.com/v/32203499</guid>
+            <pubDate>Sat, 07 Jan 2023 12:33:37 GMT</pubDate>
+            <content:encoded><![CDATA[18:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_214/1G9qN_1673093602130nsrkO_JPEG/cover_cover_202301072039548910_t_20230107210502331.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["짜릿한 손맛 최고" 화천 산천어 축제 3년만에 개막]]></title>
             <link>https://tv.naver.com/v/32201601</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 04:23:01 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230107_111/Uq18M_1673065319016IEIW1_JPEG/cover_cover_202301070112127681_t_20230107132101923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원희룡 "규제 완화로 집값 상승 기대 안 해...거래 절벽 막아야"]]></title>
-            <link>https://tv.naver.com/v/32195594</link>
-            <guid>https://tv.naver.com/v/32195594</guid>
-            <pubDate>Sat, 07 Jan 2023 04:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_43/KFzQh_1673064921369RjlvJ_JPEG/cover_cover_202301071215252777_t_20230107131501818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["15분 충전으로 서울에서 부산까지...휴머노이드 차량도"]]></title>
-            <link>https://tv.naver.com/v/32195488</link>
-            <guid>https://tv.naver.com/v/32195488</guid>
-            <pubDate>Sat, 07 Jan 2023 04:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_102/ImfeK_1673064468913JuoV5_JPEG/cover_cover_202301071304281463_t_20230107130702251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
