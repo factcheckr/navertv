@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 10:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 11:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 100분 지나서야 '대비 명령'…"작전지침 어겼다"]]></title>
+            <link>https://tv.naver.com/v/32202527</link>
+            <guid>https://tv.naver.com/v/32202527</guid>
+            <pubDate>Sat, 07 Jan 2023 11:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_14/l9dE0_1673089930206IhgkQ_JPEG/cover_0001026526_001_20230107201101151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32202396</link>
+            <guid>https://tv.naver.com/v/32202396</guid>
+            <pubDate>Sat, 07 Jan 2023 11:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_67/qajrx_16730894852387LplQ_JPEG/cover_0001026525_001_20230107200401133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[친절한 경제] 텀블러 쓰면서 돈 버는 방법! 꿀팁 공개]]></title>
             <link>https://tv.naver.com/v/32199959</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 06 Jan 2023 23:17:53 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230107_204/Tardt_1673044562220jhgjj_JPEG/cover_0001026432_001_20230107073501170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이기영, 수색 현장에 다시 나와…사이코패스 "진단 불가"]]></title>
-            <link>https://tv.naver.com/v/32192351</link>
-            <guid>https://tv.naver.com/v/32192351</guid>
-            <pubDate>Fri, 06 Jan 2023 23:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_134/kaWvE_1673044524374wzbbd_JPEG/cover_0001026431_001_20230107073416320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음성확인서 의무화에 양성률 '뚝'…홍콩 · 마카오발도 의무]]></title>
-            <link>https://tv.naver.com/v/32192350</link>
-            <guid>https://tv.naver.com/v/32192350</guid>
-            <pubDate>Fri, 06 Jan 2023 23:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_63/FwMC7_1673044520445F7E3x_JPEG/cover_0001026430_001_20230107073408574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
