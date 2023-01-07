@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 19:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 20:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[옴부즈맨] 1월 8일]]></title>
+            <link>https://tv.naver.com/v/32208684</link>
+            <guid>https://tv.naver.com/v/32208684</guid>
+            <pubDate>Sat, 07 Jan 2023 20:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[30:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_193/E9Yan_1673121803000kuK83_JPEG/cover_cover_MYH20230106011200641_20230108050101832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[감쪽같은 전세사기…'막막'한 구제 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/32204436</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 07:16:50 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230107_245/nmLAb_1673074529932EV5SN_JPEG/cover_cover_MYH20230107007600641_20230107155502170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['중대장 훈련병' 뽑힌 BTS 진, 화생방 훈련 사진 공개]]></title>
-            <link>https://tv.naver.com/v/32198064</link>
-            <guid>https://tv.naver.com/v/32198064</guid>
-            <pubDate>Sat, 07 Jan 2023 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_176/I5H4i_16730738042857vtnM_JPEG/cover_cover_MYH20230107007500641_20230107154301905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
