@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 20:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 21:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[327회_뇌졸중 및 산불 예방요령]]></title>
+            <link>https://tv.naver.com/v/32208905</link>
+            <guid>https://tv.naver.com/v/32208905</guid>
+            <pubDate>Sat, 07 Jan 2023 21:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[14:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_185/CMC0z_16731251959214WtcF_JPEG/cover_cover_20230108054736_20_849_1317608_1080_7_20230108055201193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN뉴스센터 날씨]내일도 공기질 비상…호흡기 건강 유의]]></title>
             <link>https://tv.naver.com/v/32205221</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Jan 2023 12:39:46 GMT</pubDate>
             <content:encoded><![CDATA[1:05:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230106_21/uihTc_1673005048128I8dIr_JPEG/cover_cover_20230106202456_20_536_1317575_1080_7_20230106203301190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 북한 무인기 두고… 장성 출신들 '별들의 전쟁', 왜?]]></title>
-            <link>https://tv.naver.com/v/32185598</link>
-            <guid>https://tv.naver.com/v/32185598</guid>
-            <pubDate>Fri, 06 Jan 2023 12:39:46 GMT</pubDate>
-            <content:encoded><![CDATA[9:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230106_182/Nbu2X_16730048113406QOC4_JPEG/cover_cover_20230106202334_20_536_1317574_1080_7_20230106202901209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
