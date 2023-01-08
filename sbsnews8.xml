@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 04:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 06:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] "탈레반 25명 사살" 영국 해리 왕자 자서전 파장]]></title>
+            <link>https://tv.naver.com/v/32213547</link>
+            <guid>https://tv.naver.com/v/32213547</guid>
+            <pubDate>Sun, 08 Jan 2023 06:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_177/FkCTi_1673157066984zBK8p_JPEG/cover_0001026623_001_20230108145009375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] 대세는 '금테크' 달러는 비싸요]]></title>
+            <link>https://tv.naver.com/v/32213545</link>
+            <guid>https://tv.naver.com/v/32213545</guid>
+            <pubDate>Sun, 08 Jan 2023 06:22:31 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_241/cxP9o_1673157084403wqdXw_JPEG/cover_0001026622_001_20230108145001187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미세먼지에 뒤덮인 전국…올겨울 최악의 대기질]]></title>
             <link>https://tv.naver.com/v/32211774</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 12:32:52 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230107_224/Vv9sB_1673092534938EuxA6_JPEG/cover_0001026532_001_20230107205419036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안전한 곳 찾는 돈, '달러' 대신 '금'으로]]></title>
-            <link>https://tv.naver.com/v/32203321</link>
-            <guid>https://tv.naver.com/v/32203321</guid>
-            <pubDate>Sat, 07 Jan 2023 12:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_191/HC8TP_1673092538586IDVoR_JPEG/cover_0001026531_001_20230107205410228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한낮에 카페로 돌진한 SUV]]></title>
-            <link>https://tv.naver.com/v/32203319</link>
-            <guid>https://tv.naver.com/v/32203319</guid>
-            <pubDate>Sat, 07 Jan 2023 12:32:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_279/BJv5l_1673092511419EoerJ_JPEG/cover_0001026530_001_20230107205401210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
