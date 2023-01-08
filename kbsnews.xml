@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 10:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 11:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[문화가K] 근현대 조각의 탄생…김복진과 후대 조각가들]]></title>
+            <link>https://tv.naver.com/v/32218653</link>
+            <guid>https://tv.naver.com/v/32218653</guid>
+            <pubDate>Sun, 08 Jan 2023 11:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_185/Ufb64_1673173926317TGeCM_JPEG/cover_0011406651_001_20230108193101152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 내일도 미세먼지 농도 높아요!]]></title>
             <link>https://tv.naver.com/v/32218431</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 22:16:33 GMT</pubDate>
             <content:encoded><![CDATA[0:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230108_227/18Dzn_1673126324409yurzr_JPEG/cover_0011406710_001_20230108061831123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘TV조선 고의감점 의혹’ 방통위 간부 2명 구속영장]]></title>
-            <link>https://tv.naver.com/v/32209010</link>
-            <guid>https://tv.naver.com/v/32209010</guid>
-            <pubDate>Sat, 07 Jan 2023 22:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_79/OwQsc_16731263460999fGJn_JPEG/cover_0011406709_001_20230108061823732.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
