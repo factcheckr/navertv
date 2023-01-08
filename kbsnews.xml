@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 03:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 04:23:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 고농도 미세먼지 계속…수도권 오후에 일시적으로 ‘매우나쁨]]></title>
-            <link>https://tv.naver.com/v/32211437</link>
-            <guid>https://tv.naver.com/v/32211437</guid>
-            <pubDate>Sun, 08 Jan 2023 03:19:27 GMT</pubDate>
+            <title><![CDATA[반갑다 산천어야! 3년 만에 돌아온 화천산천어축제]]></title>
+            <link>https://tv.naver.com/v/32212106</link>
+            <guid>https://tv.naver.com/v/32212106</guid>
+            <pubDate>Sun, 08 Jan 2023 04:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_197/5JEOD_1673151353112WiIIB_JPEG/cover_0011406687_001_20230108131501137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12시 날씨] 오늘도 뿌연 하늘…낮 기온 어제보다 높아]]></title>
+            <link>https://tv.naver.com/v/32211890</link>
+            <guid>https://tv.naver.com/v/32211890</guid>
+            <pubDate>Sun, 08 Jan 2023 04:22:12 GMT</pubDate>
             <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_38/kTvnt_16731476688665VJE8_JPEG/cover_0011406747_001_20230108121401131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_259/JDqjW_1673150254259TxTDR_JPEG/cover_0011406747_001_20230108125701131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인천 쿠팡물류센터서 야간 근무하던 50대 남성 숨져]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 07 Jan 2023 13:20:54 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230107_74/PqUB0_1673096537896D5tuR_JPEG/cover_0011406688_001_20230107220201194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 7대 불가사의의 귀환…화천산천어축제 재개]]></title>
-            <link>https://tv.naver.com/v/32204419</link>
-            <guid>https://tv.naver.com/v/32204419</guid>
-            <pubDate>Sat, 07 Jan 2023 13:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230107_148/pTUAR_1673096538353tVlVv_JPEG/cover_0011406687_001_20230107220101158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
