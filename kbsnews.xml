@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 16:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 17:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 인천 강화군 부근 해역에서 규모 3.7 지진]]></title>
+            <link>https://tv.naver.com/v/32225301</link>
+            <guid>https://tv.naver.com/v/32225301</guid>
+            <pubDate>Sun, 08 Jan 2023 17:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_236/l1EtN_1673197612606bdCop_JPEG/cover_0011406884_001_20230109020601155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[부산 신혼부부 전세대출 이자 지원…16~17일 신청]]></title>
             <link>https://tv.naver.com/v/32222313</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 08 Jan 2023 13:21:16 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230108_126/5kW0R_1673183058807IsB7l_JPEG/cover_0011406849_001_20230108220401208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국토부 “전라선 올 하반기 SRT 운행”…이행 여부 관심]]></title>
-            <link>https://tv.naver.com/v/32221549</link>
-            <guid>https://tv.naver.com/v/32221549</guid>
-            <pubDate>Sun, 08 Jan 2023 13:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_10/hUkQi_1673182998356UcXQA_JPEG/cover_0011406848_001_20230108220301132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
