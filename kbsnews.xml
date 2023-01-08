@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Jan 2023 20:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2023 21:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한밤 강화 서쪽 해역 규모 3.7 지진…인천·경기 등에서 흔들림 감지]]></title>
+            <link>https://tv.naver.com/v/32226157</link>
+            <guid>https://tv.naver.com/v/32226157</guid>
+            <pubDate>Sun, 08 Jan 2023 21:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_198/Vbg2h_16732124260335eVT0_JPEG/cover_0011406891_001_20230109061301203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보] 인천 강화군 부근 해역에서 규모 3.7 지진]]></title>
             <link>https://tv.naver.com/v/32225446</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 08 Jan 2023 13:21:16 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230108_87/AB86V_1673183072265fnOAA_JPEG/cover_0011406850_001_20230108220406914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 복귀기업 전북 18곳 ‘전국 최다’]]></title>
-            <link>https://tv.naver.com/v/32221568</link>
-            <guid>https://tv.naver.com/v/32221568</guid>
-            <pubDate>Sun, 08 Jan 2023 13:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_126/5kW0R_1673183058807IsB7l_JPEG/cover_0011406849_001_20230108220401208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
