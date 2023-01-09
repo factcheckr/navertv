@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 06:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 07:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/32236522</link>
+            <guid>https://tv.naver.com/v/32236522</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_94/5E0jl_1673245669559kQYzd_JPEG/cover_cover_20230109152413_20_845_1317681_1080_7_20230109152701167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미 위성 추락 범위에 한반도 포함…정부 "경계경보" 발령 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/32231690</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 08 Jan 2023 23:20:07 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_283/SePsy_1673217246482Awdux_JPEG/cover_cover_20230109072739_20_605_1317647_1080_7_20230109073301161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잿빛 하늘에 갇힌 휴일…야외는 '썰렁' 실내는 '북적']]></title>
-            <link>https://tv.naver.com/v/32226496</link>
-            <guid>https://tv.naver.com/v/32226496</guid>
-            <pubDate>Sun, 08 Jan 2023 23:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_185/If0af_1673217003910p2b6o_JPEG/cover_cover_20230109072538_20_605_1317646_1080_7_20230109072901170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

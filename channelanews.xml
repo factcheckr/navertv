@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 06:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 07:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]만 14세 피겨 샛별 신지아…언니들 제친 대담한 연기]]></title>
+            <link>https://tv.naver.com/v/32237125</link>
+            <guid>https://tv.naver.com/v/32237125</guid>
+            <pubDate>Mon, 09 Jan 2023 07:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_200/0ffPs_1673246944067OAUGJ_JPEG/cover_0000241576_001_20230109154401674.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[李, 4년 2개월 만에 성남지청 출석…지지자 집결 예상]]></title>
             <link>https://tv.naver.com/v/32234418</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 08 Jan 2023 11:15:38 GMT</pubDate>
             <content:encoded><![CDATA[0:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230108_115/TqRlr_1673176169687ANywB_JPEG/cover_0000241542_001_20230108200901583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OPEN 인터뷰]‘기안84’ 나혼자 한다?…만화 대부 이현세 “AI가 절반”]]></title>
-            <link>https://tv.naver.com/v/32214310</link>
-            <guid>https://tv.naver.com/v/32214310</guid>
-            <pubDate>Sun, 08 Jan 2023 07:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[10:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230108_285/30q2X_1673160198721GoXDj_JPEG/cover_0000241502_001_20230108153801617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
