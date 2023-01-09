@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 22:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 23:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 아침 반짝 추위, 일교차 주의…곳곳 미세먼지 '나쁨']]></title>
+            <link>https://tv.naver.com/v/32256323</link>
+            <guid>https://tv.naver.com/v/32256323</guid>
+            <pubDate>Mon, 09 Jan 2023 23:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_296/Z15NE_1673306185165DzqOz_JPEG/cover_0000328180_001_20230110081601570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이자 장사로 '역대급 성과급'…3시반 단축영업은 그대로?]]></title>
             <link>https://tv.naver.com/v/32249665</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 09 Jan 2023 10:22:06 GMT</pubDate>
             <content:encoded><![CDATA[11:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_13/Sib4b_1673258294940LSaMW_JPEG/cover_0000328127_001_20230109185501509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교도소 안 왕처럼 군림한 '재소자'…마약성 약품 유통도]]></title>
-            <link>https://tv.naver.com/v/32242690</link>
-            <guid>https://tv.naver.com/v/32242690</guid>
-            <pubDate>Mon, 09 Jan 2023 10:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_82/3hcEr_1673256881074vLHsx_JPEG/cover_0000263720_001_20230109183301537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
