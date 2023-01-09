@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 12:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 13:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OPEN 인터뷰]‘까치 탐낸’ 최민수 vs 이병헌, 승자는?]]></title>
+            <link>https://tv.naver.com/v/32247854</link>
+            <guid>https://tv.naver.com/v/32247854</guid>
+            <pubDate>Mon, 09 Jan 2023 13:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[6:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_223/q68G2_1673268015272aA4Lo_JPEG/cover_0000241614_001_20230109213701603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]내일도 미세먼지 기승…이번 주 평년보다 포근, 큰 일교차 유의]]></title>
             <link>https://tv.naver.com/v/32245643</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 09 Jan 2023 11:17:58 GMT</pubDate>
             <content:encoded><![CDATA[10:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230109_97/c9ZvG_1673261232805SdYfp_PNG/cover_0000241585_001_20230109194201659.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[부실공사 후 “그냥 사세요”…‘조롱 쪽지’에 원희룡 뿔났다]]></title>
-            <link>https://tv.naver.com/v/32244232</link>
-            <guid>https://tv.naver.com/v/32244232</guid>
-            <pubDate>Mon, 09 Jan 2023 11:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230109_276/IJID7_1673260983492szozU_PNG/cover_0000241584_001_20230109194124027.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
