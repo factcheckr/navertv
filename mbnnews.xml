@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 06:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 07:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/32267344</link>
+            <guid>https://tv.naver.com/v/32267344</guid>
+            <pubDate>Tue, 10 Jan 2023 07:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_75/WZcnM_16733336193928igWU_JPEG/cover_cover_20230110154936_20_845_1317788_1080_7_20230110155301194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명 '성남FC 후원금 의혹' 검찰 소환…이 시각 성남지청]]></title>
+            <link>https://tv.naver.com/v/32266776</link>
+            <guid>https://tv.naver.com/v/32266776</guid>
+            <pubDate>Tue, 10 Jan 2023 07:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_32/y0ZkC_1673332529431Gtize_JPEG/cover_cover_20230110153004_20_812_1317786_1080_7_20230110153301220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 김만배 '부장판사 술값 대납' 정황 포착 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/32264993</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 09 Jan 2023 23:21:23 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_278/0eynQ_1673305423846eCWCK_JPEG/cover_cover_20230110075937_20_605_1317754_1080_7_20230110080301184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 북한, 새해 첫 '체육의 날'!]]></title>
-            <link>https://tv.naver.com/v/32256187</link>
-            <guid>https://tv.naver.com/v/32256187</guid>
-            <pubDate>Mon, 09 Jan 2023 23:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_209/dQbEB_1673305307665XfjXY_JPEG/cover_cover_20230110075709_20_605_1317753_1080_7_20230110080101164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 러시아 아이스링크, 문 닫은 이유는?]]></title>
-            <link>https://tv.naver.com/v/32256162</link>
-            <guid>https://tv.naver.com/v/32256162</guid>
-            <pubDate>Mon, 09 Jan 2023 23:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_51/MxeFw_1673305184774PJaRu_JPEG/cover_cover_20230110075516_20_605_1317752_1080_7_20230110075901149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
