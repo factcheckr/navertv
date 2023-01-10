@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 20:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 21:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32284064</link>
+            <guid>https://tv.naver.com/v/32284064</guid>
+            <pubDate>Tue, 10 Jan 2023 21:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_259/deevg_16733851732353fJhy_JPEG/cover_0001027253_001_20230111061201155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국 "한국인 단기비자 전면 중단"…입국규제 보복 조치]]></title>
+            <link>https://tv.naver.com/v/32283902</link>
+            <guid>https://tv.naver.com/v/32283902</guid>
+            <pubDate>Tue, 10 Jan 2023 21:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_259/vGfjg_1673383267843D64K5_JPEG/cover_0001027236_001_20230111054003008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/32283384</link>
@@ -46,14 +62,6 @@
             <pubDate>Tue, 10 Jan 2023 18:23:28 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_118/1nQFb_16733713864519ata2_JPEG/cover_0001027237_001_20230111022201130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 "한국인 단기비자 전면 중단"…입국규제 보복 조치]]></title>
-            <link>https://tv.naver.com/v/32282980</link>
-            <guid>https://tv.naver.com/v/32282980</guid>
-            <pubDate>Tue, 10 Jan 2023 18:23:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_278/INxlN_1673370666629WSP93_JPEG/cover_0001027236_001_20230111021001175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나경원, 저출산부위원장 사의…"어떤 결정이 도움될지 고민"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 10 Jan 2023 12:36:51 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_191/xam18_1673354129058fdgHX_JPEG/cover_0001027192_001_20230110213401173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] '전세사기' 시작은 2015년 화곡동, 막을 수 있었는데…]]></title>
-            <link>https://tv.naver.com/v/32277259</link>
-            <guid>https://tv.naver.com/v/32277259</guid>
-            <pubDate>Tue, 10 Jan 2023 12:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[6:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_136/w33cP_1673354177837MURT1_JPEG/cover_0001027194_001_20230110213329522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
