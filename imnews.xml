@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 09:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 10:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 돌아온 양사장.. “쳐다보던 두산 벤치 그리웠다”]]></title>
+            <link>https://tv.naver.com/v/32302759</link>
+            <guid>https://tv.naver.com/v/32302759</guid>
+            <pubDate>Wed, 11 Jan 2023 10:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[5:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_260/zmubz_1673432116490Vcfdw_JPEG/cover_cover_230111_doosan_640_20230111190806897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서쪽 초미세먼지‥낮 기온↑, 일교차 커]]></title>
             <link>https://tv.naver.com/v/32300551</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Jan 2023 04:23:34 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_226/WQGvF_1673407705899jAPyU_JPEG/cover_cover_noon_20230111_121830_1_13_Large_20230111122814695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고객 정보 유출 LG유플러스 데이터센터 현장조사]]></title>
-            <link>https://tv.naver.com/v/32290407</link>
-            <guid>https://tv.naver.com/v/32290407</guid>
-            <pubDate>Wed, 11 Jan 2023 04:23:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_91/F2YYD_16734077001676nVBv_JPEG/cover_cover_noon_20230111_121746_1_12_Large_20230111122805978.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
