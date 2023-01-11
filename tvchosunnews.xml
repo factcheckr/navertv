@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 10:25:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 11:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월 11일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/32303950</link>
+            <guid>https://tv.naver.com/v/32303950</guid>
+            <pubDate>Wed, 11 Jan 2023 11:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_42/j5wT5_1673434303820Q4gwp_JPEG/cover_2023011190154_thumb_074814_20230111195101583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 이재명 '기소' 방침 세운 검찰…구속영장 청구 가능성은?]]></title>
             <link>https://tv.naver.com/v/32303100</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 10 Jan 2023 13:27:20 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230110_101/DToMK_1673355680586Vivof_JPEG/cover_2023011090229_thumb_095705_20230110220108550.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 미세먼지 '나쁨'…포근한 날씨 계속]]></title>
-            <link>https://tv.naver.com/v/32278044</link>
-            <guid>https://tv.naver.com/v/32278044</guid>
-            <pubDate>Tue, 10 Jan 2023 13:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230110_194/OwuKA_1673355692776E4h0j_JPEG/cover_2023011090227_thumb_095639_20230110220101616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
