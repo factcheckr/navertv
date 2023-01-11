@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 01:37:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 02:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국만 겨냥한 조치?]]></title>
+            <link>https://tv.naver.com/v/32288026</link>
+            <guid>https://tv.naver.com/v/32288026</guid>
+            <pubDate>Wed, 11 Jan 2023 02:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_68/CexT5_1673402614787Q1lSO_JPEG/cover_cover_desk_20230110_195814_1_8_Large_20230111110302900.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12시간 조사‥"답 정해져‥기소할 것 명백"]]></title>
             <link>https://tv.naver.com/v/32286388</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 10 Jan 2023 23:19:13 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_201/IZbmV_1673391128761TpRMc_JPEG/cover_cover_today_20230111_065402_2_16_Large_20230111075145005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[와글와글] 머스크, 개인 제트기 134차례 운행]]></title>
-            <link>https://tv.naver.com/v/32284671</link>
-            <guid>https://tv.naver.com/v/32284671</guid>
-            <pubDate>Tue, 10 Jan 2023 23:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_193/uMigZ_16733911125734LftD_JPEG/cover_cover_today_20230111_065312_2_15_Large_20230111075137155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
