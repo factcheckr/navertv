@@ -4,7 +4,7 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 13:29:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 14:26:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Wed, 11 Jan 2023 13:29:04 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_197/AGcRw_1673443149544RmAjC_JPEG/cover_0000328431_001_20230111221801590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건희 여사 과감한 내조?…기로에 선 이재명?｜뉴스룸 뒤(D)]]></title>
+            <link>https://tv.naver.com/v/32308284</link>
+            <guid>https://tv.naver.com/v/32308284</guid>
+            <pubDate>Wed, 11 Jan 2023 14:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[41:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_254/zxA5U_1673444174739Ecg4E_JPEG/cover_0000328447_001_20230111221619755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[트리거] 프랑스는 대통령이 나서 '조력사망' 공론화…스위스도 80년째 논쟁 중]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Jan 2023 10:24:18 GMT</pubDate>
             <content:encoded><![CDATA[13:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_217/hqZCG_1673429561599CwcFf_JPEG/cover_0000328417_001_20230111182901497.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "기소 명백"…민주당 '단일대오'에 국민의힘 "조폭"]]></title>
-            <link>https://tv.naver.com/v/32301586</link>
-            <guid>https://tv.naver.com/v/32301586</guid>
-            <pubDate>Wed, 11 Jan 2023 10:24:18 GMT</pubDate>
-            <content:encoded><![CDATA[11:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_201/yPIiC_1673428992924FDPAS_JPEG/cover_0000328415_001_20230111181901517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
