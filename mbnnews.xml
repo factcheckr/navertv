@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 20:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 21:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[329회_한파 피해 및 연휴 화재 예방법]]></title>
+            <link>https://tv.naver.com/v/32341823</link>
+            <guid>https://tv.naver.com/v/32341823</guid>
+            <pubDate>Thu, 12 Jan 2023 21:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[14:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_220/uIEW4_1673557700485DaT60_JPEG/cover_cover_20230113055736_20_849_1318047_1080_7_20230113060101159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBN 뉴스7 오프닝 '자진 귀국' - 2023년 1월 12일]]></title>
             <link>https://tv.naver.com/v/32334455</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 Jan 2023 10:25:01 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_156/JlRHn_1673518713425AzTPc_JPEG/cover_cover_20230112191323_20_552_1318013_1080_7_20230112191701141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스7] 대장동 일당 추가 기소…"기밀 공유 7,800억 원 챙겨"]]></title>
-            <link>https://tv.naver.com/v/32332267</link>
-            <guid>https://tv.naver.com/v/32332267</guid>
-            <pubDate>Thu, 12 Jan 2023 10:25:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_203/mlGKl_167351858044341l1D_JPEG/cover_cover_20230112191205_20_552_1318012_1080_7_20230112191501174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
