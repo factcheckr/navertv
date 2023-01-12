@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 06:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 07:18:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Thu, 12 Jan 2023 06:25:29 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_297/ISS57_1673504493638vG4Kv_JPEG/cover_cover_20230112132305_20_606_1317990_1080_7_20230112152019249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건희 여사, 대구 서문시장 단독 방문…운신의 폭 넓히나]]></title>
+            <link>https://tv.naver.com/v/32325066</link>
+            <guid>https://tv.naver.com/v/32325066</guid>
+            <pubDate>Thu, 12 Jan 2023 07:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[13:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_103/7uQmO_1673505007006N7wjX_JPEG/cover_cover_20230112131752_20_606_1317986_1080_7_20230112152001230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나경원, 윤심 멀어져도 '당심 1위'…김기현을 지지율 두 배로 약진]]></title>
+            <link>https://tv.naver.com/v/32325047</link>
+            <guid>https://tv.naver.com/v/32325047</guid>
+            <pubDate>Thu, 12 Jan 2023 07:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[23:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_227/zPMzo_1673505322369gSXgS_JPEG/cover_cover_20230112131635_20_606_1317985_1080_7_20230112151911170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 11 Jan 2023 23:21:30 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230112_185/YObNv_1673478387971ru7Wj_JPEG/cover_cover_20230112075855_20_605_1317959_1080_7_20230112080503789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저축은행 5곳, 거짓 서류로 1조 2천억 원 대출]]></title>
-            <link>https://tv.naver.com/v/32314436</link>
-            <guid>https://tv.naver.com/v/32314436</guid>
-            <pubDate>Wed, 11 Jan 2023 23:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_189/BTgVc_1673478206485yb4Uq_JPEG/cover_cover_20230112075728_20_605_1317958_1080_7_20230112080301191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝MBN 날씨]이례적인 초봄 날씨…밤부터 전국 비]]></title>
-            <link>https://tv.naver.com/v/32314423</link>
-            <guid>https://tv.naver.com/v/32314423</guid>
-            <pubDate>Wed, 11 Jan 2023 23:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230112_182/QvcY5_1673478101269URLF3_JPEG/cover_cover_20230112075534_20_605_1317957_1080_7_20230112080101174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
