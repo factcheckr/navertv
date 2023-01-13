@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 13:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 14:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 39.4mm 비 내려…내일도 가끔 비 기온 10~11도]]></title>
+            <link>https://tv.naver.com/v/32366719</link>
+            <guid>https://tv.naver.com/v/32366719</guid>
+            <pubDate>Fri, 13 Jan 2023 14:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_201/TgV3M_1673619085737BVFkm_JPEG/cover_0011410548_001_20230113231101163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 제주 내일 다시 ‘비·눈’…강한 바람·안개 주의]]></title>
             <link>https://tv.naver.com/v/32365734</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Jan 2023 13:26:55 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_35/bkm1r_1673615427012xlMJa_JPEG/cover_0011410538_001_20230113221001205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“부실 의혹, 정관 아쿠아드림파크 엄정 감사 촉구”]]></title>
-            <link>https://tv.naver.com/v/32365399</link>
-            <guid>https://tv.naver.com/v/32365399</guid>
-            <pubDate>Fri, 13 Jan 2023 13:26:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_63/wjZ8E_16736153773713ALlz_JPEG/cover_0011410537_001_20230113220919262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
