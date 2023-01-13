@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 21:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 22:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 13 Jan 2023 10:35:02 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_72/IQfJK_1673587586097yb8ih_JPEG/1673587509570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업발언대] "주거 고민 없는 세상 꿈꿉니다" 박영은 고수플러스 대표]]></title>
+            <link>https://tv.naver.com/v/32349854</link>
+            <guid>https://tv.naver.com/v/32349854</guid>
+            <pubDate>Fri, 13 Jan 2023 22:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[9:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_15/4D0wt_1673584653444rnReS_JPEG/1673573655092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기아 EV6, '북미 올해의 차'…아이오닉6, 유럽서 '최고 안전카']]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Jan 2023 10:24:37 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230111_151/3HwXc_1673430104803Sqh3J_JPEG/1673429934808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝 안 보이는 전쟁…북쪽은 벨라루스 참전설, 동쪽은 연일 포격]]></title>
-            <link>https://tv.naver.com/v/32301149</link>
-            <guid>https://tv.naver.com/v/32301149</guid>
-            <pubDate>Wed, 11 Jan 2023 09:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230111_288/ETzka_1673427850867kJGIc_JPEG/1673427626009.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
