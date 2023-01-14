@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 14:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 15:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강원 영동 등 대설특보…내일까지 70cm 이상 눈 예보]]></title>
+            <link>https://tv.naver.com/v/32385055</link>
+            <guid>https://tv.naver.com/v/32385055</guid>
+            <pubDate>Sat, 14 Jan 2023 15:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_87/CtBTS_1673709234497yYkPd_JPEG/cover_0011410805_001_20230115001301145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[광주보건환경연구원, 겨울 노로바이러스 검출 42.9%]]></title>
             <link>https://tv.naver.com/v/32383363</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 14 Jan 2023 13:21:27 GMT</pubDate>
             <content:encoded><![CDATA[0:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_218/7SGkY_1673701131410QJdjB_JPEG/cover_0011410788_001_20230114215825091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전북 원로시인 고하 최승범 전북대 명예교수 별세]]></title>
-            <link>https://tv.naver.com/v/32382875</link>
-            <guid>https://tv.naver.com/v/32382875</guid>
-            <pubDate>Sat, 14 Jan 2023 13:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_238/1pgxp_1673701114300UyHQG_JPEG/cover_0011410787_001_20230114215819315.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
