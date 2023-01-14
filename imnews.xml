@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 03:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 04:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 강원·영동 폭설‥서울·중부도 밤부터 눈 소식]]></title>
+            <link>https://tv.naver.com/v/32372284</link>
+            <guid>https://tv.naver.com/v/32372284</guid>
+            <pubDate>Sat, 14 Jan 2023 04:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_134/H2Cgk_1673667022084OddOw_JPEG/cover_cover_noon_20230114_121346_1_6_Large_20230114123004456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['해외 도피 중 체포' 김성태 17일 귀국]]></title>
             <link>https://tv.naver.com/v/32372086</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Jan 2023 12:35:46 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_208/rncEV_1673610530455OeuBl_JPEG/cover_cover_desk_20230113_203736_1_26_Large_20230113204235671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이것이 진짜 원더골!'‥'FIFA 올해의 골은?']]></title>
-            <link>https://tv.naver.com/v/32363222</link>
-            <guid>https://tv.naver.com/v/32363222</guid>
-            <pubDate>Fri, 13 Jan 2023 12:35:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_133/v6UzJ_1673610181220oCd5P_JPEG/cover_cover_desk_20230113_203645_1_25_Large_20230113204228796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
