@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 12:33:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 13:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Sat, 14 Jan 2023 11:15:50 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_117/JtXYz_16736935175850uw7E_JPEG/cover_cover_20230114194647_20_906_1318159_1080_7_20230114195101154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치톡톡] 나경원 해임 파문 / 김기현 오차범위 내 1위 / 주말 잊은 당권 주자들]]></title>
-            <link>https://tv.naver.com/v/32380424</link>
-            <guid>https://tv.naver.com/v/32380424</guid>
-            <pubDate>Sat, 14 Jan 2023 11:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[5:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_232/2MunP_1673693390149whFbA_JPEG/cover_cover_20230114194518_20_906_1318158_1080_7_20230114194701193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["정치신파극이냐" vs "이게 정의냐"…나경원 놓고 친윤-비윤 힘겨루기]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 13 Jan 2023 12:36:55 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_244/5x5Wy_1673608841015i0Ufa_JPEG/cover_cover_20230113200735_20_552_1318135_1080_7_20230113201910018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독][뉴스추적] 군인 아빠 '자녀 폭행', 엄마는 10년 동안 왜 참았나]]></title>
+            <link>https://tv.naver.com/v/32362606</link>
+            <guid>https://tv.naver.com/v/32362606</guid>
+            <pubDate>Sat, 14 Jan 2023 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_278/CLWyz_1673608714222M0BlN_JPEG/cover_cover_20230113193014_20_552_1318119_1080_7_20230113201701163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
