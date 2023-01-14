@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 10:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 11:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[한반도 브리핑] 조용히 지나간 김정은 생일…윤대통령 "천배 때릴 능력 확보"]]></title>
+            <link>https://tv.naver.com/v/32379997</link>
+            <guid>https://tv.naver.com/v/32379997</guid>
+            <pubDate>Sat, 14 Jan 2023 11:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[14:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_66/bWt9T_1673692674673B3FuF_JPEG/cover_cover_MYH20230114010300641_20230114193102838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["이재명 대법 판결 뒤집어"…'재판거래' 의혹 재조명]]></title>
+            <link>https://tv.naver.com/v/32379723</link>
+            <guid>https://tv.naver.com/v/32379723</guid>
+            <pubDate>Sat, 14 Jan 2023 11:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_5/3mC4f_1673691611929EvVYO_JPEG/cover_cover_MYH20230114010400641_20230114191902425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주말에도 사법리스크 공방…"일상 된 거짓말"·"가짜뉴스"]]></title>
             <link>https://tv.naver.com/v/32379571</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 14 Jan 2023 07:16:39 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_261/tmhVb_1673679196851o6PU8_JPEG/cover_cover_MYH20230114007200641_20230114155203646.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브라질 전 법무장관 자택서 '쿠데타 계획' 문건 발견]]></title>
-            <link>https://tv.naver.com/v/32375786</link>
-            <guid>https://tv.naver.com/v/32375786</guid>
-            <pubDate>Sat, 14 Jan 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_141/5Bvoe_1673679114463XVJp0_JPEG/cover_cover_MYH20230114007100032_20230114155004166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비트코인 가격, 두 달만에 2만 달러 넘어]]></title>
-            <link>https://tv.naver.com/v/32375632</link>
-            <guid>https://tv.naver.com/v/32375632</guid>
-            <pubDate>Sat, 14 Jan 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_270/9cTkR_1673678846698FW3Xa_JPEG/cover_cover_MYH20230114007000032_20230114154302024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
