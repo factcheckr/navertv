@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 05:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 06:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]울산선거개입 1탄, ‘VIP 친구’ 송철호]]></title>
+            <link>https://tv.naver.com/v/32374912</link>
+            <guid>https://tv.naver.com/v/32374912</guid>
+            <pubDate>Sat, 14 Jan 2023 06:23:38 GMT</pubDate>
+            <content:encoded><![CDATA[17:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_268/8Ir2b_1673676849073bejfE_JPEG/cover_0000241931_001_20230114150601667.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앵커의 마침표]제 식구 감싸기]]></title>
             <link>https://tv.naver.com/v/32364127</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Jan 2023 12:36:47 GMT</pubDate>
             <content:encoded><![CDATA[15:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_107/gUVr0_1673612179827uQrNG_JPEG/cover_0000241897_001_20230113210701666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아오는 ‘키맨’ 김성태…‘대북송금 의혹’도 입 열까]]></title>
-            <link>https://tv.naver.com/v/32363741</link>
-            <guid>https://tv.naver.com/v/32363741</guid>
-            <pubDate>Fri, 13 Jan 2023 12:36:47 GMT</pubDate>
-            <content:encoded><![CDATA[15:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_279/cWzY6_1673612114798vyrTn_JPEG/cover_0000241896_001_20230113210539359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
