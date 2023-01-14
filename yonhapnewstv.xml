@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Jan 2023 19:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jan 2023 20:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 581회]]></title>
+            <link>https://tv.naver.com/v/32387195</link>
+            <guid>https://tv.naver.com/v/32387195</guid>
+            <pubDate>Sat, 14 Jan 2023 20:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[30:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_147/u01bx_1673726781054obGFr_JPEG/cover_cover_MYH20230113014700641_20230115050102314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['의원 기득권은 시민 이익 아니다'…선거제 개편 방향은? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/32382937</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 14 Jan 2023 08:23:25 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_152/6ZgFn_1673683074633GKYAl_JPEG/cover_cover_MYH20230114007400641_20230114165702159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤대통령, 오늘 UAE 국빈 방문…6박 8일 새해 첫 순방 시작]]></title>
-            <link>https://tv.naver.com/v/32376210</link>
-            <guid>https://tv.naver.com/v/32376210</guid>
-            <pubDate>Sat, 14 Jan 2023 07:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_17/VAP8D_1673680266251MkPVn_JPEG/cover_cover_MYH20230114007300641_20230114161003663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
