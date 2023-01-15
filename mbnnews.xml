@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 08:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 09:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 15 Jan 2023 08:24:19 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230115_233/MQxrD_1673770403893rISWj_JPEG/cover_cover_20230115170527_20_813_1318178_1080_7_20230115171301166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘 차기 당 대표는 누구? [시사스페셜]]]></title>
+            <link>https://tv.naver.com/v/32394368</link>
+            <guid>https://tv.naver.com/v/32394368</guid>
+            <pubDate>Sun, 15 Jan 2023 09:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[28:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_15/TfUDC_16737711516039rnLE_JPEG/cover_cover_20230115170255_20_813_1318177_1080_7_20230115170903452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민의힘 내홍 '점입가경' [시사스페셜]]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Jan 2023 12:36:55 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230113_37/9dGJi_1673610021446i6Xmp_JPEG/cover_cover_20230113202435_20_552_1318122_1080_7_20230113203901204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 이태원 참사 수사 종결…6명 구속]]></title>
-            <link>https://tv.naver.com/v/32363099</link>
-            <guid>https://tv.naver.com/v/32363099</guid>
-            <pubDate>Fri, 13 Jan 2023 12:36:55 GMT</pubDate>
-            <content:encoded><![CDATA[5:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230113_271/7DrMJ_1673610008461SQjfN_JPEG/cover_cover_20230113202150_20_536_1318139_1080_7_20230113203701273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
