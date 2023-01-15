@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Jan 2023 03:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 04:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트 예고] "함께 살 준비가 되었나요"·덮어 놓고 "이권 카르텔"?]]></title>
+            <link>https://tv.naver.com/v/32390208</link>
+            <guid>https://tv.naver.com/v/32390208</guid>
+            <pubDate>Sun, 15 Jan 2023 04:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230115_226/IEJEd_1673754507547SDoUw_JPEG/cover_cover_ph230115-9_20230115124803420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]  강원·영동 폭설‥해안가 강풍 '주의']]></title>
             <link>https://tv.naver.com/v/32389695</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 14 Jan 2023 06:22:25 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230114_278/YQB5w_1673674329625Y3TlE_JPEG/cover_cover_u20230114-0_20230114143102559.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 강원·영동 폭설‥서울·중부도 밤부터 눈 소식]]></title>
-            <link>https://tv.naver.com/v/32372284</link>
-            <guid>https://tv.naver.com/v/32372284</guid>
-            <pubDate>Sat, 14 Jan 2023 04:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230114_134/H2Cgk_1673667022084OddOw_JPEG/cover_cover_noon_20230114_121346_1_6_Large_20230114123004456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
