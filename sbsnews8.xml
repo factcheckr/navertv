@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 02:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 03:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32410332</link>
+            <guid>https://tv.naver.com/v/32410332</guid>
+            <pubDate>Mon, 16 Jan 2023 03:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_80/7vS2M_1673838840222FNoQk_JPEG/cover_0001028586_001_20230116121308278.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[SDF2022] 더 나은 민주주의, 개헌으로 열자! | 김진표 제21대 국회 후반기 국회의장]]></title>
             <link>https://tv.naver.com/v/32408048</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 15 Jan 2023 22:17:22 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230116_294/1S0pZ_1673818269324nAgYR_JPEG/cover_0001028497_001_20230116063001219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[72명 탄 네팔 여객기 추락…"한국인 2명 생사 확인 중"]]></title>
-            <link>https://tv.naver.com/v/32405351</link>
-            <guid>https://tv.naver.com/v/32405351</guid>
-            <pubDate>Sun, 15 Jan 2023 22:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_12/qfaFu_1673818105890vcW17_JPEG/cover_0001028495_001_20230116062701127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
