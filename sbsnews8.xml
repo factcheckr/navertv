@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 15:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 16:27:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명에 2차 소환 통보…이번에는 '대장동·위례' 의혹]]></title>
+            <link>https://tv.naver.com/v/32431007</link>
+            <guid>https://tv.naver.com/v/32431007</guid>
+            <pubDate>Mon, 16 Jan 2023 16:25:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_112/oezQ7_1673886133584iHofE_JPEG/cover_0001028750_001_20230117012101137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인천 부평구 마트 창고서 화재]]></title>
             <link>https://tv.naver.com/v/32430121</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 16 Jan 2023 13:27:17 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230116_247/DRLDC_1673873750465GlJbo_JPEG/cover_0001028734_001_20230116215526914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 내일 아침도 강추위 계속…밤에 중부 곳곳 눈]]></title>
-            <link>https://tv.naver.com/v/32426724</link>
-            <guid>https://tv.naver.com/v/32426724</guid>
-            <pubDate>Mon, 16 Jan 2023 13:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_35/S9xoo_1673873759295KsNk7_JPEG/cover_0001028739_001_20230116215509247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
