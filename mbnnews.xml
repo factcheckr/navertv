@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 06:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 07:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 뉴스와이드] '윤석열차' 문체부 경고 공방]]></title>
+            <link>https://tv.naver.com/v/32417032</link>
+            <guid>https://tv.naver.com/v/32417032</guid>
+            <pubDate>Mon, 16 Jan 2023 07:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[24:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_137/1TbjH_1673853462543RHdOT_JPEG/cover_cover_20221005201229_20_536_1310027_1080_7_20230116160401302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전자발찌 끊고 도주한 모든 범죄자 '신상정보 공개' [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/32411302</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 15 Jan 2023 23:20:12 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230116_190/IxVmG_1673823950881SwLpw_JPEG/cover_cover_20230116075846_20_605_1318218_1080_7_20230116080501154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] '이것'으로 연필 만들어 환경을 지킨다!]]></title>
-            <link>https://tv.naver.com/v/32405975</link>
-            <guid>https://tv.naver.com/v/32405975</guid>
-            <pubDate>Sun, 15 Jan 2023 23:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_171/3qCI3_1673823704306NyFKt_JPEG/cover_cover_20230116075720_20_605_1318217_1080_7_20230116080101242.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
