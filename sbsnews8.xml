@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 14:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 15:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인천 부평구 마트 창고서 화재]]></title>
+            <link>https://tv.naver.com/v/32430121</link>
+            <guid>https://tv.naver.com/v/32430121</guid>
+            <pubDate>Mon, 16 Jan 2023 15:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_113/CkNRZ_1673882236640Sq3mm_JPEG/cover_0001028747_001_20230117001701142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경제 행보에 힘준 윤 대통령…수출 1호 바라카원전 방문]]></title>
             <link>https://tv.naver.com/v/32427484</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 16 Jan 2023 13:27:17 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230116_35/S9xoo_1673873759295KsNk7_JPEG/cover_0001028739_001_20230116215509247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/32426709</link>
-            <guid>https://tv.naver.com/v/32426709</guid>
-            <pubDate>Mon, 16 Jan 2023 13:27:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230116_135/P2Vyd_1673873711676dip8E_JPEG/cover_0001028740_001_20230116215501161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
