@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 06:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 07:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/32444775</link>
+            <guid>https://tv.naver.com/v/32444775</guid>
+            <pubDate>Tue, 17 Jan 2023 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_296/KEJNc_16739381871282YCJU_JPEG/cover_cover_20230117154501_20_845_1318349_1080_7_20230117154901157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MBN 뉴스파이터-2022년 9월 1일 김명준 앵커 오프닝]]></title>
             <link>https://tv.naver.com/v/32443674</link>
@@ -14,6 +22,14 @@
             <pubDate>Tue, 17 Jan 2023 06:24:16 GMT</pubDate>
             <content:encoded><![CDATA[0:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_121/BBnS4_1673936433355sx0X6_JPEG/cover_cover_20220901183442_20_673_1307318_1080_7_20230117152001231.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 뉴스와이드] 이재명 검찰 소환 통보에…"정치 보복" vs "대선 전 문제"]]></title>
+            <link>https://tv.naver.com/v/32443650</link>
+            <guid>https://tv.naver.com/v/32443650</guid>
+            <pubDate>Tue, 17 Jan 2023 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[19:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_158/Wylpb_1673936994963ASzEK_JPEG/cover_cover_20220901201031_20_536_1307358_1080_7_20230117151901176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[D뉴스] 쌍방울 김성태 입국 "이재명 모른다…검찰에 소명할 것"]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 16 Jan 2023 23:20:12 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_34/3iL05_1673910531412SNEig_JPEG/cover_cover_20230117075448_20_605_1318317_1080_7_20230117075901170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝MBN 날씨]오늘 아침도 강추위…밤에 중부 눈 조금]]></title>
-            <link>https://tv.naver.com/v/32433148</link>
-            <guid>https://tv.naver.com/v/32433148</guid>
-            <pubDate>Mon, 16 Jan 2023 23:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_119/cyaDy_1673909741787ameuy_JPEG/cover_cover_20230117075148_20_605_1318316_1080_7_20230117075501164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 이민자 이야기 빛을 발하다…파친코, 크리틱스초이스 수상]]></title>
-            <link>https://tv.naver.com/v/32433116</link>
-            <guid>https://tv.naver.com/v/32433116</guid>
-            <pubDate>Mon, 16 Jan 2023 23:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_60/7DeTo_1673909533397w0NeG_JPEG/cover_cover_20230117074657_20_605_1318315_1080_7_20230117075101151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
