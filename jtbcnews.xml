@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 22:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 23:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 강추위 주춤…중서부 초미세먼지 '나쁨']]></title>
+            <link>https://tv.naver.com/v/32461426</link>
+            <guid>https://tv.naver.com/v/32461426</guid>
+            <pubDate>Tue, 17 Jan 2023 23:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_41/iskMe_1673997564397SMPPa_JPEG/cover_0000329139_001_20230118081901479.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진열대 엎고 바닥에 드러누운 맨발의 여성…상품 불만에 백화점서 난동｜도시락 있슈]]></title>
             <link>https://tv.naver.com/v/32460873</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 17 Jan 2023 09:18:41 GMT</pubDate>
             <content:encoded><![CDATA[12:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_257/Spnlm_1673946634078dWnbU_JPEG/cover_0000329085_001_20230117180601659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D:이슈] '세계 10대 수배자' 마피아 두목, 도주 30년 만에 붙잡혀]]></title>
-            <link>https://tv.naver.com/v/32447338</link>
-            <guid>https://tv.naver.com/v/32447338</guid>
-            <pubDate>Tue, 17 Jan 2023 08:25:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_258/OgItd_1673942763055ci5Ah_JPEG/cover_0000329079_001_20230117170501654.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
