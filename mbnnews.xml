@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 20:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 21:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[331회_코로나19 전망 및 방역수칙]]></title>
+            <link>https://tv.naver.com/v/32460655</link>
+            <guid>https://tv.naver.com/v/32460655</guid>
+            <pubDate>Tue, 17 Jan 2023 21:18:48 GMT</pubDate>
+            <content:encoded><![CDATA[15:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_124/PFVmm_1673989724216Rdd6Y_JPEG/cover_cover_20230118055618_20_849_1318408_1080_7_20230118060201204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7] 독자기술 KF-21 첫 마하 벽 뚫었다…오는 2026년 이후 전력화]]></title>
             <link>https://tv.naver.com/v/32457269</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 17 Jan 2023 10:22:27 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230117_203/bXb1S_16739508255221S10k_JPEG/cover_cover_20230117191558_20_552_1318375_1080_7_20230117191901171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스7] 수원지검서 조사받는 김성태…수사 초점은, 영장청구는 언제?]]></title>
-            <link>https://tv.naver.com/v/32451130</link>
-            <guid>https://tv.naver.com/v/32451130</guid>
-            <pubDate>Tue, 17 Jan 2023 10:22:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230117_51/d4II4_1673950709977u9UEm_JPEG/cover_cover_20230117191402_20_552_1318374_1080_7_20230117191701294.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
