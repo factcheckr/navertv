@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 16:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 17:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키이우 외곽에 헬리콥터 추락...내무부 장차관 사망]]></title>
+            <link>https://tv.naver.com/v/32487374</link>
+            <guid>https://tv.naver.com/v/32487374</guid>
+            <pubDate>Wed, 18 Jan 2023 17:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_63/EXE7R_1674060081781n07bE_JPEG/cover_cover_202301181844423371_t_20230119014102240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검찰, 김성태 구속영장 청구...배임·횡령 혐의부터]]></title>
             <link>https://tv.naver.com/v/32486702</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 18 Jan 2023 14:18:24 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_193/j3xCZ_1674048382793r8Jno_JPEG/cover_cover_202301181819018925_t_20230118222514451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["취업 실패"...세상과 담쌓은 서울 청년 13만 명]]></title>
-            <link>https://tv.naver.com/v/32483669</link>
-            <guid>https://tv.naver.com/v/32483669</guid>
-            <pubDate>Wed, 18 Jan 2023 13:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_269/TH4nA_1674048364647o1cI3_JPEG/cover_cover_202301181659238923_t_20230118222501898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
