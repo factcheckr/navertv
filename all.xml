@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 15:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 16:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 시각 소방청 상황실 (KBS뉴스 ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32486248</link>
+            <guid>https://tv.naver.com/v/32486248</guid>
+            <pubDate>Wed, 18 Jan 2023 16:26:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_87/dBF9O_1674055650241FsraD_JPEG/cover_0011413246_001_20230119002701143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“물 부으면 더 위험”…안전한 명절 보내려면 (KBS뉴스 ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/32486157</link>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 18 Jan 2023 15:20:22 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_272/CXzhY_1674055181290BGYpb_JPEG/cover_0011413247_001_20230119001914079.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 소방청 상황실 (KBS뉴스 ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32486152</link>
-            <guid>https://tv.naver.com/v/32486152</guid>
-            <pubDate>Wed, 18 Jan 2023 15:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_135/oUtOc_16740551787551fF1R_JPEG/cover_0011413246_001_20230119001907955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국영화 맞대결…설 연휴 어떤 영화 볼까? (KBS뉴스 ─ 네이버TV)]]></title>
@@ -968,6 +968,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_265/y35SL_16740396544962izci_JPEG/cover_0000329245_001_20230118200001591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[속보] 검찰, 김성태 전 쌍방울 회장 구속영장 청구 (연합뉴스TV ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32486918</link>
+            <guid>https://tv.naver.com/v/32486918</guid>
+            <pubDate>Wed, 18 Jan 2023 16:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_70/fxBJq_1674058160810bBf4B_JPEG/cover_cover_MYH20230119000100038_20230119010902052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[생활날씨] 내일 서쪽 미세먼지 나쁨…밤부터 중부 눈, 비 (연합뉴스TV ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/32484049</link>
             <guid>https://tv.naver.com/v/32484049</guid>
@@ -1198,14 +1206,6 @@
             <pubDate>Wed, 18 Jan 2023 11:16:33 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_49/fUuAk_1674040668606FKdpl_JPEG/cover_cover_MYH20230118018400641_20230118201502875.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['허위 뇌전증' 병역 감면 형제 구속영장 기각 (연합뉴스TV ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32480576</link>
-            <guid>https://tv.naver.com/v/32480576</guid>
-            <pubDate>Wed, 18 Jan 2023 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_111/ZJjOA_16740404716863kmJr_JPEG/cover_cover_MYH20230118018200641_20230118201403905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라 내무장관 탄 헬기 키이우 외곽 추락…최소 16명 숨져 (연합뉴스 ─ 네이버TV)]]></title>
@@ -1448,6 +1448,46 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230116_271/vXOOO_167385900973561fOD_JPEG/1673858497036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[검찰, 김성태 구속영장 청구...배임·횡령 혐의부터 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32486702</link>
+            <guid>https://tv.naver.com/v/32486702</guid>
+            <pubDate>Wed, 18 Jan 2023 16:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_199/bEzhE_1674057596981o0Rrn_JPEG/cover_cover_202301190052003876_t_20230119005902086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['대장동 의혹' 이재명 "토요일인 28일 검찰 출석" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32486670</link>
+            <guid>https://tv.naver.com/v/32486670</guid>
+            <pubDate>Wed, 18 Jan 2023 16:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_105/LwCYQ_1674057458997g2lUC_JPEG/cover_cover_202301190051477104_t_20230119005709386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명, 28일 검찰 출석..."당당히 맞설 것" (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32486668</link>
+            <guid>https://tv.naver.com/v/32486668</guid>
+            <pubDate>Wed, 18 Jan 2023 16:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_162/7u27A_1674057459626SSn78_JPEG/cover_cover_202301190051210813_t_20230119005703111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['김진영 30점' 여자농구 신한은행, 우리은행 15연승 저지 (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32486460</link>
+            <guid>https://tv.naver.com/v/32486460</guid>
+            <pubDate>Wed, 18 Jan 2023 16:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_183/pMEdz_1674056490451dl7UM_JPEG/cover_cover_202301182202222644_t_20230119004108939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤곡 여성체육대상에 쇼트트랙 최민정·컬링 '팀 킴' (뉴스는 YTN ─ 네이버TV)]]></title>
+            <link>https://tv.naver.com/v/32486455</link>
+            <guid>https://tv.naver.com/v/32486455</guid>
+            <pubDate>Wed, 18 Jan 2023 16:27:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_46/VEA1X_1674056483794ooPPt_JPEG/cover_cover_202301181357498226_t_20230119004101951.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이재명 "尹, 또 외교참사...단세포적 편향외교" (뉴스는 YTN ─ 네이버TV)]]></title>
             <link>https://tv.naver.com/v/32486117</link>
             <guid>https://tv.naver.com/v/32486117</guid>
@@ -1646,46 +1686,6 @@
             <pubDate>Wed, 18 Jan 2023 13:26:21 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_269/TH4nA_1674048364647o1cI3_JPEG/cover_cover_202301181659238923_t_20230118222501898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[촉법소년 주장하며 편의점 직원 폭행한 중학생 징역형 (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32483539</link>
-            <guid>https://tv.naver.com/v/32483539</guid>
-            <pubDate>Wed, 18 Jan 2023 13:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_137/kN7ib_1674047999587pF0yD_JPEG/cover_cover_202301182159173988_t_20230118221935663.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제보는Y] 무인점포 카드 들고 튀어라..."중학생 배후엔 어른이" (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32483534</link>
-            <guid>https://tv.naver.com/v/32483534</guid>
-            <pubDate>Wed, 18 Jan 2023 13:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_216/wTSRT_16740480246375ONUG_JPEG/cover_cover_202301182159056668_t_20230118221927205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주한이란대사관 "2번째 교역 상대 UAE와 관계 발전" 강조 (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32483530</link>
-            <guid>https://tv.naver.com/v/32483530</guid>
-            <pubDate>Wed, 18 Jan 2023 13:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_130/tSoqv_1674047984099PpG7A_JPEG/cover_cover_202301182158553914_t_20230118221919414.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시민단체 "강제 징용 정부 해법은 굴욕"...외교부 항의 행진 (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32483529</link>
-            <guid>https://tv.naver.com/v/32483529</guid>
-            <pubDate>Wed, 18 Jan 2023 13:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_68/s60M3_167404796826220fVC_JPEG/cover_cover_202301182158465569_t_20230118221911845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['판결 이행' 지우려는 日...강제동원 해법 '구상권' 쟁점으로 (뉴스는 YTN ─ 네이버TV)]]></title>
-            <link>https://tv.naver.com/v/32483522</link>
-            <guid>https://tv.naver.com/v/32483522</guid>
-            <pubDate>Wed, 18 Jan 2023 13:26:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_14/JVdEF_1674048016196Abk17_JPEG/cover_cover_202301182158358184_t_20230118221902762.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 감사원 "전현희, 근무지 확인 안된 날 95%"…전현희 "소명 못한 것" (TV조선 뉴스 ─ 네이버TV)]]></title>

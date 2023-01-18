@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 15:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 16:27:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 검찰, 김성태 전 쌍방울 회장 구속영장 청구]]></title>
+            <link>https://tv.naver.com/v/32486918</link>
+            <guid>https://tv.naver.com/v/32486918</guid>
+            <pubDate>Wed, 18 Jan 2023 16:26:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_70/fxBJq_1674058160810bBf4B_JPEG/cover_cover_MYH20230119000100038_20230119010902052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생활날씨] 내일 서쪽 미세먼지 나쁨…밤부터 중부 눈, 비]]></title>
             <link>https://tv.naver.com/v/32484049</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 18 Jan 2023 11:16:33 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_49/fUuAk_1674040668606FKdpl_JPEG/cover_cover_MYH20230118018400641_20230118201502875.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['허위 뇌전증' 병역 감면 형제 구속영장 기각]]></title>
-            <link>https://tv.naver.com/v/32480576</link>
-            <guid>https://tv.naver.com/v/32480576</guid>
-            <pubDate>Wed, 18 Jan 2023 11:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_111/ZJjOA_16740404716863kmJr_JPEG/cover_cover_MYH20230118018200641_20230118201403905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
