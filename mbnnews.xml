@@ -4,16 +4,32 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 06:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 07:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/32472525</link>
+            <guid>https://tv.naver.com/v/32472525</guid>
+            <pubDate>Wed, 18 Jan 2023 07:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_245/0lAM3_1674024580482iXXVg_JPEG/cover_cover_20230118154330_20_845_1318457_1080_7_20230118154901193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 뉴스와이드] 신평 "권성동만큼 실수 많이 한 대표가 어딨나…윤핵관 말고도 인재 많아"]]></title>
+            <link>https://tv.naver.com/v/32471874</link>
+            <guid>https://tv.naver.com/v/32471874</guid>
+            <pubDate>Wed, 18 Jan 2023 07:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[23:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_244/IbWs1_1674024286716X3KWc_JPEG/cover_cover_20220902200830_20_536_1307444_1080_7_20230118153101159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[단독] 알카에다 계열 조직에 테러자금 송금 시도…불법체류자 추방]]></title>
-            <link>https://tv.naver.com/v/32471617</link>
-            <guid>https://tv.naver.com/v/32471617</guid>
-            <pubDate>Wed, 18 Jan 2023 06:25:35 GMT</pubDate>
+            <link>https://tv.naver.com/v/32471745</link>
+            <guid>https://tv.naver.com/v/32471745</guid>
+            <pubDate>Wed, 18 Jan 2023 07:18:55 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_296/l2mxd_1674023041907Rnt4u_JPEG/cover_cover_20220903142020_20_675_1307478_1080_7_20230118152301428.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_37/qbf6B_167402328213023XqA_JPEG/cover_cover_20220903142020_20_675_1307478_1080_7_20230118152701177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[D뉴스] 김정은 "날 암살하려 했지"…폼페이오 "지금도 그렇다"]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 17 Jan 2023 23:20:42 GMT</pubDate>
             <content:encoded><![CDATA[0:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230118_203/R7Sbt_1673996023903rf2CU_JPEG/cover_cover_20230118075009_20_605_1318426_1080_7_20230118075301169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 영국 블랙풀 타워 화려한 샹들리에 '청소법']]></title>
-            <link>https://tv.naver.com/v/32461170</link>
-            <guid>https://tv.naver.com/v/32461170</guid>
-            <pubDate>Tue, 17 Jan 2023 23:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_116/sUqas_1673995900352jvQ2x_JPEG/cover_cover_20230118074850_20_605_1318425_1080_7_20230118075101174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 말을 타고 뜨거운 불구덩이로?]]></title>
-            <link>https://tv.naver.com/v/32461158</link>
-            <guid>https://tv.naver.com/v/32461158</guid>
-            <pubDate>Tue, 17 Jan 2023 23:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230118_135/H3yM3_1673995781315zdQmx_JPEG/cover_cover_20230118074722_20_605_1318424_1080_7_20230118074901199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
