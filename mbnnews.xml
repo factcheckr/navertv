@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 06:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 07:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/32528590</link>
+            <guid>https://tv.naver.com/v/32528590</guid>
+            <pubDate>Fri, 20 Jan 2023 07:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_179/d8WC9_16741975609991D3yr_JPEG/cover_cover_20230120154831_20_845_1318667_1080_7_20230120155201228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[30일부터 실내마스크 '권고'…대중교통·의료기관 제외 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/32524749</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 19 Jan 2023 23:21:18 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_115/dtcAd_1674168217869E5KX4_JPEG/cover_cover_20230120073745_20_605_1318632_1080_7_20230120074201223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이라크 걸프축구대회 압사 사고…"60여 명 사상"]]></title>
-            <link>https://tv.naver.com/v/32517770</link>
-            <guid>https://tv.naver.com/v/32517770</guid>
-            <pubDate>Thu, 19 Jan 2023 23:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_299/Swy8q_167416805497571mTq_JPEG/cover_cover_20230120073606_20_605_1318631_1080_7_20230120074001211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

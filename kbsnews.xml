@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 06:26:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 07:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[문화가소식] NEW YEAR CONCERT 신년음악회 외]]></title>
+            <link>https://tv.naver.com/v/32527964</link>
+            <guid>https://tv.naver.com/v/32527964</guid>
+            <pubDate>Fri, 20 Jan 2023 07:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_290/BbAyX_1674196097014diSto_JPEG/cover_0011414396_001_20230120152801134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 공기질 탁해… 강원 영동 미세먼지·초미세먼지 ‘나쁨’]]></title>
             <link>https://tv.naver.com/v/32527763</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Jan 2023 04:23:55 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_110/tebh2_1674187798307Mkpqk_JPEG/cover_0011414346_001_20230120130942130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 “세계 복합위기, 협력과 연대로 극복”…순방 마무리]]></title>
-            <link>https://tv.naver.com/v/32524077</link>
-            <guid>https://tv.naver.com/v/32524077</guid>
-            <pubDate>Fri, 20 Jan 2023 04:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_93/NvPA6_1674187819326Vm4MW_JPEG/cover_0011414345_001_20230120130933034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
