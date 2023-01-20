@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 23:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 01:37:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 강남 구룡마을 일대 큰 불…500명 긴급 대피]]></title>
+            <link>https://tv.naver.com/v/32519831</link>
+            <guid>https://tv.naver.com/v/32519831</guid>
+            <pubDate>Fri, 20 Jan 2023 01:37:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_131/P4PYd_1674177419800mfvPy_JPEG/cover_0000242301_001_20230120101601603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]맘대로 없앤 남의 묘…징역 3년 선고]]></title>
             <link>https://tv.naver.com/v/32511863</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 19 Jan 2023 12:37:44 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230119_186/60lA5_1674128347254dOO72_JPEG/cover_0000242256_001_20230119203740832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“3년간 1600억 뜯겼다”…국토부, 불법행위 2070건 확인]]></title>
-            <link>https://tv.naver.com/v/32509742</link>
-            <guid>https://tv.naver.com/v/32509742</guid>
-            <pubDate>Thu, 19 Jan 2023 12:37:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230119_139/3uYNf_16741283237529y6er_JPEG/cover_0000242257_001_20230119203731915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
