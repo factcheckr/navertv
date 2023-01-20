@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 02:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 03:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 1월 20일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/32522924</link>
+            <guid>https://tv.naver.com/v/32522924</guid>
+            <pubDate>Fri, 20 Jan 2023 03:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_261/xadeI_1674184776314Uhdbq_JPEG/cover_cover_MYH20230120007100641_20230120121905109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스포커스] 실내마스크 의무, 30일부터 해제…중대본 발표]]></title>
             <link>https://tv.naver.com/v/32521850</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Jan 2023 01:37:02 GMT</pubDate>
             <content:encoded><![CDATA[3:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_123/A07Jo_1674170493331zc5bR_JPEG/cover_cover_MYH20230120003400641_20230120082003631.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[작년 생산자물가 8.4% 상승…2008년 이후 최대]]></title>
-            <link>https://tv.naver.com/v/32518010</link>
-            <guid>https://tv.naver.com/v/32518010</guid>
-            <pubDate>Thu, 19 Jan 2023 23:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_119/hP51U_16741703159857OvXH_JPEG/cover_cover_MYH20230120003100641_20230120081803515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
