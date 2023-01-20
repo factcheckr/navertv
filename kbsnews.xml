@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 05:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 06:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 공기질 탁해… 강원 영동 미세먼지·초미세먼지 ‘나쁨’]]></title>
+            <link>https://tv.naver.com/v/32527763</link>
+            <guid>https://tv.naver.com/v/32527763</guid>
+            <pubDate>Fri, 20 Jan 2023 06:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_289/y4EOZ_1674195630892MJmSi_JPEG/cover_0011414263_001_20230120152001158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상] 경찰, ‘이태원 닥터카 논란’ 신현영 의원 소환]]></title>
+            <link>https://tv.naver.com/v/32527581</link>
+            <guid>https://tv.naver.com/v/32527581</guid>
+            <pubDate>Fri, 20 Jan 2023 06:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_194/YjSiF_1674195223268n1b1Q_PNG/cover_0011414393_001_20230120151301138.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[강원 ‘신규 확진자’ 730명…강릉 117명, 동해 35명]]></title>
+            <link>https://tv.naver.com/v/32527412</link>
+            <guid>https://tv.naver.com/v/32527412</guid>
+            <pubDate>Fri, 20 Jan 2023 06:24:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_102/FEuuJ_1674194846896BKGnm_JPEG/cover_0011414255_001_20230120150701148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 한파 특보…기온 뚝↓]]></title>
             <link>https://tv.naver.com/v/32525983</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 20 Jan 2023 04:23:55 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230120_93/NvPA6_1674187819326Vm4MW_JPEG/cover_0011414345_001_20230120130933034.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘김성태 구속’에 與 “李 반역 행위”…野 “정적 제거 수사”]]></title>
-            <link>https://tv.naver.com/v/32524066</link>
-            <guid>https://tv.naver.com/v/32524066</guid>
-            <pubDate>Fri, 20 Jan 2023 04:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_152/Ek5Up_1674187799759MBJY1_JPEG/cover_0011414343_001_20230120130915377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김성태 구속영장…‘변호사비’ 빠지고 ‘대북송금’ 새 변수?]]></title>
-            <link>https://tv.naver.com/v/32524061</link>
-            <guid>https://tv.naver.com/v/32524061</guid>
-            <pubDate>Fri, 20 Jan 2023 04:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_255/WWQBR_1674187796247QASGY_JPEG/cover_0011414342_001_20230120130906810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“간소화한 차례상으로 충분합니다”]]></title>
-            <link>https://tv.naver.com/v/32524055</link>
-            <guid>https://tv.naver.com/v/32524055</guid>
-            <pubDate>Fri, 20 Jan 2023 04:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230120_94/L5esN_1674187783480MJKN2_JPEG/cover_0011414341_001_20230120130857810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
