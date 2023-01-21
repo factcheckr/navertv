@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 19:15:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 20:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 582회]]></title>
+            <link>https://tv.naver.com/v/32553706</link>
+            <guid>https://tv.naver.com/v/32553706</guid>
+            <pubDate>Sat, 21 Jan 2023 20:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[30:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230122_22/ySIpt_1674331450535lP3O9_JPEG/cover_cover_MYH20230120013800641_20230122050102240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[한반도 브리핑] 북, 설 연휴 첫날부터 선전매체 동원 '비난전']]></title>
             <link>https://tv.naver.com/v/32548230</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 21 Jan 2023 07:16:40 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230121_194/RGWaS_1674284959795mwjUj_JPEG/cover_cover_MYH20230121010300641_20230121160803731.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 설 연휴 첫날 강추위…내일 전국 곳곳 눈,비]]></title>
-            <link>https://tv.naver.com/v/32545797</link>
-            <guid>https://tv.naver.com/v/32545797</guid>
-            <pubDate>Sat, 21 Jan 2023 07:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_104/0j2uC_1674283921716UiNly_JPEG/cover_cover_MYH20230121010100641_20230121155101923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
