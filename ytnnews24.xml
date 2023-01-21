@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 03:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 04:23:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['우크라이나에 탱크 지원' 불발...50개국 회의에서 합의 실패]]></title>
+            <link>https://tv.naver.com/v/32543407</link>
+            <guid>https://tv.naver.com/v/32543407</guid>
+            <pubDate>Sat, 21 Jan 2023 04:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[3:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_60/qfped_1674271247211HTWo7_JPEG/cover_cover_202301211215250861_t_20230121121901975.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[文 부부 "묵은 아픔 보내고 희망의 새해 맞길"]]></title>
             <link>https://tv.naver.com/v/32543357</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Jan 2023 23:19:52 GMT</pubDate>
             <content:encoded><![CDATA[3:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230121_152/OeVk1_1674253219614BILzy_JPEG/cover_cover_202301210709420735_t_20230121071902285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새벽부터 정체 극심, 서울~대전 3시간 41분...이 시각 교통정보]]></title>
-            <link>https://tv.naver.com/v/32540845</link>
-            <guid>https://tv.naver.com/v/32540845</guid>
-            <pubDate>Fri, 20 Jan 2023 22:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_107/2KLul_1674251619087iYRGb_JPEG/cover_cover_202301210643420862_t_20230121065301699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
