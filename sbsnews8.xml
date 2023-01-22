@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 10:19:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 11:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설날 극심했던 귀성 정체…"내일도 아침부터 막힌다"]]></title>
+            <link>https://tv.naver.com/v/32559722</link>
+            <guid>https://tv.naver.com/v/32559722</guid>
+            <pubDate>Sun, 22 Jan 2023 11:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230122_214/nZOfl_1674386015748opffN_JPEG/cover_0001030129_001_20230122201201130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32559609</link>
+            <guid>https://tv.naver.com/v/32559609</guid>
+            <pubDate>Sun, 22 Jan 2023 11:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230122_12/bjMJo_1674385543159ja7v1_JPEG/cover_0001030128_001_20230122200501144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[건강라이프] 간암 부르는 '간 섬유화'…국내 연구팀이 치료 길 열었다]]></title>
+            <link>https://tv.naver.com/v/32559149</link>
+            <guid>https://tv.naver.com/v/32559149</guid>
+            <pubDate>Sun, 22 Jan 2023 11:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230122_223/BWtSN_1674383176743Y8eSK_JPEG/cover_0001028475_001_20230122192501133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 비상사태 선포에도 격화하는 시위…수백 명 관광객 발까지 묶였다]]></title>
             <link>https://tv.naver.com/v/32557330</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 21 Jan 2023 12:32:37 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230121_143/ayBYH_1674302289626mi91y_JPEG/cover_0001029999_001_20230121205701139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀성길 정체 풀려…"설 당일 가장 많이 몰린다"]]></title>
-            <link>https://tv.naver.com/v/32549880</link>
-            <guid>https://tv.naver.com/v/32549880</guid>
-            <pubDate>Sat, 21 Jan 2023 12:32:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_131/1vWwE_1674302257328tuX27_JPEG/cover_0001029992_001_20230121205621106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["북한, 러시아 용병한테 무기 팔았다"…증거 공개]]></title>
-            <link>https://tv.naver.com/v/32549878</link>
-            <guid>https://tv.naver.com/v/32549878</guid>
-            <pubDate>Sun, 22 Jan 2023 10:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_71/Q28Nq_1674302243772E6NnR_JPEG/cover_0001029996_001_20230121205611113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물가 '확' 올랐는데…세뱃돈은 얼마가 적절할까?]]></title>
-            <link>https://tv.naver.com/v/32549871</link>
-            <guid>https://tv.naver.com/v/32549871</guid>
-            <pubDate>Sun, 22 Jan 2023 10:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_255/EgIVz_1674302227719Qa6Tc_JPEG/cover_0001029998_001_20230121205601157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
