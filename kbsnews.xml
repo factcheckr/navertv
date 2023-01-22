@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 01:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 02:48:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] “누구든 발견한 사람이 먼저”…범인 잡던 경찰, 심폐소생술로 생명 구해]]></title>
+            <link>https://tv.naver.com/v/32554904</link>
+            <guid>https://tv.naver.com/v/32554904</guid>
+            <pubDate>Sun, 22 Jan 2023 02:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230122_31/XzX3l_1674353310033pILJ2_PNG/cover_0011414853_001_20230122110801174.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[기후K][영상] ‘생명의 땅’ 습지, “80% 이번 세기에 사라질 것”]]></title>
             <link>https://tv.naver.com/v/32554400</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 21 Jan 2023 13:21:15 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230121_87/Ty1J4_16743064439436lxgM_JPEG/cover_0011414920_001_20230121220708145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산시, 올해부터 건축 인·허가 통합심의 본격 추진]]></title>
-            <link>https://tv.naver.com/v/32550799</link>
-            <guid>https://tv.naver.com/v/32550799</guid>
-            <pubDate>Sat, 21 Jan 2023 13:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_170/XYGL4_1674306263994E4H0o_JPEG/cover_0011414918_001_20230121220407047.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
