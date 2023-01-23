@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 10:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 11:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월 23일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/32572607</link>
+            <guid>https://tv.naver.com/v/32572607</guid>
+            <pubDate>Mon, 23 Jan 2023 11:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_214/vWglZ_1674471705252q5rOC_JPEG/cover_2023012390065_thumb_075547_20230123200101567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[檢 "대장동 댓글 작업에…김용, 감사 인사"]]></title>
             <link>https://tv.naver.com/v/32570112</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 22 Jan 2023 10:19:42 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230122_102/AUXls_1674382330034wdby5_JPEG/cover_2023012290052_thumb_070556_20230122191101556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1월 22일 '뉴스 7' 헤드라인]]></title>
-            <link>https://tv.naver.com/v/32558873</link>
-            <guid>https://tv.naver.com/v/32558873</guid>
-            <pubDate>Sun, 22 Jan 2023 10:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230122_290/hRNur_1674382006213Btbwj_JPEG/cover_2023012290048_thumb_070341_20230122190610364.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
