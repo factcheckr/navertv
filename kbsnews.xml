@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 03:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 04:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[확 바뀐 새만금, 한번 둘러보세요!]]></title>
+            <link>https://tv.naver.com/v/32566560</link>
+            <guid>https://tv.naver.com/v/32566560</guid>
+            <pubDate>Mon, 23 Jan 2023 04:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_175/3YOE7_1674444120064E8Xjb_JPEG/cover_0011415141_001_20230123122101143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찜질방 지하에서 불…120명 대피]]></title>
             <link>https://tv.naver.com/v/32566451</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 Jan 2023 01:26:58 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230123_106/nXO4I_1674430276580Um9xd_JPEG/cover_0011415202_001_20230123083103397.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군산시, 6·25 전쟁 무공 훈장 찾아주기 사업 시행]]></title>
-            <link>https://tv.naver.com/v/32564873</link>
-            <guid>https://tv.naver.com/v/32564873</guid>
-            <pubDate>Mon, 23 Jan 2023 01:26:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_36/u3rAN_16744301559554Vgk1_JPEG/cover_0011415201_001_20230123082902254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

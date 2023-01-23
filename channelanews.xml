@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 03:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 04:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설 귀경길 정체 시작…“오후 4~5시 절정”]]></title>
+            <link>https://tv.naver.com/v/32566795</link>
+            <guid>https://tv.naver.com/v/32566795</guid>
+            <pubDate>Mon, 23 Jan 2023 04:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_297/aWAb5_1674445461565Eh6cB_JPEG/cover_0000242440_001_20230123124301554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설 극장가는 한미일 영화 ‘삼국지’]]></title>
             <link>https://tv.naver.com/v/32560766</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 21 Jan 2023 11:15:42 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230121_210/BlLAG_167429892467378QU5_JPEG/cover_0000242396_001_20230121200133275.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]설 당일만 추위 주춤하지만 눈·비]]></title>
-            <link>https://tv.naver.com/v/32548929</link>
-            <guid>https://tv.naver.com/v/32548929</guid>
-            <pubDate>Sat, 21 Jan 2023 11:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230121_157/TgZFc_1674298928520wN6qk_JPEG/cover_0000242395_001_20230121200126159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
