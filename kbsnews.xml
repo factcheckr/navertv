@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 14:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 15:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“새벽 1시 정체 해소”…이 시각 귀경길 교통상황]]></title>
+            <link>https://tv.naver.com/v/32576488</link>
+            <guid>https://tv.naver.com/v/32576488</guid>
+            <pubDate>Mon, 23 Jan 2023 15:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_6/Tkv9u_1674484840149qrtre_JPEG/cover_0011415405_001_20230123234001200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강원도 전역 한파특보…수도관 동파 등 피해 주의]]></title>
             <link>https://tv.naver.com/v/32574931</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 Jan 2023 13:26:14 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230123_36/iWvij_1674478833008p2XTo_JPEG/cover_0011415387_001_20230123220017463.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제주 여론조사] 윤석열·오영훈·김광수 평가는?]]></title>
-            <link>https://tv.naver.com/v/32574642</link>
-            <guid>https://tv.naver.com/v/32574642</guid>
-            <pubDate>Mon, 23 Jan 2023 13:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_58/LwSPf_1674478869528b2meG_JPEG/cover_0011415386_001_20230123220010541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
