@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 06:23:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 07:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 광주-서울 3시간 50분…여객선 전면 통제]]></title>
+            <link>https://tv.naver.com/v/32585163</link>
+            <guid>https://tv.naver.com/v/32585163</guid>
+            <pubDate>Tue, 24 Jan 2023 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_160/uxr9e_16745446032993AMg4_JPEG/cover_0011415596_001_20230124161601147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 광주·전남에 대설·한파·강풍 특보]]></title>
+            <link>https://tv.naver.com/v/32585145</link>
+            <guid>https://tv.naver.com/v/32585145</guid>
+            <pubDate>Tue, 24 Jan 2023 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_297/UflKj_1674544560684HLPN4_JPEG/cover_0011415595_001_20230124161501134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대구·경북 고속도로 원활, 평소와 비슷한 교통량 예상]]></title>
             <link>https://tv.naver.com/v/32584177</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 24 Jan 2023 01:35:33 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230124_254/2sLCo_1674518724626Owny3_JPEG/cover_0011415524_001_20230124090506962.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거제시 시립화장장 후보지 압축…2026년 준공 목표]]></title>
-            <link>https://tv.naver.com/v/32579524</link>
-            <guid>https://tv.naver.com/v/32579524</guid>
-            <pubDate>Tue, 24 Jan 2023 01:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_279/SsnKK_1674518713511Buql6_JPEG/cover_0011415523_001_20230124090501167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경남 한파주의보…올겨울 들어 가장 추워]]></title>
-            <link>https://tv.naver.com/v/32579522</link>
-            <guid>https://tv.naver.com/v/32579522</guid>
-            <pubDate>Tue, 24 Jan 2023 01:35:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_111/Dal3Y_1674518665280mfDzo_JPEG/cover_0011415522_001_20230124090414060.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
