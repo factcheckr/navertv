@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 03:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 04:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국 '최강 한파'‥제주 항공편 '전면 중단']]></title>
+            <link>https://tv.naver.com/v/32581995</link>
+            <guid>https://tv.naver.com/v/32581995</guid>
+            <pubDate>Tue, 24 Jan 2023 04:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_43/dCyY4_1674533995477M5YGc_JPEG/cover_cover_noon_20230124_131452_1_1_Large_20230124131903526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 올 겨울 '최강 한파'‥호남·제주 많은 '눈']]></title>
             <link>https://tv.naver.com/v/32579094</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 Jan 2023 04:22:49 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230123_107/tAgdk_1674446902506mnyEz_JPEG/cover_cover_noon_20230123_130259_1_6_Large_20230123130803435.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과일·채소 충분히 먹는 사람 30%도 안 돼]]></title>
-            <link>https://tv.naver.com/v/32567076</link>
-            <guid>https://tv.naver.com/v/32567076</guid>
-            <pubDate>Mon, 23 Jan 2023 04:22:49 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_75/1c5rc_1674446808144k0jhM_JPEG/cover_cover_noon_20230123_130201_1_5_Large_20230123130631896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

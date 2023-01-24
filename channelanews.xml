@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 03:21:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 04:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 체감온도 -24도…제주 항공편 ‘올스톱’]]></title>
+            <link>https://tv.naver.com/v/32581301</link>
+            <guid>https://tv.naver.com/v/32581301</guid>
+            <pubDate>Tue, 24 Jan 2023 04:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_224/HzYhL_1674530780137DgAE4_JPEG/cover_0000242486_001_20230124122508681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 연휴 막바지 귀경 행렬…오후 3~4시 혼잡 극심]]></title>
+            <link>https://tv.naver.com/v/32581297</link>
+            <guid>https://tv.naver.com/v/32581297</guid>
+            <pubDate>Tue, 24 Jan 2023 04:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_212/ENOlp_1674530758479yGVyN_JPEG/cover_0000242485_001_20230124122501542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금성과 토성 데이트하는 밤…16년 만의 ‘우주쇼’]]></title>
             <link>https://tv.naver.com/v/32579771</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 23 Jan 2023 05:18:16 GMT</pubDate>
             <content:encoded><![CDATA[8:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230123_57/zlNPk_167444988866995GX8_JPEG/cover_0000242444_001_20230123135447163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[순방서 돌아온 尹…특별한 일정 없이 조용한 명절]]></title>
-            <link>https://tv.naver.com/v/32567686</link>
-            <guid>https://tv.naver.com/v/32567686</guid>
-            <pubDate>Mon, 23 Jan 2023 05:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[5:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_139/ZH0UN_1674449839271zvlPD_JPEG/cover_0000242445_001_20230123135437498.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남도시개발공사, ‘1822억 확정이익’만 가져간 배경은?]]></title>
-            <link>https://tv.naver.com/v/32567681</link>
-            <guid>https://tv.naver.com/v/32567681</guid>
-            <pubDate>Mon, 23 Jan 2023 05:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[11:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_152/42VoX_1674450007963Vg6gP_JPEG/cover_0000242442_001_20230123135423669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
