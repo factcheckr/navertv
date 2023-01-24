@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 05:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 06:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[World Now] CCTV에 찍힌 총기난사범 제압 장면]]></title>
+            <link>https://tv.naver.com/v/32584194</link>
+            <guid>https://tv.naver.com/v/32584194</guid>
+            <pubDate>Tue, 24 Jan 2023 06:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_208/QKq9q_1674541334905ej63m_JPEG/cover_cover_y230124-6_20230124152203501.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['아바타 2' 올해 첫 1천만 관객 돌파]]></title>
             <link>https://tv.naver.com/v/32582164</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 Jan 2023 11:16:11 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230123_42/Cw5Xt_1674470933869zn2vI_JPEG/cover_cover_desk_20230123_194059_1_3_Large_20230123194810458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["3만원 하던 난방비가 12만원"?‥올해도 가스요금 더 오른다]]></title>
-            <link>https://tv.naver.com/v/32572434</link>
-            <guid>https://tv.naver.com/v/32572434</guid>
-            <pubDate>Mon, 23 Jan 2023 11:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230123_205/rtkkG_1674470917149X433B_JPEG/cover_cover_desk_20230123_193839_1_2_Large_20230123194803421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
