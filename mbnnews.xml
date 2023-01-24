@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Jan 2023 20:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 21:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[334회_코로나19 전망 및 방역수칙]]></title>
+            <link>https://tv.naver.com/v/32597343</link>
+            <guid>https://tv.naver.com/v/32597343</guid>
+            <pubDate>Tue, 24 Jan 2023 21:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[14:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_158/YpJZc_1674594583773RR9FH_JPEG/cover_cover_20230125055828_20_849_1318846_1080_7_20230125060201163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 나경원 내일 오전 '중대 발표'…출마? 불출마?]]></title>
             <link>https://tv.naver.com/v/32590017</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 Jan 2023 09:19:26 GMT</pubDate>
             <content:encoded><![CDATA[5:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230124_285/s57TH_1674551900297TSXNz_JPEG/cover_cover_20230124181016_20_673_1318814_1080_7_20230124181601210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-딸·손자 대피시키고…캠핑카 화재로 60대 참변]]></title>
-            <link>https://tv.naver.com/v/32587429</link>
-            <guid>https://tv.naver.com/v/32587429</guid>
-            <pubDate>Tue, 24 Jan 2023 09:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_5/mth2J_1674551676620OlSfB_JPEG/cover_cover_20230124180646_20_673_1318813_1080_7_20230124181201192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
