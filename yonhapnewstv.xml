@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 02:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 03:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 1월 25일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/32603341</link>
+            <guid>https://tv.naver.com/v/32603341</guid>
+            <pubDate>Wed, 25 Jan 2023 03:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_215/KAH00_1674616653973Qk86U_JPEG/cover_cover_MYH20230125008700641_20230125121701927.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 여야가 전한 설 민심…'경제난 고통' 한목소리]]></title>
+            <link>https://tv.naver.com/v/32602616</link>
+            <guid>https://tv.naver.com/v/32602616</guid>
+            <pubDate>Wed, 25 Jan 2023 03:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[38:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_85/gYqyR_1674614933918eoTbq_JPEG/cover_cover_MYH20230125008400641_20230125114603268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨톡톡] 명절 후유증도 날려버린 '강추위'…밤부터 중부 눈]]></title>
             <link>https://tv.naver.com/v/32602255</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 01:27:48 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_29/gTDSu_1674602648674Bc8HW_JPEG/cover_cover_MYH20230125005000641_20230125082302103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이시각헤드라인] 1월 25일 라이브투데이1부]]></title>
-            <link>https://tv.naver.com/v/32598429</link>
-            <guid>https://tv.naver.com/v/32598429</guid>
-            <pubDate>Tue, 24 Jan 2023 23:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_105/mSYuE_16746019506092Mqhr_JPEG/cover_cover_MYH20230125004900641_20230125081203437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 오늘 아침 맹추위 절정…출근길 체감온도 -20도 안팎]]></title>
-            <link>https://tv.naver.com/v/32598418</link>
-            <guid>https://tv.naver.com/v/32598418</guid>
-            <pubDate>Tue, 24 Jan 2023 23:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_7/84wAN_1674601917153M3TqR_JPEG/cover_cover_MYH20230125004700641_20230125081101872.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
