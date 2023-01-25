@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 09:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 10:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 추신수 '작심발언' 역풍?! 왜?]]></title>
+            <link>https://tv.naver.com/v/32615070</link>
+            <guid>https://tv.naver.com/v/32615070</guid>
+            <pubDate>Wed, 25 Jan 2023 10:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_80/KA3Sl_1674640275714wDppH_JPEG/cover_cover_230125_CHOO_640_20230125184803903.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 밤사이 중부 많은 눈‥강추위 계속]]></title>
             <link>https://tv.naver.com/v/32612311</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 06:23:12 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_126/5k2Zh_1674627364553XlVGN_JPEG/cover_cover_14news_20230125_151017_1_13_Large_20230125151528096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 홀로 졸업식‥후배 없어 '폐교']]></title>
-            <link>https://tv.naver.com/v/32608487</link>
-            <guid>https://tv.naver.com/v/32608487</guid>
-            <pubDate>Wed, 25 Jan 2023 06:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_264/z3R4B_1674627359652Op3yB_JPEG/cover_cover_14news_20230125_150830_1_12_Large_20230125151521754.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
