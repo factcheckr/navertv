@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 20:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 21:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32626682</link>
+            <guid>https://tv.naver.com/v/32626682</guid>
+            <pubDate>Wed, 25 Jan 2023 21:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_251/a1SIb_1674680927875v7I2i_JPEG/cover_0001030708_001_20230126060801132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["요금 당황스럽네요"…다음 달도 가스비 폭탄, 해법 없나]]></title>
             <link>https://tv.naver.com/v/32625827</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 13:24:51 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_93/QUPF2_1674652373454EhbbK_JPEG/cover_0001030668_001_20230125221119269.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["무상교복이라더니, 돈 이 정도 따로 냈다"…여전한 부담]]></title>
-            <link>https://tv.naver.com/v/32620616</link>
-            <guid>https://tv.naver.com/v/32620616</guid>
-            <pubDate>Wed, 25 Jan 2023 13:24:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_57/j97ij_1674652368053Co1OD_JPEG/cover_0001030663_001_20230125221110056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
