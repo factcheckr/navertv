@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 03:22:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 04:23:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나경원, 당 대표 불출마 “용감하게 내려놓겠다”]]></title>
+            <link>https://tv.naver.com/v/32604800</link>
+            <guid>https://tv.naver.com/v/32604800</guid>
+            <pubDate>Wed, 25 Jan 2023 04:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[3:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_90/22vUF_1674620422254MdnbN_JPEG/cover_0000242550_001_20230125131901584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주공항 운항 재개…임시 항공편 투입]]></title>
+            <link>https://tv.naver.com/v/32603418</link>
+            <guid>https://tv.naver.com/v/32603418</guid>
+            <pubDate>Wed, 25 Jan 2023 04:23:42 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_147/DY1Fj_1674616947275C0LRS_JPEG/cover_0000242549_001_20230125122101587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[별이 된 배우 윤정희…영화계 뜨거운 애도]]></title>
             <link>https://tv.naver.com/v/32600514</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 24 Jan 2023 11:17:01 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230124_19/6aljd_1674558961498jSvuh_JPEG/cover_0000242532_001_20230124201537248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국이 냉동실…서울 체감 온도 -27도·출근길 더 춥다]]></title>
-            <link>https://tv.naver.com/v/32589651</link>
-            <guid>https://tv.naver.com/v/32589651</guid>
-            <pubDate>Tue, 24 Jan 2023 11:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_180/zOyCa_16745590019114RNuU_JPEG/cover_0000242505_001_20230124201528813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주공항 마비 4만 명 묶였다…항공편 문의로 ‘북새통’]]></title>
-            <link>https://tv.naver.com/v/32589649</link>
-            <guid>https://tv.naver.com/v/32589649</guid>
-            <pubDate>Tue, 24 Jan 2023 12:37:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_159/9PhAE_1674559022903MeeQS_JPEG/cover_0000242507_001_20230124201519493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
