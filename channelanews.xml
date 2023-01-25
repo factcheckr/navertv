@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 01:28:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 02:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[별이 된 배우 윤정희…영화계 뜨거운 애도]]></title>
+            <link>https://tv.naver.com/v/32600514</link>
+            <guid>https://tv.naver.com/v/32600514</guid>
+            <pubDate>Wed, 25 Jan 2023 02:42:54 GMT</pubDate>
+            <content:encoded><![CDATA[10:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_284/14q5a_16746101896123JYaz_JPEG/cover_0000242450_001_20230125102501534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제주공항 정상화…임시 항공편 추가 투입]]></title>
             <link>https://tv.naver.com/v/32600221</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 Jan 2023 12:37:58 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230124_159/9PhAE_1674559022903MeeQS_JPEG/cover_0000242507_001_20230124201519493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바닷길도 끊겼다…전국 여객선 100개 항로 모두 중단]]></title>
-            <link>https://tv.naver.com/v/32589647</link>
-            <guid>https://tv.naver.com/v/32589647</guid>
-            <pubDate>Tue, 24 Jan 2023 11:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230124_105/FbwBI_1674558988392QBtb3_JPEG/cover_0000242509_001_20230124201511093.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
