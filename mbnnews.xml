@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 12:38:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 13:26:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7] 설 연휴 디도스 공격에 눈물 흘린 PC방…"대목에 날벼락"]]></title>
+            <link>https://tv.naver.com/v/32620496</link>
+            <guid>https://tv.naver.com/v/32620496</guid>
+            <pubDate>Wed, 25 Jan 2023 13:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_32/m6KQo_1674652152622BlpcP_JPEG/cover_cover_20230125220541_20_552_1318945_1080_7_20230125220801224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 밤사이 중부 많은 눈…서울에도 대설특보]]></title>
             <link>https://tv.naver.com/v/32618929</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 10:21:10 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_97/0CHm0_1674641965678E90vR_JPEG/cover_cover_20230125191425_20_552_1318913_1080_7_20230125191801176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스7]'서울 -18도' 올 겨울 최강 한파…내일 곳곳 눈]]></title>
-            <link>https://tv.naver.com/v/32615682</link>
-            <guid>https://tv.naver.com/v/32615682</guid>
-            <pubDate>Wed, 25 Jan 2023 10:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_269/h0rZp_1674641737970QP4IQ_JPEG/cover_cover_20230125190959_20_552_1318912_1080_7_20230125191401200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
