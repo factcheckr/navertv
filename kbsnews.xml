@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 19:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 20:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] KBS 재난안전지도·CCTV로 본 이 시각 눈 상황]]></title>
+            <link>https://tv.naver.com/v/32626524</link>
+            <guid>https://tv.naver.com/v/32626524</guid>
+            <pubDate>Wed, 25 Jan 2023 20:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_170/wxvLR_1674677899522YH4Um_JPEG/cover_0011416490_001_20230126051701139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 수도권 폭설…출근길 혼잡 우려]]></title>
+            <link>https://tv.naver.com/v/32626499</link>
+            <guid>https://tv.naver.com/v/32626499</guid>
+            <pubDate>Wed, 25 Jan 2023 20:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_186/NTMrE_1674677522095crkMb_JPEG/cover_0011416489_001_20230126051101124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 인천·서해안 최대 10cm 이상 폭설]]></title>
+            <link>https://tv.naver.com/v/32626486</link>
+            <guid>https://tv.naver.com/v/32626486</guid>
+            <pubDate>Wed, 25 Jan 2023 20:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_89/zd4RQ_1674677340638GrjMb_JPEG/cover_0011416488_001_20230126050801155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대구·경북서도 한파·강풍 피해 잇따라]]></title>
             <link>https://tv.naver.com/v/32624608</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 15:19:40 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230125_84/6DJSe_16746582196059uTsm_JPEG/cover_0011416449_001_20230125235001211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막혔던 하늘길 열려…공항은 온종일 ‘북새통’]]></title>
-            <link>https://tv.naver.com/v/32623107</link>
-            <guid>https://tv.naver.com/v/32623107</guid>
-            <pubDate>Wed, 25 Jan 2023 15:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_124/ys4hG_1674658097194WoBGD_JPEG/cover_0011416448_001_20230125234708442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산 앞바다도 얼었다…울산 56년 만 기록적 한파]]></title>
-            <link>https://tv.naver.com/v/32623105</link>
-            <guid>https://tv.naver.com/v/32623105</guid>
-            <pubDate>Wed, 25 Jan 2023 15:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_75/fS1D0_1674658080568SUIVa_JPEG/cover_0011416447_001_20230125234701131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주행 중이던 차량에서 불…4백만 원 피해]]></title>
-            <link>https://tv.naver.com/v/32622480</link>
-            <guid>https://tv.naver.com/v/32622480</guid>
-            <pubDate>Wed, 25 Jan 2023 15:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230125_113/5iYaS_1674656488534jaUcu_JPEG/cover_0011416445_001_20230125232113274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
