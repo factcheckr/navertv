@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 04:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 05:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 중부 · 경부 북부 대설주의보…서울 낮 최고 기온 0도]]></title>
+            <link>https://tv.naver.com/v/32635496</link>
+            <guid>https://tv.naver.com/v/32635496</guid>
+            <pubDate>Thu, 26 Jan 2023 05:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_193/aEd1x_1674709558979iYaOH_JPEG/cover_0001030841_001_20230126140501159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[D리포트] 미국 · 독일 "우크라 전차 지원"…시기가 관건]]></title>
+            <link>https://tv.naver.com/v/32635406</link>
+            <guid>https://tv.naver.com/v/32635406</guid>
+            <pubDate>Thu, 26 Jan 2023 05:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_73/jbAgd_1674709388019TK1DD_JPEG/cover_0001030867_001_20230126140201158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[실시간 e뉴스] "막차 끊겼는데 데려다주세요"…경찰 사연에 누리꾼 '공분']]></title>
             <link>https://tv.naver.com/v/32634084</link>
@@ -78,14 +94,6 @@
             <pubDate>Thu, 26 Jan 2023 03:20:50 GMT</pubDate>
             <content:encoded><![CDATA[1:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_224/Yu8jL_1674703092913XD2BB_JPEG/cover_0001030842_001_20230126121701162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 중부 · 경부 북부 대설주의보…서울 낮 최고 기온 0도]]></title>
-            <link>https://tv.naver.com/v/32632719</link>
-            <guid>https://tv.naver.com/v/32632719</guid>
-            <pubDate>Thu, 26 Jan 2023 03:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_92/OEUsS_1674702962372r9oII_JPEG/cover_0001030841_001_20230126121501121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Jan 2023 23:19:31 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_193/8lFNR_1674686627987Plc2Y_JPEG/cover_0001030740_001_20230126074316393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['27번째 태극전사' 오현규, 셀틱 입단]]></title>
-            <link>https://tv.naver.com/v/32627259</link>
-            <guid>https://tv.naver.com/v/32627259</guid>
-            <pubDate>Wed, 25 Jan 2023 23:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_14/285Ri_1674686839413MHyKe_JPEG/cover_0001030739_001_20230126074309092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
