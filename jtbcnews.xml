@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 22:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 23:21:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 찬 바람 불며 다시 강추위…호남·제주에 2~7㎝ 눈]]></title>
+            <link>https://tv.naver.com/v/32656957</link>
+            <guid>https://tv.naver.com/v/32656957</guid>
+            <pubDate>Thu, 26 Jan 2023 23:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_168/wnn3o_16747746352327htdH_JPEG/cover_0000330120_001_20230127081003794.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 한국판 '제시카법' 추진…'500m 안 성범죄자' 서울에만 48명]]></title>
             <link>https://tv.naver.com/v/32649971</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 Jan 2023 10:20:31 GMT</pubDate>
             <content:encoded><![CDATA[12:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230126_300/Q47BB_1674724894818FTLYE_JPEG/cover_0000330071_001_20230126181801580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D:이슈] 에이브럼스·레오파르트 투입…우크라-러시아 전쟁 '게임체인저' 될까]]></title>
-            <link>https://tv.naver.com/v/32642926</link>
-            <guid>https://tv.naver.com/v/32642926</guid>
-            <pubDate>Thu, 26 Jan 2023 09:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230126_23/26XSM_1674722195879tXN1W_JPEG/cover_0000330064_001_20230126173601547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
