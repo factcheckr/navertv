@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 13:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 14:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 건조·강풍주의보…내일 맑고 -8도~2도]]></title>
+            <link>https://tv.naver.com/v/32681830</link>
+            <guid>https://tv.naver.com/v/32681830</guid>
+            <pubDate>Fri, 27 Jan 2023 14:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_275/MRwIt_1674828867501HjIjD_JPEG/cover_0011418004_001_20230127231401205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전남도, 에너지 취약계층에 난방비 지원]]></title>
             <link>https://tv.naver.com/v/32680421</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 13:24:01 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_45/S4BtC_1674824820091qDTd7_JPEG/cover_0011417878_001_20230127220605443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 “검찰이 쓰면 죄의 증거”…출석 앞두고 지지층 결집]]></title>
-            <link>https://tv.naver.com/v/32680267</link>
-            <guid>https://tv.naver.com/v/32680267</guid>
-            <pubDate>Fri, 27 Jan 2023 13:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_59/6d4n3_1674824811185yHBoN_JPEG/cover_0011417875_001_20230127220555953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
