@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 03:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 중북부 중심 한파특보…호남 서부 · 제주 산지 많은 눈]]></title>
+            <link>https://tv.naver.com/v/32661712</link>
+            <guid>https://tv.naver.com/v/32661712</guid>
+            <pubDate>Fri, 27 Jan 2023 03:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_243/iaqQR_1674788983675LtAJU_JPEG/cover_0001031115_001_20230127120901126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] '와인에 암 경고문'?…이탈리아 "용납할 수 없어"]]></title>
             <link>https://tv.naver.com/v/32660879</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 Jan 2023 22:18:17 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_50/p288O_1674770069711YWJXW_JPEG/cover_0001031027_001_20230127065401131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대마 직접 재배에 유통까지…재벌 3세 등 20명 적발]]></title>
-            <link>https://tv.naver.com/v/32656532</link>
-            <guid>https://tv.naver.com/v/32656532</guid>
-            <pubDate>Thu, 26 Jan 2023 22:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_288/DaWcz_1674769998273easwq_JPEG/cover_0001031024_001_20230127065210173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

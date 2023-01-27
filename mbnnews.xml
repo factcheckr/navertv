@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 02:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 03:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한 "윤 대통령, MB·박근혜 능가하는 대결광" [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/32661178</link>
+            <guid>https://tv.naver.com/v/32661178</guid>
+            <pubDate>Fri, 27 Jan 2023 03:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_250/KQVQc_16747878648625E2uN_JPEG/cover_cover_20230127114728_20_845_1319097_1080_7_20230127115001224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 가수 샘김 아버지, 무장 강도 총격으로 사망]]></title>
             <link>https://tv.naver.com/v/32659919</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 26 Jan 2023 23:21:13 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_172/aVqsW_1674773227477Qb1ID_JPEG/cover_cover_20230127074345_20_605_1319064_1080_7_20230127074601295.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["태교여행 가서도 대마"…재벌가 3세 등 20명 무더기 적발]]></title>
-            <link>https://tv.naver.com/v/32656733</link>
-            <guid>https://tv.naver.com/v/32656733</guid>
-            <pubDate>Thu, 26 Jan 2023 23:21:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_79/Jxe2S_1674772628699UdDWV_JPEG/cover_cover_20230127073115_20_605_1319062_1080_7_20230127073601211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
