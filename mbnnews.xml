@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 08:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 09:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스와이드] 정치권 강타한 난방비]]></title>
+            <link>https://tv.naver.com/v/32693635</link>
+            <guid>https://tv.naver.com/v/32693635</guid>
+            <pubDate>Sat, 28 Jan 2023 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[8:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_162/AKxcS_1674894496108QbgcK_JPEG/cover_cover_20230128171444_20_675_1319162_1080_7_20230128172401177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스와이드] 친윤 vs 비윤, 요동치는 당심]]></title>
+            <link>https://tv.naver.com/v/32693575</link>
+            <guid>https://tv.naver.com/v/32693575</guid>
+            <pubDate>Sat, 28 Jan 2023 09:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[26:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_188/gtw48_16748946667585EppY_JPEG/cover_cover_20230128171148_20_675_1319161_1080_7_20230128172001187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스와이드] 이재명, 오늘 두 번째 檢 출석]]></title>
             <link>https://tv.naver.com/v/32693479</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 11:17:32 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_207/n8nuh_1674815598741PBhrq_JPEG/cover_cover_20230127192749_20_552_1319126_1080_7_20230127193201190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스7] "버너로 버텨요"…쪽방촌·텐트촌 주민들의 한숨]]></title>
-            <link>https://tv.naver.com/v/32676198</link>
-            <guid>https://tv.naver.com/v/32676198</guid>
-            <pubDate>Fri, 27 Jan 2023 11:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_227/W4oF2_1674815518620HYAV6_JPEG/cover_cover_20230127192542_20_552_1319125_1080_7_20230127193001204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난방비 지원 100억 조성]]></title>
-            <link>https://tv.naver.com/v/32676084</link>
-            <guid>https://tv.naver.com/v/32676084</guid>
-            <pubDate>Fri, 27 Jan 2023 11:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_34/MgYsi_1674815198554doiIV_JPEG/cover_cover_20230127192116_20_552_1319123_1080_7_20230127192601248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
