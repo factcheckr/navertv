@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 20:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 21:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[336회_뇌졸중 및 공장 화재 예방요령]]></title>
+            <link>https://tv.naver.com/v/32703188</link>
+            <guid>https://tv.naver.com/v/32703188</guid>
+            <pubDate>Sat, 28 Jan 2023 21:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[15:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_173/y3tAi_1674939247181AATcT_JPEG/cover_cover_20230129054155_20_849_1319183_1080_7_20230129054601180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1월 28일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/32696729</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 12:35:41 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_87/vZbRr_1674819184312JD98H_JPEG/cover_cover_20230127200510_20_552_1319145_1080_7_20230127203201175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 출석 코 앞 전북행…이재명 운명은?]]></title>
-            <link>https://tv.naver.com/v/32677426</link>
-            <guid>https://tv.naver.com/v/32677426</guid>
-            <pubDate>Fri, 27 Jan 2023 12:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[33:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_298/djTgq_1674818884420naQeG_JPEG/cover_cover_20230127201707_20_536_1319151_1080_7_20230127202401197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
