@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 09:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 10:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 펠로시 전 의장 자택 습격 영상 공개]]></title>
+            <link>https://tv.naver.com/v/32695430</link>
+            <guid>https://tv.naver.com/v/32695430</guid>
+            <pubDate>Sat, 28 Jan 2023 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_128/PvW1V_1674900179504LTf1r_JPEG/cover_0001031373_001_20230128190208459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[포착] 파리 패션쇼에 '동물 머리' 달린 드레스 등장…누리꾼들 "불편하다"]]></title>
             <link>https://tv.naver.com/v/32693949</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 13:24:19 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_13/iXmUU_1674823800234e23MT_JPEG/cover_0001031249_001_20230127214801187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마트서 가격 보기 두렵다…난방비 폭탄에 또 들썩이나]]></title>
-            <link>https://tv.naver.com/v/32679237</link>
-            <guid>https://tv.naver.com/v/32679237</guid>
-            <pubDate>Fri, 27 Jan 2023 12:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_6/YcbpO_1674822869984QCzJt_JPEG/cover_0001031240_001_20230127213301135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
