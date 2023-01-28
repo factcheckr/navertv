@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 03:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 04:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명 검찰 출석 “검사 독재정권, 헌정질서 파괴”]]></title>
+            <link>https://tv.naver.com/v/32688659</link>
+            <guid>https://tv.naver.com/v/32688659</guid>
+            <pubDate>Sat, 28 Jan 2023 04:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_133/KAamU_16748771096790yVjd_JPEG/cover_0000242762_001_20230128123701560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차 도둑질이 제조업체 탓?…美 지자체 “도난방지장치 왜 없나” 소송]]></title>
             <link>https://tv.naver.com/v/32679642</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 11:17:22 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_241/RmoQC_1674816097012RS8AF_JPEG/cover_0000242736_001_20230127194038168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명, 진술서 내고 검찰 질문에 답변 최소화]]></title>
-            <link>https://tv.naver.com/v/32676432</link>
-            <guid>https://tv.naver.com/v/32676432</guid>
-            <pubDate>Fri, 27 Jan 2023 11:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_186/xz61Y_16748160840025vkHL_JPEG/cover_0000242734_001_20230127194019757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
