@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 05:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 06:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]대장동 의혹, 시작은 ‘1공단 공원’?]]></title>
+            <link>https://tv.naver.com/v/32690927</link>
+            <guid>https://tv.naver.com/v/32690927</guid>
+            <pubDate>Sat, 28 Jan 2023 06:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[15:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_88/RUPdN_1674886101049EkkQB_JPEG/cover_0000242767_001_20230128150201659.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재명 검찰 출석 “검사 독재정권, 헌정질서 파괴”]]></title>
             <link>https://tv.naver.com/v/32688659</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 11:17:22 GMT</pubDate>
             <content:encoded><![CDATA[14:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_87/imxTq_1674818063420fgwt9_JPEG/cover_0000242721_001_20230127200801654.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]여론조사로는 ‘당심’ 모른다…“5060·영남 표심 더 반영돼”]]></title>
-            <link>https://tv.naver.com/v/32676441</link>
-            <guid>https://tv.naver.com/v/32676441</guid>
-            <pubDate>Fri, 27 Jan 2023 11:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_241/RmoQC_1674816097012RS8AF_JPEG/cover_0000242736_001_20230127194038168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
