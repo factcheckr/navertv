@@ -4,16 +4,32 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 11:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 12:33:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월 28일 MBN 뉴스센터 클로징]]></title>
+            <link>https://tv.naver.com/v/32696729</link>
+            <guid>https://tv.naver.com/v/32696729</guid>
+            <pubDate>Sat, 28 Jan 2023 12:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_6/j1WjL_1674904968356Uof0A_JPEG/cover_cover_20230128201759_20_906_1319181_1080_7_20230128202201185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN뉴스센터 날씨]내일 낮부터 강추위 누그러져…강원 영서 최고 3cm 눈]]></title>
+            <link>https://tv.naver.com/v/32696681</link>
+            <guid>https://tv.naver.com/v/32696681</guid>
+            <pubDate>Sat, 28 Jan 2023 12:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_260/dOlRz_1674904862041jrmGP_JPEG/cover_cover_20230128201647_20_906_1319180_1080_7_20230128202001211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김선형이 두 번 구했다…SK, 3차 연장 끝에 가스공사 제압]]></title>
             <link>https://tv.naver.com/v/32696563</link>
             <guid>https://tv.naver.com/v/32696563</guid>
             <pubDate>Sat, 28 Jan 2023 11:16:13 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_71/Rxgqv_1674904540767vvF4r_JPEG/cover_cover_20230128200841_20_906_1319179_1080_7_20230128201401193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_26/S4zTN_1674904620693atfuD_JPEG/cover_cover_20230128200841_20_906_1319179_1080_7_20230128201401193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[눈길보다 무서운 '블랙 아이스'…방심한 아침에 사고가장 많아]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 27 Jan 2023 12:35:41 GMT</pubDate>
             <content:encoded><![CDATA[33:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230127_298/djTgq_1674818884420naQeG_JPEG/cover_cover_20230127201707_20_536_1319151_1080_7_20230127202401197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 또다시 불붙은 '에너지의 정치화']]></title>
-            <link>https://tv.naver.com/v/32677290</link>
-            <guid>https://tv.naver.com/v/32677290</guid>
-            <pubDate>Fri, 27 Jan 2023 12:35:41 GMT</pubDate>
-            <content:encoded><![CDATA[23:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_227/KsK3K_1674818990107xEKO1_JPEG/cover_cover_20230127201444_20_536_1319150_1080_7_20230127201801167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스7/김주하의 '그런데'] 시 의원 '징계 아닌 유급휴가'?]]></title>
-            <link>https://tv.naver.com/v/32677156</link>
-            <guid>https://tv.naver.com/v/32677156</guid>
-            <pubDate>Fri, 27 Jan 2023 11:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230127_40/Qyhka_16748180249748kHi0_JPEG/cover_cover_20230127200414_20_552_1319144_1080_7_20230127201201202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
