@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 22:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 23:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] '이제야 덜 춥네'…추위 주춤, 낮부터 영상 기온 회복]]></title>
+            <link>https://tv.naver.com/v/32720971</link>
+            <guid>https://tv.naver.com/v/32720971</guid>
+            <pubDate>Sun, 29 Jan 2023 23:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_104/qHvgD_1675034066467PNk2M_JPEG/cover_0000330388_001_20230130081401575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실내 노마스크, 버스·병원에선 어떻게? '꼭 써야 하는 곳들']]></title>
             <link>https://tv.naver.com/v/32720377</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 Jan 2023 11:15:16 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230128_88/UV9PF_167490154540355HQm_JPEG/cover_0000330314_001_20230128192501502.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상구성] 마법 같은 가상 세계…미구엘 슈발리에 '디지털 뷰티']]></title>
-            <link>https://tv.naver.com/v/32695767</link>
-            <guid>https://tv.naver.com/v/32695767</guid>
-            <pubDate>Sat, 28 Jan 2023 11:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_225/PCcVV_1674901279650psh7k_JPEG/cover_0000330313_001_20230128192101494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
