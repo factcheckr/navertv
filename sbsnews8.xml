@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 10:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 11:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32713182</link>
+            <guid>https://tv.naver.com/v/32713182</guid>
+            <pubDate>Sun, 29 Jan 2023 11:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_79/0Thkf_1674990450635mWBnq_JPEG/cover_0001031525_001_20230129200701142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 터널 화재…이렇게까지 해야 5분 만에 '완진']]></title>
             <link>https://tv.naver.com/v/32711829</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 Jan 2023 10:19:09 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230128_128/PvW1V_1674900179504LTf1r_JPEG/cover_0001031373_001_20230128190208459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포착] 파리 패션쇼에 '동물 머리' 달린 드레스 등장…누리꾼들 "불편하다"]]></title>
-            <link>https://tv.naver.com/v/32693949</link>
-            <guid>https://tv.naver.com/v/32693949</guid>
-            <pubDate>Sat, 28 Jan 2023 09:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_102/ddW3t_1674895300955eyWyj_JPEG/cover_0001031313_001_20230128174103973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
