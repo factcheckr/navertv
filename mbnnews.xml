@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Jan 2023 11:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 12:34:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스센터 날씨] 추위 누그러져, 밤까지 눈 조금…동쪽 대기 건조]]></title>
+            <link>https://tv.naver.com/v/32713406</link>
+            <guid>https://tv.naver.com/v/32713406</guid>
+            <pubDate>Sun, 29 Jan 2023 12:34:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_170/yxqzL_1674991132624bM7Hn_JPEG/cover_cover_20230129201543_20_906_1319207_1080_7_20230129201801211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['경험은 곧 소비'…기업들 "MZ 경험 삽니다"]]></title>
             <link>https://tv.naver.com/v/32713327</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 Jan 2023 11:16:13 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230128_179/SArQZ_1674903939443ryacl_JPEG/cover_cover_20230128195954_20_906_1319174_1080_7_20230128200401199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한파도 막을 수 없다"…겨울축제는 '핫 뜨거']]></title>
-            <link>https://tv.naver.com/v/32696375</link>
-            <guid>https://tv.naver.com/v/32696375</guid>
-            <pubDate>Sat, 28 Jan 2023 11:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_176/0jsyx_16749038193508cKu1_JPEG/cover_cover_20230128195730_20_906_1319173_1080_7_20230128200201196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
