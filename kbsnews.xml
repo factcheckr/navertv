@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 23:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Jan 2023 01:42:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 낮부터 추위 누그러져…오후에 중부 곳곳 눈]]></title>
-            <link>https://tv.naver.com/v/32703648</link>
-            <guid>https://tv.naver.com/v/32703648</guid>
-            <pubDate>Sat, 28 Jan 2023 23:17:46 GMT</pubDate>
+            <title><![CDATA[‘파티룸’ 문 열었더니, 18만 명 ‘투약’할 이것이]]></title>
+            <link>https://tv.naver.com/v/32703850</link>
+            <guid>https://tv.naver.com/v/32703850</guid>
+            <pubDate>Sun, 29 Jan 2023 01:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_82/V6azj_1674950506104ADbTz_PNG/cover_0011418272_001_20230129090101156.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[8시 날씨] 낮부터 추위 누그러져…오후에 중부 곳곳 눈]]></title>
+            <link>https://tv.naver.com/v/32703767</link>
+            <guid>https://tv.naver.com/v/32703767</guid>
+            <pubDate>Sun, 29 Jan 2023 01:41:04 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_91/QkRUl_1674947737454e0xsC_JPEG/cover_0011418271_001_20230129081514006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_215/CZT96_1674949403917kJ42r_JPEG/cover_0011418271_001_20230129084301139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[美 서부서 또 총격으로 최소 3명 사망·4명 부상]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 Jan 2023 13:23:55 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230128_292/jSCBj_1674910833233eAqWC_JPEG/cover_0011418224_001_20230128220015426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북서 어제 710명 확진…누적 사망자 1,003명]]></title>
-            <link>https://tv.naver.com/v/32698429</link>
-            <guid>https://tv.naver.com/v/32698429</guid>
-            <pubDate>Sat, 28 Jan 2023 13:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_1/hxRdO_1674910828080YEtcG_JPEG/cover_0011418223_001_20230128220009606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
