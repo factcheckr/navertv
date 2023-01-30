@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 03:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 04:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘부터 실내 마스크 착용 권고…“아직은 벗는 게 어색”]]></title>
+            <link>https://tv.naver.com/v/32725818</link>
+            <guid>https://tv.naver.com/v/32725818</guid>
+            <pubDate>Mon, 30 Jan 2023 04:23:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_29/8ZGaE_1675049529900nkMDy_JPEG/cover_0000242840_001_20230130123101590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실내 마스크 착용 의무 해제…대중교통·의료기관 제외]]></title>
             <link>https://tv.naver.com/v/32722491</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 Jan 2023 12:33:22 GMT</pubDate>
             <content:encoded><![CDATA[5:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230128_162/S7AM3_1674905823409zOJVo_JPEG/cover_0000242784_001_20230128203501584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[앵커의 마침표]그런 세상, 과연 행복할까요?]]></title>
-            <link>https://tv.naver.com/v/32696731</link>
-            <guid>https://tv.naver.com/v/32696731</guid>
-            <pubDate>Sat, 28 Jan 2023 12:33:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230128_85/QAT2L_1674904954302xJREu_JPEG/cover_0000242783_001_20230128202202201.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
