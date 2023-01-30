@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 05:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 06:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]프로배구 올스타전 댄스 대방출…김연경 춤실력은?]]></title>
+            <link>https://tv.naver.com/v/32730177</link>
+            <guid>https://tv.naver.com/v/32730177</guid>
+            <pubDate>Mon, 30 Jan 2023 06:25:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_8/0K0tw_1675059029302gXAGW_JPEG/cover_0000242853_001_20230130150701576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나경원 “전대에서 특별한 역할 없을 것”]]></title>
             <link>https://tv.naver.com/v/32728156</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 29 Jan 2023 11:15:54 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230129_102/lpaiK_1674989968081XEbrr_JPEG/cover_0000242821_001_20230129195901572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동앵과 뉴스터디]검찰의 쥔 물증! ‘이재명 결재’ 뜯어보니]]></title>
-            <link>https://tv.naver.com/v/32707868</link>
-            <guid>https://tv.naver.com/v/32707868</guid>
-            <pubDate>Sun, 29 Jan 2023 06:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[18:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_20/NklkR_16749729904105tHK9_JPEG/cover_0000242803_001_20230129150801645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
