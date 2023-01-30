@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 20:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 21:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 건조경보 속 낮 최고 5.5도…내일 -4~9도 예상]]></title>
+            <link>https://tv.naver.com/v/32748272</link>
+            <guid>https://tv.naver.com/v/32748272</guid>
+            <pubDate>Mon, 30 Jan 2023 21:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_154/48YBl_1675112303304QMd9w_JPEG/cover_0011419188_001_20230131055801183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이 시각 소방청 상황실] 포항 철강공단 삼거리 사망 사고…이틀 전엔 2명 숨져]]></title>
             <link>https://tv.naver.com/v/32746313</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Jan 2023 15:19:58 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_257/0ROYm_1675089299971BjCrJ_JPEG/cover_0011419200_001_20230130233441917.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건조경보 속 농막·임야 등 화재 잇따라]]></title>
-            <link>https://tv.naver.com/v/32744726</link>
-            <guid>https://tv.naver.com/v/32744726</guid>
-            <pubDate>Mon, 30 Jan 2023 15:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_238/pcU75_1675089290360hVtoH_JPEG/cover_0011419199_001_20230130233436302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
