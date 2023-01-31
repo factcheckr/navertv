@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 06:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 07:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]“왼손은 거들 뿐”…슬램덩크 찐 덕후들이 떴다]]></title>
+            <link>https://tv.naver.com/v/32760621</link>
+            <guid>https://tv.naver.com/v/32760621</guid>
+            <pubDate>Tue, 31 Jan 2023 07:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_120/24IEt_1675147883883fyPaK_JPEG/cover_0000242928_001_20230131155001694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송중기, 케이티와 혼인 신고…‘2세 소식’ 겹경사]]></title>
             <link>https://tv.naver.com/v/32757230</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Jan 2023 12:38:22 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230130_242/DDp7h_1675077726284lRFR0_JPEG/cover_0000242869_001_20230130202101444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아는기자]김성태, 이재명 방북 비용으로 송금?]]></title>
-            <link>https://tv.naver.com/v/32739164</link>
-            <guid>https://tv.naver.com/v/32739164</guid>
-            <pubDate>Mon, 30 Jan 2023 12:38:22 GMT</pubDate>
-            <content:encoded><![CDATA[5:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230130_267/8XLiH_1675077771726aMwWK_JPEG/cover_0000242873_001_20230130202050205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
