@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 09:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 10:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨박스] 누군 내쫓고 누군 업고…부산 경찰의 '두 얼굴']]></title>
+            <link>https://tv.naver.com/v/32766677</link>
+            <guid>https://tv.naver.com/v/32766677</guid>
+            <pubDate>Tue, 31 Jan 2023 10:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_40/dbGgD_1675159313329RwcLv_JPEG/cover_2023013190136_thumb_065540_20230131190102812.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 대통령실, 방통위 감찰 착수…직접 감찰은 이례적]]></title>
             <link>https://tv.naver.com/v/32760655</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Jan 2023 22:19:03 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_247/CCskF_1675116098293wrh9S_JPEG/cover_2023012790001_thumb_065811_20230131070109102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미스터트롯2 진과 진 맞대결, 박지현이 진욱 이겼다]]></title>
-            <link>https://tv.naver.com/v/32748538</link>
-            <guid>https://tv.naver.com/v/32748538</guid>
-            <pubDate>Mon, 30 Jan 2023 22:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_244/lG029_16751160882692vuP7_JPEG/cover_2023012790002_thumb_065806_20230131070102166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
