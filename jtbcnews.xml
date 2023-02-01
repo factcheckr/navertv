@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 07:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 08:26:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안철수 여론조사 약진…김기현 "수도권은 내가 압도적"]]></title>
+            <link>https://tv.naver.com/v/32790329</link>
+            <guid>https://tv.naver.com/v/32790329</guid>
+            <pubDate>Wed, 01 Feb 2023 08:25:48 GMT</pubDate>
+            <content:encoded><![CDATA[11:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_164/JNNdy_1675236289369a1rSA_JPEG/cover_0000330620_001_20230201162101513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D:이슈] 영화 같은 현실…SNS서 '닮은꼴' 찾아내 살해한 여성]]></title>
             <link>https://tv.naver.com/v/32788648</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 Jan 2023 13:29:16 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_261/B0JmA_1675170591032c1hVj_JPEG/cover_0000330644_001_20230131220901505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 과잉 진압 시위 확산…'시민 죽인 경찰' 더 있었다]]></title>
-            <link>https://tv.naver.com/v/32771774</link>
-            <guid>https://tv.naver.com/v/32771774</guid>
-            <pubDate>Tue, 31 Jan 2023 13:29:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_132/0HbKp_1675170527697WSBPy_JPEG/cover_0000330643_001_20230131220810105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
