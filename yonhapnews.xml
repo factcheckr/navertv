@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 23:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 01:49:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Tue, 31 Jan 2023 07:18:09 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230131_217/HMkvl_1675148563947K5uSA_JPEG/1675147658735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[삶] 시인 정호승 "다른 사람의 눈물을 닦아주고 싶다"]]></title>
+            <link>https://tv.naver.com/v/32760537</link>
+            <guid>https://tv.naver.com/v/32760537</guid>
+            <pubDate>Wed, 01 Feb 2023 01:48:34 GMT</pubDate>
+            <content:encoded><![CDATA[6:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230131_212/dN7ps_16751476092909g9Pl_JPEG/1675146408018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['게임체인저' 하이마스 독일 생산 전망…챌린저2 여름 전 배치]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 29 Jan 2023 08:22:51 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230129_252/5IyPA_1674978613831D17fO_JPEG/1674978592232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명, 12시간반 검찰 조사 후 첫 마디 "기소하려 조작"]]></title>
-            <link>https://tv.naver.com/v/32706632</link>
-            <guid>https://tv.naver.com/v/32706632</guid>
-            <pubDate>Sun, 29 Jan 2023 05:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230129_142/uYuYk_1674967205740XHnDB_JPEG/1674967172938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
