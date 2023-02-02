@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 08:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 09:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 명보야! 선홍아! 형은 아직도 현역 뛰어!!!!]]></title>
+            <link>https://tv.naver.com/v/32826289</link>
+            <guid>https://tv.naver.com/v/32826289</guid>
+            <pubDate>Thu, 02 Feb 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_197/ssKHM_1675328594253k4YVD_JPEG/cover_cover_230202_MIWOORA_640_20230202180204048.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일 아침도 추워‥주말 낮 기온 차츰 올라]]></title>
             <link>https://tv.naver.com/v/32824522</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Feb 2023 07:17:12 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230202_284/6GDOX_1675317280896cIn6j_JPEG/cover_cover_14news_20230202_142907_1_8_Large_20230202145403920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이재명은 범죄 독재"‥'특검·탄핵' 총공세]]></title>
-            <link>https://tv.naver.com/v/32818592</link>
-            <guid>https://tv.naver.com/v/32818592</guid>
-            <pubDate>Thu, 02 Feb 2023 07:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_103/GokRW_1675315193907UV8qR_JPEG/cover_cover_14news_20230202_141151_1_6_Large_20230202141914226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
