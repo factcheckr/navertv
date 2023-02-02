@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 19:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 20:21:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 숫자로 보는 조국 사태]]></title>
+            <link>https://tv.naver.com/v/32839284</link>
+            <guid>https://tv.naver.com/v/32839284</guid>
+            <pubDate>Thu, 02 Feb 2023 20:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_279/9GDht_1675369063601HgYaU_JPEG/cover_cover_202302030440297626_t_20230203051702080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[홍콩, 무료 항공권 50만장 쏜다...3천억원 규모 관광유치 캠페인]]></title>
+            <link>https://tv.naver.com/v/32839246</link>
+            <guid>https://tv.naver.com/v/32839246</guid>
+            <pubDate>Thu, 02 Feb 2023 20:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_146/Sdo74_167536862303659zx8_JPEG/cover_cover_202302022318505381_t_20230203051004424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸틴 "독일전차 위협 믿을 수 없는 일...대응은 전차 넘어설 것"]]></title>
             <link>https://tv.naver.com/v/32838809</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 02 Feb 2023 15:20:58 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230202_16/28ez8_1675348336475SULyj_JPEG/cover_cover_202302022328473230_t_20230202233111968.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원, 홍장표 전 경제수석 다음 주 조사 예정]]></title>
-            <link>https://tv.naver.com/v/32834864</link>
-            <guid>https://tv.naver.com/v/32834864</guid>
-            <pubDate>Thu, 02 Feb 2023 15:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_122/TXlBA_1675348281718wWBfB_JPEG/cover_cover_202302022327359395_t_20230202233103303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새마을금고 '대출 조작' 직원 승진?...행안부 조사]]></title>
-            <link>https://tv.naver.com/v/32834822</link>
-            <guid>https://tv.naver.com/v/32834822</guid>
-            <pubDate>Thu, 02 Feb 2023 15:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_153/sUKnl_16753482037606MKrA_JPEG/cover_cover_202302022326330096_t_20230202232915891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
