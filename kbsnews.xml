@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 20:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 21:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공요금 폭탄에…울산 물가 다시 ‘들썩’]]></title>
+            <link>https://tv.naver.com/v/32839579</link>
+            <guid>https://tv.naver.com/v/32839579</guid>
+            <pubDate>Thu, 02 Feb 2023 21:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_179/CCWg2_1675372245166ELJxA_JPEG/cover_0011421607_001_20230203061001184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상] 양손 까맣게 물들여가며…스페인 칼솟타다 축제!!!]]></title>
             <link>https://tv.naver.com/v/32836426</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Feb 2023 15:20:00 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230202_6/QPsI9_1675347696855EEBnd_JPEG/cover_0011421615_001_20230202232119455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노동부 울산지청, 온라인 노사 부조리 신고센터 운영]]></title>
-            <link>https://tv.naver.com/v/32834621</link>
-            <guid>https://tv.naver.com/v/32834621</guid>
-            <pubDate>Thu, 02 Feb 2023 15:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_287/Ab1Mc_16753476866241Sz4J_JPEG/cover_0011421614_001_20230202232113448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

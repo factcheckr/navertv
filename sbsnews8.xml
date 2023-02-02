@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 20:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 21:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32839593</link>
+            <guid>https://tv.naver.com/v/32839593</guid>
+            <pubDate>Thu, 02 Feb 2023 21:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_40/i8hCD_1675372429856M1CP0_JPEG/cover_0001032796_001_20230203061301152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/32838788</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Feb 2023 12:38:44 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230202_108/eCo6u_1675341249677F6zvP_JPEG/cover_0001032739_001_20230202213253531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["'총알받이' 와그너 그룹 용병들, 마약 취한 듯 돌진"]]></title>
-            <link>https://tv.naver.com/v/32831620</link>
-            <guid>https://tv.naver.com/v/32831620</guid>
-            <pubDate>Thu, 02 Feb 2023 12:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_129/AsymE_1675341244365fNHQE_JPEG/cover_0001032740_001_20230202213244688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
