@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 09:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 10:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2억 화소 카메라 탑재…더 강해진 '갤럭시 S23']]></title>
+            <link>https://tv.naver.com/v/32827310</link>
+            <guid>https://tv.naver.com/v/32827310</guid>
+            <pubDate>Thu, 02 Feb 2023 10:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230202_188/dU6aN_1675330935421gj1q3_JPEG/cover_2023020290164_thumb_063715_20230202184103213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 은행 강도에 몸 날린 직원…"고객들 피땀 흘려 모은 돈"]]></title>
             <link>https://tv.naver.com/v/32823902</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Feb 2023 13:27:36 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230201_173/TqDji_1675256536520NCrpu_JPEG/cover_2023020190213_thumb_095506_20230201220113751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월 1일 '뉴스 9' 클로징]]></title>
-            <link>https://tv.naver.com/v/32801200</link>
-            <guid>https://tv.naver.com/v/32801200</guid>
-            <pubDate>Wed, 01 Feb 2023 13:27:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230201_294/VFtUN_1675256479344d9Csn_JPEG/cover_2023020190225_thumb_095610_20230201220107925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
