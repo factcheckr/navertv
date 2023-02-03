@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 05:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 06:25:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/32852023</link>
+            <guid>https://tv.naver.com/v/32852023</guid>
+            <pubDate>Fri, 03 Feb 2023 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_212/3sL8Y_1675405430924Tv93j_JPEG/cover_cover_20230203151906_20_845_1319685_1080_7_20230203152301191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[D뉴스] "난 오늘부터 여자"…핀란드 '선언'만 해도 성별 바꿔준다]]></title>
+            <link>https://tv.naver.com/v/32849673</link>
+            <guid>https://tv.naver.com/v/32849673</guid>
+            <pubDate>Fri, 03 Feb 2023 06:25:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_169/9MT4k_1675401826222ebqOs_JPEG/cover_cover_20230203141844_20_868_1319684_1080_7_20230203142301149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전장연, 13일까지 탑승 시위 유보 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/32847628</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 03 Feb 2023 01:41:30 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_31/D4LCe_1675382485273V8quE_JPEG/cover_cover_20230203085735_20_605_1319660_1080_7_20230203090101142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] 국민 4명 중 1명은 '반려동물' 키운다]]></title>
-            <link>https://tv.naver.com/v/32840627</link>
-            <guid>https://tv.naver.com/v/32840627</guid>
-            <pubDate>Fri, 03 Feb 2023 01:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_65/YpC9H_1675382383757SCnUN_JPEG/cover_cover_20230203085558_20_605_1319659_1080_7_20230203085901144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝MBN 날씨]오늘 출근길도 추워요…동쪽 대기 매우 건조]]></title>
-            <link>https://tv.naver.com/v/32840240</link>
-            <guid>https://tv.naver.com/v/32840240</guid>
-            <pubDate>Thu, 02 Feb 2023 23:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_168/Sjx3R_1675379642027mrnMM_JPEG/cover_cover_20230203080752_20_605_1319656_1080_7_20230203081301158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
