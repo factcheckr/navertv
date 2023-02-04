@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 04:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 05:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[농인의 언어 '수어'‥"배울 곳도, 쓸 곳도 없어요"]]></title>
+            <link>https://tv.naver.com/v/32873745</link>
+            <guid>https://tv.naver.com/v/32873745</guid>
+            <pubDate>Sat, 04 Feb 2023 05:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_141/JRQfO_16754876628617IBHy_JPEG/cover_cover_desk_20230203_203329_1_22_Large_20230204141302382.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["주권 침해"‥미국 국무장관 방중 연기]]></title>
             <link>https://tv.naver.com/v/32872014</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Feb 2023 14:17:23 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_37/gLT3Q_1675431631776kTlSq_JPEG/cover_cover_today_20230203_065542_2_14_Large_U_1_20230203224014226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[와글와글] "주차 위반 스티커 또 붙이면 입구 막아버릴 것"]]></title>
-            <link>https://tv.naver.com/v/32865319</link>
-            <guid>https://tv.naver.com/v/32865319</guid>
-            <pubDate>Fri, 03 Feb 2023 14:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_299/bSmMm_1675431629475L9pux_JPEG/cover_cover_today_20230203_065542_2_13_Large_U_2_20230203224004774.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
