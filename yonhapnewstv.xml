@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 19:15:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 20:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 584회]]></title>
+            <link>https://tv.naver.com/v/32887409</link>
+            <guid>https://tv.naver.com/v/32887409</guid>
+            <pubDate>Sat, 04 Feb 2023 20:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[30:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_81/I67wa_1675541024511Q1exG_JPEG/cover_cover_MYH20230204007600641_20230205050102146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소용돌이 원흉 될까, 갈등 조율 모범 될까…다가온 연금개혁 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/32882723</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Feb 2023 09:17:47 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230204_192/68sN4_1675499852981QzEED_JPEG/cover_cover_MYH20230204008500641_20230204173709112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상반기 방미·방일 성사될까…"확정된 건 없어"]]></title>
-            <link>https://tv.naver.com/v/32877639</link>
-            <guid>https://tv.naver.com/v/32877639</guid>
-            <pubDate>Sat, 04 Feb 2023 09:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_174/QQX7Y_1675499895834mTovo_JPEG/cover_cover_MYH20230204008400641_20230204173702223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
