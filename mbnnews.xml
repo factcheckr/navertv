@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 20:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 21:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[339회_대설과 화재 대처요령]]></title>
+            <link>https://tv.naver.com/v/32887497</link>
+            <guid>https://tv.naver.com/v/32887497</guid>
+            <pubDate>Sat, 04 Feb 2023 21:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[15:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_210/dzLd1_16755443531644JyNH_JPEG/cover_cover_20230205054807_20_849_1319768_1080_7_20230205055101137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2월 4일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/32880730</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Feb 2023 12:36:48 GMT</pubDate>
             <content:encoded><![CDATA[13:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_136/S2COS_16754241058071deW2_JPEG/cover_cover_20230203202032_20_536_1319735_1080_7_20230203202901152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 조국 1심서 '징역 2년'…법정구속은 면해]]></title>
-            <link>https://tv.naver.com/v/32861724</link>
-            <guid>https://tv.naver.com/v/32861724</guid>
-            <pubDate>Fri, 03 Feb 2023 12:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[24:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_252/pU6XM_1675424048898ORCrR_JPEG/cover_cover_20230203201825_20_536_1319733_1080_7_20230203202401209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
