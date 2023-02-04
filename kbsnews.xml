@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 06:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 07:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“홍어 받은 분 자수하세요”…축협조합장 선거 수사]]></title>
+            <link>https://tv.naver.com/v/32875085</link>
+            <guid>https://tv.naver.com/v/32875085</guid>
+            <pubDate>Sat, 04 Feb 2023 07:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_128/8tQiM_1675491951817dl1ae_JPEG/cover_0011422319_001_20230204152501139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당 전북도당 “내일 서울 장외 집회에 6백여 명 동참”]]></title>
+            <link>https://tv.naver.com/v/32875044</link>
+            <guid>https://tv.naver.com/v/32875044</guid>
+            <pubDate>Sat, 04 Feb 2023 07:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_169/ZtXEA_1675491795347do43w_JPEG/cover_0011422488_001_20230204152301141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] 입춘, 맑고 건조한 날씨 계속…산불 주의]]></title>
             <link>https://tv.naver.com/v/32871999</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 03 Feb 2023 23:18:31 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230204_124/iRCNX_1675465013761af7GJ_JPEG/cover_0011422431_001_20230204075601172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말 날씨] 입춘, 낮부터 기온 올라…대기 매우 건조]]></title>
-            <link>https://tv.naver.com/v/32869561</link>
-            <guid>https://tv.naver.com/v/32869561</guid>
-            <pubDate>Fri, 03 Feb 2023 22:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_120/qhapy_1675462168017HHX7b_JPEG/cover_0011422410_001_20230204070901147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[DEEP 아카이브] 어느 의사의 꿈]]></title>
-            <link>https://tv.naver.com/v/32869544</link>
-            <guid>https://tv.naver.com/v/32869544</guid>
-            <pubDate>Fri, 03 Feb 2023 22:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[3:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_6/tlLFk_1675461975816k4nDt_JPEG/cover_0011422429_001_20230204070508995.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
