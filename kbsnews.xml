@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 15:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 16:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전남 신안 해상 어선 뒤집혀…실종 9명 수색 중]]></title>
+            <link>https://tv.naver.com/v/32902887</link>
+            <guid>https://tv.naver.com/v/32902887</guid>
+            <pubDate>Sun, 05 Feb 2023 16:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_64/kLMgc_1675610388656leofk_JPEG/cover_0011422809_001_20230206001901139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“군산의료원장 공모 낙하산 의혹”-“규정대로 진행”]]></title>
             <link>https://tv.naver.com/v/32902170</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 05 Feb 2023 13:21:22 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230205_185/iKImV_1675602556333vQAQy_JPEG/cover_0011422778_001_20230205220901137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경북 청도 ‘전국 최대 규모 달집’…5년 만의 정월대보름 행사 풍성]]></title>
-            <link>https://tv.naver.com/v/32900290</link>
-            <guid>https://tv.naver.com/v/32900290</guid>
-            <pubDate>Sun, 05 Feb 2023 13:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_204/xzbS1_16756025480311Jyya_JPEG/cover_0011422745_001_20230205220801154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
