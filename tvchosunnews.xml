@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 06:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 07:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 05 Feb 2023 06:23:07 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230205_12/jbJYu_1675578132850bRrit_JPEG/cover_2023020590016_thumb_031937_20230205152127236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주당, 6년 만에 거리로…與 "李 방탄 부끄럽지 않나"]]></title>
+            <link>https://tv.naver.com/v/32892540</link>
+            <guid>https://tv.naver.com/v/32892540</guid>
+            <pubDate>Sun, 05 Feb 2023 07:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[43:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_43/NdhAT_16755786215328lhls_JPEG/cover_2023020590014_thumb_031910_20230205152101517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2월 5일 '뉴스현장' 클로징]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Feb 2023 10:19:33 GMT</pubDate>
             <content:encoded><![CDATA[0:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230204_216/UUjqf_1675505205539LVmbU_JPEG/cover_2023020490043_thumb_070246_20230204190609689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불붙은 무임승차 연령 상향…70세로 높아지나?]]></title>
-            <link>https://tv.naver.com/v/32875349</link>
-            <guid>https://tv.naver.com/v/32875349</guid>
-            <pubDate>Sat, 04 Feb 2023 07:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[13:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_70/qG9VN_16754932111038ozA9_JPEG/cover_2023020490023_thumb_033718_20230204154101602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 06:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 07:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 미국 하늘 두둥실 날던 중국 풍선 '박살' 나는 순간 포착]]></title>
+            <link>https://tv.naver.com/v/32893387</link>
+            <guid>https://tv.naver.com/v/32893387</guid>
+            <pubDate>Sun, 05 Feb 2023 07:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_193/9FyuK_1675580798749zvMHx_JPEG/cover_0001033277_001_20230205160602912.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비머pick] '현기차 절도 챌린지' 유행? 도대체 무슨 문제인지 물어봄 (ft.현대기아차)]]></title>
             <link>https://tv.naver.com/v/32890961</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Feb 2023 12:32:50 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230204_291/FoR2u_1675511147253Q90uD_JPEG/cover_0001033177_001_20230204204401147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[종료 0.5초 전 역전포…로슨이 끝냈다!]]></title>
-            <link>https://tv.naver.com/v/32881240</link>
-            <guid>https://tv.naver.com/v/32881240</guid>
-            <pubDate>Sat, 04 Feb 2023 12:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_4/mvFE9_1675511142090OWGtJ_JPEG/cover_0001033176_001_20230204204309947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
