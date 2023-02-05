@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Feb 2023 08:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Feb 2023 09:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 05 Feb 2023 08:23:31 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230205_99/dh2ie_1675584683939ROlm9_JPEG/cover_cover_20230205170142_20_813_1319774_1080_7_20230205171101194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['물가 폭탄' 비상…발목 잡힌 尹 지지율? [시사스페셜]]]></title>
+            <link>https://tv.naver.com/v/32894574</link>
+            <guid>https://tv.naver.com/v/32894574</guid>
+            <pubDate>Sun, 05 Feb 2023 09:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[24:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230205_204/hBTYg_1675585427246ugBp3_JPEG/cover_cover_20230205165949_20_813_1319773_1080_7_20230205170801183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['점입가경' 국민의힘, '장외투쟁' 민주당 [시사스페셜]]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Feb 2023 12:36:48 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230203_132/TpPYJ_16754247451622Ntqi_JPEG/cover_cover_20230203201458_20_552_1319732_1080_7_20230203204501445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] 대통령실, '천공 개입설' 강경 대응]]></title>
-            <link>https://tv.naver.com/v/32862112</link>
-            <guid>https://tv.naver.com/v/32862112</guid>
-            <pubDate>Fri, 03 Feb 2023 12:36:48 GMT</pubDate>
-            <content:encoded><![CDATA[11:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230203_250/p8Pus_1675424797139iiP6o_JPEG/cover_cover_20230203202821_20_536_1319737_1080_7_20230203204101160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
