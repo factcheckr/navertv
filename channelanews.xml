@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 02:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 03:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어선 전복…야간 수색중 실종자 1명 시신 수습]]></title>
+            <link>https://tv.naver.com/v/32912614</link>
+            <guid>https://tv.naver.com/v/32912614</guid>
+            <pubDate>Mon, 06 Feb 2023 03:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_58/fCBUX_1675653564974xXc22_JPEG/cover_0000243280_001_20230206121801639.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]첫 출근한 알바, 주인 떠난지 2분 뒤 도둑 변신]]></title>
             <link>https://tv.naver.com/v/32911474</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Feb 2023 12:33:50 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230204_84/0g3os_1675512065548yTB2o_JPEG/cover_0000243233_001_20230204205915179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OPEN 인터뷰]송중기 “혼인신고 하고 오는 길”…박상민은 ‘너에게로 가는 길’]]></title>
-            <link>https://tv.naver.com/v/32881543</link>
-            <guid>https://tv.naver.com/v/32881543</guid>
-            <pubDate>Sat, 04 Feb 2023 12:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[7:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230204_85/5WLhi_1675512145131PEcsH_JPEG/cover_0000243232_001_20230204205901548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
