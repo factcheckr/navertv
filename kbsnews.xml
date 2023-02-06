@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 06:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 07:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/32920607</link>
+            <guid>https://tv.naver.com/v/32920607</guid>
+            <pubDate>Mon, 06 Feb 2023 07:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[10:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_28/DOdOs_16756680760396IfGD_JPEG/cover_0011423239_001_20230206161801132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상] 한동훈, 민주당에 “차라리 특정인 처벌금지법 만들라”]]></title>
+            <link>https://tv.naver.com/v/32920059</link>
+            <guid>https://tv.naver.com/v/32920059</guid>
+            <pubDate>Mon, 06 Feb 2023 07:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_277/CjHRW_16756669670105CPHi_PNG/cover_0011423225_001_20230206160201141.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제주서 ‘돌덩이로 퍽’ 묻지마 폭행 20대 구속]]></title>
             <link>https://tv.naver.com/v/32918492</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 06 Feb 2023 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230206_202/VBehq_1675654041807nFkzS_JPEG/cover_0011423146_001_20230206122701139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스 잇단 ‘사이버 공격’…정부 특별조사 실시]]></title>
-            <link>https://tv.naver.com/v/32912768</link>
-            <guid>https://tv.naver.com/v/32912768</guid>
-            <pubDate>Mon, 06 Feb 2023 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_200/aQO9X_1675654011628XfJAX_JPEG/cover_0011423145_001_20230206122609614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“표준운임제 도입…지입전문회사 시장 퇴출”]]></title>
-            <link>https://tv.naver.com/v/32912764</link>
-            <guid>https://tv.naver.com/v/32912764</guid>
-            <pubDate>Mon, 06 Feb 2023 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_104/4XAUV_1675654012256GYEB9_JPEG/cover_0011423144_001_20230206122601164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
