@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 18:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 19:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[규모 7.8 강진...튀르키예·시리아 사망자 2천6백 명 넘어]]></title>
+            <link>https://tv.naver.com/v/32938100</link>
+            <guid>https://tv.naver.com/v/32938100</guid>
+            <pubDate>Mon, 06 Feb 2023 19:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230207_219/5XsmJ_1675709732167FC9hE_JPEG/cover_cover_202302070352522005_t_20230207035502226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["대형 마트 평일 휴업 반대" 대구시청 점거 마트노조원 송치]]></title>
             <link>https://tv.naver.com/v/32937961</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Feb 2023 15:22:22 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230206_22/RXufQ_1675693788652FPr0c_JPEG/cover_cover_202302062327251610_t_20230206232918380.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경북 울진 산불서 '방화 정황' 확인...방화범 추적 중]]></title>
-            <link>https://tv.naver.com/v/32934482</link>
-            <guid>https://tv.naver.com/v/32934482</guid>
-            <pubDate>Mon, 06 Feb 2023 15:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230206_123/YVPDU_1675693766957RbPz6_JPEG/cover_cover_202302062323246713_t_20230206232910619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
