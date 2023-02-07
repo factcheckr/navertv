@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Feb 2023 20:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Feb 2023 21:18:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/32971293</link>
+            <guid>https://tv.naver.com/v/32971293</guid>
+            <pubDate>Tue, 07 Feb 2023 21:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230208_68/CgW9k_16758044883792DclS_JPEG/cover_0001034012_001_20230208061401129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['규모 7.8 강진' 여진 계속…"연락 두절 유학생 안전 대피"]]></title>
             <link>https://tv.naver.com/v/32970697</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Feb 2023 13:25:41 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230207_277/Xvldv_16757742377643HaQa_JPEG/cover_0001033973_001_20230207214930132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주택가 삼킨 흙탕물…페루에서 산사태로 30여 명 사상]]></title>
-            <link>https://tv.naver.com/v/32964842</link>
-            <guid>https://tv.naver.com/v/32964842</guid>
-            <pubDate>Tue, 07 Feb 2023 13:25:41 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230207_299/ntXxG_16757742418798kHv7_JPEG/cover_0001033975_001_20230207214920941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
