@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 02:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 03:24:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 2월 9일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/33005646</link>
+            <guid>https://tv.naver.com/v/33005646</guid>
+            <pubDate>Thu, 09 Feb 2023 03:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_215/ilRer_1675912535109udMMP_JPEG/cover_cover_MYH20230209005400641_20230209121502050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 사상 초유의 장관 탄핵소추…향후 총선 영향은?]]></title>
+            <link>https://tv.naver.com/v/33004972</link>
+            <guid>https://tv.naver.com/v/33004972</guid>
+            <pubDate>Thu, 09 Feb 2023 03:24:03 GMT</pubDate>
+            <content:encoded><![CDATA[40:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_172/3xbd7_1675911089948hmzGN_JPEG/cover_cover_MYH20230209005100641_20230209114403799.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨톡톡] "밤사이 비 온다구요?"…먼지는 완전 해소]]></title>
             <link>https://tv.naver.com/v/33004685</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 08 Feb 2023 23:19:56 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230209_270/tnhcE_1675898953557NrgC5_JPEG/cover_cover_MYH20230209001600641_20230209073007987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마레이 27점 맹활약…LG, 가스공사 꺾어]]></title>
-            <link>https://tv.naver.com/v/33001420</link>
-            <guid>https://tv.naver.com/v/33001420</guid>
-            <pubDate>Wed, 08 Feb 2023 23:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_25/jCB6M_1675898927799HuhDF_JPEG/cover_cover_MYH20230209001500641_20230209072901788.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[AM-PM] '라임 주범' 김봉현 오늘 1심 선고 外]]></title>
-            <link>https://tv.naver.com/v/33001411</link>
-            <guid>https://tv.naver.com/v/33001411</guid>
-            <pubDate>Wed, 08 Feb 2023 23:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230209_140/RlOZu_1675895232541pqngK_JPEG/cover_cover_MYH20230209001200641_20230209072603745.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
