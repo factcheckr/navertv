@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 05:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 06:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정은 단독 모자이크 벽화 등장...주민 헌화도 포착]]></title>
+            <link>https://tv.naver.com/v/33057378</link>
+            <guid>https://tv.naver.com/v/33057378</guid>
+            <pubDate>Sat, 11 Feb 2023 06:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_60/mYRVg_1676093238705VAEag_JPEG/cover_cover_202302111128191069_t_20230211142702236.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 온화한 주말...전국 낮 기온 10℃ 안팎 '초봄 날씨']]></title>
             <link>https://tv.naver.com/v/33057145</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Feb 2023 01:26:49 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230211_248/a2Njd_1676074433275LVjzX_JPEG/cover_cover_202302110909199541_t_20230211091302028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 오전까지 안개, 서쪽 공기 탁해...큰 일교차 유의]]></title>
-            <link>https://tv.naver.com/v/33053870</link>
-            <guid>https://tv.naver.com/v/33053870</guid>
-            <pubDate>Sat, 11 Feb 2023 01:26:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_15/vFncq_1676073022708HRTyb_JPEG/cover_cover_202302110845277237_t_20230211084904599.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
