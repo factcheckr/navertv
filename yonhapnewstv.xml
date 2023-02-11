@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 19:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 20:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 585회]]></title>
+            <link>https://tv.naver.com/v/33067470</link>
+            <guid>https://tv.naver.com/v/33067470</guid>
+            <pubDate>Sat, 11 Feb 2023 20:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[30:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_32/xNH0A_1676145802921jqUIm_JPEG/cover_cover_MYH20230210015000641_20230212050101773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['필수의료 대책' 구호만 허공에…이번엔 실효성 있을까? [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/33063990</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Feb 2023 07:17:16 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230211_255/A57xc_167609982382934SNh_JPEG/cover_cover_MYH20230211007800641_20230211161603906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진앙 근처서 115시간 만에 임신부·6살 딸 구조]]></title>
-            <link>https://tv.naver.com/v/33058647</link>
-            <guid>https://tv.naver.com/v/33058647</guid>
-            <pubDate>Sat, 11 Feb 2023 07:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_15/OfLKn_16760995592982Fnpv_JPEG/cover_cover_MYH20230211007700032_20230211160702021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
