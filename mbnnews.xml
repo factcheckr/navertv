@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 20:20:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 21:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[342회_고혈압 증가 원인과 산불 예방법]]></title>
+            <link>https://tv.naver.com/v/33067527</link>
+            <guid>https://tv.naver.com/v/33067527</guid>
+            <pubDate>Sat, 11 Feb 2023 21:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[14:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_189/3DPaN_1676148411573cBzuY_JPEG/cover_cover_20230212053809_20_849_1320359_1080_7_20230212054001240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스센터 날씨] 내일, 남부 비·영동 눈…예년보다 포근해요]]></title>
             <link>https://tv.naver.com/v/33064307</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Feb 2023 12:37:01 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230210_115/zK3xb_1676029352615XWEeX_JPEG/cover_cover_20230210203109_20_552_1320327_1080_7_20230210204201233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] "많이 억울하다" 이재명 대표의 심경?]]></title>
-            <link>https://tv.naver.com/v/33046322</link>
-            <guid>https://tv.naver.com/v/33046322</guid>
-            <pubDate>Fri, 10 Feb 2023 12:37:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:05:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230210_164/kUjUy_1676029292271H5ytM_JPEG/cover_cover_20230210201329_20_536_1320326_1080_7_20230210203001217.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
