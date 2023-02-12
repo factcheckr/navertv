@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 05:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 06:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 지진 122시간 만에 70대 구조…생후 10일 아기도 구조]]></title>
+            <link>https://tv.naver.com/v/33071082</link>
+            <guid>https://tv.naver.com/v/33071082</guid>
+            <pubDate>Sun, 12 Feb 2023 06:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_149/XCLuW_1676179777592w0dOl_JPEG/cover_0001035128_001_20230212142801136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[비머pick] 해외 간 줄 알았던 부부가 남긴 안타까운 메모]]></title>
             <link>https://tv.naver.com/v/33070936</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Feb 2023 13:23:15 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230211_235/KLALq_1676119513678ow9Na_JPEG/cover_0001035022_001_20230211214401179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국회의원 93%가 불참한 본회의장…대정부질문 '무용론']]></title>
-            <link>https://tv.naver.com/v/33063703</link>
-            <guid>https://tv.naver.com/v/33063703</guid>
-            <pubDate>Sat, 11 Feb 2023 13:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_287/AK5Oe_1676119508103FbTjn_JPEG/cover_0001035027_001_20230211214346855.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
