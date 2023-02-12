@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 20:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 21:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/33081282</link>
+            <guid>https://tv.naver.com/v/33081282</guid>
+            <pubDate>Sun, 12 Feb 2023 21:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_214/znOmn_1676236124565v4oJR_JPEG/cover_0001035208_001_20230213060801150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[147시간 견뎌 이뤄낸 '기적'…아찔한 구조 현장]]></title>
             <link>https://tv.naver.com/v/33076916</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 12 Feb 2023 05:18:00 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230212_124/15th5_1676178609088lGktN_JPEG/cover_0001035121_001_20230212140901104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비머pick] '카공족'한테 이렇게까지 당해봤다는 카페 업주들의 하소연]]></title>
-            <link>https://tv.naver.com/v/33070873</link>
-            <guid>https://tv.naver.com/v/33070873</guid>
-            <pubDate>Sun, 12 Feb 2023 05:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230212_159/Tl8rB_16761785181673KwLU_JPEG/cover_0001035120_001_20230212140807697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
