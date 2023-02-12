@@ -4,9 +4,25 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Feb 2023 22:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Feb 2023 23:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지진 사망자 3만 3천명 넘어…159시간 만에 '기적의 구조']]></title>
+            <link>https://tv.naver.com/v/33082128</link>
+            <guid>https://tv.naver.com/v/33082128</guid>
+            <pubDate>Sun, 12 Feb 2023 23:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_177/twOnz_1676243872006rIHkn_JPEG/cover_0000332007_001_20230213081701480.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 세종·충남·전북 초미세먼지 '나쁨'…강원 일부 대설 특보]]></title>
+            <link>https://tv.naver.com/v/33082071</link>
+            <guid>https://tv.naver.com/v/33082071</guid>
+            <pubDate>Sun, 12 Feb 2023 23:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_113/gqeT6_1676243376079usWiw_JPEG/cover_0000332005_001_20230213080906028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] "'베트남전' 판결, 대한민국은 일본과 다르다는 것 명확히 보여준 것"]]></title>
             <link>https://tv.naver.com/v/33077985</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 11 Feb 2023 12:33:46 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230211_267/gnCrA_1676115941932YNWFS_JPEG/cover_0000331928_001_20230211204501517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폐허 한복판서 추위 견디며 끼니 해결…지진이 앗아간 일상]]></title>
-            <link>https://tv.naver.com/v/33062914</link>
-            <guid>https://tv.naver.com/v/33062914</guid>
-            <pubDate>Sat, 11 Feb 2023 12:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_270/ixv1r_1676115890277DnvgC_JPEG/cover_0000331923_001_20230211204401548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[115시간 만에 임신부·6살 딸 구조…기적의 생존자들]]></title>
-            <link>https://tv.naver.com/v/33062901</link>
-            <guid>https://tv.naver.com/v/33062901</guid>
-            <pubDate>Sat, 11 Feb 2023 12:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230211_41/RZ5uA_16761158466419JzFx_JPEG/cover_0000331922_001_20230211204310363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
