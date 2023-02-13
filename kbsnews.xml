@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 13:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 14:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 7.9도…내일도 흐리고 1~11도]]></title>
+            <link>https://tv.naver.com/v/33103306</link>
+            <guid>https://tv.naver.com/v/33103306</guid>
+            <pubDate>Mon, 13 Feb 2023 14:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_183/iQLZY_1676297781043rQRHY_JPEG/cover_0011427800_001_20230213231601157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘13일은 헌혈의 날’…경남 혈액 수급 ‘빨간불’]]></title>
             <link>https://tv.naver.com/v/33101923</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 13:27:23 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_40/XncLh_1676293817682AeaqL_JPEG/cover_0011427772_001_20230213220931934.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북지역 정치권, 곽상도 무죄 판결 공방]]></title>
-            <link>https://tv.naver.com/v/33101671</link>
-            <guid>https://tv.naver.com/v/33101671</guid>
-            <pubDate>Mon, 13 Feb 2023 13:27:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_161/uucuq_1676293783382u6Jvt_JPEG/cover_0011427771_001_20230213220925719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

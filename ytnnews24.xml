@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 13:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 14:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사망자 3만5천여 명...더딘 구호·커지는 고통]]></title>
+            <link>https://tv.naver.com/v/33103286</link>
+            <guid>https://tv.naver.com/v/33103286</guid>
+            <pubDate>Mon, 13 Feb 2023 14:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_54/gGq5y_1676297771001XkfKV_JPEG/cover_cover_202302132311321913_t_20230213231502723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹 "형제국인 튀르키예 더 돕자"...2진 구호대, 16일 출발]]></title>
             <link>https://tv.naver.com/v/33102143</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 12:38:11 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_122/RWDkY_1676290395802cPG7X_JPEG/cover_cover_202302131624086563_t_20230213211303106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["새로운 증거 쏟아졌는데?"...김건희 여사 '국민특검' 예고한 민주당 [뉴스케치]]]></title>
-            <link>https://tv.naver.com/v/33100015</link>
-            <guid>https://tv.naver.com/v/33100015</guid>
-            <pubDate>Mon, 13 Feb 2023 12:38:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_172/FCm4o_16762898610060pUgD_JPEG/cover_cover_202302132100013115_t_20230213210309268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

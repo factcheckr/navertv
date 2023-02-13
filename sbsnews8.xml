@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 13:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 14:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SDF영상] 일이 질병이 되는 디스토피아…콜센터 노동]]></title>
+            <link>https://tv.naver.com/v/33103023</link>
+            <guid>https://tv.naver.com/v/33103023</guid>
+            <pubDate>Mon, 13 Feb 2023 14:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[9:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_178/0mgQz_16762972419275W20G_JPEG/cover_0001035441_001_20230213230301137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['곽상도 무죄'에 검찰 항소…"상식 부합하지 않아"]]></title>
             <link>https://tv.naver.com/v/33101056</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 12:37:30 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_154/gAeWB_1676290907768uNeDa_JPEG/cover_0001035433_001_20230213211901143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[믿기지 않는 아웃코스 역전극…박지원, 시즌 종합 우승]]></title>
-            <link>https://tv.naver.com/v/33100350</link>
-            <guid>https://tv.naver.com/v/33100350</guid>
-            <pubDate>Mon, 13 Feb 2023 12:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_212/4bcdj_1676290765750DkBmF_JPEG/cover_0001035431_001_20230213211801143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
