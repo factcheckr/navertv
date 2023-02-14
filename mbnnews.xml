@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 20:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 21:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[343회_코로나19 유행 전망과 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/33138657</link>
+            <guid>https://tv.naver.com/v/33138657</guid>
+            <pubDate>Tue, 14 Feb 2023 21:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[15:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_33/HbpLu_1676408914739Nuah9_JPEG/cover_cover_20230215055558_20_849_1320593_1080_7_20230215060001203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 검찰, 오늘내일 이재명 영장 청구 결정]]></title>
             <link>https://tv.naver.com/v/33127430</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Feb 2023 10:24:01 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_1/H7R3q_1676369591242sb7NP_JPEG/cover_cover_20230214190951_20_552_1320559_1080_7_20230214191201212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰 "금명간 이재명 구속영장 청구 여부 결정"]]></title>
-            <link>https://tv.naver.com/v/33123435</link>
-            <guid>https://tv.naver.com/v/33123435</guid>
-            <pubDate>Tue, 14 Feb 2023 10:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_71/uxKOm_1676369472314OJcRQ_JPEG/cover_cover_20230214190720_20_552_1320558_1080_7_20230214191001187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
