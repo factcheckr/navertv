@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 07:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 08:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판결문에 30번 이상 언급…“김건희 계좌, 2차 조작에도 쓰여”]]></title>
+            <link>https://tv.naver.com/v/33120246</link>
+            <guid>https://tv.naver.com/v/33120246</guid>
+            <pubDate>Tue, 14 Feb 2023 08:27:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_7/ZJymi_1676362027089wEbaw_JPEG/cover_0000243742_001_20230214170601640.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈, 한 달간 밤길 미행당했다…경찰, 용의자 수사 착수]]></title>
             <link>https://tv.naver.com/v/33118484</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 12:38:27 GMT</pubDate>
             <content:encoded><![CDATA[4:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230213_5/O0KMk_1676288106856BBzd3_JPEG/cover_0000243756_001_20230213203310945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]노조 갑질과의 전쟁에 ‘50명 특진’ 걸었다]]></title>
-            <link>https://tv.naver.com/v/33099389</link>
-            <guid>https://tv.naver.com/v/33099389</guid>
-            <pubDate>Mon, 13 Feb 2023 12:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230213_292/KWGqV_1676288046667H3uVU_JPEG/cover_0000243760_001_20230213203301584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
