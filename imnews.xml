@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 01:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 02:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[튀르키예 파견 멕시코 구조견, 임무 수행 중 순직]]></title>
+            <link>https://tv.naver.com/v/33109282</link>
+            <guid>https://tv.naver.com/v/33109282</guid>
+            <pubDate>Tue, 14 Feb 2023 02:51:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_126/24YLv_167633971777415vK4_JPEG/cover_cover_today_20230214_065326_2_13_Large_U_20230214105502536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고등학생이 왜 이런 곳에?‥콜센터 여고생의 죽음]]></title>
             <link>https://tv.naver.com/v/33108416</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 23:20:08 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_211/9aH26_16763298739607YIrA_JPEG/cover_cover_today_20230214_073443_2_27_Large_20230214081052421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] 뉴진스 신곡 가장 많이 들은 국가는?]]></title>
-            <link>https://tv.naver.com/v/33106702</link>
-            <guid>https://tv.naver.com/v/33106702</guid>
-            <pubDate>Mon, 13 Feb 2023 23:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_118/2HrWu_1676329866291xyDgk_JPEG/cover_cover_today_20230214_073443_2_26_Large_20230214081044255.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
