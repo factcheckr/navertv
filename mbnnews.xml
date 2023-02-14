@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 06:27:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 07:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/33117569</link>
+            <guid>https://tv.naver.com/v/33117569</guid>
+            <pubDate>Tue, 14 Feb 2023 07:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_131/TYSU9_1676357080087Vx6lw_JPEG/cover_cover_20230214154004_20_845_1320538_1080_7_20230214154401190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] '직장인이 봉이냐'…근로소득세 5년새 70% 증가]]></title>
             <link>https://tv.naver.com/v/33114930</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Feb 2023 23:21:18 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_246/pZdDY_1676328018180kWa5F_JPEG/cover_cover_20230214073257_20_605_1320504_1080_7_20230214074001208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미일, 북핵 위협에 "삼각 공조 강화"로 맞대응]]></title>
-            <link>https://tv.naver.com/v/33106420</link>
-            <guid>https://tv.naver.com/v/33106420</guid>
-            <pubDate>Mon, 13 Feb 2023 23:21:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_198/6TtJ5_1676327709548RcYIY_JPEG/cover_cover_20230214073031_20_605_1320503_1080_7_20230214073401171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
