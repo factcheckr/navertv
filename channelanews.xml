@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 12:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 13:31:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독 인터뷰]젤렌스카 영부인 “전쟁에 무관심해지는 게 가슴 아파”]]></title>
+            <link>https://tv.naver.com/v/33130990</link>
+            <guid>https://tv.naver.com/v/33130990</guid>
+            <pubDate>Tue, 14 Feb 2023 13:31:23 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_276/MHzw1_16763808443808ySWG_JPEG/cover_0000243820_001_20230214221701585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘구조 동물 98마리 안락사’ 박소연에 징역 2년 선고]]></title>
             <link>https://tv.naver.com/v/33126736</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Feb 2023 11:18:20 GMT</pubDate>
             <content:encoded><![CDATA[5:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230214_273/xlphI_1676372145924dlKQv_JPEG/cover_0000243817_001_20230214195301546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“이대로 가면 이재명 대통령”…“회유 아닌 위로” 라는 정성호]]></title>
-            <link>https://tv.naver.com/v/33124770</link>
-            <guid>https://tv.naver.com/v/33124770</guid>
-            <pubDate>Tue, 14 Feb 2023 11:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[8:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230214_86/vIpEf_1676372159776F5uIc_JPEG/cover_0000243818_001_20230214195228556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
