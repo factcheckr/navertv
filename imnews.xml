@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 09:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 10:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 왜 뿌리 뽑히지 않나..시대를 역행하는 이런 선거]]></title>
+            <link>https://tv.naver.com/v/33162514</link>
+            <guid>https://tv.naver.com/v/33162514</guid>
+            <pubDate>Wed, 15 Feb 2023 10:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_16/STtVH_1676455133631AR1NF_JPEG/cover_cover_230215_election_thumb_640_20230215185803589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["계좌 3개 시세조종 이용"‥판결문에 '김건희' 37번]]></title>
             <link>https://tv.naver.com/v/33160737</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Feb 2023 07:18:53 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230215_20/98XYZ_1676444053296U0QkL_JPEG/cover_cover_14news_20230215_142914_1_6_Large_20230215155327365.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스외전 이슈+] 김만배 또 구속영장 청구‥이유는?]]></title>
-            <link>https://tv.naver.com/v/33154418</link>
-            <guid>https://tv.naver.com/v/33154418</guid>
-            <pubDate>Wed, 15 Feb 2023 07:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[19:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_22/iG6O8_1676444214991b2o5r_JPEG/cover_cover_14news_20230215_142513_1_5_Large_20230215155318561.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
