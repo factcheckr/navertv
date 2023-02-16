@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 21:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 22:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,14 @@
             <pubDate>Thu, 16 Feb 2023 03:23:45 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230216_219/r5ZCq_1676516059458VT4Tg_JPEG/1676516042177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[챗GPT 결합 'AI 솔루션' 출시 올거나이즈 신기빈 CAIO]]></title>
+            <link>https://tv.naver.com/v/33181853</link>
+            <guid>https://tv.naver.com/v/33181853</guid>
+            <pubDate>Thu, 16 Feb 2023 22:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[8:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_280/oMvWs_1676515697304Q9ifh_JPEG/1676515654444.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["고마워 형"…한국 구호대 텐트에 적힌 '가슴 찡한' 한글 인사]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Feb 2023 03:25:24 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230215_204/9hlTl_1676429524882Iw5Sy_JPEG/1676429485784.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍선 '한 방'에 못 맞힌 F-16 전투기…"탑건 아니고 '어이쿠'"]]></title>
-            <link>https://tv.naver.com/v/33144456</link>
-            <guid>https://tv.naver.com/v/33144456</guid>
-            <pubDate>Wed, 15 Feb 2023 02:52:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230215_110/XEulA_1676429412692Ywmys_JPEG/1676429409360.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
