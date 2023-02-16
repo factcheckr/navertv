@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 20:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 21:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[344회_지진 전망과 피해 예방요령]]></title>
+            <link>https://tv.naver.com/v/33211165</link>
+            <guid>https://tv.naver.com/v/33211165</guid>
+            <pubDate>Thu, 16 Feb 2023 21:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[15:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_4/DSOdI_1676581834109ERAEj_JPEG/cover_cover_20230217055843_20_849_1320805_1080_7_20230217060201202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 국민의힘 당권주자 첫 TV토론 "서로 내가 1등"]]></title>
             <link>https://tv.naver.com/v/33203301</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 10:23:17 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230216_45/Xj396_1676542445492zu8ux_JPEG/cover_cover_20230216190928_20_552_1320772_1080_7_20230216191301149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김주하 앵커가 전하는 2월 16일 MBN 뉴스7 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/33198809</link>
-            <guid>https://tv.naver.com/v/33198809</guid>
-            <pubDate>Thu, 16 Feb 2023 10:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_256/B38Zm_1676542088672zm3iA_JPEG/cover_cover_20230216190327_20_552_1320770_1080_7_20230216190702965.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
