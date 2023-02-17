@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 08:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 09:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 17 Feb 2023 08:26:12 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_172/s2ojI_1676622291781E9gWp_JPEG/cover_cover_20230217171455_20_845_1320856_1080_7_20230217172401168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 프레스룸] SM 이수만 역외 탈세 의혹…국세청 "사실 관계 파악 중"]]></title>
+            <link>https://tv.naver.com/v/33229789</link>
+            <guid>https://tv.naver.com/v/33229789</guid>
+            <pubDate>Fri, 17 Feb 2023 09:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[8:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_139/zmxa0_1676622374391KA0X3_JPEG/cover_cover_20230217170721_20_812_1320855_1080_7_20230217172201171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 무임승차 두고…'잠룡' 오세훈·원희룡 신경전?]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 23:21:31 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_16/YGGHs_1676588600325XlN8u_JPEG/cover_cover_20230217075827_20_605_1320823_1080_7_20230217080301139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시아 최대 화훼시장을 가다…쿤밍 더우난 꽃 시장]]></title>
-            <link>https://tv.naver.com/v/33212281</link>
-            <guid>https://tv.naver.com/v/33212281</guid>
-            <pubDate>Thu, 16 Feb 2023 23:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_163/5ApnS_1676588417303pIPu0_JPEG/cover_cover_20230217075536_20_605_1320822_1080_7_20230217075901154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

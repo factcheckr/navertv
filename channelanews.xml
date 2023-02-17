@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 08:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 09:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]“퍼슈터가 왔다”…내가 만든 ‘내 캐릭터’]]></title>
+            <link>https://tv.naver.com/v/33230554</link>
+            <guid>https://tv.naver.com/v/33230554</guid>
+            <pubDate>Fri, 17 Feb 2023 09:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_68/iPHUx_1676623117458mj7sp_JPEG/cover_0000244031_001_20230217173701549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[與 전대 ‘혼전’…책임당원 대상 여론조사 결과?]]></title>
             <link>https://tv.naver.com/v/33222489</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 12:38:28 GMT</pubDate>
             <content:encoded><![CDATA[4:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230216_300/VkOhc_1676550745673nTVxT_JPEG/cover_0000243971_001_20230216212901557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘 전당대회 ‘당심’ 앞서가는 김기현]]></title>
-            <link>https://tv.naver.com/v/33202864</link>
-            <guid>https://tv.naver.com/v/33202864</guid>
-            <pubDate>Thu, 16 Feb 2023 13:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230216_13/1BmCI_1676552401173pOQLc_JPEG/cover_0000243970_001_20230216212824355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
