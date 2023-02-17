@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 06:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 07:19:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/33226276</link>
+            <guid>https://tv.naver.com/v/33226276</guid>
+            <pubDate>Fri, 17 Feb 2023 07:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_174/7W8xU_1676617542356fpzB1_JPEG/cover_cover_20230217155107_20_845_1320847_1080_7_20230217160501144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[토요와이드] 해 넘기는 이재명 '사법 리스크' 1231]]></title>
+            <link>https://tv.naver.com/v/33225449</link>
+            <guid>https://tv.naver.com/v/33225449</guid>
+            <pubDate>Fri, 17 Feb 2023 07:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[26:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_163/C8bf7_1676617183770R6XtW_JPEG/cover_cover_20221231171221_20_675_1317022_1080_7_20230217154601202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 수영 강습받다 '뇌사판정' 4세…숨지기 하루 전 엄마의 글]]></title>
             <link>https://tv.naver.com/v/33222906</link>
@@ -86,14 +102,6 @@
             <pubDate>Fri, 17 Feb 2023 01:43:57 GMT</pubDate>
             <content:encoded><![CDATA[20:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_177/NM83E_1676598114314ocxF0_JPEG/cover_cover_20230217102527_20_606_1320837_1080_7_20230217103101135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[토요와이드] 해 넘기는 이재명 '사법 리스크' 1231]]></title>
-            <link>https://tv.naver.com/v/33213814</link>
-            <guid>https://tv.naver.com/v/33213814</guid>
-            <pubDate>Fri, 17 Feb 2023 01:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[26:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_299/3MdIx_1676597345445LlWUD_JPEG/cover_cover_20221231171221_20_675_1317022_1080_7_20230217100501168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[네트워크 특별대담] 이순희 강북구청장 "고도제한 완화, 숙원 풀어낼 것"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Feb 2023 23:21:31 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_217/pE8aj_1676586844331m15AW_JPEG/cover_cover_20230217072751_20_605_1320815_1080_7_20230217073302388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기 화성 39번 국도서 18중 추돌사고…10명 부상]]></title>
-            <link>https://tv.naver.com/v/33211891</link>
-            <guid>https://tv.naver.com/v/33211891</guid>
-            <pubDate>Thu, 16 Feb 2023 23:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_10/qB25c_1676586480323FQ7rv_JPEG/cover_cover_20230217072435_20_605_1320814_1080_7_20230217072701166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
