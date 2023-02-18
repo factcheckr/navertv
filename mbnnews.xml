@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 20:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 21:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[345회_기상 전망과 터널 화재 대응법]]></title>
+            <link>https://tv.naver.com/v/33264352</link>
+            <guid>https://tv.naver.com/v/33264352</guid>
+            <pubDate>Sat, 18 Feb 2023 21:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[14:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_175/cD28n_1676753249982HpqSk_JPEG/cover_cover_20230219053608_20_849_1320933_1080_7_20230219054001216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2월 18일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/33256947</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Feb 2023 13:27:34 GMT</pubDate>
             <content:encoded><![CDATA[6:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_213/sUWiB_1676637873418CfbJt_JPEG/cover_cover_20230217205634_20_536_1320894_1080_7_20230217214201182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] '표 단속-여론전' 민주당의 총력 대응?]]></title>
-            <link>https://tv.naver.com/v/33237357</link>
-            <guid>https://tv.naver.com/v/33237357</guid>
-            <pubDate>Fri, 17 Feb 2023 13:27:34 GMT</pubDate>
-            <content:encoded><![CDATA[18:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_271/dHZ6i_1676638124935nAWPn_JPEG/cover_cover_20230217204317_20_536_1320893_1080_7_20230217214101161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
