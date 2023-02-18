@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 22:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 23:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한 "어제 ICBM '화성-15형' 발사 훈련"]]></title>
+            <link>https://tv.naver.com/v/33264788</link>
+            <guid>https://tv.naver.com/v/33264788</guid>
+            <pubDate>Sat, 18 Feb 2023 23:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_180/9IlhB_16767619954399BctT_JPEG/cover_cover_MYH20230219000200641_20230219081203515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보] 북한 "어제 ICBM '화성-15형' 발사 훈련 진행"]]></title>
             <link>https://tv.naver.com/v/33264591</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Feb 2023 08:23:18 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230218_44/vI8v4_1676708594875SNj5k_JPEG/cover_cover_MYH20230218008800641_20230218172203654.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 체포동의안 국회 표결 27일 잠정 합의]]></title>
-            <link>https://tv.naver.com/v/33253281</link>
-            <guid>https://tv.naver.com/v/33253281</guid>
-            <pubDate>Sat, 18 Feb 2023 08:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230218_175/dNX27_1676708485015QnIAm_JPEG/cover_cover_MYH20230218008700641_20230218172102015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
