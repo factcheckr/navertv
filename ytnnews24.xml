@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 01:39:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 02:47:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 전국에 단비, 남부 최고 20mm...미세먼지 주의]]></title>
+            <link>https://tv.naver.com/v/33245848</link>
+            <guid>https://tv.naver.com/v/33245848</guid>
+            <pubDate>Sat, 18 Feb 2023 02:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230218_42/OLfPg_1676685593281yhyWj_JPEG/cover_cover_202302181054553700_t_20230218105901913.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사유부터 전망까지...키워드로 본 이재명 영장 청구]]></title>
+            <link>https://tv.naver.com/v/33245820</link>
+            <guid>https://tv.naver.com/v/33245820</guid>
+            <pubDate>Sat, 18 Feb 2023 02:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[24:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230218_99/8UVlU_1676685905270zImdv_JPEG/cover_cover_202302181032288760_t_20230218105701878.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알쏭달쏭한 '선고, 판결, 결정, 명령'...차이를 아십니까]]></title>
             <link>https://tv.naver.com/v/33245456</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 17 Feb 2023 22:19:57 GMT</pubDate>
             <content:encoded><![CDATA[0:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230218_225/FwgR5_16766694831924rIu7_JPEG/cover_cover_202302180126165481_t_20230218063101757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 치료 시장 '물꼬'...건강보험 등 과제 어떻게?]]></title>
-            <link>https://tv.naver.com/v/33243822</link>
-            <guid>https://tv.naver.com/v/33243822</guid>
-            <pubDate>Fri, 17 Feb 2023 22:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230218_87/owgfk_1676669395570ufwch_JPEG/cover_cover_202302180625123366_t_20230218062909746.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남의료원 놓고 "개선 기간"·"위탁 운영" 의견 대립]]></title>
-            <link>https://tv.naver.com/v/33243820</link>
-            <guid>https://tv.naver.com/v/33243820</guid>
-            <pubDate>Fri, 17 Feb 2023 22:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230218_113/pfKYg_1676669359390q81Ev_JPEG/cover_cover_202302172346029789_t_20230218062901661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
