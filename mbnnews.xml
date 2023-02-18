@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 23:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 01:39:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["의사 찾아 10년 왕복 700km"…하루 5만 원 원룸에 지내기도]]></title>
+            <link>https://tv.naver.com/v/33244895</link>
+            <guid>https://tv.naver.com/v/33244895</guid>
+            <pubDate>Sat, 18 Feb 2023 01:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230218_165/FjnE1_1676681433870uhYqh_JPEG/cover_cover_20230218094702_20_552_1320904_1080_7_20230218094901166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 이재명 영장에 등장한 "아시타비", 왜?]]></title>
             <link>https://tv.naver.com/v/33237596</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Feb 2023 11:18:04 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_217/Pl4uM_16766301721153HkMC_JPEG/cover_cover_20230217191213_20_552_1320867_1080_7_20230217193501149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MBN 뉴스파이터-'절절한 사랑 고백'이란 이런 것 '황금손']]></title>
-            <link>https://tv.naver.com/v/33234002</link>
-            <guid>https://tv.naver.com/v/33234002</guid>
-            <pubDate>Fri, 17 Feb 2023 11:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[8:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_186/eYALF_1676630157535Yd49Q_JPEG/cover_cover_20230217185451_20_673_1320769_1080_7_20230217193201273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
