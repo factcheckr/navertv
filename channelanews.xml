@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 02:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 03:25:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]‘은퇴 시사’ 김연경의 미래는?]]></title>
+            <link>https://tv.naver.com/v/33267142</link>
+            <guid>https://tv.naver.com/v/33267142</guid>
+            <pubDate>Sun, 19 Feb 2023 03:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_185/nla22_1676776628861HpWrg_JPEG/cover_0000244105_001_20230219121601630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[OPEN 인터뷰]수학은 최치열…골프는 박세리, ‘벌타 스캔들’ 피하는 법]]></title>
             <link>https://tv.naver.com/v/33257352</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Feb 2023 12:37:00 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230217_67/ondQV_1676634884843JGEG1_JPEG/cover_0000244056_001_20230217205327143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘권총살인’ 22년 만에…이승만 무기징역·이정학 징역 20년]]></title>
-            <link>https://tv.naver.com/v/33236061</link>
-            <guid>https://tv.naver.com/v/33236061</guid>
-            <pubDate>Fri, 17 Feb 2023 12:37:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230217_133/dBA5n_1676634877867YnwxK_JPEG/cover_0000244055_001_20230217205318424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
