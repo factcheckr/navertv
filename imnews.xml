@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 23:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 01:42:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트 예고] 용산의힘 어디까지? / 있으나마나 '학폭위']]></title>
+            <link>https://tv.naver.com/v/33265556</link>
+            <guid>https://tv.naver.com/v/33265556</guid>
+            <pubDate>Sun, 19 Feb 2023 01:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_123/L4K70_16767698109467EEBA_JPEG/cover_cover_k230219-16_20230219102302203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오전까지 곳곳 비·눈‥미세먼지 한때 '매우나쁨']]></title>
             <link>https://tv.naver.com/v/33264624</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Feb 2023 03:20:10 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230218_294/nUpiH_1676689650030hfNhb_JPEG/cover_cover_noon_20230218_120157_1_2_Large_20230218120708981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김만배 석 달 만에 재구속‥"증거인멸 우려"]]></title>
-            <link>https://tv.naver.com/v/33246882</link>
-            <guid>https://tv.naver.com/v/33246882</guid>
-            <pubDate>Sat, 18 Feb 2023 03:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230218_46/ilfKp_1676689673687s2yvv_JPEG/cover_cover_noon_20230218_120118_1_1_Large_20230218120701893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
