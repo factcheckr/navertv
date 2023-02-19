@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 20:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 21:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/33284859</link>
+            <guid>https://tv.naver.com/v/33284859</guid>
+            <pubDate>Sun, 19 Feb 2023 21:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_166/Zn6H3_1676841400342UvLTt_JPEG/cover_0001036861_001_20230220061601127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여 "특권 뒤에 숨지 마라" vs 야 "헌법 부여, 당연한 권리"]]></title>
+            <link>https://tv.naver.com/v/33284703</link>
+            <guid>https://tv.naver.com/v/33284703</guid>
+            <pubDate>Sun, 19 Feb 2023 21:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_192/0tb2U_1676838779646kS9G2_JPEG/cover_0001036833_001_20230220053201150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전년도 학력평가 성적 유출…'해킹' 수사 착수]]></title>
             <link>https://tv.naver.com/v/33284611</link>
@@ -78,14 +94,6 @@
             <pubDate>Sun, 19 Feb 2023 12:34:42 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230219_195/l09vF_1676809108083p213S_JPEG/cover_0001036824_001_20230219211719321.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여 "특권 뒤에 숨지 마라" vs 야 "헌법 부여, 당연한 권리"]]></title>
-            <link>https://tv.naver.com/v/33277694</link>
-            <guid>https://tv.naver.com/v/33277694</guid>
-            <pubDate>Sun, 19 Feb 2023 12:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_236/BxNPQ_1676809094624RljuT_JPEG/cover_0001036833_001_20230219211710097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["도움 요청해도 내쫓겼어요"…이재민 울린 '우왕좌왕' 구호]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 19 Feb 2023 05:17:48 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230219_269/gDXoe_1676781566435WA07b_JPEG/cover_0001036730_001_20230219133901119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소주 · 맥주 올해 또 오른다…"식당서 1병에 6천 원 될 수도"]]></title>
-            <link>https://tv.naver.com/v/33267982</link>
-            <guid>https://tv.naver.com/v/33267982</guid>
-            <pubDate>Sun, 19 Feb 2023 05:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_246/HqZOd_16767807880936Sbzq_JPEG/cover_0001036771_001_20230219132601134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
