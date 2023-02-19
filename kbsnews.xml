@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 05:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 06:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“우리는 형제의 나라, 한국 구호대 평생 감사합니다”]]></title>
+            <link>https://tv.naver.com/v/33268955</link>
+            <guid>https://tv.naver.com/v/33268955</guid>
+            <pubDate>Sun, 19 Feb 2023 06:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230219_79/E2xSW_1676784527205qlihT_PNG/cover_0011431177_001_20230219142809196.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] 절기 ‘우수’ 찬 바람에 추워져…미세먼지 점차 해소]]></title>
             <link>https://tv.naver.com/v/33267119</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Feb 2023 13:22:47 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230218_283/trzMT_1676726312119F2Acr_JPEG/cover_0011431115_001_20230218221815299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산시, 해양 생태계 보전·관리 실천계획 마련]]></title>
-            <link>https://tv.naver.com/v/33259692</link>
-            <guid>https://tv.naver.com/v/33259692</guid>
-            <pubDate>Sat, 18 Feb 2023 13:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230218_5/btqOj_1676726310373E7YPX_JPEG/cover_0011431114_001_20230218221809536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
