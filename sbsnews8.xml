@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 09:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 10:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/33305066</link>
+            <guid>https://tv.naver.com/v/33305066</guid>
+            <pubDate>Mon, 20 Feb 2023 10:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_295/I6cyr_1676887666030y4Ghf_JPEG/cover_0001036822_001_20230220190702988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[D리포트] '126억 전세 사기'…인천 '건축왕' 구속]]></title>
+            <link>https://tv.naver.com/v/33304551</link>
+            <guid>https://tv.naver.com/v/33304551</guid>
+            <pubDate>Mon, 20 Feb 2023 10:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_288/UBYvA_1676886627417mLOJx_JPEG/cover_0001037068_001_20230220184918554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] '체감 -10도' 더 추워져…수도권 · 영동 건조특보]]></title>
             <link>https://tv.naver.com/v/33303353</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 08:26:01 GMT</pubDate>
             <content:encoded><![CDATA[19:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_216/XY25O_1676877620989bM5wg_JPEG/cover_0001037022_001_20230220161233596.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미궁에 빠진 민주당…이재명 기소되면 대표직은?]]></title>
-            <link>https://tv.naver.com/v/33298773</link>
-            <guid>https://tv.naver.com/v/33298773</guid>
-            <pubDate>Mon, 20 Feb 2023 08:26:01 GMT</pubDate>
-            <content:encoded><![CDATA[20:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_157/tDouz_16768776995413SPWp_JPEG/cover_0001037019_001_20230220161201132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴블더] 당신은 '푸우'인가요?…속옷 내리고 배달한 남성의 최후는?]]></title>
-            <link>https://tv.naver.com/v/33298093</link>
-            <guid>https://tv.naver.com/v/33298093</guid>
-            <pubDate>Mon, 20 Feb 2023 07:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_123/2pw6h_1676876086631hIAyc_JPEG/cover_0001037017_001_20230220155401178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
