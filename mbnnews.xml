@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 08:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 09:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MBN 뉴스파이터-2023년 2월 20일 김명준 앵커 오프닝]]></title>
+            <link>https://tv.naver.com/v/33303552</link>
+            <guid>https://tv.naver.com/v/33303552</guid>
+            <pubDate>Mon, 20 Feb 2023 09:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_176/XaZlq_1676884893596S283V_JPEG/cover_cover_20230220181757_20_673_1321019_1080_7_20230220182101191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무릎 꿇은 대한항공…마일리지 개편 연기 [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/33303177</link>
+            <guid>https://tv.naver.com/v/33303177</guid>
+            <pubDate>Mon, 20 Feb 2023 09:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_12/gYjDy_1676884173243bKN18_JPEG/cover_cover_20230220180505_20_845_1321018_1080_7_20230220180901137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 프레스룸] 1천만 원 들였는데…왜색 논란에 "원점 재검토"]]></title>
             <link>https://tv.naver.com/v/33299917</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 01:45:38 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_17/7wokq_1676853440031257Ol_JPEG/cover_cover_20230220093234_20_689_1320988_1080_7_20230220093601156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월 20일 굿모닝MBN 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/33285732</link>
-            <guid>https://tv.naver.com/v/33285732</guid>
-            <pubDate>Mon, 20 Feb 2023 01:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_119/A9HAr_1676850365570U37uN_JPEG/cover_cover_20230220084210_20_605_1320987_1080_7_20230220084501151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월 20일 굿모닝 MBN 클로징]]></title>
-            <link>https://tv.naver.com/v/33285466</link>
-            <guid>https://tv.naver.com/v/33285466</guid>
-            <pubDate>Sun, 19 Feb 2023 23:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_257/4j9a7_1676848041673muhLw_JPEG/cover_cover_20230220080258_20_605_1320981_1080_7_20230220080704603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
