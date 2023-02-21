@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 06:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 07:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/33333704</link>
+            <guid>https://tv.naver.com/v/33333704</guid>
+            <pubDate>Tue, 21 Feb 2023 07:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_274/5DgH9_1676961820316vhQkX_JPEG/cover_cover_20230221153925_20_845_1321107_1080_7_20230221154301161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 토요포커스] 송재원 한국식품산업클러스터진흥원 본부장 "고령친화식품 산업 발전을 위해 아낌없이 지원할 것"]]></title>
             <link>https://tv.naver.com/v/33329622</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 01:44:09 GMT</pubDate>
             <content:encoded><![CDATA[0:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_109/ZJgGz_1676940221461ajFx1_JPEG/cover_cover_20230221093425_20_605_1321071_1080_7_20230221094301153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드] 오렌지 전투, "마음껏 던져라!"]]></title>
-            <link>https://tv.naver.com/v/33320679</link>
-            <guid>https://tv.naver.com/v/33320679</guid>
-            <pubDate>Tue, 21 Feb 2023 01:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_222/nWce6_1676940104952HvaFw_JPEG/cover_cover_20230221093326_20_605_1321070_1080_7_20230221094101175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

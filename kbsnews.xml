@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 06:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 07:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘 이슈] 배달비 아끼려 포장 주문…배달앱 가격에 ‘화들짝’]]></title>
+            <link>https://tv.naver.com/v/33334964</link>
+            <guid>https://tv.naver.com/v/33334964</guid>
+            <pubDate>Tue, 21 Feb 2023 07:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_268/hpucx_1676963521813P2x1b_PNG/cover_0011432413_001_20230221161121702.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 尹 “건설 현장서 강성노조 불법…방치하면 국가라 할 수 없어”]]></title>
             <link>https://tv.naver.com/v/33330913</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 04:23:42 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_56/VaqOg_1676950067174qzuEt_JPEG/cover_0011432344_001_20230221122701127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고금리에 고통 받는 중소기업…“은행권이 부담 나눠져야”]]></title>
-            <link>https://tv.naver.com/v/33326148</link>
-            <guid>https://tv.naver.com/v/33326148</guid>
-            <pubDate>Tue, 21 Feb 2023 04:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_22/sp3J8_1676949948136EgXeF_JPEG/cover_0011432343_001_20230221122501137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
