@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 17:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 18:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/33353164</link>
+            <guid>https://tv.naver.com/v/33353164</guid>
+            <pubDate>Tue, 21 Feb 2023 18:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_219/2iL6a_1677000152179iNx4H_JPEG/cover_0001037419_001_20230222022201163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 아침까지 '영하 5도 안팎' 추위…곳곳 대기 건조]]></title>
+            <link>https://tv.naver.com/v/33353160</link>
+            <guid>https://tv.naver.com/v/33353160</guid>
+            <pubDate>Tue, 21 Feb 2023 18:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_125/mvFbn_1677000097292qCzn3_JPEG/cover_0001037418_001_20230222022101138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[나이트라인 초대석] 진선규 "선역은 스스로 의심 많아…악역 오히려 매력적"]]></title>
             <link>https://tv.naver.com/v/33353104</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 12:37:08 GMT</pubDate>
             <content:encoded><![CDATA[3:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_171/AHRyM_1676982801129QPsRS_JPEG/cover_0001037379_001_20230221213145200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["북, 유엔 안보리 조롱한다" 비판에도 또 '빈손']]></title>
-            <link>https://tv.naver.com/v/33346025</link>
-            <guid>https://tv.naver.com/v/33346025</guid>
-            <pubDate>Tue, 21 Feb 2023 12:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_46/iudGc_1676982758474RWl2r_JPEG/cover_0001037380_001_20230221213126534.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[집단폭행 1년 후…산산조각난 가정은 아물지 않았다]]></title>
-            <link>https://tv.naver.com/v/33346008</link>
-            <guid>https://tv.naver.com/v/33346008</guid>
-            <pubDate>Tue, 21 Feb 2023 12:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_233/2RdNA_16769827492083h1vc_JPEG/cover_0001037381_001_20230221213110879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
