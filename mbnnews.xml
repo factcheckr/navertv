@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 20:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 21:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[346회_코로나19 유행 전망과 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/33354594</link>
+            <guid>https://tv.naver.com/v/33354594</guid>
+            <pubDate>Tue, 21 Feb 2023 21:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[15:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_269/gz78x_1677013748769LzS9S_JPEG/cover_cover_20230222055735_20_849_1321157_1080_7_20230222060201175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] 민주당, 체포동의안 '자율 투표' 결정]]></title>
             <link>https://tv.naver.com/v/33344124</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 10:22:43 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_175/A1R8k_1676974209159Sznpy_JPEG/cover_cover_20230221190641_20_552_1321122_1080_7_20230221190901152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 "노조 불법 방치하면 국가 아니다" 신조어 '건폭' 내걸며 전면전]]></title>
-            <link>https://tv.naver.com/v/33341763</link>
-            <guid>https://tv.naver.com/v/33341763</guid>
-            <pubDate>Tue, 21 Feb 2023 10:22:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_261/ywrPT_1676974142189dvOaU_JPEG/cover_cover_20230221190540_20_552_1321121_1080_7_20230221190701170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
