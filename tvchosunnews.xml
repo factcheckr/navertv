@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 10:22:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 11:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월 21일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/33343349</link>
+            <guid>https://tv.naver.com/v/33343349</guid>
+            <pubDate>Tue, 21 Feb 2023 11:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_226/ahpDO_1676977606874Mz8zH_JPEG/cover_2023022190183_thumb_080043_20230221200601644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹 만난 윤하 "사건의 지평선, 과학 성과 없이 태어나지 못했을 곡"]]></title>
             <link>https://tv.naver.com/v/33340857</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Feb 2023 14:20:22 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230220_163/7lN12_1676900532979siuOd_JPEG/cover_2023022090196_thumb_103858_20230220224116547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서툰 한국어 영상에…귀국길에 눈물 터진 韓구호대]]></title>
-            <link>https://tv.naver.com/v/33312528</link>
-            <guid>https://tv.naver.com/v/33312528</guid>
-            <pubDate>Mon, 20 Feb 2023 14:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230220_111/6NI1A_1676900527204k8eD5_JPEG/cover_2023022090214_thumb_103831_20230220224109377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
