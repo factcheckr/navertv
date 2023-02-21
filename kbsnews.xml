@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 05:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 06:26:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 尹 “건설 현장서 강성노조 불법…방치하면 국가라 할 수 없어”]]></title>
+            <link>https://tv.naver.com/v/33330913</link>
+            <guid>https://tv.naver.com/v/33330913</guid>
+            <pubDate>Tue, 21 Feb 2023 06:24:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_146/epUmr_1676958098672ESnvK_JPEG/cover_0011432272_001_20230221144002884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 내일 낮부터 추위 누그러져요]]></title>
             <link>https://tv.naver.com/v/33329669</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Feb 2023 04:23:42 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230221_22/sp3J8_1676949948136EgXeF_JPEG/cover_0011432343_001_20230221122501137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일평균 수출액 15% 감소…무역적자는 이미 60억 달러]]></title>
-            <link>https://tv.naver.com/v/33326128</link>
-            <guid>https://tv.naver.com/v/33326128</guid>
-            <pubDate>Tue, 21 Feb 2023 04:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230221_226/PnXvY_1676949897202AM7Wf_JPEG/cover_0011432342_001_20230221122409981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
