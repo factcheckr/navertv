@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 22:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 23:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 낮기온 올라 포근…미세먼지는 '나쁨']]></title>
+            <link>https://tv.naver.com/v/33388482</link>
+            <guid>https://tv.naver.com/v/33388482</guid>
+            <pubDate>Wed, 22 Feb 2023 23:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_262/h8LPf_1677107427713onJYu_JPEG/cover_0000333202_001_20230223081001606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 고혈압 치료 갔다가…종합병원서 '슈퍼박테리아' 감염]]></title>
             <link>https://tv.naver.com/v/33381753</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Feb 2023 10:22:01 GMT</pubDate>
             <content:encoded><![CDATA[12:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230222_160/QP2Rg_1677057948966mxzFv_JPEG/cover_0000333146_001_20230222182201894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장영상] 소주 6천원 시대?…추경호 "물가 안정, 업계 협조 필요"]]></title>
-            <link>https://tv.naver.com/v/33368771</link>
-            <guid>https://tv.naver.com/v/33368771</guid>
-            <pubDate>Wed, 22 Feb 2023 07:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_260/uG8Yj_1677049445457lWIJs_JPEG/cover_0000333127_001_20230222160301482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
