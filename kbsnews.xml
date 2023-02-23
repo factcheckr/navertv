@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 13:35:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 14:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 대체로 맑고 포근…내일 4~12도]]></title>
+            <link>https://tv.naver.com/v/33417533</link>
+            <guid>https://tv.naver.com/v/33417533</guid>
+            <pubDate>Thu, 23 Feb 2023 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_91/TZx4y_1677161600148ArXtu_JPEG/cover_0011434280_001_20230223231301588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘의 영상] 사우디아라비아에서 만든다는 큐브 모양 건물]]></title>
+            <link>https://tv.naver.com/v/33416840</link>
+            <guid>https://tv.naver.com/v/33416840</guid>
+            <pubDate>Thu, 23 Feb 2023 14:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_241/1lB98_1677160189368Pyj1d_JPEG/cover_0011432756_001_20230223224901149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[문화K] 전북 사립미술관, 개성과 다양성으로 승부!]]></title>
             <link>https://tv.naver.com/v/33416195</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 23 Feb 2023 13:33:21 GMT</pubDate>
             <content:encoded><![CDATA[2:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230223_101/prG7n_1677157937420EsFmC_JPEG/cover_0011434155_001_20230223221058947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전쟁 1년…영상과 지도로 본 타임라인]]></title>
-            <link>https://tv.naver.com/v/33415668</link>
-            <guid>https://tv.naver.com/v/33415668</guid>
-            <pubDate>Thu, 23 Feb 2023 13:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_127/GlOv5_1677157936646kKxrD_JPEG/cover_0011434154_001_20230223221048475.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침체 우려에 쉬어가기…추가 인상 가능성 열어놔]]></title>
-            <link>https://tv.naver.com/v/33415661</link>
-            <guid>https://tv.naver.com/v/33415661</guid>
-            <pubDate>Thu, 23 Feb 2023 13:33:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_67/SImem_1677157894215j3GQI_JPEG/cover_0011434153_001_20230223221038117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
