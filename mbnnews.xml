@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 06:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 07:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 한동훈, 이재명 '96분 해명'에 "판사 앞에 가서 하면 된다"]]></title>
+            <link>https://tv.naver.com/v/33402267</link>
+            <guid>https://tv.naver.com/v/33402267</guid>
+            <pubDate>Thu, 23 Feb 2023 07:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_36/2d9TQ_1677136228887Cc9ir_JPEG/cover_cover_20230223152742_20_868_1321315_1080_7_20230223160901156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/33401047</link>
+            <guid>https://tv.naver.com/v/33401047</guid>
+            <pubDate>Thu, 23 Feb 2023 07:19:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_299/KfE9F_1677134500362L0TjF_JPEG/cover_cover_20230223153844_20_845_1321316_1080_7_20230223154101165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 우주발사체 연료 '블루수소'…"한국 기업이 공급한다"]]></title>
             <link>https://tv.naver.com/v/33398109</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 22 Feb 2023 23:19:22 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230223_34/qRJYA_1677107878508decbH_JPEG/cover_cover_20230223081342_20_605_1321283_1080_7_20230223081701148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동남아로 향하는 중국의 '일대일로' 현장을 가다]]></title>
-            <link>https://tv.naver.com/v/33388531</link>
-            <guid>https://tv.naver.com/v/33388531</guid>
-            <pubDate>Wed, 22 Feb 2023 23:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_55/JZgS1_167710777282519gpe_JPEG/cover_cover_20230223081113_20_605_1321282_1080_7_20230223081501137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든, "푸틴은 큰 잘못"…푸틴 "핵전력 더 강화"]]></title>
-            <link>https://tv.naver.com/v/33388513</link>
-            <guid>https://tv.naver.com/v/33388513</guid>
-            <pubDate>Wed, 22 Feb 2023 23:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_200/8XZaM_1677107657448KjlJ8_JPEG/cover_cover_20230223080858_20_605_1321281_1080_7_20230223081301155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

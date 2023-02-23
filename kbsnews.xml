@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 06:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 07:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/33402426</link>
+            <guid>https://tv.naver.com/v/33402426</guid>
+            <pubDate>Thu, 23 Feb 2023 07:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[7:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_3/8RG5a_1677136523103nx2mz_JPEG/cover_0011433942_001_20230223161301146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[생방송 심층토론] ‘3·8 조합장 선거…개혁 과제는?’ 오늘 밤 10시 방송]]></title>
+            <link>https://tv.naver.com/v/33402142</link>
+            <guid>https://tv.naver.com/v/33402142</guid>
+            <pubDate>Thu, 23 Feb 2023 07:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_113/ZjXd6_16771359788269fcTX_JPEG/cover_0011432538_001_20230223160601760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국정원, ‘국보법 위반 혐의’ 금속노조 경남지부 압수수색]]></title>
             <link>https://tv.naver.com/v/33399811</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 23 Feb 2023 04:26:53 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230223_174/PjnVu_1677123296833ffsok_JPEG/cover_0011433855_001_20230223123409198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 북서부 겨울 폭풍 강타…한인 등산객 3명 사망]]></title>
-            <link>https://tv.naver.com/v/33394401</link>
-            <guid>https://tv.naver.com/v/33394401</guid>
-            <pubDate>Thu, 23 Feb 2023 04:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_98/fgwXQ_1677123289337gxLN9_JPEG/cover_0011433854_001_20230223123401163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘북 ICBM 대응’ 한미일 미사일 방어 훈련]]></title>
-            <link>https://tv.naver.com/v/33394191</link>
-            <guid>https://tv.naver.com/v/33394191</guid>
-            <pubDate>Thu, 23 Feb 2023 04:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_108/zCOD3_1677122887128NdSNI_JPEG/cover_0011433853_001_20230223122719884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

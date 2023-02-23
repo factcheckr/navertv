@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 06:27:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 07:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[씨박스] 12시간을 홀로…무인점포에 버려진 강아지]]></title>
+            <link>https://tv.naver.com/v/33402551</link>
+            <guid>https://tv.naver.com/v/33402551</guid>
+            <pubDate>Thu, 23 Feb 2023 07:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[4:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230223_41/gg2v5_1677136678704I51vc_JPEG/cover_2023022390155_thumb_041039_20230223161601630.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 체포안 표결 앞둔 이재명, 간담회 열고 여론전]]></title>
             <link>https://tv.naver.com/v/33399489</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Feb 2023 15:22:35 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230222_226/g20rV_1677077786607taRmD_JPEG/cover_2023022290227_thumb_115006_20230222235601636.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미일, 동해서 北 미사일 방어 연합훈련…3국 이지스함 동시 출격]]></title>
-            <link>https://tv.naver.com/v/33381319</link>
-            <guid>https://tv.naver.com/v/33381319</guid>
-            <pubDate>Wed, 22 Feb 2023 14:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230222_283/ECQJW_1677072710804IYFFU_JPEG/cover_2023022290211_thumb_102600_20230222223101523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
