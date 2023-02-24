@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 12:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 13:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[정치와이드] '울산 땅' 협공에…김기현 '정면 반박']]></title>
+            <link>https://tv.naver.com/v/33446769</link>
+            <guid>https://tv.naver.com/v/33446769</guid>
+            <pubDate>Fri, 24 Feb 2023 13:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:23:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_5/7xUP8_1677242316066iAg8t_JPEG/cover_cover_20230224203228_20_536_1321473_1080_7_20230224213201190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스7 날씨] 내일까지 영동 많은 눈…주말 아침 추워요]]></title>
             <link>https://tv.naver.com/v/33446649</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Feb 2023 10:23:15 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_251/I8l2d_1677234153522Azl2t_JPEG/cover_cover_20230224191450_20_552_1321440_1080_7_20230224192101154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 "북한, 핵 사용 시 정권 종말"…북 "적대 이어가면 선전포고로 간주"]]></title>
-            <link>https://tv.naver.com/v/33442943</link>
-            <guid>https://tv.naver.com/v/33442943</guid>
-            <pubDate>Fri, 24 Feb 2023 10:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_279/CzVZd_1677233763252NA4Hb_JPEG/cover_cover_20230224191237_20_552_1321439_1080_7_20230224191501143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
