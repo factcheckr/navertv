@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 13:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 14:20:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[생활날씨] 주말 오늘보다 추워…동해안 중심 많은 눈 주의]]></title>
+            <link>https://tv.naver.com/v/33448622</link>
+            <guid>https://tv.naver.com/v/33448622</guid>
+            <pubDate>Fri, 24 Feb 2023 14:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_300/k4V68_1677246032274A9NA7_JPEG/cover_cover_MYH20230224023600641_20230224224003972.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['수사무마 대가 뇌물 약속' 서울경찰청 경무관 대기발령]]></title>
             <link>https://tv.naver.com/v/33448207</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Feb 2023 12:37:38 GMT</pubDate>
             <content:encoded><![CDATA[1:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_297/767MG_1677238060024tfuoq_JPEG/cover_cover_MYH20230224019800641_20230224202702150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['반값 한우'도 좋지만…"유통 구조 고쳐 거품 빼야"]]></title>
-            <link>https://tv.naver.com/v/33444691</link>
-            <guid>https://tv.naver.com/v/33444691</guid>
-            <pubDate>Fri, 24 Feb 2023 12:37:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_139/ujpBB_1677238031291IJjQx_JPEG/cover_cover_MYH20230224019700641_20230224202604102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
