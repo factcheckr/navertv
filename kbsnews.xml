@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Feb 2023 06:26:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 07:19:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미리보기] 9층시사국 : 3.1특집 아베가 그린 그림]]></title>
+            <link>https://tv.naver.com/v/33436288</link>
+            <guid>https://tv.naver.com/v/33436288</guid>
+            <pubDate>Fri, 24 Feb 2023 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_106/WYSRP_1677221423308Hv6RW_JPEG/cover_0011434736_001_20230224155001152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 이슈] “안 오르는 게 없네”…3월 ‘지옥문’ 열린다]]></title>
+            <link>https://tv.naver.com/v/33435436</link>
+            <guid>https://tv.naver.com/v/33435436</guid>
+            <pubDate>Fri, 24 Feb 2023 07:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_212/7YE7n_1677220416621wXADT_PNG/cover_0011434729_001_20230224153301128.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[현장인터뷰] 울진 산불 1년, 산불 대응 어떻게 바뀌었나?]]></title>
             <link>https://tv.naver.com/v/33434838</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 24 Feb 2023 04:24:49 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_91/2g4dJ_1677209882158Iqr9L_JPEG/cover_0011434668_001_20230224123708506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 LA 고등법원, ‘미투 촉발’ 와인스틴 징역 16년형 추가 선고]]></title>
-            <link>https://tv.naver.com/v/33429475</link>
-            <guid>https://tv.naver.com/v/33429475</guid>
-            <pubDate>Fri, 24 Feb 2023 04:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_194/ffhpb_1677209836986OrpUR_JPEG/cover_0011434667_001_20230224123701150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도쿄지사, ‘간토 조선인 학살’ 인정 거부…“역사가 연구 몫” 궤변]]></title>
-            <link>https://tv.naver.com/v/33429446</link>
-            <guid>https://tv.naver.com/v/33429446</guid>
-            <pubDate>Fri, 24 Feb 2023 04:24:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_157/2GS92_1677209809852WB7r0_JPEG/cover_0011434666_001_20230224123602446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
