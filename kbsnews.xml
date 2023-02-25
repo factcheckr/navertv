@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 22:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 23:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 전국 맑고 큰 일교차…대기 매우 건조]]></title>
+            <link>https://tv.naver.com/v/33473385</link>
+            <guid>https://tv.naver.com/v/33473385</guid>
+            <pubDate>Sat, 25 Feb 2023 23:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_181/t8Nnj_1677366876208WfNqP_JPEG/cover_0011435294_001_20230226081413647.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고교 홈페이지에 신입생 내신점수 등 노출]]></title>
+            <link>https://tv.naver.com/v/33473384</link>
+            <guid>https://tv.naver.com/v/33473384</guid>
+            <pubDate>Sat, 25 Feb 2023 23:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_69/RuWzX_1677366861315U3b51_JPEG/cover_0011435293_001_20230226081407907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산~대마도 뱃길 재개…일본 항로 모두 정상화]]></title>
+            <link>https://tv.naver.com/v/33473383</link>
+            <guid>https://tv.naver.com/v/33473383</guid>
+            <pubDate>Sat, 25 Feb 2023 23:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_101/jPc1o_1677366889160gw7a4_JPEG/cover_0011435292_001_20230226081401200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 맑고 큰 일교차…대기 매우 건조]]></title>
             <link>https://tv.naver.com/v/33473056</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 25 Feb 2023 13:22:48 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_253/ktPd3_16773312400968JgBs_JPEG/cover_0011435266_001_20230225222024179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원도, 면세유 구입비 지원 확대…90억 원 투입]]></title>
-            <link>https://tv.naver.com/v/33468667</link>
-            <guid>https://tv.naver.com/v/33468667</guid>
-            <pubDate>Sat, 25 Feb 2023 13:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_120/LvJHp_1677331231053hnQeU_JPEG/cover_0011435265_001_20230225222018726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주 강원 아파트 매매가격 0.18% 하락]]></title>
-            <link>https://tv.naver.com/v/33468663</link>
-            <guid>https://tv.naver.com/v/33468663</guid>
-            <pubDate>Sat, 25 Feb 2023 13:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_216/BIUGr_1677331227033QVuvH_JPEG/cover_0011435264_001_20230225222012727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“강원도민 64.4% 공공장소 음주규제 필요”]]></title>
-            <link>https://tv.naver.com/v/33468659</link>
-            <guid>https://tv.naver.com/v/33468659</guid>
-            <pubDate>Sat, 25 Feb 2023 13:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_215/lMa5J_16773312253162p6pS_JPEG/cover_0011435263_001_20230225222006991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
