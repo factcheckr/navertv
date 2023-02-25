@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 07:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 08:24:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 정순신 신임 국수본부장, 아들 학폭 논란에 사의 표명]]></title>
+            <link>https://tv.naver.com/v/33461932</link>
+            <guid>https://tv.naver.com/v/33461932</guid>
+            <pubDate>Sat, 25 Feb 2023 08:23:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_175/8a5Iu_1677310918492a9MDB_JPEG/cover_0001038388_001_20230225164108477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] "상위 0.1% 연소득, 평균 18억 원…중위소득자의 70배"]]></title>
             <link>https://tv.naver.com/v/33460883</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Feb 2023 22:19:32 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_150/9u7ZC_1677276567681aYlVS_JPEG/cover_0001038305_001_20230225070812619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직무관련성 부인했지만…피감 기관이 '국비 지원']]></title>
-            <link>https://tv.naver.com/v/33453781</link>
-            <guid>https://tv.naver.com/v/33453781</guid>
-            <pubDate>Fri, 24 Feb 2023 22:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_70/fb4HX_1677276305281pFHHI_JPEG/cover_0001038308_001_20230225070401137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
