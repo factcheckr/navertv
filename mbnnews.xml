@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 20:21:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 21:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[348회_식중독과 해빙기 사고 예방법]]></title>
+            <link>https://tv.naver.com/v/33472967</link>
+            <guid>https://tv.naver.com/v/33472967</guid>
+            <pubDate>Sat, 25 Feb 2023 21:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[15:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_46/J8oSZ_1677358426403kJ6Rr_JPEG/cover_cover_20230226054213_20_849_1321505_1080_7_20230226054601175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스센터 날씨] 내일 낮부터 다시 온화…내륙은 건조주의보]]></title>
             <link>https://tv.naver.com/v/33467438</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Feb 2023 12:38:23 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_90/amjLR_1677239277470xsYej_JPEG/cover_cover_20230224204245_20_552_1321474_1080_7_20230224204701155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치와이드] 단톡방 '조용히 사라질 권리'가 뭐길래?]]></title>
-            <link>https://tv.naver.com/v/33444942</link>
-            <guid>https://tv.naver.com/v/33444942</guid>
-            <pubDate>Fri, 24 Feb 2023 12:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[10:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_147/lfHWU_1677238838351SwVnD_JPEG/cover_cover_20230224203003_20_536_1321472_1080_7_20230224203601157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
