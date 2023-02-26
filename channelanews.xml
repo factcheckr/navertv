@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 05:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 06:25:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]제1야당 대표를 왜 구속? 검찰 “10가지 증거인멸”]]></title>
+            <link>https://tv.naver.com/v/33478423</link>
+            <guid>https://tv.naver.com/v/33478423</guid>
+            <pubDate>Sun, 26 Feb 2023 06:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[17:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_51/KBYOl_1677392145273DcVOG_JPEG/cover_0000244567_001_20230226150901543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앞으로 뉴스]스카이72 골프장, ‘버티기 영업’ 종료]]></title>
             <link>https://tv.naver.com/v/33477185</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Feb 2023 12:38:14 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230224_258/SrD5W_1677241821760AjPPE_JPEG/cover_0000244502_001_20230224212909694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]고속도로서 ‘만취 질주’…시민·경찰 포위작전]]></title>
-            <link>https://tv.naver.com/v/33446650</link>
-            <guid>https://tv.naver.com/v/33446650</guid>
-            <pubDate>Fri, 24 Feb 2023 12:38:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230224_208/5OT2b_16772418167224s34Y_JPEG/cover_0000244503_001_20230224212901591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
