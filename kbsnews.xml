@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 23:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 01:48:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 전국 맑고 큰 일교차…대기 매우 건조]]></title>
-            <link>https://tv.naver.com/v/33473385</link>
-            <guid>https://tv.naver.com/v/33473385</guid>
-            <pubDate>Sat, 25 Feb 2023 23:18:53 GMT</pubDate>
+            <title><![CDATA[[창+] 스무살 신부…65년을 기다린 당신의 구두]]></title>
+            <link>https://tv.naver.com/v/33473592</link>
+            <guid>https://tv.naver.com/v/33473592</guid>
+            <pubDate>Sun, 26 Feb 2023 01:47:10 GMT</pubDate>
+            <content:encoded><![CDATA[7:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_266/tlsAs_1677369857211imrTt_PNG/cover_0011435299_001_20230226090103219.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[8시 날씨] 전국 맑고 큰 일교차…대기 매우 건조]]></title>
+            <link>https://tv.naver.com/v/33473438</link>
+            <guid>https://tv.naver.com/v/33473438</guid>
+            <pubDate>Sun, 26 Feb 2023 01:47:11 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_181/t8Nnj_1677366876208WfNqP_JPEG/cover_0011435294_001_20230226081413647.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_71/pKdhI_1677367826014L7z2T_JPEG/cover_0011435294_001_20230226083001190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고교 홈페이지에 신입생 내신점수 등 노출]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Feb 2023 13:22:48 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_211/v08mf_1677331243863cNg0L_JPEG/cover_0011435267_001_20230225222029799.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘춘천사랑상품권’ 다음 달부터 8% 할인…2%p 상향]]></title>
-            <link>https://tv.naver.com/v/33468669</link>
-            <guid>https://tv.naver.com/v/33468669</guid>
-            <pubDate>Sat, 25 Feb 2023 13:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_253/ktPd3_16773312400968JgBs_JPEG/cover_0011435266_001_20230225222024179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
