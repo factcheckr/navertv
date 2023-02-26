@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Feb 2023 03:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Feb 2023 04:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 김주애, 김정은과 함께 평양 도로 건설 착공식에 포착]]></title>
+            <link>https://tv.naver.com/v/33476348</link>
+            <guid>https://tv.naver.com/v/33476348</guid>
+            <pubDate>Sun, 26 Feb 2023 04:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_94/aqoEm_1677384880373v3o0G_JPEG/cover_0001038491_001_20230226131401131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서울 낮 최고 9도…전국 하늘 맑게 드러나]]></title>
             <link>https://tv.naver.com/v/33475497</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Feb 2023 12:34:09 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230225_262/sfr6u_1677326004813FNzrQ_JPEG/cover_0001038415_001_20230225205301169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/33466773</link>
-            <guid>https://tv.naver.com/v/33466773</guid>
-            <pubDate>Sat, 25 Feb 2023 12:34:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230225_96/WgXOc_1677325933129JdvOd_JPEG/cover_0001038422_001_20230225205201195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
