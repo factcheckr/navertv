@@ -4,9 +4,25 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 02:55:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 03:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 맑고 일교차 커…낮 서울 11도·대구 15도]]></title>
+            <link>https://tv.naver.com/v/33498442</link>
+            <guid>https://tv.naver.com/v/33498442</guid>
+            <pubDate>Mon, 27 Feb 2023 03:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230227_1/sKFrn_1677466634406okgSn_JPEG/cover_0000333641_001_20230227115701489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이탈리아에서 난민 태운 배 난파…최소 59명 숨져]]></title>
+            <link>https://tv.naver.com/v/33498407</link>
+            <guid>https://tv.naver.com/v/33498407</guid>
+            <pubDate>Mon, 27 Feb 2023 03:25:39 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230227_265/NHPfQ_1677466580782EyC65_JPEG/cover_0000333640_001_20230227115601538.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["중국, 여전히 러시아 무기 지원 검토…대가 치를 것"]]></title>
             <link>https://tv.naver.com/v/33498281</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 26 Feb 2023 10:20:04 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230226_46/NzAUv_1677405365998CcBc1_JPEG/cover_0000333569_001_20230226185501505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[우알생] "소줏값 6천원은 부담" vs "임대료 부담 녹인 가격"]]></title>
-            <link>https://tv.naver.com/v/33482600</link>
-            <guid>https://tv.naver.com/v/33482600</guid>
-            <pubDate>Sun, 26 Feb 2023 10:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[3:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_228/vA0xq_1677404346798jG1tC_JPEG/cover_0000333561_001_20230226183801573.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 체포동의안 표결 코앞…'이탈표 단속' vs '"소신껏" 압박']]></title>
-            <link>https://tv.naver.com/v/33482456</link>
-            <guid>https://tv.naver.com/v/33482456</guid>
-            <pubDate>Sun, 26 Feb 2023 10:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230226_132/dOnx2_1677403965759Y4uBT_JPEG/cover_0000333565_001_20230226183201536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
