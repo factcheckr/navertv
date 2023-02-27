@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 21:19:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 22:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2월 28일 굿모닝MBN 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/33525599</link>
+            <guid>https://tv.naver.com/v/33525599</guid>
+            <pubDate>Mon, 27 Feb 2023 22:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_35/BqlXE_1677536116162pdNdP_JPEG/cover_cover_20230228070747_20_605_1321635_1080_7_20230228071401149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정치와이드] 찬성 139, 반대 138…체포동의안 표결 의미는?]]></title>
             <link>https://tv.naver.com/v/33516826</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Feb 2023 11:18:35 GMT</pubDate>
             <content:encoded><![CDATA[5:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230227_269/ivu8b_1677493601120zoK3J_JPEG/cover_cover_20230227192159_20_552_1321602_1080_7_20230227192401179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 15분 맹폭…"이재명, 100만 원 폰 주인 몰래 10만 원에 판 셈"]]></title>
-            <link>https://tv.naver.com/v/33513511</link>
-            <guid>https://tv.naver.com/v/33513511</guid>
-            <pubDate>Mon, 27 Feb 2023 10:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230227_234/XdF9a_1677492788793uOJOd_JPEG/cover_cover_20230227190957_20_552_1321599_1080_7_20230227191201223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
