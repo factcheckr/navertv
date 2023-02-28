@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 02:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 03:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 2월 28일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/33531648</link>
+            <guid>https://tv.naver.com/v/33531648</guid>
+            <pubDate>Tue, 28 Feb 2023 03:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_68/N8OgK_1677554558239NVMbU_JPEG/cover_cover_MYH20230228008000641_20230228122203897.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 무더기 이탈표' 영향은…검찰, 영장 재청구할까]]></title>
+            <link>https://tv.naver.com/v/33530484</link>
+            <guid>https://tv.naver.com/v/33530484</guid>
+            <pubDate>Tue, 28 Feb 2023 03:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[26:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_53/hHPLM_1677552732736pyzU5_JPEG/cover_cover_MYH20230228007600641_20230228114003750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 밤중에 일어난 갱단 동시 이감 작전]]></title>
             <link>https://tv.naver.com/v/33530421</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 01:40:52 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_149/LgfVe_1677540270273YH5mP_JPEG/cover_cover_MYH20230228003700641_20230228082403546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국세청 "번호판 대여금·월례비도 법인세 신고해야"]]></title>
-            <link>https://tv.naver.com/v/33526201</link>
-            <guid>https://tv.naver.com/v/33526201</guid>
-            <pubDate>Tue, 28 Feb 2023 01:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_48/RdZZD_1677540207255KwUp9_JPEG/cover_cover_MYH20230228003600641_20230228082301862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주한 우크라대사 "한국, 우크라에 무기공급 해결책 찾길 희망"]]></title>
-            <link>https://tv.naver.com/v/33526172</link>
-            <guid>https://tv.naver.com/v/33526172</guid>
-            <pubDate>Tue, 28 Feb 2023 01:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_229/ZMXIB_1677540081262XomRD_JPEG/cover_cover_MYH20230228003500641_20230228082101931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
