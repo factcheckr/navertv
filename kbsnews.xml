@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 20:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 21:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼일절 ‘산불 비상’…건조특보 속 강풍]]></title>
+            <link>https://tv.naver.com/v/33555516</link>
+            <guid>https://tv.naver.com/v/33555516</guid>
+            <pubDate>Tue, 28 Feb 2023 21:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_167/ZbGL0_1677618836150XCFDQ_JPEG/cover_0011437034_001_20230301061308455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경북 예천 산불 진화율 90%…‘산불 2단계’ 유지]]></title>
+            <link>https://tv.naver.com/v/33555513</link>
+            <guid>https://tv.naver.com/v/33555513</guid>
+            <pubDate>Tue, 28 Feb 2023 21:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_297/wOV3S_167761882511413Rjc_JPEG/cover_0011437033_001_20230301061301132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[라인 날씨] ‘산불 주의’…건조한 날씨 속 영동에 강풍]]></title>
             <link>https://tv.naver.com/v/33553101</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 15:20:30 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_218/bSzbL_1677595114160kjtFF_JPEG/cover_0011436993_001_20230228233813012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산시, 공공기관에 ‘지역제한 경쟁입찰’ 협조 요청]]></title>
-            <link>https://tv.naver.com/v/33552000</link>
-            <guid>https://tv.naver.com/v/33552000</guid>
-            <pubDate>Tue, 28 Feb 2023 15:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_281/BaHUA_16775951032085Od5v_JPEG/cover_0011436992_001_20230228233807134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상의 조사 “울산 미래차 기업 43% 준비 전혀 안 돼”]]></title>
-            <link>https://tv.naver.com/v/33551997</link>
-            <guid>https://tv.naver.com/v/33551997</guid>
-            <pubDate>Tue, 28 Feb 2023 15:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_201/Rfvb1_1677595099534dB2T3_JPEG/cover_0011436991_001_20230228233801186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
