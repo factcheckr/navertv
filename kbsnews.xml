@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 06:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 07:20:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 위안부 문제 “소관 밖” 6번 반복한 일본 장관]]></title>
+            <link>https://tv.naver.com/v/33538897</link>
+            <guid>https://tv.naver.com/v/33538897</guid>
+            <pubDate>Tue, 28 Feb 2023 07:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_50/4PAJt_1677568147084thvT8_PNG/cover_0011436644_001_20230228160821240.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[강릉시 택시 감차 ‘일관성 없는 행정’ 비판]]></title>
             <link>https://tv.naver.com/v/33536368</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 04:26:33 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_247/a7Uvp_1677555405353jusD6_JPEG/cover_0011436575_001_20230228123601188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“월례비-추가 근무 모두 거부”…건설노조 총력 투쟁 예고]]></title>
-            <link>https://tv.naver.com/v/33531958</link>
-            <guid>https://tv.naver.com/v/33531958</guid>
-            <pubDate>Tue, 28 Feb 2023 04:26:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_153/RJnMk_1677555364861rHImN_JPEG/cover_0011436574_001_20230228123516986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
