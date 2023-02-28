@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 13:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 14:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 16.7도…내일 5~13도]]></title>
+            <link>https://tv.naver.com/v/33551213</link>
+            <guid>https://tv.naver.com/v/33551213</guid>
+            <pubDate>Tue, 28 Feb 2023 14:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_57/HdgBU_1677593428953auS41_JPEG/cover_0011436984_001_20230228231001177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘단일대오’ 깨진 민주…“뒤통수 쳤다” vs “빙산의 일각”]]></title>
+            <link>https://tv.naver.com/v/33550408</link>
+            <guid>https://tv.naver.com/v/33550408</guid>
+            <pubDate>Tue, 28 Feb 2023 14:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_131/G0okL_1677591590277tqOx5_JPEG/cover_0011436860_001_20230228223901132.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[궁도장 이전 수년째 답보…공원 조성 ‘차질’]]></title>
             <link>https://tv.naver.com/v/33550110</link>
@@ -136,14 +152,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_169/qnqHE_1677590180816DT6n3_JPEG/cover_0011436861_001_20230228221527877.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘단일대오’ 깨진 민주…“뒤통수 쳤다” vs “빙산의 일각”]]></title>
-            <link>https://tv.naver.com/v/33549807</link>
-            <guid>https://tv.naver.com/v/33549807</guid>
-            <pubDate>Tue, 28 Feb 2023 13:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_70/d1awG_16775901738198wf2S_JPEG/cover_0011436860_001_20230228221518155.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[이재명은 ‘민생 행보’…지도부는 ‘단일대오’ 수습 안간힘]]></title>
             <link>https://tv.naver.com/v/33549804</link>
             <guid>https://tv.naver.com/v/33549804</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 13:28:55 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_263/h0MKx_1677589770419CG3HV_JPEG/cover_0011436975_001_20230228220914139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충남도, 소상공인 도시가스 요금 납부 3개월 유예]]></title>
-            <link>https://tv.naver.com/v/33549640</link>
-            <guid>https://tv.naver.com/v/33549640</guid>
-            <pubDate>Tue, 28 Feb 2023 13:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_225/U1NMv_1677589766889E7wWR_JPEG/cover_0011436974_001_20230228220908036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
