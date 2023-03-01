@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 06:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 07:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['차보다 빨랐던 손'이 학생 구했다]]></title>
+            <link>https://tv.naver.com/v/33564103</link>
+            <guid>https://tv.naver.com/v/33564103</guid>
+            <pubDate>Wed, 01 Mar 2023 07:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_137/qjjzf_1677653665980odW1l_JPEG/cover_cover_R230301-3_20230301155403867.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월 임시국회 시작‥강대강 대치 예고]]></title>
             <link>https://tv.naver.com/v/33561094</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 22:19:35 GMT</pubDate>
             <content:encoded><![CDATA[0:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230301_20/ghYxb_1677622520073NzYx1_JPEG/cover_cover_today_20230301_061240_1_8_Large_20230301071510758.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예천 산불 밤샘 진화‥강한 바람에 진화 더뎌]]></title>
-            <link>https://tv.naver.com/v/33555809</link>
-            <guid>https://tv.naver.com/v/33555809</guid>
-            <pubDate>Tue, 28 Feb 2023 22:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_233/Gv0Or_1677622540411JJUFA_JPEG/cover_cover_today_20230301_061150_1_7_Large_20230301071502194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
