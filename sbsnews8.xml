@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 08:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 09:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 토미 '현수' 에드먼 입국…'마! 이게 빅리그 팬서비스다!']]></title>
+            <link>https://tv.naver.com/v/33566688</link>
+            <guid>https://tv.naver.com/v/33566688</guid>
+            <pubDate>Wed, 01 Mar 2023 09:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_240/WW83P_1677659639615aBNUA_JPEG/cover_0001039273_001_20230301173301144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스브스뉴스] ※최초 공개※ 쫀드기 공장에서 시즈닝 없는 갓 나온 네모스낵 먹어봤습니다]]></title>
             <link>https://tv.naver.com/v/33565914</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 23:20:43 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230301_24/MUdct_1677628383633ErAmh_JPEG/cover_0001039158_001_20230301075710251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미분양 넘치는데, 분양가 더 오른다…원자재값 급등]]></title>
-            <link>https://tv.naver.com/v/33556041</link>
-            <guid>https://tv.naver.com/v/33556041</guid>
-            <pubDate>Tue, 28 Feb 2023 23:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_104/KLxNz_1677625089619p5HsS_JPEG/cover_0001039157_001_20230301075701120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
