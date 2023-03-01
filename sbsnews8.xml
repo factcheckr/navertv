@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 05:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 06:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] "액땜 한 거다"…선전 다짐하는 대표팀 귀국]]></title>
+            <link>https://tv.naver.com/v/33562390</link>
+            <guid>https://tv.naver.com/v/33562390</guid>
+            <pubDate>Wed, 01 Mar 2023 06:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_268/o3N6w_1677649195663mgr02_JPEG/cover_0001039255_001_20230301143901118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['4분 17초'에 멈춘 축구 경기…쏟아진 수천 개의 인형들]]></title>
             <link>https://tv.naver.com/v/33561789</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 23:20:43 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230301_74/G606O_1677624369574D4xkw_JPEG/cover_0001039153_001_20230301074501127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브, SM 주식 거래 조사 요청…카카오, 인수전 참여]]></title>
-            <link>https://tv.naver.com/v/33555946</link>
-            <guid>https://tv.naver.com/v/33555946</guid>
-            <pubDate>Tue, 28 Feb 2023 23:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_279/860M1_16776242443208JOti_JPEG/cover_0001039152_001_20230301074301164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

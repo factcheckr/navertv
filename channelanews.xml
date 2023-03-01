@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 05:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 06:30:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 도심 ‘3·1절 오토바이 폭주’…53명 검거]]></title>
+            <link>https://tv.naver.com/v/33563043</link>
+            <guid>https://tv.naver.com/v/33563043</guid>
+            <pubDate>Wed, 01 Mar 2023 06:30:33 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_161/qN7S8_16776508477233b9DL_JPEG/cover_0000244776_001_20230301150701539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]3·1절 맑고 큰 일교차…메마른 날씨 지속]]></title>
             <link>https://tv.naver.com/v/33561829</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Feb 2023 12:38:59 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230228_293/ha64i_16775847940777K77z_JPEG/cover_0000244744_001_20230228204513314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다시 간다]최악 산불 1년…“바위도 나무도 겁나요”]]></title>
-            <link>https://tv.naver.com/v/33547233</link>
-            <guid>https://tv.naver.com/v/33547233</guid>
-            <pubDate>Tue, 28 Feb 2023 12:38:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_285/90gpZ_1677584838777DT3f3_JPEG/cover_0000244743_001_20230228204501671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
