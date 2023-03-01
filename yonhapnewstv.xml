@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 19:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 20:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본, 尹대통령 기념사에 "한국은 중요한 이웃나라"]]></title>
+            <link>https://tv.naver.com/v/33579768</link>
+            <guid>https://tv.naver.com/v/33579768</guid>
+            <pubDate>Wed, 01 Mar 2023 20:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_170/rA9xP_1677701905450XAqPC_JPEG/cover_cover_MYH20230302000100032_20230302051803503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스초점] '식량난' 북한, 2개월 만에 또 노동당 전원회의]]></title>
             <link>https://tv.naver.com/v/33568816</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Mar 2023 06:29:58 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230301_17/j7y5O_1677651533466LXpAp_JPEG/cover_cover_MYH20230301009500641_20230301151803439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 韓의 징용 배상기금 참여 요구에 "코멘트 삼가겠다"]]></title>
-            <link>https://tv.naver.com/v/33563161</link>
-            <guid>https://tv.naver.com/v/33563161</guid>
-            <pubDate>Wed, 01 Mar 2023 06:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230301_287/ll2XM_1677651148437KkXBW_JPEG/cover_cover_MYH20230301009400641_20230301151203772.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
