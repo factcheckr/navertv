@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 02:58:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 03:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[배우 유아인, 마약류 4종에서 양성 반응...코카인·케타민도 검출]]></title>
+            <link>https://tv.naver.com/v/33585938</link>
+            <guid>https://tv.naver.com/v/33585938</guid>
+            <pubDate>Thu, 02 Mar 2023 03:28:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_45/L95j4_1677726237647oMW4o_JPEG/cover_cover_202303021140099538_t_20230302120302820.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유아인, 최근 6개월 이내에 코카인 했나...유통 경로까지 의심]]></title>
             <link>https://tv.naver.com/v/33585368</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Mar 2023 23:21:45 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230302_122/lfMgu_1677712521243PCbK4_JPEG/cover_cover_202303020802266093_t_20230302081501701.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그리스서 열차 충돌로 최소 40명 사망..."끔찍한 밤"]]></title>
-            <link>https://tv.naver.com/v/33580952</link>
-            <guid>https://tv.naver.com/v/33580952</guid>
-            <pubDate>Wed, 01 Mar 2023 23:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_97/mK6wR_1677712432479IRVtI_JPEG/cover_cover_202303020810118189_t_20230302081301619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
