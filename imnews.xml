@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 08:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 09:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[와글와글] "우리나라 맞나요?" 3·1절에 일장기 내건 집]]></title>
+            <link>https://tv.naver.com/v/33599240</link>
+            <guid>https://tv.naver.com/v/33599240</guid>
+            <pubDate>Thu, 02 Mar 2023 09:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_127/Zgtpw_1677747984292vYfw2_JPEG/cover_cover_today_20230302_065252_2_12_Large_20230302180603553.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일 낮부터 기온 올라‥대기건조 극심·불조심]]></title>
             <link>https://tv.naver.com/v/33596953</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Mar 2023 05:19:01 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230302_199/ZrXfI_1677734079107BzUAk_JPEG/cover_cover_14news_20230302_140658_1_4_Large_20230302141403816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난해 국민연금 수익률 '최저']]></title>
-            <link>https://tv.naver.com/v/33589527</link>
-            <guid>https://tv.naver.com/v/33589527</guid>
-            <pubDate>Thu, 02 Mar 2023 05:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230302_132/3LVWx_1677733952056780tH_JPEG/cover_cover_14news_20230302_140511_1_3_Large_20230302141203798.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
