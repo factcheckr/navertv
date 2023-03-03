@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 13:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 14:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 경찰 바로 앞에서 사라지더니...영화 같은 도주 결말]]></title>
+            <link>https://tv.naver.com/v/33642280</link>
+            <guid>https://tv.naver.com/v/33642280</guid>
+            <pubDate>Fri, 03 Mar 2023 14:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_48/A9KAe_16778507798083A5Nr_JPEG/cover_cover_202303032234290041_t_20230303223902120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국방혁신 4.0...AI로 GP-GOP 경계·北 미사일 '신속 파괴']]></title>
             <link>https://tv.naver.com/v/33641978</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Mar 2023 12:36:46 GMT</pubDate>
             <content:encoded><![CDATA[0:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_166/yFrpi_167784620104681vgb_JPEG/cover_cover_202303031353206988_t_20230303212310087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[대구] 대구시, 국내 첫 표준규격 적용한 AI 횡단보도 구축]]></title>
-            <link>https://tv.naver.com/v/33640057</link>
-            <guid>https://tv.naver.com/v/33640057</guid>
-            <pubDate>Fri, 03 Mar 2023 12:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_86/1k0wu_16778461966702Krit_JPEG/cover_cover_202303031353108351_t_20230303212302241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
