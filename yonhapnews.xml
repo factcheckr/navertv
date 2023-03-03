@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 21:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 22:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Fri, 03 Mar 2023 06:35:36 GMT</pubDate>
             <content:encoded><![CDATA[3:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_95/7iQ9d_1677821781653VHto1_JPEG/1677821597008.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 자율주행 배달 로봇 개발 '올인' 이상민 뉴빌리티 대표]]></title>
+            <link>https://tv.naver.com/v/33624705</link>
+            <guid>https://tv.naver.com/v/33624705</guid>
+            <pubDate>Fri, 03 Mar 2023 22:19:52 GMT</pubDate>
+            <content:encoded><![CDATA[8:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_70/Ld6CO_1677821004055PptNm_JPEG/1677820928385.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍콩 번화가 침사추이 42층 건물 화재…거대한 불덩이]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Mar 2023 04:25:14 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230301_1/JNgIv_1677644372939f29YB_JPEG/1677644349267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤마다 육교서 진풍경이…中 라이브 스트리머들 '돈벌이 경쟁']]></title>
-            <link>https://tv.naver.com/v/33543738</link>
-            <guid>https://tv.naver.com/v/33543738</guid>
-            <pubDate>Tue, 28 Feb 2023 09:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230228_217/F0n51_16775759667807lYcT_JPEG/1677575944429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
