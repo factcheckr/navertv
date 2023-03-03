@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 20:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 21:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“김만배 몰랐다는 尹은?”…이 대표 ‘형평성’ 직격]]></title>
+            <link>https://tv.naver.com/v/33648114</link>
+            <guid>https://tv.naver.com/v/33648114</guid>
+            <pubDate>Fri, 03 Mar 2023 21:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_108/mssDG_1677877866924qcFOl_JPEG/cover_0011438965_001_20230304061001160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 시각 소방청 상황실]]></title>
             <link>https://tv.naver.com/v/33646306</link>
@@ -21,7 +29,7 @@
             <guid>https://tv.naver.com/v/33644696</guid>
             <pubDate>Fri, 03 Mar 2023 15:20:32 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_256/mgFGm_1677856668142R2Cqi_JPEG/cover_0011438950_001_20230304001731219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_172/kLTCo_1677876632351GCMaw_JPEG/cover_0011438950_001_20230304001731219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정선군, 가리왕산 케이블카 운영 활성화 추진]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Mar 2023 15:20:32 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230304_158/BCVeq_1677856079320fM5Pi_JPEG/cover_0011438923_001_20230304000713225.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월 울산 소상공인·전통시장 체겸경기 악화]]></title>
-            <link>https://tv.naver.com/v/33644434</link>
-            <guid>https://tv.naver.com/v/33644434</guid>
-            <pubDate>Fri, 03 Mar 2023 15:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_150/aoL6A_1677856042225w2sQE_JPEG/cover_0011438922_001_20230304000707582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
