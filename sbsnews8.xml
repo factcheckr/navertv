@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 07:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 08:25:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] "좋은 것만 갖고 돌아오겠다"…결연한 의지 보인 WBC 대표팀]]></title>
+            <link>https://tv.naver.com/v/33657416</link>
+            <guid>https://tv.naver.com/v/33657416</guid>
+            <pubDate>Sat, 04 Mar 2023 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_153/AZ0Uf_1677917445643iLdPT_JPEG/cover_0001039998_001_20230304170501162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] "애들 데리고 모텔 갈 판"…아파트 입구에 컨테이너가?]]></title>
             <link>https://tv.naver.com/v/33654342</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Mar 2023 23:20:39 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230304_12/yHKNp_1677882137913xSLfW_JPEG/cover_0001039924_001_20230304072109937.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잇따른 유명인 학폭 폭로…분노 확산에 줄줄이 하차]]></title>
-            <link>https://tv.naver.com/v/33648471</link>
-            <guid>https://tv.naver.com/v/33648471</guid>
-            <pubDate>Fri, 03 Mar 2023 23:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_263/42SbH_1677882112689NqOkU_JPEG/cover_0001039920_001_20230304072101113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
