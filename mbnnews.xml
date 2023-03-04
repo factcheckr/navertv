@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 08:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 09:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 뉴스와이드] 李, 428억 빼고 다음 주 대장동 기소]]></title>
+            <link>https://tv.naver.com/v/33657886</link>
+            <guid>https://tv.naver.com/v/33657886</guid>
+            <pubDate>Sat, 04 Mar 2023 09:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:15:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_180/vCNUC_1677918991320oo3oc_JPEG/cover_cover_20230304171801_20_675_1322018_1080_7_20230304172801171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금리인하 요구하라더니, 주담대 이자 월 4천 원 깎아줬다]]></title>
             <link>https://tv.naver.com/v/33649602</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Mar 2023 10:22:34 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_287/9K3tu_1677838879048EOgzH_JPEG/cover_cover_20230303191701_20_552_1321982_1080_7_20230303192001158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스추적] '검찰에선 큰소리' 이재명…'법원에선 말 아낀' 이유]]></title>
-            <link>https://tv.naver.com/v/33636743</link>
-            <guid>https://tv.naver.com/v/33636743</guid>
-            <pubDate>Fri, 03 Mar 2023 10:22:34 GMT</pubDate>
-            <content:encoded><![CDATA[5:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_278/F3Qgo_1677838867998xRk9Y_JPEG/cover_cover_20230303191504_20_552_1321981_1080_7_20230303191801174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
