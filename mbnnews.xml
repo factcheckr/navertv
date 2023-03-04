@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 20:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 21:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[351회_지진 시 대처요령과 산불 예방법]]></title>
+            <link>https://tv.naver.com/v/33668990</link>
+            <guid>https://tv.naver.com/v/33668990</guid>
+            <pubDate>Sat, 04 Mar 2023 21:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[14:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_73/B4Zny_1677963391925BHici_JPEG/cover_cover_20230305054026_20_849_1322041_1080_7_20230305054901136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월 4일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/33661830</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Mar 2023 12:37:08 GMT</pubDate>
             <content:encoded><![CDATA[25:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_247/FSgYW_1677843190496q6bhk_JPEG/cover_cover_20230303201649_20_536_1322009_1080_7_20230303202101172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["여자 월드컵 홍보대사에 웬 슈퍼모델?"]]></title>
-            <link>https://tv.naver.com/v/33637914</link>
-            <guid>https://tv.naver.com/v/33637914</guid>
-            <pubDate>Fri, 03 Mar 2023 11:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_208/KpOyx_1677841611240Yciwq_JPEG/cover_cover_20230303200236_20_552_1322003_1080_7_20230303200601234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
