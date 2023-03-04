@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 11:16:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 12:35:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 4일 MBN 뉴스센터 클로징]]></title>
+            <link>https://tv.naver.com/v/33661830</link>
+            <guid>https://tv.naver.com/v/33661830</guid>
+            <pubDate>Sat, 04 Mar 2023 12:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_41/BdnNu_1677930051409NY3jF_JPEG/cover_cover_20230304203636_20_906_1322038_1080_7_20230304204001189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨]내일 더 포근, 서울 낮 16도…미세먼지·화재 주의]]></title>
+            <link>https://tv.naver.com/v/33661780</link>
+            <guid>https://tv.naver.com/v/33661780</guid>
+            <pubDate>Sat, 04 Mar 2023 12:35:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_54/juTqR_1677929926203yGKum_JPEG/cover_cover_20230304203418_20_906_1322037_1080_7_20230304203801156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이강철호 일본 입성 "가자! WBC 4강으로"]]></title>
             <link>https://tv.naver.com/v/33661206</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 03 Mar 2023 11:18:33 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230303_208/KpOyx_1677841611240Yciwq_JPEG/cover_cover_20230303200236_20_552_1322003_1080_7_20230303200601234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[타격도, 수비도 '역시 메이저리거'…투수진도 점검 끝]]></title>
-            <link>https://tv.naver.com/v/33637858</link>
-            <guid>https://tv.naver.com/v/33637858</guid>
-            <pubDate>Fri, 03 Mar 2023 11:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_10/dwNAM_1677841522522s9aWt_JPEG/cover_cover_20230303200106_20_552_1322002_1080_7_20230303200401167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김주하의 '그런데'] 고등어 이어 번개탄 논란, 왜?]]></title>
-            <link>https://tv.naver.com/v/33637821</link>
-            <guid>https://tv.naver.com/v/33637821</guid>
-            <pubDate>Fri, 03 Mar 2023 11:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230303_138/mWn8S_1677841434381fNSCb_JPEG/cover_cover_20230303200000_20_552_1322001_1080_7_20230303200201180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
