@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 16:26:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 17:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고령화 시대, 정보격차 해소 고심]]></title>
+            <link>https://tv.naver.com/v/33687869</link>
+            <guid>https://tv.naver.com/v/33687869</guid>
+            <pubDate>Sun, 05 Mar 2023 17:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_283/nurSk_1678035705831D1Nx2_JPEG/cover_0011439309_001_20230306020101137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 오타니, 돔구장 5층 괴력포 연습 배팅]]></title>
             <link>https://tv.naver.com/v/33683568</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 05 Mar 2023 13:22:46 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230305_128/QM0wc_1678021007505MoIPf_JPEG/cover_0011439337_001_20230305215601148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조합장 선거 부산지역 선거인 19,034명 확정]]></title>
-            <link>https://tv.naver.com/v/33683055</link>
-            <guid>https://tv.naver.com/v/33683055</guid>
-            <pubDate>Sun, 05 Mar 2023 14:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_127/HKuLb_1678020935877iHUyc_JPEG/cover_0011439336_001_20230305215519300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
