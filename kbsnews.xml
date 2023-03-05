@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 23:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 01:55:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠든 사이 휴대전화 ‘슬쩍’…30일 잠복수사로 잡았다]]></title>
+            <link>https://tv.naver.com/v/33670563</link>
+            <guid>https://tv.naver.com/v/33670563</guid>
+            <pubDate>Sun, 05 Mar 2023 01:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_143/cnk6A_1677978141989uHYPi_PNG/cover_0011439193_001_20230305100201170.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스를 만나다] ‘코리안 특급의 해설’ 박찬호]]></title>
+            <link>https://tv.naver.com/v/33670359</link>
+            <guid>https://tv.naver.com/v/33670359</guid>
+            <pubDate>Sun, 05 Mar 2023 01:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[9:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_66/cCHbX_1677977272714r1drH_JPEG/cover_0011439092_001_20230305094501139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[8시 날씨] 포근한 휴일…초미세먼지·대형산불 주의]]></title>
+            <link>https://tv.naver.com/v/33669902</link>
+            <guid>https://tv.naver.com/v/33669902</guid>
+            <pubDate>Sun, 05 Mar 2023 01:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_285/V6NAJ_1677973823758ClEHy_JPEG/cover_0011439184_001_20230305085001169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 포근한 휴일…초미세먼지·대형산불 주의]]></title>
             <link>https://tv.naver.com/v/33669491</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 04 Mar 2023 13:22:41 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230304_113/lcz7H_1677935280549qvFcY_JPEG/cover_0011439146_001_20230304220741117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“부산항·진해신항 경쟁력, 행정기관 집적화 필요”]]></title>
-            <link>https://tv.naver.com/v/33663710</link>
-            <guid>https://tv.naver.com/v/33663710</guid>
-            <pubDate>Sat, 04 Mar 2023 13:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_262/5Daj7_1677935272230IyiXN_JPEG/cover_0011439145_001_20230304220735515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경남 주거용 건물 아파트 60%…교육용 면적 낮아]]></title>
-            <link>https://tv.naver.com/v/33663706</link>
-            <guid>https://tv.naver.com/v/33663706</guid>
-            <pubDate>Sat, 04 Mar 2023 13:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_235/ccLYm_1677935268876joNkW_JPEG/cover_0011439144_001_20230304220729941.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘김해 트램’ 도시철도망 구축 기본계획 포함&#8203;]]></title>
-            <link>https://tv.naver.com/v/33663703</link>
-            <guid>https://tv.naver.com/v/33663703</guid>
-            <pubDate>Sat, 04 Mar 2023 13:22:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_72/KkftZ_16779352583182lgqM_JPEG/cover_0011439143_001_20230304220724516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
