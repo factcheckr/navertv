@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 08:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 09:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 부천 꽃집 비닐하우스 화재…'5개동' 연소]]></title>
+            <link>https://tv.naver.com/v/33678441</link>
+            <guid>https://tv.naver.com/v/33678441</guid>
+            <pubDate>Sun, 05 Mar 2023 09:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_39/1zrnc_1678007187036sWDDH_JPEG/cover_0001040133_001_20230305180607956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 하얀 자작나무가 까맣게 변했다…30년 공들인 숲 '수난']]></title>
             <link>https://tv.naver.com/v/33674316</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Mar 2023 12:34:37 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230304_108/ABK10_16779327389162c5mu_JPEG/cover_0001040021_001_20230304212521376.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실습용 피아노까지 판 일본 대학…전기료가 불러온 현실]]></title>
-            <link>https://tv.naver.com/v/33662795</link>
-            <guid>https://tv.naver.com/v/33662795</guid>
-            <pubDate>Sat, 04 Mar 2023 12:34:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_57/IIZl4_16779327905967hXxx_JPEG/cover_0001040019_001_20230304212512204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
