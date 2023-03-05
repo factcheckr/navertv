@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 05:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 06:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 하얀 자작나무가 까맣게 변했다…30년 공들인 숲 '수난']]></title>
+            <link>https://tv.naver.com/v/33674316</link>
+            <guid>https://tv.naver.com/v/33674316</guid>
+            <pubDate>Sun, 05 Mar 2023 06:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_12/6KAOc_1677994397422VuEeN_JPEG/cover_0001040126_001_20230305143201139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 지하철서 취해 잠들었는데…"휴대전화가 없어졌어요"]]></title>
             <link>https://tv.naver.com/v/33673940</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Mar 2023 12:34:37 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230304_57/IIZl4_16779327905967hXxx_JPEG/cover_0001040019_001_20230304212512204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기차, 언제쯤이면 더 많이 탈까…'대중화' 불러올 관건 [더스페셜리스트]]]></title>
-            <link>https://tv.naver.com/v/33662793</link>
-            <guid>https://tv.naver.com/v/33662793</guid>
-            <pubDate>Sat, 04 Mar 2023 12:34:37 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_55/9LW5O_1677932803902gPB1T_JPEG/cover_0001040022_001_20230304212501148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
