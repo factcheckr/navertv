@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 01:55:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 03:03:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인천 현대시장 방화 혐의 40대 남성 체포]]></title>
+            <link>https://tv.naver.com/v/33672076</link>
+            <guid>https://tv.naver.com/v/33672076</guid>
+            <pubDate>Sun, 05 Mar 2023 03:02:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_84/noa1v_1677985356439Dq5OW_JPEG/cover_cover_noon_20230305_115930_1_1_Large_20230305120203050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스트레이트 예고] 40년 검사 친구의 '찍어내기']]></title>
             <link>https://tv.naver.com/v/33670891</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Mar 2023 03:20:58 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230304_240/0wOGY_1677899011714sevLW_JPEG/cover_cover_noon_20230304_120034_1_3_Large_20230304120315994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "내부 공격 중단해달라‥상대 진영 바라는 일"]]></title>
-            <link>https://tv.naver.com/v/33651619</link>
-            <guid>https://tv.naver.com/v/33651619</guid>
-            <pubDate>Sat, 04 Mar 2023 03:20:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230304_285/AtcFh_1677899007926JyXRI_JPEG/cover_cover_noon_20230304_115957_1_2_Large_20230304120309251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
