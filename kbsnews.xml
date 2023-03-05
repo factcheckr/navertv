@@ -4,7 +4,7 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Mar 2023 13:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 14:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Sun, 05 Mar 2023 13:22:45 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230305_216/fwnAv_1678022059832SbPYW_JPEG/cover_0011439319_001_20230305221340419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WBC 야구 대표팀, 최정도 정상 훈련 ‘평가전 준비 완료’]]></title>
-            <link>https://tv.naver.com/v/33683535</link>
-            <guid>https://tv.naver.com/v/33683535</guid>
-            <pubDate>Sun, 05 Mar 2023 13:22:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_258/xwydR_1678022070867sfaLd_JPEG/cover_0011439352_001_20230305221332798.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴대전화 1대 슬쩍 좀도둑…CCTV 70대·30일 잠복으로 검거]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sun, 05 Mar 2023 13:22:46 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230305_128/QM0wc_1678021007505MoIPf_JPEG/cover_0011439337_001_20230305215601148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조합장 선거 부산지역 선거인 19,034명 확정]]></title>
+            <link>https://tv.naver.com/v/33683055</link>
+            <guid>https://tv.naver.com/v/33683055</guid>
+            <pubDate>Sun, 05 Mar 2023 14:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_127/HKuLb_1678020935877iHUyc_JPEG/cover_0011439336_001_20230305215519300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
