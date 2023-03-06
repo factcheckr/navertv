@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 06:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 07:20:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]고우석 “승부치기도 준비 완료”]]></title>
+            <link>https://tv.naver.com/v/33702663</link>
+            <guid>https://tv.naver.com/v/33702663</guid>
+            <pubDate>Mon, 06 Mar 2023 07:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_127/ktMJZ_1678086372045N4m6s_JPEG/cover_0000245083_001_20230306155201643.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[李의 ‘아는 사람’ 기준은?…유동규 “성남시민은 아나?”]]></title>
             <link>https://tv.naver.com/v/33699987</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 05 Mar 2023 12:36:15 GMT</pubDate>
             <content:encoded><![CDATA[4:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230305_137/ynszK_1678016881768RAwdh_JPEG/cover_0000245032_001_20230305204601643.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[與 전대, 47.5% 역대 최고 투표율…누가 유리한가?]]></title>
-            <link>https://tv.naver.com/v/33681466</link>
-            <guid>https://tv.naver.com/v/33681466</guid>
-            <pubDate>Sun, 05 Mar 2023 12:36:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230305_133/UxDjP_1678016775333ElMy8_JPEG/cover_0000245030_001_20230305204518854.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
