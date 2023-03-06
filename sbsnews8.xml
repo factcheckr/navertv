@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 16:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 17:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/33721329</link>
+            <guid>https://tv.naver.com/v/33721329</guid>
+            <pubDate>Mon, 06 Mar 2023 17:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_274/yENYL_1678122141859g1T8B_JPEG/cover_0001040461_001_20230307020207787.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] '한낮 20도 안팎' 4월 중순 기온…대기 건조 극심]]></title>
+            <link>https://tv.naver.com/v/33721326</link>
+            <guid>https://tv.naver.com/v/33721326</guid>
+            <pubDate>Mon, 06 Mar 2023 17:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_258/JxWwY_16781221503187KCvx_JPEG/cover_0001040460_001_20230307020201136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재개발 지역에 남겨진 유기견들…보호소도 '포화 상태']]></title>
+            <link>https://tv.naver.com/v/33721001</link>
+            <guid>https://tv.naver.com/v/33721001</guid>
+            <pubDate>Mon, 06 Mar 2023 17:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_98/Ah3hM_1678120383303K3WOF_JPEG/cover_0001040458_001_20230307013201129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한 곳에서 로또 2등 103장 당첨…복권위 "조작 불가"]]></title>
             <link>https://tv.naver.com/v/33720906</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 06 Mar 2023 15:21:50 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230306_204/QPYog_1678114344062OoWmd_JPEG/cover_0001040430_001_20230306235127799.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브도 '공개 매수' 사실상 실패…SM 인수전 안갯속]]></title>
-            <link>https://tv.naver.com/v/33719047</link>
-            <guid>https://tv.naver.com/v/33719047</guid>
-            <pubDate>Mon, 06 Mar 2023 15:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_270/vxY6f_1678114351441RuRHG_JPEG/cover_0001040431_001_20230306235119112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핵 폭격기 '대표' B-52, 서해 상공서 훈련]]></title>
-            <link>https://tv.naver.com/v/33719045</link>
-            <guid>https://tv.naver.com/v/33719045</guid>
-            <pubDate>Mon, 06 Mar 2023 15:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_43/LeTcK_1678114331503cyv9a_JPEG/cover_0001040432_001_20230306235110375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['론스타 로비' 재수사?…"스티븐 리 송환 시기가 관건"]]></title>
-            <link>https://tv.naver.com/v/33719038</link>
-            <guid>https://tv.naver.com/v/33719038</guid>
-            <pubDate>Mon, 06 Mar 2023 15:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_224/aJ2gS_1678114322204fRNX9_JPEG/cover_0001040433_001_20230306235101133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
