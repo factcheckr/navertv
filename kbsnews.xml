@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 13:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 14:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[울산 건조주의보 속 낮 최고 21.3도…내일 10-21도]]></title>
+            <link>https://tv.naver.com/v/33751272</link>
+            <guid>https://tv.naver.com/v/33751272</guid>
+            <pubDate>Tue, 07 Mar 2023 14:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_272/8v6kS_1678198102049hHyEF_JPEG/cover_0011440936_001_20230307230801130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사체 1,200구 발견됐는데…‘노견 떠넘기기’ 적발 0건]]></title>
-            <link>https://tv.naver.com/v/33750044</link>
-            <guid>https://tv.naver.com/v/33750044</guid>
-            <pubDate>Tue, 07 Mar 2023 13:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_290/RQNyD_1678195681273i8VlH_JPEG/cover_0011440875_001_20230307222701142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <link>https://tv.naver.com/v/33750246</link>
+            <guid>https://tv.naver.com/v/33750246</guid>
+            <pubDate>Tue, 07 Mar 2023 14:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_154/ycIcE_1678196103744lSgRr_JPEG/cover_0011440875_001_20230307223401183.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[뉴스 더하기] WBC 야구 대표팀도 ‘중꺾마’]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Mar 2023 13:29:28 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230307_68/Kx0A4_1678194207187Emxas_JPEG/cover_0011440908_001_20230307220226839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해양쓰레기 운반선 늘푸른충남호 취항식 열려]]></title>
-            <link>https://tv.naver.com/v/33749275</link>
-            <guid>https://tv.naver.com/v/33749275</guid>
-            <pubDate>Tue, 07 Mar 2023 13:29:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_233/ASsAS_1678194155443Yws2u_JPEG/cover_0011440907_001_20230307220221097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
