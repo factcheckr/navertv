@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 18:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 19:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 전당대회…막판까지 과열]]></title>
+            <link>https://tv.naver.com/v/33755765</link>
+            <guid>https://tv.naver.com/v/33755765</guid>
+            <pubDate>Tue, 07 Mar 2023 19:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_160/onpVu_1678216318627VvwnM_JPEG/cover_0001040767_001_20230308041101122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령, 4월 말 미국 국빈 방문]]></title>
+            <link>https://tv.naver.com/v/33755667</link>
+            <guid>https://tv.naver.com/v/33755667</guid>
+            <pubDate>Tue, 07 Mar 2023 19:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_50/lNK9Y_1678214933502Nudaq_JPEG/cover_0001040766_001_20230308034801186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[출입 명단 속 회장 측근…"판 짜는 사람"]]></title>
             <link>https://tv.naver.com/v/33755555</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 07 Mar 2023 12:38:45 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230307_266/gZ4YM_1678192154653whDlG_JPEG/cover_0001040735_001_20230307212801163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/33748046</link>
-            <guid>https://tv.naver.com/v/33748046</guid>
-            <pubDate>Tue, 07 Mar 2023 12:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_242/CMyvJ_1678191972860RPOPj_JPEG/cover_0001040742_001_20230307212601145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우승 메달과 함께 '스노보드 유망주' 최가온 귀국]]></title>
-            <link>https://tv.naver.com/v/33747905</link>
-            <guid>https://tv.naver.com/v/33747905</guid>
-            <pubDate>Tue, 07 Mar 2023 12:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_101/GX7o4_1678193283149WgQky_JPEG/cover_0001040740_001_20230307212108842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
