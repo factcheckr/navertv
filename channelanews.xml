@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 05:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 06:26:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라, 러 본토 감시탑 공격 ‘이례적’ 공개]]></title>
+            <link>https://tv.naver.com/v/33735402</link>
+            <guid>https://tv.naver.com/v/33735402</guid>
+            <pubDate>Tue, 07 Mar 2023 06:26:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_221/ZYH0m_1678170039139eUbY8_JPEG/cover_0000245161_001_20230307152001629.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]‘퇴근길’ 지하철역서 생명 구한 시민들…“몸이 먼저 반응”]]></title>
             <link>https://tv.naver.com/v/33731704</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Mar 2023 12:39:37 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230306_284/Nc6gf_1678102387178Vuwqw_JPEG/cover_0000245123_001_20230306203236596.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[앵커의 마침표]이제는 일본이 답할 차례]]></title>
-            <link>https://tv.naver.com/v/33712136</link>
-            <guid>https://tv.naver.com/v/33712136</guid>
-            <pubDate>Mon, 06 Mar 2023 12:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_259/05Y4X_1678102379666jL7Ji_JPEG/cover_0000245124_001_20230306203228986.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
