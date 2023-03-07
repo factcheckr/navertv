@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 06:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 07:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/33736086</link>
+            <guid>https://tv.naver.com/v/33736086</guid>
+            <pubDate>Tue, 07 Mar 2023 07:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_70/gk7cS_1678170996363IKFeP_JPEG/cover_cover_20230307153323_20_845_1322230_1080_7_20230307153601189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임용 10개월 차 새내기 소방관, 화재 현장서 순직 [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/33735849</link>
+            <guid>https://tv.naver.com/v/33735849</guid>
+            <pubDate>Tue, 07 Mar 2023 07:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_171/5dyTy_1678170642582kw0Gf_JPEG/cover_cover_20230307152628_20_845_1322229_1080_7_20230307153001205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중입자 치료 상반기 시작…입자선, 꿈의 암 치료 되나]]></title>
             <link>https://tv.naver.com/v/33730149</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 06 Mar 2023 23:23:19 GMT</pubDate>
             <content:encoded><![CDATA[0:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230307_109/U381M_1678143854819mei1e_JPEG/cover_cover_20230307080059_20_605_1322195_1080_7_20230307080401496.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]오늘 4월 중순처럼 따뜻…건조한 날씨 속 강풍 '산불 비상']]></title>
-            <link>https://tv.naver.com/v/33723368</link>
-            <guid>https://tv.naver.com/v/33723368</guid>
-            <pubDate>Mon, 06 Mar 2023 23:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_194/6RWEd_1678143770991NDa35_JPEG/cover_cover_20230307075844_20_605_1322194_1080_7_20230307080201211.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]어제보다 더 포근…대형 산불 주의]]></title>
-            <link>https://tv.naver.com/v/33723353</link>
-            <guid>https://tv.naver.com/v/33723353</guid>
-            <pubDate>Mon, 06 Mar 2023 23:23:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_61/T1mOv_16781436427433QWOz_JPEG/cover_cover_20230307075614_20_605_1322193_1080_7_20230307080001170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
