@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 20:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 21:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/33756288</link>
+            <guid>https://tv.naver.com/v/33756288</guid>
+            <pubDate>Tue, 07 Mar 2023 21:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_229/sUGLw_1678223742939OdNHV_JPEG/cover_0001040786_001_20230308061501140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[끝까지판다] "알려지면 안 된다"…SK · 알케미스트의 '수상한 협업' (풀영상)]]></title>
+            <link>https://tv.naver.com/v/33756228</link>
+            <guid>https://tv.naver.com/v/33756228</guid>
+            <pubDate>Tue, 07 Mar 2023 21:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[18:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_267/Bkd0Q_1678223673561RtscT_JPEG/cover_0001040717_001_20230308060601145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/33755967</link>
@@ -102,14 +118,6 @@
             <pubDate>Tue, 07 Mar 2023 15:20:44 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230307_37/8U74l_16782010285261jkNO_JPEG/cover_0001040727_001_20230307235601150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[끝까지 판다] "알려지면 안된다"…SK · 알케미스트의 '수상한 협업' (풀영상)]]></title>
-            <link>https://tv.naver.com/v/33748816</link>
-            <guid>https://tv.naver.com/v/33748816</guid>
-            <pubDate>Tue, 07 Mar 2023 13:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[18:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_109/ZpR79_16781939182002Lug2_JPEG/cover_0001040717_001_20230307214901126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["사퇴하라" 안 · 황 공동회견…D-1 갈등 최고조]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Mar 2023 12:38:45 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230307_142/Q9eQJ_1678192302758ELUGO_JPEG/cover_0001040729_001_20230307213037384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['일장기' 그 목사, 이번엔 "평화의 소녀상 철거하라"]]></title>
-            <link>https://tv.naver.com/v/33748208</link>
-            <guid>https://tv.naver.com/v/33748208</guid>
-            <pubDate>Tue, 07 Mar 2023 12:38:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_34/IX7pi_1678192295733a0pBu_JPEG/cover_0001040728_001_20230307213019627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
