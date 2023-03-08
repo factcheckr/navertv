@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 06:26:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 07:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“지금 머리 돼요?” 미용실 찾은 ‘낯선’ 새벽 손님]]></title>
+            <link>https://tv.naver.com/v/33773386</link>
+            <guid>https://tv.naver.com/v/33773386</guid>
+            <pubDate>Wed, 08 Mar 2023 07:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_98/dKrwE_1678258756484e7dAV_PNG/cover_0011441435_001_20230308155901133.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보영상] 경남 합천군 야산에 불…산불 2단계 발령]]></title>
+            <link>https://tv.naver.com/v/33772433</link>
+            <guid>https://tv.naver.com/v/33772433</guid>
+            <pubDate>Wed, 08 Mar 2023 07:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_62/bLEtC_1678257583916oRjuS_JPEG/cover_0011441425_001_20230308153910306.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] 순창서 화물차가 조합장 투표 행렬 덮쳐…3명 숨지고 17명 다쳐]]></title>
             <link>https://tv.naver.com/v/33770802</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 08 Mar 2023 04:23:33 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_122/3ic8j_1678246323700Om8Yj_JPEG/cover_0011441360_001_20230308123110149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오후날씨 꿀팁] 당분간 고온 현상…화재 주의!]]></title>
-            <link>https://tv.naver.com/v/33765166</link>
-            <guid>https://tv.naver.com/v/33765166</guid>
-            <pubDate>Wed, 08 Mar 2023 04:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_4/PK3sS_1678246284354hcymu_JPEG/cover_0011441359_001_20230308123101991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙방역대책본부, 신규 확진 만 2천여 명…6일째 전주 대비 증가]]></title>
-            <link>https://tv.naver.com/v/33765056</link>
-            <guid>https://tv.naver.com/v/33765056</guid>
-            <pubDate>Wed, 08 Mar 2023 04:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_180/FDga6_16782460457658Scxg_JPEG/cover_0011441356_001_20230308122709634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
