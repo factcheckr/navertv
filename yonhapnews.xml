@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 20:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 21:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 08 Mar 2023 08:26:02 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_221/Yjs7T_1678263929670Ef87h_JPEG/1678263816528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역사·외교 유튜버인줄로만 알았던 그의 정체는…]]></title>
+            <link>https://tv.naver.com/v/33777230</link>
+            <guid>https://tv.naver.com/v/33777230</guid>
+            <pubDate>Wed, 08 Mar 2023 21:19:11 GMT</pubDate>
+            <content:encoded><![CDATA[7:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_53/G4NMr_1678263262370eCT3O_JPEG/1678263200353.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레오파르트2 14대 지원 약속했던 폴란드…나머지 10대도 보낸다]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 06 Mar 2023 23:22:44 GMT</pubDate>
             <content:encoded><![CDATA[3:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230306_290/wBFML_1678092326576fHA8r_JPEG/1678092258006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 B-52H 폭격기 한반도 전개…올해 첫 쌍매훈련도 실시]]></title>
-            <link>https://tv.naver.com/v/33712442</link>
-            <guid>https://tv.naver.com/v/33712442</guid>
-            <pubDate>Mon, 06 Mar 2023 12:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230306_10/A0QOQ_1678102813610glWgB_JPEG/1678102781222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
