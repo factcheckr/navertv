@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 09:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 10:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 에드먼! 좌타우타+번트 연습에 내야 훈련까지 모두 모아봄]]></title>
+            <link>https://tv.naver.com/v/33780408</link>
+            <guid>https://tv.naver.com/v/33780408</guid>
+            <pubDate>Wed, 08 Mar 2023 10:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_275/hLKA8_1678268310876V7Xi0_JPEG/cover_cover_230308_thumb_640_20230308183502383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["여기가 그 교회" JMS 교회 명단 공개]]></title>
             <link>https://tv.naver.com/v/33779842</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 08 Mar 2023 07:18:18 GMT</pubDate>
             <content:encoded><![CDATA[12:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230308_172/fJUPt_167825843015888tvp_JPEG/cover_cover_14news_20230308_142450_1_8_Large_20230308155101977.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['월드 베이스볼 클래식' 개막‥금요일 한일전]]></title>
-            <link>https://tv.naver.com/v/33772517</link>
-            <guid>https://tv.naver.com/v/33772517</guid>
-            <pubDate>Wed, 08 Mar 2023 07:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_205/YI3wU_1678260013291WumME_JPEG/cover_cover_14news_20230308_151657_1_17_Large_20230308154102135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
