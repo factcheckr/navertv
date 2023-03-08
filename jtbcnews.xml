@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 05:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 06:26:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D:이슈] 휴대용 탱크, 10분이면 실물 크기로…"우크라이나에 보낼 것"]]></title>
+            <link>https://tv.naver.com/v/33769852</link>
+            <guid>https://tv.naver.com/v/33769852</guid>
+            <pubDate>Wed, 08 Mar 2023 06:25:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230308_178/NVu8j_1678254286274403IQ_JPEG/cover_0000334783_001_20230308144408990.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파월 '빅스텝 가능성' 발언에…코스피 하락·환율 급등]]></title>
             <link>https://tv.naver.com/v/33764063</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Mar 2023 13:30:00 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230307_12/PeY3u_1678194062284HywGa_JPEG/cover_0000334690_001_20230307220009907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 만취운전 면허취소 20대, 중앙선 넘어 역주행하다 검거]]></title>
-            <link>https://tv.naver.com/v/33749172</link>
-            <guid>https://tv.naver.com/v/33749172</guid>
-            <pubDate>Tue, 07 Mar 2023 13:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230307_11/DX1o9_1678194042705fe3iW_JPEG/cover_0000334691_001_20230307220001592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
