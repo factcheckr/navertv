@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 20:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 21:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[353회_가뭄 전망과 산불 예방요령]]></title>
+            <link>https://tv.naver.com/v/33834667</link>
+            <guid>https://tv.naver.com/v/33834667</guid>
+            <pubDate>Thu, 09 Mar 2023 21:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[15:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_174/79UvN_1678395977964GMYBv_JPEG/cover_cover_20230310055607_20_849_1322493_1080_7_20230310055801176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 토요포커스] 김경욱 인천국제공항공사 사장 "자율주행, 스마트패스 등 첨단 기술 서비스 올해 시행“]]></title>
             <link>https://tv.naver.com/v/33824042</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Mar 2023 11:19:35 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_219/ldFxU_1678357615423YaMtB_JPEG/cover_cover_20230309192205_20_552_1322458_1080_7_20230309192601194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김건희 특검법 발의…"특검이 해법" vs "내홍수습용"]]></title>
-            <link>https://tv.naver.com/v/33821327</link>
-            <guid>https://tv.naver.com/v/33821327</guid>
-            <pubDate>Thu, 09 Mar 2023 10:24:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_114/vsECN_1678357280106m8BnV_JPEG/cover_cover_20230309191544_20_552_1322456_1080_7_20230309192001199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
