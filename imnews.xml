@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 11:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 12:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Thu, 09 Mar 2023 09:21:12 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_66/DzLlZ_1678350503287SuiFh_JPEG/cover_cover_5news_20230309_172354_1_4_Large_20230309172810844.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WBC 첫 경기서 호주에 7:8 패배]]></title>
-            <link>https://tv.naver.com/v/33816537</link>
-            <guid>https://tv.naver.com/v/33816537</guid>
-            <pubDate>Thu, 09 Mar 2023 09:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_88/LIHkd_1678350522646wL0OO_JPEG/cover_cover_5news_20230309_172314_1_3_Large_20230309172803423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엠빅뉴스] ‘이걸 어떻게 잊어..’ 이번엔 누가 재현할까?]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 09 Mar 2023 01:45:28 GMT</pubDate>
             <content:encoded><![CDATA[3:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_158/AQscu_1678319152357Sq6uz_JPEG/cover_cover_today_20230307_063147_2_2_Large_u_20230309084502518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 동쪽 건조 특보‥전국 곳곳 비 5mm 미만, 벼락·돌풍]]></title>
+            <link>https://tv.naver.com/v/33795498</link>
+            <guid>https://tv.naver.com/v/33795498</guid>
+            <pubDate>Thu, 09 Mar 2023 12:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_72/acd1v_1678316194652LlNL3_JPEG/cover_cover_today_20230309_074145_2_31_Large_20230309075614420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
