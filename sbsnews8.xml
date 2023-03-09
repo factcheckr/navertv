@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 03:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 04:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 타구 놓쳤지만 이내 송구…실점 위기 벗어나는 대한민국]]></title>
+            <link>https://tv.naver.com/v/33804189</link>
+            <guid>https://tv.naver.com/v/33804189</guid>
+            <pubDate>Thu, 09 Mar 2023 04:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_254/wmAeD_1678335694381Btra2_JPEG/cover_0001041221_001_20230309132101129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여의도타짜②] 윤태곤 · 장성철 · 김상일 "김기현 · 안철수의 미래는…"]]></title>
             <link>https://tv.naver.com/v/33802226</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Mar 2023 01:45:37 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_156/iOVFG_1678317847442il4ot_JPEG/cover_0001041117_001_20230309082301121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원, '횡령·배임' 조현범 한국타이어 회장 구속]]></title>
-            <link>https://tv.naver.com/v/33795707</link>
-            <guid>https://tv.naver.com/v/33795707</guid>
-            <pubDate>Thu, 09 Mar 2023 01:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_89/AXfEd_16783177442331tPfT_JPEG/cover_0001041116_001_20230309082201124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
