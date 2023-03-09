@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 05:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 06:27:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 한미 공군, 올해 첫 ‘쌍매훈련’ 실시]]></title>
+            <link>https://tv.naver.com/v/33810114</link>
+            <guid>https://tv.naver.com/v/33810114</guid>
+            <pubDate>Thu, 09 Mar 2023 06:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_205/JfeKT_16783430994818xcHM_PNG/cover_0011442273_001_20230309152401129.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[오후날씨 꿀팁] 점차 맑아져요…남부, 20도 웃돌아요]]></title>
+            <link>https://tv.naver.com/v/33809648</link>
+            <guid>https://tv.naver.com/v/33809648</guid>
+            <pubDate>Thu, 09 Mar 2023 06:26:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_66/UbhoK_1678342520684yb1zp_JPEG/cover_0011442191_001_20230309151501124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 내일, 맑고 따뜻해요]]></title>
             <link>https://tv.naver.com/v/33806527</link>
@@ -192,14 +208,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_201/uzmXI_1678333511313WQBj8_JPEG/cover_0011442196_001_20230309124405699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[오후날씨 꿀팁] 점차 맑아져요…남부, 20도 웃돌아요]]></title>
-            <link>https://tv.naver.com/v/33802979</link>
-            <guid>https://tv.naver.com/v/33802979</guid>
-            <pubDate>Thu, 09 Mar 2023 04:24:35 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_25/OZQB2_1678333221363MCL78_JPEG/cover_0011442191_001_20230309124001188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[현장영상] 경찰차 3대 들이받고도 도주…실탄 발사 끝 검거]]></title>
             <link>https://tv.naver.com/v/33802815</link>
             <guid>https://tv.naver.com/v/33802815</guid>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Mar 2023 03:26:59 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_6/QWdRq_1678332263815hYF7J_JPEG/cover_0011442190_001_20230309122401176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한강 관광 명소 만들고 주변 높이 규제 완화]]></title>
-            <link>https://tv.naver.com/v/33802471</link>
-            <guid>https://tv.naver.com/v/33802471</guid>
-            <pubDate>Thu, 09 Mar 2023 03:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_218/T9t0Y_1678332236492H9Enh_JPEG/cover_0011442189_001_20230309122301128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
