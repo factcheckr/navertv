@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 19:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 20:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“철도 관광객 잡아라”…단양역 민간개발 추진]]></title>
+            <link>https://tv.naver.com/v/33834348</link>
+            <guid>https://tv.naver.com/v/33834348</guid>
+            <pubDate>Thu, 09 Mar 2023 20:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_31/e0XIH_1678389708898myOqU_JPEG/cover_0011442559_001_20230310042101145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 시각 소방청 상황실]]></title>
             <link>https://tv.naver.com/v/33831962</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Mar 2023 15:22:12 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_285/jUd9R_1678373125805w57hS_JPEG/cover_0011442625_001_20230309234507252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 울산 조합장선거 불법 행위 2건 수사]]></title>
-            <link>https://tv.naver.com/v/33830211</link>
-            <guid>https://tv.naver.com/v/33830211</guid>
-            <pubDate>Thu, 09 Mar 2023 15:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_280/GudsU_16783731153802KkL3_JPEG/cover_0011442624_001_20230309234501135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
