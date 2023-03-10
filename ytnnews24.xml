@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 13:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 14:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[나이트포커스] 또 '사망'..벌써 5번째...이재명 조문가서 한 말은?]]></title>
+            <link>https://tv.naver.com/v/33864304</link>
+            <guid>https://tv.naver.com/v/33864304</guid>
+            <pubDate>Fri, 10 Mar 2023 14:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[46:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_113/5G4Al_1678457850468zQbIx_JPEG/cover_cover_202303102306199300_t_20230310231501933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 초여름 더위 이어 단비에 꽃샘추위까지...널뛰기 봄 날씨]]></title>
             <link>https://tv.naver.com/v/33863188</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Mar 2023 12:38:31 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_41/k2CEe_1678450452702g5rwF_JPEG/cover_cover_202303102108388157_t_20230310211316536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전북 정읍 야산에서 불...임야 1ha 태워]]></title>
-            <link>https://tv.naver.com/v/33861150</link>
-            <guid>https://tv.naver.com/v/33861150</guid>
-            <pubDate>Fri, 10 Mar 2023 12:38:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_224/Quopk_1678450399033KDLTT_JPEG/cover_cover_202303101815256409_t_20230310211309412.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
