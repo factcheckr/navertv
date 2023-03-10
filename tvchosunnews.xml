@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 06:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 07:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KF-21 보라매의 첫 야간비행 영상…"내·외부 조명 정상 작동"]]></title>
+            <link>https://tv.naver.com/v/33850715</link>
+            <guid>https://tv.naver.com/v/33850715</guid>
+            <pubDate>Fri, 10 Mar 2023 07:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_89/IbH15_1678431182354FNhJm_JPEG/cover_2023031090126_thumb_034602_20230310155101523.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 李 "검찰 사냥 못 피해…죽거나 조작에 감옥가거나"]]></title>
             <link>https://tv.naver.com/v/33849321</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Mar 2023 14:20:23 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230309_231/7C1Yy_1678371181526JBJdN_JPEG/cover_2023030990192_thumb_110051_20230309231241531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[합천 산불 20시간 만에 주불 진화…"방화 가능성도 조사"]]></title>
-            <link>https://tv.naver.com/v/33829128</link>
-            <guid>https://tv.naver.com/v/33829128</guid>
-            <pubDate>Thu, 09 Mar 2023 14:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230309_3/ZU8hW_1678371206304SSkxC_JPEG/cover_2023030990214_thumb_110049_20230309231234194.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

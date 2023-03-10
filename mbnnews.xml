@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 06:27:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 07:19:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/33850342</link>
+            <guid>https://tv.naver.com/v/33850342</guid>
+            <pubDate>Fri, 10 Mar 2023 07:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_167/vOUJh_1678430557157t7PYc_JPEG/cover_cover_20230310153904_20_845_1322541_1080_7_20230310154201165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독/제보M] 차가운 아스팔트 위 1시간 20분 사망자 방치]]></title>
             <link>https://tv.naver.com/v/33843209</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Mar 2023 23:22:29 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230310_179/9kw6t_1678402283905EeEzX_JPEG/cover_cover_20230310074343_20_605_1322507_1080_7_20230310075001157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["'홀덤펍'가장 불법 도박장 꼼짝마"…경찰 집중 단속]]></title>
-            <link>https://tv.naver.com/v/33835275</link>
-            <guid>https://tv.naver.com/v/33835275</guid>
-            <pubDate>Thu, 09 Mar 2023 23:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230310_175/6ty6z_16784018879380bbXS_JPEG/cover_cover_20230310073942_20_605_1322506_1080_7_20230310074401167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
