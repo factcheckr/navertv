@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 08:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 경남 하동 지리산 의신계곡 산불 2단계·주민대피령]]></title>
+            <link>https://tv.naver.com/v/33876974</link>
+            <guid>https://tv.naver.com/v/33876974</guid>
+            <pubDate>Sat, 11 Mar 2023 09:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_77/m3MPh_16785251983449t6uX_JPEG/cover_0011443589_001_20230311175901121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[5시 날씨] 내일 전국 비·눈…오후부터 찬바람 불며 기온 ‘뚝’]]></title>
             <link>https://tv.naver.com/v/33876337</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Mar 2023 23:18:39 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230311_163/2Rrzt_1678488938107GAmRg_JPEG/cover_0011443513_001_20230311075517132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스광장 영상] 안목해변]]></title>
-            <link>https://tv.naver.com/v/33868705</link>
-            <guid>https://tv.naver.com/v/33868705</guid>
-            <pubDate>Fri, 10 Mar 2023 23:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_51/6Jbyk_1678488923575hjNky_JPEG/cover_0011443512_001_20230311075510023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
