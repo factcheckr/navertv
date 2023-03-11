@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 21:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 22:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 전국 비…찬바람에 기온 ‘뚝’]]></title>
+            <link>https://tv.naver.com/v/33886567</link>
+            <guid>https://tv.naver.com/v/33886567</guid>
+            <pubDate>Sat, 11 Mar 2023 22:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230312_227/CvsmG_16785693897943GcS7_JPEG/cover_0011443706_001_20230312061601160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM 인수 대립 “하이브-카카오 전격 회동”]]></title>
             <link>https://tv.naver.com/v/33886556</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Mar 2023 13:21:09 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230311_23/EgfmO_1678540161717cGyeT_JPEG/cover_0011443679_001_20230311220907171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주 식수원 동복댐 저수율 20% 무너져]]></title>
-            <link>https://tv.naver.com/v/33881368</link>
-            <guid>https://tv.naver.com/v/33881368</guid>
-            <pubDate>Sat, 11 Mar 2023 13:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_15/S8fT0_16785401583097AHbH_JPEG/cover_0011443678_001_20230311220901150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
