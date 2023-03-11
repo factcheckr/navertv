@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 15:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 16:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지리산 인근 '산불 2단계' 발령 야간 진화 계속]]></title>
+            <link>https://tv.naver.com/v/33884272</link>
+            <guid>https://tv.naver.com/v/33884272</guid>
+            <pubDate>Sat, 11 Mar 2023 16:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230312_262/ZOlg5_1678549033284GXilU_JPEG/cover_cover_s230311_0001_u_20230312003604117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스데스크 클로징]]></title>
             <link>https://tv.naver.com/v/33879524</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Mar 2023 01:23:33 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230311_225/4JvmX_1678495865851kKhiO_JPEG/cover_cover_unity_20230311_074001_1_2_Large_1_20230311095011069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한미훈련 맞대응" 도발 수위 높이나?]]></title>
-            <link>https://tv.naver.com/v/33869455</link>
-            <guid>https://tv.naver.com/v/33869455</guid>
-            <pubDate>Sat, 11 Mar 2023 01:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_137/rr5hJ_1678495864879HEK0c_JPEG/cover_cover_unity_20230311_074001_1_1_Large_1_20230311095003954.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
