@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 13:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 14:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스를 만나다] 이준석 전 대표가 보는 패인은?]]></title>
+            <link>https://tv.naver.com/v/33902408</link>
+            <guid>https://tv.naver.com/v/33902408</guid>
+            <pubDate>Sun, 12 Mar 2023 14:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[12:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230312_195/eVag4_1678628666390uy8wb_JPEG/cover_0011443807_001_20230312224001154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대구시향 줄리안 코바체프 24일 고별 무대]]></title>
             <link>https://tv.naver.com/v/33901539</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 12 Mar 2023 13:21:32 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230312_172/kFLNR_16786260516360UBP6_JPEG/cover_0011443811_001_20230312220011666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스를 만나다] 이준석 전 대표가 보는 패인은?]]></title>
-            <link>https://tv.naver.com/v/33901210</link>
-            <guid>https://tv.naver.com/v/33901210</guid>
-            <pubDate>Sun, 12 Mar 2023 13:21:32 GMT</pubDate>
-            <content:encoded><![CDATA[12:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230312_288/mHVli_1678626300171Lz23d_JPEG/cover_0011443807_001_20230312215959632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
