@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Mar 2023 11:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Mar 2023 12:34:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 서울 등 내륙 한파특보, 내일 아침 서울 -3도… 밤까지 비·눈]]></title>
+            <link>https://tv.naver.com/v/33898715</link>
+            <guid>https://tv.naver.com/v/33898715</guid>
+            <pubDate>Sun, 12 Mar 2023 12:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230312_260/zvjCi_1678620179592f7LwO_JPEG/cover_cover_20230312201336_20_906_1322640_1080_7_20230312202201182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남부지방은 봄비도 '찔끔'…가뭄 해갈에 역부족]]></title>
             <link>https://tv.naver.com/v/33898449</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Mar 2023 11:16:10 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230311_5/5E4R0_1678532482067woOU9_JPEG/cover_cover_20230311195636_20_906_1322604_1080_7_20230311200001203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경남 하동·대구 잇따라 산불…골목길서 차 4대 '꽝, 꽝!']]></title>
-            <link>https://tv.naver.com/v/33878787</link>
-            <guid>https://tv.naver.com/v/33878787</guid>
-            <pubDate>Sat, 11 Mar 2023 11:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_141/lLYKE_1678532360160QoDFP_JPEG/cover_cover_20230311195519_20_906_1322603_1080_7_20230311195801148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
