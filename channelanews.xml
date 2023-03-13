@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 02:42:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 03:22:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대전 타이어 공장 화재…14시간 째 진화 중]]></title>
+            <link>https://tv.naver.com/v/33914185</link>
+            <guid>https://tv.naver.com/v/33914185</guid>
+            <pubDate>Mon, 13 Mar 2023 03:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_31/R6T2S_1678677547854PaCV1_JPEG/cover_0000245534_001_20230313121801602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대전 한국타이어 공장 10시간 넘게 활활…대응 3단계]]></title>
             <link>https://tv.naver.com/v/33910344</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Mar 2023 12:33:58 GMT</pubDate>
             <content:encoded><![CDATA[4:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230311_224/b1z6D_1678535782483iwhEV_JPEG/cover_0000245456_001_20230311205401614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OPEN 인터뷰]제2의 다나카 탄생?…‘화성인’ 지명그 받는다]]></title>
-            <link>https://tv.naver.com/v/33879585</link>
-            <guid>https://tv.naver.com/v/33879585</guid>
-            <pubDate>Sat, 11 Mar 2023 12:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230311_196/lTz23_1678535075114gVFBA_JPEG/cover_0000245471_001_20230311204310519.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
