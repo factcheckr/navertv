@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 06:25:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 07:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/33923873</link>
+            <guid>https://tv.naver.com/v/33923873</guid>
+            <pubDate>Mon, 13 Mar 2023 07:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[8:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_233/6pEyv_1678691823217ue7jm_JPEG/cover_0011444347_001_20230313161403795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘에브리씽’ 7개 부문 석권…양쯔충 여우주연상]]></title>
             <link>https://tv.naver.com/v/33921025</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Mar 2023 04:23:27 GMT</pubDate>
             <content:encoded><![CDATA[4:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230313_262/GojXm_16786791408908qIme_JPEG/cover_0011444269_001_20230313124402484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외국 모델이 선보이는 한복은?…다양성의 도시 두바이 사로잡은 한복의 美]]></title>
-            <link>https://tv.naver.com/v/33914843</link>
-            <guid>https://tv.naver.com/v/33914843</guid>
-            <pubDate>Mon, 13 Mar 2023 04:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230313_185/IUBZT_1678678853958oyMck_JPEG/cover_0011444268_001_20230313124009462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
