@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 04:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 05:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D뉴스] 헬스장까지 파고든 JMS?…"정명석과 무관하다" 긴급공지]]></title>
+            <link>https://tv.naver.com/v/33954505</link>
+            <guid>https://tv.naver.com/v/33954505</guid>
+            <pubDate>Tue, 14 Mar 2023 05:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230314_41/c5cdp_1678768734023XWloz_JPEG/cover_cover_20230314133458_20_868_1322797_1080_7_20230314133801179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3년 만에 3월 중순 한파특보... 서울 '영하 2도']]></title>
             <link>https://tv.naver.com/v/33952976</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Mar 2023 23:20:24 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230314_264/jR5BF_1678747747363BnHak_JPEG/cover_cover_20230314074455_20_605_1322763_1080_7_20230314074801205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝경제] 무역적자 200억 달러 돌파/ 한국 신용등급 'AA-' / 고물가에 안 입고 안 먹어]]></title>
-            <link>https://tv.naver.com/v/33945228</link>
-            <guid>https://tv.naver.com/v/33945228</guid>
-            <pubDate>Mon, 13 Mar 2023 23:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230314_221/xLp64_1678747613544Afmao_JPEG/cover_cover_20230314074328_20_605_1322762_1080_7_20230314074601269.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
