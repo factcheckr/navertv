@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 06:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 07:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/33961982</link>
+            <guid>https://tv.naver.com/v/33961982</guid>
+            <pubDate>Tue, 14 Mar 2023 07:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230314_76/99A7o_1678777841316yCgmi_JPEG/cover_cover_20230314160628_20_845_1322801_1080_7_20230314161001209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 헬스장까지 파고든 JMS?…"정명석과 무관하다" 긴급공지]]></title>
             <link>https://tv.naver.com/v/33954505</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Mar 2023 23:20:24 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230314_121/UpJNL_1678747859379vdE0h_JPEG/cover_cover_20230314074729_20_605_1322764_1080_7_20230314075001175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차 '킹산직'에 18만 지원설…"대기업 취업문 좁아진 때문"]]></title>
-            <link>https://tv.naver.com/v/33945250</link>
-            <guid>https://tv.naver.com/v/33945250</guid>
-            <pubDate>Mon, 13 Mar 2023 23:20:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230314_264/jR5BF_1678747747363BnHak_JPEG/cover_cover_20230314074455_20_605_1322763_1080_7_20230314074801205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

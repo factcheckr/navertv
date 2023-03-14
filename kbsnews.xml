@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 06:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 07:20:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/33962239</link>
+            <guid>https://tv.naver.com/v/33962239</guid>
+            <pubDate>Tue, 14 Mar 2023 07:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[8:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230314_57/ULMaC_1678778249213Oi7jE_JPEG/cover_0011445135_001_20230314161501116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실 “도쿄 한일 정상회담서 관계 정상화 논의”]]></title>
             <link>https://tv.naver.com/v/33959078</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Mar 2023 04:23:33 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230314_277/hU97n_1678766200735hO93s_JPEG/cover_0011445075_001_20230314125609112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폼페이에서 유적지 지킴이 ‘양’의 역할은?]]></title>
-            <link>https://tv.naver.com/v/33952977</link>
-            <guid>https://tv.naver.com/v/33952977</guid>
-            <pubDate>Tue, 14 Mar 2023 04:23:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230314_254/7t5A8_16787661975942ywfP_JPEG/cover_0011445074_001_20230314125601163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
