@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 16:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 17:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[尹, 오늘 일본 방문..."정상회담 뒤 공동회견"]]></title>
+            <link>https://tv.naver.com/v/34018015</link>
+            <guid>https://tv.naver.com/v/34018015</guid>
+            <pubDate>Wed, 15 Mar 2023 17:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_56/4d1SR_1678899469448xBRu0_JPEG/cover_cover_202303160150451752_t_20230316015702267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전두환 손자 "연희동 금고 안 비자금, 지인 통해 인출...할아버지는 학살자" 폭로]]></title>
             <link>https://tv.naver.com/v/34017596</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 15:21:05 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_179/EA7w4_1678890678399jEi9z_JPEG/cover_cover_202303152324531001_t_20230315233102603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다음 주부터 대중교통·마트 약국에서도 마스크  '자율']]></title>
-            <link>https://tv.naver.com/v/34014962</link>
-            <guid>https://tv.naver.com/v/34014962</guid>
-            <pubDate>Wed, 15 Mar 2023 15:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_57/qxllm_1678890591661DAykQ_JPEG/cover_cover_202303152324456994_t_20230315232902024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 16:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 17:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광주시민단체협 “강기정 시장, 현안마다 불통”]]></title>
+            <link>https://tv.naver.com/v/34018054</link>
+            <guid>https://tv.naver.com/v/34018054</guid>
+            <pubDate>Wed, 15 Mar 2023 17:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_250/IOMvB_1678899676815A9q4C_JPEG/cover_0011446280_001_20230316020101128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 시각 소방청 상황실]]></title>
             <link>https://tv.naver.com/v/34017533</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 15:20:06 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_160/EImQm_1678892655154kbs8G_JPEG/cover_0011446310_001_20230316000401157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정상회담 분위기 띄우는 日…“솔직한 대화 기대”]]></title>
-            <link>https://tv.naver.com/v/34015903</link>
-            <guid>https://tv.naver.com/v/34015903</guid>
-            <pubDate>Wed, 15 Mar 2023 15:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_170/l5jsi_1678892447141vLV5e_JPEG/cover_0011446308_001_20230316000001176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
