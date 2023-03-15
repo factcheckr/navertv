@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 06:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 07:25:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 오늘] 주제어로 본 오늘의 주요 이슈는?]]></title>
+            <link>https://tv.naver.com/v/33999772</link>
+            <guid>https://tv.naver.com/v/33999772</guid>
+            <pubDate>Wed, 15 Mar 2023 07:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[9:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_249/S7LxZ_16788649446845lerx_JPEG/cover_0011445974_001_20230315161901118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 스타벅스, 노동자 기본권 침해]]></title>
+            <link>https://tv.naver.com/v/33999241</link>
+            <guid>https://tv.naver.com/v/33999241</guid>
+            <pubDate>Wed, 15 Mar 2023 07:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_131/b95vA_1678863998024mXcq5_JPEG/cover_0011445893_001_20230315160601130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘거창·산청·함양사건 국가배상’ 대정부 건의]]></title>
             <link>https://tv.naver.com/v/33996045</link>
@@ -216,14 +232,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_191/dj4G3_1678852723622KyXGs_JPEG/cover_0011445894_001_20230315125809146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미 스타벅스, 노동자 기본권 침해]]></title>
-            <link>https://tv.naver.com/v/33991382</link>
-            <guid>https://tv.naver.com/v/33991382</guid>
-            <pubDate>Wed, 15 Mar 2023 04:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_187/jJTkE_1678852712731U72We_JPEG/cover_0011445893_001_20230315125801156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[뉴스in뉴스] 한미 연합연습…남북 갈등 고조]]></title>
             <link>https://tv.naver.com/v/33991356</link>
             <guid>https://tv.naver.com/v/33991356</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 04:23:08 GMT</pubDate>
             <content:encoded><![CDATA[3:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_186/KfQB1_1678852609500JwBFA_JPEG/cover_0011445892_001_20230315125510424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘한 달 살기’ 인기인데…최악의 미세먼지 덮친 泰 치앙마이]]></title>
-            <link>https://tv.naver.com/v/33990970</link>
-            <guid>https://tv.naver.com/v/33990970</guid>
-            <pubDate>Wed, 15 Mar 2023 04:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_140/yo62v_1678851662327nux6J_JPEG/cover_0011445890_001_20230315124001189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
