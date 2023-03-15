@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 20:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 21:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34019067</link>
+            <guid>https://tv.naver.com/v/34019067</guid>
+            <pubDate>Wed, 15 Mar 2023 21:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_91/IgIui_16789147608095xmJ8_JPEG/cover_0001042956_001_20230316061201132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스브스뉴스] 2023년 출시된 노트북 맞습니다.. 한국 정발 파나소닉 노트북을 LG 그램과 비교해보았습니다 / 오목교 전자상가 EP.130]]></title>
             <link>https://tv.naver.com/v/34018533</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 15:20:26 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_112/7bvE2_16788907261280b9mB_JPEG/cover_0001042896_001_20230315233101149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새마을금고 또 갑질 논란…'소왕국의 왕' 단속 못하나]]></title>
-            <link>https://tv.naver.com/v/34015009</link>
-            <guid>https://tv.naver.com/v/34015009</guid>
-            <pubDate>Wed, 15 Mar 2023 15:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_3/PCoXF_1678890686271uFVsg_JPEG/cover_0001042897_001_20230315233031220.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
