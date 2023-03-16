@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 02:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 03:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령, 일본 도착…잠시 뒤 한일 정상회담]]></title>
+            <link>https://tv.naver.com/v/34027037</link>
+            <guid>https://tv.naver.com/v/34027037</guid>
+            <pubDate>Thu, 16 Mar 2023 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_165/5JMH2_1678936499427HqX0g_JPEG/cover_0000245774_001_20230316121401612.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본, 극우세력 경비 강화…“구상권 청구 없을 것”]]></title>
             <link>https://tv.naver.com/v/34010516</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 11:17:29 GMT</pubDate>
             <content:encoded><![CDATA[4:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_273/fWGwH_1678878660381lnArP_JPEG/cover_0000245730_001_20230315200837387.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘尹 인터뷰’ 9개면 게재…日 간판언론 파격 보도 왜?]]></title>
-            <link>https://tv.naver.com/v/34008462</link>
-            <guid>https://tv.naver.com/v/34008462</guid>
-            <pubDate>Wed, 15 Mar 2023 11:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[7:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_140/Ei1P0_1678878674850CPEIS_JPEG/cover_0000245729_001_20230315200823855.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
