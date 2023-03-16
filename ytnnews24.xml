@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 12:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 13:33:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국, 한국인 등 외국인 관광 전면 허용]]></title>
+            <link>https://tv.naver.com/v/34050604</link>
+            <guid>https://tv.naver.com/v/34050604</guid>
+            <pubDate>Thu, 16 Mar 2023 13:33:01 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_33/WCEX1_1678971954398Nx10N_JPEG/cover_cover_202303162130563125_t_20230316220502074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹 "연장근로 주 60시간 이상 무리...상한선 정하라"]]></title>
             <link>https://tv.naver.com/v/34049323</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Mar 2023 11:17:50 GMT</pubDate>
             <content:encoded><![CDATA[4:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_16/QHGHD_16789624014955SPW1_JPEG/cover_cover_202303161912450007_t_20230316192502063.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 내일 아침까지 반짝 추위...낮 동안 기온 올라]]></title>
-            <link>https://tv.naver.com/v/34045159</link>
-            <guid>https://tv.naver.com/v/34045159</guid>
-            <pubDate>Thu, 16 Mar 2023 10:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_211/lkVjb_1678961600651h8gnw_JPEG/cover_cover_202303161910576357_t_20230316191302107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
