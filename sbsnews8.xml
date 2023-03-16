@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 20:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 21:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34057969</link>
+            <guid>https://tv.naver.com/v/34057969</guid>
+            <pubDate>Thu, 16 Mar 2023 21:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_196/CKG4h_1679001346563QPXMp_JPEG/cover_0001043293_001_20230317061501082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/34057329</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Mar 2023 15:21:19 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230316_1/RvFY0_1678977128298q49fy_JPEG/cover_0001043222_001_20230316233101141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 "주 60시간 이상은 무리"…드러난 '엇박자']]></title>
-            <link>https://tv.naver.com/v/34053476</link>
-            <guid>https://tv.naver.com/v/34053476</guid>
-            <pubDate>Thu, 16 Mar 2023 15:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_6/1aUFu_1678977101116oAMrY_JPEG/cover_0001043224_001_20230316233039577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
