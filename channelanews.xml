@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]김연경이 쏘아 올린 ‘우승’]]></title>
+            <link>https://tv.naver.com/v/34040163</link>
+            <guid>https://tv.naver.com/v/34040163</guid>
+            <pubDate>Thu, 16 Mar 2023 08:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230316_84/WeHd8_1678954558818zjd0h_JPEG/cover_0000245799_001_20230316170301515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전재용 “아들 우울증” vs 전우원 “지금은 정상”]]></title>
             <link>https://tv.naver.com/v/34031187</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Mar 2023 12:37:20 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230315_96/cXOlp_1678881814801M7Qek_JPEG/cover_0000245756_001_20230315210226055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]내일 다시 쌀쌀…건조·강풍에 화재 주의]]></title>
-            <link>https://tv.naver.com/v/34010202</link>
-            <guid>https://tv.naver.com/v/34010202</guid>
-            <pubDate>Wed, 15 Mar 2023 12:37:20 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230315_209/VtJXO_1678881770513cs905_JPEG/cover_0000245758_001_20230315210218883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
