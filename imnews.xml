@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 04:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 05:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["불신 장벽 무너져"‥"부끄럽고 참담"]]></title>
+            <link>https://tv.naver.com/v/34067899</link>
+            <guid>https://tv.naver.com/v/34067899</guid>
+            <pubDate>Fri, 17 Mar 2023 05:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_238/uhtmF_16790299730137kgEU_JPEG/cover_cover_14news_20230317_140450_1_3_Large_20230317141203337.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이틀째 순방 일정‥관계 개선 의지 '재확인']]></title>
+            <link>https://tv.naver.com/v/34067811</link>
+            <guid>https://tv.naver.com/v/34067811</guid>
+            <pubDate>Fri, 17 Mar 2023 05:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_236/zdTUX_1679029842963wcLzY_JPEG/cover_cover_14news_20230317_140222_1_2_Large_20230317141004507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 낮 동안 봄 햇살‥메마른 대기, 서울 건조경보]]></title>
             <link>https://tv.naver.com/v/34065052</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 01:27:16 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_227/AWfvL_1679012247927NTJyC_JPEG/cover_cover_today_20230317_065236_2_14_Large_U_20230317091702243.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 미국서 펜타닐 오복용 청소년 사망 잇따라]]></title>
-            <link>https://tv.naver.com/v/34058725</link>
-            <guid>https://tv.naver.com/v/34058725</guid>
-            <pubDate>Thu, 16 Mar 2023 23:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_18/r1ERy_1679007856421KpkRy_JPEG/cover_cover_today_20230317_064855_2_11_Large_20230317080403773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 아침 쌀쌀, 낮엔 온화‥메마른 대기, '화재 주의']]></title>
-            <link>https://tv.naver.com/v/34058601</link>
-            <guid>https://tv.naver.com/v/34058601</guid>
-            <pubDate>Thu, 16 Mar 2023 23:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_13/lDbAA_1679007143849R6B8F_JPEG/cover_cover_today_20230317_074420_2_40_Large_20230317075211322.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
