@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 06:23:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 07:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미리보기] 9층시사국 : 한일 관계, 다시 갈림길에 서다 外]]></title>
+            <link>https://tv.naver.com/v/34071271</link>
+            <guid>https://tv.naver.com/v/34071271</guid>
+            <pubDate>Fri, 17 Mar 2023 07:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_153/g8fcM_1679034812198BzV9H_JPEG/cover_0011447568_001_20230317153302592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 주말, 산불 조심하세요…건조한 날씨 계속]]></title>
             <link>https://tv.naver.com/v/34067953</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 04:23:08 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_150/f8eNU_1679023489516uUlPN_JPEG/cover_0011447503_001_20230317122401148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북 “어제 ICBM 화성-17형 발사…김정은 현지 지도”]]></title>
-            <link>https://tv.naver.com/v/34064537</link>
-            <guid>https://tv.naver.com/v/34064537</guid>
-            <pubDate>Fri, 17 Mar 2023 04:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_292/uJKMy_1679023243384aHBPP_JPEG/cover_0011447501_001_20230317122001158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
