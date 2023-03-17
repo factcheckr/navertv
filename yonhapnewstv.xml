@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2023-03-17T03:21:40.001Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 17 Mar 2023 04:24:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통일부 "북한, 한미훈련을 도발 명분 삼아…매우 유감"]]></title>
+            <link>https://tv.naver.com/v/34066219</link>
+            <guid>https://tv.naver.com/v/34066219</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_120/gqeaC_1679026883411pBj67_JPEG/cover_cover_MYH20230317011800641_20230317132107627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국갤럽 "윤대통령 지지율 3주째 하락 33%…부정평가 60%"]]></title>
+            <link>https://tv.naver.com/v/34066212</link>
+            <guid>https://tv.naver.com/v/34066212</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_167/rio91_16790268757638Q6oO_JPEG/cover_cover_MYH20230317011700641_20230317132101969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국방위 '역사 피켓 공방'에 파행…회의 시작도 못해]]></title>
+            <link>https://tv.naver.com/v/34066185</link>
+            <guid>https://tv.naver.com/v/34066185</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_268/MWCFA_16790268306538PSUk_JPEG/cover_cover_MYH20230317011600641_20230317132003857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["우리 경제에 새 기회와 활력"…"국민 자존감 헐값에 팔아"]]></title>
+            <link>https://tv.naver.com/v/34066143</link>
+            <guid>https://tv.naver.com/v/34066143</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_166/JSQSh_1679026776142N1NPd_JPEG/cover_cover_MYH20230317011500641_20230317131901929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령실 '독도 논의' 일본 보도에 "회담서 전혀 언급 안돼"]]></title>
+            <link>https://tv.naver.com/v/34066022</link>
+            <guid>https://tv.naver.com/v/34066022</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_298/vrDZY_1679026537238RfBcT_JPEG/cover_cover_MYH20230317011400641_20230317131509389.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[日언론 "관계 정상화" 일제히 보도…"韓 징용 여론 관건"]]></title>
+            <link>https://tv.naver.com/v/34066017</link>
+            <guid>https://tv.naver.com/v/34066017</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_147/wWCL6_16790265556776YIhf_JPEG/cover_cover_MYH20230317011300032_20230317131502082.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤대통령, 스가 전 총리·일본 야당 지도부 접견]]></title>
+            <link>https://tv.naver.com/v/34065957</link>
+            <guid>https://tv.naver.com/v/34065957</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_160/8Uxxk_1679026408773k8b8K_JPEG/cover_cover_MYH20230317011200641_20230317131302147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 3월 17일 뉴스센터13]]></title>
+            <link>https://tv.naver.com/v/34065924</link>
+            <guid>https://tv.naver.com/v/34065924</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_55/73EH4_16790263515966dwMA_JPEG/cover_cover_MYH20230317011100641_20230317131203121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스초점] 12년 만에 '셔틀 외교' 복원…"김문기 몰랐다" 이재명 2차 공판]]></title>
+            <link>https://tv.naver.com/v/34065526</link>
+            <guid>https://tv.naver.com/v/34065526</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[28:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_294/LYtwn_1679026338629DlIEc_JPEG/cover_cover_MYH20230317011000641_20230317125901969.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 낮 동안 온화…수도권 건조경보, 화재 주의]]></title>
+            <link>https://tv.naver.com/v/34065391</link>
+            <guid>https://tv.naver.com/v/34065391</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_16/rgnKz_16790253044324AqQJ_JPEG/cover_cover_MYH20230317010900641_20230317125403694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CEO풍향계] '첫 중국 출장' 권영수…'사내이사 선임' 조현민]]></title>
+            <link>https://tv.naver.com/v/34065339</link>
+            <guid>https://tv.naver.com/v/34065339</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[5:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_280/aZRlX_1679025270588NAn1a_JPEG/cover_cover_MYH20230317010800641_20230317125203614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전두환 손자 전우원, 방송 중 마약 복용 기행…경찰 출동]]></title>
+            <link>https://tv.naver.com/v/34065065</link>
+            <guid>https://tv.naver.com/v/34065065</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_114/QdA7T_1679024583940P8wFC_JPEG/cover_cover_MYH20230317010700641_20230317124204091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여 "새로운 기회와 활력"…야 "부끄럽고 참담한 일"]]></title>
+            <link>https://tv.naver.com/v/34064694</link>
+            <guid>https://tv.naver.com/v/34064694</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_300/hWVqU_16790237300000kBGP_JPEG/cover_cover_MYH20230317010600641_20230317122701797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명 선거법 재판 두번째 출석…'묵묵부답' 입장]]></title>
+            <link>https://tv.naver.com/v/34064649</link>
+            <guid>https://tv.naver.com/v/34064649</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_107/ZH3LP_1679023604406SYX8y_JPEG/cover_cover_MYH20230317010500641_20230317122502174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[9,000여명 확진…20일부터 대중교통 마스크 해제]]></title>
+            <link>https://tv.naver.com/v/34064554</link>
+            <guid>https://tv.naver.com/v/34064554</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_183/FYPKN_1679023331914EK2sj_JPEG/cover_cover_MYH20230317010400641_20230317122101907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 "ICBM '화성-17형' 발사훈련"…김정은 참관]]></title>
+            <link>https://tv.naver.com/v/34064450</link>
+            <guid>https://tv.naver.com/v/34064450</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_38/15BLK_1679023034022aNQv6_JPEG/cover_cover_MYH20230317010300641_20230317121603914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["기시다, 尹대통령에 5월 G7 정상회의 초청 의사 전달"]]></title>
+            <link>https://tv.naver.com/v/34064399</link>
+            <guid>https://tv.naver.com/v/34064399</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_210/CZk3y_1679022876609dpPtJ_JPEG/cover_cover_MYH20230317010200032_20230317121411905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다와 '화합주'…오늘 정재계 관계복원 논의]]></title>
+            <link>https://tv.naver.com/v/34064398</link>
+            <guid>https://tv.naver.com/v/34064398</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_15/oU1d9_1679022923858Xs1bn_JPEG/cover_cover_MYH20230317010100641_20230317121403898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 3월 17일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/34064271</link>
+            <guid>https://tv.naver.com/v/34064271</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_279/VsoFh_1679022569496d4Ccd_JPEG/cover_cover_MYH20230317010000641_20230317120902356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 한일회담 여야 엇갈린 평가…"공동번영"·"굴종외교"]]></title>
+            <link>https://tv.naver.com/v/34063425</link>
+            <guid>https://tv.naver.com/v/34063425</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[33:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_214/Ec7b4_1679021847323JRNfK_JPEG/cover_cover_MYH20230317009700641_20230317114203933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨톡톡] 차츰 온화해져요…여전히 대기 건조 '불조심']]></title>
+            <link>https://tv.naver.com/v/34063021</link>
+            <guid>https://tv.naver.com/v/34063021</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_207/AJhq3_1679020291918PSqRV_JPEG/cover_cover_MYH20230317009600641_20230317113102346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남산터널 통행료 두달간 면제…오늘 강남방향부터]]></title>
+            <link>https://tv.naver.com/v/34062857</link>
+            <guid>https://tv.naver.com/v/34062857</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_208/MCBdA_1679020000805lNkmw_JPEG/cover_cover_MYH20230317009500641_20230317112612786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여 "한일 새로운 파트너십"…야 "일본의 하수인 전락"]]></title>
+            <link>https://tv.naver.com/v/34062849</link>
+            <guid>https://tv.naver.com/v/34062849</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_22/a4IA3_1679020052579sGIJ6_JPEG/cover_cover_MYH20230317009200641_20230317112604276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든, 애틀랜타 총격 2년에 "아시아인 혐오·인종차별 끝낼것"]]></title>
+            <link>https://tv.naver.com/v/34062780</link>
+            <guid>https://tv.naver.com/v/34062780</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_296/oRvkw_1679019870721rQ5Eu_JPEG/cover_cover_MYH20230317009300641_20230317112403586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 한일 정상 셔틀외교 복원…일, '사죄·반성' 없었다]]></title>
+            <link>https://tv.naver.com/v/34062212</link>
+            <guid>https://tv.naver.com/v/34062212</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[33:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_180/dq2pO_16790196970566zzSD_JPEG/cover_cover_MYH20230317009100641_20230317110603952.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 이재명 대표 '선거법 위반' 재판 두번째 법원 출석]]></title>
+            <link>https://tv.naver.com/v/34061546</link>
+            <guid>https://tv.naver.com/v/34061546</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_12/HUwez_1679017692076I6czE_JPEG/cover_cover_MYH20230317008900641_20230317104701998.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 대형 은행 11곳, 위기설 퍼스트리퍼블릭에 39조원 수혈]]></title>
+            <link>https://tv.naver.com/v/34060559</link>
+            <guid>https://tv.naver.com/v/34060559</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_133/DUG6P_1679015370410vxysN_JPEG/cover_cover_MYH20230317008800641_20230317100901993.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명 선거법 재판 두번째 출석…'허위발언' 공방]]></title>
+            <link>https://tv.naver.com/v/34060492</link>
+            <guid>https://tv.naver.com/v/34060492</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_182/lIUH5_1679015284203YcqTM_JPEG/cover_cover_MYH20230317008600641_20230317100603453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 "어제 ICBM 화성-17형 발사"…김정은·딸 주애 참관]]></title>
+            <link>https://tv.naver.com/v/34060466</link>
+            <guid>https://tv.naver.com/v/34060466</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_69/XzNZF_16790151451271mLUh_JPEG/cover_cover_MYH20230317008500641_20230317100502129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김건희 여사, 유코 여사와 화과자 만들며 친교…전통한과 선물도]]></title>
+            <link>https://tv.naver.com/v/34060422</link>
+            <guid>https://tv.naver.com/v/34060422</guid>
+            <pubDate>Fri, 17 Mar 2023 04:23:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_203/eKkbB_1679015001412Sty8d_JPEG/cover_cover_MYH20230317008400641_20230317100302072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
