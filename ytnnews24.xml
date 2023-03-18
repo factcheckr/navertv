@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 01:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 02:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 맑고 따뜻한 주말...도심 봄꽃 속속 개화]]></title>
+            <link>https://tv.naver.com/v/34092175</link>
+            <guid>https://tv.naver.com/v/34092175</guid>
+            <pubDate>Sat, 18 Mar 2023 02:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_216/NDg2D_1679105025406rsglb_JPEG/cover_cover_202303181100372577_t_20230318110301852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한일, 12년 만에 '셔틀 외교' 복원했지만...향후 과제는?]]></title>
+            <link>https://tv.naver.com/v/34092063</link>
+            <guid>https://tv.naver.com/v/34092063</guid>
+            <pubDate>Sat, 18 Mar 2023 02:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[21:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_184/TYJZd_1679104882923qoxnH_JPEG/cover_cover_202303181045563720_t_20230318105502467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경기 남양주 아파트에서 불...어머니·아들 숨져]]></title>
             <link>https://tv.naver.com/v/34091650</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 21:17:22 GMT</pubDate>
             <content:encoded><![CDATA[2:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230318_220/vukJW_1679085837406C4cAq_JPEG/cover_cover_202303180539393393_t_20230318054301604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저작권 지분 53%가 대행사에..."2백여만 원만 정산"]]></title>
-            <link>https://tv.naver.com/v/34089868</link>
-            <guid>https://tv.naver.com/v/34089868</guid>
-            <pubDate>Fri, 17 Mar 2023 21:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[3:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_289/OwpLd_1679085737197KnX0o_JPEG/cover_cover_202303180538583551_t_20230318054111260.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['예금 보호 한도' 23년째 5천만 원...더 높아질까?]]></title>
-            <link>https://tv.naver.com/v/34089867</link>
-            <guid>https://tv.naver.com/v/34089867</guid>
-            <pubDate>Fri, 17 Mar 2023 21:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_120/q5iaq_1679085712134xK4CF_JPEG/cover_cover_202303180529589650_t_20230318054102138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

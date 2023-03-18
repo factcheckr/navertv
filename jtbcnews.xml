@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 01:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 02:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 바이든 "푸틴에 대한 ICC의 '체포영장' 발부는 정당하다"]]></title>
+            <link>https://tv.naver.com/v/34092534</link>
+            <guid>https://tv.naver.com/v/34092534</guid>
+            <pubDate>Sat, 18 Mar 2023 02:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_18/hlE10_1679106689841z8hEn_JPEG/cover_0000336052_001_20230318113101547.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오픈 뉴스룸] "제발 저희 입장만 들으려 하지 말아주세요" MZ가 정부에게｜뉴스룸 뒤(D)]]></title>
             <link>https://tv.naver.com/v/34088528</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 10:21:35 GMT</pubDate>
             <content:encoded><![CDATA[11:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_169/dGX86_1679046037532RPPw8_JPEG/cover_0000335992_001_20230317183701448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['거취 논란' 이재명 "총선 승리 위해서 어떤 것도 할 것"]]></title>
-            <link>https://tv.naver.com/v/34078327</link>
-            <guid>https://tv.naver.com/v/34078327</guid>
-            <pubDate>Fri, 17 Mar 2023 10:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[10:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_128/5JJF9_1679045330876uqQnX_JPEG/cover_0000335990_001_20230317182601554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
