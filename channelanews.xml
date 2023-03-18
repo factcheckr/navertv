@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 09:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 10:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방일 후 첫 고위 당정…‘경제 성과’로 부정적 여론 정면돌파]]></title>
+            <link>https://tv.naver.com/v/34100659</link>
+            <guid>https://tv.naver.com/v/34100659</guid>
+            <pubDate>Sat, 18 Mar 2023 10:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_180/NIkNA_1679134509532QjmrF_JPEG/cover_0000245927_001_20230318191401624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상]역경 딛고 일어난 ‘1위’ 흥국생명]]></title>
             <link>https://tv.naver.com/v/34098769</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 11:17:14 GMT</pubDate>
             <content:encoded><![CDATA[6:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_141/QupSr_1679051482333WPwJq_JPEG/cover_0000245880_001_20230317200901564.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[李 측 “김문기와 눈도 안 마주쳤다”…이재명 두 번째 재판 출석]]></title>
-            <link>https://tv.naver.com/v/34081385</link>
-            <guid>https://tv.naver.com/v/34081385</guid>
-            <pubDate>Fri, 17 Mar 2023 11:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[10:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_74/SVZef_1679051568214ysYUI_JPEG/cover_0000245879_001_20230317200805770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
