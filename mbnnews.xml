@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 20:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 21:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[357회_기상 전망과 미세먼지 대응요령]]></title>
+            <link>https://tv.naver.com/v/34108969</link>
+            <guid>https://tv.naver.com/v/34108969</guid>
+            <pubDate>Sat, 18 Mar 2023 21:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[15:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_18/6zSry_1679172502982bmNOa_JPEG/cover_cover_20230319053746_20_849_1323195_1080_7_20230319054101148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3월 18일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/34101809</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 12:37:28 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_255/R9hcH_1679052669812vUzaY_JPEG/cover_cover_20230317202344_20_552_1323133_1080_7_20230317203001187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치와이드] 유동규 진술·재연에 재판장 웃음 왜?]]></title>
-            <link>https://tv.naver.com/v/34081927</link>
-            <guid>https://tv.naver.com/v/34081927</guid>
-            <pubDate>Fri, 17 Mar 2023 12:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[13:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_242/d4M8m_1679052855340yxcIc_JPEG/cover_cover_20230317202343_20_536_1323162_1080_7_20230317202801191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
