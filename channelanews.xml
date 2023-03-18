@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 07:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 08:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]역경 딛고 일어난 ‘1위’ 흥국생명]]></title>
+            <link>https://tv.naver.com/v/34098769</link>
+            <guid>https://tv.naver.com/v/34098769</guid>
+            <pubDate>Sat, 18 Mar 2023 08:23:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_208/xDmbR_1679127546822vV9eL_JPEG/cover_0000245924_001_20230318171801620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[동앵과 뉴스터디]거짓말도 무죄? 1심 판결에 윤미향이 웃은 이유]]></title>
             <link>https://tv.naver.com/v/34095928</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 11:17:14 GMT</pubDate>
             <content:encoded><![CDATA[10:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_74/SVZef_1679051568214ysYUI_JPEG/cover_0000245879_001_20230317200805770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日의 진전된 화답은 없었다…한일정상회담 결산 ①]]></title>
-            <link>https://tv.naver.com/v/34081377</link>
-            <guid>https://tv.naver.com/v/34081377</guid>
-            <pubDate>Fri, 17 Mar 2023 11:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[15:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_48/30UWl_1679051690711rxgaM_JPEG/cover_0000245877_001_20230317200742796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
