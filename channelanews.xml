@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 05:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 06:24:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]거짓말도 무죄? 1심 판결에 윤미향이 웃은 이유]]></title>
+            <link>https://tv.naver.com/v/34095928</link>
+            <guid>https://tv.naver.com/v/34095928</guid>
+            <pubDate>Sat, 18 Mar 2023 06:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[18:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_232/AORMf_1679119702901Qfe5t_JPEG/cover_0000245918_001_20230318150201610.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남산 1,3호 터널 통행료 면제 첫날…통행량은?]]></title>
             <link>https://tv.naver.com/v/34082700</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 11:17:14 GMT</pubDate>
             <content:encoded><![CDATA[15:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_48/30UWl_1679051690711rxgaM_JPEG/cover_0000245877_001_20230317200742796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유동규 “李-김문기 2인 카트”…골프 카트 ‘동승’ 두고 공방]]></title>
-            <link>https://tv.naver.com/v/34081370</link>
-            <guid>https://tv.naver.com/v/34081370</guid>
-            <pubDate>Fri, 17 Mar 2023 11:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[6:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_97/hUp27_16790514072688g3q9_JPEG/cover_0000245878_001_20230317200730958.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
