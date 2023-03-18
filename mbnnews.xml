@@ -4,16 +4,32 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 11:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 12:35:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월 18일 MBN 뉴스센터 클로징]]></title>
+            <link>https://tv.naver.com/v/34101809</link>
+            <guid>https://tv.naver.com/v/34101809</guid>
+            <pubDate>Sat, 18 Mar 2023 12:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_289/tDCaZ_1679138329286LnYsW_JPEG/cover_cover_20230318201455_20_906_1323193_1080_7_20230318201801166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨]포근한 휴일, 다시 미세먼지↑…산불 등 화재 주의]]></title>
+            <link>https://tv.naver.com/v/34101751</link>
+            <guid>https://tv.naver.com/v/34101751</guid>
+            <pubDate>Sat, 18 Mar 2023 12:35:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_6/VDM7H_1679138222821zTPD0_JPEG/cover_cover_20230318201252_20_906_1323192_1080_7_20230318201601179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이정후 시범경기 첫 홈런 '쾅'…광주는 인천 5대0 대파]]></title>
             <link>https://tv.naver.com/v/34101718</link>
             <guid>https://tv.naver.com/v/34101718</guid>
             <pubDate>Sat, 18 Mar 2023 11:16:14 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_207/9RGWq_167913810329393DCT_JPEG/cover_cover_20230318201032_20_906_1323191_1080_7_20230318201401179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_199/n3Xc1_1679138175403wrP0w_JPEG/cover_cover_20230318201032_20_906_1323191_1080_7_20230318201401179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["멍냥이 전성시대"…펫코노미 규모 유아용품 시장 넘는다]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 12:37:28 GMT</pubDate>
             <content:encoded><![CDATA[13:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_242/d4M8m_1679052855340yxcIc_JPEG/cover_cover_20230317202343_20_536_1323162_1080_7_20230317202801191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치와이드] '조국 딸' 조민 행보마다 비판하는 '최서원 딸' 정유라 왜?]]></title>
-            <link>https://tv.naver.com/v/34081813</link>
-            <guid>https://tv.naver.com/v/34081813</guid>
-            <pubDate>Fri, 17 Mar 2023 12:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[7:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_48/eVPq5_16790524876872JVNX_JPEG/cover_cover_20230317201901_20_536_1323161_1080_7_20230317202401151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치와이드] 전직 대통령 두 아들의 다른 길?]]></title>
-            <link>https://tv.naver.com/v/34081798</link>
-            <guid>https://tv.naver.com/v/34081798</guid>
-            <pubDate>Fri, 17 Mar 2023 12:37:28 GMT</pubDate>
-            <content:encoded><![CDATA[16:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_123/M4sWs_16790525824454xnAQ_JPEG/cover_cover_20230317201749_20_536_1323160_1080_7_20230317202301141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
