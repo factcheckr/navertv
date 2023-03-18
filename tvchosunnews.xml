@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 06:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 07:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 18 Mar 2023 06:23:47 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230318_177/4tsH5_1679120211060N6zaX_JPEG/cover_2023031890035_thumb_031432_20230318151630419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이인규 회고록 파장…"文의 무능·무책임으로 盧 서거 못 막아"]]></title>
+            <link>https://tv.naver.com/v/34096237</link>
+            <guid>https://tv.naver.com/v/34096237</guid>
+            <pubDate>Sat, 18 Mar 2023 07:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[46:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_181/WBSYo_16791212194655Mgav_JPEG/cover_2023031890029_thumb_031005_20230318151601618.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한일 정상, 12년만에 '셔틀 외교' 복원…野는 규탄 집회]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 11:17:05 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_79/ctqao_1679050304454VGmj3_JPEG/cover_2023031790164_thumb_074517_20230317195102091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨박스] 尹, 한일 경제인 행사 참석…"교류 지원 아끼지 않겠다"]]></title>
-            <link>https://tv.naver.com/v/34080752</link>
-            <guid>https://tv.naver.com/v/34080752</guid>
-            <pubDate>Fri, 17 Mar 2023 11:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_282/hExdm_1679050016540pgfrj_JPEG/cover_2023031790166_thumb_074239_20230317194608400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
