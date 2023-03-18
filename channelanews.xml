@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 12:35:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 13:23:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OPEN 인터뷰]‘1등만 기억하는 더러운 세상’ 개그 우등생 박성광의 도전]]></title>
+            <link>https://tv.naver.com/v/34103013</link>
+            <guid>https://tv.naver.com/v/34103013</guid>
+            <pubDate>Sat, 18 Mar 2023 13:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[10:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_70/IfoR0_1679142971869diN1n_JPEG/cover_0000245941_001_20230318213101531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[OPEN 인터뷰]서하얀 vs 이솔이…‘내조의 여왕’ 승자는?]]></title>
             <link>https://tv.naver.com/v/34102005</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 12:37:21 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_285/UECGl_1679052360261NzcvT_JPEG/cover_0000245897_001_20230317202438390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀 잡고 1시간 벽 보기…학대 의혹 교사 2명 면직]]></title>
-            <link>https://tv.naver.com/v/34081827</link>
-            <guid>https://tv.naver.com/v/34081827</guid>
-            <pubDate>Fri, 17 Mar 2023 12:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_98/0HGCj_16790523478454rkLO_JPEG/cover_0000245898_001_20230317202429574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
