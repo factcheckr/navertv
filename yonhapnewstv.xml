@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 19:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 20:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 590회]]></title>
+            <link>https://tv.naver.com/v/34108828</link>
+            <guid>https://tv.naver.com/v/34108828</guid>
+            <pubDate>Sat, 18 Mar 2023 20:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[30:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_117/lEQac_167917054406630LHL_JPEG/cover_cover_MYH20230317017900641_20230319050101730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결혼도 출산도 '손사래'…수십조원씩 밑빠진 독에 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/34103637</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Mar 2023 09:18:10 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230318_154/XuTSh_1679127776504Yjl0P_JPEG/cover_cover_MYH20230318008300641_20230318172204049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스1번지] '방일결과' 주말 공방전…"반일선동 그만"vs"굴종외교"]]></title>
-            <link>https://tv.naver.com/v/34098786</link>
-            <guid>https://tv.naver.com/v/34098786</guid>
-            <pubDate>Sat, 18 Mar 2023 09:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[24:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_47/JhWVx_1679128143904Sscfx_JPEG/cover_cover_MYH20230318008200641_20230318171903172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
