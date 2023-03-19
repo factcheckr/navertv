@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 15:20:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 16:25:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산민주공원 부속 사료관 이달 착공]]></title>
+            <link>https://tv.naver.com/v/34127699</link>
+            <guid>https://tv.naver.com/v/34127699</guid>
+            <pubDate>Sun, 19 Mar 2023 16:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_217/3MdB0_1679239757945SI2Wk_JPEG/cover_0011448274_001_20230320002903664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[3년 만에 열린 부산항 크루즈 뱃길]]></title>
             <link>https://tv.naver.com/v/34126144</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 19 Mar 2023 13:22:02 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230319_94/LoSeF_1679230833260jXjds_JPEG/cover_0011448322_001_20230319220007390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[228년 만에 복원된 ‘18세기 통제영 거북선’]]></title>
-            <link>https://tv.naver.com/v/34124538</link>
-            <guid>https://tv.naver.com/v/34124538</guid>
-            <pubDate>Sun, 19 Mar 2023 13:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_178/lP0fA_16792308599650ibzs_JPEG/cover_0011448321_001_20230319220001228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
