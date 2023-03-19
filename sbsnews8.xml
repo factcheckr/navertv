@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 20:20:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 21:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘부터 대중교통 마스크 자율…시민들 엇갈린 반응]]></title>
+            <link>https://tv.naver.com/v/34130479</link>
+            <guid>https://tv.naver.com/v/34130479</guid>
+            <pubDate>Sun, 19 Mar 2023 21:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_61/7eKof_1679260509262fOuWr_JPEG/cover_0001043905_001_20230320061401152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34130453</link>
+            <guid>https://tv.naver.com/v/34130453</guid>
+            <pubDate>Sun, 19 Mar 2023 21:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_16/w0ZJC_1679260180422WxIi0_JPEG/cover_0001043904_001_20230320060901111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비싸고 위험한 가정용 LP가스…그럼에도 못 바꾸는 이유는?]]></title>
             <link>https://tv.naver.com/v/34126971</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 19 Mar 2023 08:22:32 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230319_276/zZrge_1679210805850PagCR_JPEG/cover_0001043793_001_20230319162601149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장영상] 머리 맞댄 고위당정…'주69시간 근로시간 개편 반발' 진화]]></title>
-            <link>https://tv.naver.com/v/34116908</link>
-            <guid>https://tv.naver.com/v/34116908</guid>
-            <pubDate>Sun, 19 Mar 2023 07:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[17:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_14/U694U_1679209856256gNdfa_JPEG/cover_0001043826_001_20230319160301120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 전국 대부분 건조특보…초미세먼지 '나쁨']]></title>
-            <link>https://tv.naver.com/v/34111682</link>
-            <guid>https://tv.naver.com/v/34111682</guid>
-            <pubDate>Sun, 19 Mar 2023 03:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_208/obYI5_1679195429282o7xlq_JPEG/cover_0001043792_001_20230319121001199.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
