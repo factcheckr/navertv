@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 06:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 07:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기시다 총리, 사과 없이 "기존 내각 입장 계승"]]></title>
+            <link>https://tv.naver.com/v/34116509</link>
+            <guid>https://tv.naver.com/v/34116509</guid>
+            <pubDate>Sun, 19 Mar 2023 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_156/mbKEz_1679208697636Vryvd_JPEG/cover_cover_today_20230317_060633_1_3_Large_20230319155102000.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초계기, 소녀상, 후쿠시마 방류까지 - 일본 정치인들 만났는데 요구만 잔뜩]]></title>
+            <link>https://tv.naver.com/v/34116476</link>
+            <guid>https://tv.naver.com/v/34116476</guid>
+            <pubDate>Sun, 19 Mar 2023 07:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_196/T5G53_1679208656106JQJyc_JPEG/cover_cover_desk_20230317_194500_1_2_Large_20230319155003493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[승용차가 보행자·오토바이·트럭 충돌‥4명 다쳐]]></title>
             <link>https://tv.naver.com/v/34114011</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 18 Mar 2023 03:20:26 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230318_221/0hd66_1679108543367d6tqH_JPEG/cover_cover_noon_20230318_115548_1_5_Large_20230318120210387.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 언론 "윤 대통령, 레이더 조준 부정 안 해"]]></title>
-            <link>https://tv.naver.com/v/34093001</link>
-            <guid>https://tv.naver.com/v/34093001</guid>
-            <pubDate>Sat, 18 Mar 2023 03:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_219/AMdpu_1679108548751CoT22_JPEG/cover_cover_noon_20230318_115548_1_4_Large_20230318120203964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국방부 '지소미아' 정상화 절차 착수]]></title>
-            <link>https://tv.naver.com/v/34092957</link>
-            <guid>https://tv.naver.com/v/34092957</guid>
-            <pubDate>Sat, 18 Mar 2023 03:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_236/Yiuob_1679108418621Ymcw4_JPEG/cover_cover_noon_20230318_115357_1_3_Large_1_20230318120004230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
