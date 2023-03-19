@@ -4,16 +4,24 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 11:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 12:35:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[3월 19일 뉴스센터 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34123264</link>
+            <guid>https://tv.naver.com/v/34123264</guid>
+            <pubDate>Sun, 19 Mar 2023 12:35:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_289/6egQm_1679227295309WAhsc_JPEG/cover_cover_20230319205603_20_906_1323202_1080_7_20230319210001179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[날씨] 산불위기경보 '경계'…내일, 온화하지만 초미세먼지↑]]></title>
-            <link>https://tv.naver.com/v/34122196</link>
-            <guid>https://tv.naver.com/v/34122196</guid>
-            <pubDate>Sun, 19 Mar 2023 11:16:14 GMT</pubDate>
+            <link>https://tv.naver.com/v/34122272</link>
+            <guid>https://tv.naver.com/v/34122272</guid>
+            <pubDate>Sun, 19 Mar 2023 12:35:26 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_230/8UGRa_1679224486395swWl1_JPEG/cover_cover_20230319201122_20_906_1323221_1080_7_20230319201401152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_141/JRlOd_1679224736549Vrwo7_JPEG/cover_cover_20230319201122_20_906_1323221_1080_7_20230319201801190.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영천·제천서 산불…산불 재난 국가위기 '경계' 발령]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Mar 2023 11:16:14 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230318_212/VrykB_1679137754405Shg8G_JPEG/cover_cover_20230318200418_20_906_1323188_1080_7_20230318200801184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치매 오기 전 '이것' 온다…늘어나는 '영츠하이머' 패턴은?]]></title>
-            <link>https://tv.naver.com/v/34101533</link>
-            <guid>https://tv.naver.com/v/34101533</guid>
-            <pubDate>Sat, 18 Mar 2023 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_44/zgc7p_1679137505457zzRy4_JPEG/cover_cover_20230318200112_20_906_1323187_1080_7_20230318200401170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
