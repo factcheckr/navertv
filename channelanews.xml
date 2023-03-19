@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 03:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 04:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OPEN 인터뷰]아내 이솔이도 몰랐다?…박성광 ‘큰 거’ 숨겼다]]></title>
+            <link>https://tv.naver.com/v/34111886</link>
+            <guid>https://tv.naver.com/v/34111886</guid>
+            <pubDate>Sun, 19 Mar 2023 04:23:36 GMT</pubDate>
+            <content:encoded><![CDATA[5:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_202/geYSC_1679196620135DSycY_JPEG/cover_0000245945_001_20230319122801628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[OPEN 인터뷰]‘1등만 기억하는 더러운 세상’ 개그 우등생 박성광의 도전]]></title>
             <link>https://tv.naver.com/v/34103013</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Mar 2023 12:37:21 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230317_174/c8mi0_1679052341435SXzfK_JPEG/cover_0000245896_001_20230317202447002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번엔 도로 막고 시위…전장연 대표 체포]]></title>
-            <link>https://tv.naver.com/v/34081832</link>
-            <guid>https://tv.naver.com/v/34081832</guid>
-            <pubDate>Fri, 17 Mar 2023 12:37:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230317_285/UECGl_1679052360261NzcvT_JPEG/cover_0000245897_001_20230317202438390.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
