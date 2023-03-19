@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 01:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 02:50:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[크랩] 항공사가 기내식에 꼭 채소를 삶아서 내놓는 이유]]></title>
+            <link>https://tv.naver.com/v/34110840</link>
+            <guid>https://tv.naver.com/v/34110840</guid>
+            <pubDate>Sun, 19 Mar 2023 02:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[3:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_18/fveyh_1679191363199a5hwU_JPEG/cover_0011448179_001_20230319110101591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[창+] K-POP, “춤 되는 가수 말고 노래 잘하는 댄서”…퍼포먼스 우선주의]]></title>
             <link>https://tv.naver.com/v/34109714</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Mar 2023 13:21:40 GMT</pubDate>
             <content:encoded><![CDATA[0:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230318_51/gkRNn_1679144719702dOuVN_JPEG/cover_0011448113_001_20230318220506962.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창원 원이대로 S-BRT 공사, 다음 달 4일 시작]]></title>
-            <link>https://tv.naver.com/v/34103731</link>
-            <guid>https://tv.naver.com/v/34103731</guid>
-            <pubDate>Sat, 18 Mar 2023 13:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_222/MTzMr_1679144716329zU2TK_JPEG/cover_0011448112_001_20230318220501140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
