@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Mar 2023 08:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 09:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 2년 5개월 만에 자유…20일부터 대중교통도 마스크 착용 '자율 선택']]></title>
+            <link>https://tv.naver.com/v/34118975</link>
+            <guid>https://tv.naver.com/v/34118975</guid>
+            <pubDate>Sun, 19 Mar 2023 09:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_170/G7yVZ_1679215244692e8IYW_JPEG/cover_0001043839_001_20230319174001171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 아파트 창문에 쇠구슬 쏜 60대…'죄송하냐' 질문에 침묵]]></title>
             <link>https://tv.naver.com/v/34118504</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Mar 2023 15:18:59 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230318_115/Rd5bY_1679149458120ztTwy_JPEG/cover_0001043687_001_20230318232301121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/34103595</link>
-            <guid>https://tv.naver.com/v/34103595</guid>
-            <pubDate>Sat, 18 Mar 2023 13:22:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_239/SyHxa_1679144383909BMdfy_JPEG/cover_0001043682_001_20230318215901137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
