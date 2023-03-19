@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 23:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Mar 2023 01:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[창+] K-POP, “춤 되는 가수 말고 노래 잘하는 댄서”…퍼포먼스 우선주의]]></title>
+            <link>https://tv.naver.com/v/34109714</link>
+            <guid>https://tv.naver.com/v/34109714</guid>
+            <pubDate>Sun, 19 Mar 2023 01:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[10:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230319_283/dAsfR_1679184280019K9TW2_PNG/cover_0011448159_001_20230319090101125.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[8시 날씨] 완연한 봄…서쪽 초미세먼지·대기 매우 건조]]></title>
             <link>https://tv.naver.com/v/34109466</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Mar 2023 13:21:40 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230318_222/MTzMr_1679144716329zU2TK_JPEG/cover_0011448112_001_20230318220501140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창원시의회, ‘프리랜서 노동자’ 지원 조례 제정]]></title>
-            <link>https://tv.naver.com/v/34103723</link>
-            <guid>https://tv.naver.com/v/34103723</guid>
-            <pubDate>Sat, 18 Mar 2023 13:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230318_160/sgbdI_1679144681712e50za_JPEG/cover_0011448111_001_20230318220431402.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
