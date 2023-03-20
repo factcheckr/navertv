@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 19:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 20:20:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 드디어 만난 푸틴과 시진핑...미국이 경악한 이유]]></title>
+            <link>https://tv.naver.com/v/34167967</link>
+            <guid>https://tv.naver.com/v/34167967</guid>
+            <pubDate>Mon, 20 Mar 2023 20:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230321_224/WgF3i_1679341776007iQdsW_JPEG/cover_cover_202303210446083321_t_20230321044902066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경북 성주 폐기물처리업체에서 불...대응 1단계 발령]]></title>
             <link>https://tv.naver.com/v/34167217</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 20 Mar 2023 13:28:38 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230320_73/wZJLM_1679318896130mwusA_JPEG/cover_cover_202303202222017241_t_20230320222701896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKY 진학 쉬워졌다지만...치열해진 '생존 경쟁'에 청년 고민↑]]></title>
-            <link>https://tv.naver.com/v/34161051</link>
-            <guid>https://tv.naver.com/v/34161051</guid>
-            <pubDate>Mon, 20 Mar 2023 13:28:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230320_206/ucK8G_167931859736143dmY_JPEG/cover_cover_202303202212252206_t_20230320222217682.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
