@@ -4,7 +4,7 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 02:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 03:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Wed, 22 Mar 2023 02:36:21 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_119/LV7Pt_1679452270440s0C4R_JPEG/cover_cover_MYH20230322006800641_20230322113003773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] '대장동·성남FC' 이재명 오늘 기소…수사 1년 6개월만]]></title>
+            <link>https://tv.naver.com/v/34212257</link>
+            <guid>https://tv.naver.com/v/34212257</guid>
+            <pubDate>Wed, 22 Mar 2023 03:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[35:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_3/DUDGt_16794531110255Phdy_JPEG/cover_cover_MYH20230322006400641_20230322112803673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[속보] 검찰, '대장동·성남FC 의혹' 이재명 불구속 기소]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Mar 2023 23:18:24 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_232/Ses9B_1679438670244JuQ6e_JPEG/cover_cover_MYH20230322002700641_20230322074404080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[납품대금 연동제 기업에 정기조사 면제 인센티브]]></title>
-            <link>https://tv.naver.com/v/34207326</link>
-            <guid>https://tv.naver.com/v/34207326</guid>
-            <pubDate>Tue, 21 Mar 2023 23:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_134/vF1mA_1679438609457YKIF5_JPEG/cover_cover_MYH20230322002600641_20230322074301703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
