@@ -4,16 +4,24 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 20:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 21:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34244515</link>
+            <guid>https://tv.naver.com/v/34244515</guid>
+            <pubDate>Wed, 22 Mar 2023 21:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_30/Gk74D_16795194418096DfTx_JPEG/cover_0001044765_001_20230323061001166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[나이트라인 초대석] 쇼트트랙 박지원 "지금이 최전성기…사실 저도 적응 안 돼요"]]></title>
             <link>https://tv.naver.com/v/34243235</link>
             <guid>https://tv.naver.com/v/34243235</guid>
             <pubDate>Wed, 22 Mar 2023 18:22:38 GMT</pubDate>
             <content:encoded><![CDATA[6:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_206/atYFd_16795071256358Il2r_JPEG/cover_0001044755_001_20230323024201138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_73/2HME3_1679518869009aO0jz_JPEG/cover_0001044755_001_20230323024201138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클로징]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Mar 2023 13:23:29 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_89/TVqlr_1679488978349yuIk9_JPEG/cover_0001044718_001_20230322214201136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한상혁 방통위원장 8시간째 조사…혐의 전면 부인]]></title>
-            <link>https://tv.naver.com/v/34236204</link>
-            <guid>https://tv.naver.com/v/34236204</guid>
-            <pubDate>Wed, 22 Mar 2023 13:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_163/ZUt3O_1679488966403jtvhs_JPEG/cover_0001044726_001_20230322214148500.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
