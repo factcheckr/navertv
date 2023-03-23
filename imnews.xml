@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 04:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 05:18:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상M] 함께 불 뿜는 한미 연합전력‥"대규모 실사격 훈련"]]></title>
+            <link>https://tv.naver.com/v/34255500</link>
+            <guid>https://tv.naver.com/v/34255500</guid>
+            <pubDate>Thu, 23 Mar 2023 05:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_50/dSF9F_1679547778745gSAsn_JPEG/cover_cover_k230323-28_20230323140207384.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 황사·미세먼지로 탁한 공기‥비, 오후 중으로 그쳐]]></title>
             <link>https://tv.naver.com/v/34252294</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Mar 2023 01:23:09 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_300/inWu6_1679530838837OsYI7_JPEG/cover_cover_today_20230323_065328_2_16_Large_U_20230323092020594.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여중 앞 '아이 낳아줄 여성 구함' 현수막, 징역 1년 구형]]></title>
-            <link>https://tv.naver.com/v/34246277</link>
-            <guid>https://tv.naver.com/v/34246277</guid>
-            <pubDate>Thu, 23 Mar 2023 01:23:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_100/mgRFM_1679530827711Lchg3_JPEG/cover_cover_today_20230323_065225_2_15_Large_U_20230323092012434.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
