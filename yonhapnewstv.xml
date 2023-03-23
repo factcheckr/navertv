@@ -4,7 +4,7 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 14:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 15:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 23 Mar 2023 14:18:50 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_83/ThIXf_1679578890315SilXJ_JPEG/cover_cover_MYH20230323024200641_20230323224101956.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야, '선거제 개편 단일안' 합의 처리 하기로]]></title>
-            <link>https://tv.naver.com/v/34276421</link>
-            <guid>https://tv.naver.com/v/34276421</guid>
-            <pubDate>Thu, 23 Mar 2023 14:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_93/bfsh7_1679578465357o3UvD_JPEG/cover_cover_MYH20230323024100641_20230323223404222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헌재 "수사·소추권, 국회가 조정 가능…독점권 아냐"]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 23 Mar 2023 12:37:43 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_259/yKnXI_1679571864368qdreW_JPEG/cover_cover_MYH20230323021200641_20230323204302148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 3월 23일 뉴스리뷰]]></title>
+            <link>https://tv.naver.com/v/34272278</link>
+            <guid>https://tv.naver.com/v/34272278</guid>
+            <pubDate>Thu, 23 Mar 2023 15:18:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_74/iYfDv_1679571448907llluF_JPEG/cover_cover_MYH20230323021100641_20230323203702030.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
