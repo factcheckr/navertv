@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 12:38:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 13:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 23 Mar 2023 12:38:30 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_282/l0pJ1_1679574115584jeyHK_JPEG/cover_cover_20230323195242_20_552_1323633_1080_7_20230323212001159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정치와이드] 헌재 "검수완박 무효 아냐"…"민형배 꼼수 탈당 위헌"]]></title>
+            <link>https://tv.naver.com/v/34273614</link>
+            <guid>https://tv.naver.com/v/34273614</guid>
+            <pubDate>Thu, 23 Mar 2023 13:28:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:13:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_78/d10E7_1679575848062bO7nY_JPEG/cover_cover_20230323203319_20_536_1323648_1080_7_20230323211701180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 내일까지 황사 영향…밤사이 기온 낮아져, 쌀쌀]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Mar 2023 10:21:24 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_108/UVmqH_1679566654516Gl8fP_JPEG/cover_cover_20230323191409_20_552_1323615_1080_7_20230323191602215.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법무부·검찰, '검수완박 뒤집기' 불발…권한쟁의 각하]]></title>
-            <link>https://tv.naver.com/v/34269248</link>
-            <guid>https://tv.naver.com/v/34269248</guid>
-            <pubDate>Thu, 23 Mar 2023 10:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_258/8qfXQ_1679566520077C3753_JPEG/cover_cover_20230323191151_20_552_1323614_1080_7_20230323191401170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
