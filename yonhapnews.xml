@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 21:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 22:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 24 Mar 2023 08:22:24 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_50/c1rH0_1679645943049KYiV8_JPEG/1679645543104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] '홈 익스체인지' 중개 앱 출시 서미영 비홈 대표]]></title>
+            <link>https://tv.naver.com/v/34297416</link>
+            <guid>https://tv.naver.com/v/34297416</guid>
+            <pubDate>Fri, 24 Mar 2023 22:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[8:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_232/hEWOm_16796388925625rs6n_JPEG/1679636348373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공항 터미널 막고, 기름 동나고…佛연금개혁 반대 9차 시위]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Mar 2023 02:35:10 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_285/mp6Pb_1679538789371BxyVm_JPEG/1679538756488.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['트럼프 체포설' 퍼지자 AI가 만들어낸 가짜 사진들]]></title>
-            <link>https://tv.naver.com/v/34249501</link>
-            <guid>https://tv.naver.com/v/34249501</guid>
-            <pubDate>Thu, 23 Mar 2023 02:35:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_248/KZCep_1679537326176axUaf_JPEG/1679537309514.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
