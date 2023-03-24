@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 23:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 01:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 23 Mar 2023 08:23:36 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_38/2lfUf_1679559807353QAMWl_JPEG/1679559624379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[목사 김달성 "이주노동자에게 고용주는 절대군주"]]></title>
+            <link>https://tv.naver.com/v/34265007</link>
+            <guid>https://tv.naver.com/v/34265007</guid>
+            <pubDate>Fri, 24 Mar 2023 01:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[13:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_161/PxSy8_167955979664282ehC_JPEG/1679557598759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["MQ-9 연료탱크 수거했다"…러 군 교신, 아마추어 무선에 포착]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Mar 2023 03:19:48 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230322_84/wf397_1679453517355DulhP_JPEG/1679453101431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다, 중·러 정상회담일 우크라 방문…동해엔 러 전폭기 출현]]></title>
-            <link>https://tv.naver.com/v/34212267</link>
-            <guid>https://tv.naver.com/v/34212267</guid>
-            <pubDate>Wed, 22 Mar 2023 02:36:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230322_206/wjZOI_1679452113548chCKE_JPEG/1679452094695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
