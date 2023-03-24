@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 09:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 10:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 전두환 손자, 유아인 이어 남경필 장남]]></title>
+            <link>https://tv.naver.com/v/34304628</link>
+            <guid>https://tv.naver.com/v/34304628</guid>
+            <pubDate>Fri, 24 Mar 2023 10:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_145/IXdiR_1679650113645mDPOK_JPEG/cover_cover_230324_nam_1800_final_640_20230324182702818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[와글와글] 의자야? 운동기구야?‥맥도날드 의자에 갑론을박]]></title>
             <link>https://tv.naver.com/v/34304024</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Mar 2023 07:16:19 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_150/YThzK_1679641305534eIwo8_JPEG/cover_cover_14news_20230324_151602_1_12_Large_20230324160101987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시 '지하철 탑승 시위'‥갈등 깊어진 서울시-전장연]]></title>
-            <link>https://tv.naver.com/v/34299095</link>
-            <guid>https://tv.naver.com/v/34299095</guid>
-            <pubDate>Fri, 24 Mar 2023 07:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_46/deRTH_1679641316515Bpv2I_JPEG/cover_cover_14news_20230324_151602_1_11_Large_20230324160056308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
