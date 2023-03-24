@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Mar 2023 05:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Mar 2023 06:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 윤 대통령, 서해수호 55명 용사 호명하다 '울컥']]></title>
+            <link>https://tv.naver.com/v/34297355</link>
+            <guid>https://tv.naver.com/v/34297355</guid>
+            <pubDate>Fri, 24 Mar 2023 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[6:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_209/jj3dk_1679638956782g29wU_JPEG/cover_0000336808_001_20230324152001557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['서해 피격 은폐' 서훈·박지원·서욱, 첫 재판 출석]]></title>
             <link>https://tv.naver.com/v/34290050</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Mar 2023 12:37:31 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230323_219/KngzP_1679573503972jJjEd_JPEG/cover_0000336707_001_20230323211101456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기상센터] 내일도 미세먼지 '나쁨'…고온현상 누그러져]]></title>
-            <link>https://tv.naver.com/v/34273295</link>
-            <guid>https://tv.naver.com/v/34273295</guid>
-            <pubDate>Thu, 23 Mar 2023 12:37:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230323_101/cGWQd_16795732978810oCGs_JPEG/cover_0000336724_001_20230323210716486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
