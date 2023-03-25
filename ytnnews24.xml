@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 15:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 16:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 향기 가득한 덕수궁]]></title>
+            <link>https://tv.naver.com/v/34334021</link>
+            <guid>https://tv.naver.com/v/34334021</guid>
+            <pubDate>Sat, 25 Mar 2023 16:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_45/45LjI_1679761164082GL3qi_JPEG/cover_cover_202303260115077523_t_20230326011904811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[中 재개방 '심벌'된 애플 CEO 팀쿡...삼성 이재용은?]]></title>
             <link>https://tv.naver.com/v/34332810</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 13:20:42 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230325_122/oaT0k_1679750154204quN9d_JPEG/cover_cover_202303252210173245_t_20230325221502229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인쇄물 살포 금지도 "표현의 자유 제한"...내년 총선부터 확대]]></title>
-            <link>https://tv.naver.com/v/34330574</link>
-            <guid>https://tv.naver.com/v/34330574</guid>
-            <pubDate>Sat, 25 Mar 2023 13:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_61/8azPq_1679750023917wWnpo_JPEG/cover_cover_202303252156468144_t_20230325221301744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
