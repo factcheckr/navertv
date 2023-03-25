@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 06:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 07:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 25 Mar 2023 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[1:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230325_80/8OdVc_1679725043062MvlmJ_JPEG/cover_2023032590011_thumb_031340_20230325151626707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이기인 "이재명은 이래도 김문기 모른다고?"…밀착사진 공개]]></title>
+            <link>https://tv.naver.com/v/34322155</link>
+            <guid>https://tv.naver.com/v/34322155</guid>
+            <pubDate>Sat, 25 Mar 2023 07:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[42:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_296/hv6K6_1679725916620KIVf6_JPEG/cover_2023032590009_thumb_031305_20230325151602059.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["윤석열 심판" 민주노총 1만8천명 집회…도심 정체 극심]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Mar 2023 14:18:05 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_201/kzPd0_1679665043186Erc4j_JPEG/cover_2023032490174_thumb_103105_20230324223622326.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[北, 신무기 '핵어뢰' 공개…목표지점서 수중 폭발]]></title>
-            <link>https://tv.naver.com/v/34311556</link>
-            <guid>https://tv.naver.com/v/34311556</guid>
-            <pubDate>Fri, 24 Mar 2023 14:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_143/GWhy4_1679665028291NFnY6_JPEG/cover_2023032490179_thumb_103502_20230324223616133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
