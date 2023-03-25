@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 05:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 06:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]김건희 ‘코바나컨텐츠 협찬 의혹’, 불기소 된 진짜 이유는?]]></title>
+            <link>https://tv.naver.com/v/34321857</link>
+            <guid>https://tv.naver.com/v/34321857</guid>
+            <pubDate>Sat, 25 Mar 2023 06:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[18:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_16/Is2zS_1679724531469pJA0q_JPEG/cover_0000246379_001_20230325150201615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앵커의 마침표]안보 앞에 여야 없어야]]></title>
             <link>https://tv.naver.com/v/34308457</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Mar 2023 11:17:02 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_200/0KTp8_1679656338539I0FmX_JPEG/cover_0000246335_001_20230324201057936.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[李, 기념식 대신 울산으로…민주당 지도부 6년 만에 불참]]></title>
-            <link>https://tv.naver.com/v/34307731</link>
-            <guid>https://tv.naver.com/v/34307731</guid>
-            <pubDate>Fri, 24 Mar 2023 11:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_16/9WU5A_1679656304262rtbav_JPEG/cover_0000246345_001_20230324201039436.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
