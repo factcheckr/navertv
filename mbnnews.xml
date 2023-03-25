@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 20:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 21:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[360회_전동킥보드 사고와 화재 예방요령]]></title>
+            <link>https://tv.naver.com/v/34335418</link>
+            <guid>https://tv.naver.com/v/34335418</guid>
+            <pubDate>Sat, 25 Mar 2023 21:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[15:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_219/mSZsd_1679777482399BLSMh_JPEG/cover_cover_20230326053814_20_849_1323788_1080_7_20230326054301141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재용·팀쿡 등 글로벌 CEO들 너도나도 중국으로 달려간 까닭은?]]></title>
             <link>https://tv.naver.com/v/34329403</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Mar 2023 12:34:14 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230324_69/QT6IT_16796575279139Kgel_JPEG/cover_cover_20230324202641_20_552_1323725_1080_7_20230324203101122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치와이드] "한동훈 탄핵" VS "당당히 임할 것"]]></title>
-            <link>https://tv.naver.com/v/34308201</link>
-            <guid>https://tv.naver.com/v/34308201</guid>
-            <pubDate>Fri, 24 Mar 2023 12:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:13:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230324_85/C1yqx_1679659202799abDPB_JPEG/cover_cover_20230324202147_20_536_1323753_1080_7_20230324202901144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
