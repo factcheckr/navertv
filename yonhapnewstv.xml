@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 19:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 20:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 591회]]></title>
+            <link>https://tv.naver.com/v/34335243</link>
+            <guid>https://tv.naver.com/v/34335243</guid>
+            <pubDate>Sat, 25 Mar 2023 20:18:47 GMT</pubDate>
+            <content:encoded><![CDATA[30:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_281/snkw9_1679775392238krSW2_JPEG/cover_cover_MYH20230324018500641_20230326050101721.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['괴물의 진화' GPT-4, 빨라진 '천지개벽 시계' [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/34330263</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230325_249/CbkLR_1679732005290cmNQl_JPEG/cover_cover_MYH20230325008700641_20230325171301866.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['깜짝 전화'도…'MZ세대 설득' 총력]]></title>
-            <link>https://tv.naver.com/v/34324494</link>
-            <guid>https://tv.naver.com/v/34324494</guid>
-            <pubDate>Sat, 25 Mar 2023 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_233/WmDkK_1679731983297lX5t0_JPEG/cover_cover_MYH20230325008600641_20230325171204171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
