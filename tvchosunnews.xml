@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 06:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 07:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Sun, 26 Mar 2023 06:22:45 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230326_128/jJlCZ_1679811756712UGgku_JPEG/cover_2023032690037_thumb_031903_20230326152210978.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물가 상승에 위축된 소비, 정부 대책은?]]></title>
+            <link>https://tv.naver.com/v/34341503</link>
+            <guid>https://tv.naver.com/v/34341503</guid>
+            <pubDate>Sun, 26 Mar 2023 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[7:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_118/r426G_1679811908315R8Vth_JPEG/cover_2023032690035_thumb_031827_20230326152201598.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명  3주 연속 집회 참석…與 "李 방탄 후안무치"]]></title>
+            <link>https://tv.naver.com/v/34341473</link>
+            <guid>https://tv.naver.com/v/34341473</guid>
+            <pubDate>Sun, 26 Mar 2023 07:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[52:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_33/0hDYX_1679813065719uKxDi_JPEG/cover_2023032690031_thumb_031802_20230326152101510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고물가에 '대학가 원룸' 찾는 직장인들…자취방 품귀에 월세도 급등]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 10:19:26 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230325_7/ZtmNV_1679739140374JBQea_JPEG/cover_2023032590041_thumb_070515_20230325191108756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["윤석열 심판" 서울 도심 대규모 집회…소음·불편 호소]]></title>
-            <link>https://tv.naver.com/v/34327020</link>
-            <guid>https://tv.naver.com/v/34327020</guid>
-            <pubDate>Sat, 25 Mar 2023 10:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_160/bKyTM_1679739124571gvyni_JPEG/cover_2023032590043_thumb_070658_20230325191101545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3월 25일 '뉴스 7' 헤드라인]]></title>
-            <link>https://tv.naver.com/v/34326935</link>
-            <guid>https://tv.naver.com/v/34326935</guid>
-            <pubDate>Sat, 25 Mar 2023 10:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_234/iND2t_1679738801600ejq0q_JPEG/cover_2023032590039_thumb_070311_20230325190603055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
