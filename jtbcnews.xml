@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 22:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 23:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 꽃샘추위에 일부 지역 '한파주의보'…공기질은 깨끗]]></title>
+            <link>https://tv.naver.com/v/34356425</link>
+            <guid>https://tv.naver.com/v/34356425</guid>
+            <pubDate>Sun, 26 Mar 2023 23:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_232/S3pNe_1679872531846eH5Pc_JPEG/cover_0000336988_001_20230327081501440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여호와의 증인 신도 '사회복무요원' 거부…대법 "병역법 위반"]]></title>
             <link>https://tv.naver.com/v/34353956</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 11:14:35 GMT</pubDate>
             <content:encoded><![CDATA[21:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230325_22/CrXdk_1679740953093Ymdx7_JPEG/cover_0000336916_001_20230325193701461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[백브리핑] 일본 내서도 논란된 기시다의 '주걱 선물']]></title>
-            <link>https://tv.naver.com/v/34327298</link>
-            <guid>https://tv.naver.com/v/34327298</guid>
-            <pubDate>Sat, 25 Mar 2023 11:14:35 GMT</pubDate>
-            <content:encoded><![CDATA[5:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_199/xYIk9_16797401257448YamR_JPEG/cover_0000336911_001_20230325192701528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
