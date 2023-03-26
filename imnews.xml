@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 23:18:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 01:37:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트 예고] 지금 여기 '소희']]></title>
+            <link>https://tv.naver.com/v/34336931</link>
+            <guid>https://tv.naver.com/v/34336931</guid>
+            <pubDate>Sun, 26 Mar 2023 01:36:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_140/b3EvY_1679793924143Y7ui8_JPEG/cover_cover_u20230326_07h_20230326102501999.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸틴 "동맹 벨라루스에 전술핵 배치 합의"]]></title>
             <link>https://tv.naver.com/v/34335658</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 06:21:58 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230325_50/3dGiJ_1679724170196u5ggL_JPEG/cover_cover_desk_20230324_201917_1_17_Large_20230325150204035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[북한말 한마디] '머쓱하다'의 북한말은?]]></title>
-            <link>https://tv.naver.com/v/34319223</link>
-            <guid>https://tv.naver.com/v/34319223</guid>
-            <pubDate>Sat, 25 Mar 2023 03:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_210/J8laR_1679714117427QyHpL_JPEG/cover_cover_unity_20230325_075507_1_6_Large_1_20230325121501945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
