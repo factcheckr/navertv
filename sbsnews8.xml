@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 10:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 11:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강화 마니산에 큰불…'대응 2단계' 진화 안간힘]]></title>
+            <link>https://tv.naver.com/v/34347764</link>
+            <guid>https://tv.naver.com/v/34347764</guid>
+            <pubDate>Sun, 26 Mar 2023 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_63/8OmX2_1679829251912nU11S_JPEG/cover_0001045559_001_20230326201301418.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34347626</link>
+            <guid>https://tv.naver.com/v/34347626</guid>
+            <pubDate>Sun, 26 Mar 2023 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_50/d00V0_16798288630138RJUD_JPEG/cover_0001045558_001_20230326200701111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인천 강화도 마니산서 화재…'대응 2단계' 발령 [D리포트]]]></title>
             <link>https://tv.naver.com/v/34345083</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 12:31:09 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230325_154/bsujX_1679745725863V0J4g_JPEG/cover_0001045437_001_20230325210047097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 주요뉴스]]></title>
-            <link>https://tv.naver.com/v/34329052</link>
-            <guid>https://tv.naver.com/v/34329052</guid>
-            <pubDate>Sat, 25 Mar 2023 12:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_249/Hm0cL_1679745680921FGaY8_JPEG/cover_0001045433_001_20230325210039219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권도형 송환 시점 불투명…20만 피해자들은 어쩌나]]></title>
-            <link>https://tv.naver.com/v/34329047</link>
-            <guid>https://tv.naver.com/v/34329047</guid>
-            <pubDate>Sat, 25 Mar 2023 12:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_30/ENr8k_1679745695065mboIm_JPEG/cover_0001045435_001_20230325210028924.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
