@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 05:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 06:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]민주당의 ‘김건희 특검법’ 시나리오, 노림수 뭘까?]]></title>
+            <link>https://tv.naver.com/v/34341106</link>
+            <guid>https://tv.naver.com/v/34341106</guid>
+            <pubDate>Sun, 26 Mar 2023 06:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[18:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_23/9DyQ0_1679810993639UmldF_JPEG/cover_0000246424_001_20230326150401588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[얼룩말 세로, 지난 23일 동물원 탈출해 서울 시내 활보]]></title>
             <link>https://tv.naver.com/v/34340114</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 12:32:03 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230325_274/TGjvl_1679744309761C8imA_JPEG/cover_0000246385_001_20230325203701512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동앵과 뉴스터디]김건희 ‘코바나컨텐츠 협찬 의혹’, 불기소 된 진짜 이유는?]]></title>
-            <link>https://tv.naver.com/v/34321857</link>
-            <guid>https://tv.naver.com/v/34321857</guid>
-            <pubDate>Sat, 25 Mar 2023 06:22:52 GMT</pubDate>
-            <content:encoded><![CDATA[18:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_16/Is2zS_1679724531469pJA0q_JPEG/cover_0000246379_001_20230325150201615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

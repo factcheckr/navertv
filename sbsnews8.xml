@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 05:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 06:23:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 최대 시속 128km 초강력 토네이도…미시시피주 23명 사망]]></title>
+            <link>https://tv.naver.com/v/34341022</link>
+            <guid>https://tv.naver.com/v/34341022</guid>
+            <pubDate>Sun, 26 Mar 2023 06:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_75/yifDI_1679810381535UPmfH_JPEG/cover_0001045535_001_20230326145901108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] "김정은 총비서 새벽 5시까지 일한다"…과잉 선전 이유?]]></title>
             <link>https://tv.naver.com/v/34340245</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 12:31:09 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230325_209/Eyyz3_1679745636184vMCpL_JPEG/cover_0001045439_001_20230325205931101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 보란 듯 이재용 · 팀 쿡 다 부른 중국]]></title>
-            <link>https://tv.naver.com/v/34329018</link>
-            <guid>https://tv.naver.com/v/34329018</guid>
-            <pubDate>Sat, 25 Mar 2023 12:31:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230325_20/JzZP0_1679745644834RqqLO_JPEG/cover_0001045441_001_20230325205921874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
