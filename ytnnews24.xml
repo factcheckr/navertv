@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 01:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 02:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 서울도 벚꽃 개화...윤중로 상황은?]]></title>
+            <link>https://tv.naver.com/v/34337673</link>
+            <guid>https://tv.naver.com/v/34337673</guid>
+            <pubDate>Sun, 26 Mar 2023 02:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_280/ljLhy_1679796969063SA1Y6_JPEG/cover_cover_202303261109558877_t_20230326111509233.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 용산 식당·주택가 돌며 가스 밸브 잠근 여성 검거]]></title>
+            <link>https://tv.naver.com/v/34337669</link>
+            <guid>https://tv.naver.com/v/34337669</guid>
+            <pubDate>Sun, 26 Mar 2023 02:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_190/jWo44_1679796919869FeIC5_JPEG/cover_cover_202303260859497971_t_20230326111501632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[푸틴 "벨라루스에 전술핵 배치 합의...7월 1일까지 저장고 완공]]></title>
             <link>https://tv.naver.com/v/34336721</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 21:15:58 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230326_170/qD2FV_1679777880538zJdsW_JPEG/cover_cover_202303260552469315_t_20230326055701614.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["달콤한 휴식"...멸종위기 '물개' 강릉 앞바다서 포착]]></title>
-            <link>https://tv.naver.com/v/34335429</link>
-            <guid>https://tv.naver.com/v/34335429</guid>
-            <pubDate>Sat, 25 Mar 2023 21:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_172/FZIQz_1679777529067q4zUs_JPEG/cover_cover_202303252243588539_t_20230326055101545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["작지만 강하다" 대학로 창작 뮤지컬 봄날]]></title>
-            <link>https://tv.naver.com/v/34335423</link>
-            <guid>https://tv.naver.com/v/34335423</guid>
-            <pubDate>Sat, 25 Mar 2023 21:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_69/h5Q0g_1679777167447fbhge_JPEG/cover_cover_202303260540127166_t_20230326054501612.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
