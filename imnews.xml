@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Mar 2023 12:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2023 13:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트] 지금도 실습 나가는 '다음 소희'들]]></title>
+            <link>https://tv.naver.com/v/34349518</link>
+            <guid>https://tv.naver.com/v/34349518</guid>
+            <pubDate>Sun, 26 Mar 2023 13:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[36:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_105/lIT7d_1679834985450klktb_JPEG/cover_cover_straight_20230326_210915_1_1_Large_1_20230326214003903.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[가뭄에 모내기 준비 등 농사도 걱정]]></title>
             <link>https://tv.naver.com/v/34348985</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Mar 2023 22:17:24 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230326_208/uiJQx_16797825297845WhoY_JPEG/cover_cover_today_20230326_070244_1_3_Large_20230326071510191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 미시시피 토네이도 강타 최소 23명 사망]]></title>
-            <link>https://tv.naver.com/v/34335653</link>
-            <guid>https://tv.naver.com/v/34335653</guid>
-            <pubDate>Sat, 25 Mar 2023 22:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_275/FpSuU_1679782525183Rm2Ev_JPEG/cover_cover_today_20230326_070213_1_2_Large_20230326071501691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
