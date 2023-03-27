@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 18:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 19:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] "몇 주 안에 결정적 공격"...속속 움직이는 우크라이나 군]]></title>
+            <link>https://tv.naver.com/v/34393395</link>
+            <guid>https://tv.naver.com/v/34393395</guid>
+            <pubDate>Mon, 27 Mar 2023 19:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_238/xQVW1_1679943944598Mpc48_JPEG/cover_cover_202303280401117705_t_20230328040501836.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] '발등의 불' 삼성·SK...美中 사이 초긴장 행보]]></title>
             <link>https://tv.naver.com/v/34392526</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Mar 2023 14:28:55 GMT</pubDate>
             <content:encoded><![CDATA[2:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230327_268/A6BDK_1679926609345ofrcF_JPEG/cover_cover_202303272252576170_t_20230327231535369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[나이트포커스] "사과라도 해라" vs "민주당이 해라"]]></title>
-            <link>https://tv.naver.com/v/34388494</link>
-            <guid>https://tv.naver.com/v/34388494</guid>
-            <pubDate>Mon, 27 Mar 2023 14:28:55 GMT</pubDate>
-            <content:encoded><![CDATA[17:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_77/XLmca_1679926911694oT895_JPEG/cover_cover_202303272238127633_t_20230327231502856.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
