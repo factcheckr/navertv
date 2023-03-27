@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 02:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 03:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 3월 27일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/34362145</link>
+            <guid>https://tv.naver.com/v/34362145</guid>
+            <pubDate>Mon, 27 Mar 2023 03:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_253/xAh8d_1679887166961iOjno_JPEG/cover_cover_MYH20230327007600641_20230327121902005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 오늘 법사위서 '검수완박' 격돌 예고…'민형배 복당' 논란]]></title>
+            <link>https://tv.naver.com/v/34361022</link>
+            <guid>https://tv.naver.com/v/34361022</guid>
+            <pubDate>Mon, 27 Mar 2023 03:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[37:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_192/EoZdt_1679886107778m6LMV_JPEG/cover_cover_MYH20230327007100641_20230327114403755.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨톡톡] '반짝 추위 언제 풀리나요?'…큰 일교차 유의]]></title>
             <link>https://tv.naver.com/v/34360628</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 26 Mar 2023 23:18:10 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230327_84/LntHD_1679871108548FWNnp_JPEG/cover_cover_MYH20230327003400641_20230327075101782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아시안투어 공동 4위한 김비오…디오픈 출전권 획득]]></title>
-            <link>https://tv.naver.com/v/34356129</link>
-            <guid>https://tv.naver.com/v/34356129</guid>
-            <pubDate>Sun, 26 Mar 2023 23:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_142/9BTUS_1679871057430XDjtS_JPEG/cover_cover_MYH20230327003300641_20230327075003727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중기부, 기술 침해 손해액 산정 첫 지원]]></title>
-            <link>https://tv.naver.com/v/34356122</link>
-            <guid>https://tv.naver.com/v/34356122</guid>
-            <pubDate>Sun, 26 Mar 2023 23:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_300/dsX9Y_1679870909130HQP9b_JPEG/cover_cover_MYH20230327003200641_20230327074803560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
