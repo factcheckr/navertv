@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 06:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 07:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/34370077</link>
+            <guid>https://tv.naver.com/v/34370077</guid>
+            <pubDate>Mon, 27 Mar 2023 07:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_154/JvcaI_1679899716848jBv3B_JPEG/cover_cover_20230327154626_20_845_1323869_1080_7_20230327154801178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[11세, 7세, 6세, 4세…나이지리아 남매 4명 화재로 사망 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/34360489</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Mar 2023 23:18:55 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230327_191/9o41m_1679871641807fDS4d_JPEG/cover_cover_20230327075616_20_605_1323835_1080_7_20230327080003923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]어둠 속으로 사라진 콜로세움에 무슨 일이?]]></title>
-            <link>https://tv.naver.com/v/34356226</link>
-            <guid>https://tv.naver.com/v/34356226</guid>
-            <pubDate>Sun, 26 Mar 2023 23:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_74/dPJHJ_1679871519423ga3j6_JPEG/cover_cover_20230327075458_20_605_1323834_1080_7_20230327075801163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
