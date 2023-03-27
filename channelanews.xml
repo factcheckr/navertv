@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 05:21:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 06:25:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]아르헨티나, 메시를 추앙하라]]></title>
+            <link>https://tv.naver.com/v/34366702</link>
+            <guid>https://tv.naver.com/v/34366702</guid>
+            <pubDate>Mon, 27 Mar 2023 06:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_169/zIoKO_1679895345780DYPfF_JPEG/cover_0000246479_001_20230327143101491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조작 이미지까지 동원한 강성 지지층 집회?]]></title>
             <link>https://tv.naver.com/v/34365755</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 26 Mar 2023 11:15:58 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230326_86/bXVyt_1679828675935z2Qfw_JPEG/cover_0000246448_001_20230326200401649.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동앵과 뉴스터디]민주당의 ‘김건희 특검법’ 시나리오, 노림수 뭘까?]]></title>
-            <link>https://tv.naver.com/v/34341106</link>
-            <guid>https://tv.naver.com/v/34341106</guid>
-            <pubDate>Sun, 26 Mar 2023 06:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[18:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230326_23/9DyQ0_1679810993639UmldF_JPEG/cover_0000246424_001_20230326150401588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
