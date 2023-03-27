@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Mar 2023 22:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 23:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 꽃샘추위 아침까지…낮부터 온화, 짙어지는 봄기운]]></title>
+            <link>https://tv.naver.com/v/34395491</link>
+            <guid>https://tv.naver.com/v/34395491</guid>
+            <pubDate>Mon, 27 Mar 2023 23:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_157/FeoVI_1679959168516mAeJI_JPEG/cover_0000337122_001_20230328081901469.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[밀착카메라] 새만금 간척 30년, 마지막 남은 갯벌의 '생명들']]></title>
             <link>https://tv.naver.com/v/34387664</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Mar 2023 10:20:37 GMT</pubDate>
             <content:encoded><![CDATA[10:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230327_105/Ply4L_16799104399321OFon_JPEG/cover_0000337073_001_20230327184401485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 간 김재원 "전광훈, 우파를 천하통일" 발언 논란]]></title>
-            <link>https://tv.naver.com/v/34377623</link>
-            <guid>https://tv.naver.com/v/34377623</guid>
-            <pubDate>Mon, 27 Mar 2023 10:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[12:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230327_185/foVli_1679909852208UnlFp_JPEG/cover_0000337074_001_20230327183401509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
