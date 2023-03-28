@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 13:28:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 14:20:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 17.7도…내일 6~18도]]></title>
+            <link>https://tv.naver.com/v/34423811</link>
+            <guid>https://tv.naver.com/v/34423811</guid>
+            <pubDate>Tue, 28 Mar 2023 14:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_255/OQRl7_1680012320959GLlta_JPEG/cover_0011454469_001_20230328230501131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“군용 전화선에 묶인 채”…73년 만에 드러난 아산 방공호 학살사건]]></title>
             <link>https://tv.naver.com/v/34422234</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Mar 2023 13:26:48 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230328_33/ZojDw_1680008846875kimW0_JPEG/cover_0011454439_001_20230328220651362.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘광덕터널’ 타당성 조사…화천-포천 도로 직선화 추진]]></title>
-            <link>https://tv.naver.com/v/34421870</link>
-            <guid>https://tv.naver.com/v/34421870</guid>
-            <pubDate>Tue, 28 Mar 2023 13:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_83/vLNfH_16800088166763O0cR_JPEG/cover_0011454438_001_20230328220644315.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
