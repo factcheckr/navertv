@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 20:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 21:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34428795</link>
+            <guid>https://tv.naver.com/v/34428795</guid>
+            <pubDate>Tue, 28 Mar 2023 21:16:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230329_157/3DejM_16800378993063GCND_JPEG/cover_0001046174_001_20230329061101118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/34428380</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Mar 2023 15:23:17 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230328_163/famDS_1680013655399wlp6R_JPEG/cover_0001046120_001_20230328232619192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권도형 체포되자 본격화…겨우 첫발 뗀 '가상자산 입법']]></title>
-            <link>https://tv.naver.com/v/34424535</link>
-            <guid>https://tv.naver.com/v/34424535</guid>
-            <pubDate>Tue, 28 Mar 2023 15:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_124/rGs3W_1680013628760XlbyI_JPEG/cover_0001046121_001_20230328232610433.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
