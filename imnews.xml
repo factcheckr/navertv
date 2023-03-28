@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 01:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 02:38:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하늘로 3미터 '붕' 미국 고속도로서 차량 사고]]></title>
+            <link>https://tv.naver.com/v/34398330</link>
+            <guid>https://tv.naver.com/v/34398330</guid>
+            <pubDate>Tue, 28 Mar 2023 02:37:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_202/z4edH_1679967795787h440G_JPEG/cover_cover_today_20230328_072752_2_25_Large_U_20230328104302465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개인·기관 매수세에 상승 흐름‥ SK디앤디 18% 넘게 급등]]></title>
             <link>https://tv.naver.com/v/34397600</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Mar 2023 23:19:14 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230328_65/OGLW0_1679958229193h9HIN_JPEG/cover_cover_today_20230328_072125_2_21_Large_20230328080315579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[몬테네그로 검찰‥"권도형, 30일간 송환 없다"]]></title>
-            <link>https://tv.naver.com/v/34395288</link>
-            <guid>https://tv.naver.com/v/34395288</guid>
-            <pubDate>Mon, 27 Mar 2023 23:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_240/BxAhD_1679958220097qaYuJ_JPEG/cover_cover_today_20230328_070225_2_19_Large_20230328080308051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
