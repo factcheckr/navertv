@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 06:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 07:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/34408964</link>
+            <guid>https://tv.naver.com/v/34408964</guid>
+            <pubDate>Tue, 28 Mar 2023 07:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_256/Qm87C_1679985994731VXKry_JPEG/cover_cover_20230328154229_20_845_1323982_1080_7_20230328154601186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] "곧바로 광주 찾겠다"던 전두환 손자, 입국 즉시 경찰 체포]]></title>
             <link>https://tv.naver.com/v/34404352</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Mar 2023 23:20:28 GMT</pubDate>
             <content:encoded><![CDATA[0:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230328_55/Sj7ql_1679958411232u4oE8_JPEG/cover_cover_20230328080314_20_605_1323949_1080_7_20230328080601204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]큰 일교차 유의…국외 미세먼지 유입]]></title>
-            <link>https://tv.naver.com/v/34395305</link>
-            <guid>https://tv.naver.com/v/34395305</guid>
-            <pubDate>Mon, 27 Mar 2023 23:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_26/GwCUA_1679958282502jV5ah_JPEG/cover_cover_20230328080007_20_605_1323948_1080_7_20230328080401168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

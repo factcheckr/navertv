@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 06:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 07:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 제주 아침 쌀쌀, 낮 온화…일교차 10도↑]]></title>
+            <link>https://tv.naver.com/v/34409647</link>
+            <guid>https://tv.naver.com/v/34409647</guid>
+            <pubDate>Tue, 28 Mar 2023 07:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_236/VL8uX_1679987139495YChpW_JPEG/cover_0011453750_001_20230328160502027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최태원, 노소영의 ‘김희영 위자료 소송’에 “시효 지나”]]></title>
             <link>https://tv.naver.com/v/34407513</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 28 Mar 2023 04:22:48 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230328_30/2EzJJ_1679974556586cLE6E_JPEG/cover_0011454025_001_20230328123501131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[잇슈 키워드] “입석 돈 냈거든요?”…KTX 객실 복도 막고 앉은 ‘민폐 커플’]]></title>
-            <link>https://tv.naver.com/v/34402005</link>
-            <guid>https://tv.naver.com/v/34402005</guid>
-            <pubDate>Tue, 28 Mar 2023 04:22:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230328_86/3Z8ri_1679974161617ff8Uf_JPEG/cover_0011453700_001_20230328122901099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
