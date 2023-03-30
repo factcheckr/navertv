@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 17:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 18:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가동 준비만 했는데 한국타이어 동일 공정에서 또 연기]]></title>
+            <link>https://tv.naver.com/v/34498569</link>
+            <guid>https://tv.naver.com/v/34498569</guid>
+            <pubDate>Thu, 30 Mar 2023 18:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_145/uYOtR_1680196672316b2Opp_JPEG/cover_cover_202303310213087139_t_20230331021701973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[충북 제천 봉황산 불...인근 요양원에서 20명 대피]]></title>
             <link>https://tv.naver.com/v/34498538</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 14:19:00 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_31/NqPIN_1680185800440JYfKN_JPEG/cover_cover_202303302310179891_t_20230330231556668.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 미분양 9개월째 증가세...악성 미분양 13% 증가]]></title>
-            <link>https://tv.naver.com/v/34494645</link>
-            <guid>https://tv.naver.com/v/34494645</guid>
-            <pubDate>Thu, 30 Mar 2023 14:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_44/o1G9l_1680185788080izTOE_JPEG/cover_cover_202303302310101837_t_20230330231547188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
