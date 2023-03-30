@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 20:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 21:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[362회_기상 전망과 산불 예방요령]]></title>
+            <link>https://tv.naver.com/v/34499907</link>
+            <guid>https://tv.naver.com/v/34499907</guid>
+            <pubDate>Thu, 30 Mar 2023 21:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[15:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_98/fXPYR_1680210847057Yl8Hi_JPEG/cover_cover_20230331055841_20_849_1324256_1080_7_20230331060501130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정치와이드] 김성한 사퇴 내막 설설설…진위는?]]></title>
             <link>https://tv.naver.com/v/34489782</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 10:21:43 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_8/Xm2mE_1680171559377foFqS_JPEG/cover_cover_20230330191521_20_552_1324222_1080_7_20230330191801180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 대장동 '50억 클럽' 박영수 전 특검 집·사무실 압색]]></title>
-            <link>https://tv.naver.com/v/34487444</link>
-            <guid>https://tv.naver.com/v/34487444</guid>
-            <pubDate>Thu, 30 Mar 2023 10:21:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_154/lKjVX_1680171449128huxN6_JPEG/cover_cover_20230330191341_20_552_1324221_1080_7_20230330191601280.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
