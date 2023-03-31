@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 05:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 06:29:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘 이슈] AI랑 대화하고 수억 연봉 받는다고?]]></title>
+            <link>https://tv.naver.com/v/34510738</link>
+            <guid>https://tv.naver.com/v/34510738</guid>
+            <pubDate>Fri, 31 Mar 2023 06:27:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_143/jYmxk_1680240209834JvdMT_PNG/cover_0011456592_001_20230331142301106.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 산불 주의…전국 대부분 건조 특보]]></title>
             <link>https://tv.naver.com/v/34510382</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 04:22:09 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_219/k4MBd_1680232945166vN9LQ_JPEG/cover_0011456549_001_20230331122205052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안산 화재로 숨진 나이지리아 4남매 발인]]></title>
-            <link>https://tv.naver.com/v/34507122</link>
-            <guid>https://tv.naver.com/v/34507122</guid>
-            <pubDate>Fri, 31 Mar 2023 04:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_135/Re83h_1680232877259nY8Cc_JPEG/cover_0011456543_001_20230331122101684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
