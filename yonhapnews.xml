@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 21:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 22:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 31 Mar 2023 07:17:42 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_110/bo4Ef_16802451082487Pogw_JPEG/1680244541091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 광고 통합관리 솔루션 개발 엄수원 아드리엘 대표]]></title>
+            <link>https://tv.naver.com/v/34510734</link>
+            <guid>https://tv.naver.com/v/34510734</guid>
+            <pubDate>Fri, 31 Mar 2023 22:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[10:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_137/quA3s_1680240186774thuRY_JPEG/1680240133973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['테라' 권도형 어디로 송환되나…한미 신병확보 '외교전' 본격화]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Mar 2023 06:24:04 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230330_237/O3uXd_1680155634203vp49H_JPEG/1680155475732.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["AI 개발 6개월 멈춰야"…머스크, 공개서한 서명한 이유는]]></title>
-            <link>https://tv.naver.com/v/34468920</link>
-            <guid>https://tv.naver.com/v/34468920</guid>
-            <pubDate>Thu, 30 Mar 2023 02:38:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230330_171/NPIZs_1680143898029Iiuuf_JPEG/1680143465401.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
