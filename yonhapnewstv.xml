@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 19:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 20:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 592회]]></title>
+            <link>https://tv.naver.com/v/34547398</link>
+            <guid>https://tv.naver.com/v/34547398</guid>
+            <pubDate>Sat, 01 Apr 2023 20:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[30:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_266/3tAxu_1680380134216ScJ51_JPEG/cover_cover_MYH20230331018700641_20230402050101712.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['KO패'에 남은 시간 10년인데…더딘 탄소 감축 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/34543580</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Apr 2023 08:22:00 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230401_103/ZLETJ_1680337093673V9sVj_JPEG/cover_cover_MYH20230401008900641_20230401171701887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['영장 기각 닷새만에 또 마약' 남경필 장남 구속]]></title>
-            <link>https://tv.naver.com/v/34538411</link>
-            <guid>https://tv.naver.com/v/34538411</guid>
-            <pubDate>Sat, 01 Apr 2023 08:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_180/tfULh_16803363276912FyD8_JPEG/cover_cover_MYH20230401008800641_20230401170501955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
