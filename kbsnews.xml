@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 10:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 11:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7시 날씨] 내일도 맑고 건조…서쪽 고온현상 계속]]></title>
+            <link>https://tv.naver.com/v/34540750</link>
+            <guid>https://tv.naver.com/v/34540750</guid>
+            <pubDate>Sat, 01 Apr 2023 11:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_95/cVhQl_16803442547304lnbn_JPEG/cover_0011457088_001_20230401191701156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남경필 전 지사 장남 ‘또 필로폰 투약’…구속]]></title>
             <link>https://tv.naver.com/v/34540652</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Apr 2023 01:23:56 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230401_154/dsQIs_1680309647036dSdN0_JPEG/cover_0011457033_001_20230401094001173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 ‘전기차 배터리’ 미국서 보조금 받는다…미 IRA 지침 발표]]></title>
-            <link>https://tv.naver.com/v/34532006</link>
-            <guid>https://tv.naver.com/v/34532006</guid>
-            <pubDate>Sat, 01 Apr 2023 01:23:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_185/tOcEz_1680309527042EPMwK_JPEG/cover_0011457032_001_20230401093801131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
