@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 05:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 06:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 4.3 왜곡 현수막 철거]]></title>
+            <link>https://tv.naver.com/v/34536137</link>
+            <guid>https://tv.naver.com/v/34536137</guid>
+            <pubDate>Sat, 01 Apr 2023 06:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_184/ceias_168032904457953EJL_JPEG/cover_0001047154_001_20230401150301105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[D리포트] "트럼프, 4일 법원 출석…수갑 채워지지 않을 것"]]></title>
+            <link>https://tv.naver.com/v/34535386</link>
+            <guid>https://tv.naver.com/v/34535386</guid>
+            <pubDate>Sat, 01 Apr 2023 06:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_131/H9yY9_1680326450529XznuW_JPEG/cover_0001047146_001_20230401142001151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 낮 동안 다소 더워요…서울 · 대전 '최고 26도']]></title>
             <link>https://tv.naver.com/v/34533783</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 23:16:39 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230401_135/FoJQF_1680302114296odvbA_JPEG/cover_0001047095_001_20230401073401120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['포천 산불' 재발화…축구장 40개 면적 불타]]></title>
-            <link>https://tv.naver.com/v/34531302</link>
-            <guid>https://tv.naver.com/v/34531302</guid>
-            <pubDate>Fri, 31 Mar 2023 23:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_56/0e67I_1680301864511BXzso_JPEG/cover_0001047094_001_20230401073001125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강남 '여성 납치' 일당 검거…대청댐 근처 시신 유기]]></title>
-            <link>https://tv.naver.com/v/34531281</link>
-            <guid>https://tv.naver.com/v/34531281</guid>
-            <pubDate>Fri, 31 Mar 2023 23:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_122/fU2Ec_16803015722280mLgv_JPEG/cover_0001047093_001_20230401072501119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
