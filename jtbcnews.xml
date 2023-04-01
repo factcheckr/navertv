@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 03:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 04:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 한낮 25도 초여름 날씨…수도권 미세먼지 '나쁨']]></title>
+            <link>https://tv.naver.com/v/34533627</link>
+            <guid>https://tv.naver.com/v/34533627</guid>
+            <pubDate>Sat, 01 Apr 2023 04:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_207/YwzfM_1680319162268RYnh0_JPEG/cover_0000337692_001_20230401121901452.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[세계 무대 향한 '중앙음악콩쿠르' 마무리…17명 수상]]></title>
             <link>https://tv.naver.com/v/34533610</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 12:34:34 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_207/qHFOL_1680265054304xrB4A_JPEG/cover_0000337661_001_20230331211611129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계속되는 프로야구 악재…'뒷돈' 압수수색에 도박 의혹까지]]></title>
-            <link>https://tv.naver.com/v/34524268</link>
-            <guid>https://tv.naver.com/v/34524268</guid>
-            <pubDate>Fri, 31 Mar 2023 12:34:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_149/Tu7Pa_16802648347737V81L_JPEG/cover_0000337660_001_20230331211301435.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
