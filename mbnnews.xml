@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 08:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 09:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 뉴스와이드 주말] 만나기만 하면 '으르렁'…한동훈 vs 김의겸, 시각은?]]></title>
+            <link>https://tv.naver.com/v/34538746</link>
+            <guid>https://tv.naver.com/v/34538746</guid>
+            <pubDate>Sat, 01 Apr 2023 09:17:28 GMT</pubDate>
+            <content:encoded><![CDATA[16:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_249/Rf14M_1680337549984YecqP_JPEG/cover_cover_20230401171332_20_675_1324373_1080_7_20230401171901136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드 주말] 이재명과 유동규, 대장동 사건 이후 첫 대면 어땠나]]></title>
             <link>https://tv.naver.com/v/34538675</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 11:16:36 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230331_119/kj4RJ_1680258903319ro82f_JPEG/cover_cover_20230331192958_20_552_1324337_1080_7_20230331193401147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성추문 입막음'이 '불법선거자금' 의혹으로…트럼프 미 대통령 역사상 첫 기소]]></title>
-            <link>https://tv.naver.com/v/34521509</link>
-            <guid>https://tv.naver.com/v/34521509</guid>
-            <pubDate>Fri, 31 Mar 2023 11:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230331_196/GYeaS_16802588065755VPcX_JPEG/cover_cover_20230331192822_20_552_1324336_1080_7_20230331193201167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

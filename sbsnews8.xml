@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 08:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 09:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] '수천만 원' 로또?…밍크고래 또 혼획]]></title>
+            <link>https://tv.naver.com/v/34539700</link>
+            <guid>https://tv.naver.com/v/34539700</guid>
+            <pubDate>Sat, 01 Apr 2023 09:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_192/zB7ku_1680340288543luFgQ_JPEG/cover_0001047161_001_20230401181101113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] "산불 꼼짝 마"…드론 감시단 출격]]></title>
             <link>https://tv.naver.com/v/34538414</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Mar 2023 23:16:39 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230401_34/lO8oC_1680303721486gudES_JPEG/cover_0001047101_001_20230401080101129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비머pick] 35세부터 급격히 늙는 한국 남성…"미국보다 10년 빨라" 왜]]></title>
-            <link>https://tv.naver.com/v/34531420</link>
-            <guid>https://tv.naver.com/v/34531420</guid>
-            <pubDate>Fri, 31 Mar 2023 23:16:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_75/x7vhK_1680303396612M1CO3_JPEG/cover_0001047100_001_20230401075601123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
