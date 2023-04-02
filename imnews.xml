@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 07:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 08:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동시다발 산불‥소방청, 긴급중앙통제단 가동]]></title>
+            <link>https://tv.naver.com/v/34554752</link>
+            <guid>https://tv.naver.com/v/34554752</guid>
+            <pubDate>Sun, 02 Apr 2023 08:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[5:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_87/vKCWX_1680421959190XfduD_JPEG/cover_cover__20230402_162003_1_2_Large_20230402165102342.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인왕산 화재 진화 중‥홍성 '산불 3단계']]></title>
+            <link>https://tv.naver.com/v/34554173</link>
+            <guid>https://tv.naver.com/v/34554173</guid>
+            <pubDate>Sun, 02 Apr 2023 08:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_165/TFrWQ_1680420057895XSqFL_JPEG/cover_cover__20230402_161438_1_1_Large_20230402162003865.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 인왕산 화재‥소방 대응 2단계]]></title>
             <link>https://tv.naver.com/v/34552734</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 01 Apr 2023 12:30:14 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230401_171/07GTu_1680349311951xUc1A_JPEG/cover_cover_desk_20230401_202128_1_9_Large_20230401204102102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뉴스데스크 클로징]]></title>
-            <link>https://tv.naver.com/v/34542304</link>
-            <guid>https://tv.naver.com/v/34542304</guid>
-            <pubDate>Sat, 01 Apr 2023 12:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_43/iumpZ_1680349252875RpWto_JPEG/cover_cover_desk_20230401_203132_1_17_Large_20230401204046852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 서쪽 고온 계속, 한낮 25도 안팎‥대기 건조, 불조심]]></title>
-            <link>https://tv.naver.com/v/34542303</link>
-            <guid>https://tv.naver.com/v/34542303</guid>
-            <pubDate>Sat, 01 Apr 2023 12:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_5/T9eqT_16803492605188sRyT_JPEG/cover_cover_desk_20230401_203048_1_16_Large_20230401204039225.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
