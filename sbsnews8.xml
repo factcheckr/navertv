@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 03:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 04:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 서울 인왕산 화재 발생…소방당국 진화 중]]></title>
+            <link>https://tv.naver.com/v/34550913</link>
+            <guid>https://tv.naver.com/v/34550913</guid>
+            <pubDate>Sun, 02 Apr 2023 04:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_207/olTDH_16804091488784TYHR_JPEG/cover_0001047295_001_20230402131901127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[D리포트] 시속 265km 위력에 록밴드 공연장도 와르르]]></title>
+            <link>https://tv.naver.com/v/34550204</link>
+            <guid>https://tv.naver.com/v/34550204</guid>
+            <pubDate>Sun, 02 Apr 2023 04:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_280/GIN5X_1680406340640pIyae_JPEG/cover_0001047293_001_20230402123101130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서울 낮 26도, 초여름 같아요…전국 건조특보]]></title>
             <link>https://tv.naver.com/v/34549696</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 01 Apr 2023 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230401_198/jjb7w_1680351045950BmsmF_JPEG/cover_0001047188_001_20230401211001174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IRA 세부 지침 공개…미국 보조금 받게 된 '한국 배터리']]></title>
-            <link>https://tv.naver.com/v/34542731</link>
-            <guid>https://tv.naver.com/v/34542731</guid>
-            <pubDate>Sat, 01 Apr 2023 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_86/vSDnf_16803509918793Obh9_JPEG/cover_0001047189_001_20230401210852774.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11회 끝내기…이승엽, 사령탑 데뷔전 극적인 승리]]></title>
-            <link>https://tv.naver.com/v/34542725</link>
-            <guid>https://tv.naver.com/v/34542725</guid>
-            <pubDate>Sat, 01 Apr 2023 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_193/x8Ocn_1680350999685rVRzE_JPEG/cover_0001047196_001_20230401210842990.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
