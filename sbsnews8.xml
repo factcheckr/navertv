@@ -4,16 +4,24 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 04:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 05:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[영상] 서울 인왕산 화재 발생…소방당국 진화 중]]></title>
-            <link>https://tv.naver.com/v/34550913</link>
-            <guid>https://tv.naver.com/v/34550913</guid>
-            <pubDate>Sun, 02 Apr 2023 04:20:17 GMT</pubDate>
+            <title><![CDATA[[영상] 서울 인왕산 산불 '대응 2단계'…긴급 입산금지 · 주민 대피 안내]]></title>
+            <link>https://tv.naver.com/v/34551383</link>
+            <guid>https://tv.naver.com/v/34551383</guid>
+            <pubDate>Sun, 02 Apr 2023 05:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_95/rJjIE_1680410923136mqzO6_JPEG/cover_0001047308_001_20230402134803387.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 서울 종로구 인왕산에서 불…당국 진화 중]]></title>
+            <link>https://tv.naver.com/v/34551216</link>
+            <guid>https://tv.naver.com/v/34551216</guid>
+            <pubDate>Sun, 02 Apr 2023 05:15:43 GMT</pubDate>
             <content:encoded><![CDATA[0:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_207/olTDH_16804091488784TYHR_JPEG/cover_0001047295_001_20230402131901127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_89/2fdzu_16804102893856eg9l_JPEG/cover_0001047295_001_20230402133801125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[D리포트] 시속 265km 위력에 록밴드 공연장도 와르르]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Apr 2023 12:30:23 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230401_233/inQzG_1680351072059px8dV_JPEG/cover_0001047187_001_20230401211011369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 납치 살인 일당과 피해자 사이, 또 다른 2명 있다]]></title>
-            <link>https://tv.naver.com/v/34542758</link>
-            <guid>https://tv.naver.com/v/34542758</guid>
-            <pubDate>Sat, 01 Apr 2023 12:30:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_198/jjb7w_1680351045950BmsmF_JPEG/cover_0001047188_001_20230401211001174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
