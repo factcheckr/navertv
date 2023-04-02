@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 11:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 12:32:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일도 초여름 더위, 서울 낮 27도…화요일부터 전국 비]]></title>
+            <link>https://tv.naver.com/v/34558510</link>
+            <guid>https://tv.naver.com/v/34558510</guid>
+            <pubDate>Sun, 02 Apr 2023 12:32:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_61/jtz89_1680434207523i30st_JPEG/cover_cover_20230402201401_20_906_1324421_1080_7_20230402201601146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프로축구 울산 개막 5연승 질주…키움은 이틀 연속 끝내기]]></title>
             <link>https://tv.naver.com/v/34558422</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Apr 2023 11:15:01 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230401_193/f2m5a_1680347477002JECfJ_JPEG/cover_cover_20230401200546_20_906_1324389_1080_7_20230401201001174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불붙는 프리미엄 버거 시장…고물가에 780원 햄버거도 등장]]></title>
-            <link>https://tv.naver.com/v/34541639</link>
-            <guid>https://tv.naver.com/v/34541639</guid>
-            <pubDate>Sat, 01 Apr 2023 11:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_268/NnFwK_1680347389368mvPRT_JPEG/cover_cover_20230401200405_20_906_1324388_1080_7_20230401200801182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
