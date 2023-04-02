@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 14:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 15:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 이 시각 산불 진화 상황은?]]></title>
+            <link>https://tv.naver.com/v/34563573</link>
+            <guid>https://tv.naver.com/v/34563573</guid>
+            <pubDate>Sun, 02 Apr 2023 15:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_282/Q1F51_16804483528127nhaV_JPEG/cover_0011457402_001_20230403001101123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 충남 홍성·대전·금산 ‘산불 3단계’…야간 진화 중]]></title>
+            <link>https://tv.naver.com/v/34563231</link>
+            <guid>https://tv.naver.com/v/34563231</guid>
+            <pubDate>Sun, 02 Apr 2023 15:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_63/YooF4_1680447062680TGxQC_JPEG/cover_0011457400_001_20230402235001153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 상황도로 본 야간 진화·위험지역은?]]></title>
+            <link>https://tv.naver.com/v/34563218</link>
+            <guid>https://tv.naver.com/v/34563218</guid>
+            <pubDate>Sun, 02 Apr 2023 15:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_47/UUIBU_1680447001845W9Eah_JPEG/cover_0011457401_001_20230402234908364.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KBS부산총국, 더 정확해진 침수예측 재난방송에 활용]]></title>
             <link>https://tv.naver.com/v/34561936</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 02 Apr 2023 13:19:02 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230402_132/iOcxr_1680440679542wiJLk_JPEG/cover_0011457391_001_20230402220418168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거리두기 해제 뒤 정상 개최…KBS전국 생중계]]></title>
-            <link>https://tv.naver.com/v/34560790</link>
-            <guid>https://tv.naver.com/v/34560790</guid>
-            <pubDate>Sun, 02 Apr 2023 13:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_11/Zf0qk_1680440670906s5Iw4_JPEG/cover_0011457390_001_20230402220410653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4·3 추념식 하루 앞…추모 열기 ‘고조’]]></title>
-            <link>https://tv.naver.com/v/34560786</link>
-            <guid>https://tv.naver.com/v/34560786</guid>
-            <pubDate>Sun, 02 Apr 2023 13:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_121/EQLAC_1680440701128hnEWA_JPEG/cover_0011457389_001_20230402220401158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원도, DMZ 평화의 길 6개 코스 전면 개방]]></title>
-            <link>https://tv.naver.com/v/34560748</link>
-            <guid>https://tv.naver.com/v/34560748</guid>
-            <pubDate>Sun, 02 Apr 2023 13:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_154/lXwWc_1680440558689SvJs6_JPEG/cover_0011457388_001_20230402220215756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
