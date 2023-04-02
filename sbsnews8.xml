@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 10:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Apr 2023 11:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘만 전국 산불 34건…'3단계' 홍성은 100여 명 대피]]></title>
+            <link>https://tv.naver.com/v/34558345</link>
+            <guid>https://tv.naver.com/v/34558345</guid>
+            <pubDate>Sun, 02 Apr 2023 11:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_97/HYRoW_1680433746421vtUGF_JPEG/cover_0001047362_001_20230402200801163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34558286</link>
+            <guid>https://tv.naver.com/v/34558286</guid>
+            <pubDate>Sun, 02 Apr 2023 11:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_83/T5z3f_168043348493594wyW_JPEG/cover_0001047361_001_20230402200401144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] "평생 농사 다 타버렸네"…민가 덮친 산불에 주민들 '망연자실']]></title>
+            <link>https://tv.naver.com/v/34557906</link>
+            <guid>https://tv.naver.com/v/34557906</guid>
+            <pubDate>Sun, 02 Apr 2023 11:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_161/8hbLM_16804321482498DER2_JPEG/cover_0001047360_001_20230402194101124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 전국서 동시다발 산불 '비상'…피해 속출]]></title>
             <link>https://tv.naver.com/v/34555995</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 01 Apr 2023 22:16:10 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230402_234/6sbuP_1680385919299VEtFP_JPEG/cover_0001047218_001_20230402065101114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인천 중구 아파트 화재…50대 의식 불명]]></title>
-            <link>https://tv.naver.com/v/34547420</link>
-            <guid>https://tv.naver.com/v/34547420</guid>
-            <pubDate>Sat, 01 Apr 2023 20:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_225/WsFu3_1680379766334m9ibB_JPEG/cover_0001047216_001_20230402050908150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대전 서구 한 도로서 차량 화재…60대 1명 숨져]]></title>
-            <link>https://tv.naver.com/v/34547419</link>
-            <guid>https://tv.naver.com/v/34547419</guid>
-            <pubDate>Sat, 01 Apr 2023 20:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_86/moxPQ_1680379755827Pj2R9_JPEG/cover_0001047217_001_20230402050901109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기 남양주 비닐하우스 화재…7개 동 불타]]></title>
-            <link>https://tv.naver.com/v/34544954</link>
-            <guid>https://tv.naver.com/v/34544954</guid>
-            <pubDate>Sat, 01 Apr 2023 15:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_134/sZAIF_1680359463702b2kux_JPEG/cover_0001047209_001_20230401233001180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
