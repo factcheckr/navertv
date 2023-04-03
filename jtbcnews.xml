@@ -4,9 +4,25 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 05:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 06:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D:이슈] 파리에 등장한 '쌍둥이 에펠탑'…10분의 1 크기 아이를 낳았다?]]></title>
+            <link>https://tv.naver.com/v/34578106</link>
+            <guid>https://tv.naver.com/v/34578106</guid>
+            <pubDate>Mon, 03 Apr 2023 06:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_282/jMhT6_1680502719144dP8Bh_JPEG/cover_0000337863_001_20230403151805906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후쿠시마 원전 내부 손상 심각…'녹아내린 콘크리트' 붕괴 우려도]]></title>
+            <link>https://tv.naver.com/v/34576764</link>
+            <guid>https://tv.naver.com/v/34576764</guid>
+            <pubDate>Mon, 03 Apr 2023 06:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_156/AiZul_1680500641348TC1pM_JPEG/cover_0000337646_001_20230403144301470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] '4·3 김일성 지시' 태영호 "어떤 점 사과해야 하는지 납득 안 돼"]]></title>
             <link>https://tv.naver.com/v/34571998</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 02 Apr 2023 08:20:36 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230402_242/6RHGx_1680421918380e22u4_JPEG/cover_0000337759_001_20230402165101465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 곳곳 산불…홍성 야산 '대응 3단계' 진화 총력전]]></title>
-            <link>https://tv.naver.com/v/34554268</link>
-            <guid>https://tv.naver.com/v/34554268</guid>
-            <pubDate>Sun, 02 Apr 2023 08:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_31/yHLbl_16804202923534lkjO_JPEG/cover_0000337761_001_20230402162403585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 서울 한낮 26도…건조한 초여름 날씨 이어져]]></title>
-            <link>https://tv.naver.com/v/34549965</link>
-            <guid>https://tv.naver.com/v/34549965</guid>
-            <pubDate>Sun, 02 Apr 2023 03:18:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_9/7FmZs_1680405016967Itox6_JPEG/cover_0000337747_001_20230402121001623.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
