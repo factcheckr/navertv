@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 22:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 23:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 오후부터 전국에 '봄비'…서울 낮 기온 22도]]></title>
+            <link>https://tv.naver.com/v/34600177</link>
+            <guid>https://tv.naver.com/v/34600177</guid>
+            <pubDate>Mon, 03 Apr 2023 23:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_185/g9k9v_1680563727482WWidh_JPEG/cover_0000337942_001_20230404081501453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["4·3은 김일성 지시로 촉발"…태영호 발언, 어떻게 보나?｜뉴스룸 뒤 (D)]]></title>
             <link>https://tv.naver.com/v/34593304</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Apr 2023 10:19:35 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_118/5Zn0R_16805143021905N57X_JPEG/cover_0000337888_001_20230403183101458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 "오염수, 정상회담 의제로" vs 김기현 "광우병 괴담 떠올라"]]></title>
-            <link>https://tv.naver.com/v/34585430</link>
-            <guid>https://tv.naver.com/v/34585430</guid>
-            <pubDate>Mon, 03 Apr 2023 10:19:35 GMT</pubDate>
-            <content:encoded><![CDATA[10:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_132/0krTj_1680514281494NthGu_JPEG/cover_0000337887_001_20230403182801582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
