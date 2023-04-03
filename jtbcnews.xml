@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Apr 2023 23:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 01:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 미 중남부 토네이도 사망자 최소 29명…곧 추가 토네이도 예보]]></title>
+            <link>https://tv.naver.com/v/34567715</link>
+            <guid>https://tv.naver.com/v/34567715</guid>
+            <pubDate>Mon, 03 Apr 2023 01:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_172/BdZCs_1680483121604zlrbP_JPEG/cover_0000337795_001_20230403095101507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[퍼센트] 아동 재학대 14.7% '최대치'…제도적 허점은]]></title>
             <link>https://tv.naver.com/v/34559530</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Apr 2023 11:14:06 GMT</pubDate>
             <content:encoded><![CDATA[19:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230401_23/1k0jq_16803475125529HgTn_JPEG/cover_0000337719_001_20230401200701466.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[납치 1시간 넘어서야 차량 특정한 경찰…초동 대응 부실 논란]]></title>
-            <link>https://tv.naver.com/v/34541581</link>
-            <guid>https://tv.naver.com/v/34541581</guid>
-            <pubDate>Sat, 01 Apr 2023 11:14:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230401_57/4msw5_1680347204409vGvyT_JPEG/cover_0000337705_001_20230401200601505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
