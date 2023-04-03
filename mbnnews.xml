@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 04:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 05:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[포근한 날씨에 찾아온 '미세먼지'…내일도 '나쁨']]></title>
+            <link>https://tv.naver.com/v/34575200</link>
+            <guid>https://tv.naver.com/v/34575200</guid>
+            <pubDate>Mon, 03 Apr 2023 05:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_23/wLvtZ_1680498197846qu2wq_JPEG/cover_cover_20230304195705_20_906_1322030_1080_7_20230403140201167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] "여직원 몸에 립스틱으로 낙서"…양진호 기행 재조명]]></title>
             <link>https://tv.naver.com/v/34573596</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 02 Apr 2023 23:17:46 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_172/ZLTNQ_1680475865122Xo9Gh_JPEG/cover_cover_20230403074709_20_605_1324440_1080_7_20230403075001169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝 경제] 미국 OTT 이용자 K콘텐츠 선호 / 긴급생계비 대출 5천 건 돌파 / 전세피해확인서 발급 시작]]></title>
-            <link>https://tv.naver.com/v/34566380</link>
-            <guid>https://tv.naver.com/v/34566380</guid>
-            <pubDate>Sun, 02 Apr 2023 23:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_251/QfwRO_1680475739143VPfsh_JPEG/cover_cover_20230403074405_20_605_1324439_1080_7_20230403074801129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
