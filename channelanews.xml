@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 07:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 08:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AI한테 ‘퇴사고민’ 입력 했더니 그려준 그림]]></title>
+            <link>https://tv.naver.com/v/34581621</link>
+            <guid>https://tv.naver.com/v/34581621</guid>
+            <pubDate>Mon, 03 Apr 2023 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_16/5PV9a_1680507792061Lx7Fd_JPEG/cover_0000246931_001_20230403164301500.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스를 보다]강남 한복판 납치·살인]]></title>
+            <link>https://tv.naver.com/v/34580954</link>
+            <guid>https://tv.naver.com/v/34580954</guid>
+            <pubDate>Mon, 03 Apr 2023 08:23:43 GMT</pubDate>
+            <content:encoded><![CDATA[5:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_109/4AHqS_1680506818466fQb3U_JPEG/cover_0000246925_001_20230403162501567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서문시장 찾은 尹…신평 “지지층 구애 치중”]]></title>
             <link>https://tv.naver.com/v/34575858</link>
@@ -86,14 +102,6 @@
             <pubDate>Mon, 03 Apr 2023 05:18:02 GMT</pubDate>
             <content:encoded><![CDATA[4:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_193/sKRud_1680499059144w783k_JPEG/cover_0000246913_001_20230403141501492.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스를 보다]강남 한복판 납치·살인]]></title>
-            <link>https://tv.naver.com/v/34575607</link>
-            <guid>https://tv.naver.com/v/34575607</guid>
-            <pubDate>Mon, 03 Apr 2023 05:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[5:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_64/aVwhW_1680498929276KosjA_JPEG/cover_0000246925_001_20230403141301491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨]오늘 전국 맑고 공기 쾌적…맑은 날씨에 건조함 날로 심해져]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 02 Apr 2023 12:32:21 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230402_253/o15l5_1680434507973kdkY1_JPEG/cover_0000246885_001_20230402202040431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[벚꽃 아래 ‘쓰레기 몸살’…밤낮없는 공연 소음도]]></title>
-            <link>https://tv.naver.com/v/34558602</link>
-            <guid>https://tv.naver.com/v/34558602</guid>
-            <pubDate>Sun, 02 Apr 2023 12:32:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230402_180/12AX2_16804345270384AzHn_JPEG/cover_0000246884_001_20230402202030361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
