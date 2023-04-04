@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 05:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 06:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국 곳곳서 사흘째 산불과 '사투'…오늘부터 최대 80㎜ '단비']]></title>
+            <link>https://tv.naver.com/v/34612472</link>
+            <guid>https://tv.naver.com/v/34612472</guid>
+            <pubDate>Tue, 04 Apr 2023 06:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_283/8mu4p_1680589026795D3jDo_JPEG/cover_2023040490123_thumb_031028_20230404151601606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 지민, K팝 솔로 최초 빌보드 핫 100 1위]]></title>
             <link>https://tv.naver.com/v/34609003</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Apr 2023 13:22:28 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_225/GpbtZ_16805263138253C7v9_JPEG/cover_2023040390235_thumb_094526_20230403215103024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청소년 高카페인 섭취 급증…편의점에 '주의 문구' 확대]]></title>
-            <link>https://tv.naver.com/v/34591480</link>
-            <guid>https://tv.naver.com/v/34591480</guid>
-            <pubDate>Mon, 03 Apr 2023 13:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_239/cElqZ_16805260186496i0LT_JPEG/cover_2023040390225_thumb_094400_20230403214606459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
