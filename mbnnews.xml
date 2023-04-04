@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 20:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 21:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[364회_코로나19 유행 전망과 방역 수칙]]></title>
+            <link>https://tv.naver.com/v/34633851</link>
+            <guid>https://tv.naver.com/v/34633851</guid>
+            <pubDate>Tue, 04 Apr 2023 21:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[14:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_233/dAnF4_1680642591402EXTry_JPEG/cover_cover_20230405055712_20_849_1324632_1080_7_20230405060201188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정치와이드] "가만 안 둬"…전광훈 입에 오른 인물들?]]></title>
             <link>https://tv.naver.com/v/34623922</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Apr 2023 10:20:48 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230404_19/vdWBb_16806036231029RcUM_JPEG/cover_cover_20230404191632_20_552_1324599_1080_7_20230404191901160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍성·대전 산불 주불 잡아…단비가 '산불 공포' 씻어낸다]]></title>
-            <link>https://tv.naver.com/v/34621789</link>
-            <guid>https://tv.naver.com/v/34621789</guid>
-            <pubDate>Tue, 04 Apr 2023 10:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_185/WCsCK_1680603495146TWv7C_JPEG/cover_cover_20230404191425_20_552_1324598_1080_7_20230404191701131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
