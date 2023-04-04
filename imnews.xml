@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 06:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 07:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 늦은 오후부터 전국에 비‥제주 산지 300mm↑]]></title>
+            <link>https://tv.naver.com/v/34614752</link>
+            <guid>https://tv.naver.com/v/34614752</guid>
+            <pubDate>Tue, 04 Apr 2023 07:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_287/s83oD_1680592224504ilMSA_JPEG/cover_cover_14news_20230404_153947_1_7_Large_20230404161004783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스외전 이슈+] '강남 납치·살해' 3명 구속‥"여러 행태 범행 얽힌 듯"]]></title>
             <link>https://tv.naver.com/v/34612370</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Apr 2023 01:25:24 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230404_21/NYvaD_1680569595458OBfI8_JPEG/cover_cover_0930_20230404_094532_1_9_Large_20230404095302071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옐런 미국 재무장관, 산유국 감산에 "물가 부담·불확실성 키워"]]></title>
-            <link>https://tv.naver.com/v/34601392</link>
-            <guid>https://tv.naver.com/v/34601392</guid>
-            <pubDate>Tue, 04 Apr 2023 01:25:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_35/Z8XKD_16805694642964SzOu_JPEG/cover_cover_0930_20230404_094428_1_8_Large_20230404095051299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
