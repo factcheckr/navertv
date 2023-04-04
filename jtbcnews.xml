@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 22:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 23:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] '식목일·청명' 전국에 단비…제주 산지·남해안 많은 비]]></title>
+            <link>https://tv.naver.com/v/34634804</link>
+            <guid>https://tv.naver.com/v/34634804</guid>
+            <pubDate>Tue, 04 Apr 2023 23:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_190/26EUg_1680650201088YP6yk_JPEG/cover_0000338091_001_20230405081601545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[길 가다 운전석 '급습'…'던지기 수법' 중국인 마약 총책 검거]]></title>
             <link>https://tv.naver.com/v/34630114</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Apr 2023 10:19:44 GMT</pubDate>
             <content:encoded><![CDATA[11:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230404_112/9Logl_1680601661467pQ3e2_JPEG/cover_0000338039_001_20230404184401527.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한덕수 '돌덩이' 발언 파문…'신스틸러' 한동훈에 민주당 맹공]]></title>
-            <link>https://tv.naver.com/v/34620330</link>
-            <guid>https://tv.naver.com/v/34620330</guid>
-            <pubDate>Tue, 04 Apr 2023 10:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[13:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_278/u2VKm_1680600862369NB1V7_JPEG/cover_0000338036_001_20230404183001550.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
