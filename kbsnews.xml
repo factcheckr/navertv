@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 04:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 05:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 순천 산불 3단계…헬기 투입 진화 중]]></title>
+            <link>https://tv.naver.com/v/34609997</link>
+            <guid>https://tv.naver.com/v/34609997</guid>
+            <pubDate>Tue, 04 Apr 2023 05:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_37/cPVpS_1680585163540kVJTz_JPEG/cover_0011458705_001_20230404141201156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 함평 산불 ‘3단계’ 발령…진화율 70%]]></title>
+            <link>https://tv.naver.com/v/34609864</link>
+            <guid>https://tv.naver.com/v/34609864</guid>
+            <pubDate>Tue, 04 Apr 2023 05:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_57/pHUKq_1680584984616vFDM5_JPEG/cover_0011458704_001_20230404140901112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 홍성 산불 진화 안간힘…헬기 20대 투입]]></title>
+            <link>https://tv.naver.com/v/34609825</link>
+            <guid>https://tv.naver.com/v/34609825</guid>
+            <pubDate>Tue, 04 Apr 2023 05:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_18/bkXbm_1680584958627Qx5qn_JPEG/cover_0011458703_001_20230404140813405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 52년 만에 달로 향하는 인류 선정…흑인 여성 등 4명]]></title>
             <link>https://tv.naver.com/v/34608042</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 04 Apr 2023 04:20:55 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230404_118/1yOI2_1680581461121uJwLX_JPEG/cover_0011458648_001_20230404131001219.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12시 날씨] 제주도부터 비…밤엔 전국으로 확대]]></title>
-            <link>https://tv.naver.com/v/34607548</link>
-            <guid>https://tv.naver.com/v/34607548</guid>
-            <pubDate>Tue, 04 Apr 2023 04:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_240/EJdlP_1680581007007Kua8D_JPEG/cover_0011458678_001_20230404130301125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 강원 건조주의보 ‘화재 유의’…늦은 밤부터 비 소식]]></title>
-            <link>https://tv.naver.com/v/34607519</link>
-            <guid>https://tv.naver.com/v/34607519</guid>
-            <pubDate>Tue, 04 Apr 2023 04:20:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_120/YFNPc_1680580952720brCXj_JPEG/cover_0011458374_001_20230404130201152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보 날씨] 여전히 건조특보…밤부터 전국 단비]]></title>
-            <link>https://tv.naver.com/v/34605066</link>
-            <guid>https://tv.naver.com/v/34605066</guid>
-            <pubDate>Tue, 04 Apr 2023 03:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_190/nSSHM_1680576516049dLsfl_JPEG/cover_0011458632_001_20230404114801134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

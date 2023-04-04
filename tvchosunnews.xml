@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 04:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 05:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 지민, K팝 솔로 최초 빌보드 핫 100 1위]]></title>
+            <link>https://tv.naver.com/v/34609003</link>
+            <guid>https://tv.naver.com/v/34609003</guid>
+            <pubDate>Tue, 04 Apr 2023 05:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_30/g0bvy_1680583611791kBiBV_JPEG/cover_2023040490107_thumb_014133_20230404134604807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈분석] 野, '양곡법 삭발식'에 후쿠시마행 추진 논란]]></title>
             <link>https://tv.naver.com/v/34600947</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Apr 2023 13:22:28 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230403_239/cElqZ_16805260186496i0LT_JPEG/cover_2023040390225_thumb_094400_20230403214606459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상춘재 만찬에 드론쇼…엑스포 실사단 잡기 총력전]]></title>
-            <link>https://tv.naver.com/v/34591286</link>
-            <guid>https://tv.naver.com/v/34591286</guid>
-            <pubDate>Mon, 03 Apr 2023 13:22:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230403_281/DU79Q_1680525750655Ta3tY_JPEG/cover_2023040390231_thumb_093928_20230403214108729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
