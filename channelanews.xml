@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Apr 2023 01:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Apr 2023 02:25:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실사단 방문 앞두고 “준비 완료”…들썩이는 부산]]></title>
+            <link>https://tv.naver.com/v/34636793</link>
+            <guid>https://tv.naver.com/v/34636793</guid>
+            <pubDate>Wed, 05 Apr 2023 02:25:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230405_265/2f4oH_1680657190275AYwHP_JPEG/cover_0000246951_001_20230405101201582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상]남자배구 대한항공 우승]]></title>
             <link>https://tv.naver.com/v/34624140</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Apr 2023 12:34:52 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230404_169/IwmZh_1680606977198GEJ5N_JPEG/cover_0000247033_001_20230404201512699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아는기자]납치살해 배후 수사…윗선에 ‘큰손 부부’ 있다?]]></title>
-            <link>https://tv.naver.com/v/34623513</link>
-            <guid>https://tv.naver.com/v/34623513</guid>
-            <pubDate>Tue, 04 Apr 2023 12:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[3:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230404_142/BgIHF_1680607006298lq2BQ_JPEG/cover_0000247032_001_20230404201500898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
