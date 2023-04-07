@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 13:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 14:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 18.5도…내일 4~17도]]></title>
+            <link>https://tv.naver.com/v/34743597</link>
+            <guid>https://tv.naver.com/v/34743597</guid>
+            <pubDate>Fri, 07 Apr 2023 14:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_79/DNLRQ_16808764995174IUx7_JPEG/cover_0011461545_001_20230407230801163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘배후’ 자산가 구속여부 곧 결정…검찰, 코인 사건 수사]]></title>
+            <link>https://tv.naver.com/v/34742544</link>
+            <guid>https://tv.naver.com/v/34742544</guid>
+            <pubDate>Fri, 07 Apr 2023 14:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_177/06TKW_1680874121576CtmPw_JPEG/cover_0011461425_001_20230407222801135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘카톡 감옥’ 확인돼도 불기소…‘촉법소년’에는 속수무책]]></title>
             <link>https://tv.naver.com/v/34742270</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 13:20:57 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_170/241eR_1680873188835UMvvz_JPEG/cover_0011461514_001_20230407221247210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진보당 강성희 “오월 정신으로 검찰독재 막고 민생 지키겠다”]]></title>
-            <link>https://tv.naver.com/v/34742165</link>
-            <guid>https://tv.naver.com/v/34742165</guid>
-            <pubDate>Fri, 07 Apr 2023 13:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_287/iSxof_1680873178529Cg1Q0_JPEG/cover_0011461513_001_20230407221240489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주·전남 미세먼지 특보 해제]]></title>
-            <link>https://tv.naver.com/v/34742161</link>
-            <guid>https://tv.naver.com/v/34742161</guid>
-            <pubDate>Fri, 07 Apr 2023 13:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_35/MvHuK_1680873163711g3vmg_JPEG/cover_0011461512_001_20230407221233759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
