@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 12:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 13:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[와글와글] 초면에 장난치다 총 맞은 미국 유튜버]]></title>
+            <link>https://tv.naver.com/v/34741582</link>
+            <guid>https://tv.naver.com/v/34741582</guid>
+            <pubDate>Fri, 07 Apr 2023 13:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_231/8hvxM_1680872122778UFqpy_JPEG/cover_cover_today_20230407_065739_2_20_Large_U_20230407215502862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스데스크 클로징]]></title>
             <link>https://tv.naver.com/v/34739773</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_13/EPUJe_1680856934754x1yg9_JPEG/cover_cover_5news_20230407_170139_1_6_Large_U_20230407174204252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[와글와글] 납골당 유골함 개봉 방송한 인터넷 영상 논란]]></title>
-            <link>https://tv.naver.com/v/34734315</link>
-            <guid>https://tv.naver.com/v/34734315</guid>
-            <pubDate>Fri, 07 Apr 2023 09:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_257/LvlT4_1680856413141zIIt9_JPEG/cover_cover_today_20230407_065739_2_19_Large_U_20230407173320174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
