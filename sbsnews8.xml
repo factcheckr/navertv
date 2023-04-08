@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 09:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 10:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 유튜버 신고 받고 역주행 잡고 보니 '흰가루와 주사기']]></title>
+            <link>https://tv.naver.com/v/34759155</link>
+            <guid>https://tv.naver.com/v/34759155</guid>
+            <pubDate>Sat, 08 Apr 2023 10:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_210/xV2kO_1680947451379piQNc_JPEG/cover_0001048982_001_20230408185001142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 北 "1,000km 잠항해 정확히 수중 폭발"…한미 해상 감시망 우회 노리나?]]></title>
             <link>https://tv.naver.com/v/34757966</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 23:16:34 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_280/wZMAH_1680906602502ScWAA_JPEG/cover_0001048897_001_20230408072910851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 반도체 4조 적자 추정…재고 압박에 '감산']]></title>
-            <link>https://tv.naver.com/v/34748302</link>
-            <guid>https://tv.naver.com/v/34748302</guid>
-            <pubDate>Fri, 07 Apr 2023 23:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_138/bvqvQ_1680906607349pQzD8_JPEG/cover_0001048896_001_20230408072901136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

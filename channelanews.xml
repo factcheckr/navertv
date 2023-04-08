@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 09:17:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 10:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[北, 군 통신선에 이틀째 불통…의도된 차단?]]></title>
+            <link>https://tv.naver.com/v/34759538</link>
+            <guid>https://tv.naver.com/v/34759538</guid>
+            <pubDate>Sat, 08 Apr 2023 10:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_109/szyZH_1680948543027CuCtT_JPEG/cover_0000247297_001_20230408190801588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北 “개량 핵어뢰 ‘해일-2’, 잠항 시간·거리 증강”]]></title>
+            <link>https://tv.naver.com/v/34759502</link>
+            <guid>https://tv.naver.com/v/34759502</guid>
+            <pubDate>Sat, 08 Apr 2023 10:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_20/4D11i_1680948457817aNl1d_JPEG/cover_0000247296_001_20230408190601610.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[동앵과 뉴스터디]판사 손에 ‘현금 2억’, 김용 재판에서 무슨 일이?]]></title>
             <link>https://tv.naver.com/v/34754524</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 11:15:26 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_19/IElSd_1680865680113okj2b_JPEG/cover_0000247254_001_20230407200701482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쿠키도 음료도 ‘초록색 잎’ 조심…무심코 먹었다간 국내 처벌]]></title>
-            <link>https://tv.naver.com/v/34738550</link>
-            <guid>https://tv.naver.com/v/34738550</guid>
-            <pubDate>Fri, 07 Apr 2023 11:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_118/GgIXS_1680865672268RB21e_JPEG/cover_0000247252_001_20230407200643011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘마약 배달’ 10대 4명 검거…10대 사범, 4년 새 3배↑]]></title>
-            <link>https://tv.naver.com/v/34738543</link>
-            <guid>https://tv.naver.com/v/34738543</guid>
-            <pubDate>Fri, 07 Apr 2023 11:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_60/X9quO_1680865659960hgaUK_JPEG/cover_0000247251_001_20230407200633743.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
