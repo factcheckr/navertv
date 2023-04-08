@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 10:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 11:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스한판] 산불에 깜짝, 마약에 화들짝]]></title>
+            <link>https://tv.naver.com/v/34760516</link>
+            <guid>https://tv.naver.com/v/34760516</guid>
+            <pubDate>Sat, 08 Apr 2023 11:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[15:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_195/oDt5p_168095219952626sKY_JPEG/cover_cover_MYH20230407019800641_20230408200101883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[한반도 브리핑] 北야경 여전히 칠흑…김여정, 느닷없이 젤렌스키 비판]]></title>
             <link>https://tv.naver.com/v/34759445</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Apr 2023 09:16:26 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_12/japci_1680942568173lWpGE_JPEG/cover_cover_MYH20230408008500641_20230408172901880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[日, 'IAEA와 협력 오염수 방류 투명성 제고 환영' G7성명 추진]]></title>
-            <link>https://tv.naver.com/v/34757568</link>
-            <guid>https://tv.naver.com/v/34757568</guid>
-            <pubDate>Sat, 08 Apr 2023 09:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_232/ym6AP_1680942449739wTxLi_JPEG/cover_cover_MYH20230408008300641_20230408172702713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
