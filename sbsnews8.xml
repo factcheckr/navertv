@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 04:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 05:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] "인지기능 좋을 수록 빨리 걷는다…한국 노인 1위"]]></title>
+            <link>https://tv.naver.com/v/34752821</link>
+            <guid>https://tv.naver.com/v/34752821</guid>
+            <pubDate>Sat, 08 Apr 2023 05:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_185/Vsgip_1680928321244ONyQw_JPEG/cover_0001048950_001_20230408133101097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 강한 바람 '쌩쌩'…일요일 아침까지 쌀쌀해요]]></title>
             <link>https://tv.naver.com/v/34751888</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 22:15:49 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_175/XTy31_1680905425245cY7gA_JPEG/cover_0001048892_001_20230408070911615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남북 간 연락망 갑자기 '불통'…무슨 일?]]></title>
-            <link>https://tv.naver.com/v/34748225</link>
-            <guid>https://tv.naver.com/v/34748225</guid>
-            <pubDate>Fri, 07 Apr 2023 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_200/WoSKW_1680905397541Da0HB_JPEG/cover_0001048891_001_20230408070901229.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
