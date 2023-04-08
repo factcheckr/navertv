@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 06:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 07:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 08 Apr 2023 06:22:00 GMT</pubDate>
             <content:encoded><![CDATA[0:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_124/c59N7_1680934309786Ej9CK_JPEG/cover_2023040890018_thumb_030925_20230408151129451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈 총선 차출설…여야 반응은?]]></title>
+            <link>https://tv.naver.com/v/34754751</link>
+            <guid>https://tv.naver.com/v/34754751</guid>
+            <pubDate>Sat, 08 Apr 2023 07:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[47:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_60/sgllk_1680935320472nQDVB_JPEG/cover_2023040890012_thumb_030542_20230408151101484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강남 납치·살해 사건 배후 유모씨 구속…아내도 오늘 체포]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 12:32:48 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_229/mL18l_1680869533013fwzRA_JPEG/cover_2023040790194_thumb_090509_20230407211122946.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 25년만에 '감산' 돌입…끝 안 보이는 '반도체 불황']]></title>
-            <link>https://tv.naver.com/v/34740328</link>
-            <guid>https://tv.naver.com/v/34740328</guid>
-            <pubDate>Fri, 07 Apr 2023 12:32:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_115/hol2K_1680869519071twEjg_JPEG/cover_2023040790198_thumb_090751_20230407211111369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
