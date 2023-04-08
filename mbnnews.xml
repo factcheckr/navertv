@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 20:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 21:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[366회_봄철 산행사고와 산불 예방요령]]></title>
+            <link>https://tv.naver.com/v/34768539</link>
+            <guid>https://tv.naver.com/v/34768539</guid>
+            <pubDate>Sat, 08 Apr 2023 21:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[15:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_154/uyZwN_1680987253288zr12f_JPEG/cover_cover_20230409054147_20_849_1324990_1080_7_20230409054601171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임영웅에 골 잔치까지…봄 추위 날린 축구장 열기]]></title>
             <link>https://tv.naver.com/v/34761560</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 12:33:05 GMT</pubDate>
             <content:encoded><![CDATA[1:13:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_234/MZ20p_1680868801178y7yGi_JPEG/cover_cover_20230407201446_20_536_1324958_1080_7_20230407202601142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치와이드] 9천만 원 각서만 남기고 사라진 권경애?]]></title>
-            <link>https://tv.naver.com/v/34738896</link>
-            <guid>https://tv.naver.com/v/34738896</guid>
-            <pubDate>Fri, 07 Apr 2023 12:33:05 GMT</pubDate>
-            <content:encoded><![CDATA[6:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_190/jAaMP_1680866604195mgqJg_JPEG/cover_cover_20230407201343_20_536_1324957_1080_7_20230407202101120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
