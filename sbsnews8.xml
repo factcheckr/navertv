@@ -4,7 +4,7 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Apr 2023 22:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 23:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 08 Apr 2023 22:16:02 GMT</pubDate>
             <content:encoded><![CDATA[0:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230409_148/nCa4D_1680991400342g2rlO_JPEG/cover_0001047223_001_20230409070308355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/34768722</link>
+            <guid>https://tv.naver.com/v/34768722</guid>
+            <pubDate>Sat, 08 Apr 2023 23:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_215/JtZoK_1680994801169AnqMn_JPEG/cover_0001049033_001_20230409070101110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["그 부부가 배후"…남편 이어 아내도 체포]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Apr 2023 04:20:39 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_48/Xt2pp_16809243276772KJJ3_JPEG/cover_0001048947_001_20230408122501139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강남 여성 납치 · 살인' 배후 의혹 남편 구속…아내도 체포]]></title>
-            <link>https://tv.naver.com/v/34751741</link>
-            <guid>https://tv.naver.com/v/34751741</guid>
-            <pubDate>Sat, 08 Apr 2023 04:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_18/zb7Da_1680924311040zsFUH_JPEG/cover_0001048946_001_20230408122401155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
