@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 23:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 01:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴딥] 비가 얼마나 오면 산불이 예방될까?]]></title>
+            <link>https://tv.naver.com/v/34749592</link>
+            <guid>https://tv.naver.com/v/34749592</guid>
+            <pubDate>Sat, 08 Apr 2023 01:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[3:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_208/PDqoa_1680915976478knQNs_JPEG/cover_0000338534_001_20230408100501441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 공무원 등 28명 적힌 '수상한 P코인 리스트'…뇌물 명단 가능성]]></title>
             <link>https://tv.naver.com/v/34742085</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Apr 2023 10:18:35 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230407_281/qcHNV_1680861595816aKPcr_JPEG/cover_0000337654_001_20230407185912152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무면허·오토바이 절도 10대들, 라이더 '촉'에 딱 걸렸다]]></title>
-            <link>https://tv.naver.com/v/34736941</link>
-            <guid>https://tv.naver.com/v/34736941</guid>
-            <pubDate>Fri, 07 Apr 2023 10:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230407_124/bnCY8_1680861583325XevKW_JPEG/cover_0000337506_001_20230407185901432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
