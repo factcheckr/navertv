@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 06:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 07:16:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 09 Apr 2023 06:21:33 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230409_113/Psysz_1681020744571IRIVb_JPEG/cover_2023040990029_thumb_030951_20230409151130718.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈 총선 차출설…여야 반응은?]]></title>
+            <link>https://tv.naver.com/v/34774460</link>
+            <guid>https://tv.naver.com/v/34774460</guid>
+            <pubDate>Sun, 09 Apr 2023 07:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[43:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_167/MauW4_168102160266429HLW_JPEG/cover_2023040990027_thumb_030841_20230409151101487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['대치동 마약 음료' 중국에서 지시한 총책 추적]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Apr 2023 10:18:00 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_244/T5yzl_1680948414366XRK6L_JPEG/cover_2023040890043_thumb_070137_20230408190601602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['강남 납치·살해' 배후 체포…신상공개 되나?]]></title>
-            <link>https://tv.naver.com/v/34754779</link>
-            <guid>https://tv.naver.com/v/34754779</guid>
-            <pubDate>Sat, 08 Apr 2023 06:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[10:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_110/yQTZf_1680934535546ayaR4_JPEG/cover_2023040890016_thumb_030900_20230408151201587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
