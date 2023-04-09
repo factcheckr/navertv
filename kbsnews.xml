@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 08:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 09:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] ‘강남 납치·살해’ 혐의 피의자 ‘3인조’ 송치…“진심으로 사죄”]]></title>
+            <link>https://tv.naver.com/v/34777178</link>
+            <guid>https://tv.naver.com/v/34777178</guid>
+            <pubDate>Sun, 09 Apr 2023 09:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_17/f2x3o_16810284825490DCVP_PNG/cover_0011461917_001_20230409172001137.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스5 날씨] 내일, 오늘보다 기온 올라요…강한 바람!]]></title>
             <link>https://tv.naver.com/v/34777081</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Apr 2023 14:14:32 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_151/LrqLy_1680960151604sCVJz_JPEG/cover_0011461802_001_20230408222215851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번 주 강원 아파트 매매가격 0.1% 하락]]></title>
-            <link>https://tv.naver.com/v/34763833</link>
-            <guid>https://tv.naver.com/v/34763833</guid>
-            <pubDate>Sat, 08 Apr 2023 14:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_31/ozen6_1680960134963bVMUS_JPEG/cover_0011461800_001_20230408222201158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
