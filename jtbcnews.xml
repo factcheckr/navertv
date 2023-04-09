@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Apr 2023 22:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Apr 2023 23:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 쌀쌀한 출근길, 일교차 주의…서울 낮 기온 19도]]></title>
+            <link>https://tv.naver.com/v/34789787</link>
+            <guid>https://tv.naver.com/v/34789787</guid>
+            <pubDate>Sun, 09 Apr 2023 23:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_2/iQDXU_1681082126183quNPN_JPEG/cover_0000338653_001_20230410081501434.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[인터뷰] 김윤아 "데뷔 26년, 난 아직 꼬맹이…사람한테 완성형이 있을까"]]></title>
             <link>https://tv.naver.com/v/34782048</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Apr 2023 10:17:18 GMT</pubDate>
             <content:encoded><![CDATA[1:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230408_151/Dd1VL_16809470742169KtKn_JPEG/cover_0000338576_001_20230408184401583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세월호 9주기 일주일 앞으로…아픔 함께한 이태원 유족]]></title>
-            <link>https://tv.naver.com/v/34758877</link>
-            <guid>https://tv.naver.com/v/34758877</guid>
-            <pubDate>Sat, 08 Apr 2023 10:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230408_8/zegFq_1680946542453LvstG_JPEG/cover_0000338575_001_20230408183501424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
