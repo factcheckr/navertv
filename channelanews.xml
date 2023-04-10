@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 06:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 07:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]호수비해놓고…어찌 이런 일이]]></title>
+            <link>https://tv.naver.com/v/34804777</link>
+            <guid>https://tv.naver.com/v/34804777</guid>
+            <pubDate>Mon, 10 Apr 2023 07:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_282/ktX5y_1681110891216Lh6wS_JPEG/cover_0000247393_001_20230410161401635.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘최민희 방통위원 임명’ 놓고 여야 갈등]]></title>
             <link>https://tv.naver.com/v/34798811</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 09 Apr 2023 06:21:41 GMT</pubDate>
             <content:encoded><![CDATA[0:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230409_294/Wlyad_1681017489965GALxS_JPEG/cover_0000247330_001_20230409141801602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘강남 살인 배후 의혹’ 재력가 남편 이어 부인 체포]]></title>
-            <link>https://tv.naver.com/v/34772906</link>
-            <guid>https://tv.naver.com/v/34772906</guid>
-            <pubDate>Sun, 09 Apr 2023 05:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[6:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230409_225/tZkxq_1681016287637hPD3I_JPEG/cover_0000247328_001_20230409135508475.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
