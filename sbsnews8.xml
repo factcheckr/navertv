@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Apr 2023 20:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Apr 2023 21:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34825798</link>
+            <guid>https://tv.naver.com/v/34825798</guid>
+            <pubDate>Mon, 10 Apr 2023 21:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_102/FBD3K_1681161281990Ibg7c_JPEG/cover_0001049429_001_20230411061401129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/34824777</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Apr 2023 15:17:10 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_55/Obbr8_1681138218571V5Rym_JPEG/cover_0001049386_001_20230410234921643.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["끼익" 도로에 뿌려진 미세먼지…이제 달리면서 잡는다]]></title>
-            <link>https://tv.naver.com/v/34821582</link>
-            <guid>https://tv.naver.com/v/34821582</guid>
-            <pubDate>Mon, 10 Apr 2023 15:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_194/rVoOc_1681138219621hoC6W_JPEG/cover_0001049387_001_20230410234911627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
