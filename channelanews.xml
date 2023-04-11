@@ -4,16 +4,24 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 01:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 02:34:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[속보]‘강릉 산불’ 전국 소방동원령 1호 발령…주민 대피중]]></title>
-            <link>https://tv.naver.com/v/34828450</link>
-            <guid>https://tv.naver.com/v/34828450</guid>
-            <pubDate>Tue, 11 Apr 2023 01:21:06 GMT</pubDate>
+            <title><![CDATA[강풍에 강원도 산불 진화 난항…인근 주민 대피령]]></title>
+            <link>https://tv.naver.com/v/34829085</link>
+            <guid>https://tv.naver.com/v/34829085</guid>
+            <pubDate>Tue, 11 Apr 2023 02:34:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_41/XXl0b_1681176475261WPJx0_JPEG/cover_0000247442_001_20230411102701494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘강릉 산불’ 전국 소방동원령 1호 발령…주민 대피중]]></title>
+            <link>https://tv.naver.com/v/34828914</link>
+            <guid>https://tv.naver.com/v/34828914</guid>
+            <pubDate>Tue, 11 Apr 2023 02:34:18 GMT</pubDate>
             <content:encoded><![CDATA[0:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_179/LSnyj_1681175171966eoz4R_JPEG/cover_0000247435_001_20230411100601578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_272/RblcO_1681176072439pLPWA_JPEG/cover_0000247435_001_20230411102101501.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전방위 뇌물 정황…강남 납치·살인 사건은 ‘코인 게이트’?]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 10 Apr 2023 12:33:48 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230410_234/6U4ex_16811256009712TJzp_JPEG/cover_0000247408_001_20230410201909005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아는기자]대통령실 뚫렸나…美 도·감청, 용산 이전 탓?]]></title>
-            <link>https://tv.naver.com/v/34813729</link>
-            <guid>https://tv.naver.com/v/34813729</guid>
-            <pubDate>Mon, 10 Apr 2023 12:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230410_181/DhjVJ_1681125663999T4KW0_JPEG/cover_0000247407_001_20230410201856494.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
