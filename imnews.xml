@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 04:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 05:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["내가 누군지 알아?" 경찰 머리 친 예비 검사 결국‥]]></title>
+            <link>https://tv.naver.com/v/34836249</link>
+            <guid>https://tv.naver.com/v/34836249</guid>
+            <pubDate>Tue, 11 Apr 2023 05:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_88/KO018_1681188786161vaUe3_JPEG/cover_cover_joo230411_vo1_20230411135204388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강릉 주택 17가구 소실‥주민 150여명 대피]]></title>
             <link>https://tv.naver.com/v/34834438</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 01:20:08 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230411_246/q6AsV_1681175913669ym5H8_JPEG/cover_cover_today_20230411_073953_2_36_Large_U_20230411101804002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[출동 현장서 돈 훔치다 걸린 구급대원‥카메라에 딱 걸려]]></title>
-            <link>https://tv.naver.com/v/34828155</link>
-            <guid>https://tv.naver.com/v/34828155</guid>
-            <pubDate>Tue, 11 Apr 2023 01:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_36/0qu9g_1681174444745BEaTY_JPEG/cover_cover_today_20230411_065649_2_19_Large_U_20230411095350195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
