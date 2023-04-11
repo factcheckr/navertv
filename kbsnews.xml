@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 13:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 14:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 22.7도…내일 8~19도]]></title>
+            <link>https://tv.naver.com/v/34857919</link>
+            <guid>https://tv.naver.com/v/34857919</guid>
+            <pubDate>Tue, 11 Apr 2023 14:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[0:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_175/jQiLH_1681222043307pKt9H_JPEG/cover_0011463692_001_20230411230701127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스9 날씨] ‘산불 조심’…황사 영향으로 미세먼지 ‘매우 나쁨’]]></title>
             <link>https://tv.naver.com/v/34856309</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 13:21:24 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230411_57/uc9fY_1681218839820aCktP_JPEG/cover_0011463624_001_20230411221255253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘곽상도 부자 50억 뇌물 의혹’ 본격 재수사…추가 압수수색]]></title>
-            <link>https://tv.naver.com/v/34856082</link>
-            <guid>https://tv.naver.com/v/34856082</guid>
-            <pubDate>Tue, 11 Apr 2023 13:21:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_181/opTe7_1681218818358CQE6y_JPEG/cover_0011463606_001_20230411221245222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
