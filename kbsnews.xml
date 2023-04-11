@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Apr 2023 20:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Apr 2023 21:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국대사관에서 ‘송끄란’ 영상을 만들어 올렸더니~]]></title>
+            <link>https://tv.naver.com/v/34863574</link>
+            <guid>https://tv.naver.com/v/34863574</guid>
+            <pubDate>Tue, 11 Apr 2023 21:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_144/Motmm_1681247445033iRjUl_JPEG/cover_0011463756_001_20230412061008264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상] 곧 열리는 ‘찰스 3세’ 대관식에서 등장할 예정이라는 황금마차!]]></title>
             <link>https://tv.naver.com/v/34860490</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 15:18:44 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230411_131/vj8He_1681223462426khkr8_JPEG/cover_0011463704_001_20230411233044821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강풍에 건물 외벽 뜯겨…소방 안전 조치]]></title>
-            <link>https://tv.naver.com/v/34858667</link>
-            <guid>https://tv.naver.com/v/34858667</guid>
-            <pubDate>Tue, 11 Apr 2023 15:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_250/5UFnR_1681223451067iDXHu_JPEG/cover_0011463703_001_20230411233037549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
