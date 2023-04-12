@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 04:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 05:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 낯선 남성이 건넨 '알약'…"술 깨는 약인데요"]]></title>
+            <link>https://tv.naver.com/v/34873826</link>
+            <guid>https://tv.naver.com/v/34873826</guid>
+            <pubDate>Wed, 12 Apr 2023 05:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_274/sx3Lo_1681276019957xPTIC_JPEG/cover_2023041290112_thumb_020439_20230412140601575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신정훈 "양곡법 개정안은 쌀 과잉 생산 방지법"]]></title>
             <link>https://tv.naver.com/v/34866021</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 13:22:35 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230411_142/B9qzg_1681217818294pnoDd_JPEG/cover_2023041190225_thumb_095040_20230411215604902.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알뜰폰, '1년간 0원' 요금제 등장…인하 경쟁 불붙나?]]></title>
-            <link>https://tv.naver.com/v/34855289</link>
-            <guid>https://tv.naver.com/v/34855289</guid>
-            <pubDate>Tue, 11 Apr 2023 13:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_189/5tDD0_1681217589548AiWbS_JPEG/cover_2023041190221_thumb_094914_20230411215218858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
