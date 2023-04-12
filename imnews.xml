@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 06:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 07:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 전국 미세먼지 경보‥내일도 '매우 나쁨']]></title>
+            <link>https://tv.naver.com/v/34878579</link>
+            <guid>https://tv.naver.com/v/34878579</guid>
+            <pubDate>Wed, 12 Apr 2023 07:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_153/b0Wbr_1681282701378ysK09_JPEG/cover_cover_14news_20230412_154836_1_21_Large_20230412155804216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미세먼지 경보‥"평소 10배 수준"]]></title>
+            <link>https://tv.naver.com/v/34877934</link>
+            <guid>https://tv.naver.com/v/34877934</guid>
+            <pubDate>Wed, 12 Apr 2023 07:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_2/qAWKL_168128180457470AxB_JPEG/cover_cover_14news_20230412_140155_1_2_Large_20230412154302283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비틀거리며 나가더니‥20분 만에 참변]]></title>
             <link>https://tv.naver.com/v/34876807</link>
@@ -28,7 +44,7 @@
             <link>https://tv.naver.com/v/34876794</link>
             <guid>https://tv.naver.com/v/34876794</guid>
             <pubDate>Wed, 12 Apr 2023 06:25:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:00]]></content:encoded>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_296/hIQC5_1681280352031QwxPW_JPEG/cover_cover_14news_20230412_151135_1_17_Large_20230412151902487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 04:21:05 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_83/Yg6N1_1681269767504Jc36e_JPEG/cover_cover_noon_20230412_120542_1_4_Large_20230412122234838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령, 강릉시 특별재난지역 선포]]></title>
-            <link>https://tv.naver.com/v/34870473</link>
-            <guid>https://tv.naver.com/v/34870473</guid>
-            <pubDate>Wed, 12 Apr 2023 04:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_253/BetPI_1681269779533JXBG3_JPEG/cover_cover_noon_20230412_120503_1_3_Large_20230412122224813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취업자 수 10개월 만에 반등‥청년층은 감소]]></title>
-            <link>https://tv.naver.com/v/34870464</link>
-            <guid>https://tv.naver.com/v/34870464</guid>
-            <pubDate>Wed, 12 Apr 2023 04:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_148/AXn9C_1681269765574F1MXA_JPEG/cover_cover_noon_20230412_121201_1_7_Large_20230412122204575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

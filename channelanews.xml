@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Apr 2023 06:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Apr 2023 07:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]영웅님 가는 곳은 어디든…열정 100℃ 영웅시대]]></title>
+            <link>https://tv.naver.com/v/34879207</link>
+            <guid>https://tv.naver.com/v/34879207</guid>
+            <pubDate>Wed, 12 Apr 2023 07:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_278/SGAip_1681283548948tQomI_JPEG/cover_0000247553_001_20230412161001584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김근식 “조국판 ‘슬기로운 감방생활’?”…‘정경심 영치금’ 구치소 1위]]></title>
             <link>https://tv.naver.com/v/34874983</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Apr 2023 12:34:52 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230411_281/bcLGi_1681212797393Oc6zx_JPEG/cover_0000247504_001_20230411203220317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전광훈 손절 나선 국민의힘…“영향력 크지 않다”]]></title>
-            <link>https://tv.naver.com/v/34852504</link>
-            <guid>https://tv.naver.com/v/34852504</guid>
-            <pubDate>Tue, 11 Apr 2023 12:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230411_121/x7Sg4_1681212787210wqqX4_JPEG/cover_0000247503_001_20230411203211134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
