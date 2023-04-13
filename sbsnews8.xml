@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 20:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 21:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/34940178</link>
+            <guid>https://tv.naver.com/v/34940178</guid>
+            <pubDate>Thu, 13 Apr 2023 21:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_120/3YIVK_1681420304974ctRrK_JPEG/cover_0001050396_001_20230414061101118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/34939373</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Apr 2023 14:16:50 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_97/ykoF6_1681394035925K7fPV_JPEG/cover_0001050332_001_20230413225241537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["삼성 이재용도 샀어요"…가짜 코인 투자 사기 급증]]></title>
-            <link>https://tv.naver.com/v/34933467</link>
-            <guid>https://tv.naver.com/v/34933467</guid>
-            <pubDate>Thu, 13 Apr 2023 14:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_187/BAByf_1681394005864b5Ez9_JPEG/cover_0001050334_001_20230413225231736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

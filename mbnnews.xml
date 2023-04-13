@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 20:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 21:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[368회_봄철 산불 전망과 예방요령]]></title>
+            <link>https://tv.naver.com/v/34940120</link>
+            <guid>https://tv.naver.com/v/34940120</guid>
+            <pubDate>Thu, 13 Apr 2023 21:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[14:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_254/PbfbE_1681420100027VtnG8_JPEG/cover_cover_20230414055735_20_849_1325429_1080_7_20230414060101141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 유동규, 이재명을 말하다…"428억은 대선자금"]]></title>
             <link>https://tv.naver.com/v/34932826</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Apr 2023 10:19:51 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230413_87/GgwpL_1681380717357zuFYk_JPEG/cover_cover_20230413190725_20_552_1325395_1080_7_20230413191101143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태양절 앞둔 북, 탄도미사일 발사…"새로운 무기 체계 시험"]]></title>
-            <link>https://tv.naver.com/v/34925972</link>
-            <guid>https://tv.naver.com/v/34925972</guid>
-            <pubDate>Thu, 13 Apr 2023 10:19:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230413_208/Ti2S1_1681380614570sevzx_JPEG/cover_cover_20230413190529_20_552_1325394_1080_7_20230413190901129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
