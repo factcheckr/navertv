@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 21:16:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 22:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Fri, 14 Apr 2023 08:22:12 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_119/wr7Ls_1681458537630zmc59_JPEG/1681458483491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 최저가 '쇼핑 앱' 돌풍 주역 강재윤 레브잇 대표]]></title>
+            <link>https://tv.naver.com/v/34955765</link>
+            <guid>https://tv.naver.com/v/34955765</guid>
+            <pubDate>Fri, 14 Apr 2023 22:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[12:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_68/cYF6U_1681456009662dGqg6_JPEG/1681455959929.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인천 지하차도 화물차에 불…소방관 조치로 출근길 참사 막아]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Apr 2023 10:20:01 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230412_242/A2wLb_1681293183743Rbc8L_JPEG/1681293038373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이래도 되나…파주시장·시의원, 시 위탁 수영장서 '황제강습']]></title>
-            <link>https://tv.naver.com/v/34885956</link>
-            <guid>https://tv.naver.com/v/34885956</guid>
-            <pubDate>Wed, 12 Apr 2023 12:34:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230412_161/0I913_1681291497799e88Dx_JPEG/1681291474251.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
