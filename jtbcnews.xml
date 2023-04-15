@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 04:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 05:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구조 중에도 "실종자 가족으로 위장하라"…대원들도 망설인 사찰]]></title>
+            <link>https://tv.naver.com/v/34977212</link>
+            <guid>https://tv.naver.com/v/34977212</guid>
+            <pubDate>Sat, 15 Apr 2023 05:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_223/CwmdO_16815344277959shTb_JPEG/cover_0000339388_001_20230415135301483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 비 내리다 오후에 그쳐…수도권 미세먼지 '나쁨']]></title>
             <link>https://tv.naver.com/v/34975764</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Apr 2023 12:33:32 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_181/G7GNS_1681472996428IbG6i_JPEG/cover_0000339389_001_20230414204901457.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구조 중에도 "실종자 가족으로 위장하라"…대원들도 망설인 사찰]]></title>
-            <link>https://tv.naver.com/v/34964408</link>
-            <guid>https://tv.naver.com/v/34964408</guid>
-            <pubDate>Fri, 14 Apr 2023 12:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_3/Gr95L_1681472627726H95Bk_JPEG/cover_0000339388_001_20230414204301484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

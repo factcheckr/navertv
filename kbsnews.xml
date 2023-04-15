@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 04:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 05:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 콜롬비아 다리 붕괴로 차량 여러 대 추락…경찰관 2명 사망]]></title>
+            <link>https://tv.naver.com/v/34977556</link>
+            <guid>https://tv.naver.com/v/34977556</guid>
+            <pubDate>Sat, 15 Apr 2023 05:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_5/5lcz7_1681535374526NyHxe_PNG/cover_0011466315_001_20230415140901129.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[주말엔/영상/기후K] 시민 3천 명이 도로에 누운 이유는?]]></title>
             <link>https://tv.naver.com/v/34976330</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Apr 2023 23:17:10 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230415_232/ZIe1T_1681511541244si7mU_JPEG/cover_0011466230_001_20230415073201299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[필로폰 판매, 투약 26명 검거…조폭에 학생·주부까지]]></title>
-            <link>https://tv.naver.com/v/34973063</link>
-            <guid>https://tv.naver.com/v/34973063</guid>
-            <pubDate>Fri, 14 Apr 2023 23:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_46/rwsxE_1681511456002mvflD_JPEG/cover_0011466246_001_20230415073001178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
