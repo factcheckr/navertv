@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 08:21:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 미세먼지 싸악! 세종대왕님 샤워하는 날]]></title>
+            <link>https://tv.naver.com/v/34981461</link>
+            <guid>https://tv.naver.com/v/34981461</guid>
+            <pubDate>Sat, 15 Apr 2023 08:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_159/dVSya_1681546617545C6eqD_JPEG/cover_0001050778_001_20230415171601104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 아일랜드서 눈물 쏟은 바이든…아들 마지막 지킨 신부 조우]]></title>
             <link>https://tv.naver.com/v/34978122</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Apr 2023 23:17:32 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230415_62/qiaoe_1681512606079uEGLf_JPEG/cover_0001050689_001_20230415074901121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, '돈 봉투' 출처 추적…연루 의원들은 의혹 부인]]></title>
-            <link>https://tv.naver.com/v/34973145</link>
-            <guid>https://tv.naver.com/v/34973145</guid>
-            <pubDate>Fri, 14 Apr 2023 23:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_25/nd4fM_1681512236705ObTcR_JPEG/cover_0001050687_001_20230415074301145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
