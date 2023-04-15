@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 03:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 04:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말엔/영상/기후K] 시민 3천 명이 도로에 누운 이유는?]]></title>
+            <link>https://tv.naver.com/v/34976330</link>
+            <guid>https://tv.naver.com/v/34976330</guid>
+            <pubDate>Sat, 15 Apr 2023 04:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_287/3qPWh_1681531418767oh52J_JPEG/cover_0011466313_001_20230415130301112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보영상] 기시다 일본 총리 연설 직전 폭발음…총리 무사·시민들 대피]]></title>
+            <link>https://tv.naver.com/v/34976107</link>
+            <guid>https://tv.naver.com/v/34976107</guid>
+            <pubDate>Sat, 15 Apr 2023 04:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_205/jdLvZ_1681530573326iMpsc_JPEG/cover_0011466312_001_20230415124901123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] 오후까지 전국 비…비 그친 뒤 또 황사]]></title>
             <link>https://tv.naver.com/v/34975648</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 14 Apr 2023 23:17:10 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230415_46/rwsxE_1681511456002mvflD_JPEG/cover_0011466246_001_20230415073001178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김선형, 이관희와의 자존심 대결에서 웃다!]]></title>
-            <link>https://tv.naver.com/v/34972967</link>
-            <guid>https://tv.naver.com/v/34972967</guid>
-            <pubDate>Fri, 14 Apr 2023 22:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_234/tuqti_1681510564845oRGUm_JPEG/cover_0011466249_001_20230415071511699.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[DEEP 아카이브] 런 어게인]]></title>
-            <link>https://tv.naver.com/v/34972964</link>
-            <guid>https://tv.naver.com/v/34972964</guid>
-            <pubDate>Fri, 14 Apr 2023 22:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_79/uxCZg_1681510579229jwVGL_JPEG/cover_0011466251_001_20230415071501123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
