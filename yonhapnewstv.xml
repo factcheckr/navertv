@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 19:14:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 20:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 594회]]></title>
+            <link>https://tv.naver.com/v/34992269</link>
+            <guid>https://tv.naver.com/v/34992269</guid>
+            <pubDate>Sat, 15 Apr 2023 20:18:13 GMT</pubDate>
+            <content:encoded><![CDATA[30:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_215/dT38P_1681589676672GKs7e_JPEG/cover_cover_MYH20230414015000641_20230416050101817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실패의 '도돌이표' 양곡 정책…식습관 바뀐지 언제인데 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/34987152</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 15 Apr 2023 08:21:00 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230415_106/X13Ow_1681545221653GHDVp_JPEG/cover_cover_MYH20230415008400641_20230415165302072.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 전국 뒤덮는 모래먼지…독하고 잦아진 황사 왜]]></title>
-            <link>https://tv.naver.com/v/34980427</link>
-            <guid>https://tv.naver.com/v/34980427</guid>
-            <pubDate>Sat, 15 Apr 2023 08:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_112/jEDGn_1681543380989MCGKJ_JPEG/cover_cover_MYH20230415008300641_20230415162203753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
