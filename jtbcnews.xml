@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 02:35:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 03:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미 기밀 문건 유출자, 첫 법정 출석…2개 혐의 적용]]></title>
+            <link>https://tv.naver.com/v/34975683</link>
+            <guid>https://tv.naver.com/v/34975683</guid>
+            <pubDate>Sat, 15 Apr 2023 03:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_61/DSINR_1681528640113az6vh_JPEG/cover_0000339427_001_20230415121701434.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주당 '돈봉투 의혹' 일파만파…당내서도 "송영길 귀국하라"]]></title>
             <link>https://tv.naver.com/v/34974986</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Apr 2023 11:15:49 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_116/4IE4B_1681470512653wbe8r_JPEG/cover_0000339378_001_20230414200801506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 지지율, 5개월 만에 20%대로…부정평가 1위 '외교']]></title>
-            <link>https://tv.naver.com/v/34963435</link>
-            <guid>https://tv.naver.com/v/34963435</guid>
-            <pubDate>Fri, 14 Apr 2023 11:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_175/XN1j7_1681470212065Wk3sQ_JPEG/cover_0000339377_001_20230414200301470.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
