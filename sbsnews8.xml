@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 20:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 21:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35015287</link>
+            <guid>https://tv.naver.com/v/35015287</guid>
+            <pubDate>Sun, 16 Apr 2023 21:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_293/rRy5h_1681679683862QMtHJ_JPEG/cover_0001050975_001_20230417061401120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 강래구 소환…"돈 봉투 받은 현역의원 20명 특정"]]></title>
             <link>https://tv.naver.com/v/35008832</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 16 Apr 2023 03:18:42 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230416_154/4MGyi_1681614266253TW6nR_JPEG/cover_0001050882_001_20230416120401097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스페셜리스트] 모르면 손해 본다…인플레 부추기는 '숨은' 수수료]]></title>
-            <link>https://tv.naver.com/v/34995213</link>
-            <guid>https://tv.naver.com/v/34995213</guid>
-            <pubDate>Sun, 16 Apr 2023 03:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[4:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_293/RQWob_1681614261776G0Gvj_JPEG/cover_0001050803_001_20230416120211359.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
