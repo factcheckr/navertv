@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 03:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 04:21:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[OPEN 인터뷰]한강다리 걷는 ‘파우스트’…“나는 늘 1%가 부족하다”]]></title>
+            <link>https://tv.naver.com/v/34995500</link>
+            <guid>https://tv.naver.com/v/34995500</guid>
+            <pubDate>Sun, 16 Apr 2023 04:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[8:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_87/AeGKk_1681615634048HSDSa_JPEG/cover_0000247769_001_20230416122301471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[OPEN 인터뷰]&#10113;햄릿 ‘6번’&#8231;전원일기 ‘22년’ 질릴 법도 한데...]]></title>
             <link>https://tv.naver.com/v/34985540</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Apr 2023 12:34:16 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230414_23/mVQLe_1681471102870lqJjY_JPEG/cover_0000247732_001_20230414201721709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“곧 도착”에 안전벨트 풀었다가…50만km ‘노후버스’]]></title>
-            <link>https://tv.naver.com/v/34963748</link>
-            <guid>https://tv.naver.com/v/34963748</guid>
-            <pubDate>Fri, 14 Apr 2023 12:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230414_172/wJPqQ_16814711044258so9U_JPEG/cover_0000247734_001_20230414201701511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
