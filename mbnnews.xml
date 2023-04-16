@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Apr 2023 11:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 12:32:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨]내일 오후부터 황사 물러가…출근길 안개 주의, 일교차 극심]]></title>
+            <link>https://tv.naver.com/v/35005089</link>
+            <guid>https://tv.naver.com/v/35005089</guid>
+            <pubDate>Sun, 16 Apr 2023 12:32:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_243/C64IU_1681644948929voiuP_JPEG/cover_cover_20230416201510_20_906_1325584_1080_7_20230416203501152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금리 3%대로 떨어지고…노후 아파트 매수 '쑥']]></title>
             <link>https://tv.naver.com/v/35004515</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 15 Apr 2023 11:15:38 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230415_269/CEfe3_16815571303646vVNQ_JPEG/cover_cover_20230415200644_20_906_1325552_1080_7_20230415201101145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4명 중 1명 반려동물 키우는데…"청년주택 못 들어갑니다"]]></title>
-            <link>https://tv.naver.com/v/34984784</link>
-            <guid>https://tv.naver.com/v/34984784</guid>
-            <pubDate>Sat, 15 Apr 2023 11:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_220/JYn7U_1681556997169BatMq_JPEG/cover_cover_20230415200446_20_906_1325551_1080_7_20230415200901144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
