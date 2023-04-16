@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 23:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 01:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[창+] “전세 사느니 슈퍼카 산다”]]></title>
+            <link>https://tv.naver.com/v/34993205</link>
+            <guid>https://tv.naver.com/v/34993205</guid>
+            <pubDate>Sun, 16 Apr 2023 01:25:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_63/PtXWw_16816033479272JIro_PNG/cover_0011466463_001_20230416090101120.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[8시 날씨] 흐리고 곳곳 비…황사 영향 공기 탁해]]></title>
             <link>https://tv.naver.com/v/34992931</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 15 Apr 2023 13:18:56 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230415_290/O07SQ_1681563620260oXEUM_JPEG/cover_0011466373_001_20230415215936442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말&문화] 2023년 ‘K-발레’로 다시 태어난 ‘돈키호테’]]></title>
-            <link>https://tv.naver.com/v/34987102</link>
-            <guid>https://tv.naver.com/v/34987102</guid>
-            <pubDate>Sat, 15 Apr 2023 13:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_138/441zU_1681563623967xveiT_JPEG/cover_0011466369_001_20230415215925769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

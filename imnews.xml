@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Apr 2023 23:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Apr 2023 01:27:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[불붙은 트럭‥터널은 '자욱' '악몽'이 떠오른 순간‥이분 뭐죠?]]></title>
+            <link>https://tv.naver.com/v/34993234</link>
+            <guid>https://tv.naver.com/v/34993234</guid>
+            <pubDate>Sun, 16 Apr 2023 01:26:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230416_2/xRyjm_16816035584146Cerp_JPEG/cover_cover_u20230416-00_20230416090502652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흐리고 가끔 비‥수도권 미세먼지 '나쁨']]></title>
             <link>https://tv.naver.com/v/34992715</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 15 Apr 2023 03:18:14 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230415_224/ckfMw_1681527877153LEQkw_JPEG/cover_cover_noon_20230415_120005_1_4_Large_20230415120420691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일 세월호 참사 9주기‥추모행사 열려]]></title>
-            <link>https://tv.naver.com/v/34975517</link>
-            <guid>https://tv.naver.com/v/34975517</guid>
-            <pubDate>Sat, 15 Apr 2023 03:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230415_104/B8hEd_16815278671617PwSF_JPEG/cover_cover_noon_20230415_115915_1_3_Large_20230415120411766.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
