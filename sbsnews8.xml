@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 20:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Apr 2023 21:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35056030</link>
+            <guid>https://tv.naver.com/v/35056030</guid>
+            <pubDate>Mon, 17 Apr 2023 21:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_117/TPyFM_1681765902796XaBa0_JPEG/cover_0001051247_001_20230418061101107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[또 한 생명이…'경매 대책' 시간이 없다]]></title>
             <link>https://tv.naver.com/v/35055801</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Apr 2023 13:22:30 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_222/7qhTh_1681736013837tGtAh_JPEG/cover_0001051191_001_20230417215201126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] "조합원들에 강요"…텔레그램에 남은 '쪼개기 후원금']]></title>
-            <link>https://tv.naver.com/v/35046102</link>
-            <guid>https://tv.naver.com/v/35046102</guid>
-            <pubDate>Mon, 17 Apr 2023 13:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_33/7y1iW_1681735951932CJCv4_JPEG/cover_0001051193_001_20230417215131984.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
