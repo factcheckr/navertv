@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Apr 2023 23:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 01:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스를 보다]일본 총리 폭탄 테러…범행 동기는?]]></title>
+            <link>https://tv.naver.com/v/35058002</link>
+            <guid>https://tv.naver.com/v/35058002</guid>
+            <pubDate>Tue, 18 Apr 2023 01:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_90/4Tk0z_1681777809348x8RH2_JPEG/cover_0000247836_001_20230418092801607.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[목숨 위험한데 필로폰 ‘3회분’ 넣었다…윗선 3명 추적 중]]></title>
             <link>https://tv.naver.com/v/35046071</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Apr 2023 11:16:24 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_191/7KZv5_1681729741029IFSoh_JPEG/cover_0000247873_001_20230417200715666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 보러 가서도 ‘대마’…관람객 “수상한 냄새 난다” 신고]]></title>
-            <link>https://tv.naver.com/v/35041484</link>
-            <guid>https://tv.naver.com/v/35041484</guid>
-            <pubDate>Mon, 17 Apr 2023 11:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_45/ioeUJ_1681729695466VR7QX_JPEG/cover_0000247875_001_20230417200656606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
