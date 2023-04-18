@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 01:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 02:35:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]해군, 함정 휴대전화 사용 검토]]></title>
+            <link>https://tv.naver.com/v/35060924</link>
+            <guid>https://tv.naver.com/v/35060924</guid>
+            <pubDate>Tue, 18 Apr 2023 02:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_269/Ybb0L_1681784296211hdTIa_JPEG/cover_0000247878_001_20230418111701520.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]이재명과 측근들 변호사는 ‘호화 군단’?]]></title>
+            <link>https://tv.naver.com/v/35059460</link>
+            <guid>https://tv.naver.com/v/35059460</guid>
+            <pubDate>Tue, 18 Apr 2023 02:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[18:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_76/rIut6_1681781864391KEOED_JPEG/cover_0000247793_001_20230418103101535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스를 보다]일본 총리 폭탄 테러…범행 동기는?]]></title>
             <link>https://tv.naver.com/v/35058002</link>
@@ -22,14 +38,6 @@
             <pubDate>Mon, 17 Apr 2023 13:23:28 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_141/fzI9o_1681735935869pLGXE_JPEG/cover_0000247874_001_20230417215101541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]해군, 함정 휴대전화 사용 검토]]></title>
-            <link>https://tv.naver.com/v/35044930</link>
-            <guid>https://tv.naver.com/v/35044930</guid>
-            <pubDate>Mon, 17 Apr 2023 12:35:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_3/oCYjp_1681734304712dsIjn_JPEG/cover_0000247878_001_20230417212401597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨]내일 전국 비바람…늦은 오후면 대부분 그쳐]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 17 Apr 2023 11:16:24 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230417_28/FG2P4_1681729696244la1e6_JPEG/cover_0000247872_001_20230417200725424.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대학가에서 밀려나는 대학생들, 못 떠나는 직장인들]]></title>
-            <link>https://tv.naver.com/v/35041502</link>
-            <guid>https://tv.naver.com/v/35041502</guid>
-            <pubDate>Mon, 17 Apr 2023 11:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230417_191/7KZv5_1681729741029IFSoh_JPEG/cover_0000247873_001_20230417200715666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
