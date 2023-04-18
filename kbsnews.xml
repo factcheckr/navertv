@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 06:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 07:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 혼자 있는데 창문 ‘스르륵’…원룸 밀집가 염탐한 남성 붙잡혀]]></title>
+            <link>https://tv.naver.com/v/35071812</link>
+            <guid>https://tv.naver.com/v/35071812</guid>
+            <pubDate>Tue, 18 Apr 2023 07:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_18/QKucf_1681801774850tLstt_PNG/cover_0011467913_001_20230418160901128.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘 이슈] “현역이 죄지으면 가는 곳?”…이대남 부글부글]]></title>
+            <link>https://tv.naver.com/v/35071479</link>
+            <guid>https://tv.naver.com/v/35071479</guid>
+            <pubDate>Tue, 18 Apr 2023 07:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_264/mmThS_1681801295772vEFFe_JPEG/cover_0011467907_001_20230418160102645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 엠폭스 환자 3명 추가 확인…누적 16명]]></title>
             <link>https://tv.naver.com/v/35069352</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 18 Apr 2023 04:21:40 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230418_177/OtyOw_1681788631557wGEhK_JPEG/cover_0011467814_001_20230418123010166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 법원, ‘테라’ 권도형 싱가포르 법인 자료 확보 결정]]></title>
-            <link>https://tv.naver.com/v/35063437</link>
-            <guid>https://tv.naver.com/v/35063437</guid>
-            <pubDate>Tue, 18 Apr 2023 04:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_7/cVdLn_1681788622996eX8uU_JPEG/cover_0011467813_001_20230418123001141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰 “북 해킹 조직, 국내 공공기관 등 61곳 컴퓨터 해킹”]]></title>
-            <link>https://tv.naver.com/v/35063366</link>
-            <guid>https://tv.naver.com/v/35063366</guid>
-            <pubDate>Tue, 18 Apr 2023 04:21:40 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230418_184/hWf9K_1681788537385XEmaL_JPEG/cover_0011467812_001_20230418122801127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
