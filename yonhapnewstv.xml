@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 15:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 16:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 검찰, '돈봉투 조달책' 강래구 구속영장 청구]]></title>
+            <link>https://tv.naver.com/v/35130623</link>
+            <guid>https://tv.naver.com/v/35130623</guid>
+            <pubDate>Wed, 19 Apr 2023 16:24:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_259/xqw99_1681918398269muU03_JPEG/cover_cover_MYH20230420000100641_20230420003301927.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[생활날씨] 밤사이 짙은 안개 주의…내일 남부 때 이른 더위]]></title>
             <link>https://tv.naver.com/v/35126571</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Apr 2023 12:33:53 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_241/vnUdE_1681903795229czL4A_JPEG/cover_cover_MYH20230419020900641_20230419202902003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불법 스트리밍 누누티비 "시즌 2 시작"…폐쇄 번복]]></title>
-            <link>https://tv.naver.com/v/35121799</link>
-            <guid>https://tv.naver.com/v/35121799</guid>
-            <pubDate>Wed, 19 Apr 2023 12:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_283/2v5wZ_1681903644607prRAa_JPEG/cover_cover_MYH20230419020800641_20230419202702043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

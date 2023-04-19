@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 15:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 16:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[동탄신도시 일대서도 "전세금 못 줘"…290채 피해 추정]]></title>
+            <link>https://tv.naver.com/v/35131964</link>
+            <guid>https://tv.naver.com/v/35131964</guid>
+            <pubDate>Wed, 19 Apr 2023 16:23:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_145/KR2ZI_1681921391180e7Owz_JPEG/cover_0001051824_001_20230420012201136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전세 사기 미추홀에서만 2,479세대…피해 절반은 2030]]></title>
             <link>https://tv.naver.com/v/35125584</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Apr 2023 13:21:44 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_292/cL1S9_16819095781481bgqP_JPEG/cover_0001051808_001_20230419220503595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/35125184</link>
-            <guid>https://tv.naver.com/v/35125184</guid>
-            <pubDate>Wed, 19 Apr 2023 13:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_5/IOJUI_1681909337343lNytp_JPEG/cover_0001051810_001_20230419220201140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
