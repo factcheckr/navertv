@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Apr 2023 20:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Apr 2023 21:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35134812</link>
+            <guid>https://tv.naver.com/v/35134812</guid>
+            <pubDate>Wed, 19 Apr 2023 21:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_201/4dtRc_1681938888995kGTQs_JPEG/cover_0001051847_001_20230420061401138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/35132983</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Apr 2023 13:21:44 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230419_170/OHqex_1681909751490JTwNV_JPEG/cover_0001051793_001_20230419220811454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수입 합판 속 은밀한 공간…밀수한 담배 13만 보루 적발]]></title>
-            <link>https://tv.naver.com/v/35125435</link>
-            <guid>https://tv.naver.com/v/35125435</guid>
-            <pubDate>Wed, 19 Apr 2023 13:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_230/k1pBD_1681909754905GDKEJ_JPEG/cover_0001051790_001_20230419220801160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
