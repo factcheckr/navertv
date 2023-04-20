@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 20:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 21:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35173113</link>
+            <guid>https://tv.naver.com/v/35173113</guid>
+            <pubDate>Thu, 20 Apr 2023 21:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_126/Tqric_1682025103635lmyeT_JPEG/cover_0001052138_001_20230421061101117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/35172839</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Apr 2023 13:23:17 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_23/K96n9_16819952306711zSE2_JPEG/cover_0001052092_001_20230420215244903.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['난청' 아이들에게 절실한 '장벽 없는 세상']]></title>
-            <link>https://tv.naver.com/v/35164818</link>
-            <guid>https://tv.naver.com/v/35164818</guid>
-            <pubDate>Thu, 20 Apr 2023 13:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230420_285/uaSWe_1681995256384d1PqH_JPEG/cover_0001052093_001_20230420215234101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
