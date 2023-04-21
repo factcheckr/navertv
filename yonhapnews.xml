@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 21:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 22:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 21 Apr 2023 09:18:11 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_110/BbUwP_1682067159716AdBMN_JPEG/1682067146205.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 세무사·AI 협업 모델 개발 옥형석 혜움랩스 대표]]></title>
+            <link>https://tv.naver.com/v/35193287</link>
+            <guid>https://tv.naver.com/v/35193287</guid>
+            <pubDate>Fri, 21 Apr 2023 22:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[6:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_4/86V50_1682065364095IBuAG_JPEG/1682062876266.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UFO? 운석? 위성?…우크라 밤하늘 가른 정체불명 섬광]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Apr 2023 03:19:48 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230420_289/Q0yiM_1681959126326sTyKb_JPEG/1681959108737.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대반격' 코앞 우크라에 프랑스 경전차 도착…국방장관 "와우"]]></title>
-            <link>https://tv.naver.com/v/35116428</link>
-            <guid>https://tv.naver.com/v/35116428</guid>
-            <pubDate>Wed, 19 Apr 2023 09:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230419_241/JYlwi_1681894230612wdlgi_JPEG/1681894212704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
