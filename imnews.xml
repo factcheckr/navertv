@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 08:23:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 09:18:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] ‘이케아 직원 대신 K리그 득점왕?’]]></title>
+            <link>https://tv.naver.com/v/35193565</link>
+            <guid>https://tv.naver.com/v/35193565</guid>
+            <pubDate>Fri, 21 Apr 2023 09:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_182/UVZVq_16820657586997a6fO_JPEG/cover_cover_230421_rubicson_640_20230421172805000.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 황사 유입 중‥주말에도 탁한 공기]]></title>
             <link>https://tv.naver.com/v/35192758</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 04:21:02 GMT</pubDate>
             <content:encoded><![CDATA[9:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_218/sUK8j_1682049475291SqgAH_JPEG/cover_cover_230420_an_thumb_640_20230421125502179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 국회의원 야스쿠니 참배‥기시다는 공물 봉납]]></title>
-            <link>https://tv.naver.com/v/35181235</link>
-            <guid>https://tv.naver.com/v/35181235</guid>
-            <pubDate>Fri, 21 Apr 2023 04:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_96/iJ4xA_1682048058962xueha_JPEG/cover_cover_noon_20230421_122126_1_12_Large_U_20230421123404090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
