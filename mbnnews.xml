@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 06:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 07:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/35189284</link>
+            <guid>https://tv.naver.com/v/35189284</guid>
+            <pubDate>Fri, 21 Apr 2023 07:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_127/0G3zq_1682059897601nCvhh_JPEG/cover_cover_20230421154813_20_845_1326082_1080_7_20230421155101143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 설리·구하라 이어 문빈…외신도 주목하는 K팝 명암]]></title>
             <link>https://tv.naver.com/v/35179388</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 20 Apr 2023 23:19:11 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_36/863ed_1682031460567lr1aI_JPEG/cover_cover_20230421075414_20_605_1326048_1080_7_20230421075701159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]프랑스의 '인간 거미', 150m 건물을 오른 이유는?]]></title>
-            <link>https://tv.naver.com/v/35173849</link>
-            <guid>https://tv.naver.com/v/35173849</guid>
-            <pubDate>Thu, 20 Apr 2023 23:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_85/zF4c8_1682031338943DMvlu_JPEG/cover_cover_20230421075249_20_605_1326047_1080_7_20230421075501137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
