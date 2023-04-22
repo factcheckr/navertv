@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 08:22:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 09:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 22 Apr 2023 08:22:17 GMT</pubDate>
             <content:encoded><![CDATA[11:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_15/CJoqr_1682151303759WpqzY_JPEG/cover_cover_20230422170514_20_675_1326141_1080_7_20230422170941670.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 뉴스와이드 주말] 드디어 입장 밝히는 송영길…탈당 선언할까?]]></title>
+            <link>https://tv.naver.com/v/35217504</link>
+            <guid>https://tv.naver.com/v/35217504</guid>
+            <pubDate>Sat, 22 Apr 2023 09:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[47:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_85/Nubzl_16821522984794DNhl_JPEG/cover_cover_20230422170210_20_675_1326140_1080_7_20230422170901134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드 주말] '돈 봉투 의혹' 강래구 영장 기각…검찰 "납득 어려워"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 11:16:16 GMT</pubDate>
             <content:encoded><![CDATA[2:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_241/qcVOF_16820726583739y3yT_JPEG/cover_cover_20230421192045_20_552_1326105_1080_7_20230421192301117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['건축왕' 남 씨는 동해 망상 개발사업자…최문순 "전세사기와 무관"]]></title>
-            <link>https://tv.naver.com/v/35197492</link>
-            <guid>https://tv.naver.com/v/35197492</guid>
-            <pubDate>Fri, 21 Apr 2023 11:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_177/aYrpV_1682072552107Swnpc_JPEG/cover_cover_20230421191643_20_552_1326104_1080_7_20230421192101126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
