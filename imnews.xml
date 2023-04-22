@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 03:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 04:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[직진하는데 "이게 뭐야!"‥도로 한복판 '자전거 질주']]></title>
+            <link>https://tv.naver.com/v/35213143</link>
+            <guid>https://tv.naver.com/v/35213143</guid>
+            <pubDate>Sat, 22 Apr 2023 04:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_217/MAvaM_1682136167901nIX5O_JPEG/cover_cover_k230422-17_20230422130203999.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 온화한 오후‥중부 곳곳 건조특보]]></title>
             <link>https://tv.naver.com/v/35212392</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 12:32:33 GMT</pubDate>
             <content:encoded><![CDATA[4:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_2/UwLvw_1682077861500ptlBF_JPEG/cover_cover_desk_20230421_195315_1_5_Large_20230421205005086.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[항저우행 태극궁사 확정‥오진혁 4회 연속 출전]]></title>
-            <link>https://tv.naver.com/v/35199698</link>
-            <guid>https://tv.naver.com/v/35199698</guid>
-            <pubDate>Fri, 21 Apr 2023 12:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_193/irSfd_1682077535866h7SX3_JPEG/cover_cover_desk_20230421_203432_1_21_Large_20230421204502330.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
