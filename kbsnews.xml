@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 05:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 06:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말엔] “삼겹살 먹으러 이 아침에?”…알고 보니 또 ‘만취 운전’]]></title>
+            <link>https://tv.naver.com/v/35215033</link>
+            <guid>https://tv.naver.com/v/35215033</guid>
+            <pubDate>Sat, 22 Apr 2023 06:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_92/Rph5T_1682143277794awyP2_JPEG/cover_0011470888_001_20230422150101117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] 대부분 지역 짙은 황사…중부 내륙 건조특보]]></title>
             <link>https://tv.naver.com/v/35212504</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 23:16:59 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_194/uO89N_1682117715599nRe0g_JPEG/cover_0011470838_001_20230422075501126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야, 전세사기 법안 27일 본회의 처리 목표]]></title>
-            <link>https://tv.naver.com/v/35209837</link>
-            <guid>https://tv.naver.com/v/35209837</guid>
-            <pubDate>Fri, 21 Apr 2023 23:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_169/v0a3u_1682117318380KhWoE_JPEG/cover_0011470837_001_20230422074801139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
