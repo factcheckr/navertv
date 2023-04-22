@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 09:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 10:18:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 태안 앞바다에서 발견된 '수영하는 멧돼지']]></title>
+            <link>https://tv.naver.com/v/35219803</link>
+            <guid>https://tv.naver.com/v/35219803</guid>
+            <pubDate>Sat, 22 Apr 2023 10:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_252/bR3St_1682157593074E1Cfo_PNG/cover_0001052508_001_20230422185901120.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[D리포트] 미 화물열차-트럭 충돌 사고…사고 직전 운전자 대피]]></title>
+            <link>https://tv.naver.com/v/35219586</link>
+            <guid>https://tv.naver.com/v/35219586</guid>
+            <pubDate>Sat, 22 Apr 2023 10:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_37/luoqG_1682156793503qEnOr_PNG/cover_0001052503_001_20230422184601133.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA["대리 부르셔야죠" 부엉이와 올빼미, 어쩌다 '헌터' 됐나]]></title>
             <link>https://tv.naver.com/v/35218395</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 23:17:20 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_287/0AitS_1682116713376mVzmm_JPEG/cover_0001052417_001_20230422073701129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2단까지 '완전 재사용' 로켓 탄생 눈앞…목표는 화성]]></title>
-            <link>https://tv.naver.com/v/35209738</link>
-            <guid>https://tv.naver.com/v/35209738</guid>
-            <pubDate>Fri, 21 Apr 2023 23:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_59/FLMxl_1682116377884Nts6O_JPEG/cover_0001052415_001_20230422073201108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[텔레그램으로 필로폰 구입해 투약…중학생 3명 입건]]></title>
-            <link>https://tv.naver.com/v/35209718</link>
-            <guid>https://tv.naver.com/v/35209718</guid>
-            <pubDate>Fri, 21 Apr 2023 23:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_6/Ehzqp_1682116040876f8ew7_JPEG/cover_0001052414_001_20230422072701115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
