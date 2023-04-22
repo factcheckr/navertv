@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 01:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 02:35:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 전국 미세먼지 ‘나쁨∼매우 나쁨’…해안가 강풍]]></title>
-            <link>https://tv.naver.com/v/35210661</link>
-            <guid>https://tv.naver.com/v/35210661</guid>
-            <pubDate>Sat, 22 Apr 2023 01:21:59 GMT</pubDate>
+            <title><![CDATA[[930 날씨] 전국 미세먼지 ‘나쁨∼매우 나쁨’…해안가 강풍]]></title>
+            <link>https://tv.naver.com/v/35211863</link>
+            <guid>https://tv.naver.com/v/35211863</guid>
+            <pubDate>Sat, 22 Apr 2023 02:34:29 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_190/3xqA0_1682124207926py1tS_JPEG/cover_0011470862_001_20230422094301119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_84/L5ZcX_1682130329116XmS1x_JPEG/cover_0011470862_001_20230422112501123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[크랩] 유명 옥수수 과자가 포장지 그림을 싹 지운 이유]]></title>
+            <link>https://tv.naver.com/v/35211633</link>
+            <guid>https://tv.naver.com/v/35211633</guid>
+            <pubDate>Sat, 22 Apr 2023 02:34:29 GMT</pubDate>
+            <content:encoded><![CDATA[4:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_267/xSzjt_16821293352658fxpb_JPEG/cover_0011470871_001_20230422110701111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“바이든, 정상회담서 확장억제 추가 조치 약속”]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 22:16:21 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_3/ytemd_16821142070444BwFp_JPEG/cover_0011470830_001_20230422065601150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기도 고양시, 서울시 중랑·광진구 정전]]></title>
-            <link>https://tv.naver.com/v/35209568</link>
-            <guid>https://tv.naver.com/v/35209568</guid>
-            <pubDate>Fri, 21 Apr 2023 22:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_231/5eR6L_1682114130661KImvR_JPEG/cover_0011470829_001_20230422065518645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
