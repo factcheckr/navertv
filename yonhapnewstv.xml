@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 19:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 20:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 595회]]></title>
+            <link>https://tv.naver.com/v/35228866</link>
+            <guid>https://tv.naver.com/v/35228866</guid>
+            <pubDate>Sat, 22 Apr 2023 20:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[30:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_25/pBzFb_1682194372426CLF9t_JPEG/cover_cover_MYH20230421017900641_20230423050101688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송영길 "즉시 귀국…24일 오후 3시 인천 도착"]]></title>
             <link>https://tv.naver.com/v/35225660</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Apr 2023 09:16:44 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_68/A2Vjl_1682152343993X9XHD_JPEG/cover_cover_MYH20230422008400641_20230422173102021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중학생 집단 필로폰·고교생 마약상…저연령화 심각]]></title>
-            <link>https://tv.naver.com/v/35217940</link>
-            <guid>https://tv.naver.com/v/35217940</guid>
-            <pubDate>Sat, 22 Apr 2023 09:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_280/R4Kov_1682152193145wEEK9_JPEG/cover_cover_MYH20230422008300641_20230422172902160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
