@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 04:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 05:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 송영길 파리 기자회견 "민주당 탈당…귀국해 검찰조사 받겠다"]]></title>
+            <link>https://tv.naver.com/v/35232764</link>
+            <guid>https://tv.naver.com/v/35232764</guid>
+            <pubDate>Sun, 23 Apr 2023 05:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[5:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_93/n13Y3_1682223905646sQ7S5_JPEG/cover_0001052605_001_20230423132301098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 충청 이남 황사 영향…서울 낮 22도]]></title>
             <link>https://tv.naver.com/v/35231606</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Apr 2023 13:19:24 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_225/jxhLO_1682168597467aGtM2_PNG/cover_0001052508_001_20230422220220675.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA["대리 부르셔야죠" 부엉이와 올빼미, 어쩌다 '헌터' 됐나]]></title>
-            <link>https://tv.naver.com/v/35222932</link>
-            <guid>https://tv.naver.com/v/35222932</guid>
-            <pubDate>Sat, 22 Apr 2023 13:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_86/B8wwO_1682167428350u1IN9_JPEG/cover_0001052425_001_20230422214209164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

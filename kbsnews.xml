@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 04:22:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 05:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] ‘불타는 피자’ 옮겨붙어 스페인 식당 불타…14명 사상]]></title>
+            <link>https://tv.naver.com/v/35233284</link>
+            <guid>https://tv.naver.com/v/35233284</guid>
+            <pubDate>Sun, 23 Apr 2023 05:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_16/LwEHo_1682226041777LwJGH_JPEG/cover_0011471111_001_20230423140001185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] ‘건조 특보’ 확대…내일 미세먼지 옅어져]]></title>
             <link>https://tv.naver.com/v/35231684</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Apr 2023 13:19:04 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_297/ZHXiy_1682168458347eHBO7_JPEG/cover_0011470990_001_20230422220007963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말&문화] “만화 원작이 대세”…뮤지컬도 접수]]></title>
-            <link>https://tv.naver.com/v/35223289</link>
-            <guid>https://tv.naver.com/v/35223289</guid>
-            <pubDate>Sat, 22 Apr 2023 13:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_141/pWLY4_1682168467891wiPm2_JPEG/cover_0011470971_001_20230422215957645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
