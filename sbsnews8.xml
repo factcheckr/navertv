@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 20:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 21:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35249976</link>
+            <guid>https://tv.naver.com/v/35249976</guid>
+            <pubDate>Sun, 23 Apr 2023 21:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_228/ImNAg_1682284236062GgfY7_JPEG/cover_0001052683_001_20230424061001181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["전세 사기 피해자, 우선매수권 · 대출 지원" 특별법 추진]]></title>
             <link>https://tv.naver.com/v/35243509</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 23 Apr 2023 06:21:39 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230423_179/XEvLT_1682228095680kp7PR_JPEG/cover_0001052619_001_20230423143401166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 충청 이남 황사 영향…서울 낮 22도]]></title>
-            <link>https://tv.naver.com/v/35231606</link>
-            <guid>https://tv.naver.com/v/35231606</guid>
-            <pubDate>Sun, 23 Apr 2023 03:18:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_174/DIs36_1682219552968RzpNy_JPEG/cover_0001052601_001_20230423121201149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
