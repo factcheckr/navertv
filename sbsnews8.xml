@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 05:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 06:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 전세보증사고 역대 최대…금감원 "경매 유예 · 금융 지원"]]></title>
+            <link>https://tv.naver.com/v/35233896</link>
+            <guid>https://tv.naver.com/v/35233896</guid>
+            <pubDate>Sun, 23 Apr 2023 06:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_179/XEvLT_1682228095680kp7PR_JPEG/cover_0001052619_001_20230423143401166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 송영길 파리 기자회견 "민주당 탈당…귀국해 검찰조사 받겠다"]]></title>
             <link>https://tv.naver.com/v/35232764</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Apr 2023 13:19:24 GMT</pubDate>
             <content:encoded><![CDATA[0:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230422_139/W18UI_1682168894344KqVNO_JPEG/cover_0001052526_001_20230422220801129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 태안 앞바다에서 발견된 '수영하는 멧돼지']]></title>
-            <link>https://tv.naver.com/v/35223369</link>
-            <guid>https://tv.naver.com/v/35223369</guid>
-            <pubDate>Sat, 22 Apr 2023 13:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230422_225/jxhLO_1682168597467aGtM2_PNG/cover_0001052508_001_20230422220220675.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

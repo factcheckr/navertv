@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Apr 2023 05:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 06:22:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]이정근의 ‘인맥 팔이’, 누구 팔고 돈 받았나?]]></title>
+            <link>https://tv.naver.com/v/35234366</link>
+            <guid>https://tv.naver.com/v/35234366</guid>
+            <pubDate>Sun, 23 Apr 2023 06:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[22:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_54/KlwBm_1682230194115IjyU5_JPEG/cover_0000248217_001_20230423150201498.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앞으로 뉴스]12년 만에 국빈 방미…26일 정상회담]]></title>
             <link>https://tv.naver.com/v/35233423</link>
@@ -54,6 +62,14 @@
             <pubDate>Sun, 23 Apr 2023 05:17:30 GMT</pubDate>
             <content:encoded><![CDATA[12:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230423_256/kKi6i_1682226669290GJr8z_JPEG/cover_0000248210_001_20230423140643852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[송영길 ‘돈봉투 의혹’ 회견…“책임지고 탈당” 내일 귀국]]></title>
+            <link>https://tv.naver.com/v/35233380</link>
+            <guid>https://tv.naver.com/v/35233380</guid>
+            <pubDate>Sun, 23 Apr 2023 06:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[32:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230423_122/Tws36_16822272318920AsRX_JPEG/cover_0000248209_001_20230423140601581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[앵커의 마침표]안전벨트를 맬 시간]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 21 Apr 2023 14:17:29 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230421_155/JgXdE_1682083630208sFQp4_JPEG/cover_0000248156_001_20230421222601596.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美, 러시아에 “한국은 미국의 동맹” 개입 시사]]></title>
-            <link>https://tv.naver.com/v/35201849</link>
-            <guid>https://tv.naver.com/v/35201849</guid>
-            <pubDate>Fri, 21 Apr 2023 13:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_120/1Ls4J_1682081403619iQ4iA_JPEG/cover_0000248142_001_20230421214901478.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]중학교 같은 반 친구 셋이 필로폰 함께 투약]]></title>
-            <link>https://tv.naver.com/v/35198943</link>
-            <guid>https://tv.naver.com/v/35198943</guid>
-            <pubDate>Fri, 21 Apr 2023 12:33:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230421_102/pJ4ch_1682075776985bXNmV_JPEG/cover_0000248144_001_20230421201526224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
