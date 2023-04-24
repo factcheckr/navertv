@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 20:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 21:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35287919</link>
+            <guid>https://tv.naver.com/v/35287919</guid>
+            <pubDate>Mon, 24 Apr 2023 21:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_241/uVnw3_16823705814191OWVX_JPEG/cover_0001052958_001_20230425060901111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/35286092</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Apr 2023 13:23:06 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_99/n82iL_1682340465464Tjg5A_JPEG/cover_0001052923_001_20230424214601168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['50억 클럽' 관련 산업은행 · 호반건설 압수수색]]></title>
-            <link>https://tv.naver.com/v/35278791</link>
-            <guid>https://tv.naver.com/v/35278791</guid>
-            <pubDate>Mon, 24 Apr 2023 13:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_263/W9Qgp_1682340326872VBAV1_JPEG/cover_0001052926_001_20230424214501883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
