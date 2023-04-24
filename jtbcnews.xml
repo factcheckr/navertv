@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 22:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 23:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 전국에 비, 기온 떨어져 쌀쌀…서울 한낮 14도]]></title>
+            <link>https://tv.naver.com/v/35288981</link>
+            <guid>https://tv.naver.com/v/35288981</guid>
+            <pubDate>Mon, 24 Apr 2023 23:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_211/rw6Wm_1682378128190vbvIs_JPEG/cover_0000340576_001_20230425081501440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[균형외교 탈피?…'외교 시험대' 오른 윤 대통령｜뉴스룸 뒤 (D)]]></title>
             <link>https://tv.naver.com/v/35280827</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Apr 2023 10:19:56 GMT</pubDate>
             <content:encoded><![CDATA[12:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_149/zkhHo_1682328609455ThslO_JPEG/cover_0000340518_001_20230424182601510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D:이슈] 이색적인 '갈매기 흉내내기' 콘테스트…개최 이유 들어보니]]></title>
-            <link>https://tv.naver.com/v/35271704</link>
-            <guid>https://tv.naver.com/v/35271704</guid>
-            <pubDate>Mon, 24 Apr 2023 10:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_157/osCDH_168232827138513gyw_JPEG/cover_0000340516_001_20230424182401532.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
