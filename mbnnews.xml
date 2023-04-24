@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Apr 2023 06:24:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 07:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/35265237</link>
+            <guid>https://tv.naver.com/v/35265237</guid>
+            <pubDate>Mon, 24 Apr 2023 07:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_140/qvChh_1682319346662DYarO_JPEG/cover_cover_20230424155207_20_845_1326243_1080_7_20230424155511198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 김주애 명품 벗었지만…주민들 "TV에 그만 좀 나왔으면"]]></title>
             <link>https://tv.naver.com/v/35256156</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 23 Apr 2023 23:18:37 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_17/P7L6o_1682289590860GF6nd_JPEG/cover_cover_20230424073349_20_605_1326205_1080_7_20230424073901176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['수단 내란 격화' 각국 자국민 철수작전 난항]]></title>
-            <link>https://tv.naver.com/v/35250434</link>
-            <guid>https://tv.naver.com/v/35250434</guid>
-            <pubDate>Sun, 23 Apr 2023 23:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_261/Y5GaK_1682289370012DV3P5_JPEG/cover_cover_20230424073156_20_605_1326204_1080_7_20230424073501132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
