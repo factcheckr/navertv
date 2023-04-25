@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 06:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 07:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]식빵언니 선수촌에 떴다…“다시 태극마크를 달아 설레”]]></title>
+            <link>https://tv.naver.com/v/35302410</link>
+            <guid>https://tv.naver.com/v/35302410</guid>
+            <pubDate>Tue, 25 Apr 2023 07:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_245/UBvBy_1682404211900VUpos_JPEG/cover_0000248339_001_20230425152801589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹 ‘일본 무릎’ 발언 파문에…대통령실 해명]]></title>
             <link>https://tv.naver.com/v/35300095</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Apr 2023 12:35:15 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230424_102/PmPz1_1682335634662lK2NR_JPEG/cover_0000248302_001_20230424202610636.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]내일 전국 대부분 비…한낮 반짝 쌀쌀]]></title>
-            <link>https://tv.naver.com/v/35275837</link>
-            <guid>https://tv.naver.com/v/35275837</guid>
-            <pubDate>Mon, 24 Apr 2023 12:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230424_258/QN4h5_1682335592632muHmb_JPEG/cover_0000248304_001_20230424202601669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
