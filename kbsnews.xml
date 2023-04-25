@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 13:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 14:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 밤까지 5mm 미만 비…내일 9~20도]]></title>
+            <link>https://tv.naver.com/v/35320012</link>
+            <guid>https://tv.naver.com/v/35320012</guid>
+            <pubDate>Tue, 25 Apr 2023 14:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_167/AY40Q_16824314023860uGgq_JPEG/cover_0011472821_001_20230425230301115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘아들 다니는 회사에 수의계약을?’…대구교통공사 간부 도덕성 논란]]></title>
             <link>https://tv.naver.com/v/35318270</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Apr 2023 13:21:15 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_86/TpM9q_1682428040172U8Yx1_JPEG/cover_0011472702_001_20230425220601192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경상국립대에 ‘반도체 연구소 클린룸’ 준공]]></title>
-            <link>https://tv.naver.com/v/35317821</link>
-            <guid>https://tv.naver.com/v/35317821</guid>
-            <pubDate>Tue, 25 Apr 2023 13:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_92/RyI4U_1682427690487CjuxC_JPEG/cover_0011472814_001_20230425220116032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
