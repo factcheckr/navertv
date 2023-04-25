@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Apr 2023 20:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Apr 2023 21:17:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35326483</link>
+            <guid>https://tv.naver.com/v/35326483</guid>
+            <pubDate>Tue, 25 Apr 2023 21:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_217/BJoqV_16824568567829S8gv_JPEG/cover_0001053287_001_20230426060701124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방미 이틀째…알링턴 국립묘지 헌화]]></title>
             <link>https://tv.naver.com/v/35326163</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Apr 2023 13:21:35 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230425_238/m6LOn_1682426873101BgHQw_JPEG/cover_0001053219_001_20230425214645467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인상 폭 어긴 불법 계약 34%…'최우선변제권' 길 열리나]]></title>
-            <link>https://tv.naver.com/v/35317217</link>
-            <guid>https://tv.naver.com/v/35317217</guid>
-            <pubDate>Tue, 25 Apr 2023 13:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230425_16/0iH4O_1682426867875tSwIV_JPEG/cover_0001053209_001_20230425214633980.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
