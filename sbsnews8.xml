@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 19:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 20:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 윤 대통령 "힘에 의한 현상 변경 시도는 세계 안보 위협"]]></title>
+            <link>https://tv.naver.com/v/35362716</link>
+            <guid>https://tv.naver.com/v/35362716</guid>
+            <pubDate>Wed, 26 Apr 2023 20:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_44/YzhFg_1682537238379uCDFN_JPEG/cover_0001053568_001_20230427042501143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 백악관에 걸린 한미 국기…윤·바이든 의장대 사열]]></title>
             <link>https://tv.naver.com/v/35362624</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Apr 2023 13:21:42 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_70/5Nfog_16825151236126wYoA_JPEG/cover_0001053523_001_20230426221730802.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["1억 넘게 돌려줬다"…수도권 역전세 4만 5천 건 추정]]></title>
-            <link>https://tv.naver.com/v/35355901</link>
-            <guid>https://tv.naver.com/v/35355901</guid>
-            <pubDate>Wed, 26 Apr 2023 13:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_242/4iIl8_1682515139991OHYzA_JPEG/cover_0001053530_001_20230426221720628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
