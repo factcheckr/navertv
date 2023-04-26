@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 13:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 14:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“한 마리에 415만 원 손해…농가 2만 곳 폐업 위기”]]></title>
+            <link>https://tv.naver.com/v/35356622</link>
+            <guid>https://tv.naver.com/v/35356622</guid>
+            <pubDate>Wed, 26 Apr 2023 14:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_53/7l9rw_16825162738559VMxC_JPEG/cover_0011473678_001_20230426223701122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스9 날씨] 내일 큰 일교차 주의…아침까지 짙은 안개]]></title>
             <link>https://tv.naver.com/v/35355843</link>
@@ -45,7 +53,7 @@
             <guid>https://tv.naver.com/v/35355815</guid>
             <pubDate>Wed, 26 Apr 2023 13:21:21 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_200/wptjr_1682514991563PNJjB_JPEG/cover_0011473665_001_20230426221539757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_186/1sTjV_1682515893162EWGFd_JPEG/cover_0011473665_001_20230426221539757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘학폭 합의’ 두산 김유성, 1군 불펜 피칭…1군 데뷔 임박]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Apr 2023 13:21:21 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_178/AG26N_1682514244193rVHk2_JPEG/cover_0011473670_001_20230426220347893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘취약 노동자 지원’ 토론회 개최…“조례 정비 필요”]]></title>
-            <link>https://tv.naver.com/v/35355313</link>
-            <guid>https://tv.naver.com/v/35355313</guid>
-            <pubDate>Wed, 26 Apr 2023 13:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_18/QnfTk_1682514239967KI0NR_JPEG/cover_0011473669_001_20230426220340890.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

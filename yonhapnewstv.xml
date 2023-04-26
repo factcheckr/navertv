@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 13:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 14:18:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 출근길 쌀쌀…낮부터 '따뜻']]></title>
+            <link>https://tv.naver.com/v/35356720</link>
+            <guid>https://tv.naver.com/v/35356720</guid>
+            <pubDate>Wed, 26 Apr 2023 14:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_277/jirfa_1682516435668CaGLm_JPEG/cover_cover_MYH20230426022900641_20230426224003955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['갈변현상' 동아제약 어린이 해열제 회수]]></title>
             <link>https://tv.naver.com/v/35355925</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Apr 2023 11:15:54 GMT</pubDate>
             <content:encoded><![CDATA[0:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_273/i17uM_16825073737828L396_JPEG/cover_cover_MYH20230426019500641_20230426200902185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['자료·증인' 쌓이는 대장동 재판…올해 결론 불투명]]></title>
-            <link>https://tv.naver.com/v/35351302</link>
-            <guid>https://tv.naver.com/v/35351302</guid>
-            <pubDate>Wed, 26 Apr 2023 11:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_17/lmiUZ_1682507363590YWNrh_JPEG/cover_cover_MYH20230426019400641_20230426200804171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
