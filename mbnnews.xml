@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 06:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 07:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/35380387</link>
+            <guid>https://tv.naver.com/v/35380387</guid>
+            <pubDate>Thu, 27 Apr 2023 07:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_245/E4bNU_168257794837759AIv_JPEG/cover_cover_20230427154017_20_845_1326538_1080_7_20230427154501167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] '음주운전' 이루, 운전자 바꿔치기 들통…7개월 만에 재판에]]></title>
             <link>https://tv.naver.com/v/35375007</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Apr 2023 23:19:25 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_11/J3WUK_1682547727003rVWnK_JPEG/cover_cover_20230427071813_20_605_1326506_1080_7_20230427072101128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[한미] 바이든 "반도체법, 한국도 윈윈" 한미 핵심기술대화 신설]]></title>
-            <link>https://tv.naver.com/v/35363837</link>
-            <guid>https://tv.naver.com/v/35363837</guid>
-            <pubDate>Wed, 26 Apr 2023 23:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_31/vwuCu_1682547604002lOPo0_JPEG/cover_cover_20230427071615_20_605_1326505_1080_7_20230427071901125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
