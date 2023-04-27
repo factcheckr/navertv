@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 15:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 16:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 오늘도 맑고 일교차 커…밤부터 제주·전남 해안 비]]></title>
+            <link>https://tv.naver.com/v/35400543</link>
+            <guid>https://tv.naver.com/v/35400543</guid>
+            <pubDate>Thu, 27 Apr 2023 16:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_159/KztDC_1682611834391klIbJ_JPEG/cover_0001053866_001_20230428011001143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['워싱턴 선언' 채택한 한미…"핵 공격 땐 북한 정권 종말"]]></title>
             <link>https://tv.naver.com/v/35395566</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Apr 2023 13:23:17 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230427_69/5paLn_1682599792422ewRlt_JPEG/cover_0001053706_001_20230427214901102.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 대장동 50억, 김건희 여사 특검법 패스트트랙 지정 통과…국민의힘 표결 거부 퇴장]]></title>
-            <link>https://tv.naver.com/v/35389376</link>
-            <guid>https://tv.naver.com/v/35389376</guid>
-            <pubDate>Thu, 27 Apr 2023 11:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_82/uXfVG_1682591792146tY8AV_JPEG/cover_0001053809_001_20230427193501135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
