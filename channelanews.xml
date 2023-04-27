@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 08:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 09:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상]윤 대통령, 백악관 만찬서 ‘아메리칸 파이’ 팝송 열창]]></title>
+            <link>https://tv.naver.com/v/35386827</link>
+            <guid>https://tv.naver.com/v/35386827</guid>
+            <pubDate>Thu, 27 Apr 2023 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_277/qDSLr_1682586509705Q7nhd_JPEG/cover_0000248511_001_20230427180801576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘의 영상]이 텐션 주체 불가…내가 찐팬이다]]></title>
+            <link>https://tv.naver.com/v/35386496</link>
+            <guid>https://tv.naver.com/v/35386496</guid>
+            <pubDate>Thu, 27 Apr 2023 09:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230427_105/TSR0N_16825861330039KJJQ_PNG/cover_0000248510_001_20230427180001660.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[송영길, 김의겸에 ‘언론 창구’ 역할 부탁했다가 취소]]></title>
             <link>https://tv.naver.com/v/35377628</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 26 Apr 2023 12:34:35 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230426_2/nhKQP_1682509207413ajDC5_JPEG/cover_0000248438_001_20230426203919635.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 정부 ‘쌍두마차’ 장관…한동훈·원희룡 미묘한 경쟁?]]></title>
-            <link>https://tv.naver.com/v/35352254</link>
-            <guid>https://tv.naver.com/v/35352254</guid>
-            <pubDate>Wed, 26 Apr 2023 12:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[8:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_205/Cuxiy_1682509362700oPw2B_JPEG/cover_0000248434_001_20230426203900247.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“친구가 친구 염탐” 질문에…尹 “한미동맹 신뢰 못 흔든다”]]></title>
-            <link>https://tv.naver.com/v/35352242</link>
-            <guid>https://tv.naver.com/v/35352242</guid>
-            <pubDate>Wed, 26 Apr 2023 12:34:35 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230426_142/z3yF4_1682509220105FhnlL_JPEG/cover_0000248436_001_20230426203849212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
