@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Apr 2023 13:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 14:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 제주 내일 저녁까지 비…모레까지 초속 20m↑ 강풍]]></title>
+            <link>https://tv.naver.com/v/35431445</link>
+            <guid>https://tv.naver.com/v/35431445</guid>
+            <pubDate>Fri, 28 Apr 2023 14:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_257/i6gCj_1682689414077XHVn0_JPEG/cover_0011475225_001_20230428224301153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스9 날씨] 주말인 내일 전국에 비…동해안과 제주에 강풍]]></title>
             <link>https://tv.naver.com/v/35430741</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Apr 2023 13:20:08 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230428_3/aDi6O_16826874255435XgTg_JPEG/cover_0011475294_001_20230428221007965.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북서 385명 확진…재택치료자 2천2백여 명]]></title>
-            <link>https://tv.naver.com/v/35430437</link>
-            <guid>https://tv.naver.com/v/35430437</guid>
-            <pubDate>Fri, 28 Apr 2023 13:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[0:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230428_44/v3dyV_1682687412550WNOVj_JPEG/cover_0011475293_001_20230428221001160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
