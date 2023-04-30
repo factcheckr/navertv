@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 20:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 21:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35478490</link>
+            <guid>https://tv.naver.com/v/35478490</guid>
+            <pubDate>Sun, 30 Apr 2023 21:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230501_125/X9o2t_16828890422758Okm1_JPEG/cover_0001054413_001_20230501061001174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[문화현장] 전통 수묵화와 유화의 융합 '수묵풍경']]></title>
             <link>https://tv.naver.com/v/35472885</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 30 Apr 2023 06:21:50 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230430_142/bmhu8_1682833191044YMv05_JPEG/cover_0001054337_001_20230430143901125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 전국 대체로 맑고 일교차 커…영동 중심 강풍·건조]]></title>
-            <link>https://tv.naver.com/v/35461293</link>
-            <guid>https://tv.naver.com/v/35461293</guid>
-            <pubDate>Sun, 30 Apr 2023 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_237/N366C_1682824840581oJ1PP_JPEG/cover_0001054327_001_20230430122001135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
