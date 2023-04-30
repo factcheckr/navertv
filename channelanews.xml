@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 05:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 06:22:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]‘돈봉투 의혹’ 관심인물, 강래구와 박 보좌관은 누구?]]></title>
+            <link>https://tv.naver.com/v/35464136</link>
+            <guid>https://tv.naver.com/v/35464136</guid>
+            <pubDate>Sun, 30 Apr 2023 06:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[13:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_281/Jm7vz_168283480417664A6l_JPEG/cover_0000248680_001_20230430150201556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앞으로 뉴스]근로자의 날…서울 곳곳 집회]]></title>
             <link>https://tv.naver.com/v/35462736</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 29 Apr 2023 11:15:06 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230429_283/Gi0cj_1682766131490hfLPG_JPEG/cover_0000248659_001_20230429200101574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[동앵과 뉴스터디]‘의혹’ 터진 민주당 전당대회, 왜 돈봉투까지 등장했을까?]]></title>
-            <link>https://tv.naver.com/v/35443520</link>
-            <guid>https://tv.naver.com/v/35443520</guid>
-            <pubDate>Sat, 29 Apr 2023 06:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[15:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230429_7/IisQF_1682748475491heANH_JPEG/cover_0000248638_001_20230429150201567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
