@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Apr 2023 12:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 13:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트] 전세 사기의 배후, 누가 '판'을 짰나]]></title>
+            <link>https://tv.naver.com/v/35472241</link>
+            <guid>https://tv.naver.com/v/35472241</guid>
+            <pubDate>Sun, 30 Apr 2023 13:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[36:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_4/0xe3G_1682860080489JHTVc_JPEG/cover_cover_straight_20230430_211016_1_1_Large_20230430215702179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스트레이트 예고] 전세 사기의 배후, 누가 '판'을 짰나]]></title>
             <link>https://tv.naver.com/v/35471012</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 29 Apr 2023 23:16:53 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230430_79/vnSYL_1682807151298W2tD1_JPEG/cover_cover_today_20230430_070622_1_5_Large_20230430072537620.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 송영길 집·후원조직 압수수색]]></title>
-            <link>https://tv.naver.com/v/35458676</link>
-            <guid>https://tv.naver.com/v/35458676</guid>
-            <pubDate>Sat, 29 Apr 2023 23:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_110/KaTnx_16828071646006X10l_JPEG/cover_cover_today_20230430_070521_1_4_Large_20230430072528550.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
