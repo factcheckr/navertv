@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 20:19:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 21:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35509395</link>
+            <guid>https://tv.naver.com/v/35509395</guid>
+            <pubDate>Mon, 01 May 2023 21:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_176/oL0kN_1682975508422iyqSI_JPEG/cover_0001054704_001_20230502061101107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 다소 더운 한낮, 전국 25도 안팎…큰 일교차 유의]]></title>
             <link>https://tv.naver.com/v/35508551</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 May 2023 15:17:38 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230501_58/WLmrY_1682953029038qMY0k_JPEG/cover_0001054654_001_20230501235611267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라 "곧 대반격"…교황은 전쟁 끝낼 비밀임무 수행 중]]></title>
-            <link>https://tv.naver.com/v/35505677</link>
-            <guid>https://tv.naver.com/v/35505677</guid>
-            <pubDate>Mon, 01 May 2023 15:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230501_12/pMK5c_1682953022515Na6AQ_JPEG/cover_0001054656_001_20230501235601163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
