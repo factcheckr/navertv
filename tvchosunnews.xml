@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 May 2023 04:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 May 2023 05:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] "난 OO 전과자"…주택가 난동남의 정체]]></title>
+            <link>https://tv.naver.com/v/35486023</link>
+            <guid>https://tv.naver.com/v/35486023</guid>
+            <pubDate>Mon, 01 May 2023 05:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230501_196/0RC70_1682917312133IFoJi_JPEG/cover_2023050190104_thumb_015642_20230501140101477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[네트워크 초대석] 이동환 고양시장 "100만 송이 꽃의 향연으로 초대"]]></title>
             <link>https://tv.naver.com/v/35480026</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 30 Apr 2023 11:14:29 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230430_6/GT5lf_1682852206681L2nVi_JPEG/cover_2023043090074_thumb_075003_20230430195601581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4월 30일 '뉴스 7' 클로징]]></title>
-            <link>https://tv.naver.com/v/35469711</link>
-            <guid>https://tv.naver.com/v/35469711</guid>
-            <pubDate>Sun, 30 Apr 2023 11:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230430_63/xHxoj_1682851896004dzGRi_JPEG/cover_2023043090080_thumb_074801_20230430195125305.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
