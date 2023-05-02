@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 01:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 02:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] '돈봉투 의혹' 송영길 전 대표, 일방적으로 검찰 '자진출석']]></title>
+            <link>https://tv.naver.com/v/35513043</link>
+            <guid>https://tv.naver.com/v/35513043</guid>
+            <pubDate>Tue, 02 May 2023 02:36:15 GMT</pubDate>
+            <content:encoded><![CDATA[5:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_95/tRrqF_1682991542526Tp8X5_JPEG/cover_2023050290052_thumb_103322_20230502103604537.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5월 2일 '뉴스 퍼레이드' 오프닝]]></title>
             <link>https://tv.naver.com/v/35510843</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 01 May 2023 14:17:07 GMT</pubDate>
             <content:encoded><![CDATA[7:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230501_49/glb0s_1682947491704SB2gw_JPEG/cover_2023050190250_thumb_101746_20230501222110798.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울서 '노동절' 6만명 집회…교통 불편에 쓰레기 더미 '눈살']]></title>
-            <link>https://tv.naver.com/v/35502192</link>
-            <guid>https://tv.naver.com/v/35502192</guid>
-            <pubDate>Mon, 01 May 2023 14:17:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230501_147/DCorg_1682947341572GifIk_JPEG/cover_2023050190206_thumb_101642_20230501222101565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
