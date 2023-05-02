@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 20:19:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 21:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35547271</link>
+            <guid>https://tv.naver.com/v/35547271</guid>
+            <pubDate>Tue, 02 May 2023 21:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_247/kEOYh_1683061903760qSr8N_JPEG/cover_0001055012_001_20230503061101105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/35545153</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 May 2023 15:19:44 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_56/vJrhQ_1683038770978b2Jp5_JPEG/cover_0001054964_001_20230502234511914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성관계 유인 후 "얘 미성년자"…무릎 꿇리고 2억 뜯었다]]></title>
-            <link>https://tv.naver.com/v/35541045</link>
-            <guid>https://tv.naver.com/v/35541045</guid>
-            <pubDate>Tue, 02 May 2023 15:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_1/02wWv_1683038771377Q45zP_JPEG/cover_0001054963_001_20230502234501138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
