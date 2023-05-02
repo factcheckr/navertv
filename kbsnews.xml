@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 13:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 14:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사기획 창] 누구를 위한 급식인가]]></title>
+            <link>https://tv.naver.com/v/35539494</link>
+            <guid>https://tv.naver.com/v/35539494</guid>
+            <pubDate>Tue, 02 May 2023 14:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[48:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_10/qt5lh_1683036867049dK9RE_JPEG/cover_0011477338_001_20230502225801145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일 중부 낮 기온 더 올라…오후부터 제주 비]]></title>
             <link>https://tv.naver.com/v/35537521</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 May 2023 13:21:26 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_176/7Fy7g_1683032577528fRwaz_JPEG/cover_0011477241_001_20230502220148505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주민 몰래 도심 가운데 사격장? “SOFA 협정 때문에…”]]></title>
-            <link>https://tv.naver.com/v/35537370</link>
-            <guid>https://tv.naver.com/v/35537370</guid>
-            <pubDate>Tue, 02 May 2023 13:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_160/TAy7e_1683032539116qpQyS_JPEG/cover_0011477236_001_20230502220138905.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
