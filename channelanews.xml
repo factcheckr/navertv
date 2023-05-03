@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 07:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 08:22:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스][단독]밥해주던 의무경찰 사라지자…“함상에서 배달시켜!”]]></title>
+            <link>https://tv.naver.com/v/35564307</link>
+            <guid>https://tv.naver.com/v/35564307</guid>
+            <pubDate>Wed, 03 May 2023 08:22:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_117/zIJyv_1683098452389Qgi4z_JPEG/cover_0000248873_001_20230503162001590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹, 6개월 만에 기자단 오찬…출범 1년 앞두고 소통 강화?]]></title>
             <link>https://tv.naver.com/v/35560642</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 May 2023 12:35:51 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_295/beOJs_1683027239119RfCgr_JPEG/cover_0000248837_001_20230502203301552.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한중 얼음장 녹이는 한국 영화…예매 시작 1분 만에 전석 매진]]></title>
-            <link>https://tv.naver.com/v/35533853</link>
-            <guid>https://tv.naver.com/v/35533853</guid>
-            <pubDate>Tue, 02 May 2023 12:35:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_77/gH7KA_1683027231965CPqpQ_JPEG/cover_0000248836_001_20230502203231770.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
