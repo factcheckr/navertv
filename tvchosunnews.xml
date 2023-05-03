@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 10:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 11:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 3일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/35572605</link>
+            <guid>https://tv.naver.com/v/35572605</guid>
+            <pubDate>Wed, 03 May 2023 11:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_80/zenxb_1683111100978vTw9l_JPEG/cover_2023050390137_thumb_074659_20230503195101487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 임창정에 라덕연 '25억' 송금…믿을 수밖에 없었다?]]></title>
             <link>https://tv.naver.com/v/35565859</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 May 2023 13:22:39 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_267/qRzBp_1683033733536Fytr5_JPEG/cover_2023050290176_thumb_101601_20230502222101463.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CSI] "보험가입 거절"…주홍글씨된 'F코드'가 뭐길래?]]></title>
-            <link>https://tv.naver.com/v/35537879</link>
-            <guid>https://tv.naver.com/v/35537879</guid>
-            <pubDate>Tue, 02 May 2023 13:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_224/5UOwf_1683033462855HsjtA_JPEG/cover_2023050290208_thumb_101336_20230502221601584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
