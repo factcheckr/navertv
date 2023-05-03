@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 04:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 05:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘 이슈] 할리우드 작가들 총파업, ‘넷플릭스도 디즈니도 너무해’]]></title>
+            <link>https://tv.naver.com/v/35559406</link>
+            <guid>https://tv.naver.com/v/35559406</guid>
+            <pubDate>Wed, 03 May 2023 05:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_13/H7PwS_16830910017906ePif_JPEG/cover_0011477781_001_20230503141611677.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 중부, 25도 웃돌아요…제주·전남 비]]></title>
             <link>https://tv.naver.com/v/35557253</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 May 2023 03:18:25 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230503_119/EMqv7_1683081657611peXpk_JPEG/cover_0011477709_001_20230503114036704.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원도교육청, 제1회 추경예산 4조 3,946억 원 편성]]></title>
-            <link>https://tv.naver.com/v/35554264</link>
-            <guid>https://tv.naver.com/v/35554264</guid>
-            <pubDate>Wed, 03 May 2023 03:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_2/RRodC_1683081646616WCcNO_JPEG/cover_0011477708_001_20230503114029590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
