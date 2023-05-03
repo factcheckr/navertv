@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 06:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 07:18:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/35563273</link>
+            <guid>https://tv.naver.com/v/35563273</guid>
+            <pubDate>Wed, 03 May 2023 07:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_214/KsfTc_16830969401435Ue7A_JPEG/cover_cover_20230503155225_20_845_1326958_1080_7_20230503155501137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] "라덕연은 종교야" 임창정, 미 골프장 계약 동행 의혹]]></title>
             <link>https://tv.naver.com/v/35558268</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 May 2023 23:18:42 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230503_80/q62l0_16830674488280NK4O_JPEG/cover_cover_20230503074035_20_605_1326922_1080_7_20230503074301168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝경제]사라진 10만원권 수표 / 어버이날 선물은?/ 전세사기 피해자 요건 완화]]></title>
-            <link>https://tv.naver.com/v/35548309</link>
-            <guid>https://tv.naver.com/v/35548309</guid>
-            <pubDate>Tue, 02 May 2023 23:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_279/nBV1t_1683067307483uYs1B_JPEG/cover_cover_20230503073911_20_605_1326921_1080_7_20230503074101155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
