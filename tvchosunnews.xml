@@ -4,9 +4,25 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 10:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 11:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 4일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/35611656</link>
+            <guid>https://tv.naver.com/v/35611656</guid>
+            <pubDate>Thu, 04 May 2023 11:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_45/8j4hA_1683198705520dzXYM_JPEG/cover_2023050490147_thumb_080629_20230504201101476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 檢 돈봉투 수사 본격화에 이재명 성토장 된 野 의총]]></title>
+            <link>https://tv.naver.com/v/35610283</link>
+            <guid>https://tv.naver.com/v/35610283</guid>
+            <pubDate>Thu, 04 May 2023 11:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_152/fjLrw_16831960085526CK6M_JPEG/cover_2023050490148_thumb_072345_20230504192603582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 등 7개사, 통근버스 수소차로 전환]]></title>
             <link>https://tv.naver.com/v/35609168</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 03 May 2023 13:21:52 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230503_173/LZVG5_1683119505603RdG8p_JPEG/cover_2023050390185_thumb_100955_20230503221101516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 핵탑재잠수함 전개에 맞춰 軍, '스텔스구축함' 배치]]></title>
-            <link>https://tv.naver.com/v/35577788</link>
-            <guid>https://tv.naver.com/v/35577788</guid>
-            <pubDate>Wed, 03 May 2023 13:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_101/22GcZ_1683119210704CRODG_JPEG/cover_2023050390216_thumb_100102_20230503220601582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 3일 '뉴스 9' 클로징]]></title>
-            <link>https://tv.naver.com/v/35577582</link>
-            <guid>https://tv.naver.com/v/35577582</guid>
-            <pubDate>Wed, 03 May 2023 13:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_44/llTnt_1683118881099wh1yu_JPEG/cover_2023050390230_thumb_095732_20230503220110805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
