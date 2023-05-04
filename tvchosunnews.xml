@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 09:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 10:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 등 7개사, 통근버스 수소차로 전환]]></title>
+            <link>https://tv.naver.com/v/35609168</link>
+            <guid>https://tv.naver.com/v/35609168</guid>
+            <pubDate>Thu, 04 May 2023 10:19:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_46/rzDlS_1683193603326Ktt3L_JPEG/cover_2023050490155_thumb_064051_20230504184601613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] "음식에 벌레가 나왔어요" 주문받기 무서운 그 집]]></title>
             <link>https://tv.naver.com/v/35604032</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 03 May 2023 13:21:52 GMT</pubDate>
             <content:encoded><![CDATA[0:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230503_44/llTnt_1683118881099wh1yu_JPEG/cover_2023050390230_thumb_095732_20230503220110805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 내일 오후 전국 '비'…제주 산지 최대 400㎜ 이상 폭우]]></title>
-            <link>https://tv.naver.com/v/35577578</link>
-            <guid>https://tv.naver.com/v/35577578</guid>
-            <pubDate>Wed, 03 May 2023 13:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230503_231/B3ESP_1683118893379HU4Nw_JPEG/cover_2023050390228_thumb_095716_20230503220101503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
