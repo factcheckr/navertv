@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 23:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 01:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 04 May 2023 02:33:54 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_103/l6n5E_1683167411558GGg5p_JPEG/1683167053496.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[삶-영상] 조윤환 "엄마 제발 한번만 와주면 말 잘 들을께요"...버려진 6살 아이의 눈물]]></title>
+            <link>https://tv.naver.com/v/35590493</link>
+            <guid>https://tv.naver.com/v/35590493</guid>
+            <pubDate>Fri, 05 May 2023 01:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[11:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_177/gKFhf_16831644077781yn6N_JPEG/1683164049180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[삶-영상] 박지현 "586 정치인들 이제는 좀 쉬셔야죠, 좀 쉬셔야죠"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 May 2023 09:18:10 GMT</pubDate>
             <content:encoded><![CDATA[1:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_240/05p1T_1683015837275evJzP_JPEG/1683015830021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금단의 땅 '용산공원' 120년 만에 개방…'로봇견' 도입은 무산]]></title>
-            <link>https://tv.naver.com/v/35527596</link>
-            <guid>https://tv.naver.com/v/35527596</guid>
-            <pubDate>Tue, 02 May 2023 08:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_2/EOtgn_1683015342137PilyQ_JPEG/1683014726204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
