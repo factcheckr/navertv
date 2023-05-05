@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 03:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 04:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 전국에 강한 비바람…남해안 · 제주 '호우특보']]></title>
+            <link>https://tv.naver.com/v/35627055</link>
+            <guid>https://tv.naver.com/v/35627055</guid>
+            <pubDate>Fri, 05 May 2023 04:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_172/TmUqQ_1683258998391TKb4R_JPEG/cover_0001055673_001_20230505125601123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주공항 운항 점차 재개…"사전에 항공편 확인해야"]]></title>
+            <link>https://tv.naver.com/v/35627020</link>
+            <guid>https://tv.naver.com/v/35627020</guid>
+            <pubDate>Fri, 05 May 2023 04:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_158/nnXQ6_1683258896811pvGhX_JPEG/cover_0001055672_001_20230505125401144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스딱] 비 소식에 폭탄 떠넘기기?…어린이날 캠핑장 근황]]></title>
             <link>https://tv.naver.com/v/35626199</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 04 May 2023 23:19:10 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230505_85/OT7ci_1683238696257y4Rfh_JPEG/cover_0001055587_001_20230505071701105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["워싱턴 선언, 매우 예외적…타국과 비교 불필요"]]></title>
-            <link>https://tv.naver.com/v/35622604</link>
-            <guid>https://tv.naver.com/v/35622604</guid>
-            <pubDate>Thu, 04 May 2023 22:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_134/8n0Jr_1683238555159AE5B0_JPEG/cover_0001055586_001_20230505071501120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["안보 · 첨단산업 의제"…"퍼주기 굴욕 되풀이 말라"]]></title>
-            <link>https://tv.naver.com/v/35622595</link>
-            <guid>https://tv.naver.com/v/35622595</guid>
-            <pubDate>Thu, 04 May 2023 22:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_112/Ovg04_16832384515045p8cP_JPEG/cover_0001055585_001_20230505071301134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
