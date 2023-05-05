@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 10:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 11:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5월 5일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/35637320</link>
+            <guid>https://tv.naver.com/v/35637320</guid>
+            <pubDate>Fri, 05 May 2023 11:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_219/qWgbF_1683284805854PbE7N_JPEG/cover_2023050590085_thumb_080047_20230505200601590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[野, 尹에 "독도 영유권 주장하라"…與 "이슈화 안 시키는 게 국익"]]></title>
             <link>https://tv.naver.com/v/35633720</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 04 May 2023 13:22:15 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230504_70/em4G1_1683205918074ytRMN_JPEG/cover_2023050490192_thumb_100812_20230504221101491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5월 4일 '뉴스 9' 클로징]]></title>
-            <link>https://tv.naver.com/v/35615113</link>
-            <guid>https://tv.naver.com/v/35615113</guid>
-            <pubDate>Thu, 04 May 2023 13:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_168/gkjrB_1683205290042NfsKB_JPEG/cover_2023050490228_thumb_095542_20230504220117617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
