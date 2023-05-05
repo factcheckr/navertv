@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 May 2023 21:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 22:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 05 May 2023 05:17:37 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230505_240/id3lf_1683262444160PP5gq_JPEG/1683262208456.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['뻔한' 시나리오에 또 당했다…작전에 넘어가는 이유]]></title>
+            <link>https://tv.naver.com/v/35609666</link>
+            <guid>https://tv.naver.com/v/35609666</guid>
+            <pubDate>Fri, 05 May 2023 22:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[6:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230504_9/UEP48_16831946796404l0gm_JPEG/1683194353074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2억원 횡령 감추려 공장 방화…'이것' 때문에 잡혔다]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 02 May 2023 10:19:39 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230502_224/jTVmw_1683019244716L2yFb_JPEG/1683018921783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기시다 총리, 7일 한국 방문…"12년 만의 셔틀외교"]]></title>
-            <link>https://tv.naver.com/v/35529811</link>
-            <guid>https://tv.naver.com/v/35529811</guid>
-            <pubDate>Tue, 02 May 2023 09:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230502_202/MpmcR_1683018771516erEzh_JPEG/1683018221325.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
