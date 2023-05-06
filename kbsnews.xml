@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 03:19:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 04:22:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[12시 날씨] 수도권 오후까지, 남부 밤까지 비…강풍 주의]]></title>
-            <link>https://tv.naver.com/v/35651659</link>
-            <guid>https://tv.naver.com/v/35651659</guid>
-            <pubDate>Sat, 06 May 2023 03:18:07 GMT</pubDate>
+            <title><![CDATA[수도권 오후까지, 남부 밤까지 비…강풍 주의 [12시 날씨]]]></title>
+            <link>https://tv.naver.com/v/35652830</link>
+            <guid>https://tv.naver.com/v/35652830</guid>
+            <pubDate>Sat, 06 May 2023 04:20:26 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_282/XtLzq_1683342870093eo45E_JPEG/cover_0011479720_001_20230506121401151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_170/KXGtN_1683346772013lBi3N_JPEG/cover_0011479720_001_20230506131901103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] ‘축구의 신’ 메시, 사우디 여행 공개 사과…“미안하다. 구단 결정 기다리겠다”]]></title>
+            <link>https://tv.naver.com/v/35652798</link>
+            <guid>https://tv.naver.com/v/35652798</guid>
+            <pubDate>Sat, 06 May 2023 04:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_55/AHIGQ_1683346607714zBQb2_JPEG/cover_0011479721_001_20230506131622654.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일본 홋카이도에 규모 5.7 지진]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 May 2023 23:17:50 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230506_195/Go3WI_16833258962018zGse_JPEG/cover_0011479658_001_20230506073101128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘안전이 우선’…‘어린이 자전거 면허’ 도입]]></title>
-            <link>https://tv.naver.com/v/35648490</link>
-            <guid>https://tv.naver.com/v/35648490</guid>
-            <pubDate>Fri, 05 May 2023 23:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_120/dlEBK_1683325291166FhAMF_JPEG/cover_0011479657_001_20230506072044361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
