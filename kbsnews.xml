@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 22:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 23:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 휴일 흐리고 곳곳 비…강풍 주의]]></title>
+            <link>https://tv.naver.com/v/35669842</link>
+            <guid>https://tv.naver.com/v/35669842</guid>
+            <pubDate>Sat, 06 May 2023 23:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_36/B3QMR_1683414865533QBWQa_JPEG/cover_0011479864_001_20230507081407573.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[런던 출발 아시아나 항공, 위탁수하물 내려놓고 운항]]></title>
+            <link>https://tv.naver.com/v/35669840</link>
+            <guid>https://tv.naver.com/v/35669840</guid>
+            <pubDate>Sat, 06 May 2023 23:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_229/4JgZ2_1683414856694hwq5M_JPEG/cover_0011479863_001_20230507081401144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘 한일정상회담…과거사 ‘성의있는 호응’ 할까?]]></title>
             <link>https://tv.naver.com/v/35669376</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 06 May 2023 13:18:19 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230506_258/U18hV_1683377971234pRJnS_JPEG/cover_0011479767_001_20230506215844119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일 한일정상회담, 후쿠시마 오염수 의제 오를 듯]]></title>
-            <link>https://tv.naver.com/v/35663363</link>
-            <guid>https://tv.naver.com/v/35663363</guid>
-            <pubDate>Sat, 06 May 2023 13:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_35/iPKDm_1683377961883ngd5r_JPEG/cover_0011479766_001_20230506215833822.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“비행기 소리 나더니 별안간 쾅”…미군 F-16, 평택서 추락]]></title>
-            <link>https://tv.naver.com/v/35663353</link>
-            <guid>https://tv.naver.com/v/35663353</guid>
-            <pubDate>Sat, 06 May 2023 13:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_281/9m4zz_1683377953182L1Lfo_JPEG/cover_0011479765_001_20230506215823587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 22:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 23:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["애들이 기저귀에 맨발로 다녀요!" 거리 돌아다니던 남매 사연은?]]></title>
+            <link>https://tv.naver.com/v/35669597</link>
+            <guid>https://tv.naver.com/v/35669597</guid>
+            <pubDate>Sat, 06 May 2023 23:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_132/xvOSM_1683411688875J1iq5_JPEG/cover_cover_20230507_mj_1_20230507072101759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국 대부분 강한 바람‥제주·경북 비]]></title>
             <link>https://tv.naver.com/v/35669555</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 06 May 2023 01:17:25 GMT</pubDate>
             <content:encoded><![CDATA[0:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230506_87/w4ZJh_16833306631226iuj3_JPEG/cover_cover_unity_20230506_075831_1_6_Large_1_20230506085047445.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남북접경 최북단 수목원 절정의 봄]]></title>
-            <link>https://tv.naver.com/v/35649042</link>
-            <guid>https://tv.naver.com/v/35649042</guid>
-            <pubDate>Sat, 06 May 2023 01:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[6:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_233/bSbxH_1683330773440dWdNe_JPEG/cover_cover_unity_20230506_075438_1_5_Large_20230506085039355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
