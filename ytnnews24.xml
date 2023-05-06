@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 11:15:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 12:31:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 돌발영상] 5월 첫째 주]]></title>
+            <link>https://tv.naver.com/v/35662033</link>
+            <guid>https://tv.naver.com/v/35662033</guid>
+            <pubDate>Sat, 06 May 2023 12:31:13 GMT</pubDate>
+            <content:encoded><![CDATA[18:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_159/zI4RD_16833746477168RShu_JPEG/cover_cover_202305062030179661_t_20230506205701900.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영국 찰스 3세 국왕 대관식...새로운 왕국 군주 선포]]></title>
             <link>https://tv.naver.com/v/35660800</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 06 May 2023 05:16:26 GMT</pubDate>
             <content:encoded><![CDATA[2:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230506_117/6TQbA_1683349815106N9pDi_JPEG/cover_cover_202305061400359061_t_20230506140909936.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일 日 기시다 총리 방한...'안보·경제' 핵심의제]]></title>
-            <link>https://tv.naver.com/v/35653750</link>
-            <guid>https://tv.naver.com/v/35653750</guid>
-            <pubDate>Sat, 06 May 2023 05:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_3/nvLGO_16833498227324kGc3_JPEG/cover_cover_202305061400326858_t_20230506140902088.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
