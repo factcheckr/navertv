@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 May 2023 20:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 21:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[378회_기상 전망과 캠핑 사고 예방법]]></title>
+            <link>https://tv.naver.com/v/35669237</link>
+            <guid>https://tv.naver.com/v/35669237</guid>
+            <pubDate>Sat, 06 May 2023 21:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[15:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_168/zy2aF_1683406128907VAjki_JPEG/cover_cover_20230507053805_20_849_1327180_1080_7_20230507054101128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 이시카와현서 규모 6.5 지진으로 1명 사망…여진 40여 회 지속]]></title>
             <link>https://tv.naver.com/v/35663751</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 05 May 2023 11:16:14 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230505_169/OHf4F_1683282965603jd42o_JPEG/cover_cover_20230505193210_20_552_1327144_1080_7_20230505193501170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북 영동에 반달곰 출몰…폐차장 화재로 차량 90대 불에 타]]></title>
-            <link>https://tv.naver.com/v/35636611</link>
-            <guid>https://tv.naver.com/v/35636611</guid>
-            <pubDate>Fri, 05 May 2023 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230505_130/7t5aJ_1683282878763vPJ3f_JPEG/cover_cover_20230505193040_20_552_1327143_1080_7_20230505193301134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
