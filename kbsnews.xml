@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 08:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 09:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 이정재 “자랑스럽고 살기 좋은 대한민국 소망”…윤 대통령 취임 1주년 영상 등장]]></title>
+            <link>https://tv.naver.com/v/35678419</link>
+            <guid>https://tv.naver.com/v/35678419</guid>
+            <pubDate>Sun, 07 May 2023 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_122/VCy7a_1683449978375GtLqh_JPEG/cover_0011479955_001_20230507175818465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 시대, 당신은 안녕하십니까 [주말엔]]]></title>
             <link>https://tv.naver.com/v/35674937</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 06 May 2023 13:18:19 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230506_244/pcUKF_168337809452961c9A_JPEG/cover_0011479831_001_20230506220054742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스9 날씨] 내일도 전국에 강풍…중부 오후부터 갬]]></title>
-            <link>https://tv.naver.com/v/35663437</link>
-            <guid>https://tv.naver.com/v/35663437</guid>
-            <pubDate>Sat, 06 May 2023 13:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_101/XIOMY_16833780814300cFge_JPEG/cover_0011479813_001_20230506220044739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
