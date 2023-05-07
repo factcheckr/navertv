@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 07:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 08:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빠짝 마른 전남엔…“보약보다 좋은 단비”]]></title>
+            <link>https://tv.naver.com/v/35677329</link>
+            <guid>https://tv.naver.com/v/35677329</guid>
+            <pubDate>Sun, 07 May 2023 08:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_40/PPEU9_16834471528380jB5q_JPEG/cover_0000249027_001_20230507171101506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[동앵과 뉴스터디]‘워싱턴 선언’ 한 방에 일본 총리가 날아왔다?]]></title>
             <link>https://tv.naver.com/v/35674476</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 06 May 2023 12:31:30 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230506_211/lr6t4_16833724251528Etmw_JPEG/cover_0000249083_001_20230506202611464.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[특급 경호 ‘운명의 돌’…찰스 3세 의자 안에 설치]]></title>
-            <link>https://tv.naver.com/v/35660701</link>
-            <guid>https://tv.naver.com/v/35660701</guid>
-            <pubDate>Sat, 06 May 2023 11:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230506_54/49ugU_1683370382102N0zl4_JPEG/cover_0000249079_001_20230506195138650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
