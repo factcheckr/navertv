@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 18:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 19:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한일 정상, '후쿠시마 오염수' 한국 시찰단 파견 합의]]></title>
+            <link>https://tv.naver.com/v/35690323</link>
+            <guid>https://tv.naver.com/v/35690323</guid>
+            <pubDate>Sun, 07 May 2023 19:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_208/fSa2m_1683483798787ST9Ug_JPEG/cover_cover_202305080317379321_t_20230508032301901.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 미국 언론에서 나온 우크라에 비관적 시각...우크라 "러, 백린탄 사용했다"]]></title>
             <link>https://tv.naver.com/v/35690223</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 07 May 2023 14:15:21 GMT</pubDate>
             <content:encoded><![CDATA[2:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230507_184/U4PJs_1683465969126XQgma_JPEG/cover_cover_202305072222258185_t_20230507222511570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, '김남국 가상화폐' 수사...쇄신 고심 민주 '곤혹']]></title>
-            <link>https://tv.naver.com/v/35684654</link>
-            <guid>https://tv.naver.com/v/35684654</guid>
-            <pubDate>Sun, 07 May 2023 14:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_223/tJUIR_1683465963198V7wAo_JPEG/cover_cover_202305072221241528_t_20230507222501939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
