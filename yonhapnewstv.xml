@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 May 2023 09:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 10:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장연결] 한일 정상 기자회견, 기자들과 질의 응답]]></title>
+            <link>https://tv.naver.com/v/35679771</link>
+            <guid>https://tv.naver.com/v/35679771</guid>
+            <pubDate>Sun, 07 May 2023 10:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[18:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_228/RxXJO_1683453974474gxFYj_JPEG/cover_cover_MYH20230507009200641_20230507185901833.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장연결] 한일 정상회담 종료…윤대통령·기시다 공동 기자회견]]></title>
+            <link>https://tv.naver.com/v/35679322</link>
+            <guid>https://tv.naver.com/v/35679322</guid>
+            <pubDate>Sun, 07 May 2023 10:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[18:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_281/H7CAs_1683452692185p1OPl_JPEG/cover_cover_MYH20230507009100641_20230507183701982.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보] 한일 정상, 확대회담 종료…곧 공동 기자회견]]></title>
             <link>https://tv.naver.com/v/35678179</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 07 May 2023 04:20:47 GMT</pubDate>
             <content:encoded><![CDATA[14:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230507_110/Msry5_1683432623914PRpiD_JPEG/cover_cover_MYH20230507003200641_20230507130101816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 휴일 전국 흐리고 곳곳 비…강한 바람 주의]]></title>
-            <link>https://tv.naver.com/v/35672275</link>
-            <guid>https://tv.naver.com/v/35672275</guid>
-            <pubDate>Sun, 07 May 2023 04:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_122/07oVI_1683430792146IRSvI_JPEG/cover_cover_MYH20230507005300641_20230507123901777.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비 그친 연휴 마지막날…어린이대공원 나들이]]></title>
-            <link>https://tv.naver.com/v/35672222</link>
-            <guid>https://tv.naver.com/v/35672222</guid>
-            <pubDate>Sun, 07 May 2023 04:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230507_5/l0uBr_1683430558957S6cnS_JPEG/cover_cover_MYH20230507005200641_20230507123501786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
