@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 20:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 21:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[379회_감염병과 자전거 사고 예방법]]></title>
+            <link>https://tv.naver.com/v/35769681</link>
+            <guid>https://tv.naver.com/v/35769681</guid>
+            <pubDate>Tue, 09 May 2023 21:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[15:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_71/WoTlI_1683666453061c1tNt_JPEG/cover_cover_20230510055546_20_849_1327432_1080_7_20230510060001188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일 전국 초여름더위…오전, 안개·먼지 주의]]></title>
             <link>https://tv.naver.com/v/35758217</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 May 2023 10:20:42 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230509_236/VquLX_1683627024510Rn8gM_JPEG/cover_cover_20230509190711_20_552_1327393_1080_7_20230509190901123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취임 1주년] 윤 대통령 "거야에 입법 막혔다…시스템 붕괴 회복 시간 걸려"]]></title>
-            <link>https://tv.naver.com/v/35753459</link>
-            <guid>https://tv.naver.com/v/35753459</guid>
-            <pubDate>Tue, 09 May 2023 10:20:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230509_275/LLlDk_1683626893838CCiu0_JPEG/cover_cover_20230509190528_20_552_1327392_1080_7_20230509190701144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

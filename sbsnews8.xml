@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 20:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 21:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35769752</link>
+            <guid>https://tv.naver.com/v/35769752</guid>
+            <pubDate>Tue, 09 May 2023 21:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_193/CAs8i_1683666707239xSpQ4_JPEG/cover_0001056664_001_20230510061101121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[나이트라인 초대석] ABBA 노래의 힘…'맘마미아'의 귀환]]></title>
             <link>https://tv.naver.com/v/35767631</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 09 May 2023 13:09:20 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230509_48/gjHbn_1683636892489qSySP_JPEG/cover_0001056610_001_20230509215328577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 정부 1년…'가치외교 · 개혁' 고삐, '협치 · 소통' 과제]]></title>
-            <link>https://tv.naver.com/v/35759472</link>
-            <guid>https://tv.naver.com/v/35759472</guid>
-            <pubDate>Tue, 09 May 2023 13:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230509_259/TTmR4_16836368800259RM7G_JPEG/cover_0001056617_001_20230509215318795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
