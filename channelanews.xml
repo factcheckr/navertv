@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 May 2023 02:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 May 2023 03:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프로 잡은 아마…다음은 항저우 금메달]]></title>
+            <link>https://tv.naver.com/v/35734771</link>
+            <guid>https://tv.naver.com/v/35734771</guid>
+            <pubDate>Tue, 09 May 2023 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230509_65/ja1ch_1683601079921RlTTq_JPEG/cover_0000249214_001_20230509115701541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대통령실, 강남·종로에 ‘尹 취임 1주년’ 3D 전광판 띄워]]></title>
             <link>https://tv.naver.com/v/35730858</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 08 May 2023 10:19:52 GMT</pubDate>
             <content:encoded><![CDATA[6:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230508_95/pwmwN_16835408649911vKCC_JPEG/cover_0000249168_001_20230508191101485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인 의혹에 “검소가 죄냐”…장경태, 동문서답 감싸기?]]></title>
-            <link>https://tv.naver.com/v/35714046</link>
-            <guid>https://tv.naver.com/v/35714046</guid>
-            <pubDate>Mon, 08 May 2023 10:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[4:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230508_140/f9vnD_1683540714531C5Cbk_JPEG/cover_0000249167_001_20230508190927796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
