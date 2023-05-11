@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 21:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 22:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[380회_기상 전망과 지진 시 대피요령]]></title>
+            <link>https://tv.naver.com/v/35846827</link>
+            <guid>https://tv.naver.com/v/35846827</guid>
+            <pubDate>Thu, 11 May 2023 22:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[14:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_73/Fz9cH_1683839901168VzSgg_JPEG/cover_cover_20230512060744_20_849_1327648_1080_7_20230512061201186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정치와이드] '공천룰'에 조국 출마설…"이미 간보고 있어"]]></title>
             <link>https://tv.naver.com/v/35835618</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 11 May 2023 11:16:11 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230511_259/nQ3Os_1683800639278iPdL2_JPEG/cover_cover_20230511192030_20_552_1327613_1080_7_20230511192301139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[취재진 많아 돌아간 유아인…"왜 공개했나"vs"그런 적 없다"]]></title>
-            <link>https://tv.naver.com/v/35832659</link>
-            <guid>https://tv.naver.com/v/35832659</guid>
-            <pubDate>Thu, 11 May 2023 11:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230511_128/e7MIf_1683800520606Xqv6N_JPEG/cover_cover_20230511191816_20_552_1327612_1080_7_20230511192101126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
