@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 21:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 22:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 12 May 2023 08:22:01 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230512_35/VKeXV_1683878284367pqXDc_JPEG/1683878261692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴알못이 만든 가짜 뉴스…AI가 진짜 무서운 이유]]></title>
+            <link>https://tv.naver.com/v/35866357</link>
+            <guid>https://tv.naver.com/v/35866357</guid>
+            <pubDate>Fri, 12 May 2023 22:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_83/kNKX0_1683878279946owFQY_JPEG/1683876692962.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['방패와 화살' 작전 사흘째…이 "팔 무장단체 사령관 2명 제거"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 10 May 2023 08:21:33 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230510_22/KUwZX_1683704597022rnUFA_JPEG/1683704574575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총 8정 가져온 텍사스 총격범…"특정인 아닌 장소 표적 삼은 듯"]]></title>
-            <link>https://tv.naver.com/v/35787996</link>
-            <guid>https://tv.naver.com/v/35787996</guid>
-            <pubDate>Wed, 10 May 2023 08:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230510_138/5wG5y_1683704551422FJrWR_JPEG/1683704539938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
