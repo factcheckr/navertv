@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 06:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 07:18:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 14 May 2023 06:21:25 GMT</pubDate>
             <content:encoded><![CDATA[8:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230514_259/fP4z6_1684045267876d2jPV_JPEG/cover_2023051490034_thumb_031214_20230514151728142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김남국 "잠시 떠납니다" 탈당 선언…코인 투자 진실은?]]></title>
+            <link>https://tv.naver.com/v/35908065</link>
+            <guid>https://tv.naver.com/v/35908065</guid>
+            <pubDate>Sun, 14 May 2023 07:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[49:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_170/fQ5Nk_16840461643029r6fz_JPEG/cover_2023051490030_thumb_031050_20230514151701527.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[네이버·카카오 '핫 이슈' 알리는 서비스 출시…'실검' 부활 조짐]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 May 2023 06:21:34 GMT</pubDate>
             <content:encoded><![CDATA[0:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230513_156/ypAGV_1683958588274GdV1y_JPEG/cover_2023051390020_thumb_031017_20230513151601575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[750만 재외동포 맞이하는 인천…역할과 계획은?]]></title>
-            <link>https://tv.naver.com/v/35888708</link>
-            <guid>https://tv.naver.com/v/35888708</guid>
-            <pubDate>Sat, 13 May 2023 06:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[10:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230513_25/RMtpo_1683958229119SdhEC_JPEG/cover_2023051390014_thumb_030116_20230513150601567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
