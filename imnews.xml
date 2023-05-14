@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 12:31:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 13:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트] K콘텐츠의 그늘 "기계처럼 일해요"]]></title>
+            <link>https://tv.naver.com/v/35915886</link>
+            <guid>https://tv.naver.com/v/35915886</guid>
+            <pubDate>Sun, 14 May 2023 13:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[36:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_43/8fiG1_1684069053907Hr80B_JPEG/cover_cover_straight_20230514_210922_1_1_Large_20230514214804386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['간호법'도 대통령 재의요구권 건의‥2호 거부권 되나?]]></title>
             <link>https://tv.naver.com/v/35915143</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 May 2023 22:15:44 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230514_128/aSQ5T_1684016062520T4P3B_JPEG/cover_cover_today_20230514_070532_1_3_Large_20230514071411574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 측, 해저터널 점검 요청에 '난색']]></title>
-            <link>https://tv.naver.com/v/35902750</link>
-            <guid>https://tv.naver.com/v/35902750</guid>
-            <pubDate>Sat, 13 May 2023 22:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_177/xywdW_1684016080822pOTXE_JPEG/cover_cover_today_20230514_070444_1_2_Large_20230514071403995.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
