@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 05:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 May 2023 06:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]“당신 나 기억하지?” 김만배 돈 뜯은 간큰남은 누구?]]></title>
+            <link>https://tv.naver.com/v/35907837</link>
+            <guid>https://tv.naver.com/v/35907837</guid>
+            <pubDate>Sun, 14 May 2023 06:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[22:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230514_151/tHcdL_1684044655037yjjpC_JPEG/cover_0000249548_001_20230514150301478.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[세계를 가다]원폭에 한인 3만 명 희생…“피폭도 숨기고 살아”]]></title>
             <link>https://tv.naver.com/v/35906946</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 13 May 2023 10:18:36 GMT</pubDate>
             <content:encoded><![CDATA[4:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230513_64/zXwoJ_1683973059596rCEtj_JPEG/cover_0000249517_001_20230513191534148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“트럼프, 66억 원 배상금 지불해야”…서막일 뿐]]></title>
-            <link>https://tv.naver.com/v/35893891</link>
-            <guid>https://tv.naver.com/v/35893891</guid>
-            <pubDate>Sat, 13 May 2023 10:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230513_160/F5tHy_1683973023284KMyfX_JPEG/cover_0000249515_001_20230513191524053.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
