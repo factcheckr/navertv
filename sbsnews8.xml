@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 20:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 21:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/35963728</link>
+            <guid>https://tv.naver.com/v/35963728</guid>
+            <pubDate>Mon, 15 May 2023 21:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230516_34/FmnQH_1684185102103qhVDr_JPEG/cover_0001058117_001_20230516061101106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["내 평생 선생님…" 엄마 같은 여중생들의 특별한 사은회]]></title>
             <link>https://tv.naver.com/v/35963061</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 15 May 2023 13:23:36 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230515_238/2HuSi_1684155019029LPWmV_JPEG/cover_0001058063_001_20230515214915262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울도 응급실 뺑뺑이, 심정지 환자 사망…'경증' 넘친다 (풀영상)]]></title>
-            <link>https://tv.naver.com/v/35954272</link>
-            <guid>https://tv.naver.com/v/35954272</guid>
-            <pubDate>Mon, 15 May 2023 13:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[7:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_28/JxIE3_1684155214301E60e5_JPEG/cover_0001058068_001_20230515214901230.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
