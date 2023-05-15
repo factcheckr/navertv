@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 06:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 07:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/35937990</link>
+            <guid>https://tv.naver.com/v/35937990</guid>
+            <pubDate>Mon, 15 May 2023 07:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_268/VJ4G6_16841334948940KbnG_JPEG/cover_cover_20230515154632_20_845_1327861_1080_7_20230515155101120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내일부터 전기·가스요금 인상…4인 가구 月 7,400원 더 낸다 [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/35937695</link>
+            <guid>https://tv.naver.com/v/35937695</guid>
+            <pubDate>Mon, 15 May 2023 07:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_291/AEybD_1684133018929WQMEG_JPEG/cover_cover_20230515154053_20_845_1327860_1080_7_20230515154301134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 탈당한 김남국 '꼬리 자르기' 아니라지만…추가 조사 제대로 될까]]></title>
             <link>https://tv.naver.com/v/35929682</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 14 May 2023 23:18:38 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230515_140/o0Oay_1684104948935eIK7t_JPEG/cover_cover_20230515074812_20_605_1327821_1080_7_20230515075501178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]"작고 소중해" 오리너구리 보존 프로젝트]]></title>
-            <link>https://tv.naver.com/v/35924061</link>
-            <guid>https://tv.naver.com/v/35924061</guid>
-            <pubDate>Sun, 14 May 2023 23:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_19/Y8okk_1684104828866TDB3G_JPEG/cover_cover_20230515075050_20_605_1327822_1080_7_20230515075303122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 국경 인근서 총격 2명 사망…바이든 "제발 뭐 좀 하자"]]></title>
-            <link>https://tv.naver.com/v/35924025</link>
-            <guid>https://tv.naver.com/v/35924025</guid>
-            <pubDate>Sun, 14 May 2023 23:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_110/03n4Z_1684104627024RzdTD_JPEG/cover_cover_20230515074449_20_605_1327820_1080_7_20230515074901112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
