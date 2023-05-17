@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 16:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 17:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 무너져내린 미얀마...해일, 폭우, 홍수 다 몰아쳤다]]></title>
+            <link>https://tv.naver.com/v/36039881</link>
+            <guid>https://tv.naver.com/v/36039881</guid>
+            <pubDate>Wed, 17 May 2023 17:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_14/RNsMQ_1684341710242asrSe_JPEG/cover_cover_202305180138414171_t_20230518014102011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['안세영이 끝냈다!' 혼합단체전 한일전 승리...조1위 8강]]></title>
             <link>https://tv.naver.com/v/36039209</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 17 May 2023 15:20:21 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_196/pHuo0_1684333843077k43J4_JPEG/cover_cover_202305172316349490_t_20230517232940654.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[文 정부 이전으로 돌아간 검찰...마약부장 신설·범정 부활]]></title>
-            <link>https://tv.naver.com/v/36036490</link>
-            <guid>https://tv.naver.com/v/36036490</guid>
-            <pubDate>Wed, 17 May 2023 15:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_202/GjFuu_1684333818490VXwPE_JPEG/cover_cover_202305172316228500_t_20230517232932056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
