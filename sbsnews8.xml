@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 20:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 21:16:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 43주년 5·18 기념식…여야 광주 총집결]]></title>
+            <link>https://tv.naver.com/v/36041875</link>
+            <guid>https://tv.naver.com/v/36041875</guid>
+            <pubDate>Wed, 17 May 2023 21:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_43/Csk3j_1684358059785ejYeY_JPEG/cover_0001058730_001_20230518061301101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/36041857</link>
+            <guid>https://tv.naver.com/v/36041857</guid>
+            <pubDate>Wed, 17 May 2023 21:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_5/x7pBs_1684357844226P8Mcp_JPEG/cover_0001058729_001_20230518061001160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/36040146</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 17 May 2023 14:16:12 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230517_134/GqcJQ_1684332898409wBOab_JPEG/cover_0001058672_001_20230517231331332.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충전 중 아닌 킥보드 '펑'…화상에도 "당장 배상 못한다"]]></title>
-            <link>https://tv.naver.com/v/36035884</link>
-            <guid>https://tv.naver.com/v/36035884</guid>
-            <pubDate>Wed, 17 May 2023 14:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_39/zyxbK_1684332875650cLLmU_JPEG/cover_0001058674_001_20230517231321333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[365일 고난도 수술된다던데…대책들 무용지물인 이유]]></title>
-            <link>https://tv.naver.com/v/36035877</link>
-            <guid>https://tv.naver.com/v/36035877</guid>
-            <pubDate>Wed, 17 May 2023 14:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230517_117/6blWK_1684332867133FfWXT_JPEG/cover_0001058673_001_20230517231311037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
