@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 May 2023 08:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 09:19:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230516_188/efBIm_1684236305572njOav_JPEG/cover_0000249708_001_20230516202401586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“떡볶이 사주겠다”…초등생 유인한 전과 42범]]></title>
-            <link>https://tv.naver.com/v/35989925</link>
-            <guid>https://tv.naver.com/v/35989925</guid>
-            <pubDate>Tue, 16 May 2023 12:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230516_272/EuviU_16842362178774EGTt_JPEG/cover_0000249706_001_20230516202239973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“30년 젊어지는 불로초”…노인 대상 불법 다단계 기승]]></title>
             <link>https://tv.naver.com/v/35989911</link>
             <guid>https://tv.naver.com/v/35989911</guid>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 16 May 2023 12:43:10 GMT</pubDate>
             <content:encoded><![CDATA[5:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230516_97/qsDQS_1684236087890SIJpr_JPEG/cover_0000249693_001_20230516201910634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“진상조사 먼저”…이재명이 ‘김남국 윤리위 제소’ 틀었나]]></title>
+            <link>https://tv.naver.com/v/35989808</link>
+            <guid>https://tv.naver.com/v/35989808</guid>
+            <pubDate>Wed, 17 May 2023 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230516_39/nwdV6_1684235995900IraJs_JPEG/cover_0000249688_001_20230516201901474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
