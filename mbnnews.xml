@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 20:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 21:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[383회_기상 전망과 호우 대처요령]]></title>
+            <link>https://tv.naver.com/v/36082687</link>
+            <guid>https://tv.naver.com/v/36082687</guid>
+            <pubDate>Thu, 18 May 2023 21:17:07 GMT</pubDate>
+            <content:encoded><![CDATA[15:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_97/7nVFf_1684443992294DGA0H_JPEG/cover_cover_20230519055434_20_849_1328268_1080_7_20230519055801147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일 오전까지 비…서쪽 덥고, 동해안 선선]]></title>
             <link>https://tv.naver.com/v/36075663</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 May 2023 11:15:21 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230518_76/KaYLR_1684405198653B0ivl_JPEG/cover_cover_20230518191552_20_552_1328234_1080_7_20230518191901148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["거래소 곧 상장"…투자리딩방 잡코인 사기 기승]]></title>
-            <link>https://tv.naver.com/v/36066288</link>
-            <guid>https://tv.naver.com/v/36066288</guid>
-            <pubDate>Thu, 18 May 2023 10:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_223/wtQ8T_1684404969938LMCXY_JPEG/cover_cover_20230518191206_20_552_1328233_1080_7_20230518191501120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
