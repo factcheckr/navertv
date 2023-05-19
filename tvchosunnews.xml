@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 06:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[文정부, '뚫리는 방탄복' 100억 주고 5만벌 샀다]]></title>
+            <link>https://tv.naver.com/v/36095699</link>
+            <guid>https://tv.naver.com/v/36095699</guid>
+            <pubDate>Fri, 19 May 2023 06:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_32/mvNhj_1684474314740RW0EP_JPEG/cover_2023051890179_thumb_022822_20230519143103071.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 전동 킥보드 타고 무단횡단…'무면허' 고교생들 참변]]></title>
             <link>https://tv.naver.com/v/36095050</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 18 May 2023 13:20:54 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230518_177/pSbg3_1684413743953txUMR_JPEG/cover_2023051890193_thumb_093945_20230518214126351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['낭설' 일축하더니…사실로 드러난 '쌍둥이의 한은 대리시험']]></title>
-            <link>https://tv.naver.com/v/36072155</link>
-            <guid>https://tv.naver.com/v/36072155</guid>
-            <pubDate>Thu, 18 May 2023 13:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230518_291/qnou6_1684413718594b0yYe_JPEG/cover_2023051890197_thumb_093734_20230518214117129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

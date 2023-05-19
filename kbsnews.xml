@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 05:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 06:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 누군가에겐 축제…그들을 바라보는 눈빛]]></title>
+            <link>https://tv.naver.com/v/36097209</link>
+            <guid>https://tv.naver.com/v/36097209</guid>
+            <pubDate>Fri, 19 May 2023 06:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_18/tno3k_1684476544341p2rYO_JPEG/cover_0011488518_001_20230519150813556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 이제는 원팀, 오세근과 김선형의 티키타카]]></title>
+            <link>https://tv.naver.com/v/36096291</link>
+            <guid>https://tv.naver.com/v/36096291</guid>
+            <pubDate>Fri, 19 May 2023 06:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[8:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_131/lUuSj_1684475225969DIate_JPEG/cover_0011488512_001_20230519144601132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 주말, 맑고 초여름 날씨]]></title>
             <link>https://tv.naver.com/v/36094878</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 19 May 2023 04:20:15 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_232/E4rV3_1684466936594V2LOL_JPEG/cover_0011488456_001_20230519122801131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[G7 정상회의 개막…러시아 제재·타이완해협 중점 논의]]></title>
-            <link>https://tv.naver.com/v/36091135</link>
-            <guid>https://tv.naver.com/v/36091135</guid>
-            <pubDate>Fri, 19 May 2023 04:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_59/BAcJz_1684466812862Yexfv_JPEG/cover_0011488455_001_20230519122610067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 21일 후쿠시마 시찰단 파견…“오염수 정화 등 직접 확인”]]></title>
-            <link>https://tv.naver.com/v/36091128</link>
-            <guid>https://tv.naver.com/v/36091128</guid>
-            <pubDate>Fri, 19 May 2023 04:20:15 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_160/nw8ue_1684466812794w03nI_JPEG/cover_0011488454_001_20230519122601171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
