@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 09:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 10:20:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 입만 열면 돈 버는 그녀의 비밀?]]></title>
+            <link>https://tv.naver.com/v/36106072</link>
+            <guid>https://tv.naver.com/v/36106072</guid>
+            <pubDate>Fri, 19 May 2023 10:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_173/RukLI_1684488170058Nc1HE_JPEG/cover_cover_230519_bigmouse_thumb_640_re_20230519182204069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["사실은 그날‥" 故서세원에 주사한 간호사의 '반전 증언']]></title>
             <link>https://tv.naver.com/v/36103867</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 May 2023 08:21:17 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_19/EtaYS_1684482085649II8jV_JPEG/cover_cover_14news_20230519_150820_1_11_Large_20230519164102643.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 반도체 지수 강세‥반도체 기업 강세]]></title>
-            <link>https://tv.naver.com/v/36093349</link>
-            <guid>https://tv.naver.com/v/36093349</guid>
-            <pubDate>Fri, 19 May 2023 05:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_157/2eFCp_1684470800303bcmyu_JPEG/cover_cover_noon_20230519_121934_1_14_Large_20230519133302128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
