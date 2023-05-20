@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 10:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 11:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스한판] '오월정신, 국민과 함께']]></title>
+            <link>https://tv.naver.com/v/36133172</link>
+            <guid>https://tv.naver.com/v/36133172</guid>
+            <pubDate>Sat, 20 May 2023 11:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[16:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_151/fzeEY_16845809761873JQu8_JPEG/cover_cover_MYH20230519022900641_20230520200101898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도심 가득 10만 연등행렬…종로일대 교통 통제]]></title>
             <link>https://tv.naver.com/v/36132349</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 May 2023 07:15:12 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_134/0VQdS_1684565274244A1vz3_JPEG/cover_cover_MYH20230520006700641_20230520154701930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원 "증권사 전산오류 배상액, 거래 평균가로 산정"]]></title>
-            <link>https://tv.naver.com/v/36127424</link>
-            <guid>https://tv.naver.com/v/36127424</guid>
-            <pubDate>Sat, 20 May 2023 07:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_254/4vU3c_1684565069742EV9cK_JPEG/cover_cover_MYH20230520006600641_20230520154403697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

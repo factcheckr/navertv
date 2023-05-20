@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 10:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 11:15:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7시 날씨] 내일 황사, 미세먼지 주의…새벽에 중부 비 조금]]></title>
+            <link>https://tv.naver.com/v/36132886</link>
+            <guid>https://tv.naver.com/v/36132886</guid>
+            <pubDate>Sat, 20 May 2023 11:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_257/ALHjW_1684579469232l4ICt_JPEG/cover_0011489023_001_20230520194401153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파월 “다음 달 금리 인상 필요 없을 수도…지켜볼 여유 있다”]]></title>
             <link>https://tv.naver.com/v/36132320</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 May 2023 01:20:25 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_277/wmbFT_1684543407915shdKg_JPEG/cover_0011488956_001_20230520094308426.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘돈 봉투 의혹’ 이성만 13시간 만에 귀가…“결백하다”]]></title>
-            <link>https://tv.naver.com/v/36121013</link>
-            <guid>https://tv.naver.com/v/36121013</guid>
-            <pubDate>Sat, 20 May 2023 01:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_221/yDl2i_1684543432464FAS13_JPEG/cover_0011488955_001_20230520094301127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
