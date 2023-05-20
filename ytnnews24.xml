@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 16:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 17:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 청주시 "어쩔 수 없는 결정"...시민 불만 ↑]]></title>
+            <link>https://tv.naver.com/v/36140300</link>
+            <guid>https://tv.naver.com/v/36140300</guid>
+            <pubDate>Sat, 20 May 2023 17:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_96/tjHeL_1684601993721a3TMm_JPEG/cover_cover_202305210156051482_t_20230521015901751.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국에 구제역 긴급 백신접종...5년 만에 '심각' 단계]]></title>
             <link>https://tv.naver.com/v/36139626</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 May 2023 14:15:59 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_203/Fdgyd_1684589597638XjDEX_JPEG/cover_cover_202305202222317830_t_20230520223301892.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20대 항공·60대 2차전지..."투자 종목도 세대 차"]]></title>
-            <link>https://tv.naver.com/v/36136425</link>
-            <guid>https://tv.naver.com/v/36136425</guid>
-            <pubDate>Sat, 20 May 2023 14:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_297/QPFPs_1684589513735owHfE_JPEG/cover_cover_202305202222229463_t_20230520223101903.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
