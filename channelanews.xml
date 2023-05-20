@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 05:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 06:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]윤석열 ‘용산 패밀리’, 이 사람이 실세다!]]></title>
+            <link>https://tv.naver.com/v/36126532</link>
+            <guid>https://tv.naver.com/v/36126532</guid>
+            <pubDate>Sat, 20 May 2023 06:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[27:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_42/tJpzG_1684563197862Xydvx_JPEG/cover_0000249935_001_20230520150201548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[G7 정상 “러시아, 무조건 철군”…추가 제재 논의]]></title>
             <link>https://tv.naver.com/v/36111725</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 May 2023 12:33:06 GMT</pubDate>
             <content:encoded><![CDATA[5:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_139/UBpPr_16844956288383msCE_JPEG/cover_0000249908_001_20230519202433355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“대통령 거부권 제한하자”…처럼회 ‘입법 폭주’ 논란]]></title>
-            <link>https://tv.naver.com/v/36109747</link>
-            <guid>https://tv.naver.com/v/36109747</guid>
-            <pubDate>Fri, 19 May 2023 12:33:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_147/MWH5O_1684495565652qmx4U_JPEG/cover_0000249900_001_20230519202423218.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
