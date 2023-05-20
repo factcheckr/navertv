@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 08:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 09:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 양양 앞바다서 1.6t 밍크고래 혼획…1,120만 원에 위판]]></title>
+            <link>https://tv.naver.com/v/36130317</link>
+            <guid>https://tv.naver.com/v/36130317</guid>
+            <pubDate>Sat, 20 May 2023 09:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_74/evMQx_1684572382568JqpMb_JPEG/cover_0001059366_001_20230520174607589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 한복판서 사라진 다이아 팔찌…허리 숙인 모습에 찾았다]]></title>
             <link>https://tv.naver.com/v/36129464</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 May 2023 23:17:08 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_8/zf8po_1684535169544er0ec_JPEG/cover_0001059296_001_20230520072501122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 시찰단, 내일 일본행…"최대한 접근해 역량 확인"]]></title>
-            <link>https://tv.naver.com/v/36120042</link>
-            <guid>https://tv.naver.com/v/36120042</guid>
-            <pubDate>Fri, 19 May 2023 23:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_37/s8DzT_1684535054142htLRe_JPEG/cover_0001059295_001_20230520072301120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 08:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 09:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보영상] 젤렌스키 G7 정상회의 참석 위해 일본 히로시마 도착]]></title>
+            <link>https://tv.naver.com/v/36130388</link>
+            <guid>https://tv.naver.com/v/36130388</guid>
+            <pubDate>Sat, 20 May 2023 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_278/MpDrl_1684572513628XUTFs_JPEG/cover_0011489013_001_20230520174801150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보기] 시사기획 창 : 욕창, 여기 사람 있어요]]></title>
+            <link>https://tv.naver.com/v/36130244</link>
+            <guid>https://tv.naver.com/v/36130244</guid>
+            <pubDate>Sat, 20 May 2023 09:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_203/akssy_16845722128295hb0b_JPEG/cover_0011489011_001_20230520174301311.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[5시 날씨] 내일 전국에 옅은 황사…새벽 중부 비 조금]]></title>
             <link>https://tv.naver.com/v/36129505</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 20 May 2023 01:20:25 GMT</pubDate>
             <content:encoded><![CDATA[8:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_87/h82cj_1684539860844Ovy4U_JPEG/cover_0011488939_001_20230520084101118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[클로즈업 북한] 높은 지위, 열악한 처우…속 타는 선생님]]></title>
-            <link>https://tv.naver.com/v/36120436</link>
-            <guid>https://tv.naver.com/v/36120436</guid>
-            <pubDate>Sat, 20 May 2023 01:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[10:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_178/fU3hN_1684539358156dLf3O_JPEG/cover_0011488938_001_20230520083209874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[요즘 북한은] “묵묵히 체육 영웅을 키운 스승들” 외]]></title>
-            <link>https://tv.naver.com/v/36120434</link>
-            <guid>https://tv.naver.com/v/36120434</guid>
-            <pubDate>Sat, 20 May 2023 01:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[5:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_274/LDQoW_1684539281108QxJt1_JPEG/cover_0011488937_001_20230520083201142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
