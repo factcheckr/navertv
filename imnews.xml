@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 23:18:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 01:21:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["야!!" 웃통 벗고 쫓아오더니 어깨를 '쾅'‥공포의 출근길]]></title>
+            <link>https://tv.naver.com/v/36120641</link>
+            <guid>https://tv.naver.com/v/36120641</guid>
+            <pubDate>Sat, 20 May 2023 01:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_226/I2ire_1684540891255wT2qW_JPEG/cover_cover_jisoo_1_20230520090102089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[종로 5만 명 연등행렬‥오후 1시부터 교통통제]]></title>
             <link>https://tv.naver.com/v/36120229</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 19 May 2023 12:31:52 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230519_132/XfIaH_1684495114363MSNk4_JPEG/cover_cover_desk_20230519_195548_1_7_Large_20230519201805346.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대기아, 차량도난 집단소송에 2억 달러 보상 합의]]></title>
-            <link>https://tv.naver.com/v/36109512</link>
-            <guid>https://tv.naver.com/v/36109512</guid>
-            <pubDate>Fri, 19 May 2023 12:31:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230519_184/VhaaL_1684495017383Vw7R9_JPEG/cover_cover_desk_20230519_201030_1_13_Large_20230519201605068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
