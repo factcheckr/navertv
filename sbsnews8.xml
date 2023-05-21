@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 20:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 21:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/36165475</link>
+            <guid>https://tv.naver.com/v/36165475</guid>
+            <pubDate>Sun, 21 May 2023 21:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_3/Xo20M_1684703506219UJCig_JPEG/cover_0001059599_001_20230522061101100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 엘살바도르 축구장에서 관람객 최소 9명 압사]]></title>
             <link>https://tv.naver.com/v/36158912</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 21 May 2023 04:20:05 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230521_54/0Jpiq_1684641390519l34Cc_JPEG/cover_0001059497_001_20230521125601118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 앨라배마서 생일 파티 중 총격…1명 사망 · 3명 부상]]></title>
-            <link>https://tv.naver.com/v/36145279</link>
-            <guid>https://tv.naver.com/v/36145279</guid>
-            <pubDate>Sun, 21 May 2023 04:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_279/LsZZe_1684641262898035mv_JPEG/cover_0001059496_001_20230521125401156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
