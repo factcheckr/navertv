@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 May 2023 05:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 May 2023 06:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]대통령 곁 ‘윤석열 키즈’ 4인방, 이들이 진짜 ‘찐’?]]></title>
+            <link>https://tv.naver.com/v/36147828</link>
+            <guid>https://tv.naver.com/v/36147828</guid>
+            <pubDate>Sun, 21 May 2023 06:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[21:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_42/ENZGW_1684649364622WqDWQ_JPEG/cover_0000249986_001_20230521150201576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“北 무모한 행동엔 강력 대응”…북한 규탄한 G7]]></title>
             <link>https://tv.naver.com/v/36146510</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 20 May 2023 11:14:56 GMT</pubDate>
             <content:encoded><![CDATA[4:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230520_16/1zSOd_1684578553845Xzr0T_JPEG/cover_0000249959_001_20230520192701484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[귀순 일가족 “‘이만갑’보며 탈북 꿈꿨어요”]]></title>
-            <link>https://tv.naver.com/v/36132504</link>
-            <guid>https://tv.naver.com/v/36132504</guid>
-            <pubDate>Sat, 20 May 2023 11:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230520_83/Ap04J_16845783264986nla3_JPEG/cover_0000249957_001_20230520192401595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
