@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 07:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 08:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]‘더글로리’ 예솔이 가족 시구 총출동]]></title>
+            <link>https://tv.naver.com/v/36183676</link>
+            <guid>https://tv.naver.com/v/36183676</guid>
+            <pubDate>Mon, 22 May 2023 08:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230522_113/XZTWJ_168474163715642Lbl_JPEG/cover_0000250049_001_20230522164601560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한일 정상, 원폭 韓 희생자 위령비 첫 공동 참배]]></title>
             <link>https://tv.naver.com/v/36177016</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 21 May 2023 12:31:47 GMT</pubDate>
             <content:encoded><![CDATA[2:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230521_89/f9tG1_1684668963982m4SCq_JPEG/cover_0000250001_001_20230521203424504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘제2의 인생’ 최나연, 골프채 놓고 유튜버 변신]]></title>
-            <link>https://tv.naver.com/v/36153803</link>
-            <guid>https://tv.naver.com/v/36153803</guid>
-            <pubDate>Sun, 21 May 2023 10:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230521_43/e1VX0_1684663957814zxR55_JPEG/cover_0000250000_001_20230521191014122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
