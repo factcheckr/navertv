@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 13:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 14:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 22.3도…내일 12~23도]]></title>
+            <link>https://tv.naver.com/v/36240599</link>
+            <guid>https://tv.naver.com/v/36240599</guid>
+            <pubDate>Tue, 23 May 2023 14:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_31/tmNAG_1684850544540G8REP_JPEG/cover_0011490953_001_20230523230201131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대구 창업기업, 중기부 ‘딥테크-팁스’ 선정]]></title>
             <link>https://tv.naver.com/v/36238503</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 May 2023 13:21:33 GMT</pubDate>
             <content:encoded><![CDATA[0:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230523_170/ubV4Y_1684847076007FQ4iT_JPEG/cover_0011490923_001_20230523220420434.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현장 맞춤형 ‘문화유산 교과서’로 진로교육까지]]></title>
-            <link>https://tv.naver.com/v/36238111</link>
-            <guid>https://tv.naver.com/v/36238111</guid>
-            <pubDate>Tue, 23 May 2023 13:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_131/eBEU3_1684847096729I96TT_JPEG/cover_0011490922_001_20230523220413240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
