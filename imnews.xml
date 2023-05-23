@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 09:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 10:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이 시각 세계] 칸영화제 레드카펫에서 무슨 일이?]]></title>
+            <link>https://tv.naver.com/v/36230667</link>
+            <guid>https://tv.naver.com/v/36230667</guid>
+            <pubDate>Tue, 23 May 2023 10:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[0:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_151/n0k5e_1684833983004n0OGz_JPEG/cover_cover_today_20230523_065258_2_16_Large_U_20230523182604858.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상] "함께 누릴 수 있는 사회" 노무현 전 대통령 14주기]]></title>
+            <link>https://tv.naver.com/v/36230567</link>
+            <guid>https://tv.naver.com/v/36230567</guid>
+            <pubDate>Tue, 23 May 2023 10:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_14/MNNwN_1684833906048RA1Tv_JPEG/cover_cover_joo230523_vo6_20230523182204567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상M] 말레이시아에 FA-50 18대 수출‥이종섭 장관 "방산 협력 격상"]]></title>
             <link>https://tv.naver.com/v/36228295</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 23 May 2023 06:23:06 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230523_151/ejW2N_1684820030939Tjc0X_JPEG/cover_cover_14news_20230523_140720_1_4_Large_20230523143316308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 제1원전 시찰‥"오염수 탱크 집중 점검"]]></title>
-            <link>https://tv.naver.com/v/36219120</link>
-            <guid>https://tv.naver.com/v/36219120</guid>
-            <pubDate>Tue, 23 May 2023 06:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_161/o1Fbk_1684820028414DwPDb_JPEG/cover_cover_14news_20230523_140507_1_3_Large_20230523143310223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오염수 시찰단 공식 일정 시작‥도쿄전력과 최종 조율]]></title>
-            <link>https://tv.naver.com/v/36219075</link>
-            <guid>https://tv.naver.com/v/36219075</guid>
-            <pubDate>Tue, 23 May 2023 06:23:06 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_245/8TQG4_16848199884011ko17_JPEG/cover_cover_desk_20230522_194329_1_1_Large_20230523143204536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
