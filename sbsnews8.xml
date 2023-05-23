@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 17:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 18:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[후쿠시마 원전 첫 시찰…화학분석동 점검]]></title>
+            <link>https://tv.naver.com/v/36246603</link>
+            <guid>https://tv.naver.com/v/36246603</guid>
+            <pubDate>Tue, 23 May 2023 18:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_154/Og5kT_16848660084259a1iw_JPEG/cover_0001060194_001_20230524031901126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[240억 위성 싣고 첫 실전…'운명의 15분']]></title>
+            <link>https://tv.naver.com/v/36246471</link>
+            <guid>https://tv.naver.com/v/36246471</guid>
+            <pubDate>Tue, 23 May 2023 18:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_8/Mqgle_1684864512463ikaia_JPEG/cover_0001060193_001_20230524025401126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['누리호' 하늘 향해 섰다…준비 순조]]></title>
+            <link>https://tv.naver.com/v/36246447</link>
+            <guid>https://tv.naver.com/v/36246447</guid>
+            <pubDate>Tue, 23 May 2023 18:21:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_131/mFEeQ_1684864200621MLhXp_JPEG/cover_0001060192_001_20230524024901119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 낮 더위…서울 낮 최고 기온 25도 안팎]]></title>
             <link>https://tv.naver.com/v/36243654</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 23 May 2023 13:21:54 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230523_202/y5obS_1684845555728dVIKU_JPEG/cover_0001060168_001_20230523213809665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/36236856</link>
-            <guid>https://tv.naver.com/v/36236856</guid>
-            <pubDate>Tue, 23 May 2023 13:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_41/4cVrE_1684845489738I5mqb_JPEG/cover_0001060179_001_20230523213801152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["할리데이비슨 사 달라"…뇌물 받은 경기도청 간부 기소]]></title>
-            <link>https://tv.naver.com/v/36236833</link>
-            <guid>https://tv.naver.com/v/36236833</guid>
-            <pubDate>Tue, 23 May 2023 13:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_201/UvHex_1684845469737eudvI_JPEG/cover_0001060174_001_20230523213722800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 맑고 대기질 깨끗…올여름, 남부 집중 호우 전망]]></title>
-            <link>https://tv.naver.com/v/36236824</link>
-            <guid>https://tv.naver.com/v/36236824</guid>
-            <pubDate>Tue, 23 May 2023 13:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_19/45kHg_1684845463881Fkd6z_JPEG/cover_0001060178_001_20230523213713416.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
