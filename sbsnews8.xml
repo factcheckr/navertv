@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 14:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 15:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 낮 더위…서울 낮 최고 기온 25도 안팎]]></title>
+            <link>https://tv.naver.com/v/36243654</link>
+            <guid>https://tv.naver.com/v/36243654</guid>
+            <pubDate>Tue, 23 May 2023 15:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_9/fw7OM_1684854713479FR7cC_JPEG/cover_0001059012_001_20230524001101119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스딱] 인라인 · 킥보드도 '차'로 간주…교통사고 내면 "보험처리 제한"]]></title>
             <link>https://tv.naver.com/v/36237461</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 May 2023 13:21:54 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230523_19/45kHg_1684845463881Fkd6z_JPEG/cover_0001060178_001_20230523213713416.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['공 때리는 그녀들'의 유쾌한 도전]]></title>
-            <link>https://tv.naver.com/v/36236163</link>
-            <guid>https://tv.naver.com/v/36236163</guid>
-            <pubDate>Tue, 23 May 2023 12:34:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_227/DEemb_1684844528386lAyic_JPEG/cover_0001060176_001_20230523212011807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
