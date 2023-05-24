@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 20:19:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 21:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누리호 발사 전격 연기…"3시간 앞두고 통신 이상"]]></title>
+            <link>https://tv.naver.com/v/36288901</link>
+            <guid>https://tv.naver.com/v/36288901</guid>
+            <pubDate>Wed, 24 May 2023 21:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_24/YieAP_1684962661617Tkl9v_JPEG/cover_0001060487_001_20230525061001145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/36288896</link>
+            <guid>https://tv.naver.com/v/36288896</guid>
+            <pubDate>Wed, 24 May 2023 21:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_118/S88x5_1684962586132gB472_JPEG/cover_0001060502_001_20230525060901119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제재 못하는 밤샘 집회…헌법 전문가들이 본 '집회 제한']]></title>
             <link>https://tv.naver.com/v/36288603</link>
@@ -102,14 +118,6 @@
             <pubDate>Wed, 24 May 2023 16:23:17 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_49/XNk3L_1684945329523Vf50P_JPEG/cover_0001060488_001_20230525012101149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누리호 발사 전격 연기…"3시간 앞두고 통신 이상"]]></title>
-            <link>https://tv.naver.com/v/36285870</link>
-            <guid>https://tv.naver.com/v/36285870</guid>
-            <pubDate>Wed, 24 May 2023 16:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_150/igtyz_1684945084209UkHyd_JPEG/cover_0001060487_001_20230525011701107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[D리포트] "해외에선 스트레스가 없어서…" 기업인들과 치맥 만찬]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 May 2023 14:17:33 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230524_169/P6U0p_1684934890398jRrlS_JPEG/cover_0001060444_001_20230524222701223.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주 "방류 들러리 시찰단" vs 국힘 "거짓 선동 중단하라"]]></title>
-            <link>https://tv.naver.com/v/36279379</link>
-            <guid>https://tv.naver.com/v/36279379</guid>
-            <pubDate>Wed, 24 May 2023 14:17:33 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_116/9MJmf_1684934861043b5fbW_JPEG/cover_0001060449_001_20230524222632234.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
