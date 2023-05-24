@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 06:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 07:17:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/36264536</link>
+            <guid>https://tv.naver.com/v/36264536</guid>
+            <pubDate>Wed, 24 May 2023 07:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_101/K9gCg_1684912060129WrJXz_JPEG/cover_cover_20230524155713_20_845_1328720_1080_7_20230524160701128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[중계차] 누리호, 오후 6시24분 예정대로 발사 확정]]></title>
             <link>https://tv.naver.com/v/36262171</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 24 May 2023 01:27:27 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230524_108/Eab0d_1684889373340VddQI_JPEG/cover_cover_20230524094523_20_605_1328689_1080_7_20230524094901135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] BTS 기념우표, 3시간 만에 '완판'?]]></title>
-            <link>https://tv.naver.com/v/36249859</link>
-            <guid>https://tv.naver.com/v/36249859</guid>
-            <pubDate>Wed, 24 May 2023 01:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_292/JKjCA_1684889251754WyVy1_JPEG/cover_cover_20230524094413_20_605_1328688_1080_7_20230524094701158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
