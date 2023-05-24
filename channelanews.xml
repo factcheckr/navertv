@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 09:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 10:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누리호 발사 3시간 앞두고 ‘오류’…25일 발사?]]></title>
+            <link>https://tv.naver.com/v/36272381</link>
+            <guid>https://tv.naver.com/v/36272381</guid>
+            <pubDate>Wed, 24 May 2023 10:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230524_109/kBvvj_1684923516920wQwbX_JPEG/cover_0000250206_001_20230524191726580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상]1844일 만에 승리…장원준 울먹, 팬들은 감격]]></title>
             <link>https://tv.naver.com/v/36262504</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 May 2023 12:35:25 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230523_165/tkg9H_1684841342172zflmT_JPEG/cover_0000250147_001_20230523202814847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[누리호 3차 발사 나선다…실제 위성 싣고 “24일 우주로”]]></title>
-            <link>https://tv.naver.com/v/36234408</link>
-            <guid>https://tv.naver.com/v/36234408</guid>
-            <pubDate>Tue, 23 May 2023 12:35:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_111/uR5rm_16848413424000GIGJ_JPEG/cover_0000250149_001_20230523202804038.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
