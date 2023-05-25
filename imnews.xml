@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 04:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 05:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현지 시찰 종료‥도쿄전력과 최종 회의]]></title>
+            <link>https://tv.naver.com/v/36301049</link>
+            <guid>https://tv.naver.com/v/36301049</guid>
+            <pubDate>Thu, 25 May 2023 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_25/mxi0Z_1684991694367s8FNB_JPEG/cover_cover_14news_20230525_140514_1_3_Large_20230525141412320.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누리호 발사 임박‥이 시각 나로우주센터]]></title>
+            <link>https://tv.naver.com/v/36301041</link>
+            <guid>https://tv.naver.com/v/36301041</guid>
+            <pubDate>Thu, 25 May 2023 05:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_192/jSPEw_168499168794886oVc_JPEG/cover_cover_14news_20230525_140317_1_2_Large_20230525141404440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스피, 기관 매도세에 하락 전환‥SK하이닉스 연고점 경신]]></title>
             <link>https://tv.naver.com/v/36296954</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 25 May 2023 01:22:38 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_30/ggcNj_1684975321745HuCMy_JPEG/cover_cover_0930_20230525_093739_1_4_Large_20230525094123724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['테라' 권도형 '보석 결정' 취소‥"도주 우려"]]></title>
-            <link>https://tv.naver.com/v/36291220</link>
-            <guid>https://tv.naver.com/v/36291220</guid>
-            <pubDate>Thu, 25 May 2023 01:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_298/WNJxQ_1684975310015dHysd_JPEG/cover_cover_0930_20230525_093543_1_3_Large_20230525094117410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['오염수 시찰단' 점검 종료‥오늘 최종 기술회의]]></title>
-            <link>https://tv.naver.com/v/36291218</link>
-            <guid>https://tv.naver.com/v/36291218</guid>
-            <pubDate>Thu, 25 May 2023 01:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_240/lZ4h1_1684975313411oo8xt_JPEG/cover_cover_0930_20230525_093407_1_2_Large_20230525094110891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
