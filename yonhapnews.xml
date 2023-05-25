@@ -4,9 +4,17 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 09:19:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 10:20:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[풀영상] 누리호 정상 비행 완료…위성 8기 모두 분리 성공]]></title>
+            <link>https://tv.naver.com/v/36314795</link>
+            <guid>https://tv.naver.com/v/36314795</guid>
+            <pubDate>Thu, 25 May 2023 10:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[40:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_125/sOxeE_1685009255601oeGhe_JPEG/1685009252880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라 "F-16 조종사 훈련 수일내 개시"…젤렌스키, '속도' 강조]]></title>
             <link>https://tv.naver.com/v/36310926</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 23 May 2023 07:16:55 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230523_40/GmmKX_16848256143146QrOu_JPEG/1684825604022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도살장 실려가던 돼지 도로에 뚝…20여분 만에 다시 붙잡혀]]></title>
-            <link>https://tv.naver.com/v/36220953</link>
-            <guid>https://tv.naver.com/v/36220953</guid>
-            <pubDate>Tue, 23 May 2023 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230523_232/cBp1u_1684822409140MlBeg_JPEG/1684822067249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
