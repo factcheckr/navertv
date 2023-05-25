@@ -4,16 +4,32 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 10:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 11:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['하루 연기' 긴장됐던 24시간…누리호 3차 발사 최종 성공]]></title>
+            <link>https://tv.naver.com/v/36316980</link>
+            <guid>https://tv.naver.com/v/36316980</guid>
+            <pubDate>Thu, 25 May 2023 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_97/svmS9_1685013154682IFHp4_JPEG/cover_0001060760_001_20230525201113664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우주에 위성 하나둘 스르륵…누리호 깔끔 셀카에 "우와"]]></title>
+            <link>https://tv.naver.com/v/36316873</link>
+            <guid>https://tv.naver.com/v/36316873</guid>
+            <pubDate>Thu, 25 May 2023 11:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_198/7XEdu_1685012883192YxAUH_JPEG/cover_0001060759_001_20230525200701107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누리호, 위성 8기 분리 성공…우주 향한 역사적 순간 [영상]]]></title>
             <link>https://tv.naver.com/v/36315205</link>
             <guid>https://tv.naver.com/v/36315205</guid>
             <pubDate>Thu, 25 May 2023 10:19:03 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_135/w41Ao_1685009889279oznao_JPEG/cover_0001060742_001_20230525191802333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_4/a0o3u_1685009941539q9GQ0_JPEG/cover_0001060742_001_20230525191802333.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누리호 목표 궤도 투입 · 위성 분리 성공…어떤 의미?]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 25 May 2023 09:18:29 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_182/J6rtP_1685002905246DQoDY_JPEG/cover_0001060703_001_20230525172101123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] "수출 포탄 우크라이나로"…정부, 12만 발 추가 계약]]></title>
-            <link>https://tv.naver.com/v/36310129</link>
-            <guid>https://tv.naver.com/v/36310129</guid>
-            <pubDate>Thu, 25 May 2023 08:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_26/K5PZt_1685002682872CPGk5_JPEG/cover_0001060701_001_20230525171701118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전세사기 지원법 · '김남국 방지법' 국회 본회의 통과]]></title>
-            <link>https://tv.naver.com/v/36310040</link>
-            <guid>https://tv.naver.com/v/36310040</guid>
-            <pubDate>Thu, 25 May 2023 08:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_15/sqLC9_1685002564154qhM0g_JPEG/cover_0001060700_001_20230525171501111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
