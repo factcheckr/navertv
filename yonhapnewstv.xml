@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 06:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 07:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["오늘은 꼭 성공하길"…누리호 응원 인파 발길]]></title>
+            <link>https://tv.naver.com/v/36306569</link>
+            <guid>https://tv.naver.com/v/36306569</guid>
+            <pubDate>Thu, 25 May 2023 07:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_160/2ahCU_16849981895329qCQ6_JPEG/cover_cover_MYH20230525014100641_20230525160203573.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 누리호, 연료·산화제 충전 시작]]></title>
+            <link>https://tv.naver.com/v/36306290</link>
+            <guid>https://tv.naver.com/v/36306290</guid>
+            <pubDate>Thu, 25 May 2023 07:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_171/mT9g7_1684997833352McwYW_JPEG/cover_cover_MYH20230525013800038_20230525155702011.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내륙 초여름 날씨…내일 흐리고 곳곳 비·소나기]]></title>
             <link>https://tv.naver.com/v/36304009</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 25 May 2023 04:20:45 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_117/WPRhT_1684987828001Rtjpx_JPEG/cover_cover_MYH20230525010600641_20230525131004213.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당, 의원총회…혁신기구 구성·쇄신 방향 등 논의]]></title>
-            <link>https://tv.naver.com/v/36298254</link>
-            <guid>https://tv.naver.com/v/36298254</guid>
-            <pubDate>Thu, 25 May 2023 04:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_274/Zo6FR_1684987772437i6VVa_JPEG/cover_cover_MYH20230525010500641_20230525130909015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['성비위 의혹' 정진술 서울시의원, 더불어민주당서 제명]]></title>
-            <link>https://tv.naver.com/v/36298251</link>
-            <guid>https://tv.naver.com/v/36298251</guid>
-            <pubDate>Thu, 25 May 2023 04:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_183/tkHto_1684987761125otRM2_JPEG/cover_cover_MYH20230525010400641_20230525130901928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
