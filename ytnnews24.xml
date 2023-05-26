@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 19:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 20:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3백만 송이 '활짝'...울산대공원은 장미 천지]]></title>
+            <link>https://tv.naver.com/v/36366839</link>
+            <guid>https://tv.naver.com/v/36366839</guid>
+            <pubDate>Fri, 26 May 2023 20:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_182/jSyCA_1685130230201cHKku_JPEG/cover_cover_202305270440345332_t_20230527044301510.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2백 명 탄 여객기 착륙 직전 문 열려...12명 호흡곤란]]></title>
             <link>https://tv.naver.com/v/36366639</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 15:18:43 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_10/4Q5Ng_1685111388384fLyUd_JPEG/cover_cover_202305252117509043_t_20230526232902314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도요샛 4호기 신호 확인...총 6기 수신완료]]></title>
-            <link>https://tv.naver.com/v/36362383</link>
-            <guid>https://tv.naver.com/v/36362383</guid>
-            <pubDate>Fri, 26 May 2023 15:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_49/YVnXJ_1685111016674VlCsf_JPEG/cover_cover_202305262315564345_t_20230526232321110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
