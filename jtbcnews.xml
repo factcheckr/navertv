@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 03:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 04:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 바흐무트서 붙잡힌 우크라이나군 106명 풀려나…민간인 복장도]]></title>
+            <link>https://tv.naver.com/v/36338029</link>
+            <guid>https://tv.naver.com/v/36338029</guid>
+            <pubDate>Fri, 26 May 2023 04:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_129/s6vNI_1685071954642FjIhc_JPEG/cover_0000344669_001_20230526123201579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 오후부터 곳곳에 소나기…연휴 내내 비소식]]></title>
             <link>https://tv.naver.com/v/36336692</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 May 2023 12:34:57 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_174/ufD4m_16850167136447RfbA_JPEG/cover_0000344591_001_20230525211101443.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['5년치 임금' 떼먹고 튄 농장주…한국정부 상대 법정다툼 나선 사연]]></title>
-            <link>https://tv.naver.com/v/36319080</link>
-            <guid>https://tv.naver.com/v/36319080</guid>
-            <pubDate>Thu, 25 May 2023 12:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_61/ug6mv_1685016363400RTu51_JPEG/cover_0000344593_001_20230525210501435.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
