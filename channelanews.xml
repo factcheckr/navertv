@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 May 2023 08:23:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 09:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[병영 추억인데…軍, 군복 입고 몸짱 사진 촬영 금지령]]></title>
+            <link>https://tv.naver.com/v/36352399</link>
+            <guid>https://tv.naver.com/v/36352399</guid>
+            <pubDate>Fri, 26 May 2023 09:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_26/2wQJO_1685091631901wbc0M_JPEG/cover_0000232257_001_20230526175901479.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[착륙 직전 상공서 문열린 아시아나 여객기…“‘승객이 문 건드렸다’ 진술”]]></title>
             <link>https://tv.naver.com/v/36344562</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 25 May 2023 12:35:50 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230525_19/Js8si_1685014710741wipG9_JPEG/cover_0000250309_001_20230525203711421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“다른 데로 또 가라고”…보이스피싱 잡아낸 택시 기사의 ‘촉’]]></title>
-            <link>https://tv.naver.com/v/36317765</link>
-            <guid>https://tv.naver.com/v/36317765</guid>
-            <pubDate>Thu, 25 May 2023 12:35:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230525_180/ANlD5_1685014635515YgTkI_JPEG/cover_0000250311_001_20230525203615893.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
