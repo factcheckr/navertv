@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 20:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 21:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[387회_지진 전망과 대피요령]]></title>
+            <link>https://tv.naver.com/v/36388808</link>
+            <guid>https://tv.naver.com/v/36388808</guid>
+            <pubDate>Sat, 27 May 2023 21:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[15:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_122/w1094_16852205904428oDGz_JPEG/cover_cover_20230528053821_20_849_1329034_1080_7_20230528054201171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[발 묶인 괌 관광객 귀국은?…"군 수송기 투입 검토 안 해"]]></title>
             <link>https://tv.naver.com/v/36382450</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 12:33:19 GMT</pubDate>
             <content:encoded><![CDATA[9:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_260/UEyFW_1685100534452xKA5I_JPEG/cover_cover_20230526201708_20_536_1329002_1080_7_20230526202401157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치와이드] 조국이 보낸 '마음의 빚' 청구서?]]></title>
-            <link>https://tv.naver.com/v/36356704</link>
-            <guid>https://tv.naver.com/v/36356704</guid>
-            <pubDate>Fri, 26 May 2023 12:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[12:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_296/wd5Fi_1685100414436uQxQF_JPEG/cover_cover_20230526201602_20_536_1329001_1080_7_20230526202201152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
