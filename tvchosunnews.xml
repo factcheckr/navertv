@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 06:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 07:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 27 May 2023 06:22:05 GMT</pubDate>
             <content:encoded><![CDATA[10:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230527_68/v6UMp_16851684945150O6TQ_JPEG/cover_2023052790024_thumb_031326_20230527151701625.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안산에 나타난 김남국…與 "세비 받으며 잠행쇼"]]></title>
+            <link>https://tv.naver.com/v/36373991</link>
+            <guid>https://tv.naver.com/v/36373991</guid>
+            <pubDate>Sat, 27 May 2023 07:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[44:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_283/OHeYU_1685169081102P78xX_JPEG/cover_2023052790020_thumb_031233_20230527151601588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비상문 개방 30대 입 열었다…"답답해서 문 열었다"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 12:33:01 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230526_7/X2G8W_1685103729569qzTID_JPEG/cover_2023052690156_thumb_092001_20230526212101480.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[따져보니] '누리호' 경제적 가치와 남은 과제는]]></title>
-            <link>https://tv.naver.com/v/36358175</link>
-            <guid>https://tv.naver.com/v/36358175</guid>
-            <pubDate>Fri, 26 May 2023 12:33:01 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230526_239/e3ebg_1685103445332wwTmY_JPEG/cover_2023052690148_thumb_091102_20230526211605207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
