@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 19:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 20:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 600회]]></title>
+            <link>https://tv.naver.com/v/36388636</link>
+            <guid>https://tv.naver.com/v/36388636</guid>
+            <pubDate>Sat, 27 May 2023 20:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[30:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_241/Rkh60_1685218453153EIoFP_JPEG/cover_cover_MYH20230526015100641_20230528050101739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주거 사다리? 사금융 제도? 기로에 선 전세제도 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/36382489</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 May 2023 08:20:10 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230527_152/7zV82_16851752480423Syr3_JPEG/cover_cover_MYH20230527008400641_20230527171301848.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황금연휴 내내 비바람…태풍 '마와르' 한반도 안 온다]]></title>
-            <link>https://tv.naver.com/v/36376436</link>
-            <guid>https://tv.naver.com/v/36376436</guid>
-            <pubDate>Sat, 27 May 2023 08:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_228/TFUQm_168517518680401QCT_JPEG/cover_cover_MYH20230527008300641_20230527171203477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
