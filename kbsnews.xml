@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 May 2023 03:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 May 2023 04:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] NASA 레이더 시설도 부숴버린 ‘슈퍼 태풍’ 마와르…괌 위성사진 전후 비교하니 ‘처참’]]></title>
+            <link>https://tv.naver.com/v/36371798</link>
+            <guid>https://tv.naver.com/v/36371798</guid>
+            <pubDate>Sat, 27 May 2023 04:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_173/Gd7Hq_1685160345608iVAUl_PNG/cover_0011493598_001_20230527130501173.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[12시 뉴스] 부처님 오신 날, 중부 비…내일 전국에 비]]></title>
             <link>https://tv.naver.com/v/36370861</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 26 May 2023 22:15:41 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230527_260/nZW9T_1685138347041easJK_JPEG/cover_0011493535_001_20230527065810167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 대한야구소프트볼협회 왜 이러나?…횡령 직원들 ‘승진’에 억대 환수금 ‘대납’까지]]></title>
-            <link>https://tv.naver.com/v/36367386</link>
-            <guid>https://tv.naver.com/v/36367386</guid>
-            <pubDate>Fri, 26 May 2023 22:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_233/dKTqA_168513832254589Fi2_JPEG/cover_0011493534_001_20230527065801152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
