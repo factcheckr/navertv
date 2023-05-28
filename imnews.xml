@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 22:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 23:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[괌 공항 오늘 운영 재개‥한국 관광객 순차 귀국]]></title>
+            <link>https://tv.naver.com/v/36412508</link>
+            <guid>https://tv.naver.com/v/36412508</guid>
+            <pubDate>Sun, 28 May 2023 23:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[2:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_42/8zRD0_1685315631799HSxcw_JPEG/cover_cover_today_20230529_080737_1_2_Large_20230529081302522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스트레이트] 패권 전쟁, 위기의 한국 경제]]></title>
             <link>https://tv.naver.com/v/36403830</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 May 2023 22:15:06 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230528_59/a9ChJ_1685225587275eOLKI_JPEG/cover_cover_today_20230528_070541_1_5_Large_20230528071039881.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미국 주도 중국 견제' IPEF 공급망 협정 타결]]></title>
-            <link>https://tv.naver.com/v/36389127</link>
-            <guid>https://tv.naver.com/v/36389127</guid>
-            <pubDate>Sat, 27 May 2023 22:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_197/6U9xV_1685225465619kF55P_JPEG/cover_cover_today_20230528_070458_1_4_Large_20230528071032248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
