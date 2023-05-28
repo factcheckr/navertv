@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 03:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 04:21:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12시 날씨] 오늘 전국 비…밤부터 충청·남부 강한 비]]></title>
+            <link>https://tv.naver.com/v/36391890</link>
+            <guid>https://tv.naver.com/v/36391890</guid>
+            <pubDate>Sun, 28 May 2023 04:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_289/W71F8_1685243912318hjCRC_JPEG/cover_0011493820_001_20230528121801150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘美주도 中견제’ IPEF 공급망 협정 체결]]></title>
             <link>https://tv.naver.com/v/36391875</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 27 May 2023 13:17:53 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230527_107/Je2mN_1685192913206Xev2V_JPEG/cover_0011493742_001_20230527220815308.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충주·제천에서 과수화상병 추가 발생…누적 20건]]></title>
-            <link>https://tv.naver.com/v/36382662</link>
-            <guid>https://tv.naver.com/v/36382662</guid>
-            <pubDate>Sat, 27 May 2023 13:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230527_89/dWq5Q_1685192902294Ypjt5_JPEG/cover_0011493741_001_20230527220808482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
