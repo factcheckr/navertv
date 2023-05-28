@@ -4,7 +4,7 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 May 2023 21:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 22:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sun, 28 May 2023 21:15:31 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230529_101/bKp3h_1685307794301yuaqd_JPEG/cover_0001061320_001_20230529060209232.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[D리포트] '시흥동 연인 보복살해' 30대 남성 구속]]></title>
+            <link>https://tv.naver.com/v/36411826</link>
+            <guid>https://tv.naver.com/v/36411826</guid>
+            <pubDate>Sun, 28 May 2023 22:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_206/axLXx_1685310020923VYMSz_JPEG/cover_0001061319_001_20230529060201139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['특급 신인' 방신실 첫 우승…대형 스타 탄생]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 28 May 2023 08:19:47 GMT</pubDate>
             <content:encoded><![CDATA[0:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230528_290/oWg2t_1685258859125R0b5t_JPEG/cover_0001061270_001_20230528162701107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['앱으로 만난 여성 살해 · 유기' 20대 여성 긴급 체포]]></title>
-            <link>https://tv.naver.com/v/36396290</link>
-            <guid>https://tv.naver.com/v/36396290</guid>
-            <pubDate>Sun, 28 May 2023 08:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_189/RVqhn_1685258129174SYFMK_JPEG/cover_0001061248_001_20230528161505104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
