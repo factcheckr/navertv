@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 08:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 09:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]말잇못…‘삐약이’ 신유빈, 눈물의 의미는?]]></title>
+            <link>https://tv.naver.com/v/36424541</link>
+            <guid>https://tv.naver.com/v/36424541</guid>
+            <pubDate>Mon, 29 May 2023 09:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_125/R20fm_1685348935670MiFDi_PNG/cover_0000250509_001_20230529172801577.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]수도권 비 그치고 낮더위, 서울 29도…오늘 남부 중심 강한 비]]></title>
             <link>https://tv.naver.com/v/36418034</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 28 May 2023 12:31:11 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230528_45/jA8aO_1685273650852tGMeV_JPEG/cover_0000250462_001_20230528203301524.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 대통령 지지율 올해 최고치]]></title>
-            <link>https://tv.naver.com/v/36400532</link>
-            <guid>https://tv.naver.com/v/36400532</guid>
-            <pubDate>Sun, 28 May 2023 11:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[6:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_220/wVwQX_1685269126883zkax7_JPEG/cover_0000250458_001_20230528191601603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
