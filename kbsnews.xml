@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 15:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 16:23:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 전세가 하락 폭 〉매매가 하락 폭…월세도 하락 전환]]></title>
+            <link>https://tv.naver.com/v/36437789</link>
+            <guid>https://tv.naver.com/v/36437789</guid>
+            <pubDate>Mon, 29 May 2023 16:21:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_297/eKNFb_1685374294336lVjSx_JPEG/cover_0011494477_001_20230530003101126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[라인W 날씨] 내일 아침까지 전남, 경남에 비…낮 기온 크게 올라]]></title>
             <link>https://tv.naver.com/v/36437366</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 May 2023 15:17:02 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230529_235/MFqwd_1685370062438In1UE_JPEG/cover_0011494485_001_20230529232049228.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘태화강마두희축제’ 공간 확장…새 프로그램 ‘다채’]]></title>
-            <link>https://tv.naver.com/v/36435769</link>
-            <guid>https://tv.naver.com/v/36435769</guid>
-            <pubDate>Mon, 29 May 2023 15:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_178/PqRZR_1685370064122mOFWc_JPEG/cover_0011494484_001_20230529232042875.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
