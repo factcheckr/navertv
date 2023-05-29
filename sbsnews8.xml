@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 16:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 17:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/36438783</link>
+            <guid>https://tv.naver.com/v/36438783</guid>
+            <pubDate>Mon, 29 May 2023 17:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_255/5TrMv_1685377600678wOQSS_JPEG/cover_0001061504_001_20230530012613658.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 다시 여름 더위…곳곳 흐리고 소나기]]></title>
+            <link>https://tv.naver.com/v/36438777</link>
+            <guid>https://tv.naver.com/v/36438777</guid>
+            <pubDate>Mon, 29 May 2023 17:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_287/WGcFi_1685377592730fbb8w_JPEG/cover_0001061503_001_20230530012601123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['휴대폰' 맡기러 전당포 찾는 젊은이들]]></title>
+            <link>https://tv.naver.com/v/36438739</link>
+            <guid>https://tv.naver.com/v/36438739</guid>
+            <pubDate>Mon, 29 May 2023 17:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_184/W0tdx_1685377403126paBvX_JPEG/cover_0001061502_001_20230530012201125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[들어보셨나요?…사용률 0%대 '세금포인트']]></title>
             <link>https://tv.naver.com/v/36438675</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 29 May 2023 13:20:30 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230529_218/DyjUx_1685365410342XWDJU_JPEG/cover_0001061461_001_20230529220208133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[숨어버린 10대…마약 구조 · 회복 현장은 시간과의 싸움]]></title>
-            <link>https://tv.naver.com/v/36433224</link>
-            <guid>https://tv.naver.com/v/36433224</guid>
-            <pubDate>Mon, 29 May 2023 13:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_240/lFdwl_1685365431177WXEjz_JPEG/cover_0001061463_001_20230529220157957.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근에 잘 안 보이던 전당포 근황…2030들이 찾는 이유]]></title>
-            <link>https://tv.naver.com/v/36433220</link>
-            <guid>https://tv.naver.com/v/36433220</guid>
-            <pubDate>Mon, 29 May 2023 13:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_124/lYJJi_1685365393181WVTWV_JPEG/cover_0001061462_001_20230529220148043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10대 노리는 마약 판매상…걸려든 10대, 어느새 공급책]]></title>
-            <link>https://tv.naver.com/v/36433200</link>
-            <guid>https://tv.naver.com/v/36433200</guid>
-            <pubDate>Mon, 29 May 2023 13:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_16/WZalA_1685365359919ahOWN_JPEG/cover_0001061465_001_20230529220126393.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

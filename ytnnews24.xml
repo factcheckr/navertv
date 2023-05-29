@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 16:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 17:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] "이자 많이 줄게"...미성년자 용돈 노린 20대 구속]]></title>
+            <link>https://tv.naver.com/v/36438769</link>
+            <guid>https://tv.naver.com/v/36438769</guid>
+            <pubDate>Mon, 29 May 2023 17:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_85/qhoQm_16853775447768K8GX_JPEG/cover_cover_202305300119476103_t_20230530012502297.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 연휴 마지막 날까지 내린 '비'...태풍은 일본 향할 듯]]></title>
             <link>https://tv.naver.com/v/36438519</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 May 2023 14:16:10 GMT</pubDate>
             <content:encoded><![CDATA[0:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230529_293/yP2Ah_16853672018134zVsP_JPEG/cover_cover_202305292229508090_t_20230529223301785.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["적자 살림에도 교육비 포기 못해"...의료비도 증가]]></title>
-            <link>https://tv.naver.com/v/36434200</link>
-            <guid>https://tv.naver.com/v/36434200</guid>
-            <pubDate>Mon, 29 May 2023 14:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_94/5SBJM_1685367122915o9xTo_JPEG/cover_cover_202305292228353063_t_20230529223114224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
