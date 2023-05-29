@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 01:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 02:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["병가 내고 컬투쇼 방청"‥현직 경찰 행보에 '자체 감사']]></title>
+            <link>https://tv.naver.com/v/36415216</link>
+            <guid>https://tv.naver.com/v/36415216</guid>
+            <pubDate>Mon, 29 May 2023 02:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_71/XsK1T_1685327750810oJw5C_JPEG/cover_cover_y230529-26_20230529113502057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 남부 강한 비‥중부 낮더위, 남부 선선]]></title>
             <link>https://tv.naver.com/v/36412756</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 28 May 2023 03:18:43 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230528_247/tGzoY_16852432576939Nnwz_JPEG/cover_cover_noon_20230528_115645_1_1_Large_20230528120701709.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 충청·남부 강한 비‥오늘 밤~내일 시간당 20mm]]></title>
-            <link>https://tv.naver.com/v/36391703</link>
-            <guid>https://tv.naver.com/v/36391703</guid>
-            <pubDate>Sun, 28 May 2023 03:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230528_93/pogCA_1685243181667d0KAC_JPEG/cover_cover_noon_20230528_120102_1_5_Large_20230528120603832.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
