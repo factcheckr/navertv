@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 20:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 21:16:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/36440717</link>
+            <guid>https://tv.naver.com/v/36440717</guid>
+            <pubDate>Mon, 29 May 2023 21:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_224/ZjZdR_1685394763664PrzGz_JPEG/cover_0001061519_001_20230530061201182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[확진 학생 5일 격리 권고…출석 인정]]></title>
             <link>https://tv.naver.com/v/36440347</link>
@@ -69,7 +77,7 @@
             <guid>https://tv.naver.com/v/36438470</guid>
             <pubDate>Mon, 29 May 2023 16:22:06 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_77/D5niv_168537645627042Hau_JPEG/cover_0001061497_001_20230530010601116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_276/xPWQW_1685393345776hw5af_JPEG/cover_0001061497_001_20230530010601116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['자위함기' 단 일 호위함, 부산 입항]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 May 2023 13:20:30 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230529_130/FtFsB_1685365427383bDUr3_JPEG/cover_0001061483_001_20230529220217939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겹겹이 깔아둔 층간소음 방지 매트, 이 소음은 못 막았다]]></title>
-            <link>https://tv.naver.com/v/36433230</link>
-            <guid>https://tv.naver.com/v/36433230</guid>
-            <pubDate>Mon, 29 May 2023 13:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_218/DyjUx_1685365410342XWDJU_JPEG/cover_0001061461_001_20230529220208133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
