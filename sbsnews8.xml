@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 May 2023 09:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 May 2023 10:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8뉴스 예고] 북, 일본에 위성 발사 통보…"발사 즉각 철회" 촉구 등]]></title>
+            <link>https://tv.naver.com/v/36426969</link>
+            <guid>https://tv.naver.com/v/36426969</guid>
+            <pubDate>Mon, 29 May 2023 10:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_291/l0OkI_1685353835062bJhuJ_JPEG/cover_0001061446_001_20230529185001153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이번엔 베네치아운하…형광 녹색으로 변했다 [D리포트]]]></title>
             <link>https://tv.naver.com/v/36425748</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 29 May 2023 01:28:00 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230529_136/VL1zA_1685318925217sHRLK_JPEG/cover_0001061335_001_20230529090808003.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[비머pick] "이럴 줄은 꿈에도 몰랐죠"…'투잡' 구하는 엄마 아빠 폭증]]></title>
-            <link>https://tv.naver.com/v/36413002</link>
-            <guid>https://tv.naver.com/v/36413002</guid>
-            <pubDate>Mon, 29 May 2023 01:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230529_180/XNNWD_1685318944061XyWmE_JPEG/cover_0001061336_001_20230529090801204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
