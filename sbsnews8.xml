@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 20:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 21:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/36523832</link>
+            <guid>https://tv.naver.com/v/36523832</guid>
+            <pubDate>Wed, 31 May 2023 21:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_35/0lja6_1685567505359qJpWz_JPEG/cover_0001062128_001_20230601061101098.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["청바지 3곳서 DNA 검출"…'35년' 구형]]></title>
+            <link>https://tv.naver.com/v/36523665</link>
+            <guid>https://tv.naver.com/v/36523665</guid>
+            <pubDate>Wed, 31 May 2023 21:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_237/1HgGO_1685564932259nszTi_JPEG/cover_0001062118_001_20230601052801124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/36523294</link>
@@ -30,14 +46,6 @@
             <pubDate>Wed, 31 May 2023 19:14:04 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_176/rLZ1h_16855595397868fMoN_JPEG/cover_0001062119_001_20230601035801146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["청바지 3곳서 DNA 검출"…'35년' 구형]]></title>
-            <link>https://tv.naver.com/v/36523223</link>
-            <guid>https://tv.naver.com/v/36523223</guid>
-            <pubDate>Wed, 31 May 2023 19:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_84/Vo58m_1685559233266oK68a_JPEG/cover_0001062118_001_20230601035301121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아빠가 추천한 딸 '만점' 받고 채용]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 May 2023 13:21:29 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230531_120/PZ6uz_1685537733935HSoUd_JPEG/cover_0001062075_001_20230531215432460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[후쿠시마 시찰단 "알프스 처리 전후 미가공 데이터 확보"]]></title>
-            <link>https://tv.naver.com/v/36514477</link>
-            <guid>https://tv.naver.com/v/36514477</guid>
-            <pubDate>Wed, 31 May 2023 13:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_34/uXmx2_1685537737507BPzkz_JPEG/cover_0001062078_001_20230531215422345.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
