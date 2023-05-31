@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 23:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 01:45:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[北, 남쪽 방향 우주발사체 발사…軍 “폭발·추락 등 실패 가능성”]]></title>
+            <link>https://tv.naver.com/v/36483335</link>
+            <guid>https://tv.naver.com/v/36483335</guid>
+            <pubDate>Wed, 31 May 2023 01:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_299/eetOr_1685492662906S1vpG_JPEG/cover_0000250627_001_20230531092301474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤 대통령, 한상혁 방통위원장 면직안 재가…후임 이동관 유력]]></title>
             <link>https://tv.naver.com/v/36470964</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 30 May 2023 12:37:26 GMT</pubDate>
             <content:encoded><![CDATA[8:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230530_207/jyC9Z_1685445445117FkXum_JPEG/cover_0000250590_001_20230530201301513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 정보 유출 혐의…MBC·국회 전격 압수수색]]></title>
-            <link>https://tv.naver.com/v/36467442</link>
-            <guid>https://tv.naver.com/v/36467442</guid>
-            <pubDate>Tue, 30 May 2023 11:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[7:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_142/EpkaY_1685445343043J0LnO_JPEG/cover_0000250589_001_20230530201158907.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
