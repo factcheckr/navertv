@@ -4,17 +4,9 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 03:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 04:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[北 우주발사체 서해로 추락…“곧 2차 발사” 예고도]]></title>
-            <link>https://tv.naver.com/v/36489420</link>
-            <guid>https://tv.naver.com/v/36489420</guid>
-            <pubDate>Wed, 31 May 2023 03:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_200/ZgJF0_1685503357404ojL0i_JPEG/cover_0000250637_001_20230531122101515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[北, 남쪽 방향 우주발사체 발사…軍 “폭발·추락 등 실패 가능성”]]></title>
             <link>https://tv.naver.com/v/36483335</link>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 30 May 2023 12:37:26 GMT</pubDate>
             <content:encoded><![CDATA[8:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230530_242/joll9_1685445439505d2WJa_JPEG/cover_0000250591_001_20230530201318117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“宋 경쟁 캠프도 살포 정황”…민주당 ‘돈봉투’ 판 커지나]]></title>
+            <link>https://tv.naver.com/v/36467470</link>
+            <guid>https://tv.naver.com/v/36467470</guid>
+            <pubDate>Wed, 31 May 2023 04:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[8:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230530_207/jyC9Z_1685445445117FkXum_JPEG/cover_0000250590_001_20230530201301513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
