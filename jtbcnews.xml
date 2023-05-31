@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 22:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 23:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 중부 낮 최고 30도 '오존 주의'…남부지방·제주 비]]></title>
+            <link>https://tv.naver.com/v/36524668</link>
+            <guid>https://tv.naver.com/v/36524668</guid>
+            <pubDate>Wed, 31 May 2023 23:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_252/6QkqZ_1685574685251lhjyW_JPEG/cover_0000345320_001_20230601081101491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰, 분향소 천막 '질서 문란' 이유로 강제 철거…'캡사이신' 경고도]]></title>
             <link>https://tv.naver.com/v/36517263</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 31 May 2023 09:29:38 GMT</pubDate>
             <content:encoded><![CDATA[10:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230531_73/JTRRt_16855253478480WBbN_JPEG/cover_0000345263_001_20230531182601545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태영호 빈자리, 원외 경쟁에 관심 '뚝'…김재원 "링 밖 레슬링하겠다"]]></title>
-            <link>https://tv.naver.com/v/36505701</link>
-            <guid>https://tv.naver.com/v/36505701</guid>
-            <pubDate>Wed, 31 May 2023 09:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[8:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230531_235/l7zUI_16855246993197eA3r_JPEG/cover_0000345261_001_20230531181601509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
