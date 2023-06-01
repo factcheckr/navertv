@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Jun 2023 17:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 18:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라 접경 러 서부 벨고로드에 또 드론 공격...2명 부상]]></title>
+            <link>https://tv.naver.com/v/36563370</link>
+            <guid>https://tv.naver.com/v/36563370</guid>
+            <pubDate>Thu, 01 Jun 2023 18:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_246/HhR6z_1685639838815yGI2d_JPEG/cover_cover_202306020116051440_t_20230602021701619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보티첼리에서 고흐까지...미술 거장 50명의 시선]]></title>
             <link>https://tv.naver.com/v/36562336</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 01 Jun 2023 14:17:20 GMT</pubDate>
             <content:encoded><![CDATA[2:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230601_293/YPuTl_1685628379287apUac_JPEG/cover_cover_202306012302319287_t_20230601230518054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[軍 "잔해 동체는 2단 추진체·길이만 15m...위성 탑재체도 추적"]]></title>
-            <link>https://tv.naver.com/v/36557724</link>
-            <guid>https://tv.naver.com/v/36557724</guid>
-            <pubDate>Thu, 01 Jun 2023 14:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230601_183/Oq6dI_1685628339271bto8w_JPEG/cover_cover_202306012301335376_t_20230601230501948.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
