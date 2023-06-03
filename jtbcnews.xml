@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 02:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 03:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인도서 열차 탈선 후 충돌…"최소 230여 명 사망"]]></title>
+            <link>https://tv.naver.com/v/36606713</link>
+            <guid>https://tv.naver.com/v/36606713</guid>
+            <pubDate>Sat, 03 Jun 2023 03:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_107/wmMRs_168576190317161Cuj_JPEG/cover_0000345665_001_20230603121101463.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] "피를 섞자"더니 아이디어만 빼먹고 투자 철회한 교보문고…스타트업 탈취에 당정도 칼 빼든다]]></title>
             <link>https://tv.naver.com/v/36605864</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 02 Jun 2023 12:35:04 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230602_149/NIkgi_1685705808755GeNEQ_JPEG/cover_0000345621_001_20230602203610645.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이자장사'로 짭짤하게 벌었다…국내은행 1분기 순이익 7조원]]></title>
-            <link>https://tv.naver.com/v/36592679</link>
-            <guid>https://tv.naver.com/v/36592679</guid>
-            <pubDate>Fri, 02 Jun 2023 12:35:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230602_240/NRljt_1685705570477pxlJs_JPEG/cover_0000345619_001_20230602203201526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
