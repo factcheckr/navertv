@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Jun 2023 10:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 11:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스한판] 北은 발사 실패, 南은 '오발령' 소동]]></title>
+            <link>https://tv.naver.com/v/36615566</link>
+            <guid>https://tv.naver.com/v/36615566</guid>
+            <pubDate>Sat, 03 Jun 2023 11:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[16:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_32/vd3Z6_1685790532288kmU7a_JPEG/cover_cover_MYH20230602021100641_20230603200101828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인도서 최악의 열차 사고…탈선 뒤 충돌]]></title>
             <link>https://tv.naver.com/v/36614653</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 08:20:58 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_238/IdpGL_1685776928453h6lSu_JPEG/cover_cover_MYH20230603008400032_20230603162101801.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 낮 기온 껑충, 초여름 더위…오후 경북 '소나기']]></title>
-            <link>https://tv.naver.com/v/36610702</link>
-            <guid>https://tv.naver.com/v/36610702</guid>
-            <pubDate>Sat, 03 Jun 2023 07:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_215/nLxDH_1685775172703P6uue_JPEG/cover_cover_MYH20230603008300641_20230603155203410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
