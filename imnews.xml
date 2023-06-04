@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 10:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 11:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['초계기 갈등' 더 안 따진다‥"재발방지책에 중점"]]></title>
+            <link>https://tv.naver.com/v/36636610</link>
+            <guid>https://tv.naver.com/v/36636610</guid>
+            <pubDate>Sun, 04 Jun 2023 11:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_294/POAId_1685877099296YMFqU_JPEG/cover_cover_desk_20230604_195934_1_1_Large_20230604201101957.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 휴일, 낮더위 계속‥중부 바람 다소 강해]]></title>
             <link>https://tv.naver.com/v/36626569</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 12:31:06 GMT</pubDate>
             <content:encoded><![CDATA[2:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_236/yQ3gP_1685792410092uGAY1_JPEG/cover_cover_desk_20230603_200409_1_3_Large_20230603203919786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도서 열차 탈선 뒤 또다른 열차와 충돌‥사망자 280명 넘어]]></title>
-            <link>https://tv.naver.com/v/36616270</link>
-            <guid>https://tv.naver.com/v/36616270</guid>
-            <pubDate>Sat, 03 Jun 2023 12:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_19/Jioez_1685792406106PtbPS_JPEG/cover_cover_desk_20230603_200048_1_1_Large_20230603203910975.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
