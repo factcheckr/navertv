@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 12:33:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 13:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트] 챗GPT혁명, 인공지능의 습격]]></title>
+            <link>https://tv.naver.com/v/36638512</link>
+            <guid>https://tv.naver.com/v/36638512</guid>
+            <pubDate>Sun, 04 Jun 2023 13:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[35:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_41/6vchW_16858825977055e7ih_JPEG/cover_cover_straight_20230604_210816_1_1_Large_20230604213403765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[22살 바리톤 김태한‥'퀸 엘리자베스 콩쿠르' 우승]]></title>
             <link>https://tv.naver.com/v/36637663</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 22:15:25 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230604_118/WamrV_1685830270825oaXgA_JPEG/cover_cover_today_20230604_070724_1_6_Large_20230604071101622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든 대통령, 미국 부채한도 합의안 서명]]></title>
-            <link>https://tv.naver.com/v/36624247</link>
-            <guid>https://tv.naver.com/v/36624247</guid>
-            <pubDate>Sat, 03 Jun 2023 22:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_98/gZZPu_1685830217941bTAwr_JPEG/cover_cover_today_20230604_070657_1_5_Large_20230604071003485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
