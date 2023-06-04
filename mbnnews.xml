@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 21:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 22:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[U-20 대표팀, 나이지리아에 1:0 승리…월드컵 2회 연속 4강 진출]]></title>
+            <link>https://tv.naver.com/v/36645939</link>
+            <guid>https://tv.naver.com/v/36645939</guid>
+            <pubDate>Sun, 04 Jun 2023 22:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_28/NvvBx_16859169326021EUym_JPEG/cover_cover_20230605071130_20_605_1329603_1080_7_20230605071502961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6월 5일 굿모닝MBN 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/36645925</link>
+            <guid>https://tv.naver.com/v/36645925</guid>
+            <pubDate>Sun, 04 Jun 2023 22:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_33/YdqQt_1685916844514ihVv9_JPEG/cover_cover_20230605070943_20_605_1329602_1080_7_20230605071301146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]내일도 여름 더위 계속…중북부 소나기, 제주 비]]></title>
             <link>https://tv.naver.com/v/36638228</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 12:32:16 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_70/bEwTb_1685793132981S7R4R_JPEG/cover_cover_20230603204802_20_906_1329556_1080_7_20230603205101283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월 3일 MBN 뉴스센터 클로징]]></title>
-            <link>https://tv.naver.com/v/36616362</link>
-            <guid>https://tv.naver.com/v/36616362</guid>
-            <pubDate>Sat, 03 Jun 2023 12:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_116/WWGmB_1685792630438fiD8t_JPEG/cover_cover_20230603203851_20_906_1329570_1080_7_20230603204301134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 내일도 맑고 더워요]]></title>
-            <link>https://tv.naver.com/v/36616319</link>
-            <guid>https://tv.naver.com/v/36616319</guid>
-            <pubDate>Sat, 03 Jun 2023 12:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_30/co7JQ_1685792497018ErAYQ_JPEG/cover_cover_20230603203739_20_906_1329569_1080_7_20230603204101119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
