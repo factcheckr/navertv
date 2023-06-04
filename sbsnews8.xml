@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 07:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 08:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 세계 각국, '288명 사망' 인도 열차 참사 애도 물결]]></title>
+            <link>https://tv.naver.com/v/36631314</link>
+            <guid>https://tv.naver.com/v/36631314</guid>
+            <pubDate>Sun, 04 Jun 2023 08:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_146/dkoPq_16858631985103yoqr_JPEG/cover_0001062898_001_20230604161901112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] '의대 쏠림'  합격선 최고치…자연계, 서울대 고대보다 낮아]]></title>
             <link>https://tv.naver.com/v/36630592</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 15:15:57 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_169/MrAMp_1685802809099Nxbsb_JPEG/cover_0001062789_001_20230603233221508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 일요일도 더워요…낮 동안 강한 자외선 주의]]></title>
-            <link>https://tv.naver.com/v/36620073</link>
-            <guid>https://tv.naver.com/v/36620073</guid>
-            <pubDate>Sat, 03 Jun 2023 15:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_179/FT4ng_1685802708096ys5GC_JPEG/cover_0001062799_001_20230603233114422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
