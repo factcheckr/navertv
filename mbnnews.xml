@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 11:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 12:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨]내일도 여름 더위 계속…중북부 소나기, 제주 비]]></title>
+            <link>https://tv.naver.com/v/36638228</link>
+            <guid>https://tv.naver.com/v/36638228</guid>
+            <pubDate>Sun, 04 Jun 2023 12:32:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_221/NaS6J_16858814300921mC3b_JPEG/cover_cover_20230604201344_20_906_1329599_1080_7_20230604212301143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미주 이민 120주년 기념…그 시절 뱃길로 인천 입항]]></title>
             <link>https://tv.naver.com/v/36636608</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 12:32:16 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_30/co7JQ_1685792497018ErAYQ_JPEG/cover_cover_20230603203739_20_906_1329569_1080_7_20230603204101119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙아시아 통일과나눔 아카데미 KT&G 한국어학당 개원]]></title>
-            <link>https://tv.naver.com/v/36615806</link>
-            <guid>https://tv.naver.com/v/36615806</guid>
-            <pubDate>Sat, 03 Jun 2023 11:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_31/vJ2T0_1685790921076Ill3N_JPEG/cover_cover_20230603201304_20_906_1329568_1080_7_20230603201501410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
