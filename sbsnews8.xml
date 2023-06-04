@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Jun 2023 05:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jun 2023 06:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 직장인 60% "퇴근 후 업무 연락 받는다"]]></title>
+            <link>https://tv.naver.com/v/36629748</link>
+            <guid>https://tv.naver.com/v/36629748</guid>
+            <pubDate>Sun, 04 Jun 2023 06:23:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_77/jJ81n_1685858696655C767E_JPEG/cover_0001062891_001_20230604150401130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 맑고 초여름 더위…자외선 지수 '매우 높음']]></title>
             <link>https://tv.naver.com/v/36626824</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 03 Jun 2023 15:15:57 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230603_82/Z3UTe_1685802575249CFxM9_JPEG/cover_0001062792_001_20230603232912817.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/36620017</link>
-            <guid>https://tv.naver.com/v/36620017</guid>
-            <pubDate>Sat, 03 Jun 2023 15:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230603_100/BmyJA_1685802553705B25Vq_JPEG/cover_0001062800_001_20230603232901147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
