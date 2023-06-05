@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 05:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 06:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 05 Jun 2023 05:17:36 GMT</pubDate>
             <content:encoded><![CDATA[7:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_130/kR0Fs_16859421982762rNHW_JPEG/cover_0000250942_001_20230605141323627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최강욱, 경찰 압수수색에 “너무 황당…어이없어”]]></title>
+            <link>https://tv.naver.com/v/36657970</link>
+            <guid>https://tv.naver.com/v/36657970</guid>
+            <pubDate>Mon, 05 Jun 2023 06:24:05 GMT</pubDate>
+            <content:encoded><![CDATA[15:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_20/cQRbx_1685942477985ulR9C_JPEG/cover_0000250941_001_20230605141301504.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘한동훈 개인정보’ 유출 의혹…경찰, 최강욱 압수수색]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 04 Jun 2023 11:14:27 GMT</pubDate>
             <content:encoded><![CDATA[11:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230604_128/Kymv7_1685874705378scinO_JPEG/cover_0000250903_001_20230604192701499.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘37만 개 부품의 하모니’ 누리호 성공 속 비밀]]></title>
-            <link>https://tv.naver.com/v/36635283</link>
-            <guid>https://tv.naver.com/v/36635283</guid>
-            <pubDate>Sun, 04 Jun 2023 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230604_186/Tj7Py_1685873957411i3LSO_JPEG/cover_0000250912_001_20230604191701489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
