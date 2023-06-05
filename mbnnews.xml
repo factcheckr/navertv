@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 04:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 05:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D뉴스] 불, 불, 불 테슬라 또 화재…'전기차가 무서워']]></title>
+            <link>https://tv.naver.com/v/36655994</link>
+            <guid>https://tv.naver.com/v/36655994</guid>
+            <pubDate>Mon, 05 Jun 2023 05:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_119/3XYEJ_16859394180175fl8n_JPEG/cover_cover_20230605132311_20_868_1329656_1080_7_20230605132901137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['부산 돌려차기 피의자' 신상 알린 유튜버]]></title>
             <link>https://tv.naver.com/v/36649493</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 04 Jun 2023 23:18:36 GMT</pubDate>
             <content:encoded><![CDATA[1:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_226/vIMSC_16859200717934T3Up_JPEG/cover_cover_20230605080316_20_605_1329621_1080_7_20230605080701127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]한낮 더위 계속…중북부 소나기·제주 비]]></title>
-            <link>https://tv.naver.com/v/36646298</link>
-            <guid>https://tv.naver.com/v/36646298</guid>
-            <pubDate>Sun, 04 Jun 2023 23:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_77/1A0f2_1685919947401gGub9_JPEG/cover_cover_20230605080124_20_605_1329620_1080_7_20230605080501139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
