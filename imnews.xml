@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 12:38:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 13:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_51/kekfH_168596638980632Xm1_JPEG/cover_cover_desk_20230605_194231_1_1_Large_20230605205902013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뉴스데스크 클로징]]></title>
+            <link>https://tv.naver.com/v/36675079</link>
+            <guid>https://tv.naver.com/v/36675079</guid>
+            <pubDate>Mon, 05 Jun 2023 13:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_98/rMw0p_1685966297227yhygt_JPEG/cover_cover_desk_20230605_204958_1_30_Large_20230605205811885.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[날씨] 현충일 아침 안개·중부 서해안 이슬비‥한낮 햇볕 쨍쨍, 오후 동쪽 곳곳 소나기]]></title>
             <link>https://tv.naver.com/v/36675074</link>
             <guid>https://tv.naver.com/v/36675074</guid>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Jun 2023 12:37:13 GMT</pubDate>
             <content:encoded><![CDATA[3:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_90/PDUTg_16859642336884Pl2E_JPEG/cover_cover_desk_20230605_201654_1_14_Large_20230605202301648.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특파원이 간다] '좀비의 거리' 들어가 보니‥펜타닐에 마비된 도시]]></title>
-            <link>https://tv.naver.com/v/36673780</link>
-            <guid>https://tv.naver.com/v/36673780</guid>
-            <pubDate>Mon, 05 Jun 2023 12:37:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_232/Spw1F_1685963987045Xgztb_JPEG/cover_cover_desk_20230605_201144_1_12_Large_20230605201804004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
