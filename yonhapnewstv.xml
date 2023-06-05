@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Jun 2023 02:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 03:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 6월 5일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/36652912</link>
+            <guid>https://tv.naver.com/v/36652912</guid>
+            <pubDate>Mon, 05 Jun 2023 03:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_253/1TM8V_1685935000590xgzlG_JPEG/cover_cover_MYH20230605008800641_20230605121603341.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨톡톡] 동쪽 중심 낮더위, 자외선·오존↑…제주 비]]></title>
             <link>https://tv.naver.com/v/36650965</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 05 Jun 2023 01:45:53 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230605_18/HLRev_1685920888899EOuVk_JPEG/cover_cover_MYH20230605004000641_20230605082101698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설악산서 암벽등반 중 추락한 50대 여성 구조…의식 없어]]></title>
-            <link>https://tv.naver.com/v/36646341</link>
-            <guid>https://tv.naver.com/v/36646341</guid>
-            <pubDate>Sun, 04 Jun 2023 23:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230605_162/Y9bGT_1685920231755XwM3Q_JPEG/cover_cover_MYH20230605003900641_20230605081003591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
