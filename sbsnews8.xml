@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Jun 2023 20:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jun 2023 21:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/36717187</link>
+            <guid>https://tv.naver.com/v/36717187</guid>
+            <pubDate>Tue, 06 Jun 2023 21:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_260/4cjfj_1686085781957iXafW_JPEG/cover_0001063450_001_20230607060901131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/36715351</link>
@@ -69,7 +77,7 @@
             <guid>https://tv.naver.com/v/36715116</guid>
             <pubDate>Tue, 06 Jun 2023 16:22:56 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_72/qqF4l_1686067341704h3HYa_JPEG/cover_0001063430_001_20230607010101108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_173/QJ6da_1686084142519ihJo9_JPEG/cover_0001063430_001_20230607010101108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["남자친구가 흉기로 상해"…'옥살이' 뒤 반전]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Jun 2023 15:18:25 GMT</pubDate>
             <content:encoded><![CDATA[5:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230606_71/1MPKp_16860631774576oEEB_JPEG/cover_0001063394_001_20230606234931273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 기밀부터 마약 은어도 술술…'다크웹' 학습한 AI]]></title>
-            <link>https://tv.naver.com/v/36713449</link>
-            <guid>https://tv.naver.com/v/36713449</guid>
-            <pubDate>Tue, 06 Jun 2023 15:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_137/aXMSN_1686063024388SIk7k_JPEG/cover_0001063395_001_20230606234921540.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
