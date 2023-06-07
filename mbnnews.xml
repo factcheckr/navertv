@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 08:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 09:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김명준의 뉴스파이터 오프닝 - 오발령 비판하더니 오발탄?]]></title>
+            <link>https://tv.naver.com/v/36741818</link>
+            <guid>https://tv.naver.com/v/36741818</guid>
+            <pubDate>Wed, 07 Jun 2023 09:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_260/5lnbl_1686129690259TBBu9_JPEG/cover_cover_20230607181639_20_673_1329805_1080_7_20230607182101147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["코로나로 힘들어서…죄송" '7만 원 과자 논란' 상인, 사과문 게시 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/36738970</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Jun 2023 23:17:58 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230607_174/wolMR_1686092352180ljx4V_JPEG/cover_cover_20230607075408_20_605_1329768_1080_7_20230607075901142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]출근길 중북부 빗방울…어제보다 더 더워]]></title>
-            <link>https://tv.naver.com/v/36718017</link>
-            <guid>https://tv.naver.com/v/36718017</guid>
-            <pubDate>Tue, 06 Jun 2023 23:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_226/R5q0i_16860921409955Ikmw_JPEG/cover_cover_20230607075020_20_605_1329766_1080_7_20230607075501140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
