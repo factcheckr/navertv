@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 20:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 21:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/36759041</link>
+            <guid>https://tv.naver.com/v/36759041</guid>
+            <pubDate>Wed, 07 Jun 2023 21:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_219/vvA9v_1686172309587X1Aye_JPEG/cover_0001063740_001_20230608061101116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/36758616</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 07 Jun 2023 15:18:30 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230607_11/CFpn8_1686149904091fw7QC_JPEG/cover_0001063694_001_20230607235712857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["약물 법원, 재범률 3배 낮춘다"…국내 마약 재활 실상은]]></title>
-            <link>https://tv.naver.com/v/36754848</link>
-            <guid>https://tv.naver.com/v/36754848</guid>
-            <pubDate>Wed, 07 Jun 2023 15:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_240/jKbtg_1686149902597Cnjj4_JPEG/cover_0001063688_001_20230607235701114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
