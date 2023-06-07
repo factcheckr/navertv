@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Jun 2023 05:17:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jun 2023 06:26:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 치킨보다 싸다?…반값 '대게' 열풍]]></title>
+            <link>https://tv.naver.com/v/36730745</link>
+            <guid>https://tv.naver.com/v/36730745</guid>
+            <pubDate>Wed, 07 Jun 2023 06:25:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230607_16/Q974g_1686115627515POY7s_JPEG/cover_2023060790111_thumb_022443_20230607142607430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최원일, 이재명에 "천안함 북한 만행이죠?" 물었지만 묵묵부답]]></title>
             <link>https://tv.naver.com/v/36730049</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 06 Jun 2023 13:21:15 GMT</pubDate>
             <content:encoded><![CDATA[4:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230606_156/WKJSu_1686055954503WYByN_JPEG/cover_2023060690126_thumb_094506_20230606215101512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영상통화하면 한 공간에 있는 듯…애플도 '확장현실' 경쟁]]></title>
-            <link>https://tv.naver.com/v/36708729</link>
-            <guid>https://tv.naver.com/v/36708729</guid>
-            <pubDate>Tue, 06 Jun 2023 13:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230606_168/t1gbO_1686055638749UmVq3_JPEG/cover_2023060690160_thumb_094411_20230606214632796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
