@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 06:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건] 오늘의 주요 뉴스]]></title>
+            <link>https://tv.naver.com/v/36778385</link>
+            <guid>https://tv.naver.com/v/36778385</guid>
+            <pubDate>Thu, 08 Jun 2023 07:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_5/BuAkD_1686208305842WPiPK_JPEG/cover_0011500799_001_20230608161001123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 해병대 출신 70대 한인 반격에 美 강도 줄행랑]]></title>
+            <link>https://tv.naver.com/v/36777836</link>
+            <guid>https://tv.naver.com/v/36777836</guid>
+            <pubDate>Thu, 08 Jun 2023 07:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_170/2EaDE_1686207634116eALCg_JPEG/cover_0011500794_001_20230608160001162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방사성의약품 전문가 “후쿠시마 오염수 희석하면 마시겠다” [오늘 이슈]]]></title>
             <link>https://tv.naver.com/v/36775264</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 08 Jun 2023 04:20:38 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_164/XXzVS_16861952352825aWVv_JPEG/cover_0011500720_001_20230608123301121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오후날씨 꿀팁] 오후 중부·경북에 비…수도권에 강한 비]]></title>
-            <link>https://tv.naver.com/v/36768065</link>
-            <guid>https://tv.naver.com/v/36768065</guid>
-            <pubDate>Thu, 08 Jun 2023 04:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_225/dbiop_1686194792301TPrNa_JPEG/cover_0011500719_001_20230608122610878.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김의철 KBS 사장 “수신료 분리징수 철회하면 사퇴하겠다”]]></title>
-            <link>https://tv.naver.com/v/36768059</link>
-            <guid>https://tv.naver.com/v/36768059</guid>
-            <pubDate>Thu, 08 Jun 2023 04:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_87/tFVwz_1686194804453OhJh1_JPEG/cover_0011500718_001_20230608122601149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
