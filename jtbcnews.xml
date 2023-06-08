@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 22:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 23:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 비 그친 뒤 무더위…주말 내내 잦은 소나기·비 소식]]></title>
+            <link>https://tv.naver.com/v/36802285</link>
+            <guid>https://tv.naver.com/v/36802285</guid>
+            <pubDate>Thu, 08 Jun 2023 23:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_286/KxCpN_1686265889493G5q3J_JPEG/cover_0000346367_001_20230609081103722.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["박희영이 공황장애면 우린 산 시체"…구청장 '몰래 출근'에 충돌]]></title>
             <link>https://tv.naver.com/v/36794521</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 08 Jun 2023 10:19:11 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230608_223/iIfVd_1686219108956K3XYQ_JPEG/cover_0000346317_001_20230608191101442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전우원, 가족 핍박에도 '비자금 폭로' 계속…지분 가압류 당하기도]]></title>
-            <link>https://tv.naver.com/v/36785109</link>
-            <guid>https://tv.naver.com/v/36785109</guid>
-            <pubDate>Thu, 08 Jun 2023 10:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[11:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230608_258/5AeHf_1686217998135yPXkj_JPEG/cover_0000346149_001_20230608185001539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
