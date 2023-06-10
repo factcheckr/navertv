@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 02:47:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 03:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 넷플릭스 '계정공유 금지' 효과…"신규 가입자수 역대 최대치"]]></title>
+            <link>https://tv.naver.com/v/36842624</link>
+            <guid>https://tv.naver.com/v/36842624</guid>
+            <pubDate>Sat, 10 Jun 2023 03:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230610_59/TLtWo_1686366063325VLJUo_JPEG/cover_0001064361_001_20230610120001133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스브스뉴스] "확률형 아이템 구매 비용의 5% 환불해라" 일부 승소 이끌어 낸 메이플 유저 만나봄]]></title>
             <link>https://tv.naver.com/v/36841761</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Jun 2023 15:17:39 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_144/RzUrK_168632197130230AOO_JPEG/cover_0001064269_001_20230609234501109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대치동 재수학원서 '식중독' 의심…56명 증상]]></title>
-            <link>https://tv.naver.com/v/36834617</link>
-            <guid>https://tv.naver.com/v/36834617</guid>
-            <pubDate>Fri, 09 Jun 2023 15:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_3/2E7de_16863216108419rIvQ_JPEG/cover_0001064271_001_20230609233901110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
