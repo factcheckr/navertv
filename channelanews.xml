@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 05:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 06:22:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]“18시35분 캠프 사무실” 돈봉투 풀린 미스터리]]></title>
+            <link>https://tv.naver.com/v/36846165</link>
+            <guid>https://tv.naver.com/v/36846165</guid>
+            <pubDate>Sat, 10 Jun 2023 06:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[17:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230610_294/a0miK_1686377315374iVRAx_JPEG/cover_0000251279_001_20230610150101700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]공포의 ‘중식도’ 위협…한밤중 주택가 ‘묻지마 난동’]]></title>
             <link>https://tv.naver.com/v/36831594</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Jun 2023 11:15:54 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_225/0Frms_1686307056603SfJzs_JPEG/cover_0000251247_001_20230609193622276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“한 대 치고 싶었다”…前 천안함장에 ‘악플 테러’]]></title>
-            <link>https://tv.naver.com/v/36827098</link>
-            <guid>https://tv.naver.com/v/36827098</guid>
-            <pubDate>Fri, 09 Jun 2023 11:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[12:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_49/Acwep_1686307267623wGUeh_JPEG/cover_0000251245_001_20230609193601806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
