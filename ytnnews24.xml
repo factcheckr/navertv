@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 11:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 12:30:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하늘에서 우박 '우수수'...낙뢰·돌풍 피해도]]></title>
+            <link>https://tv.naver.com/v/36854218</link>
+            <guid>https://tv.naver.com/v/36854218</guid>
+            <pubDate>Sat, 10 Jun 2023 12:30:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230610_259/VHpxJ_1686399357569hcRpC_JPEG/cover_cover_202306102109561450_t_20230610211502570.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강풍·폭우에 옥탑방 지붕 구조물 추락]]></title>
             <link>https://tv.naver.com/v/36853064</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 10 Jun 2023 08:20:38 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230610_238/Rknk8_1686384484936SMA9B_JPEG/cover_cover_202306101658319342_t_20230610170701983.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박광온 "선관위 국조 엄정하게...중립성 훼손 막을 것"]]></title>
-            <link>https://tv.naver.com/v/36849087</link>
-            <guid>https://tv.naver.com/v/36849087</guid>
-            <pubDate>Sat, 10 Jun 2023 08:20:38 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230610_184/XShtG_1686384204466cSLt9_JPEG/cover_cover_202306101552443819_t_20230610170301790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
