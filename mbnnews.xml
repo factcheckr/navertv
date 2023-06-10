@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 20:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 21:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[393회_산사태와 집중호우 피해 예방요령]]></title>
+            <link>https://tv.naver.com/v/36862086</link>
+            <guid>https://tv.naver.com/v/36862086</guid>
+            <pubDate>Sat, 10 Jun 2023 21:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[15:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230611_286/Y1hHF_1686430442146w0dPx_JPEG/cover_cover_20230611054043_20_849_1330102_1080_7_20230611054601222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스추적] "이럴 거면 왜 공개?"…머그샷 도입·사적 제재 논란]]></title>
             <link>https://tv.naver.com/v/36854215</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 09 Jun 2023 12:35:22 GMT</pubDate>
             <content:encoded><![CDATA[15:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230609_27/QlT2s_1686313897279OPMMP_JPEG/cover_cover_20230609212022_20_536_1330068_1080_7_20230609212401148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치와이드] 미중 사이에서 "베팅" 압박받는 한국…어떤 선택해야?]]></title>
-            <link>https://tv.naver.com/v/36830049</link>
-            <guid>https://tv.naver.com/v/36830049</guid>
-            <pubDate>Sat, 10 Jun 2023 14:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[18:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230609_163/O6PFj_1686313760985oqjtE_JPEG/cover_cover_20230609211728_20_536_1330067_1080_7_20230609212201146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
