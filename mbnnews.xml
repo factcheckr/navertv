@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 06:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 07:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김주하 AI 뉴스] 미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/36900289</link>
+            <guid>https://tv.naver.com/v/36900289</guid>
+            <pubDate>Mon, 12 Jun 2023 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_26/uGpD6_1686552455381hdEE9_JPEG/cover_cover_20230612154501_20_845_1330182_1080_7_20230612154701110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["살아 나가라"…'40일의 기적' 아마존 4남매 어머니의 유언 [가상기자 뉴스픽]]]></title>
+            <link>https://tv.naver.com/v/36900210</link>
+            <guid>https://tv.naver.com/v/36900210</guid>
+            <pubDate>Mon, 12 Jun 2023 07:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_61/YNG8J_1686552374667XFLTz_JPEG/cover_cover_20230612154156_20_845_1330181_1080_7_20230612154501124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] "발 각질이 커피에 들어간 느낌"…더벤티, 논란 커지자 결국 사과]]></title>
             <link>https://tv.naver.com/v/36897594</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 11 Jun 2023 23:19:02 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230612_101/gQLJd_1686523696705bIhHk_JPEG/cover_cover_20230612074226_20_605_1330147_1080_7_20230612074701157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝 경제] 경기 저점 지나 상승 가능 / 줍줍 경쟁률 대폭 상승 / 남녀 경제활동 격차 7위]]></title>
-            <link>https://tv.naver.com/v/36886059</link>
-            <guid>https://tv.naver.com/v/36886059</guid>
-            <pubDate>Sun, 11 Jun 2023 23:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_194/kYQwn_1686523426236Azh5j_JPEG/cover_cover_20230612073911_20_605_1330146_1080_7_20230612074301150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['대반격' 우크라, 격전지 마을 탈환…러 "우크라 전투기 격추"]]></title>
-            <link>https://tv.naver.com/v/36886040</link>
-            <guid>https://tv.naver.com/v/36886040</guid>
-            <pubDate>Sun, 11 Jun 2023 23:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230612_196/5KdD6_1686523327433gVYO4_JPEG/cover_cover_20230612073537_20_605_1330145_1080_7_20230612074101135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
