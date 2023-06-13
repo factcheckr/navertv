@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 20:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 21:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/36965210</link>
+            <guid>https://tv.naver.com/v/36965210</guid>
+            <pubDate>Tue, 13 Jun 2023 21:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_155/0wSG5_1686690767970SHVKc_JPEG/cover_0001065205_001_20230614061203303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 요란한 소나기…낮 동안 강한 자외선]]></title>
             <link>https://tv.naver.com/v/36962314</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 13 Jun 2023 14:16:43 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230613_161/Y7sOn_1686663689247W8dFW_JPEG/cover_0001065151_001_20230613224011920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박희영 이틀 만에 출근…구청장실 앞 유족들엔 묵묵부답]]></title>
-            <link>https://tv.naver.com/v/36957048</link>
-            <guid>https://tv.naver.com/v/36957048</guid>
-            <pubDate>Tue, 13 Jun 2023 14:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230613_120/q6wZP_1686663640242d4GbS_JPEG/cover_0001065152_001_20230613223929460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
