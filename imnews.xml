@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 01:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 02:44:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["보수우파 지상파 안 봐"‥이동관의 '언론관']]></title>
+            <link>https://tv.naver.com/v/36929504</link>
+            <guid>https://tv.naver.com/v/36929504</guid>
+            <pubDate>Tue, 13 Jun 2023 02:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230613_300/KJkDS_1686624105111E5HL4_JPEG/cover_cover_today_20230613_062927_2_2_Large_U_20230613114105200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 동쪽 또 소나기 5~40mm, 벼락·돌풍·우박‥갈수록 기온 올라]]></title>
             <link>https://tv.naver.com/v/36925634</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 13 Jun 2023 01:40:41 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230613_253/slOWP_1686610867525sAU1E_JPEG/cover_cover_today_20230613_064851_2_14_Large_20230613080016497.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라, 최소 4개 전선서 반격‥4개 마을 수복]]></title>
-            <link>https://tv.naver.com/v/36923972</link>
-            <guid>https://tv.naver.com/v/36923972</guid>
-            <pubDate>Tue, 13 Jun 2023 01:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230613_197/AoWlr_1686610861568DX6VR_JPEG/cover_cover_today_20230613_064658_2_13_Large_20230613080007239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
