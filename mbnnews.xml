@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 06:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 07:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김주하 AI 뉴스] 미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/36981533</link>
+            <guid>https://tv.naver.com/v/36981533</guid>
+            <pubDate>Wed, 14 Jun 2023 07:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_219/mI3Se_1686725618359E8JOL_JPEG/cover_cover_20230614154914_20_845_1330410_1080_7_20230614155301127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[D뉴스] BJ 아영 '구타 흔적·중국인 병원' 등 의문점 증폭]]></title>
+            <link>https://tv.naver.com/v/36980896</link>
+            <guid>https://tv.naver.com/v/36980896</guid>
+            <pubDate>Wed, 14 Jun 2023 07:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_128/AOdFZ_1686724902842MjDMO_JPEG/cover_cover_20230614153710_20_868_1330409_1080_7_20230614154101166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 윤 대통령, '文 정부 태양광 비리'에 "의사결정 라인 철저히 조사"]]></title>
             <link>https://tv.naver.com/v/36974682</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 13 Jun 2023 23:16:48 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_159/RmOYT_16866976875821MJV9_JPEG/cover_cover_20230613203150_20_552_1330355_1080_7_20230614080701143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월 14일 굿모닝 MBN 클로징]]></title>
-            <link>https://tv.naver.com/v/36966404</link>
-            <guid>https://tv.naver.com/v/36966404</guid>
-            <pubDate>Tue, 13 Jun 2023 23:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_142/NKshW_1686697513330rf2Ff_JPEG/cover_cover_20230614080040_20_605_1330375_1080_7_20230614080501152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]전국 대부분 소나기…한낮 더위 이어져, 자외선 지수↑]]></title>
-            <link>https://tv.naver.com/v/36966389</link>
-            <guid>https://tv.naver.com/v/36966389</guid>
-            <pubDate>Tue, 13 Jun 2023 23:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_280/72XXQ_1686697432418Vfj6U_JPEG/cover_cover_20230614075925_20_605_1330374_1080_7_20230614080301125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
