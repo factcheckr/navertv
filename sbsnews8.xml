@@ -4,16 +4,24 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 20:19:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 21:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/37005509</link>
+            <guid>https://tv.naver.com/v/37005509</guid>
+            <pubDate>Wed, 14 Jun 2023 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_300/VRaRv_1686776983672Ggxwt_JPEG/cover_0001065513_001_20230615060901092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['4강 쾌거' 금의환향…"끝 아닌 시작"]]></title>
             <link>https://tv.naver.com/v/37005295</link>
             <guid>https://tv.naver.com/v/37005295</guid>
             <pubDate>Wed, 14 Jun 2023 20:18:30 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_147/nPWwy_1686772538232kOYlp_JPEG/cover_0001065496_001_20230615045401154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_18/p8phD_1686776571789fyohx_JPEG/cover_0001065496_001_20230615045401154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클로징]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 14 Jun 2023 13:20:39 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230614_90/OUwED_1686748406354CpO8W_JPEG/cover_0001065464_001_20230614221201120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민사 소송 때 피해자 개인정보 고스란히…막을 수 없나?]]></title>
-            <link>https://tv.naver.com/v/36997645</link>
-            <guid>https://tv.naver.com/v/36997645</guid>
-            <pubDate>Wed, 14 Jun 2023 13:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230614_87/dMDAv_1686748376994DRzN6_JPEG/cover_0001065459_001_20230614221150732.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
