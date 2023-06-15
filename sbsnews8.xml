@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 02:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 03:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/37013316</link>
+            <guid>https://tv.naver.com/v/37013316</guid>
+            <pubDate>Thu, 15 Jun 2023 03:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_282/VSQBz_16867990020586ghuF_JPEG/cover_0001065621_001_20230615121601125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] 노량진역 인근 화재…진화 작업 중]]></title>
+            <link>https://tv.naver.com/v/37013230</link>
+            <guid>https://tv.naver.com/v/37013230</guid>
+            <pubDate>Thu, 15 Jun 2023 03:19:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_52/11Dpk_16867987914545uhNk_JPEG/cover_0001065613_001_20230615121302881.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[1분핫뉴스] 이젠 '불량 무기'까지 파는 중국…개발도상국들 속앓이에도 선택지가 없다?]]></title>
             <link>https://tv.naver.com/v/37011696</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 14 Jun 2023 23:18:37 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230615_251/UVZeT_1686782386259sutuD_JPEG/cover_0001065535_001_20230615073801123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이정후 펄펄'…키움 4연승 질주]]></title>
-            <link>https://tv.naver.com/v/37006059</link>
-            <guid>https://tv.naver.com/v/37006059</guid>
-            <pubDate>Wed, 14 Jun 2023 23:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_11/Leq7F_1686782244010K057Q_JPEG/cover_0001065534_001_20230615073501123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 카페 '접속 오류'…"긴급 점검" 2시간여 만에 복구]]></title>
-            <link>https://tv.naver.com/v/37006045</link>
-            <guid>https://tv.naver.com/v/37006045</guid>
-            <pubDate>Wed, 14 Jun 2023 23:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_29/Daznr_1686782058134NpoIO_JPEG/cover_0001065533_001_20230615073401133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
