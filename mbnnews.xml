@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 20:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 21:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[395회_기상 전망과 해양사고 예방요령]]></title>
+            <link>https://tv.naver.com/v/37047190</link>
+            <guid>https://tv.naver.com/v/37047190</guid>
+            <pubDate>Thu, 15 Jun 2023 21:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[15:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_270/NhcKL_1686863151753uguqS_JPEG/cover_cover_20230616055455_20_849_1330575_1080_7_20230616055801147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일 더 더워져, 서울 낮 29도…저녁까지 소나기]]></title>
             <link>https://tv.naver.com/v/37034006</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 15 Jun 2023 11:15:32 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230615_211/16m53_1686824528569AqVyf_JPEG/cover_cover_20230615191702_20_552_1330541_1080_7_20230615192101132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, '5개 주가 폭락' 연루 온라인 카페 운영자 압수수색]]></title>
-            <link>https://tv.naver.com/v/37031249</link>
-            <guid>https://tv.naver.com/v/37031249</guid>
-            <pubDate>Thu, 15 Jun 2023 11:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230615_85/hsZoa_1686824408108XTwwz_JPEG/cover_cover_20230615191457_20_552_1330540_1080_7_20230615191901145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
