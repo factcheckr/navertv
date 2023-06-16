@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 09:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 10:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8뉴스 예고] 경의선 전기 공급 차질…KTX 등 운행 지연 등]]></title>
+            <link>https://tv.naver.com/v/37071851</link>
+            <guid>https://tv.naver.com/v/37071851</guid>
+            <pubDate>Fri, 16 Jun 2023 10:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_143/RXCTZ_1686908862002L3wdE_JPEG/cover_0001066037_001_20230616184701111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서울 31도·대구 34도…주말 첫 폭염특보 가능성]]></title>
             <link>https://tv.naver.com/v/37070512</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Jun 2023 08:21:11 GMT</pubDate>
             <content:encoded><![CDATA[17:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_205/FNfnD_1686900691683IpgJk_JPEG/cover_0001065993_001_20230616162401107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[쓴소리] "혁신위에 전권…이재명 거취, 공천권은?"]]></title>
-            <link>https://tv.naver.com/v/37065264</link>
-            <guid>https://tv.naver.com/v/37065264</guid>
-            <pubDate>Fri, 16 Jun 2023 08:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[15:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_274/7G6bC_1686900540940GgxdE_JPEG/cover_0001065989_001_20230616162201114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
