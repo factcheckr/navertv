@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 03:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 04:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 한낮 최고 35도…내륙 곳곳 올해 첫 폭염주의보]]></title>
+            <link>https://tv.naver.com/v/37087724</link>
+            <guid>https://tv.naver.com/v/37087724</guid>
+            <pubDate>Sat, 17 Jun 2023 04:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_97/5yPxJ_1686972317543JPvDe_JPEG/cover_0000347504_001_20230617122501527.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[휘발유 7주, 경유 8주째 내림세…경유 1300원대 진입]]></title>
             <link>https://tv.naver.com/v/37087631</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Jun 2023 11:14:48 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_57/xicHF_16869135951436Gu1s_JPEG/cover_0000347443_001_20230616200601553.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대입 담당 국장 경질…뚜렷한 증거 없이 "이권 카르텔" 비난도]]></title>
-            <link>https://tv.naver.com/v/37073896</link>
-            <guid>https://tv.naver.com/v/37073896</guid>
-            <pubDate>Fri, 16 Jun 2023 11:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_137/oRaRg_1686913240865dnRDP_JPEG/cover_0000347442_001_20230616200001518.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
