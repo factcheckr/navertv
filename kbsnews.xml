@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 08:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 09:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“밀지마요!”…신도림역 ‘만원 인파’에 승객 1명 쓰러져]]></title>
+            <link>https://tv.naver.com/v/37093846</link>
+            <guid>https://tv.naver.com/v/37093846</guid>
+            <pubDate>Sat, 17 Jun 2023 09:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[0:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_252/yvWJw_1686990133393Yq6gl_JPEG/cover_0011505212_001_20230617172201143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[5시 날씨] 내륙에 올여름 첫 폭염주의보…월요일까지 폭염 이어져]]></title>
             <link>https://tv.naver.com/v/37093562</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 01:28:24 GMT</pubDate>
             <content:encoded><![CDATA[6:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_161/CLFku_1686960161252dzmdg_JPEG/cover_0011506578_001_20230617090001167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[클로즈업 북한] 중 ‘차항출해’ 본격화…동해 흔들리나]]></title>
-            <link>https://tv.naver.com/v/37084888</link>
-            <guid>https://tv.naver.com/v/37084888</guid>
-            <pubDate>Sat, 17 Jun 2023 01:28:24 GMT</pubDate>
-            <content:encoded><![CDATA[11:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_296/xHgYp_1686960165884KjGIP_JPEG/cover_0011506577_001_20230617085801117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
