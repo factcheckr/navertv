@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 05:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 06:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영동고속도로에서 SUV 차량 화재…운전자 대피 [현장영상]]]></title>
+            <link>https://tv.naver.com/v/37090076</link>
+            <guid>https://tv.naver.com/v/37090076</guid>
+            <pubDate>Sat, 17 Jun 2023 06:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_170/4iokA_1686980448229Pho3s_PNG/cover_0011506638_001_20230617144001187.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[올여름 첫 폭염주의보…한낮 내륙 33도 안팎 폭염 [12시 날씨]]]></title>
             <link>https://tv.naver.com/v/37087614</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Jun 2023 22:15:52 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_174/0inSW_1686953319997Ebf52_JPEG/cover_0011506560_001_20230617070727002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주요장면] 프로야구 LG, 두산 꺾고 5연승…‘베테랑’ 김민성 결승타]]></title>
-            <link>https://tv.naver.com/v/37084060</link>
-            <guid>https://tv.naver.com/v/37084060</guid>
-            <pubDate>Fri, 16 Jun 2023 22:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_43/yqsba_1686953645615qGjED_JPEG/cover_0011506559_001_20230617070719542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

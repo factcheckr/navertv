@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 05:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 06:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]천안함 함장이 도망쳤다? 13년 전 그날의 진실]]></title>
+            <link>https://tv.naver.com/v/37090589</link>
+            <guid>https://tv.naver.com/v/37090589</guid>
+            <pubDate>Sat, 17 Jun 2023 06:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[19:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_47/ZKgxD_1686982342505tIWDb_JPEG/cover_0000251714_001_20230617150501566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[홍천서 수련회 버스 등 6중 추돌 사고…또 졸음운전?]]></title>
             <link>https://tv.naver.com/v/37075032</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Jun 2023 11:15:36 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_109/vcKM0_1686913627538u3VBj_JPEG/cover_0000251692_001_20230616200540210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한인 부부에 ‘묻지마 총격’…만삭 아내와 배 속 아기까지 숨져]]></title>
-            <link>https://tv.naver.com/v/37074069</link>
-            <guid>https://tv.naver.com/v/37074069</guid>
-            <pubDate>Fri, 16 Jun 2023 11:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_293/iD0OI_1686913601733nYwlN_JPEG/cover_0000251693_001_20230616200530868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
