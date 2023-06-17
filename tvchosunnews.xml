@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 06:22:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 07:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 17 Jun 2023 06:22:11 GMT</pubDate>
             <content:encoded><![CDATA[11:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_196/YkaR9_1686982574556GgkIi_JPEG/cover_2023061790027_thumb_030923_20230617151201535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北, 발사체 추락 후 중국에 인양 요청 정황]]></title>
+            <link>https://tv.naver.com/v/37090731</link>
+            <guid>https://tv.naver.com/v/37090731</guid>
+            <pubDate>Sat, 17 Jun 2023 07:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[41:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_7/jPxgs_1686983206022TBUOz_JPEG/cover_2023061790021_thumb_030832_20230617151116175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월 17일 '뉴스현장' 클로징]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 16 Jun 2023 14:16:40 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230616_200/Aoov4_1686921718876AcXCW_JPEG/cover_2023061690179_thumb_101537_20230616222105582.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수능 국어에 '클라이버의 기초대사량'?…"불공정한 시험"]]></title>
-            <link>https://tv.naver.com/v/37077673</link>
-            <guid>https://tv.naver.com/v/37077673</guid>
-            <pubDate>Fri, 16 Jun 2023 13:21:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230616_45/K6PTx_1686921421234yqFGg_JPEG/cover_2023061690175_thumb_101312_20230616221617516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
