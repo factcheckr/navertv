@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 22:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 23:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[퀴어축제 놓고 공무원·경찰 '공권력 충돌']]></title>
+            <link>https://tv.naver.com/v/37106349</link>
+            <guid>https://tv.naver.com/v/37106349</guid>
+            <pubDate>Sat, 17 Jun 2023 23:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_63/68kc9_1687040161221ljurP_JPEG/cover_cover_today_20230618_070413_1_2_Large_20230618071513760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국 불볕더위 본격화‥폭염특보 확대될 듯]]></title>
             <link>https://tv.naver.com/v/37106348</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 02:38:23 GMT</pubDate>
             <content:encoded><![CDATA[6:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_176/FNln9_1686966111412kqOjh_JPEG/cover_cover_unity_20230617_080013_1_5_Large_20230617103938454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[염색은 처벌 긴 생머리도 안돼 북한 헤어스타일 금기]]></title>
-            <link>https://tv.naver.com/v/37086112</link>
-            <guid>https://tv.naver.com/v/37086112</guid>
-            <pubDate>Sat, 17 Jun 2023 02:38:23 GMT</pubDate>
-            <content:encoded><![CDATA[11:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_47/Ihasj_1686966136882PtKpx_JPEG/cover_cover_unity_20230617_080013_1_4_Large_20230617103928574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
