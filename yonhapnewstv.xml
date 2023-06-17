@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Jun 2023 19:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Jun 2023 20:18:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 603회]]></title>
+            <link>https://tv.naver.com/v/37105853</link>
+            <guid>https://tv.naver.com/v/37105853</guid>
+            <pubDate>Sat, 17 Jun 2023 20:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[30:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_19/IRWoY_1687032824313hFS3M_JPEG/cover_cover_MYH20230616016400641_20230618050101729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AI 하청 국가냐, 선도 국가냐…일자리 운명 달려 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/37100478</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 09:16:37 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_38/u1arW_16869913422104phBM_JPEG/cover_cover_MYH20230617007900641_20230617174101930.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지구촌톡톡] 제조사도 속았다…스위스 오메가, 자사 짝퉁 시계 구입 外]]></title>
-            <link>https://tv.naver.com/v/37094265</link>
-            <guid>https://tv.naver.com/v/37094265</guid>
-            <pubDate>Sat, 17 Jun 2023 09:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_300/MCitO_1686991167722CwLin_JPEG/cover_cover_MYH20230617007800641_20230617173803910.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
