@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 09:17:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 10:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[당정 “해양방사능 조사 확대…30일 이내 모습 공개”]]></title>
+            <link>https://tv.naver.com/v/37117922</link>
+            <guid>https://tv.naver.com/v/37117922</guid>
+            <pubDate>Sun, 18 Jun 2023 10:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_17/p8t8Z_168708345325120v7c_JPEG/cover_0011506877_001_20230618191712207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스5 날씨] 서울, 올 여름 첫 폭염주의보…내일, 서쪽지역 더워요]]></title>
             <link>https://tv.naver.com/v/37115041</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 16:21:00 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230618_129/62FNs_1687015757400CwFHC_JPEG/cover_0011506727_001_20230618002901128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-water 연구원에 불 위성안테나 일부 소실]]></title>
-            <link>https://tv.naver.com/v/37103702</link>
-            <guid>https://tv.naver.com/v/37103702</guid>
-            <pubDate>Sat, 17 Jun 2023 16:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_85/0Zit4_16870156916042IDNb_JPEG/cover_0011506729_001_20230618002801121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
