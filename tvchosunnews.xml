@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 06:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 07:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[6월 18일 '뉴스현장' 클로징]]></title>
+            <link>https://tv.naver.com/v/37113163</link>
+            <guid>https://tv.naver.com/v/37113163</guid>
+            <pubDate>Sun, 18 Jun 2023 07:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_115/hAYF5_1687071368461wo8aC_JPEG/cover_2023061890036_thumb_035340_20230618155601579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서울 올해 첫 폭염특보…온열 질환 주의]]></title>
             <link>https://tv.naver.com/v/37112307</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 17 Jun 2023 10:18:03 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230617_265/m3Jhu_1686996402459XJX1Y_JPEG/cover_2023061790049_thumb_070336_20230617190604643.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["후쿠시마 오염수 불안"…천일염 주문 증가]]></title>
-            <link>https://tv.naver.com/v/37090752</link>
-            <guid>https://tv.naver.com/v/37090752</guid>
-            <pubDate>Sat, 17 Jun 2023 06:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[11:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230617_196/YkaR9_1686982574556GgkIi_JPEG/cover_2023061790027_thumb_030923_20230617151201535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
