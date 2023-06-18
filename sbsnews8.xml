@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Jun 2023 20:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jun 2023 21:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/37128900</link>
+            <guid>https://tv.naver.com/v/37128900</guid>
+            <pubDate>Sun, 18 Jun 2023 21:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_126/kpDs0_1687122763937F7wf8_JPEG/cover_0001066375_001_20230619061201128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["피해달라" 주민 요구에도…불 키우는 소나무 심는 이유]]></title>
             <link>https://tv.naver.com/v/37126277</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 18 Jun 2023 06:24:11 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230618_177/x5KHC_1687066523759B17vd_JPEG/cover_0001066301_001_20230618143501103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고위 당정협의회…오염수 대응 · 신상공개 확대 논의]]></title>
-            <link>https://tv.naver.com/v/37111379</link>
-            <guid>https://tv.naver.com/v/37111379</guid>
-            <pubDate>Sun, 18 Jun 2023 06:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230618_72/tDkll_16870663447278vEhq_JPEG/cover_0001066299_001_20230618143201123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
