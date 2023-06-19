@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Jun 2023 04:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 05:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["어제보다 더 더워"…서울 · 대전 낮 최고 35도까지 치솟아]]></title>
+            <link>https://tv.naver.com/v/37139667</link>
+            <guid>https://tv.naver.com/v/37139667</guid>
+            <pubDate>Mon, 19 Jun 2023 05:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_251/beYoC_1687151584505JOJhw_JPEG/cover_0001066514_001_20230619141201137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[월드리포트] 지역 행사로 시작했는데…5만 명 관중 몰린 '시골 축구']]></title>
             <link>https://tv.naver.com/v/37136856</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 18 Jun 2023 23:17:36 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230619_249/7mfWY_1687127919833f1IVi_JPEG/cover_0001066401_001_20230619073803154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 길주서 규모 2.3 지진…기상청 "자연 지진"]]></title>
-            <link>https://tv.naver.com/v/37129396</link>
-            <guid>https://tv.naver.com/v/37129396</guid>
-            <pubDate>Sun, 18 Jun 2023 23:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_141/0zkxh_16871277225610H85r_JPEG/cover_0001066399_001_20230619073501115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
