@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 07:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김주하 AI 뉴스] 미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/37183719</link>
+            <guid>https://tv.naver.com/v/37183719</guid>
+            <pubDate>Tue, 20 Jun 2023 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_207/xgrDf_1687242945460dvJiH_JPEG/cover_cover_20230620153314_20_845_1330921_1080_7_20230620153501141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 토요포커스] 권신일 코레일관광개발 대표 “내수 진작과 지역 경제 활성화를 위해 다양한 관광열차 개발·운영 중”]]></title>
             <link>https://tv.naver.com/v/37177502</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Jun 2023 23:19:13 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230620_157/6vXTF_1687214964596jUoAV_JPEG/cover_cover_20230620074543_20_605_1330884_1080_7_20230620074901153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["감독님 첫 승 안겨야죠" 손흥민, 엘살바도르전 '후반 출전']]></title>
-            <link>https://tv.naver.com/v/37167736</link>
-            <guid>https://tv.naver.com/v/37167736</guid>
-            <pubDate>Mon, 19 Jun 2023 23:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_79/enKaK_1687215099239eANgX_JPEG/cover_cover_20230620074344_20_605_1330883_1080_7_20230620074701140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
