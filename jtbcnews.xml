@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 03:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 04:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 김기현 교섭단체 대표연설 "문 정권, 정치라는 게 있긴 했나"]]></title>
+            <link>https://tv.naver.com/v/37175003</link>
+            <guid>https://tv.naver.com/v/37175003</guid>
+            <pubDate>Tue, 20 Jun 2023 04:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_129/aDQLr_1687231755394gg4Me_JPEG/cover_0000347868_001_20230620122801497.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 무더위 주춤…내일까지 전국 최대 60mm 비]]></title>
             <link>https://tv.naver.com/v/37173639</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 19 Jun 2023 13:22:18 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230619_247/xg3hJ_1687179772423uyVaF_JPEG/cover_0000347756_001_20230619220201540.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['냉방비 폭탄' 어쩌나…때이른 더위에 시름 큰 자영업자들]]></title>
-            <link>https://tv.naver.com/v/37157390</link>
-            <guid>https://tv.naver.com/v/37157390</guid>
-            <pubDate>Mon, 19 Jun 2023 13:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230619_229/uzmCl_1687179585906Gzq73_JPEG/cover_0000347755_001_20230619215910967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
