@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 04:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 05:18:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 정문 앞에 쌓인 택배들…"택배차 지상 출입 금지"]]></title>
+            <link>https://tv.naver.com/v/37218878</link>
+            <guid>https://tv.naver.com/v/37218878</guid>
+            <pubDate>Wed, 21 Jun 2023 05:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_113/6haCI_1687324030202DzjQS_JPEG/cover_2023062190107_thumb_020202_20230621140607409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 김기현, 첫 교섭단체 연설…李, 웃음 지은 이유는?]]></title>
             <link>https://tv.naver.com/v/37216335</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 20 Jun 2023 15:18:27 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230620_235/q4AAk_16872697432851oHMx_JPEG/cover_2023062090252_thumb_105733_20230620230123810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월 20일 '뉴스 9' 클로징]]></title>
-            <link>https://tv.naver.com/v/37201487</link>
-            <guid>https://tv.naver.com/v/37201487</guid>
-            <pubDate>Tue, 20 Jun 2023 15:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230620_53/nRSCi_1687269688192613Oq_JPEG/cover_2023062090262_thumb_105908_20230620230117065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
