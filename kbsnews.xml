@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 13:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 14:17:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 14.5㎜ 비 내려…내일 19도~28도]]></title>
+            <link>https://tv.naver.com/v/37240816</link>
+            <guid>https://tv.naver.com/v/37240816</guid>
+            <pubDate>Wed, 21 Jun 2023 14:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_72/0PQS0_1687356687167YHRh6_JPEG/cover_0011509430_001_20230621231101123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신공항 건설 속도…“시민참여형 펀드 조성”]]></title>
             <link>https://tv.naver.com/v/37238913</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 21 Jun 2023 13:21:06 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230621_286/G7QOx_1687352847133PvIeG_JPEG/cover_0011509422_001_20230621220707996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[착륙 직전 항공기 비상문 연 30대 구속 기소]]></title>
-            <link>https://tv.naver.com/v/37238416</link>
-            <guid>https://tv.naver.com/v/37238416</guid>
-            <pubDate>Wed, 21 Jun 2023 13:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230621_110/Wluvg_1687352843828HBvqD_JPEG/cover_0011509421_001_20230621220701118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
