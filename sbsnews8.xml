@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 05:20:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 06:25:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] "프리고진, 박수받으며 러시아서 철수"]]></title>
+            <link>https://tv.naver.com/v/37347984</link>
+            <guid>https://tv.naver.com/v/37347984</guid>
+            <pubDate>Sun, 25 Jun 2023 06:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_258/pioIt_1687672236933nB7JX_JPEG/cover_0001068073_001_20230625144901113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 고소득 가정에서 식비+주거비만큼 쓰는 중고생 학원비]]></title>
             <link>https://tv.naver.com/v/37346540</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 24 Jun 2023 13:23:39 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230624_3/yA8sU_1687610928865oBLRe_JPEG/cover_0001067979_001_20230624214812193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/37337127</link>
-            <guid>https://tv.naver.com/v/37337127</guid>
-            <pubDate>Sat, 24 Jun 2023 13:23:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230624_147/kOaRT_1687610890836Mnwc2_JPEG/cover_0001067980_001_20230624214803214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
