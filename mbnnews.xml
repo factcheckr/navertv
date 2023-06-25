@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Jun 2023 07:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Jun 2023 08:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[시사스페셜] 6월 25일 정운갑 앵커의 클로징]]></title>
+            <link>https://tv.naver.com/v/37351350</link>
+            <guid>https://tv.naver.com/v/37351350</guid>
+            <pubDate>Sun, 25 Jun 2023 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230625_277/e9HE7_16876810446841t9vV_JPEG/cover_cover_20230625171439_20_813_1331341_1080_7_20230625171701134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모스크바 200km 앞서 멈춘 '무장반란'…프리고진은 벨라루스행]]></title>
             <link>https://tv.naver.com/v/37349694</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 24 Jun 2023 08:24:46 GMT</pubDate>
             <content:encoded><![CDATA[12:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230624_29/lCKiZ_1687594456414NJo5I_JPEG/cover_cover_20230624170520_20_675_1331307_1080_7_20230624170901138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MBN 뉴스와이드] '1년 만에' 귀국한 이낙연…野 '지각변동' 기점 되나?]]></title>
-            <link>https://tv.naver.com/v/37331415</link>
-            <guid>https://tv.naver.com/v/37331415</guid>
-            <pubDate>Sat, 24 Jun 2023 08:24:46 GMT</pubDate>
-            <content:encoded><![CDATA[19:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230624_104/hMZme_1687594710322832en_JPEG/cover_cover_20230624170328_20_675_1331306_1080_7_20230624170801171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
