@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 05:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 06:28:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[한눈에 이슈] 장마 앞두고 ‘안전 비상’…밤잠 설치는 주민들]]></title>
+            <link>https://tv.naver.com/v/37379884</link>
+            <guid>https://tv.naver.com/v/37379884</guid>
+            <pubDate>Mon, 26 Jun 2023 06:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[3:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_191/PJo6w_1687760078092q8Syy_PNG/cover_0011509053_001_20230626151310368.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[여 ‘괴담 대응’ 현장 방문…야 ‘방류 반대’ 추가 단식]]></title>
+            <link>https://tv.naver.com/v/37379823</link>
+            <guid>https://tv.naver.com/v/37379823</guid>
+            <pubDate>Mon, 26 Jun 2023 06:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_297/Fo0V4_1687759977831BjU1H_PNG/cover_0011511934_001_20230626151204480.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 전국 장맛비…시간당 20~40mm 강한 비]]></title>
             <link>https://tv.naver.com/v/37377482</link>
@@ -38,6 +54,14 @@
             <pubDate>Mon, 26 Jun 2023 05:19:23 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_228/1clmw_168775674279672vuB_JPEG/cover_0011511987_001_20230626141826990.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘TV조선 재승인 의혹’ 한상혁 첫 공판…“무고함 밝힐 것”]]></title>
+            <link>https://tv.naver.com/v/37377462</link>
+            <guid>https://tv.naver.com/v/37377462</guid>
+            <pubDate>Mon, 26 Jun 2023 06:26:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_53/7I7Wo_1687756760884PO7sa_JPEG/cover_0011511986_001_20230626141819673.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[군, 북한 주장 우주발사체 ‘위성’ 추정 물체 인양]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 26 Jun 2023 04:24:14 GMT</pubDate>
             <content:encoded><![CDATA[4:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230626_101/dU8vb_16877522702692Cxj4_PNG/cover_0011511953_001_20230626130311812.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[누리호 발사 한 달…위성 차질 없이 순항 중]]></title>
-            <link>https://tv.naver.com/v/37374709</link>
-            <guid>https://tv.naver.com/v/37374709</guid>
-            <pubDate>Mon, 26 Jun 2023 04:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_14/PObHl_1687752234145ixDWJ_JPEG/cover_0011511952_001_20230626130302944.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기후는 말한다] 친환경 양식어업으로 노동자 건강 지키고, 소비자도 안심]]></title>
-            <link>https://tv.naver.com/v/37374320</link>
-            <guid>https://tv.naver.com/v/37374320</guid>
-            <pubDate>Mon, 26 Jun 2023 04:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_220/dZE0y_16877514622581OiG1_JPEG/cover_0011511945_001_20230626125010207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기후는 말한다] 북 노동신문 “장마 시작…최대 각성해 철저히 대처”]]></title>
-            <link>https://tv.naver.com/v/37374317</link>
-            <guid>https://tv.naver.com/v/37374317</guid>
-            <pubDate>Mon, 26 Jun 2023 04:24:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230626_29/xgNRQ_1687751424710tct2K_JPEG/cover_0011511944_001_20230626125001153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
