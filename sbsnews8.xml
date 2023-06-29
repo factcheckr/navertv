@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 20:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 21:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 남부에 폭우 구름대…제주 최대 250mm 더 온다]]></title>
+            <link>https://tv.naver.com/v/37523778</link>
+            <guid>https://tv.naver.com/v/37523778</guid>
+            <pubDate>Thu, 29 Jun 2023 21:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_212/5k7k4_16880732844939a4Df_JPEG/cover_0001069467_001_20230630061401144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장] 새벽 내내 거센 빗줄기…호남 · 경상 호우특보]]></title>
+            <link>https://tv.naver.com/v/37523773</link>
+            <guid>https://tv.naver.com/v/37523773</guid>
+            <pubDate>Thu, 29 Jun 2023 21:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_154/7beyb_1688073250746r43Gc_JPEG/cover_0001069466_001_20230630061301113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/37523748</link>
+            <guid>https://tv.naver.com/v/37523748</guid>
+            <pubDate>Thu, 29 Jun 2023 21:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_161/6uj9z_16880729280891yLrr_JPEG/cover_0001069465_001_20230630060801140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] "야당 의원은 오지 마세요"…국토부 녹취 파문]]></title>
             <link>https://tv.naver.com/v/37523032</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 29 Jun 2023 12:38:16 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230629_291/pkghx_1688042268474wpuQV_JPEG/cover_0001069411_001_20230629213640949.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판매 5시간 만에 '품절'…정부, 천일염 400톤 푼다]]></title>
-            <link>https://tv.naver.com/v/37515005</link>
-            <guid>https://tv.naver.com/v/37515005</guid>
-            <pubDate>Thu, 29 Jun 2023 12:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_161/q7QWr_1688042272438kf3zI_JPEG/cover_0001069400_001_20230629213631349.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일주일 만에 뺀 '주차장 알박기'…곧 경찰 소환]]></title>
-            <link>https://tv.naver.com/v/37514997</link>
-            <guid>https://tv.naver.com/v/37514997</guid>
-            <pubDate>Thu, 29 Jun 2023 12:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_152/t5hd0_1688042244545BB6ie_JPEG/cover_0001069397_001_20230629213621689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해수욕장 '알박기 텐트', 이제는 즉시 철거한다]]></title>
-            <link>https://tv.naver.com/v/37514989</link>
-            <guid>https://tv.naver.com/v/37514989</guid>
-            <pubDate>Thu, 29 Jun 2023 12:38:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_218/3PpUd_1688042246442K5c1t_JPEG/cover_0001069407_001_20230629213612073.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

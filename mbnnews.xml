@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 20:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 21:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[401회_폭염 전망과 대처요령]]></title>
+            <link>https://tv.naver.com/v/37523711</link>
+            <guid>https://tv.naver.com/v/37523711</guid>
+            <pubDate>Thu, 29 Jun 2023 21:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[14:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_281/RZOW1_1688072730096cQjM0_JPEG/cover_cover_20230630055412_20_849_1331830_1080_7_20230630055801159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["절벽 낙하 '명품연기' 직접"…톰 크루즈 11번째 내한]]></title>
             <link>https://tv.naver.com/v/37514420</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 29 Jun 2023 10:22:00 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230629_247/Cw673_16880338093830s8Oa_JPEG/cover_cover_20230629191152_20_552_1331795_1080_7_20230629191501154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장마전선·저기압이 만든 '도깨비 장마'…내일까지 250mm 더 온다]]></title>
-            <link>https://tv.naver.com/v/37510180</link>
-            <guid>https://tv.naver.com/v/37510180</guid>
-            <pubDate>Thu, 29 Jun 2023 10:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230629_168/kP26m_16880336600531xgk8_JPEG/cover_cover_20230629190926_20_552_1331794_1080_7_20230629191301119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
