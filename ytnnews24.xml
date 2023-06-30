@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 02:56:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 03:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] "그게 웬 말" 의사들 펄쩍…의대 정원 놓고 파장]]></title>
+            <link>https://tv.naver.com/v/37530387</link>
+            <guid>https://tv.naver.com/v/37530387</guid>
+            <pubDate>Fri, 30 Jun 2023 03:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_179/kYhKD_1688093992960QEasS_JPEG/cover_cover_202306301157443522_t_20230630115902019.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['냉장고 영아 시신' 친모 구속 송치...남편은 불송치]]></title>
+            <link>https://tv.naver.com/v/37530309</link>
+            <guid>https://tv.naver.com/v/37530309</guid>
+            <pubDate>Fri, 30 Jun 2023 03:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_33/tptVg_1688093885329vEP0B_JPEG/cover_cover_202306301152232995_t_20230630115702476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["극우 편향 인사" vs "우려 해소될 것"...본회의도 충돌 예고]]></title>
             <link>https://tv.naver.com/v/37530176</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 30 Jun 2023 01:46:20 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230630_147/LgL0M_16880843989801Q5E5_JPEG/cover_cover_202306300915284739_t_20230630091902087.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장영상+] 경북 영주 산사태로 14개월 영아사망...매몰 뒤 구조됐지만 참변]]></title>
-            <link>https://tv.naver.com/v/37525514</link>
-            <guid>https://tv.naver.com/v/37525514</guid>
-            <pubDate>Fri, 30 Jun 2023 01:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_128/5Uzkl_1688084171078ErJ5U_JPEG/cover_cover_202306300906390251_t_20230630091501711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스라이더] 스마트폰 대출 갈아타기...고신용자 독무대?]]></title>
-            <link>https://tv.naver.com/v/37525358</link>
-            <guid>https://tv.naver.com/v/37525358</guid>
-            <pubDate>Fri, 30 Jun 2023 01:46:20 GMT</pubDate>
-            <content:encoded><![CDATA[16:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_169/alvW4_168808390126125Mxs_JPEG/cover_cover_202306300858260716_t_20230630090708961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
