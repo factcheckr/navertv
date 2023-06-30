@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 15:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 16:25:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도시 반, 시골 반…생활인구 늘려라]]></title>
+            <link>https://tv.naver.com/v/37555969</link>
+            <guid>https://tv.naver.com/v/37555969</guid>
+            <pubDate>Fri, 30 Jun 2023 16:24:20 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_221/1VPNM_168813842892328lf2_JPEG/cover_0001069722_001_20230701001912626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["교도소 수감되자 맞닥뜨린 '방'…늪에 빠뜨리는 형님들" (풀영상)]]></title>
             <link>https://tv.naver.com/v/37555664</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Jun 2023 13:25:05 GMT</pubDate>
             <content:encoded><![CDATA[1:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230630_67/9vdGO_1688130349023TAJQs_JPEG/cover_0001069728_001_20230630220514797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/37552218</link>
-            <guid>https://tv.naver.com/v/37552218</guid>
-            <pubDate>Fri, 30 Jun 2023 13:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_140/w7Gqx_168813031317634phD_JPEG/cover_0001069729_001_20230630220505638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
