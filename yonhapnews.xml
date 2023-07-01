@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 20:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 21:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 30 Jun 2023 09:19:16 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230630_56/6mYEX_1688116133716DQg08_JPEG/1688115746005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[축구판 '쩐의 전쟁'…일당 8억원이 아깝지 않은 이유]]></title>
+            <link>https://tv.naver.com/v/37543820</link>
+            <guid>https://tv.naver.com/v/37543820</guid>
+            <pubDate>Sat, 01 Jul 2023 21:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230630_204/T7aaq_1688113854995C211M_JPEG/1688113765010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["'반란 가담설' 러군 2인자, 바그너그룹 VIP 회원"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 28 Jun 2023 09:20:19 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230628_116/LX2Zw_1687942065314M9A4G_JPEG/1687941538420.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰에 달려들어 쐈다더니…17세에 총 쏜 경찰 영상 공개 '반전']]></title>
-            <link>https://tv.naver.com/v/37465830</link>
-            <guid>https://tv.naver.com/v/37465830</guid>
-            <pubDate>Wed, 28 Jun 2023 09:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230628_106/tj2YY_1687941056455kHqPj_JPEG/1687940480041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
