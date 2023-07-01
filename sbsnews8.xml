@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 22:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 23:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/37580749</link>
+            <guid>https://tv.naver.com/v/37580749</guid>
+            <pubDate>Sat, 01 Jul 2023 23:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_73/uEPyO_1688249053518ftUkC_JPEG/cover_0001069891_001_20230702070408727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[야 "방류 반대 국민 협박"…여 "민폐 길거리 정치"]]></title>
             <link>https://tv.naver.com/v/37580748</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Jul 2023 05:17:45 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_210/aX1dZ_1688187493597eWTrm_JPEG/cover_0001069771_001_20230701135708460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해운대·경포대 등 전국 해수욕장 오늘부터 전면 개장]]></title>
-            <link>https://tv.naver.com/v/37562390</link>
-            <guid>https://tv.naver.com/v/37562390</guid>
-            <pubDate>Sat, 01 Jul 2023 04:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_28/Ewo2Z_1688182119223jP1ut_JPEG/cover_0001069809_001_20230701122815839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
