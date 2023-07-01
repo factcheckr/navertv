@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 19:16:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 20:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 605회]]></title>
+            <link>https://tv.naver.com/v/37580389</link>
+            <guid>https://tv.naver.com/v/37580389</guid>
+            <pubDate>Sat, 01 Jul 2023 20:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[30:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_43/78n2z_1688242448415yPQVu_JPEG/cover_cover_MYH20230630017600641_20230702050101739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외국인 관광객도 질리는 바가지 상술…불매운동 번질라 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/37574388</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Jul 2023 06:23:55 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_270/goATF_1688191591854NwOn4_JPEG/cover_cover_MYH20230701007900641_20230701150606857.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 주말 푹푹 찌는 무더위…전국 폭염특보]]></title>
-            <link>https://tv.naver.com/v/37564990</link>
-            <guid>https://tv.naver.com/v/37564990</guid>
-            <pubDate>Sat, 01 Jul 2023 06:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_23/7yZRf_1688190963441Lmpvr_JPEG/cover_cover_MYH20230701007800641_20230701145502153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
