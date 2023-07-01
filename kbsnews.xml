@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 14:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 15:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 현대차 직원은 왜 아파트 주차장에 숨었을까]]></title>
+            <link>https://tv.naver.com/v/37577512</link>
+            <guid>https://tv.naver.com/v/37577512</guid>
+            <pubDate>Sat, 01 Jul 2023 15:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_299/lrNqj_1688224394904pbR1t_JPEG/cover_0011516142_001_20230702001201174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양양 해상 악상어 발견…해경, ‘안전관리태세’ 강화]]></title>
             <link>https://tv.naver.com/v/37575165</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.naver.com/v/37574510</guid>
             <pubDate>Sat, 01 Jul 2023 13:22:02 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_165/QiNtX_1688217006465oF29N_JPEG/cover_0011516204_001_20230701220608379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_41/GNKyZ_1688221425180xaSDA_JPEG/cover_0011516204_001_20230701220608379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대전·세종·충남 올여름 첫 폭염특보…충남서 온열환자 3명 발생]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Jul 2023 13:22:02 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_293/23dGp_1688216443514fvdUB_JPEG/cover_0011516184_001_20230701220010327.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 아시아 최고 철인을 가리자!…세종 아시아트라이애슬론컵]]></title>
-            <link>https://tv.naver.com/v/37574347</link>
-            <guid>https://tv.naver.com/v/37574347</guid>
-            <pubDate>Sat, 01 Jul 2023 13:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_254/kqae1_1688216541523RoCWQ_JPEG/cover_0011516183_001_20230701220000585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
