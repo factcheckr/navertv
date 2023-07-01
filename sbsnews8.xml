@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 05:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 06:24:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 톰 크루즈도 치킨은 못 참아?…마지막까지 서울 누빈 톰 크루즈]]></title>
+            <link>https://tv.naver.com/v/37565613</link>
+            <guid>https://tv.naver.com/v/37565613</guid>
+            <pubDate>Sat, 01 Jul 2023 06:23:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_82/L4pEX_16881925004284zFLD_JPEG/cover_0001069826_001_20230701152101114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스브스뉴스] 다리 떨어진 꽃게 판 소래포구, 오히려 좋은 거라고?]]></title>
             <link>https://tv.naver.com/v/37563905</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 30 Jun 2023 23:19:00 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_241/wvveC_1688164538871svlGL_JPEG/cover_0001069758_001_20230701073511266.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수노아파 39명 기소…'또래 모임' 결성하는 어린 폭력배들]]></title>
-            <link>https://tv.naver.com/v/37559264</link>
-            <guid>https://tv.naver.com/v/37559264</guid>
-            <pubDate>Fri, 30 Jun 2023 23:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_279/XumUt_1688164573369UcbsV_JPEG/cover_0001069757_001_20230701073501122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
