@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 22:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 23:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 낮 최고 35도 '찜통 더위'…제주·전남 호우주의보]]></title>
+            <link>https://tv.naver.com/v/37603726</link>
+            <guid>https://tv.naver.com/v/37603726</guid>
+            <pubDate>Sun, 02 Jul 2023 23:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_213/u8S5h_1688339548112X7HXs_JPEG/cover_0000349607_001_20230703081201486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[흉기 품고 주점들어가 남녀 2명 살해…범행 뒤 자해로 중태]]></title>
             <link>https://tv.naver.com/v/37594933</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 01 Jul 2023 11:15:26 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230701_74/JesrH_16882100843413eHXw_JPEG/cover_0000349504_001_20230701201401496.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이건 안 내렸네" "체감은 안 돼"…'보여주기식' 가격 인하?]]></title>
-            <link>https://tv.naver.com/v/37572100</link>
-            <guid>https://tv.naver.com/v/37572100</guid>
-            <pubDate>Sat, 01 Jul 2023 11:15:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230701_224/7mccb_1688209847708QVRaP_JPEG/cover_0000349499_001_20230701201001653.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
