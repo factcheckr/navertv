@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 20:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 21:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭염 속 “밭일도 쉬어가요”…도심은 ‘이글이글’]]></title>
+            <link>https://tv.naver.com/v/37602762</link>
+            <guid>https://tv.naver.com/v/37602762</guid>
+            <pubDate>Sun, 02 Jul 2023 21:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_82/MiMMj_16883324413762lzgR_JPEG/cover_0011516441_001_20230703061308850.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[출근길 날씨] 오늘도 무더위…호남·제주도 장맛비]]></title>
+            <link>https://tv.naver.com/v/37602749</link>
+            <guid>https://tv.naver.com/v/37602749</guid>
+            <pubDate>Sun, 02 Jul 2023 21:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_232/vAoAC_1688332304702u2qU9_JPEG/cover_0011516439_001_20230703061104939.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[9층시사국] 위기의 반도체, 일본은 뛴다 外]]></title>
             <link>https://tv.naver.com/v/37599408</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 02 Jul 2023 13:22:06 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230702_237/DwF3X_1688302915280zljcd_JPEG/cover_0011516369_001_20230702220101994.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI가 작곡·편곡에 노래까지…저작권 문제는 여전]]></title>
-            <link>https://tv.naver.com/v/37596711</link>
-            <guid>https://tv.naver.com/v/37596711</guid>
-            <pubDate>Sun, 02 Jul 2023 13:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_247/mBOt1_1688302918759CC3UQ_JPEG/cover_0011516363_001_20230702220051398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[활용 분야 무궁무진…‘그린 수소’ 확보가 관건]]></title>
-            <link>https://tv.naver.com/v/37596707</link>
-            <guid>https://tv.naver.com/v/37596707</guid>
-            <pubDate>Sun, 02 Jul 2023 13:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230702_70/EbXLO_1688302892589Dr6WM_JPEG/cover_0011516362_001_20230702220041028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
