@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 20:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 21:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[열대야에 뒤척이며 보낸 밤…오후 전국 장맛비]]></title>
+            <link>https://tv.naver.com/v/37643841</link>
+            <guid>https://tv.naver.com/v/37643841</guid>
+            <pubDate>Mon, 03 Jul 2023 21:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_86/8uvGZ_16884189451846z18w_JPEG/cover_0001070332_001_20230704061501113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/37643749</link>
+            <guid>https://tv.naver.com/v/37643749</guid>
+            <pubDate>Mon, 03 Jul 2023 21:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_1/w9R30_1688418582322svSct_JPEG/cover_0001070331_001_20230704060901103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/37640931</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 03 Jul 2023 13:29:09 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_93/ndAvX_16883896457869ES1R_JPEG/cover_0001070266_001_20230703220601122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정상 오르던 등산객들 놀랐다…북한산 뒤덮은 검은 정체]]></title>
-            <link>https://tv.naver.com/v/37634156</link>
-            <guid>https://tv.naver.com/v/37634156</guid>
-            <pubDate>Mon, 03 Jul 2023 13:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_46/DGhIn_1688389622317o1xLb_JPEG/cover_0001070267_001_20230703220534814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기생충처럼 살아라"…괴롭힘 사각지대 5인 미만 사업장]]></title>
-            <link>https://tv.naver.com/v/37634149</link>
-            <guid>https://tv.naver.com/v/37634149</guid>
-            <pubDate>Mon, 03 Jul 2023 13:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_296/lMRs1_1688389664008hhRA8_JPEG/cover_0001070269_001_20230703220524010.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
