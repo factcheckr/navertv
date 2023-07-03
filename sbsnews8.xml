@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 06:26:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 07:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫도그·피자 샀더니 5만 원 육박…"워터파크 못 가겠네"]]></title>
+            <link>https://tv.naver.com/v/37617506</link>
+            <guid>https://tv.naver.com/v/37617506</guid>
+            <pubDate>Mon, 03 Jul 2023 07:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_127/oFdHw_16883658444555jjty_JPEG/cover_0001070037_001_20230703153001302.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스딱] '한 마리 52억' 세계서 가장 비싼 소…몸값 치솟는 이유는]]></title>
             <link>https://tv.naver.com/v/37615880</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Jul 2023 01:50:26 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_75/0vwDb_1688341739785yAUOy_JPEG/cover_0001070041_001_20230703084821899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[핫도그·피자 샀더니 5만 원 육박…"워터파크 못 가겠네"]]></title>
-            <link>https://tv.naver.com/v/37604099</link>
-            <guid>https://tv.naver.com/v/37604099</guid>
-            <pubDate>Mon, 03 Jul 2023 01:50:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_275/7XtZb_1688341736841kx4Rs_JPEG/cover_0001070037_001_20230703084812485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
