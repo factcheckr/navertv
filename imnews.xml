@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 03:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 04:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 03 Jul 2023 03:30:47 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_295/A223l_1688354905828mwFPz_JPEG/cover_cover_noon_20230703_121915_1_13_Large_20230703122804383.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC 12시뉴스] 전국 곳곳 폭염특보‥ 내일 다시 장맛비]]></title>
+            <link>https://tv.naver.com/v/37610176</link>
+            <guid>https://tv.naver.com/v/37610176</guid>
+            <pubDate>Mon, 03 Jul 2023 04:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[23:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_22/9ySxv_1688354770481COn6n_JPEG/37ee66bf-1951-11ee-8de4-a0369ffdb264_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[식품의약품안전처 대마·양귀비 등 282종 국내 반입 차단 지정]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Jul 2023 01:50:14 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_216/IVKI4_1688344678057lNcc3_JPEG/cover_cover_0930_20230703_093224_1_1_Large_20230703093715036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비싼 주택 월세 때문에 비행기로 통학]]></title>
-            <link>https://tv.naver.com/v/37604808</link>
-            <guid>https://tv.naver.com/v/37604808</guid>
-            <pubDate>Mon, 03 Jul 2023 01:50:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_68/OxvpV_16883446376484JIQ3_JPEG/cover_cover_today_20230703_070125_2_20_Large_U_20230703093702507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

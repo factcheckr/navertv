@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 03:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 04:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[70년 만에 의정부 옛 미군기지 개방…임시 도로 개통]]></title>
+            <link>https://tv.naver.com/v/37611875</link>
+            <guid>https://tv.naver.com/v/37611875</guid>
+            <pubDate>Mon, 03 Jul 2023 04:24:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_106/JYFX4_1688357981418pqXp6_JPEG/cover_cover_20230703131651_20_683_1332055_1080_7_20230703131901148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국거래소, 용인에서 기술특례상장 로드쇼 개최]]></title>
             <link>https://tv.naver.com/v/37608261</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 02 Jul 2023 23:19:33 GMT</pubDate>
             <content:encoded><![CDATA[0:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_137/CcvXo_1688339233315OrRN6_JPEG/cover_cover_20230703080238_20_605_1332019_1080_7_20230703080701106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]오늘 폭염 절정…제주·호남 장맛비]]></title>
-            <link>https://tv.naver.com/v/37603683</link>
-            <guid>https://tv.naver.com/v/37603683</guid>
-            <pubDate>Sun, 02 Jul 2023 23:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_151/vROpe_1688339141531Ormrp_JPEG/cover_cover_20230703080058_20_605_1332018_1080_7_20230703080501140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
