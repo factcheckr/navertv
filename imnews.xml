@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 14:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 15:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[와글와글] 기둥에 균열 생기며 '우지직'‥공포의 롤러코스터]]></title>
+            <link>https://tv.naver.com/v/37638404</link>
+            <guid>https://tv.naver.com/v/37638404</guid>
+            <pubDate>Mon, 03 Jul 2023 15:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_155/8jBY3_1688395159825Bp4Kg_JPEG/cover_cover_today_20230703_063840_2_9_Large_U_20230703233902600.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[와글와글] "황당하네"‥9살 아이 봐주더니 '짜장면값' 청구]]></title>
             <link>https://tv.naver.com/v/37634380</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Jul 2023 11:15:59 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230703_116/nLbig_1688382180072MwnUR_JPEG/cover_cover_desk_20230703_195341_1_6_Large_20230703200204727.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤에도 푹푹 찐다, 내일~모레 150mm 장맛비 비상]]></title>
-            <link>https://tv.naver.com/v/37628645</link>
-            <guid>https://tv.naver.com/v/37628645</guid>
-            <pubDate>Mon, 03 Jul 2023 11:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230703_135/56vgh_1688382108908BH7DM_JPEG/cover_cover_desk_20230703_195127_1_5_Large_20230703200102164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
