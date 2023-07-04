@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 03:03:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 04:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 오후부터 중부 비…밤사이 수도권 집중호우]]></title>
+            <link>https://tv.naver.com/v/37655240</link>
+            <guid>https://tv.naver.com/v/37655240</guid>
+            <pubDate>Tue, 04 Jul 2023 04:25:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_139/YzopI_1688444500277eitBA_JPEG/cover_cover_20230607200448_20_552_1329843_1080_7_20230704132101125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["연예인 가족 벽간소음 힘들어"…정주리, 거듭 사과 [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/37651402</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 03 Jul 2023 23:21:58 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230704_158/fkEn8_16884261313624xG0b_JPEG/cover_cover_20230704081125_20_605_1332139_1080_7_20230704081501367.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] 마돈나, 쓰러졌던 이유…"젊은 후배에 지지 않으려"?]]></title>
-            <link>https://tv.naver.com/v/37645787</link>
-            <guid>https://tv.naver.com/v/37645787</guid>
-            <pubDate>Mon, 03 Jul 2023 23:21:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_53/5UKdG_1688426010747e5SeN_JPEG/cover_cover_20230704080935_20_605_1332138_1080_7_20230704081301111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
