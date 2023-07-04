@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 05:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 06:27:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨]내일도 여름 더위 계속…중북부 소나기, 제주 비]]></title>
+            <link>https://tv.naver.com/v/37659092</link>
+            <guid>https://tv.naver.com/v/37659092</guid>
+            <pubDate>Tue, 04 Jul 2023 06:27:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_32/SnL6U_1688450034977udsSI_JPEG/cover_cover_20230604201344_20_906_1329599_1080_7_20230704145301120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 현충일, 맑고 더워요…중북부·경북 소나기]]></title>
             <link>https://tv.naver.com/v/37656741</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Jul 2023 01:52:12 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230704_237/YejJH_1688430799056IdsBO_JPEG/cover_cover_20230704092949_20_689_1332144_1080_7_20230704093301171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경북 구미시, 1년간 3조 8천억 투자 유치…국책 사업 성과]]></title>
-            <link>https://tv.naver.com/v/37647293</link>
-            <guid>https://tv.naver.com/v/37647293</guid>
-            <pubDate>Tue, 04 Jul 2023 01:52:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_271/Y4Czw_1688430731929CPyKw_JPEG/cover_cover_20230704092513_20_689_1332143_1080_7_20230704093101134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
