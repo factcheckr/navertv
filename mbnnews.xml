@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 20:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 21:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[403회_식중독과 폭우 피해 예방요령]]></title>
+            <link>https://tv.naver.com/v/37685400</link>
+            <guid>https://tv.naver.com/v/37685400</guid>
+            <pubDate>Tue, 04 Jul 2023 21:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[14:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_15/7ljHy_1688504911581RAg7A_JPEG/cover_cover_20230705055602_20_849_1332230_1080_7_20230705060001143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일까지 전국 비…시간당 최대 70mm↑ 호우]]></title>
             <link>https://tv.naver.com/v/37680597</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Jul 2023 11:18:24 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230704_42/PJrw4_1688466377194uttcW_JPEG/cover_cover_20230704192136_20_552_1332197_1080_7_20230704192501120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옐런 방중 앞두고 중국 "갈륨·게르마늄 수출 통제"]]></title>
-            <link>https://tv.naver.com/v/37670437</link>
-            <guid>https://tv.naver.com/v/37670437</guid>
-            <pubDate>Tue, 04 Jul 2023 11:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_80/uL0vW_16884662593981QCRT_JPEG/cover_cover_20230704191936_20_552_1332196_1080_7_20230704192301162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

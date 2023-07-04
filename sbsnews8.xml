@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 20:22:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 21:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/37685437</link>
+            <guid>https://tv.naver.com/v/37685437</guid>
+            <pubDate>Tue, 04 Jul 2023 21:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_219/zxVRV_16885050597396VWCt_JPEG/cover_0001070648_001_20230705061001157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/37682999</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 04 Jul 2023 13:29:21 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230704_271/0pb1R_1688476155144GeU0h_JPEG/cover_0001070583_001_20230704220832789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성장률 1.4%로 하향…"킬러 규제 없애 수출 · 투자 활력"]]></title>
-            <link>https://tv.naver.com/v/37676901</link>
-            <guid>https://tv.naver.com/v/37676901</guid>
-            <pubDate>Tue, 04 Jul 2023 13:29:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230704_243/caioW_1688476227471CkNzg_JPEG/cover_0001070584_001_20230704220821731.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
