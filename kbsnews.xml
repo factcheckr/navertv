@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 20:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 21:19:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최종 보고서 나왔지만 ‘우려’ 여전…“8월에라도 방류”]]></title>
+            <link>https://tv.naver.com/v/37726489</link>
+            <guid>https://tv.naver.com/v/37726489</guid>
+            <pubDate>Wed, 05 Jul 2023 21:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_215/LQ3Na_1688591630667XCgWM_JPEG/cover_0011519074_001_20230706061301141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“국제원자력기구 앞세워 국민 걱정 짓밟아”]]></title>
             <link>https://tv.naver.com/v/37725481</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jul 2023 15:20:59 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_119/7TaM4_1688569306371yk5aE_JPEG/cover_0011519024_001_20230706000108532.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마켓나우]]></title>
-            <link>https://tv.naver.com/v/37722801</link>
-            <guid>https://tv.naver.com/v/37722801</guid>
-            <pubDate>Wed, 05 Jul 2023 15:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_4/HMxMh_1688569296665d6eI1_JPEG/cover_0011519023_001_20230706000101148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
