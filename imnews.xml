@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jul 2023 03:35:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jul 2023 04:26:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Wed, 05 Jul 2023 03:34:11 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_171/b8SxZ_1688527766712V6Lso_JPEG/cover_cover_noon_20230705_122019_1_13_Large_20230705122909970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC 12시뉴스] 정부 “IAEA 발표 존중..우리 조사 결과 서둘]]></title>
+            <link>https://tv.naver.com/v/37693770</link>
+            <guid>https://tv.naver.com/v/37693770</guid>
+            <pubDate>Wed, 05 Jul 2023 04:24:45 GMT</pubDate>
+            <content:encoded><![CDATA[24:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_245/diMoI_1688527571809IsOJd_JPEG/8cfdb760-1ae3-11ee-bf19-a0369ffac7dc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검찰, 김봉현 탈옥 계획 도운 친누나 구속영장]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jul 2023 01:48:49 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_235/7LKXu_1688518574500938e9_JPEG/cover_cover_0930_20230705_093925_1_7_Large_20230705095540489.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IAEA 사무총장 7일 방한‥보고서 설명할 듯]]></title>
-            <link>https://tv.naver.com/v/37688155</link>
-            <guid>https://tv.naver.com/v/37688155</guid>
-            <pubDate>Wed, 05 Jul 2023 01:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_168/GPa7m_1688518548197Ms5mn_JPEG/cover_cover_0930_20230705_093729_1_6_Large_20230705095534640.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
