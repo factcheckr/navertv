@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 13:39:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 14:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 33.1도…내일~모레 50~100mm 비]]></title>
+            <link>https://tv.naver.com/v/37761970</link>
+            <guid>https://tv.naver.com/v/37761970</guid>
+            <pubDate>Thu, 06 Jul 2023 14:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_248/VGbLF_16886524447423pdYJ_JPEG/cover_0011519913_001_20230706230701097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지난달 충북 평균 기온 22.5도…역대 4위]]></title>
             <link>https://tv.naver.com/v/37760426</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jul 2023 13:37:35 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_251/0Up10_1688649050888BKq1i_JPEG/cover_0011519776_001_20230706220957035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 고속도로 주변 김건희 일가 땅 29필지…핵심 의혹은?]]></title>
-            <link>https://tv.naver.com/v/37759637</link>
-            <guid>https://tv.naver.com/v/37759637</guid>
-            <pubDate>Thu, 06 Jul 2023 13:37:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_208/9lmcC_1688649045799q1aOk_JPEG/cover_0011519775_001_20230706220942730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
