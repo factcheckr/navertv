@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 10:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 11:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 6일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/37754104</link>
+            <guid>https://tv.naver.com/v/37754104</guid>
+            <pubDate>Thu, 06 Jul 2023 11:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_202/JXUp4_168864100820972Ckn_JPEG/cover_2023070690180_thumb_075440_20230706195601575.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 'P2E 로비 의혹' 허은아 보좌관, 코인거래소 대표로 가]]></title>
             <link>https://tv.naver.com/v/37748356</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 05 Jul 2023 13:32:24 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230705_124/Z4Khu_1688563312834P3X4y_JPEG/cover_2023070590212_thumb_101810_20230705222101507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 서울 유명 자사고, 기말고사 2주전 '답안 유출']]></title>
-            <link>https://tv.naver.com/v/37718660</link>
-            <guid>https://tv.naver.com/v/37718660</guid>
-            <pubDate>Wed, 05 Jul 2023 13:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230705_198/jdslB_1688563006551OR80L_JPEG/cover_2023070590208_thumb_101300_20230705221601605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
