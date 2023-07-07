@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jul 2023 03:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jul 2023 04:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 핑클, SES 완벽소환. 트와이스 팬덤 모여라!]]></title>
+            <link>https://tv.naver.com/v/37776921</link>
+            <guid>https://tv.naver.com/v/37776921</guid>
+            <pubDate>Fri, 07 Jul 2023 04:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_13/Q4HQe_1688701314483srpi0_JPEG/cover_cover_640_20230707124102024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 수도권·강원 폭염 서울 33도‥남부 많은 장맛비]]></title>
             <link>https://tv.naver.com/v/37776562</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jul 2023 01:50:34 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_80/J11jh_16886914737269dPXL_JPEG/cover_cover_0930_20230707_094025_1_7_Large_20230707095717864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동해안 잇따라 상어 출몰‥그물망 설치]]></title>
-            <link>https://tv.naver.com/v/37770885</link>
-            <guid>https://tv.naver.com/v/37770885</guid>
-            <pubDate>Fri, 07 Jul 2023 01:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_103/66fFs_1688691463820cyw1A_JPEG/cover_cover_today_20230707_064232_2_11_Large_U_20230707095708458.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
