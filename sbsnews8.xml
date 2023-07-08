@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 08:24:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 09:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 오늘도 쏟아지셨다…월드클라스 명언 폭격기 (feat.손흥민)]]></title>
+            <link>https://tv.naver.com/v/37817498</link>
+            <guid>https://tv.naver.com/v/37817498</guid>
+            <pubDate>Sat, 08 Jul 2023 09:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[5:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_139/5tqjV_1688807294967VLfSL_JPEG/cover_0001071666_001_20230708180512707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 이강인, 홀로 조용히 출국…이르면 이번 주말 PSG행 공식 발표 임박]]></title>
             <link>https://tv.naver.com/v/37814736</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 07 Jul 2023 23:19:01 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230708_74/3RO89_1688768341094iAwDx_JPEG/cover_0001071575_001_20230708071801137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자 14년 만에 최악의 실적…'반도체' 바닥 찍었나]]></title>
-            <link>https://tv.naver.com/v/37805843</link>
-            <guid>https://tv.naver.com/v/37805843</guid>
-            <pubDate>Fri, 07 Jul 2023 22:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_257/qnZ8G_1688768115524e85eJ_JPEG/cover_0001071574_001_20230708071401141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
