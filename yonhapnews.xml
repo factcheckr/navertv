@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 20:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 21:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Fri, 07 Jul 2023 08:25:20 GMT</pubDate>
             <content:encoded><![CDATA[2:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230707_119/doHGg_1688715421370fgSqI_JPEG/1688714927692.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낡은 차 애지중지 존버하니 금값?…60년된 임팔라 몰아보니]]></title>
+            <link>https://tv.naver.com/v/37781843</link>
+            <guid>https://tv.naver.com/v/37781843</guid>
+            <pubDate>Sat, 08 Jul 2023 21:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[10:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230707_117/QCUYE_1688708975042BDYN5_JPEG/1688708912786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라 "러 내전 직전…반란 때 프리고진 지지 푸틴 맞먹어"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jul 2023 04:25:02 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230706_86/00V1a_1688613267156N8czU_JPEG/1688612761800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라, 한밤중 하이마스로 러 점령지 기습공격]]></title>
-            <link>https://tv.naver.com/v/37734283</link>
-            <guid>https://tv.naver.com/v/37734283</guid>
-            <pubDate>Thu, 06 Jul 2023 03:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230706_49/hKWMp_1688612419906bvnsd_JPEG/1688612203064.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
