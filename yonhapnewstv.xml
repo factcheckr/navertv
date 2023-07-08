@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 19:15:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 20:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 606회]]></title>
+            <link>https://tv.naver.com/v/37828686</link>
+            <guid>https://tv.naver.com/v/37828686</guid>
+            <pubDate>Sat, 08 Jul 2023 20:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[30:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_63/Svlvo_1688847163455NoMiq_JPEG/cover_cover_MYH20230707016000641_20230709050102440.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['전기계량기 보기 무섭다'…폭염보다 두려운 전기요금 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/37823049</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Jul 2023 07:17:34 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230708_77/gINJI_1688799181233PEcLp_JPEG/cover_cover_MYH20230708007500641_20230708155203550.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계식량 가격 두달째 하락…설탕 가격도 내려]]></title>
-            <link>https://tv.naver.com/v/37814135</link>
-            <guid>https://tv.naver.com/v/37814135</guid>
-            <pubDate>Sat, 08 Jul 2023 07:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_160/SrUK2_16887986189413dGkg_JPEG/cover_cover_MYH20230708007300641_20230708154301923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
