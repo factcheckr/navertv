@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 14:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 15:19:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9층시사국] 신상공개, 무엇이 선인가 外]]></title>
+            <link>https://tv.naver.com/v/37850103</link>
+            <guid>https://tv.naver.com/v/37850103</guid>
+            <pubDate>Sun, 09 Jul 2023 15:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[37:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_39/dP6TF_16889154303466Mp5k_JPEG/cover_0011521193_001_20230709235701142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[9층시사국] 신상공개, 무엇이 선인가]]></title>
+            <link>https://tv.naver.com/v/37849706</link>
+            <guid>https://tv.naver.com/v/37849706</guid>
+            <pubDate>Sun, 09 Jul 2023 15:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[19:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_235/RxjWR_1688914253822k8FDP_PNG/cover_0011521190_001_20230709234340945.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[9층시사국] 인공지능, 예술을 넘보다]]></title>
+            <link>https://tv.naver.com/v/37849688</link>
+            <guid>https://tv.naver.com/v/37849688</guid>
+            <pubDate>Sun, 09 Jul 2023 15:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[18:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_115/aSVjM_16889141534352gQq5_PNG/cover_0011521191_001_20230709234315442.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[“쓰레기 버릴 곳 없어” vs “무단투기 많아져”]]></title>
             <link>https://tv.naver.com/v/37848417</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 09 Jul 2023 13:22:14 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230709_133/WcDmC_1688907390651kO0pf_JPEG/cover_0011521170_001_20230709215615177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[당진 서해안고속도서 승합차 불…30분 만에 꺼져]]></title>
-            <link>https://tv.naver.com/v/37846587</link>
-            <guid>https://tv.naver.com/v/37846587</guid>
-            <pubDate>Sun, 09 Jul 2023 13:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_299/2nb2X_1688907378831GUVhX_JPEG/cover_0011521169_001_20230709215608588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돼지 사육두수 1위 충남에 ‘동물의료원’ 설립 추진]]></title>
-            <link>https://tv.naver.com/v/37846585</link>
-            <guid>https://tv.naver.com/v/37846585</guid>
-            <pubDate>Sun, 09 Jul 2023 13:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_59/FDlQY_1688907402278Ywwhh_JPEG/cover_0011521168_001_20230709215601158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청남대, 충북 첫 코리아 유니크베뉴 선정]]></title>
-            <link>https://tv.naver.com/v/37846556</link>
-            <guid>https://tv.naver.com/v/37846556</guid>
-            <pubDate>Sun, 09 Jul 2023 13:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_91/IaXb8_1688907319800Ttbxu_JPEG/cover_0011521167_001_20230709215507756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
