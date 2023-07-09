@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 03:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 04:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 수도권 호우주의보‥국지성 호우 대비]]></title>
+            <link>https://tv.naver.com/v/37832458</link>
+            <guid>https://tv.naver.com/v/37832458</guid>
+            <pubDate>Sun, 09 Jul 2023 04:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_241/xpmNQ_1688872638598jPy5s_JPEG/cover_cover_noon_20230709_120438_1_5_Large_20230709121701841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임대사업자 보증보험 미가입 시 계약 해지 가능]]></title>
             <link>https://tv.naver.com/v/37832248</link>
@@ -24,20 +32,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230709_278/rij0L_168887199066713WgB_JPEG/cover_cover_noon_20230709_120115_1_3_Large_20230709120613272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MBC뉴스] - 호우주의보 전국 확산‥주중 평일 곳곳 장맛]]></title>
-            <link>https://tv.naver.com/v/37832238</link>
-            <guid>https://tv.naver.com/v/37832238</guid>
-            <pubDate>Sun, 09 Jul 2023 03:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[8:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_298/A2xsG_1688871970488BNb1P_JPEG/6c17e8c0-1e05-11ee-bb5d-80615f0bcefc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[IAEA 사무총장, 민주당 면담 "과학적 검증" 강조]]></title>
             <link>https://tv.naver.com/v/37832237</link>
             <guid>https://tv.naver.com/v/37832237</guid>
             <pubDate>Sun, 09 Jul 2023 03:09:36 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230709_142/BqNen_1688872002482GLozh_JPEG/cover_cover_noon_20230709_120022_1_2_Large_20230709120603566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC뉴스] - 호우주의보 전국 확산‥주중 평일 곳곳 장맛비 예상]]></title>
+            <link>https://tv.naver.com/v/37832238</link>
+            <guid>https://tv.naver.com/v/37832238</guid>
+            <pubDate>Sun, 09 Jul 2023 03:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[8:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_132/rtK74_1688872906292Mfu7K_PNG/1688872900518.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[중부지방 호우주의보‥이번 주 내내 장맛비]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Jul 2023 12:35:19 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230708_238/rHj4H_1688817307904UENMa_JPEG/cover_cover_desk_20230708_200451_1_3_Large_20230708205423248.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IAEA 사무총장, 외교장관 등 만나‥모든 일정 비공개로 진행]]></title>
-            <link>https://tv.naver.com/v/37821323</link>
-            <guid>https://tv.naver.com/v/37821323</guid>
-            <pubDate>Sat, 08 Jul 2023 12:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_137/D5aiz_1688817302405Xpunm_JPEG/cover_cover_desk_20230708_200134_1_1_Large_20230708205413955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
