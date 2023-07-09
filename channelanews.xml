@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 05:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 06:24:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]9년 만에 최종 결론, ‘세월호’ 김기춘 무죄]]></title>
+            <link>https://tv.naver.com/v/37835883</link>
+            <guid>https://tv.naver.com/v/37835883</guid>
+            <pubDate>Sun, 09 Jul 2023 06:24:39 GMT</pubDate>
+            <content:encoded><![CDATA[16:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_43/2DdkF_1688882860529VBaep_JPEG/cover_0000253045_001_20230709150201566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이 뉴스 좋아라]학교에 5천만 원 기부…‘선한 영향력’ 선순환 기대]]></title>
             <link>https://tv.naver.com/v/37834535</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Jul 2023 11:16:19 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230708_212/E9nIi_1688811672958xDhMr_JPEG/cover_0000253012_001_20230708191929273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“내리면 커진다”…장미란의 ‘3대’]]></title>
-            <link>https://tv.naver.com/v/37819195</link>
-            <guid>https://tv.naver.com/v/37819195</guid>
-            <pubDate>Sat, 08 Jul 2023 11:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_60/txm8o_1688811606591F4wRM_JPEG/cover_0000253014_001_20230708191920323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
