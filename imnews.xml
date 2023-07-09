@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 07:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 08:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 오피셜 뜨자마자 무슨 일? 이강인이 넘어야 할 것들]]></title>
+            <link>https://tv.naver.com/v/37839503</link>
+            <guid>https://tv.naver.com/v/37839503</guid>
+            <pubDate>Sun, 09 Jul 2023 08:22:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_16/dqR5w_1688890714527d64Ru_JPEG/cover_cover_230707_LGI_thumb_640_20230709171803448.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['종점 변경' 누가 요청했나?‥진실 공방]]></title>
             <link>https://tv.naver.com/v/37837168</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 08 Jul 2023 12:35:19 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230708_38/oDEUP_1688817346735lcOO7_JPEG/cover_cover_desk_20230708_201416_1_7_Large_20230708205458815.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 전쟁 500일‥계속되는 출구 없는 소모전]]></title>
-            <link>https://tv.naver.com/v/37821340</link>
-            <guid>https://tv.naver.com/v/37821340</guid>
-            <pubDate>Sat, 08 Jul 2023 12:35:19 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230708_31/c8A1v_1688817339031Ocrof_JPEG/cover_cover_desk_20230708_201210_1_6_Large_20230708205449906.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
