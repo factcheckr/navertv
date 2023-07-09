@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jul 2023 17:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jul 2023 18:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제천서 과수화상병 추가 확인…누적 피해 89건]]></title>
+            <link>https://tv.naver.com/v/37853186</link>
+            <guid>https://tv.naver.com/v/37853186</guid>
+            <pubDate>Sun, 09 Jul 2023 18:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_234/Zr050_1688926882791IOWao_JPEG/cover_0011521164_001_20230710032101126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘대학생 무상학식’ 보류…‘천원의 아침밥’ 강화]]></title>
             <link>https://tv.naver.com/v/37851595</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 09 Jul 2023 13:22:14 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230709_140/yYiEZ_1688907523262E5iJy_JPEG/cover_0011521111_001_20230709215712875.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주, IAEA에 “일본 편향적 검증”…그로시 “현지 검증 계속”]]></title>
-            <link>https://tv.naver.com/v/37846616</link>
-            <guid>https://tv.naver.com/v/37846616</guid>
-            <pubDate>Sun, 09 Jul 2023 13:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230709_269/DJZgy_16889074997519Mwph_JPEG/cover_0011521110_001_20230709215701177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
