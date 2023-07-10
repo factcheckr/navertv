@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 06:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 07:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[김주하 AI 뉴스] 미리 보는 김주하의 뉴스7]]></title>
+            <link>https://tv.naver.com/v/37870168</link>
+            <guid>https://tv.naver.com/v/37870168</guid>
+            <pubDate>Mon, 10 Jul 2023 07:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_102/MdGRE_1688973000541gS8g9_JPEG/cover_cover_20230710160608_20_845_1332681_1080_7_20230710160903981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] "테스형 대신 새벽"…'갈매기춤에 액션 연기까지' 나훈아 파격 변신]]></title>
             <link>https://tv.naver.com/v/37867829</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 09 Jul 2023 23:19:46 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230710_94/XQmBj_1688943947435sczoJ_JPEG/cover_cover_20230710080241_20_605_1332641_1080_7_20230710080501132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]13인치의 치열한 승부, 달팽이 경주 대회]]></title>
-            <link>https://tv.naver.com/v/37854885</link>
-            <guid>https://tv.naver.com/v/37854885</guid>
-            <pubDate>Sun, 09 Jul 2023 23:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230710_252/XShmY_1688943825715DpJQJ_JPEG/cover_cover_20230710075959_20_605_1332640_1080_7_20230710080305535.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
