@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jul 2023 09:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 10:22:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_73/5hUgz_16890625516148oV01_JPEG/cover_cover_230711_pu_thumb_640_20230711170204368.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[뉴스외전 정치 맞수다] 박성준 "전 양평군수 의혹 제기 게이트 덮는 물타기" vs 허은아 "예타 직전 땅 더 산 이유 답변 못해"]]></title>
-            <link>https://tv.naver.com/v/37915309</link>
-            <guid>https://tv.naver.com/v/37915309</guid>
-            <pubDate>Tue, 11 Jul 2023 08:25:09 GMT</pubDate>
-            <content:encoded><![CDATA[40:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_176/KzPz4_1689062354451lFYPn_JPEG/cover_cover_14news_20230711_144925_1_6_Large_20230711165102398.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[뉴스외전 이슈+] 윤 대통령, '수신료 분리 징수안' 시행령 재가]]></title>
             <link>https://tv.naver.com/v/37914550</link>
             <guid>https://tv.naver.com/v/37914550</guid>
@@ -246,6 +238,14 @@
             <pubDate>Tue, 11 Jul 2023 07:18:33 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_66/p5AMy_1689059407493pJ3bn_JPEG/cover_cover__20230711_160037_1_20230711160909454.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] '호우특보' 확대‥다음 주 초까지 비 계속]]></title>
+            <link>https://tv.naver.com/v/37913248</link>
+            <guid>https://tv.naver.com/v/37913248</guid>
+            <pubDate>Tue, 11 Jul 2023 10:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_244/lef2C_16890593638504lA2m_JPEG/cover_cover_14news_20230711_154834_1_21_Large_20230711160902660.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
