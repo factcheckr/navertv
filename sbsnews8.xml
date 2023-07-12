@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 16:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 17:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/37978199</link>
+            <guid>https://tv.naver.com/v/37978199</guid>
+            <pubDate>Wed, 12 Jul 2023 17:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_60/VIowf_1689179185078d5Y53_JPEG/cover_0001072731_001_20230713012601125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 다시 전국 장맛비…최대 250㎜ 이상 큰 비]]></title>
+            <link>https://tv.naver.com/v/37978186</link>
+            <guid>https://tv.naver.com/v/37978186</guid>
+            <pubDate>Wed, 12 Jul 2023 17:17:41 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_271/rVX92_1689179137104hDGjB_JPEG/cover_0001072730_001_20230713012501126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['팡팡' 성범죄 줄줄이…결찰 수사 확대]]></title>
             <link>https://tv.naver.com/v/37978171</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 13:29:20 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_240/uqIjL_1689166696181dt174_JPEG/cover_0001072688_001_20230712215701125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주 "국정조사 하자" vs 국힘 "정쟁 확대" 일축]]></title>
-            <link>https://tv.naver.com/v/37970261</link>
-            <guid>https://tv.naver.com/v/37970261</guid>
-            <pubDate>Wed, 12 Jul 2023 13:29:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_158/QBIJ2_1689166626651kTJkJ_JPEG/cover_0001072687_001_20230712215552461.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[230mm 폭우에 '6조' 피해…바이든, 비상사태 선포]]></title>
-            <link>https://tv.naver.com/v/37970250</link>
-            <guid>https://tv.naver.com/v/37970250</guid>
-            <pubDate>Wed, 12 Jul 2023 13:29:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_146/ZxRSk_1689166627950vOKBV_JPEG/cover_0001072693_001_20230712215542432.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
