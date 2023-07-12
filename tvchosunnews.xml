@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 10:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 11:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 12일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/37965332</link>
+            <guid>https://tv.naver.com/v/37965332</guid>
+            <pubDate>Wed, 12 Jul 2023 11:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_134/iXQdw_1689158801520igykO_JPEG/cover_2023071290139_thumb_074338_20230712194601567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 김의겸 "추미애 이해돼…유독 독박 쓰고 있는 셈"]]></title>
             <link>https://tv.naver.com/v/37964563</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 11 Jul 2023 13:29:13 GMT</pubDate>
             <content:encoded><![CDATA[0:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230711_137/oPvdm_1689080194151dAy8S_JPEG/cover_2023071190206_thumb_095444_20230711215624259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에버랜드 '푸바오' 동생 태어났다…국내 첫 쌍둥이 판다]]></title>
-            <link>https://tv.naver.com/v/37927480</link>
-            <guid>https://tv.naver.com/v/37927480</guid>
-            <pubDate>Tue, 11 Jul 2023 13:29:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230711_247/hpYsz_16890802349541NpIs_JPEG/cover_2023071190196_thumb_095113_20230711215616615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
