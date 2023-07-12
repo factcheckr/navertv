@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jul 2023 20:21:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jul 2023 21:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/37980622</link>
+            <guid>https://tv.naver.com/v/37980622</guid>
+            <pubDate>Wed, 12 Jul 2023 21:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_7/Nu6XT_1689196129670Gsxnd_JPEG/cover_0001072743_001_20230713060801151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['팡팡' 성범죄 줄줄이…경찰 수사 확대]]></title>
             <link>https://tv.naver.com/v/37979965</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 12 Jul 2023 13:29:20 GMT</pubDate>
             <content:encoded><![CDATA[2:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230712_191/x5Apj_1689166731966lymvf_JPEG/cover_0001072686_001_20230712215712349.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] '강남 마약 음료' 주범 중국서 체포…20대 한국인]]></title>
-            <link>https://tv.naver.com/v/37970321</link>
-            <guid>https://tv.naver.com/v/37970321</guid>
-            <pubDate>Wed, 12 Jul 2023 13:29:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230712_240/uqIjL_1689166696181dt174_JPEG/cover_0001072688_001_20230712215701125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
