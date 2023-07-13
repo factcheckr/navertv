@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 21:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 22:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[폭우로 주택 지반 붕괴…대규모 정전까지]]></title>
+            <link>https://tv.naver.com/v/38026574</link>
+            <guid>https://tv.naver.com/v/38026574</guid>
+            <pubDate>Thu, 13 Jul 2023 22:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_74/9Pnmx_1689286627497t6bCb_JPEG/cover_0000253367_001_20230714071601605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충청·호남 호우 경보…도로 침수 곳곳 통제]]></title>
+            <link>https://tv.naver.com/v/38026556</link>
+            <guid>https://tv.naver.com/v/38026556</guid>
+            <pubDate>Thu, 13 Jul 2023 22:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[2:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_162/WF9f2_1689286514855xHTav_JPEG/cover_0000253366_001_20230714071401550.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강남역 인근 한때 침수…서울 하천 27곳 통제]]></title>
             <link>https://tv.naver.com/v/38019939</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 13 Jul 2023 11:18:09 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_254/mHA5X_1689246618668s6sFr_JPEG/cover_0000253347_001_20230713200910313.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간당 최고 80mm…오늘밤 물폭탄 예보]]></title>
-            <link>https://tv.naver.com/v/38010144</link>
-            <guid>https://tv.naver.com/v/38010144</guid>
-            <pubDate>Thu, 13 Jul 2023 11:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_11/X0uGR_1689246617474sXTnd_JPEG/cover_0000253349_001_20230713200847947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘강남 마약 음료 사건’ 20대 총책 국내 송환 불확실]]></title>
-            <link>https://tv.naver.com/v/38010136</link>
-            <guid>https://tv.naver.com/v/38010136</guid>
-            <pubDate>Thu, 13 Jul 2023 11:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_116/3hspZ_1689246599602uKIpR_JPEG/cover_0000253350_001_20230713200838760.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
