@@ -4,9 +4,25 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 15:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 16:26:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 강한 비구름 계속‥인천·파주 시간당 20~30mm 세찬 비]]></title>
+            <link>https://tv.naver.com/v/38021580</link>
+            <guid>https://tv.naver.com/v/38021580</guid>
+            <pubDate>Thu, 13 Jul 2023 16:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_28/qTXwk_1689262955638hADgL_JPEG/cover_cover_joo230713_news5_20230714004205270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수도권 산사태 '심각'‥최고 위험 지역은?]]></title>
+            <link>https://tv.naver.com/v/38021114</link>
+            <guid>https://tv.naver.com/v/38021114</guid>
+            <pubDate>Thu, 13 Jul 2023 16:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[7:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_75/Ogj5K_16892621258267P2k3_JPEG/cover_cover_joo230713_news4_20230714002702700.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중대본, 중부지역 3단계 격상‥위기경보 최고 수준]]></title>
             <link>https://tv.naver.com/v/38020722</link>
@@ -29,7 +45,7 @@
             <guid>https://tv.naver.com/v/38020399</guid>
             <pubDate>Thu, 13 Jul 2023 15:20:01 GMT</pubDate>
             <content:encoded><![CDATA[23:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_267/6mKXI_1689260770691ieqOu_JPEG/aaf59dfd-218e-11ee-bae1-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_268/ovcoN_1689262434358kytm3_PNG/1689262430250.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[수도권 전역 호우경보‥내일까지 최대 250mm]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 13 Jul 2023 12:39:58 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_225/3Yy7f_1689247962247u3r7i_JPEG/cover_cover_desk_20230713_201757_1_15_Large_20230713203205163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주당, "'대통령 처가 고속도로 게이트' 국정조사 수용해야" 파상공세]]></title>
-            <link>https://tv.naver.com/v/38010854</link>
-            <guid>https://tv.naver.com/v/38010854</guid>
-            <pubDate>Thu, 13 Jul 2023 12:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_225/wYDbP_1689247848124LuHHx_JPEG/cover_cover_desk_20230713_202233_1_17_Large_20230713203005169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["기술적 검토 뒤 강상면 종점 선정‥원희룡과 협의 없어"]]></title>
-            <link>https://tv.naver.com/v/38010773</link>
-            <guid>https://tv.naver.com/v/38010773</guid>
-            <pubDate>Thu, 13 Jul 2023 12:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_104/E8PkM_1689247671579TgrD9_JPEG/cover_cover_desk_20230713_202005_1_16_Large_20230713202710530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
