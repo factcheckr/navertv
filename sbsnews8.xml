@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jul 2023 20:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jul 2023 21:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/38026023</link>
+            <guid>https://tv.naver.com/v/38026023</guid>
+            <pubDate>Thu, 13 Jul 2023 21:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_135/BoYma_1689282826821L7E0X_JPEG/cover_0001073098_001_20230714061301108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충청 · 전북 내일까지 300mm ↑]]></title>
+            <link>https://tv.naver.com/v/38025969</link>
+            <guid>https://tv.naver.com/v/38025969</guid>
+            <pubDate>Thu, 13 Jul 2023 21:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_96/1HSZM_1689282362966uoCXX_JPEG/cover_0001073097_001_20230714060501101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/38025352</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 13 Jul 2023 15:20:12 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_195/UZ8B7_1689260107633spxyz_JPEG/cover_0001073026_001_20230713235401131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파업발 대란 없었지만…일부 병원은 "퇴원 앞당기세요"]]></title>
-            <link>https://tv.naver.com/v/38019848</link>
-            <guid>https://tv.naver.com/v/38019848</guid>
-            <pubDate>Thu, 13 Jul 2023 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_272/lTLc8_16892600697628n7A8_JPEG/cover_0001073021_001_20230713235301113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CCTV 무용지물, 피할 곳도 없다…3년 전 판박이 '인재']]></title>
-            <link>https://tv.naver.com/v/38019810</link>
-            <guid>https://tv.naver.com/v/38019810</guid>
-            <pubDate>Thu, 13 Jul 2023 15:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_96/8SHbJ_1689260014986eDzwd_JPEG/cover_0001073017_001_20230713235219305.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
