@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 04:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 05:20:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] '신종 보이스피싱' 수법…무심코 누르면 당한다]]></title>
+            <link>https://tv.naver.com/v/38037363</link>
+            <guid>https://tv.naver.com/v/38037363</guid>
+            <pubDate>Fri, 14 Jul 2023 05:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_124/YovBp_1689310909713dyyQD_JPEG/cover_2023071490097_thumb_015514_20230714140101488.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한강 잠수교 통행 금지…곳곳 도로 통제로 교통 침체]]></title>
             <link>https://tv.naver.com/v/38035506</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 13 Jul 2023 13:36:58 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230713_97/ScqFC_1689253379060dmLfs_JPEG/cover_2023071390228_thumb_095521_20230713220101476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한은, 금리 4연속 동결…사상초유 한미 금리차·가계 빚 '복병']]></title>
-            <link>https://tv.naver.com/v/38014238</link>
-            <guid>https://tv.naver.com/v/38014238</guid>
-            <pubDate>Thu, 13 Jul 2023 13:36:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230713_170/5DJ9A_1689252716737MD7Xt_JPEG/cover_2023071390220_thumb_094706_20230713215101463.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
