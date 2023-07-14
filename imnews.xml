@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 09:20:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 10:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 금메달 여는 '만능키'? AG 와일드카드 이번에도?!]]></title>
+            <link>https://tv.naver.com/v/38052282</link>
+            <guid>https://tv.naver.com/v/38052282</guid>
+            <pubDate>Fri, 14 Jul 2023 10:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[3:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_52/mbjni_1689329783557uIJWA_JPEG/cover_cover_640_20230714191503096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[와글와글] 나사, '별 탄생 순간' 사진 공개]]></title>
             <link>https://tv.naver.com/v/38050302</link>
@@ -78,6 +86,14 @@
             <pubDate>Fri, 14 Jul 2023 09:19:14 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_207/65rbR_16893255938867iv3w_JPEG/cover_cover_5news_20230714_175500_1_9_Large_20230714180613159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스특보] 무너지고 잠기고 정전까지‥피해 속출]]></title>
+            <link>https://tv.naver.com/v/38049849</link>
+            <guid>https://tv.naver.com/v/38049849</guid>
+            <pubDate>Fri, 14 Jul 2023 10:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[42:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_56/ShUWI_1689325455089H0hBd_PNG/1689325451037.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[산사태 위기경보 '심각' 지역은?]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 07:17:47 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_71/MmNaz_1689318585167jDKGK_JPEG/cover_cover__20230714_160207_1_3_Large_20230714160902208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주 '쏙' 빠진 국토부 포스터‥"일베나 하는 짓을‥" 파문]]></title>
-            <link>https://tv.naver.com/v/38044037</link>
-            <guid>https://tv.naver.com/v/38044037</guid>
-            <pubDate>Fri, 14 Jul 2023 07:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_32/tYXCs_1689318334443aD6Be_JPEG/cover_cover_joo230714_vo3_u_20230714160502427.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안보리 논의 또 '빈손'‥북한, 5년 만에 참석]]></title>
-            <link>https://tv.naver.com/v/38043074</link>
-            <guid>https://tv.naver.com/v/38043074</guid>
-            <pubDate>Fri, 14 Jul 2023 07:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_266/5itf8_1689317322437YMqwV_JPEG/cover_cover_14news_20230714_153638_1_12_Large_20230714154811374.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
