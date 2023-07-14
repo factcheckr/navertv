@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 08:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 09:20:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김명준의 뉴스파이터 오프닝 - 우리의 안전, 우리가 지켜요!]]></title>
+            <link>https://tv.naver.com/v/38050442</link>
+            <guid>https://tv.naver.com/v/38050442</guid>
+            <pubDate>Fri, 14 Jul 2023 09:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_123/YwLkk_16893263671143Abtp_JPEG/cover_cover_20230714181604_20_673_1333138_1080_7_20230714181901123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정유정 "약간 다르지만, 전체적으로 잘못 인정" [가상기자 뉴스픽]]]></title>
             <link>https://tv.naver.com/v/38046777</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 01:53:37 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_21/gUJNR_1689296759819BKzxm_JPEG/cover_cover_20230714100023_20_605_1333108_1080_7_20230714100501132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도로에 거대 바위 떨어지고 흙더미 쏟아져…운전자들 '혼비백산']]></title>
-            <link>https://tv.naver.com/v/38028966</link>
-            <guid>https://tv.naver.com/v/38028966</guid>
-            <pubDate>Fri, 14 Jul 2023 01:53:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_26/39KwV_1689296543991Uo6tT_JPEG/cover_cover_20230714095712_20_605_1333107_1080_7_20230714100101165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
