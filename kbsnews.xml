@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 15:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 16:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보 날씨] 주말에도 강한 비…충남, 전북에 최대 400mm 이상]]></title>
+            <link>https://tv.naver.com/v/38061720</link>
+            <guid>https://tv.naver.com/v/38061720</guid>
+            <pubDate>Fri, 14 Jul 2023 16:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_246/dHNHr_16893484079722YU90_JPEG/cover_0011525572_001_20230715002609496.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 하천 홍수와 도심침수 상황…추가 피해 막으려면?]]></title>
+            <link>https://tv.naver.com/v/38061717</link>
+            <guid>https://tv.naver.com/v/38061717</guid>
+            <pubDate>Fri, 14 Jul 2023 16:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_24/67y0k_1689348481058noWi7_JPEG/cover_0011525571_001_20230715002601149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태백산국립공원, 불법·무질서 행위 집중 단속]]></title>
             <link>https://tv.naver.com/v/38061052</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 15:19:27 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_203/FIJA6_16893453468003T37N_JPEG/cover_0011525537_001_20230714233501115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지역 공영방송의 길을 묻다]]></title>
-            <link>https://tv.naver.com/v/38060112</link>
-            <guid>https://tv.naver.com/v/38060112</guid>
-            <pubDate>Fri, 14 Jul 2023 15:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_48/WGNdf_1689345303748m2AUh_JPEG/cover_0011525436_001_20230714233408522.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지역 공영방송의 길을 묻다]]></title>
-            <link>https://tv.naver.com/v/38060108</link>
-            <guid>https://tv.naver.com/v/38060108</guid>
-            <pubDate>Fri, 14 Jul 2023 15:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_245/m8cee_1689345285912YEAJ0_JPEG/cover_0011525367_001_20230714233401176.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
