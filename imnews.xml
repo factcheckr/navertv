@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 16:25:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 17:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수도권 전역 호우경보‥내일까지 최대 250mm]]></title>
+            <link>https://tv.naver.com/v/38063127</link>
+            <guid>https://tv.naver.com/v/38063127</guid>
+            <pubDate>Fri, 14 Jul 2023 17:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_127/4AojQ_1689353349621wxtmc_JPEG/cover_cover_joo230713_news1_20230715014829291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보] 이시각 기상센터]]></title>
             <link>https://tv.naver.com/v/38060598</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 11:16:17 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_125/FOksS_16893320331523cr9B_JPEG/cover_cover_desk_20230714_194857_1_4_Large_20230714195302371.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전북, 400mm 기록적 폭우‥경북, 저수지 넘쳐 주민 대피]]></title>
-            <link>https://tv.naver.com/v/38053207</link>
-            <guid>https://tv.naver.com/v/38053207</guid>
-            <pubDate>Fri, 14 Jul 2023 11:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_165/rsSAp_16893319123365R7Xr_JPEG/cover_cover_desk_20230714_194442_1_2_Large_20230714195102191.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
