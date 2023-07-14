@@ -4,9 +4,33 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 20:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 21:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 시각 기상센터]]></title>
+            <link>https://tv.naver.com/v/38064657</link>
+            <guid>https://tv.naver.com/v/38064657</guid>
+            <pubDate>Fri, 14 Jul 2023 21:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_136/H3DOk_1689368791646KkoJj_JPEG/cover_cover_n-230714-08_20230715060604157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경부선 무궁화호 탈선‥산사태 경보 '심각']]></title>
+            <link>https://tv.naver.com/v/38064639</link>
+            <guid>https://tv.naver.com/v/38064639</guid>
+            <pubDate>Fri, 14 Jul 2023 21:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_200/lCwUw_1689368474663WhdMi_JPEG/cover_cover_n-230714-07_20230715060004616.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC뉴스특보] 논산 산사태 4명 사상‥내일까지 400mm 비]]></title>
+            <link>https://tv.naver.com/v/38064626</link>
+            <guid>https://tv.naver.com/v/38064626</guid>
+            <pubDate>Fri, 14 Jul 2023 21:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[6:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_186/JLrsf_1689368170746wN9i5_JPEG/b94d6dc1-2288-11ee-9371-48df37e2c12c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[수도권 전역 호우경보‥내일까지 최대 250mm]]></title>
             <link>https://tv.naver.com/v/38063127</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 11:16:17 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_300/WJO2r_1689332455859rnwbq_JPEG/cover_cover_desk_20230714_195647_1_7_Large_20230714200013450.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바람에 외벽 떨어지고 나무 부러지고‥부산, 강풍 피해 속출]]></title>
-            <link>https://tv.naver.com/v/38053511</link>
-            <guid>https://tv.naver.com/v/38053511</guid>
-            <pubDate>Fri, 14 Jul 2023 11:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_210/qjKCJ_1689332459250bL9kA_JPEG/cover_cover_desk_20230714_195439_1_6_Large_20230714200005075.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산사태에 2명 사망, 1명 중태‥충청, 시간당 60mm 폭우에 피해 속출]]></title>
-            <link>https://tv.naver.com/v/38053399</link>
-            <guid>https://tv.naver.com/v/38053399</guid>
-            <pubDate>Fri, 14 Jul 2023 11:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_224/UKxh6_16893322111129KSDX_JPEG/cover_cover_desk_20230714_195134_1_5_Large_20230714195605050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[농작물 잠기고, 불어난 물에 고립‥생생한 시청자 제보영상]]></title>
-            <link>https://tv.naver.com/v/38053284</link>
-            <guid>https://tv.naver.com/v/38053284</guid>
-            <pubDate>Fri, 14 Jul 2023 11:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_125/FOksS_16893320331523cr9B_JPEG/cover_cover_desk_20230714_194857_1_4_Large_20230714195302371.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

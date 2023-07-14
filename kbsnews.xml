@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 20:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 21:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[논산천 논산대교 범람 우려…대전 등 도심도 홍수경보]]></title>
+            <link>https://tv.naver.com/v/38064687</link>
+            <guid>https://tv.naver.com/v/38064687</guid>
+            <pubDate>Fri, 14 Jul 2023 21:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_217/OmaJe_16893693229240HhE0_JPEG/cover_0011525612_001_20230715061410813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“충북 내일까지 300mm 비”…충북 전역 ‘호우경보’]]></title>
+            <link>https://tv.naver.com/v/38064686</link>
+            <guid>https://tv.naver.com/v/38064686</guid>
+            <pubDate>Fri, 14 Jul 2023 21:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_262/IrewE_1689369306149d56tI_JPEG/cover_0011525611_001_20230715061401172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보] 충청·전북·경북에 최대 400mm 폭우 더 내린다]]></title>
             <link>https://tv.naver.com/v/38064485</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 15:19:27 GMT</pubDate>
             <content:encoded><![CDATA[4:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_34/kruyw_1689346449191j9TkA_JPEG/cover_0011525552_001_20230714235301145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰, 여름철 음주운전·이륜차 불법행위 집중단속]]></title>
-            <link>https://tv.naver.com/v/38060271</link>
-            <guid>https://tv.naver.com/v/38060271</guid>
-            <pubDate>Fri, 14 Jul 2023 15:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_133/zjrlh_1689345503655i0xQQ_JPEG/cover_0011525551_001_20230714233811002.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘부당 업무 지시 의혹’ 경찰 간부…감찰 조사]]></title>
-            <link>https://tv.naver.com/v/38060268</link>
-            <guid>https://tv.naver.com/v/38060268</guid>
-            <pubDate>Fri, 14 Jul 2023 15:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_275/vNVlZ_1689345498287VTUap_JPEG/cover_0011525550_001_20230714233804121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
