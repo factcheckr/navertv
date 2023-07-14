@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 06:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jul 2023 07:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D뉴스] "여보 그때 이사 가자고 했잖아" 갈수록 어려워지는 상급지 갈아타기]]></title>
+            <link>https://tv.naver.com/v/38043590</link>
+            <guid>https://tv.naver.com/v/38043590</guid>
+            <pubDate>Fri, 14 Jul 2023 07:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_85/E4wpi_1689317879941bA0nX_JPEG/cover_cover_20230714155321_20_868_1333129_1080_7_20230714155701120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 피프티 피프티 사촌까지 등장? "전홍준 대표, 시계 안 팔아" 주장]]></title>
             <link>https://tv.naver.com/v/38036571</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 01:53:37 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_21/kXjPm_16892913134613lEtI_JPEG/cover_cover_20230714083136_20_605_1333099_1080_7_20230714083501156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7월 14일 굿모닝 MBN 클로징]]></title>
-            <link>https://tv.naver.com/v/38027202</link>
-            <guid>https://tv.naver.com/v/38027202</guid>
-            <pubDate>Thu, 13 Jul 2023 23:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_88/mSdW2_1689290000972FYoKd_JPEG/cover_cover_20230714080952_20_605_1333094_1080_7_20230714081301186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
