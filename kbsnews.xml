@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 19:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 20:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 광주·전남 호우 경보]]></title>
+            <link>https://tv.naver.com/v/38086935</link>
+            <guid>https://tv.naver.com/v/38086935</guid>
+            <pubDate>Sat, 15 Jul 2023 20:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_239/NULCv_1689452268668gbIaf_JPEG/cover_0011526003_001_20230716051701111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 청주 궁평지하차도 밤샘 배수 작업…“오전 중 구조대 투입”]]></title>
+            <link>https://tv.naver.com/v/38086928</link>
+            <guid>https://tv.naver.com/v/38086928</guid>
+            <pubDate>Sat, 15 Jul 2023 20:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_90/k6X9f_1689452044518vGH7N_JPEG/cover_0011526002_001_20230716051301108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보] 중대본, 집중호우로 26명 사망·10명 실종]]></title>
             <link>https://tv.naver.com/v/38084071</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 15 Jul 2023 14:15:57 GMT</pubDate>
             <content:encoded><![CDATA[1:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_170/eeSzp_1689429048041w7gpk_JPEG/cover_0011525955_001_20230715225001178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결국 터진 제방…주민 대피령 잇따라]]></title>
-            <link>https://tv.naver.com/v/38082335</link>
-            <guid>https://tv.naver.com/v/38082335</guid>
-            <pubDate>Sat, 15 Jul 2023 14:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_99/OyY0o_1689428835751sH8aF_JPEG/cover_0011525954_001_20230715224627963.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“물길 트러 갔다가”…충청권 산사태·토사유출로 5명 숨져]]></title>
-            <link>https://tv.naver.com/v/38082330</link>
-            <guid>https://tv.naver.com/v/38082330</guid>
-            <pubDate>Sat, 15 Jul 2023 14:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_18/XFRRi_1689428822816c6oo0_JPEG/cover_0011525953_001_20230715224621012.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
