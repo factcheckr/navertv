@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jul 2023 23:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 01:52:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[충북 괴산댐 물 넘쳐…주민 1500명 대피]]></title>
+            <link>https://tv.naver.com/v/38066925</link>
+            <guid>https://tv.naver.com/v/38066925</guid>
+            <pubDate>Sat, 15 Jul 2023 01:52:45 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_215/Ocl6h_1689385701612D2xvD_JPEG/cover_0000253441_001_20230715104701530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[바가지로 버틴 반지하…폭우에 또 침수 피해]]></title>
             <link>https://tv.naver.com/v/38054504</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 11:17:27 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230714_257/gRCWR_1689332769441PM0HF_JPEG/cover_0000253428_001_20230714200501560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘잔혹살인’ 정유정 반성문 걱정…“판사가 읽었을까”]]></title>
-            <link>https://tv.naver.com/v/38053630</link>
-            <guid>https://tv.naver.com/v/38053630</guid>
-            <pubDate>Fri, 14 Jul 2023 11:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230714_72/1KlhK_16893327063670iIKc_JPEG/cover_0000253429_001_20230714200405978.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
