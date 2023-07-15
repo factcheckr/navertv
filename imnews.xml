@@ -4,16 +4,16 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jul 2023 03:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jul 2023 04:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[이 시각 기상센터]]></title>
-            <link>https://tv.naver.com/v/38068230</link>
-            <guid>https://tv.naver.com/v/38068230</guid>
-            <pubDate>Sat, 15 Jul 2023 03:05:15 GMT</pubDate>
+            <title><![CDATA[경기 북부·강원 북부 호우주의보‥이 시각 기상센터]]></title>
+            <link>https://tv.naver.com/v/38068375</link>
+            <guid>https://tv.naver.com/v/38068375</guid>
+            <pubDate>Sat, 15 Jul 2023 04:22:06 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_186/Nu2dr_1689390285031p15uS_JPEG/cover_cover_noon_20230715_115902_1_8_Large_20230715120420482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_253/qnhFT_1689390867510PbNRr_JPEG/cover_cover_noon_20230715_115902_1_8_Large_20230715121404324.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경북·충청권 피해 속출‥매몰 사망사고 잇따라]]></title>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 15 Jul 2023 03:05:15 GMT</pubDate>
             <content:encoded><![CDATA[3:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_73/y3YXR_1689390298359QjeYh_JPEG/cover_cover_noon_20230715_115613_1_6_Large_20230715120404502.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC 뉴스특보] 괴산댐 물 넘쳐 주민 대피.. 충주도 대피령]]></title>
+            <link>https://tv.naver.com/v/38068168</link>
+            <guid>https://tv.naver.com/v/38068168</guid>
+            <pubDate>Sat, 15 Jul 2023 04:22:06 GMT</pubDate>
+            <content:encoded><![CDATA[16:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_31/ifWdh_1689390069464UfbVd_JPEG/b7ef35b7-22bb-11ee-ac75-48df379ccacc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도로·하천 곳곳 통제‥내일까지 장맛비]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 14 Jul 2023 23:19:00 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230715_190/5wsGD_1689373612477qYhNc_JPEG/cover_cover_1-1-2_20230715072611835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[논산 산사태로 4명 사상‥400mm 더 온다]]></title>
-            <link>https://tv.naver.com/v/38065006</link>
-            <guid>https://tv.naver.com/v/38065006</guid>
-            <pubDate>Fri, 14 Jul 2023 23:19:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230715_239/55iSp_1689373634983wDmid_JPEG/cover_cover_1-1-1_20230715072604487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
