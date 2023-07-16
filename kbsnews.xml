@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 04:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jul 2023 05:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 오송 지하차도 찾은 이재명 “참 안타까워…수습·대비에 최선”]]></title>
+            <link>https://tv.naver.com/v/38092277</link>
+            <guid>https://tv.naver.com/v/38092277</guid>
+            <pubDate>Sun, 16 Jul 2023 05:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_297/WxwvM_16894842507260LRxE_PNG/cover_0011526133_001_20230716141001151.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[특보 날씨] 남부지방 강한 비…시간당 30~60mm 집중호우 주의]]></title>
             <link>https://tv.naver.com/v/38091270</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 16 Jul 2023 02:02:03 GMT</pubDate>
             <content:encoded><![CDATA[2:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230716_142/Iu0qt_1689468000723sHeV7_JPEG/cover_0011526056_001_20230716093901117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 전문가 정창삼 교수 출연…‘지하차도 침수·산사태’ 대처 요령은?]]></title>
-            <link>https://tv.naver.com/v/38088295</link>
-            <guid>https://tv.naver.com/v/38088295</guid>
-            <pubDate>Sun, 16 Jul 2023 02:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[12:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_110/QnFTa_16894679046654idzo_JPEG/cover_0011526055_001_20230716093503147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
