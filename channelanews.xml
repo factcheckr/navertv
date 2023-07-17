@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jul 2023 23:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 01:57:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실종자 시신 4구 추가 발견…참혹했던 오송 지하차도]]></title>
+            <link>https://tv.naver.com/v/38112118</link>
+            <guid>https://tv.naver.com/v/38112118</guid>
+            <pubDate>Mon, 17 Jul 2023 01:57:36 GMT</pubDate>
+            <content:encoded><![CDATA[2:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230717_73/3DYq4_1689557847328sCST7_JPEG/cover_0000253560_001_20230717103601565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사건을 보다]살인 무기수의 교도소 살인…힘없는 법]]></title>
             <link>https://tv.naver.com/v/38101225</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 16 Jul 2023 10:20:44 GMT</pubDate>
             <content:encoded><![CDATA[4:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230716_209/RcXKZ_1689502171144hsrbM_JPEG/cover_0000253528_001_20230716190726895.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 대통령 “저지대 통제 과도할 만큼 선제 대응”]]></title>
-            <link>https://tv.naver.com/v/38098561</link>
-            <guid>https://tv.naver.com/v/38098561</guid>
-            <pubDate>Sun, 16 Jul 2023 10:20:44 GMT</pubDate>
-            <content:encoded><![CDATA[5:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230716_19/4mK15_1689502208359DQ6L7_JPEG/cover_0000253527_001_20230716190714804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
