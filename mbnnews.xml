@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 20:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 21:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[409회_집중호우 피해 상황과 대처요령]]></title>
+            <link>https://tv.naver.com/v/38186690</link>
+            <guid>https://tv.naver.com/v/38186690</guid>
+            <pubDate>Tue, 18 Jul 2023 21:15:34 GMT</pubDate>
+            <content:encoded><![CDATA[15:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_35/pr8Rq_1689714930518kWm4S_JPEG/cover_cover_20230719060242_20_849_1333485_1080_7_20230719060701136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['경찰 뭐했나'…먼 경찰서에 출동 지시하고 상황 전파에 급급]]></title>
             <link>https://tv.naver.com/v/38177012</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 18 Jul 2023 11:17:09 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230718_112/HqXxG_168967609983022Rga_JPEG/cover_cover_20230718192436_20_552_1333454_1080_7_20230718192701127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오송 지하차도에 또 비 내려 합동감식 지연…참사 원인 수사 본격화]]></title>
-            <link>https://tv.naver.com/v/38173089</link>
-            <guid>https://tv.naver.com/v/38173089</guid>
-            <pubDate>Tue, 18 Jul 2023 11:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230718_78/b9bqR_1689675852162ppGhi_JPEG/cover_cover_20230718192001_20_552_1333452_1080_7_20230718192301168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
