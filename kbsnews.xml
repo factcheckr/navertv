@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 20:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 21:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[실종 해병대원 발견…이 시각 예천]]></title>
+            <link>https://tv.naver.com/v/38228550</link>
+            <guid>https://tv.naver.com/v/38228550</guid>
+            <pubDate>Wed, 19 Jul 2023 21:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_147/Z3vFU_1689801113426ELgA5_JPEG/cover_0011528792_001_20230720061101103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태국 헌재, 피타 직무정지 결정…총리 선출 안갯속으로]]></title>
             <link>https://tv.naver.com/v/38227761</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jul 2023 17:15:36 GMT</pubDate>
             <content:encoded><![CDATA[5:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230720_186/sSKQx_1689785423589Drj9Q_JPEG/cover_0011528447_001_20230720014819117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8년째 분쟁 중인 ‘변호사 찾는 앱’…이번엔 허용될까?]]></title>
-            <link>https://tv.naver.com/v/38226441</link>
-            <guid>https://tv.naver.com/v/38226441</guid>
-            <pubDate>Wed, 19 Jul 2023 17:15:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230720_89/hoWVM_1689785340595JARxS_JPEG/cover_0011528445_001_20230720014811829.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
