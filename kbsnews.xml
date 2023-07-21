@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 13:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 14:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 29.1도…모레까지 20~60㎜ 비]]></title>
+            <link>https://tv.naver.com/v/38296750</link>
+            <guid>https://tv.naver.com/v/38296750</guid>
+            <pubDate>Fri, 21 Jul 2023 14:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_300/lHk1D_1689948746580SP7BX_JPEG/cover_0011530433_001_20230721231201149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유해 물질 의심 해외 우편물 신고 잇따라…경찰 조사 중]]></title>
             <link>https://tv.naver.com/v/38295184</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jul 2023 13:20:19 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_156/YCoBd_1689944833811tNUXj_JPEG/cover_0011530403_001_20230721220654748.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국시도교육감협 “교사 교육 활동 보장 노력”]]></title>
-            <link>https://tv.naver.com/v/38294894</link>
-            <guid>https://tv.naver.com/v/38294894</guid>
-            <pubDate>Fri, 21 Jul 2023 13:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_214/uZK3w_168994482334786w1n_JPEG/cover_0011530402_001_20230721220647004.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
