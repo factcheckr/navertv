@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 21:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 22:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Fri, 21 Jul 2023 07:16:46 GMT</pubDate>
             <content:encoded><![CDATA[4:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_268/koH69_1689921170570xk0N9_JPEG/1689918942505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 환기구용 신개념 필터 개발 윤용철 볼타필터 대표]]></title>
+            <link>https://tv.naver.com/v/38279496</link>
+            <guid>https://tv.naver.com/v/38279496</guid>
+            <pubDate>Fri, 21 Jul 2023 22:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[8:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_252/YX1lX_1689918922846c0sFQ_JPEG/1689918874990.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미 "월북병사 생존 여부도 말 못해…북, 계속 무응답"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 19 Jul 2023 09:18:05 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230719_91/E38Gc_1689757088176CMNly_JPEG/1689757075769.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["목숨 위태로운 수준"…펄펄 끓는 북반구, 이란 체감온도 67도]]></title>
-            <link>https://tv.naver.com/v/38208712</link>
-            <guid>https://tv.naver.com/v/38208712</guid>
-            <pubDate>Wed, 19 Jul 2023 09:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230719_264/qaVva_16897557589552p08m_JPEG/1689755741355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
