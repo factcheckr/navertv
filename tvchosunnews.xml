@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 06:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 07:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 22 Jul 2023 06:21:30 GMT</pubDate>
             <content:encoded><![CDATA[1:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_73/gjXTu_1690006600974Muuk9_JPEG/cover_2023072290023_thumb_031138_20230722151612686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['신림동 묻지마 흉기 난동' 목격자들 "처참했다"]]></title>
+            <link>https://tv.naver.com/v/38307555</link>
+            <guid>https://tv.naver.com/v/38307555</guid>
+            <pubDate>Sat, 22 Jul 2023 07:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[14:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_24/CxJxx_1690006932262j8lhy_JPEG/cover_2023072290021_thumb_031124_20230722151602240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['정체불명' 국제 우편물 전국 900여건…"열지 말고 신고해야"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 21 Jul 2023 12:34:40 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230721_61/zoHOL_1689941814983ToXc8_JPEG/cover_2023072190184_thumb_091443_20230721211601628.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경찰 "동료 교사 전원 조사"…휴대전화 포렌식은 '난항']]></title>
-            <link>https://tv.naver.com/v/38292968</link>
-            <guid>https://tv.naver.com/v/38292968</guid>
-            <pubDate>Fri, 21 Jul 2023 12:34:40 GMT</pubDate>
-            <content:encoded><![CDATA[1:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230721_48/VW4Qk_16899415159002GzwG_JPEG/cover_2023072190176_thumb_090721_20230721211111241.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
