@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 08:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 09:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] "좋은 일이니 더 열심히 하자고 했는데…" 눈물의 영결식]]></title>
+            <link>https://tv.naver.com/v/38310960</link>
+            <guid>https://tv.naver.com/v/38310960</guid>
+            <pubDate>Sat, 22 Jul 2023 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[4:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_260/EBqGX_1690014716581miTBE_JPEG/cover_0001075461_001_20230722173001254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 입 연 신림역 피의자 "남들도 나처럼 불행하게 만들고 싶었다"]]></title>
             <link>https://tv.naver.com/v/38310516</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Jul 2023 01:26:20 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_13/mGLHS_1689982010776Vzk5q_JPEG/cover_0001075383_001_20230722082501105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 주말 강한 장맛비…시간당 최대 60mm]]></title>
-            <link>https://tv.naver.com/v/38302001</link>
-            <guid>https://tv.naver.com/v/38302001</guid>
-            <pubDate>Sat, 22 Jul 2023 01:26:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_239/f5Glz_16899814535730Tf57_JPEG/cover_0001075381_001_20230722081701152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
