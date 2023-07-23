@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 05:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 06:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 이강인 '우리 형' 네이마르와 오사카 도착…프리 시즌 시작]]></title>
+            <link>https://tv.naver.com/v/38327617</link>
+            <guid>https://tv.naver.com/v/38327617</guid>
+            <pubDate>Sun, 23 Jul 2023 06:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_57/rxbKL_16900924788769ve1h_JPEG/cover_0001075597_001_20230723150701105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 캐나다 폭우…하루 새 200mm 어린이 포함 4명 실종]]></title>
             <link>https://tv.naver.com/v/38326630</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Jul 2023 12:30:57 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_17/qlNI3_1690028940757cjPEL_JPEG/cover_0001075491_001_20230722212801125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감사원 '통계 왜곡 의혹' 장하성 전 실장 조사]]></title>
-            <link>https://tv.naver.com/v/38315974</link>
-            <guid>https://tv.naver.com/v/38315974</guid>
-            <pubDate>Sat, 22 Jul 2023 12:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_266/Gmpbf_1690028845935FWb8R_JPEG/cover_0001075494_001_20230722212701123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
