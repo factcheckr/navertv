@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 03:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 04:20:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내일까지 거센 장맛비…시간당 최대 60mm]]></title>
+            <link>https://tv.naver.com/v/38325186</link>
+            <guid>https://tv.naver.com/v/38325186</guid>
+            <pubDate>Sun, 23 Jul 2023 04:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_222/3hVzp_1690083077647F5Vpo_JPEG/cover_0000253972_001_20230723123001613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[실신한 고 채수근 상병 어머니…“이런 비통함 다시 없어야”]]></title>
             <link>https://tv.naver.com/v/38316893</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Jul 2023 06:21:37 GMT</pubDate>
             <content:encoded><![CDATA[32:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_125/aqLH7_1690006489694MMsO1_JPEG/cover_0000253934_001_20230722150201583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]주말 다시 강한 장맛비…150mm 이상 집중호우]]></title>
-            <link>https://tv.naver.com/v/38304890</link>
-            <guid>https://tv.naver.com/v/38304890</guid>
-            <pubDate>Sat, 22 Jul 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_146/FJf6a_1689997413977gS8KF_JPEG/cover_0000253927_001_20230722124301513.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
