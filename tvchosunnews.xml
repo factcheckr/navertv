@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 06:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 07:16:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서해안 일부지역 '호우경보'…서울, 27개 하천 출입통제]]></title>
+            <link>https://tv.naver.com/v/38328181</link>
+            <guid>https://tv.naver.com/v/38328181</guid>
+            <pubDate>Sun, 23 Jul 2023 07:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_51/AbJMy_1690094204376t1sCb_JPEG/cover_2023072390022_thumb_033216_20230723153601617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[7월 23일 '뉴스현장' 클로징]]></title>
             <link>https://tv.naver.com/v/38327782</link>
@@ -22,6 +30,22 @@
             <pubDate>Sun, 23 Jul 2023 06:22:01 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230723_7/RUJwL_1690093004676IFRm1_JPEG/cover_2023072390030_thumb_031149_20230723151613852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['내 아이 기분 상해죄' 신조어도…대책은?]]></title>
+            <link>https://tv.naver.com/v/38327771</link>
+            <guid>https://tv.naver.com/v/38327771</guid>
+            <pubDate>Sun, 23 Jul 2023 07:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[14:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_31/EefN7_1690093371565w17N2_JPEG/cover_2023072390028_thumb_031124_20230723151601563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤리자문위, 코인 투자 의원 명단 발표 예정]]></title>
+            <link>https://tv.naver.com/v/38327595</link>
+            <guid>https://tv.naver.com/v/38327595</guid>
+            <pubDate>Sun, 23 Jul 2023 07:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[42:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_136/1gKmf_1690093441501suVFR_JPEG/cover_2023072390024_thumb_030251_20230723150609694.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[계속되는 '묻지마 범죄'에 "나도 예외 아니다" 시민들 불안]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 22 Jul 2023 06:21:30 GMT</pubDate>
             <content:encoded><![CDATA[0:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_149/iHmGJ_1690006586939E46nQ_JPEG/cover_2023072290025_thumb_031149_20230722151619517.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 주말 전국 장맛비…경기북부 최대 180㎜↑]]></title>
-            <link>https://tv.naver.com/v/38307559</link>
-            <guid>https://tv.naver.com/v/38307559</guid>
-            <pubDate>Sat, 22 Jul 2023 06:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_73/gjXTu_1690006600974Muuk9_JPEG/cover_2023072290023_thumb_031138_20230722151612686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['신림동 묻지마 흉기 난동' 목격자들 "처참했다"]]></title>
-            <link>https://tv.naver.com/v/38307555</link>
-            <guid>https://tv.naver.com/v/38307555</guid>
-            <pubDate>Sat, 22 Jul 2023 07:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[14:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_24/CxJxx_1690006932262j8lhy_JPEG/cover_2023072290021_thumb_031124_20230722151602240.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[北 새벽 순항미사일 수 발 기습발사…"전술핵 탑재 가능"]]></title>
-            <link>https://tv.naver.com/v/38307084</link>
-            <guid>https://tv.naver.com/v/38307084</guid>
-            <pubDate>Sat, 22 Jul 2023 06:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_74/q71LW_1690005442686i64Ti_JPEG/cover_2023072290015_thumb_025205_20230722145609173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
