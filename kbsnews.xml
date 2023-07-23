@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 04:20:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 05:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울 은평서 버스와 트럭 부딪혀…2명 부상 [현장영상]]]></title>
+            <link>https://tv.naver.com/v/38326335</link>
+            <guid>https://tv.naver.com/v/38326335</guid>
+            <pubDate>Sun, 23 Jul 2023 05:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_247/CqwbZ_1690088039975UOanT_PNG/cover_0011530815_001_20230723135301123.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[12시 특보] 모레까지 전국 장맛비…많은 곳 최대 200mm]]></title>
             <link>https://tv.naver.com/v/38325000</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Jul 2023 13:18:28 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_67/0tzL1_1690030695031tgNX5_JPEG/cover_0011530660_001_20230722215734830.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새만금 잼버리 다양한 전시 행사 마련]]></title>
-            <link>https://tv.naver.com/v/38316880</link>
-            <guid>https://tv.naver.com/v/38316880</guid>
-            <pubDate>Sat, 22 Jul 2023 13:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_12/0p43Z_1690030657634zBYY2_JPEG/cover_0011530711_001_20230722215728689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
