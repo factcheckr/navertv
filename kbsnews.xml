@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 15:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 16:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특보] 내일까지 전국 장맛비…호남 최대 150mm↑]]></title>
+            <link>https://tv.naver.com/v/38340353</link>
+            <guid>https://tv.naver.com/v/38340353</guid>
+            <pubDate>Sun, 23 Jul 2023 16:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[3:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_224/wGhYp_1690128308646wuKgU_JPEG/cover_0011530949_001_20230724010415812.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 충청권 내일까지 최대 120mm 비…이 시각 대전 유성천]]></title>
+            <link>https://tv.naver.com/v/38340348</link>
+            <guid>https://tv.naver.com/v/38340348</guid>
+            <pubDate>Sun, 23 Jul 2023 16:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_100/l9O7I_1690128306129XAEnt_JPEG/cover_0011530948_001_20230724010408612.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[특보] 내일까지 최고 150mm 비…진도에 시간당 60mm 집중호우]]></title>
+            <link>https://tv.naver.com/v/38340346</link>
+            <guid>https://tv.naver.com/v/38340346</guid>
+            <pubDate>Sun, 23 Jul 2023 16:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_149/SaElV_1690128313755wi1wQ_JPEG/cover_0011530947_001_20230724010401187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[9층시사국] 킬러문항 삭제, 그다음 수능은?]]></title>
             <link>https://tv.naver.com/v/38338801</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 23 Jul 2023 13:18:52 GMT</pubDate>
             <content:encoded><![CDATA[0:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230723_132/DYzdZ_1690117880055PGmDG_JPEG/cover_0011530919_001_20230723221107849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음성 제조공장서 불…“1,700여만 원 피해”]]></title>
-            <link>https://tv.naver.com/v/38336803</link>
-            <guid>https://tv.naver.com/v/38336803</guid>
-            <pubDate>Sun, 23 Jul 2023 13:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_273/lX4YV_1690117874342y8w0m_JPEG/cover_0011530918_001_20230723221101132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청주시, 집중호우 쓰레기 4천여 톤 추정]]></title>
-            <link>https://tv.naver.com/v/38336795</link>
-            <guid>https://tv.naver.com/v/38336795</guid>
-            <pubDate>Sun, 23 Jul 2023 13:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_163/gVeem_1690117829735AAPOj_JPEG/cover_0011530917_001_20230723221014883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부, 특별재난지역 피해가구 통신료 감면]]></title>
-            <link>https://tv.naver.com/v/38336790</link>
-            <guid>https://tv.naver.com/v/38336790</guid>
-            <pubDate>Sun, 23 Jul 2023 13:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_204/LvC1s_1690117825099bXkbe_JPEG/cover_0011530916_001_20230723221008348.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
