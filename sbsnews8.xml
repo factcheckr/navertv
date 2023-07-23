@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jul 2023 07:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 08:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] '신림 흉기난동' 피의자 "난 쓸모없는 사람…반성하고 있다"]]></title>
+            <link>https://tv.naver.com/v/38329133</link>
+            <guid>https://tv.naver.com/v/38329133</guid>
+            <pubDate>Sun, 23 Jul 2023 08:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_194/hvWIy_1690096691784Tsb9m_JPEG/cover_0001075606_001_20230723161601129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 이강인 '우리 형' 네이마르와 오사카 도착…프리 시즌 시작]]></title>
             <link>https://tv.naver.com/v/38328892</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 22 Jul 2023 12:30:57 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230722_237/PPTc7_1690029008492csKJG_JPEG/cover_0001075490_001_20230722212901122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["숨진 교사, 남 일 같지 않다"…거리로 나선 교사들]]></title>
-            <link>https://tv.naver.com/v/38316028</link>
-            <guid>https://tv.naver.com/v/38316028</guid>
-            <pubDate>Sat, 22 Jul 2023 12:30:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230722_142/vyIAj_1690028965035cuiiR_JPEG/cover_0001075489_001_20230722212812149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
