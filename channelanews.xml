@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 05:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 06:24:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Mon, 24 Jul 2023 05:17:47 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230724_184/mSiKe_1690175705478MhEA1_JPEG/cover_0000254035_001_20230724141401593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이화영 옥중편지에…與 “강요된 옥중 방탄”]]></title>
+            <link>https://tv.naver.com/v/38351902</link>
+            <guid>https://tv.naver.com/v/38351902</guid>
+            <pubDate>Mon, 24 Jul 2023 06:23:58 GMT</pubDate>
+            <content:encoded><![CDATA[12:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_196/a7mFi_16901759292109SCRq_JPEG/cover_0000254036_001_20230724141331110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘대북송금 의혹’ 이화영…자필 ‘옥중편지’ 공개]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 23 Jul 2023 12:31:47 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230723_9/pH2Ew_1690111568639awuaz_JPEG/cover_0000254002_001_20230723202501491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[여랑야랑]탄핵과 천안함 / 코인 주의보]]></title>
-            <link>https://tv.naver.com/v/38334253</link>
-            <guid>https://tv.naver.com/v/38334253</guid>
-            <pubDate>Sun, 23 Jul 2023 12:31:47 GMT</pubDate>
-            <content:encoded><![CDATA[4:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230723_29/kzmga_1690111555667wQsFa_JPEG/cover_0000253958_001_20230723202401602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
