@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 06:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 07:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건 날씨] 내일 전국 비…충청·남부 집중호우]]></title>
+            <link>https://tv.naver.com/v/38356936</link>
+            <guid>https://tv.naver.com/v/38356936</guid>
+            <pubDate>Mon, 24 Jul 2023 07:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_132/1OHX8_1690182769666HwQNx_JPEG/cover_0011531430_001_20230724161201138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[계속되는 도심 칼부림, 전통시장서 흉기 난동 벌인 남성 검거]]></title>
+            <link>https://tv.naver.com/v/38355521</link>
+            <guid>https://tv.naver.com/v/38355521</guid>
+            <pubDate>Mon, 24 Jul 2023 07:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_24/Ltroi_1690180891964noGmL_JPEG/cover_0011531385_001_20230724154101110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상] “하지마! 하지마!” 외쳤지만…그 경찰은 멈추지 않았다]]></title>
+            <link>https://tv.naver.com/v/38354806</link>
+            <guid>https://tv.naver.com/v/38354806</guid>
+            <pubDate>Mon, 24 Jul 2023 07:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_150/YjZn0_1690179885998zvRdP_JPEG/cover_0011531411_001_20230724152401180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“세수 못했으니 씻겨달라”…교사 ‘미투 운동’ 확산 [오늘 이슈]]]></title>
             <link>https://tv.naver.com/v/38354518</link>
@@ -14,14 +38,6 @@
             <pubDate>Mon, 24 Jul 2023 06:22:39 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230724_240/HRtPB_1690179511887MvyJy_JPEG/cover_0011531390_001_20230724151801134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[계속되는 도심 칼부림, 전통시장서 흉기 난동 벌인 남성 검거]]></title>
-            <link>https://tv.naver.com/v/38354476</link>
-            <guid>https://tv.naver.com/v/38354476</guid>
-            <pubDate>Mon, 24 Jul 2023 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_226/ByEo8_16901794647744WkaT_JPEG/cover_0011531385_001_20230724151702961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영상] 한미일 겨냥?…중러 해군 ‘동해’ 훈련 종료]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 24 Jul 2023 04:20:59 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230724_36/EQ3vZ_1690171291446652Nb_JPEG/cover_0011531332_001_20230724130101128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴양지 코르시카섬 폭염에 몸살]]></title>
-            <link>https://tv.naver.com/v/38349273</link>
-            <guid>https://tv.naver.com/v/38349273</guid>
-            <pubDate>Mon, 24 Jul 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_122/HpLB9_1690170893289Rkmfx_JPEG/cover_0011531330_001_20230724125421352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국, 차량 이동 중 돼지들 더위 먹고 쓰러져]]></title>
-            <link>https://tv.naver.com/v/38349270</link>
-            <guid>https://tv.naver.com/v/38349270</guid>
-            <pubDate>Mon, 24 Jul 2023 04:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_198/GIEKy_1690170897344vrsCW_JPEG/cover_0011531329_001_20230724125412805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

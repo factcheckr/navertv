@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jul 2023 06:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jul 2023 07:18:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/38356991</link>
+            <guid>https://tv.naver.com/v/38356991</guid>
+            <pubDate>Mon, 24 Jul 2023 07:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_137/jiYiz_1690182821388zoDQW_JPEG/cover_cover_20230724161003_20_845_1333925_1080_7_20230724161301133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["도시 발전 싱크탱크 역할"…화성시연구원 개원]]></title>
             <link>https://tv.naver.com/v/38345217</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 23 Jul 2023 23:18:27 GMT</pubDate>
             <content:encoded><![CDATA[1:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230724_109/sJO45_1690152494343hb15T_JPEG/cover_cover_20230724074345_20_605_1333891_1080_7_20230724074701155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2030년 상용화 '빌 게이츠 원전'…실험장면 '최초 공개']]></title>
-            <link>https://tv.naver.com/v/38342497</link>
-            <guid>https://tv.naver.com/v/38342497</guid>
-            <pubDate>Sun, 23 Jul 2023 23:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230724_197/g86SZ_1690152368110ynwUJ_JPEG/cover_cover_20230724074014_20_605_1333889_1080_7_20230724074501169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
