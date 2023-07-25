@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 04:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 05:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이상민 장관 탄핵 심판 잠시 뒤 선고]]></title>
+            <link>https://tv.naver.com/v/38389190</link>
+            <guid>https://tv.naver.com/v/38389190</guid>
+            <pubDate>Tue, 25 Jul 2023 05:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_131/Xhlvo_1690261963024IxVGu_JPEG/cover_cover_14news_20230725_140209_1_1_Large_20230725141204665.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["조선일보 사진, 검찰 CCTV와 동일"‥'사진 제공' 독자는 춘천지검?]]></title>
             <link>https://tv.naver.com/v/38384347</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 24 Jul 2023 23:17:17 GMT</pubDate>
             <content:encoded><![CDATA[0:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230725_273/U4VJm_1690239563709jTKoa_JPEG/cover_cover_today_20230725_072607_2_28_Large_20230725075902606.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] 가수 김동률 4년 만에 단독 콘서트]]></title>
-            <link>https://tv.naver.com/v/38379220</link>
-            <guid>https://tv.naver.com/v/38379220</guid>
-            <pubDate>Mon, 24 Jul 2023 23:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_90/4aeSZ_1690239554552bHc7u_JPEG/cover_cover_today_20230725_072451_2_27_Large_20230725075854020.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
