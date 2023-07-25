@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jul 2023 17:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 18:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[집중호우 대피 주민 모두 복귀…농작물 1,299ha 침수]]></title>
+            <link>https://tv.naver.com/v/38415552</link>
+            <guid>https://tv.naver.com/v/38415552</guid>
+            <pubDate>Tue, 25 Jul 2023 18:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_89/qeIYH_16903084353156LU0s_JPEG/cover_0011532485_001_20230726030701118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상] 죽음의 계곡에 ‘인증샷’ 행렬!]]></title>
             <link>https://tv.naver.com/v/38413320</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Jul 2023 15:19:07 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230725_106/Os4c0_1690297108444W8u59_JPEG/cover_0011532619_001_20230725235808022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 아파트 3.3㎡당 매매가 일 년 새 12% 하락]]></title>
-            <link>https://tv.naver.com/v/38412101</link>
-            <guid>https://tv.naver.com/v/38412101</guid>
-            <pubDate>Tue, 25 Jul 2023 15:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_195/XTsz2_1690297101679fwfYL_JPEG/cover_0011532618_001_20230725235801171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
