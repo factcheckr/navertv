@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 19:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 20:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['거짓 선동' vs '국정조사'…또 고성만]]></title>
+            <link>https://tv.naver.com/v/38453590</link>
+            <guid>https://tv.naver.com/v/38453590</guid>
+            <pubDate>Wed, 26 Jul 2023 20:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_118/BBazq_1690398846313VvCCU_JPEG/cover_0001076599_001_20230727041307926.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/38453589</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Jul 2023 13:20:32 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_177/AAmUU_1690375794542kwrya_JPEG/cover_0001076552_001_20230726214831441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['38.4도' 목욕탕처럼 뜨거운 바다…"재해 우려"]]></title>
-            <link>https://tv.naver.com/v/38444754</link>
-            <guid>https://tv.naver.com/v/38444754</guid>
-            <pubDate>Wed, 26 Jul 2023 13:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_14/zsQEk_1690375773537u935O_JPEG/cover_0001076555_001_20230726214821304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
