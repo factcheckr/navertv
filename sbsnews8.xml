@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 20:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 21:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/38454019</link>
+            <guid>https://tv.naver.com/v/38454019</guid>
+            <pubDate>Wed, 26 Jul 2023 21:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_49/8OmlW_16904058395669lJ0B_JPEG/cover_0001076611_001_20230727061003462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['교권 침해' 학생부 기재 추진…학부모 악성 민원의 기준은?]]></title>
+            <link>https://tv.naver.com/v/38453981</link>
+            <guid>https://tv.naver.com/v/38453981</guid>
+            <pubDate>Wed, 26 Jul 2023 21:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_269/XXZUh_1690405378221h1gEC_JPEG/cover_0001076537_001_20230727060201134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['거짓 선동' vs '국정조사'…또 고성만]]></title>
             <link>https://tv.naver.com/v/38453590</link>
@@ -128,14 +144,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_59/tHH07_1690375994682KPAIF_JPEG/cover_0001076536_001_20230726215203006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA['교권 침해' 학생부 기재 추진…학부모 악성 민원의 기준은?]]></title>
-            <link>https://tv.naver.com/v/38444886</link>
-            <guid>https://tv.naver.com/v/38444886</guid>
-            <pubDate>Wed, 26 Jul 2023 13:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_220/frSmI_1690375966362EHkBb_JPEG/cover_0001076537_001_20230726215131423.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[교사 앞에서 "교사는 예비 살인자"…충북교육감 발언 파문]]></title>
             <link>https://tv.naver.com/v/38444879</link>
             <guid>https://tv.naver.com/v/38444879</guid>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 26 Jul 2023 13:20:32 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_210/qKu5G_1690375786492NnPeh_JPEG/cover_0001076554_001_20230726214841455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["회관병에 갑질"…군 시설서 사단장 사적 모임 논란]]></title>
-            <link>https://tv.naver.com/v/38444758</link>
-            <guid>https://tv.naver.com/v/38444758</guid>
-            <pubDate>Wed, 26 Jul 2023 13:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_177/AAmUU_1690375794542kwrya_JPEG/cover_0001076552_001_20230726214831441.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
