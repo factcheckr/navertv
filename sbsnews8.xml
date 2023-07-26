@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 02:39:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 03:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["올여름 장마 공식 종료"…이후 강한 국지성 호우 주의]]></title>
+            <link>https://tv.naver.com/v/38423969</link>
+            <guid>https://tv.naver.com/v/38423969</guid>
+            <pubDate>Wed, 26 Jul 2023 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_124/ImwYK_1690340950540IXyR2_JPEG/cover_0001076418_001_20230726120801169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/38423808</link>
+            <guid>https://tv.naver.com/v/38423808</guid>
+            <pubDate>Wed, 26 Jul 2023 03:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_200/cQ8uZ_1690340625154zf0Bi_JPEG/cover_0001076417_001_20230726120303813.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] 37도 차 안에 갇힌 아기…아빠는 필사적으로 유리를 깼다]]></title>
             <link>https://tv.naver.com/v/38422751</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 25 Jul 2023 22:15:54 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_130/UzQKf_1690322014491Qk2fL_JPEG/cover_0001076306_001_20230726065303090.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울 동대문 오피스텔 불…주민 10여 명 한밤 긴급 대피]]></title>
-            <link>https://tv.naver.com/v/38417084</link>
-            <guid>https://tv.naver.com/v/38417084</guid>
-            <pubDate>Tue, 25 Jul 2023 22:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_203/n8EW5_1690321910426nV4fU_JPEG/cover_0001076304_001_20230726065101118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그리스 통제 불능 산불…이탈리아 북부는 때아닌 폭풍우]]></title>
-            <link>https://tv.naver.com/v/38417065</link>
-            <guid>https://tv.naver.com/v/38417065</guid>
-            <pubDate>Tue, 25 Jul 2023 22:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_293/bZE2R_1690321743625iY5rp_JPEG/cover_0001076302_001_20230726064801159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
