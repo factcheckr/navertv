@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jul 2023 05:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jul 2023 06:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[대전·세종·충남지역 확진자 한 달 새 2배…코로나19 재유행 조짐]]></title>
+            <link>https://tv.naver.com/v/38430309</link>
+            <guid>https://tv.naver.com/v/38430309</guid>
+            <pubDate>Wed, 26 Jul 2023 06:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_152/5NsYZ_1690352448766lecT2_JPEG/cover_0011532810_001_20230726152001120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오후날씨 꿀팁] 저녁까지 강한 소나기]]></title>
-            <link>https://tv.naver.com/v/38427912</link>
-            <guid>https://tv.naver.com/v/38427912</guid>
-            <pubDate>Wed, 26 Jul 2023 05:15:47 GMT</pubDate>
+            <link>https://tv.naver.com/v/38429625</link>
+            <guid>https://tv.naver.com/v/38429625</guid>
+            <pubDate>Wed, 26 Jul 2023 06:20:55 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_248/guJ4J_1690348539445lT481_JPEG/cover_0011533070_001_20230726141515252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_236/V4nzj_1690351349755rNQmx_JPEG/cover_0011533070_001_20230726150201143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“5월 기준 출생아 역대 최소·사망자 역대 최대”]]></title>
@@ -22,6 +30,14 @@
             <pubDate>Wed, 26 Jul 2023 05:15:47 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_147/AwyZO_16903485326116WAgi_JPEG/cover_0011533069_001_20230726141508749.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내일부터 역전세 반환대출…기존 세입자와 갱신해도 대출 가능]]></title>
+            <link>https://tv.naver.com/v/38427900</link>
+            <guid>https://tv.naver.com/v/38427900</guid>
+            <pubDate>Wed, 26 Jul 2023 06:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_295/QZKho_16903485472416Jl8g_JPEG/cover_0011533068_001_20230726141501108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“학생인권조례 정비·학생 생활지도 고시안 마련”]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 26 Jul 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_164/ZR9Lz_1690341713403XnB00_JPEG/cover_0011533022_001_20230726122103902.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“인터넷 국민토론서 71%가 찬성”…대통령실 “집회시위 규제 강화 권고”]]></title>
-            <link>https://tv.naver.com/v/38424379</link>
-            <guid>https://tv.naver.com/v/38424379</guid>
-            <pubDate>Wed, 26 Jul 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_150/NeZvd_1690341651245Cg8pt_JPEG/cover_0011533021_001_20230726122001138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백지화 선언 20일 만에 첫 현안질의…‘원희룡 사과’ 신경전]]></title>
-            <link>https://tv.naver.com/v/38424305</link>
-            <guid>https://tv.naver.com/v/38424305</guid>
-            <pubDate>Wed, 26 Jul 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230726_236/2mnv2_1690341533764pEpRR_JPEG/cover_0011533020_001_20230726121801118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
