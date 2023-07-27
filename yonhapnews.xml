@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 21:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 22:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 27 Jul 2023 07:16:19 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_74/5cxjQ_1690440429751UhFW4_JPEG/1690440112314.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 곤충 스마트팜 개발 김태훈 푸디웜 대표]]></title>
+            <link>https://tv.naver.com/v/38469358</link>
+            <guid>https://tv.naver.com/v/38469358</guid>
+            <pubDate>Thu, 27 Jul 2023 22:16:16 GMT</pubDate>
+            <content:encoded><![CDATA[13:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_31/79g92_1690439979174SjAba_JPEG/1690439006512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한일월드컵 우승 브라질 수비수, 양육비 미지급으로 체포]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 25 Jul 2023 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[5:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230726_22/1aRbC_1690346833579GKqym_JPEG/1690346828166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미, 우크라 희망고문?…"에이태큼스 줄 생각 지금은 없어"]]></title>
-            <link>https://tv.naver.com/v/38397759</link>
-            <guid>https://tv.naver.com/v/38397759</guid>
-            <pubDate>Tue, 25 Jul 2023 09:18:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230725_225/2VkoW_16902737744582GnTU_JPEG/1690273532068.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
