@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 20:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 21:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/38490450</link>
+            <guid>https://tv.naver.com/v/38490450</guid>
+            <pubDate>Thu, 27 Jul 2023 21:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_212/ehviA_1690492126194E1E5W_JPEG/cover_0001076954_001_20230728060801144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삼성전자 반도체 2분기 연속 적자…신형 '접는 폰' 승부수]]></title>
             <link>https://tv.naver.com/v/38489016</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jul 2023 13:20:28 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_180/scukk_1690462241916oppfc_JPEG/cover_0001076884_001_20230727214931688.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2%p' 한미 금리 차 최대…다음 달 올리나?]]></title>
-            <link>https://tv.naver.com/v/38482328</link>
-            <guid>https://tv.naver.com/v/38482328</guid>
-            <pubDate>Thu, 27 Jul 2023 13:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_228/rP2gK_1690462265835iSyO1_JPEG/cover_0001076885_001_20230727214921325.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
