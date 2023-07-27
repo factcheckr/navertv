@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 16:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 17:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 반도체 2분기 연속 적자…신형 '접는 폰' 승부수]]></title>
+            <link>https://tv.naver.com/v/38489016</link>
+            <guid>https://tv.naver.com/v/38489016</guid>
+            <pubDate>Thu, 27 Jul 2023 17:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_59/uHESc_1690477271765Tt6Kv_JPEG/cover_0001076902_001_20230728020001157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/38488236</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jul 2023 13:20:28 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_228/rP2gK_1690462265835iSyO1_JPEG/cover_0001076885_001_20230727214921325.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["상임위 중 2번 예약 매수"…"김남국 87종 소유"]]></title>
-            <link>https://tv.naver.com/v/38482308</link>
-            <guid>https://tv.naver.com/v/38482308</guid>
-            <pubDate>Thu, 27 Jul 2023 13:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_213/Tvr0I_16904622178740aCuU_JPEG/cover_0001076901_001_20230727214901112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
