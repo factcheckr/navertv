@@ -4,9 +4,25 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 10:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 11:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 28일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/38513546</link>
+            <guid>https://tv.naver.com/v/38513546</guid>
+            <pubDate>Fri, 28 Jul 2023 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_189/LTl6P_16905420998208Aeg9_JPEG/cover_2023072890139_thumb_075700_20230728200101528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페루 도심 한복판 흥분한 황소 출몰…"최소 5명 부상"]]></title>
+            <link>https://tv.naver.com/v/38513294</link>
+            <guid>https://tv.naver.com/v/38513294</guid>
+            <pubDate>Fri, 28 Jul 2023 11:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_130/ilZXm_1690541479799NfLVi_JPEG/cover_2023072890134_thumb_074657_20230728195101484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한미 공군 '쌍매훈련'에 F-35A 첫 참가]]></title>
             <link>https://tv.naver.com/v/38512153</link>
@@ -14,14 +30,6 @@
             <pubDate>Fri, 28 Jul 2023 10:19:02 GMT</pubDate>
             <content:encoded><![CDATA[1:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_189/iEE6J_1690538607980cdXdD_JPEG/cover_2023072890142_thumb_065626_20230728190109831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[페루 도심 한복판 흥분한 황소 출몰…"최소 5명 부상"]]></title>
-            <link>https://tv.naver.com/v/38512148</link>
-            <guid>https://tv.naver.com/v/38512148</guid>
-            <pubDate>Fri, 28 Jul 2023 10:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_270/blUHB_1690538483714JO8aw_JPEG/cover_2023072890134_thumb_065547_20230728190101492.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[씨박스] '신림동 흉기 난동' 조선…마침내 공개된 실제 얼굴]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jul 2023 13:21:22 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_53/WJn4o_1690463818574Gqgt0_JPEG/cover_2023072790200_thumb_101224_20230727221601693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7월 27일 '뉴스 9' 클로징]]></title>
-            <link>https://tv.naver.com/v/38482753</link>
-            <guid>https://tv.naver.com/v/38482753</guid>
-            <pubDate>Thu, 27 Jul 2023 13:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_283/AdlpF_1690462879617kEcyT_JPEG/cover_2023072790234_thumb_095636_20230727220108733.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
