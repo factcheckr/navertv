@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 05:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 06:22:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 임윤찬 다큐영화로 찾아온다…제천국제음악영화제 ‘크레센도’ 3분 만에 매진]]></title>
+            <link>https://tv.naver.com/v/38503353</link>
+            <guid>https://tv.naver.com/v/38503353</guid>
+            <pubDate>Fri, 28 Jul 2023 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_151/DDulj_1690524232000f2cz7_JPEG/cover_0011534817_001_20230728150302611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 전국 대부분 ‘폭염 경보’…주말, 무더위]]></title>
             <link>https://tv.naver.com/v/38501532</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 04:19:32 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_236/m6YOP_1690514736049WtqqQ_JPEG/cover_0011534757_001_20230728122501115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“작물 전환 1년도 안됐는데”…비 피해 논콩 농가 눈물]]></title>
-            <link>https://tv.naver.com/v/38496833</link>
-            <guid>https://tv.naver.com/v/38496833</guid>
-            <pubDate>Fri, 28 Jul 2023 03:17:05 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_81/x8L1A_1690513140952KwN2l_JPEG/cover_0011534290_001_20230728115812730.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
