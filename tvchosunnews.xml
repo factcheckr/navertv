@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 04:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 05:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 둔기 난동 30분 전 경찰에 직접 '살인 예고']]></title>
+            <link>https://tv.naver.com/v/38500634</link>
+            <guid>https://tv.naver.com/v/38500634</guid>
+            <pubDate>Fri, 28 Jul 2023 05:16:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_169/a8UTo_1690519905600Q4PwG_JPEG/cover_2023072890094_thumb_014922_20230728135104944.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["한전공대, 법인카드 1억 넘게 부정사용…허위보고로 수당챙겨"]]></title>
             <link>https://tv.naver.com/v/38491655</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 27 Jul 2023 13:21:22 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230727_114/SJr3G_1690461738542P1WDH_JPEG/cover_2023072790210_thumb_093546_20230727214121803.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[美 기준금리 0.25%p 인상…한미 격차 2%p '역대 최대']]></title>
-            <link>https://tv.naver.com/v/38482025</link>
-            <guid>https://tv.naver.com/v/38482025</guid>
-            <pubDate>Thu, 27 Jul 2023 13:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230727_246/0qRj7_1690461722375ojoWW_JPEG/cover_2023072790212_thumb_093716_20230727214111691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

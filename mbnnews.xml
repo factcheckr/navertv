@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 04:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 05:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_80/iGsOc_169049853114515lf5_JPEG/cover_cover_20230728075156_20_605_1334306_1080_7_20230728075502831.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["A.마드리드, 잘 가세요"…팀 K리그 '짜릿한 역전승']]></title>
-            <link>https://tv.naver.com/v/38491110</link>
-            <guid>https://tv.naver.com/v/38491110</guid>
-            <pubDate>Thu, 27 Jul 2023 23:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_280/GMJt7_1690498457793jbLgP_JPEG/cover_cover_20230728074917_20_605_1334305_1080_7_20230728075301149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[굿모닝 문화 소식] 해녀 vs 탈영병 체포조 / 과거 유럽부터 미래 중동까지 / 청각·촉각 깨우는 공연]]></title>
             <link>https://tv.naver.com/v/38491078</link>
             <guid>https://tv.naver.com/v/38491078</guid>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 27 Jul 2023 23:17:21 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_74/yVwzd_1690497496596nEBuy_JPEG/cover_cover_20230728073255_20_605_1334298_1080_7_20230728073701133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[굿모닝 오늘] '교사 사망' 현안질의 / 고위 당정 수해 상황 점검 / 유-보 통합 논의]]></title>
+            <link>https://tv.naver.com/v/38490938</link>
+            <guid>https://tv.naver.com/v/38490938</guid>
+            <pubDate>Fri, 28 Jul 2023 05:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_82/eXygt_1690497338532kHew9_JPEG/cover_cover_20230728072942_20_605_1334297_1080_7_20230728073505735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
