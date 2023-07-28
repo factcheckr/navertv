@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 13:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 14:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 32.9도…주말에도 무더위 이어져]]></title>
+            <link>https://tv.naver.com/v/38518191</link>
+            <guid>https://tv.naver.com/v/38518191</guid>
+            <pubDate>Fri, 28 Jul 2023 14:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_27/ipAWj_16905530609929gM1G_JPEG/cover_0011535100_001_20230728230401145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HJ중공업 “오페라하우스 성공적 건립에 총력”]]></title>
             <link>https://tv.naver.com/v/38517032</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 13:21:23 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_259/vt4gx_1690549796332JfxoC_JPEG/cover_0011534982_001_20230728220910920.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북중러 함께 참관…“핵 사용 땐 살아남지 못 해”]]></title>
-            <link>https://tv.naver.com/v/38516848</link>
-            <guid>https://tv.naver.com/v/38516848</guid>
-            <pubDate>Fri, 28 Jul 2023 13:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_193/jK9j3_1690549796887xKYQP_JPEG/cover_0011534981_001_20230728220900758.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
