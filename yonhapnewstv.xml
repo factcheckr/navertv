@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 19:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 20:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 609회]]></title>
+            <link>https://tv.naver.com/v/38541333</link>
+            <guid>https://tv.naver.com/v/38541333</guid>
+            <pubDate>Sat, 29 Jul 2023 20:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[30:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_63/ZMBf3_1690661627845PQrp8_JPEG/cover_cover_MYH20230728015700641_20230730050101669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기후변화의 값비싼 청구서…반복되는 비극 막을 대책은 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/38536420</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 29 Jul 2023 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[2:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230729_195/ku7f4_16906191895750vuUa_JPEG/cover_cover_MYH20230729007900641_20230729172501888.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[여야, 이동관 인사청문회 '강대강 격돌' 예고]]></title>
-            <link>https://tv.naver.com/v/38530915</link>
-            <guid>https://tv.naver.com/v/38530915</guid>
-            <pubDate>Sat, 29 Jul 2023 08:19:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_285/wuQyN_1690618668729L0nwi_JPEG/cover_cover_MYH20230729007800641_20230729171701890.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
