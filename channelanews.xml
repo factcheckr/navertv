@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 05:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 06:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]청와대 독촉 두 달 만에 ‘답정너’ 4대강 보 해체]]></title>
+            <link>https://tv.naver.com/v/38528108</link>
+            <guid>https://tv.naver.com/v/38528108</guid>
+            <pubDate>Sat, 29 Jul 2023 06:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[18:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_86/NfizI_1690610904312YLknG_JPEG/cover_0000254413_001_20230729150201588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]택시 안에서 흉기 선택한 ‘신림동 묻지마 살인’ 조선]]></title>
             <link>https://tv.naver.com/v/38516447</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 11:15:09 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230728_276/cxf25_1690540742231Kk40P_JPEG/cover_0000254374_001_20230728193735276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘이화영 만남’ 부인한 박찬대…이화영 측근은 만났다는데]]></title>
-            <link>https://tv.naver.com/v/38513024</link>
-            <guid>https://tv.naver.com/v/38513024</guid>
-            <pubDate>Fri, 28 Jul 2023 11:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[25:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230728_2/bRGZs_16905412494061Wofm_JPEG/cover_0000254373_001_20230728193701455.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
