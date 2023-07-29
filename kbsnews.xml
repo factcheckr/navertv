@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 01:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 02:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스광장 영상] 거북선대교]]></title>
+            <link>https://tv.naver.com/v/38523795</link>
+            <guid>https://tv.naver.com/v/38523795</guid>
+            <pubDate>Sat, 29 Jul 2023 02:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_45/i6OYs_1690593554905SsDSW_JPEG/cover_0011535178_001_20230729101901110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[930 날씨] 전국 폭염 특보…곳곳 강한 소나기]]></title>
             <link>https://tv.naver.com/v/38523697</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 28 Jul 2023 22:15:31 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230729_14/fxIRz_16905814088168HebC_JPEG/cover_0011535163_001_20230729065601166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“왜 현장 어려움 외면했나?” 질타…원인 놓고는 이견]]></title>
-            <link>https://tv.naver.com/v/38522241</link>
-            <guid>https://tv.naver.com/v/38522241</guid>
-            <pubDate>Fri, 28 Jul 2023 22:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_113/Pvhq7_1690580774565887SG_JPEG/cover_0011535162_001_20230729064528309.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
