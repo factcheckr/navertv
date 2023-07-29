@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jul 2023 22:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jul 2023 23:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어제보다 기온 더 올라 ‘서울·대구 35도’…온열질환 유의 [7시 날씨]]]></title>
+            <link>https://tv.naver.com/v/38541683</link>
+            <guid>https://tv.naver.com/v/38541683</guid>
+            <pubDate>Sat, 29 Jul 2023 23:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_26/5cwnf_1690669287997cKJkz_JPEG/cover_0011535378_001_20230730072101123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안전한 교육 환경 촉구…교사들 두 번째 도심집회]]></title>
+            <link>https://tv.naver.com/v/38541681</link>
+            <guid>https://tv.naver.com/v/38541681</guid>
+            <pubDate>Sat, 29 Jul 2023 23:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_247/kM4XR_1690669246760gsW2D_JPEG/cover_0011535376_001_20230730072001148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘핵추진잠수함’ 참가…한미 대잠전 훈련 실시]]></title>
             <link>https://tv.naver.com/v/38541661</link>
@@ -14,6 +30,14 @@
             <pubDate>Sat, 29 Jul 2023 22:14:42 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230730_144/0a3NC_1690668875498Sz5PX_JPEG/cover_0011535377_001_20230730071419429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대낮 강남서 성매매한 판사…한달간 징계절차도 없이 ‘재판참여’]]></title>
+            <link>https://tv.naver.com/v/38541659</link>
+            <guid>https://tv.naver.com/v/38541659</guid>
+            <pubDate>Sat, 29 Jul 2023 23:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_191/rNuij_1690668884170hVpKx_JPEG/cover_0011535375_001_20230730071401189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[태국 불꽃놀이 용품 창고 폭발…최소 9명 사망]]></title>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 29 Jul 2023 13:17:51 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230729_59/z9wYi_169063612520947sgq_JPEG/cover_0011535337_001_20230729220828287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“경남 기초과학 인력 전국 4%…기관 유치 필요”]]></title>
-            <link>https://tv.naver.com/v/38536588</link>
-            <guid>https://tv.naver.com/v/38536588</guid>
-            <pubDate>Sat, 29 Jul 2023 13:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_292/MLfJH_1690636113859w5UFR_JPEG/cover_0011535336_001_20230729220821408.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경남, 기혼 남성 30%·여성 46%  “결혼 안 해도 그만”]]></title>
-            <link>https://tv.naver.com/v/38536585</link>
-            <guid>https://tv.naver.com/v/38536585</guid>
-            <pubDate>Sat, 29 Jul 2023 13:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_121/uE7gU_1690636114803k4iOl_JPEG/cover_0011535335_001_20230729220814530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[창녕 선박 부품 공장 불…9천만 원 피해]]></title>
-            <link>https://tv.naver.com/v/38536578</link>
-            <guid>https://tv.naver.com/v/38536578</guid>
-            <pubDate>Sat, 29 Jul 2023 13:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_113/HHSad_1690636102444YgbI8_JPEG/cover_0011535334_001_20230729220807936.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
