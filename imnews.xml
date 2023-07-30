@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 05:16:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 06:21:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 하루 만에 4명 목숨 앗아간 '살인 폭염']]></title>
+            <link>https://tv.naver.com/v/38546414</link>
+            <guid>https://tv.naver.com/v/38546414</guid>
+            <pubDate>Sun, 30 Jul 2023 06:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_138/mmowi_1690695592203XkL48_JPEG/cover_cover_230730_hot_640_20230730143901864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스트레이트 예고] 과학인가 괴담인가 오염수의 정치]]></title>
             <link>https://tv.naver.com/v/38545843</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 29 Jul 2023 03:17:00 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230729_261/OiDCH_1690600224399hLpLX_JPEG/cover_cover_noon_20230729_120608_1_4_Large_20230729121013287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미일 정상회의 다음 달 18일 개최]]></title>
-            <link>https://tv.naver.com/v/38525278</link>
-            <guid>https://tv.naver.com/v/38525278</guid>
-            <pubDate>Sat, 29 Jul 2023 03:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230729_116/Uh7F2_1690600241635ve932_JPEG/cover_cover_noon_20230729_120519_1_3_Large_20230729121004722.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
