@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jul 2023 20:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jul 2023 21:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/38562095</link>
+            <guid>https://tv.naver.com/v/38562095</guid>
+            <pubDate>Sun, 30 Jul 2023 21:13:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_13/12NhG_1690751382558bIsRu_JPEG/cover_0001077526_001_20230731060901114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장수군 4년 새 3번째 지진…'산사태 취약지역' 긴급점검]]></title>
             <link>https://tv.naver.com/v/38561546</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 30 Jul 2023 04:19:27 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230730_270/3SUXv_1690689025863oX1tB_JPEG/cover_0001077430_001_20230730125001161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 낮 35도 안팎 무더위 이어져…내륙 곳곳 소나기]]></title>
-            <link>https://tv.naver.com/v/38544555</link>
-            <guid>https://tv.naver.com/v/38544555</guid>
-            <pubDate>Sun, 30 Jul 2023 04:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230730_16/qDBSP_1690688926060K3DGi_JPEG/cover_0001077429_001_20230730124801138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
