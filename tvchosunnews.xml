@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 10:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 11:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[7월 31일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/38583997</link>
+            <guid>https://tv.naver.com/v/38583997</guid>
+            <pubDate>Mon, 31 Jul 2023 11:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_149/Ehs8X_16908004035938H6v4_JPEG/cover_2023073190153_thumb_074033_20230731194601634.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[만취 상태로 고속도로 6㎞ '역주행' 40대 검거]]></title>
             <link>https://tv.naver.com/v/38582192</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 30 Jul 2023 23:17:32 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_107/BWwpn_16907584122588a0Wv_JPEG/cover_2023073190017_thumb_080125_20230731080601566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 대부분 폭염경보·열대야…내륙 지역은 소나기]]></title>
-            <link>https://tv.naver.com/v/38562616</link>
-            <guid>https://tv.naver.com/v/38562616</guid>
-            <pubDate>Sun, 30 Jul 2023 23:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[1:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_109/k08Kr_1690756932124hh1tk_JPEG/cover_2023073190011_thumb_073834_20230731074116274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
