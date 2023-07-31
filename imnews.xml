@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 12:37:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 13:24:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 31 Jul 2023 12:35:59 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_81/lXzb9_1690804849624b4AHu_JPEG/cover_cover_desk_20230731_202118_1_17_Large_20230731210004849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스데스크 클로징]]></title>
+            <link>https://tv.naver.com/v/38586165</link>
+            <guid>https://tv.naver.com/v/38586165</guid>
+            <pubDate>Mon, 31 Jul 2023 13:22:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_144/Bj8Vc_1690804646717Sgo4u_JPEG/cover_cover_desk_20230731_204809_1_33_Large_20230731205721808.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 늦은 밤까지 곳곳 소나기‥열대야 확대]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 31 Jul 2023 11:14:25 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_108/ZOJK5_1690800938450zqX8t_JPEG/cover_cover_desk_20230731_195121_1_5_Large_20230731195502413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찜통더위·열대야 계속‥내일 더 덥다]]></title>
-            <link>https://tv.naver.com/v/38584050</link>
-            <guid>https://tv.naver.com/v/38584050</guid>
-            <pubDate>Mon, 31 Jul 2023 11:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_174/lIadz_1690800531994lzPPf_JPEG/cover_cover_desk_20230731_194350_1_2_Large_20230731194804640.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
