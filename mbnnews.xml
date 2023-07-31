@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 21:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 22:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 1일 굿모닝MBN 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/38597490</link>
+            <guid>https://tv.naver.com/v/38597490</guid>
+            <pubDate>Mon, 31 Jul 2023 22:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_85/muiPx_1690841697133jmpG6_JPEG/cover_cover_20230801070426_20_605_1334552_1080_7_20230801071401156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 전역 '40도' 폭염…온열질환 사망자 속출]]></title>
+            <link>https://tv.naver.com/v/38597478</link>
+            <guid>https://tv.naver.com/v/38597478</guid>
+            <pubDate>Mon, 31 Jul 2023 22:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_229/5d9Wb_1690841599113U6h2d_JPEG/cover_cover_20230801070911_20_605_1334553_1080_7_20230801071302619.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화려한 골, 화끈한 팬 서비스…다음은 '이강인이다']]></title>
             <link>https://tv.naver.com/v/38587765</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 31 Jul 2023 11:15:39 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230731_99/np3LZ_1690799159037Fkhfj_JPEG/cover_cover_20230731192203_20_552_1334520_1080_7_20230731192501126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['순살 아파트' 논란…'철근 누락' 어떻게 해결하나?]]></title>
-            <link>https://tv.naver.com/v/38583347</link>
-            <guid>https://tv.naver.com/v/38583347</guid>
-            <pubDate>Mon, 31 Jul 2023 11:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[3:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_22/BTbKp_1690799091738mcb0T_JPEG/cover_cover_20230731191626_20_552_1334519_1080_7_20230731192301127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 '철근 누락' 전수조사 지시…전국 300곳 진단한다]]></title>
-            <link>https://tv.naver.com/v/38583251</link>
-            <guid>https://tv.naver.com/v/38583251</guid>
-            <pubDate>Mon, 31 Jul 2023 10:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230731_247/ADhy2_16907988095618uYxJ_JPEG/cover_cover_20230731191420_20_552_1334518_1080_7_20230731191901126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
