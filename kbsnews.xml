@@ -4,24 +4,32 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 06:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 07:22:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건] 오늘의 주요 뉴스]]></title>
+            <link>https://tv.naver.com/v/38612230</link>
+            <guid>https://tv.naver.com/v/38612230</guid>
+            <pubDate>Tue, 01 Aug 2023 07:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[4:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_25/b7BRp_1690874008027bRlhD_JPEG/cover_0011536847_001_20230801161201184.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨딩드레스 다 젖으며 입장…홍수도 못 막은 결혼식 [현장영상]]]></title>
+            <link>https://tv.naver.com/v/38612196</link>
+            <guid>https://tv.naver.com/v/38612196</guid>
+            <pubDate>Tue, 01 Aug 2023 07:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_189/Bpr0R_1690873885326XVW6i_PNG/cover_0011536823_001_20230801161101126.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 김민재 싱가포르 도착…리버풀전 기분좋은 추억]]></title>
             <link>https://tv.naver.com/v/38610235</link>
             <guid>https://tv.naver.com/v/38610235</guid>
             <pubDate>Tue, 01 Aug 2023 06:27:06 GMT</pubDate>
             <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_204/7fzPg_1690871177540CcomJ_PNG/cover_0011536829_001_20230801152501118.png?type=f194_109_blend" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[현장영상] 웨딩드레스 다 젖으며 입장…홍수도 못 막은 결혼식]]></title>
-            <link>https://tv.naver.com/v/38609681</link>
-            <guid>https://tv.naver.com/v/38609681</guid>
-            <pubDate>Tue, 01 Aug 2023 06:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_44/3DlCc_1690870287318cErMx_PNG/cover_0011536823_001_20230801151101102.png?type=f194_109_blend" length="0" type="image/png"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_9/cEm4e_1690871240189ChnYV_PNG/cover_0011536829_001_20230801152501118.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘신혼부부 3억 증여세 면제’에 이재명 “초부자 감세” vs 박대출 “갈라치기” [현장영상]]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Aug 2023 04:20:22 GMT</pubDate>
             <content:encoded><![CDATA[3:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230801_219/RMdxB_1690860055224KnFh9_JPEG/cover_0011536743_001_20230801122001160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“천 원 소주·2천 원 맥주 나올까?”…술도 할인판매 허용 [오늘 이슈]]]></title>
-            <link>https://tv.naver.com/v/38603866</link>
-            <guid>https://tv.naver.com/v/38603866</guid>
-            <pubDate>Tue, 01 Aug 2023 03:19:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_158/zxwnj_1690859914823bCgWf_PNG/cover_0011536723_001_20230801121801132.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
