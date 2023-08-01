@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 20:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 21:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전국 폭염 지속…태풍의 영향은?]]></title>
+            <link>https://tv.naver.com/v/38632629</link>
+            <guid>https://tv.naver.com/v/38632629</guid>
+            <pubDate>Tue, 01 Aug 2023 21:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_287/b4ucP_16909244551612i5Vg_JPEG/cover_0011537276_001_20230802061410042.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤새 이어진 찜통 더위…잠 못 든 열대야]]></title>
+            <link>https://tv.naver.com/v/38632624</link>
+            <guid>https://tv.naver.com/v/38632624</guid>
+            <pubDate>Tue, 01 Aug 2023 21:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_112/9gijg_16909244858722JO0S_JPEG/cover_0011537275_001_20230802061401130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“자리 하나에 6만 원”…무허가 시설물 배짱영업]]></title>
             <link>https://tv.naver.com/v/38628896</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 01 Aug 2023 15:17:48 GMT</pubDate>
             <content:encoded><![CDATA[0:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230801_276/VHru0_1690899868713IGOD6_JPEG/cover_0011537230_001_20230801232419235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울주군, 2035 울주군 경관계획 주민 공청회 열어]]></title>
-            <link>https://tv.naver.com/v/38627363</link>
-            <guid>https://tv.naver.com/v/38627363</guid>
-            <pubDate>Tue, 01 Aug 2023 15:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_218/ONCyv_16908998668655HUmY_JPEG/cover_0011537229_001_20230801232412576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산시·정부 청년보좌역 간담회…청년 정책 논의]]></title>
-            <link>https://tv.naver.com/v/38627358</link>
-            <guid>https://tv.naver.com/v/38627358</guid>
-            <pubDate>Tue, 01 Aug 2023 15:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_285/HDtRa_1690899860384375JQ_JPEG/cover_0011537228_001_20230801232406124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

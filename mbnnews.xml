@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 20:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 21:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[415회_호흡기 감염병과 익수 사고 예방법]]></title>
+            <link>https://tv.naver.com/v/38632509</link>
+            <guid>https://tv.naver.com/v/38632509</guid>
+            <pubDate>Tue, 01 Aug 2023 21:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[14:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230802_207/IgjCC_1690924083048h5Mdt_JPEG/cover_cover_20230802055526_20_849_1334667_1080_7_20230802060001183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 폭염 극심, 내일 서울 낮 '35도'…온열질환 주의]]></title>
             <link>https://tv.naver.com/v/38621960</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 01 Aug 2023 11:15:22 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230801_168/2j4gS_1690885691639hohaH_JPEG/cover_cover_20230801192352_20_552_1334636_1080_7_20230801192701114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 수도 베이징, 폭우로 11명 사망·이재민 4만 5천 명]]></title>
-            <link>https://tv.naver.com/v/38619260</link>
-            <guid>https://tv.naver.com/v/38619260</guid>
-            <pubDate>Tue, 01 Aug 2023 11:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230801_96/E2vno_1690885604370Vii6J_JPEG/cover_cover_20230801192157_20_552_1334635_1080_7_20230801192501115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
