@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 10:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 11:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] '노인폄하 논란' 김은경 사과‥"사퇴의사 없나" 질문에는‥]]></title>
+            <link>https://tv.naver.com/v/38697515</link>
+            <guid>https://tv.naver.com/v/38697515</guid>
+            <pubDate>Thu, 03 Aug 2023 11:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230803_74/GSYl5_1691058488789HW1dL_JPEG/cover_cover_joo230803_vo2_20230803192702272.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[폭염 위기경보 '심각'‥행동 요령은?]]></title>
             <link>https://tv.naver.com/v/38695966</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 03 Aug 2023 07:15:51 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230803_67/QbjUV_1691044748509CPzBn_JPEG/cover_cover_14news_20230803_152650_1_13_Large_20230803153822953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['보이스피싱 합수단' 출범 1년‥86명 구속기소]]></title>
-            <link>https://tv.naver.com/v/38688298</link>
-            <guid>https://tv.naver.com/v/38688298</guid>
-            <pubDate>Thu, 03 Aug 2023 07:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230803_162/7P4Go_1691044710045rgo4X_JPEG/cover_cover_14news_20230803_152650_1_12_Large_20230803153816948.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
