@@ -4,16 +4,24 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 10:19:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8뉴스 예고] "범행 전날도 흉기 들고 서현역 방문" 등]]></title>
+            <link>https://tv.naver.com/v/38732861</link>
+            <guid>https://tv.naver.com/v/38732861</guid>
+            <pubDate>Fri, 04 Aug 2023 10:17:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_208/djC8H_1691142522160SsNAM_JPEG/cover_0001078998_001_20230804184801137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스포츠머그] 이거 어디서 봤던 건데…한국 덕에 16강 간 모로코, 아랍어로 점령당한 KFA]]></title>
             <link>https://tv.naver.com/v/38731414</link>
             <guid>https://tv.naver.com/v/38731414</guid>
             <pubDate>Fri, 04 Aug 2023 09:17:08 GMT</pubDate>
             <content:encoded><![CDATA[3:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_16/KlQLP_1691140107544IRils_JPEG/cover_0001078993_001_20230804180601117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_231/r2MPp_1691141170566E0SY8_JPEG/cover_0001078993_001_20230804180601117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 주말에도 무더위…충청 이남 최대 40mm 소나기]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Aug 2023 08:24:41 GMT</pubDate>
             <content:encoded><![CDATA[4:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230804_266/XW2xd_1691135440443910jB_JPEG/cover_0001078954_001_20230804164801135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 1년 전 "잼버리 대책 다 세워놨다"던 김현숙 여가부 장관…정확히 예측한 경고에도 '자신만만' 답변]]></title>
-            <link>https://tv.naver.com/v/38728041</link>
-            <guid>https://tv.naver.com/v/38728041</guid>
-            <pubDate>Fri, 04 Aug 2023 08:24:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_265/m2K2c_1691135252144HsHgh_JPEG/cover_0001078952_001_20230804164501136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
