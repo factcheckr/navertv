@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 05:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 06:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,14 +102,6 @@
             <pubDate>Fri, 04 Aug 2023 05:17:49 GMT</pubDate>
             <content:encoded><![CDATA[2:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230804_108/GMg7K_1691124896298yIlhR_JPEG/cover_0000254812_001_20230804135323736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대전 고교서 흉기 난동…교사 피습]]></title>
-            <link>https://tv.naver.com/v/38720914</link>
-            <guid>https://tv.naver.com/v/38720914</guid>
-            <pubDate>Fri, 04 Aug 2023 05:17:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230804_43/Xi4Ee_1691124687192PVLkR_JPEG/cover_0000254811_001_20230804135050178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[아는기자]‘생존게임’ 된 잼버리…여름방학이 적기?]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 03 Aug 2023 12:35:29 GMT</pubDate>
             <content:encoded><![CDATA[5:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230803_162/XiV1R_1691062294274JNbMP_JPEG/cover_0000254780_001_20230803202920797.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“성공했다면 노벨상”…‘상온 초전도체’ 전세계가 갑론을박]]></title>
+            <link>https://tv.naver.com/v/38699379</link>
+            <guid>https://tv.naver.com/v/38699379</guid>
+            <pubDate>Fri, 04 Aug 2023 06:23:22 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230803_90/NdvZP_1691062214430ag4Ol_JPEG/cover_0000254781_001_20230803202910880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
