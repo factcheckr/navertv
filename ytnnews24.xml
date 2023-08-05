@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 04:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 05:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 尹 대통령 "잼버리 대회 한국 관광프로그램 추가" 지시]]></title>
+            <link>https://tv.naver.com/v/38750851</link>
+            <guid>https://tv.naver.com/v/38750851</guid>
+            <pubDate>Sat, 05 Aug 2023 05:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_101/oJYKr_1691212285019o0j0I_JPEG/cover_cover_202308051408249724_t_20230805141101953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영국·미국·싱가포르 대표단 잼버리 퇴소 결정...파행 불가피]]></title>
             <link>https://tv.naver.com/v/38749669</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 04 Aug 2023 23:16:52 GMT</pubDate>
             <content:encoded><![CDATA[7:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230805_283/xPIU0_1691190674781zidCQ_JPEG/cover_cover_202308050804016554_t_20230805080701626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세계 바닷물 온도 역대 최고...해양 생태계 '신음']]></title>
-            <link>https://tv.naver.com/v/38745644</link>
-            <guid>https://tv.naver.com/v/38745644</guid>
-            <pubDate>Fri, 04 Aug 2023 23:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_269/TbmDh_1691188670456ij5lJ_JPEG/cover_cover_202308050556156615_t_20230805073701557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
