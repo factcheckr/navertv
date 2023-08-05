@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Aug 2023 19:13:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Aug 2023 20:17:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 610회]]></title>
+            <link>https://tv.naver.com/v/38765596</link>
+            <guid>https://tv.naver.com/v/38765596</guid>
+            <pubDate>Sat, 05 Aug 2023 20:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[30:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230806_184/Wf79U_16912664172241bjTr_JPEG/cover_cover_MYH20230804018800641_20230806050101816.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새만금 야영지 떠나 서울 호텔로…영국 대표단 대이동]]></title>
             <link>https://tv.naver.com/v/38761483</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 05 Aug 2023 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230805_145/mjMhq_1691225188387YYUFP_JPEG/cover_cover_MYH20230805010100641_20230805174501821.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지구촌톡톡] 배 방향타 위서 5,600㎞ 버터…'목숨 건 항해' 外]]></title>
-            <link>https://tv.naver.com/v/38755224</link>
-            <guid>https://tv.naver.com/v/38755224</guid>
-            <pubDate>Sat, 05 Aug 2023 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[3:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_73/OGt3V_1691225173000OyMtj_JPEG/cover_cover_MYH20230805010000641_20230805174403844.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
