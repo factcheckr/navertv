@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 20:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 21:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/38790261</link>
+            <guid>https://tv.naver.com/v/38790261</guid>
+            <pubDate>Sun, 06 Aug 2023 21:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_65/sDybg_1691356365700qtaTg_JPEG/cover_0001079370_001_20230807061201143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1,800석 사흘간 매진 행렬…한국 '전통춤'에 뉴욕 열광]]></title>
             <link>https://tv.naver.com/v/38789691</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 06 Aug 2023 06:20:23 GMT</pubDate>
             <content:encoded><![CDATA[1:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230806_220/IeW3u_1691302326838BC71M_JPEG/cover_0001079294_001_20230806151101185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1분핫뉴스] "술 취해 장난으로" 부산 서면 흉기 난동 예고 글 올린 현역 군인 검거]]></title>
-            <link>https://tv.naver.com/v/38771014</link>
-            <guid>https://tv.naver.com/v/38771014</guid>
-            <pubDate>Sun, 06 Aug 2023 06:20:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230806_149/DCCOu_1691299003824wocxY_JPEG/cover_0001079287_001_20230806141603181.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
