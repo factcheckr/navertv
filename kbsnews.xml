@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 04:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 05:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 중국 산둥성 규모 5.5 지진…20여 명 부상·주택 100여 채 파손]]></title>
+            <link>https://tv.naver.com/v/38770895</link>
+            <guid>https://tv.naver.com/v/38770895</guid>
+            <pubDate>Sun, 06 Aug 2023 05:14:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230806_101/CTl18_1691298690193DBLCt_PNG/cover_0011540109_001_20230806141101112.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[특보 날씨] 전국 폭염 특보…내륙 소나기·해안가 너울 주의]]></title>
             <link>https://tv.naver.com/v/38768827</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 05 Aug 2023 14:13:48 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230805_226/a1ybi_1691242871300DTMus_JPEG/cover_0011539943_001_20230805224001196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충북경찰청, 7개월간 마약사범 388명 검거]]></title>
-            <link>https://tv.naver.com/v/38760849</link>
-            <guid>https://tv.naver.com/v/38760849</guid>
-            <pubDate>Sat, 05 Aug 2023 13:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230805_151/BRDQB_16912413409564IzC9_JPEG/cover_0011540012_001_20230805221522410.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
