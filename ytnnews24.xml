@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Aug 2023 16:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2023 17:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지속되는 폭염에 동물도 농장주도 점점 지쳐가]]></title>
+            <link>https://tv.naver.com/v/38788475</link>
+            <guid>https://tv.naver.com/v/38788475</guid>
+            <pubDate>Sun, 06 Aug 2023 17:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_9/FugUk_16913416717549nhCe_JPEG/cover_cover_202308070204548634_t_20230807020702556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태풍 카눈, 오키나와서 시간당 49㎜ 폭우...최대 풍속 초속 30m]]></title>
             <link>https://tv.naver.com/v/38787401</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 06 Aug 2023 15:17:17 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230806_261/XiNuv_1691331600841NWpGG_JPEG/cover_cover_202308062207266757_t_20230806231911685.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['분당 차량 돌진·흉기 난동' 피해자 1명 결국 숨져...내일 신상공개위]]></title>
-            <link>https://tv.naver.com/v/38785139</link>
-            <guid>https://tv.naver.com/v/38785139</guid>
-            <pubDate>Sun, 06 Aug 2023 15:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230806_96/NhSPS_1691331587690t7Vx0_JPEG/cover_cover_202308062204373843_t_20230806231901864.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
