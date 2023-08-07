@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 20:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 21:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 ‘카눈’ 모레 남해안 상륙…전국이 태풍 영향권]]></title>
+            <link>https://tv.naver.com/v/38826926</link>
+            <guid>https://tv.naver.com/v/38826926</guid>
+            <pubDate>Mon, 07 Aug 2023 21:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230808_254/DgxPt_1691442713042cMwgw_JPEG/cover_0011541126_001_20230808061101131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상] 시뻘건 용암 위 잿빛 회오리 ‘더스트 데빌’]]></title>
             <link>https://tv.naver.com/v/38822963</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 07 Aug 2023 15:17:18 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230807_106/4mBMF_1691418838460sHCQl_JPEG/cover_0011541075_001_20230807233301131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘간장 공장 공장장’을 읽는 외국인 투수, 벤자민의 아름다웠던 7월]]></title>
-            <link>https://tv.naver.com/v/38821496</link>
-            <guid>https://tv.naver.com/v/38821496</guid>
-            <pubDate>Mon, 07 Aug 2023 15:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230807_53/M939m_1691418657920tYHDL_JPEG/cover_0011540993_001_20230807233001164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
