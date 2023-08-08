@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 20:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 21:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[418회_온열질환 대처와 예방대책]]></title>
+            <link>https://tv.naver.com/v/38862882</link>
+            <guid>https://tv.naver.com/v/38862882</guid>
+            <pubDate>Tue, 08 Aug 2023 21:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[15:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_218/3p178_1691528885374iCtd9_JPEG/cover_cover_20230809055543_20_849_1335243_1080_7_20230809060001185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]내일부터 태풍 영향, 전국 비바람 대비…영동 최고 600mm↑폭우]]></title>
             <link>https://tv.naver.com/v/38854546</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Aug 2023 10:19:07 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230808_190/26fSr_1691489773288k6N1V_JPEG/cover_cover_20230808191244_20_552_1335205_1080_7_20230808191501143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 대학 등 128곳 분산 배치…이 시각 서울시립대]]></title>
-            <link>https://tv.naver.com/v/38849992</link>
-            <guid>https://tv.naver.com/v/38849992</guid>
-            <pubDate>Tue, 08 Aug 2023 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230808_181/nedU5_1691489683581HjWVu_JPEG/cover_cover_20230808191107_20_552_1335204_1080_7_20230808191301126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
