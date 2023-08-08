@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 12:36:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 13:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨]내일부터 태풍 영향, 전국 비바람 대비…영동 최고 600mm↑폭우]]></title>
+            <link>https://tv.naver.com/v/38854546</link>
+            <guid>https://tv.naver.com/v/38854546</guid>
+            <pubDate>Tue, 08 Aug 2023 13:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230808_198/r268U_1691498738529iznat_JPEG/cover_cover_20230808214224_20_552_1335241_1080_7_20230808214501129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정치와이드] 태풍 북상에 흩어진 잼버리…11일 상암 콘서트]]></title>
             <link>https://tv.naver.com/v/38852765</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Aug 2023 10:19:07 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230808_181/nedU5_1691489683581HjWVu_JPEG/cover_cover_20230808191107_20_552_1335204_1080_7_20230808191301126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루에 이뤄진 '새만금 철수작전'…3만 7천 명 떠나 다시 벌판으로]]></title>
-            <link>https://tv.naver.com/v/38849931</link>
-            <guid>https://tv.naver.com/v/38849931</guid>
-            <pubDate>Tue, 08 Aug 2023 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230808_253/r4lNF_1691489556675Gd4lL_JPEG/cover_cover_20230808190821_20_552_1335203_1080_7_20230808191101143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
