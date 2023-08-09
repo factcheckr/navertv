@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 09:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 10:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특집 8뉴스 예고] 전국이 6호 태풍 카눈 영향권…이 시각 현장은? 등]]></title>
+            <link>https://tv.naver.com/v/38886759</link>
+            <guid>https://tv.naver.com/v/38886759</guid>
+            <pubDate>Wed, 09 Aug 2023 10:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_251/qE20F_1691573201468HxRzX_JPEG/cover_0001080194_001_20230809182603768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] '돈 봉투 수수 의혹' 의원들, 법적 대응 나서]]></title>
             <link>https://tv.naver.com/v/38886278</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Aug 2023 08:22:12 GMT</pubDate>
             <content:encoded><![CDATA[3:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_275/ElKCM_1691566250232aw7ih_JPEG/cover_0001080145_001_20230809162903697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아무리 외쳐도 "어쩔 수 없다"는 답뿐…특수교사의 눈물]]></title>
-            <link>https://tv.naver.com/v/38880702</link>
-            <guid>https://tv.naver.com/v/38880702</guid>
-            <pubDate>Wed, 09 Aug 2023 08:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[17:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_199/Zf1MY_16915665094099DySs_JPEG/cover_0001080144_001_20230809162801173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
