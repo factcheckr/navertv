@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 02:32:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 03:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 8월 9일 뉴스센터12]]></title>
+            <link>https://tv.naver.com/v/38869752</link>
+            <guid>https://tv.naver.com/v/38869752</guid>
+            <pubDate>Wed, 09 Aug 2023 03:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_219/G332h_1691550993591byGud_JPEG/cover_cover_MYH20230809006300641_20230809121604347.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스포커스] 윤대통령 "대회 끝까지 최선"…여가부장관 발언 또 논란]]></title>
+            <link>https://tv.naver.com/v/38868884</link>
+            <guid>https://tv.naver.com/v/38868884</guid>
+            <pubDate>Wed, 09 Aug 2023 03:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[44:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_285/WqJIM_1691550525853Sv3l1_JPEG/cover_cover_MYH20230809005800641_20230809114702036.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 태풍 '카눈' 한반도로 북상…전국 강한 비바람]]></title>
             <link>https://tv.naver.com/v/38868276</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 08 Aug 2023 23:17:11 GMT</pubDate>
             <content:encoded><![CDATA[0:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_85/95R0n_1691535627703uwEXm_JPEG/cover_cover_MYH20230809002000032_20230809080004129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SM 떠나는 써니·백현·규현…"용기 내 새출발"]]></title>
-            <link>https://tv.naver.com/v/38863751</link>
-            <guid>https://tv.naver.com/v/38863751</guid>
-            <pubDate>Tue, 08 Aug 2023 23:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_190/yvjIt_1691535387696csufc_JPEG/cover_cover_MYH20230809001900641_20230809075604031.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국박물관 인근에서 행인이 흉기 휘둘러 1명 부상]]></title>
-            <link>https://tv.naver.com/v/38863735</link>
-            <guid>https://tv.naver.com/v/38863735</guid>
-            <pubDate>Tue, 08 Aug 2023 23:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_123/w87i5_1691535328961hzPU1_JPEG/cover_cover_MYH20230809001800641_20230809075501734.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
