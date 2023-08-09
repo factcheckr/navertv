@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 19:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 20:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 카눈, 제주 최근접 지점 통과 북상…초속 30m 강풍]]></title>
+            <link>https://tv.naver.com/v/38905369</link>
+            <guid>https://tv.naver.com/v/38905369</guid>
+            <pubDate>Wed, 09 Aug 2023 20:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_298/ysWdg_1691612295100fpVv8_JPEG/cover_0001080284_001_20230810051701104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["물난리 겪으니 더 불안"…폭우 실종자 수색 멈춘 예천]]></title>
             <link>https://tv.naver.com/v/38904354</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Aug 2023 14:16:54 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_7/4ZH9F_1691589243215mJRKd_JPEG/cover_0001080253_001_20230809225301154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['역대 최고 유망주' 장현석, LA 다저스와 계약]]></title>
-            <link>https://tv.naver.com/v/38897745</link>
-            <guid>https://tv.naver.com/v/38897745</guid>
-            <pubDate>Wed, 09 Aug 2023 14:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_293/DHKoV_1691588836563z3vBD_JPEG/cover_0001080238_001_20230809224601119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
