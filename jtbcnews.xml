@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 23:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 01:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 '카눈' 이대로면 수도권 강타…10일 오전 남해안 상륙]]></title>
+            <link>https://tv.naver.com/v/38865909</link>
+            <guid>https://tv.naver.com/v/38865909</guid>
+            <pubDate>Wed, 09 Aug 2023 01:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_120/WmmPB_1691543630455LXdbP_JPEG/cover_0000354665_001_20230809101301442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 전 정권 '알박기 인사' 비판하더니…'원희룡 인맥' 줄줄이]]></title>
             <link>https://tv.naver.com/v/38857033</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 08 Aug 2023 11:14:16 GMT</pubDate>
             <content:encoded><![CDATA[2:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230808_261/P3cNi_1691492400781YAX1k_JPEG/cover_0000354575_001_20230808195901446.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잼버리대회 사상 유례없는 '대이동'…전국으로 흩어진 참가자들]]></title>
-            <link>https://tv.naver.com/v/38851282</link>
-            <guid>https://tv.naver.com/v/38851282</guid>
-            <pubDate>Tue, 08 Aug 2023 11:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230808_179/FOquW_1691492362647MrTSy_JPEG/cover_0000354595_001_20230808195801572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
