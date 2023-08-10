@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 21:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 22:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 ‘카눈’ 세력 약화…수도권 곳곳 태풍 피해]]></title>
+            <link>https://tv.naver.com/v/38949082</link>
+            <guid>https://tv.naver.com/v/38949082</guid>
+            <pubDate>Thu, 10 Aug 2023 22:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_287/gUnBg_1691705657593KT4Gc_JPEG/cover_0000255347_001_20230811071301467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대구·경북 지역…급류 휩쓸려 1명 사망·1명 실종]]></title>
             <link>https://tv.naver.com/v/38942571</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Aug 2023 12:36:23 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230810_170/LzUTO_1691666735224qVbnu_JPEG/cover_0000255327_001_20230810202438080.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]‘롤스로이스 돌진’ 운전자, 마약성분 16회 처방]]></title>
-            <link>https://tv.naver.com/v/38934777</link>
-            <guid>https://tv.naver.com/v/38934777</guid>
-            <pubDate>Thu, 10 Aug 2023 12:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_284/er7yW_1691666716595O9uTQ_JPEG/cover_0000255325_001_20230810202420122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
