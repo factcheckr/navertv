@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 16:23:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 17:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 ‘카눈’ 북한으로 이동…중부 오전까지 비바람]]></title>
+            <link>https://tv.naver.com/v/38947075</link>
+            <guid>https://tv.naver.com/v/38947075</guid>
+            <pubDate>Thu, 10 Aug 2023 17:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[5:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_31/SlVmv_1691686786332n1Xze_JPEG/cover_0011543670_001_20230811015801124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간당 60mm 집중호우…버스 밑바닥 뚫은 맨홀 뚜껑]]></title>
+            <link>https://tv.naver.com/v/38946588</link>
+            <guid>https://tv.naver.com/v/38946588</guid>
+            <pubDate>Thu, 10 Aug 2023 17:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_174/KffVo_16916851269541ttiM_JPEG/cover_0011543660_001_20230811013101128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[느린 태풍 ‘카눈’…위험 지역과 행동요령은?]]></title>
+            <link>https://tv.naver.com/v/38946497</link>
+            <guid>https://tv.naver.com/v/38946497</guid>
+            <pubDate>Thu, 10 Aug 2023 17:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_22/lvFsQ_1691684758993UI3D7_JPEG/cover_0011543659_001_20230811012501109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[특보] 제보 영상으로 본 태풍 카눈 피해]]></title>
             <link>https://tv.naver.com/v/38946341</link>
@@ -62,22 +86,6 @@
             <pubDate>Thu, 10 Aug 2023 16:22:11 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_161/4m7Jr_1691682476017kvF0a_JPEG/cover_0011543661_001_20230811004708759.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 시간당 60mm 집중호우…버스 밑바닥 뚫은 맨홀 뚜껑]]></title>
-            <link>https://tv.naver.com/v/38945600</link>
-            <guid>https://tv.naver.com/v/38945600</guid>
-            <pubDate>Thu, 10 Aug 2023 16:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_15/x2eF1_1691682486338PA0UD_JPEG/cover_0011543660_001_20230811004701112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[특보] 느린 태풍 ‘카눈’…위험 지역과 행동요령은?]]></title>
-            <link>https://tv.naver.com/v/38945355</link>
-            <guid>https://tv.naver.com/v/38945355</guid>
-            <pubDate>Thu, 10 Aug 2023 16:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_257/txR9n_1691682062369cS2Xe_JPEG/cover_0011543659_001_20230811004002996.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[특보] 하늘길도 바닷길도 철길도 막혔다]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Aug 2023 14:16:56 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230810_139/koY0S_1691674485621szLV3_JPEG/cover_0011543633_001_20230810223348921.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하와이 마우이섬 화재…사망자 최소 36명으로 늘어]]></title>
-            <link>https://tv.naver.com/v/38940210</link>
-            <guid>https://tv.naver.com/v/38940210</guid>
-            <pubDate>Thu, 10 Aug 2023 14:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_92/AVgvP_1691674468692vIigS_JPEG/cover_0011543616_001_20230810223338640.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
