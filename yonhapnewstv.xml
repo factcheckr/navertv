@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2023-08-10T14:18:32.093Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Aug 2023 15:20:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[채상병 사건 두고 국방부·수사단장 공방 가열…11일 소환조사]]></title>
+            <link>https://tv.naver.com/v/38943191</link>
+            <guid>https://tv.naver.com/v/38943191</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_184/cApMI_1691678887556wOYxB_JPEG/cover_cover_MYH20230810022900641_20230810234701811.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['노무현 명예훼손' 정진석 징역 6개월…확정시 의원직 상실]]></title>
+            <link>https://tv.naver.com/v/38942939</link>
+            <guid>https://tv.naver.com/v/38942939</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_154/JEhIB_1691678487072LvitQ_JPEG/cover_cover_MYH20230810022800641_20230810234101844.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['경기도청 법카 유용' 배모 사무관 1심서 집행유예…전부 유죄]]></title>
+            <link>https://tv.naver.com/v/38942854</link>
+            <guid>https://tv.naver.com/v/38942854</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_76/A7vmD_1691678401218irR7U_JPEG/cover_cover_MYH20230810022700641_20230810233901915.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LH, 반지하 매입임대 입주민 임시대피 비용 지원]]></title>
+            <link>https://tv.naver.com/v/38942455</link>
+            <guid>https://tv.naver.com/v/38942455</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_52/krKU8_1691677765898PJlVx_JPEG/cover_cover_MYH20230810022600641_20230810232902040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 '카눈' 훑고 간 대구서 1명 사망·1명 실종…침수 피해도]]></title>
+            <link>https://tv.naver.com/v/38942281</link>
+            <guid>https://tv.naver.com/v/38942281</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_254/yNGMW_1691677572827o4pOc_JPEG/cover_cover_MYH20230810022500641_20230810232501545.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[온마이크] 사상 초유 '한반도 관통' 태풍…강원 영동 '물바다']]></title>
+            <link>https://tv.naver.com/v/38941677</link>
+            <guid>https://tv.naver.com/v/38941677</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_246/JbftH_1691676775104PJ1Kk_JPEG/cover_cover_MYH20230810022400641_20230810231205871.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 통과 제주…'항공·여객선' 끊겨 한때 고립]]></title>
+            <link>https://tv.naver.com/v/38941510</link>
+            <guid>https://tv.naver.com/v/38941510</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_242/TfO6U_1691676548537HOuQM_JPEG/cover_cover_MYH20230810022300641_20230810230804588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 카눈 서울과 50km 거리…비바람은 잦아들어]]></title>
+            <link>https://tv.naver.com/v/38941252</link>
+            <guid>https://tv.naver.com/v/38941252</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_266/cUETR_16916761762546swvg_JPEG/cover_cover_MYH20230810022200641_20230810230102007.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 태풍 '카눈' 수도권 근접…내일까지 중부 많은 비]]></title>
+            <link>https://tv.naver.com/v/38940866</link>
+            <guid>https://tv.naver.com/v/38940866</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_28/I1Dd2_1691675505909h4Fpa_JPEG/cover_cover_MYH20230810021700641_20230810225102163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령실 신임 부대변인에 최지현·김기흥 행정관 임명]]></title>
+            <link>https://tv.naver.com/v/38940795</link>
+            <guid>https://tv.naver.com/v/38940795</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_11/59VIO_16916753026368m1IS_JPEG/cover_cover_MYH20230810021600641_20230810224804222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤대통령 "유엔사와 튼튼한 연대…가짜평화에 안속을 것"]]></title>
+            <link>https://tv.naver.com/v/38940767</link>
+            <guid>https://tv.naver.com/v/38940767</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_9/fLk2O_1691675248883NQo2R_JPEG/cover_cover_MYH20230810021500641_20230810224701961.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WP "폭염, 잼버리 최대 위협으로 내부보고서에서도 경고"]]></title>
+            <link>https://tv.naver.com/v/38940735</link>
+            <guid>https://tv.naver.com/v/38940735</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_170/LVwaT_1691675207353s3cXx_JPEG/cover_cover_MYH20230810021400032_20230810224611790.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이브도 합류…잼버리 'K팝 슈퍼 라이브' 준비 만전]]></title>
+            <link>https://tv.naver.com/v/38940732</link>
+            <guid>https://tv.naver.com/v/38940732</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_11/yCZky_16916752035515tBqC_JPEG/cover_cover_MYH20230810021300641_20230810224604388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잼버리 실내행사로…K팝 콘서트 인파관리 관건]]></title>
+            <link>https://tv.naver.com/v/38940630</link>
+            <guid>https://tv.naver.com/v/38940630</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_288/sxYvO_1691675082390jT8V4_JPEG/cover_cover_MYH20230810021200641_20230810224302167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 '카눈'에 전국 숲길도 전면 통제]]></title>
+            <link>https://tv.naver.com/v/38940367</link>
+            <guid>https://tv.naver.com/v/38940367</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_245/LQc2I_16916746405419emfU_JPEG/cover_cover_MYH20230810020900641_20230810223702057.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낙동강·금강 유역 등 9곳에 홍수 경보·주의보 발령]]></title>
+            <link>https://tv.naver.com/v/38940191</link>
+            <guid>https://tv.naver.com/v/38940191</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_47/xHWxr_1691674421698z8Lx9_JPEG/cover_cover_MYH20230810020800641_20230810223308627.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[순천시청 유도팀 양서우, 파도 휩쓸린 70대 구했다]]></title>
+            <link>https://tv.naver.com/v/38940183</link>
+            <guid>https://tv.naver.com/v/38940183</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_254/FknJm_1691677755286KqWnk_JPEG/cover_cover_MYH20230810020700641_20230810223302144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스특보] 사상 첫 한반도 종단 태풍…'카눈' 수도권 최근접]]></title>
+            <link>https://tv.naver.com/v/38939998</link>
+            <guid>https://tv.naver.com/v/38939998</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[18:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_87/qPwTX_1691674578533GHYlJ_JPEG/cover_cover_MYH20230810020600641_20230810222901908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상구성] 태풍 '카눈' 한반도 관통]]></title>
+            <link>https://tv.naver.com/v/38939668</link>
+            <guid>https://tv.naver.com/v/38939668</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_81/9Sr2w_1691673697213WQi5s_JPEG/cover_cover_MYH20230810020400641_20230810222102074.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코레일, 내일 첫 차부터 KTX 등 정상 운행]]></title>
+            <link>https://tv.naver.com/v/38939568</link>
+            <guid>https://tv.naver.com/v/38939568</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_20/LklG5_16916735729786NmPW_JPEG/cover_cover_MYH20230810020500641_20230810221901891.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[외벽 떨어지고, 빌라 잠기고…인천 태풍 피해 잇따라]]></title>
+            <link>https://tv.naver.com/v/38938487</link>
+            <guid>https://tv.naver.com/v/38938487</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_93/htQXz_169167206827009vxM_JPEG/cover_cover_MYH20230810020300641_20230810215404179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['카눈' 지나간 충청권…비바람 소강 상태 접어들어]]></title>
+            <link>https://tv.naver.com/v/38938316</link>
+            <guid>https://tv.naver.com/v/38938316</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_119/MFEFE_169167189806565obp_JPEG/cover_cover_MYH20230810020200641_20230810215004490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스특보] 태풍 '카눈' 서울 근접…폭우·강풍에 전국 곳곳 피해]]></title>
+            <link>https://tv.naver.com/v/38938270</link>
+            <guid>https://tv.naver.com/v/38938270</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[26:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_102/W5hpr_1691672537088YCTlR_JPEG/cover_cover_MYH20230810020000641_20230810214901683.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 카눈 서울 가까워져…비바람은 잦아들어]]></title>
+            <link>https://tv.naver.com/v/38938198</link>
+            <guid>https://tv.naver.com/v/38938198</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_82/KYkLO_1691671716432TFsMP_JPEG/cover_cover_MYH20230810020100641_20230810214702094.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 8월 10일 뉴스투나잇1부]]></title>
+            <link>https://tv.naver.com/v/38938097</link>
+            <guid>https://tv.naver.com/v/38938097</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_239/wlP8e_1691671533712qf3gW_JPEG/cover_cover_MYH20230810019900641_20230810214502013.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 태풍 카눈, 밤사이 수도권 최근접…내일까지 중부 많은 비]]></title>
+            <link>https://tv.naver.com/v/38937585</link>
+            <guid>https://tv.naver.com/v/38937585</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_260/UW9l0_1691670903271m8A6S_JPEG/cover_cover_MYH20230810019800641_20230810213404270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상구성] 태풍 '카눈'에 실내로 간다…문화체험 즐기는 잼버리]]></title>
+            <link>https://tv.naver.com/v/38937432</link>
+            <guid>https://tv.naver.com/v/38937432</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_208/xPzIL_1691670684532uWJYy_JPEG/cover_cover_MYH20230810019700641_20230810213004603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 '카눈', 일본에 기록적 폭우…규슈선 133만명 피난]]></title>
+            <link>https://tv.naver.com/v/38936339</link>
+            <guid>https://tv.naver.com/v/38936339</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_252/DrZO2_1691669056047ALaDE_JPEG/cover_cover_MYH20230810019500641_20230810210302037.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 '카눈'에 북한도 긴장…황강댐 또 무단방류 추정]]></title>
+            <link>https://tv.naver.com/v/38936298</link>
+            <guid>https://tv.naver.com/v/38936298</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_154/9HNlg_1691669009827hjYGo_JPEG/cover_cover_MYH20230810019400641_20230810210203847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["장맛비 피해 이어 태풍까지"…400살 천연기념물 쓰러져]]></title>
+            <link>https://tv.naver.com/v/38936254</link>
+            <guid>https://tv.naver.com/v/38936254</guid>
+            <pubDate>Thu, 10 Aug 2023 15:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_234/M8rNv_1691668937499p4LfH_JPEG/cover_cover_MYH20230810019300641_20230810210102577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
