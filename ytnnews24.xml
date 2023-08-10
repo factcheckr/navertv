@@ -4,9 +4,25 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 20:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 21:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[상흔 남긴 태풍 '카눈'...이번엔 7호 태풍 북상 중]]></title>
+            <link>https://tv.naver.com/v/38948665</link>
+            <guid>https://tv.naver.com/v/38948665</guid>
+            <pubDate>Thu, 10 Aug 2023 21:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[12:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_252/c8HPW_1691701745266dHKA7_JPEG/cover_cover_202308110559320388_t_20230811060501764.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물폭탄 맞은 강원 동해안...주택·상가 침수 피해]]></title>
+            <link>https://tv.naver.com/v/38948637</link>
+            <guid>https://tv.naver.com/v/38948637</guid>
+            <pubDate>Thu, 10 Aug 2023 21:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_258/2HgSV_1691701340167I3vqP_JPEG/cover_cover_202308110558024879_t_20230811060101662.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] '카눈' 휴전선 넘어 북한으로...빗줄기 많이 약해져]]></title>
             <link>https://tv.naver.com/v/38948207</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 10 Aug 2023 16:23:20 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_36/zaDVB_1691684278743oNSqM_JPEG/cover_cover_202308110110279513_t_20230811011702587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[자막뉴스] 태풍 '위험반원' 직격탄...아수라장 된 강원도]]></title>
-            <link>https://tv.naver.com/v/38946141</link>
-            <guid>https://tv.naver.com/v/38946141</guid>
-            <pubDate>Thu, 10 Aug 2023 16:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_295/fnNTy_1691683799643bhN7G_JPEG/cover_cover_202308110047355312_t_20230811010901629.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축대 붕괴에 긴급 대피...하천으로 변한 강원 영동 도로]]></title>
-            <link>https://tv.naver.com/v/38946088</link>
-            <guid>https://tv.naver.com/v/38946088</guid>
-            <pubDate>Thu, 10 Aug 2023 16:23:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_81/jAhZQ_1691683675885euYo1_JPEG/cover_cover_202308110102548346_t_20230811010701940.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

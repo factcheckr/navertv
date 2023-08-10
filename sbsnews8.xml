@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 20:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Aug 2023 21:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/38948683</link>
+            <guid>https://tv.naver.com/v/38948683</guid>
+            <pubDate>Thu, 10 Aug 2023 21:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_160/X5bXA_1691701717218DMs1r_JPEG/cover_0001080682_001_20230811060801157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[떠내려가다 구조…잠기고 무너지고]]></title>
+            <link>https://tv.naver.com/v/38948514</link>
+            <guid>https://tv.naver.com/v/38948514</guid>
+            <pubDate>Thu, 10 Aug 2023 21:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[2:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_254/IJwdz_1691700010048VM6C5_JPEG/cover_0001080668_001_20230811053901129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태풍 '카눈' 북상에 따른 주의 사항]]></title>
             <link>https://tv.naver.com/v/38948326</link>
@@ -102,14 +118,6 @@
             <pubDate>Thu, 10 Aug 2023 20:17:11 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_22/LARXg_1691697532193VgXTz_JPEG/cover_0001080669_001_20230811045729577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[떠내려가다 구조…잠기고 무너지고]]></title>
-            <link>https://tv.naver.com/v/38948265</link>
-            <guid>https://tv.naver.com/v/38948265</guid>
-            <pubDate>Thu, 10 Aug 2023 20:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_6/w8oap_1691697510845ADWeT_JPEG/cover_0001080668_001_20230811045721528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강풍에 대형 구조물 추락…차량 6대 날벼락]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 10 Aug 2023 13:24:31 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230810_288/bGfFJ_1691673746184WN0rU_JPEG/cover_0001080597_001_20230810222101121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태풍 '카눈'에 갇힌 한반도…밤 9시 수도권 바짝 접근]]></title>
-            <link>https://tv.naver.com/v/38939627</link>
-            <guid>https://tv.naver.com/v/38939627</guid>
-            <pubDate>Thu, 10 Aug 2023 13:24:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_103/PKXdn_1691673691477rVxe0_JPEG/cover_0001080596_001_20230810221951214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
