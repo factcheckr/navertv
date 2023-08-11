@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Aug 2023 23:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 01:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[태풍 ‘카눈’ 마무리 수순…수도권 곳곳 태풍 피해]]></title>
+            <link>https://tv.naver.com/v/38950893</link>
+            <guid>https://tv.naver.com/v/38950893</guid>
+            <pubDate>Fri, 11 Aug 2023 01:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_74/sglwO_16917151940784lsve_JPEG/cover_0000255355_001_20230811095210605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태풍 지나갔지만 긴장은 여전…영동지역 피해 커져]]></title>
+            <link>https://tv.naver.com/v/38950889</link>
+            <guid>https://tv.naver.com/v/38950889</guid>
+            <pubDate>Fri, 11 Aug 2023 01:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_112/ve117_1691715190710WxXHf_JPEG/cover_0000255354_001_20230811095201605.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카눈, 오후 3시쯤 열대저기압으로 약화 전망]]></title>
             <link>https://tv.naver.com/v/38949538</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 10 Aug 2023 12:36:23 GMT</pubDate>
             <content:encoded><![CDATA[11:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230810_15/WwC4M_1691667183652XDXDq_JPEG/cover_0000255303_001_20230810202801576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폭우에 버스 뚫고 ‘쾅’…맨홀 뚜껑 튀어올랐다]]></title>
-            <link>https://tv.naver.com/v/38934914</link>
-            <guid>https://tv.naver.com/v/38934914</guid>
-            <pubDate>Thu, 10 Aug 2023 12:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[9:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_118/Ea7Zv_1691667077075tGkdD_JPEG/cover_0000255302_001_20230810202701493.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동해안 최고 380mm 물폭탄…강릉 일부는 대피령]]></title>
-            <link>https://tv.naver.com/v/38934865</link>
-            <guid>https://tv.naver.com/v/38934865</guid>
-            <pubDate>Thu, 10 Aug 2023 12:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[3:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230810_94/6nCaG_1691666864483KXgaC_JPEG/cover_0000255301_001_20230810202611898.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
