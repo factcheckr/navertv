@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 21:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 22:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 11 Aug 2023 07:16:10 GMT</pubDate>
             <content:encoded><![CDATA[2:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_15/jwmgW_1691735408653URlxS_JPEG/1691735405814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 강성근 차봇모빌리티 대표]]></title>
+            <link>https://tv.naver.com/v/38961613</link>
+            <guid>https://tv.naver.com/v/38961613</guid>
+            <pubDate>Fri, 11 Aug 2023 22:15:55 GMT</pubDate>
+            <content:encoded><![CDATA[9:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_35/56VWt_1691731661575xjGi9_JPEG/1691731594806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라 전방도시 주민대피령…러, 동북부 전선 압박]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 09 Aug 2023 09:18:55 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230809_71/QArVi_16915702215887ThYc_JPEG/1691569816352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태풍 카눈, 관측사상 최초로 한반도 남→북 꿰뚫고 지나가나]]></title>
-            <link>https://tv.naver.com/v/38884347</link>
-            <guid>https://tv.naver.com/v/38884347</guid>
-            <pubDate>Wed, 09 Aug 2023 09:18:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230809_17/RNlgc_169157003983584X6m_JPEG/1691569592258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
