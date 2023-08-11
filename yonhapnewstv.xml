@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 22:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 23:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스한판 8월 2주] 잼버리는 끝나고…이제 책임의 시간]]></title>
+            <link>https://tv.naver.com/v/38988229</link>
+            <guid>https://tv.naver.com/v/38988229</guid>
+            <pubDate>Fri, 11 Aug 2023 23:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[15:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230812_65/3k61K_16917947736854Yqod_JPEG/cover_cover_MYH20230811023100641_20230812075101749.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안치홍·정훈 '홈런포'…롯데, KIA에 승리]]></title>
             <link>https://tv.naver.com/v/38984026</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 11 Aug 2023 12:30:50 GMT</pubDate>
             <content:encoded><![CDATA[2:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230811_124/lDME0_1691754809378JHH16_JPEG/cover_cover_MYH20230811023400641_20230811205204317.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국 관통한 태풍 '카눈'…시설·농작물 큰 피해]]></title>
-            <link>https://tv.naver.com/v/38978621</link>
-            <guid>https://tv.naver.com/v/38978621</guid>
-            <pubDate>Fri, 11 Aug 2023 12:30:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230811_96/RttLJ_1691754734001WkFho_JPEG/cover_cover_MYH20230811023300641_20230811205102056.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
