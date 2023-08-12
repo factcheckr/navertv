@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 15:16:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 16:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[YTN 탐사 보고서 기록] 위기의 전세]]></title>
+            <link>https://tv.naver.com/v/39007838</link>
+            <guid>https://tv.naver.com/v/39007838</guid>
+            <pubDate>Sat, 12 Aug 2023 16:20:09 GMT</pubDate>
+            <content:encoded><![CDATA[39:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_227/0SAW4_1691855126215MfsRd_JPEG/cover_cover_202308122343484180_t_20230813003301638.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["하와이 한인 주택·상점 10여 채 전소...관광객 거의 떠난 듯"]]></title>
             <link>https://tv.naver.com/v/39005236</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 12 Aug 2023 09:15:10 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230812_151/U8SZo_1691831049999S0Lbf_JPEG/cover_cover_202308121757008926_t_20230812180308419.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[與 "잼버리 혈세 증발...전북·지역 업체 카르텔 의심"]]></title>
-            <link>https://tv.naver.com/v/38998981</link>
-            <guid>https://tv.naver.com/v/38998981</guid>
-            <pubDate>Sat, 12 Aug 2023 09:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230812_5/bFeqh_1691830997529SoMvg_JPEG/cover_cover_202308121727089141_t_20230812180301958.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
