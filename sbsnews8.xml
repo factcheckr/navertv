@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Aug 2023 20:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Aug 2023 21:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/39033719</link>
+            <guid>https://tv.naver.com/v/39033719</guid>
+            <pubDate>Sun, 13 Aug 2023 21:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_62/5YNpO_1691961039973mkcAK_JPEG/cover_0001081295_001_20230814061001136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경기 양주 가구 단지 비닐하우스서 불…다친 사람 없어]]></title>
             <link>https://tv.naver.com/v/39032779</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Aug 2023 07:14:24 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230813_61/RVdd1_1691907752025MkNsn_JPEG/cover_0001081222_001_20230813152201165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스브스픽] 양손에 흉기 들고…파출소 향한 '겁 없는 주폭'의 최후]]></title>
-            <link>https://tv.naver.com/v/39014127</link>
-            <guid>https://tv.naver.com/v/39014127</guid>
-            <pubDate>Sun, 13 Aug 2023 04:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_195/E6tS4_1691898395754EP00a_JPEG/cover_0001081209_001_20230813124601129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
