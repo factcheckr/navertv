@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 06:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 07:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/39047415</link>
+            <guid>https://tv.naver.com/v/39047415</guid>
+            <pubDate>Mon, 14 Aug 2023 07:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_218/1RjRX_1691994577235nEX9S_JPEG/cover_cover_20230814152510_20_845_1335674_1080_7_20230814152901164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 영국도 놀란 '안전' 한국의 'Mudjima' 범죄]]></title>
             <link>https://tv.naver.com/v/39042715</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Aug 2023 23:16:37 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230814_35/aDhgB_1691966869365PBGnW_JPEG/cover_cover_20230814073837_20_605_1335637_1080_7_20230814074701141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피츠버그 주택 폭발로 5명 사망…LA에 떼강도 출몰]]></title>
-            <link>https://tv.naver.com/v/39034125</link>
-            <guid>https://tv.naver.com/v/39034125</guid>
-            <pubDate>Sun, 13 Aug 2023 23:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_199/ejJsy_1691966164783xvtUo_JPEG/cover_cover_20230814073023_20_605_1335636_1080_7_20230814073501123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
