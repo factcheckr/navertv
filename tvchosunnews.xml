@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Aug 2023 01:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Aug 2023 02:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이슈분석] '왕의 DNA' 공무원 갑질 논란]]></title>
+            <link>https://tv.naver.com/v/39036008</link>
+            <guid>https://tv.naver.com/v/39036008</guid>
+            <pubDate>Mon, 14 Aug 2023 02:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[14:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_190/zTD1K_16919755134874mswb_JPEG/cover_2023081490030_thumb_100257_20230814100614552.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] '왕의 DNA' 학교 교칙에 '교권' 조항 없었다…교권보호위 안열고 교사 직위해제]]></title>
             <link>https://tv.naver.com/v/39036000</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 13 Aug 2023 11:13:30 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230813_119/br4dg_1691922742686sXB1L_JPEG/cover_2023081390070_thumb_072612_20230813193118379.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[따져보니] '가석방 없는 무기형' 신설 추진…사형제 대안 될까?]]></title>
-            <link>https://tv.naver.com/v/39024480</link>
-            <guid>https://tv.naver.com/v/39024480</guid>
-            <pubDate>Sun, 13 Aug 2023 11:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230813_80/JADWL_1691922750114q21TM_JPEG/cover_2023081390076_thumb_072523_20230813193101508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
