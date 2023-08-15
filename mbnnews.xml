@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 12:31:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 13:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 앵커가 전하는 8월 15일 MBN 뉴스7 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/39092202</link>
+            <guid>https://tv.naver.com/v/39092202</guid>
+            <pubDate>Tue, 15 Aug 2023 13:20:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_115/H7hU9_1692103179309GOW0l_JPEG/cover_cover_20230815213456_20_552_1335758_1080_7_20230815213901183.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]구리시 광복절 맞아 건 태극기가 거꾸로?…책임 떠넘기기 '한심']]></title>
             <link>https://tv.naver.com/v/39089256</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Aug 2023 12:32:54 GMT</pubDate>
             <content:encoded><![CDATA[1:13:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230814_288/MukBa_1692013788807taGCt_JPEG/cover_cover_20230814203454_20_536_1335727_1080_7_20230814204501151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부가 한은에서 돈을 빌린다고?…'마통'처럼 100조 빌렸다가 갚아]]></title>
-            <link>https://tv.naver.com/v/39059766</link>
-            <guid>https://tv.naver.com/v/39059766</guid>
-            <pubDate>Mon, 14 Aug 2023 12:32:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_9/wvzue_1692013311769MEalC_JPEG/cover_cover_20230814203629_20_552_1335728_1080_7_20230814204101142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
