@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 08:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 09:17:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 15 Aug 2023 08:21:31 GMT</pubDate>
             <content:encoded><![CDATA[13:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230815_194/Ky08x_1692087490439oItxm_JPEG/cover_cover_20230815170738_20_675_1335733_1080_7_20230815171201146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 뉴스와이드] 잼버리 향한 尹-文의 180도 다른 인식, 원인은?]]></title>
+            <link>https://tv.naver.com/v/39084018</link>
+            <guid>https://tv.naver.com/v/39084018</guid>
+            <pubDate>Tue, 15 Aug 2023 09:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[22:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_72/GyXT6_1692087734553RQ9Ui_JPEG/cover_cover_20230815170503_20_675_1335732_1080_7_20230815171003433.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MBN 뉴스와이드] '아버지 생가' 방문한 박근혜, 공개 행보 재개?]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Aug 2023 11:15:08 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230814_57/h33aL_1692008764061zjEzr_JPEG/cover_cover_20230814192041_20_552_1335699_1080_7_20230814192501126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광복절 특사 경제인 대거 사면…한동훈 "경제 살리기 사면"]]></title>
-            <link>https://tv.naver.com/v/39057257</link>
-            <guid>https://tv.naver.com/v/39057257</guid>
-            <pubDate>Mon, 14 Aug 2023 11:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230814_86/50NtO_1692008643248OlvJn_JPEG/cover_cover_20230814191916_20_552_1335698_1080_7_20230814192301177.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
