@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 21:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 22:16:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘도 무더위, 곳곳 소나기...동해안 너울성 파도 주의]]></title>
+            <link>https://tv.naver.com/v/39101069</link>
+            <guid>https://tv.naver.com/v/39101069</guid>
+            <pubDate>Tue, 15 Aug 2023 22:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230816_107/NihzX_16921347476497TlGt_JPEG/cover_cover_202308160620348778_t_20230816062501477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[YTN 실시간뉴스] "공산주의 맹종 세력 활개"...엇갈린 평가]]></title>
             <link>https://tv.naver.com/v/39100953</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Aug 2023 14:16:19 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230815_187/4i8m2_1692108005121j8Waz_JPEG/cover_cover_202308152233535926_t_20230815225945315.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이차전지 4개 종목 시총, 보름 새 30조 원 증발]]></title>
-            <link>https://tv.naver.com/v/39095008</link>
-            <guid>https://tv.naver.com/v/39095008</guid>
-            <pubDate>Tue, 15 Aug 2023 14:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[0:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_108/wTVIG_1692107999937cfUOe_JPEG/cover_cover_202308152233414623_t_20230815225936889.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
