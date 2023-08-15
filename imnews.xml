@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 05:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 06:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PD수첩 예고] 독도 도발 19년, 기시다의 승부수]]></title>
+            <link>https://tv.naver.com/v/39079611</link>
+            <guid>https://tv.naver.com/v/39079611</guid>
+            <pubDate>Tue, 15 Aug 2023 06:21:29 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_2/1E7JA_1692078516355HUDx7_JPEG/cover_cover_jsh230815_03_20230815144802680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["일본과 공동이익 추구"‥"반국가 세력 활개"]]></title>
             <link>https://tv.naver.com/v/39078195</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 14 Aug 2023 23:16:02 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230815_171/RKDwY_1692052101029rcP9W_JPEG/cover_cover_today_20230815_072212_2_19_Large_20230815072804675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 미얀마 옥 광산에서 산사태‥최소 34명 실종]]></title>
-            <link>https://tv.naver.com/v/39070372</link>
-            <guid>https://tv.naver.com/v/39070372</guid>
-            <pubDate>Mon, 14 Aug 2023 22:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_172/4fPYJ_16920504979566c7ed_JPEG/cover_cover_today_20230815_065643_2_18_Large_20230815070123902.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
