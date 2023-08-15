@@ -4,7 +4,7 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 03:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 04:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 15 Aug 2023 03:16:36 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230815_91/FKZJC_1692068867425X7M8V_JPEG/cover_0011545859_001_20230815120701147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“입주 이틀 만에 물벼락”…LH 매입임대주택 ‘하자’ 잇따라]]></title>
+            <link>https://tv.naver.com/v/39075224</link>
+            <guid>https://tv.naver.com/v/39075224</guid>
+            <pubDate>Tue, 15 Aug 2023 04:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_63/4BygN_1692072001106QjkfV_JPEG/cover_0011545618_001_20230815120101136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기록에 묻힌 독립영웅 4천 명, 이 사람이 찾아냈다]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Aug 2023 02:20:20 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230815_109/AQlVD_1692064480731oFSe5_JPEG/cover_0011545813_001_20230815105016032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전국체전 두 달 앞으로…성공 개최 관건은?]]></title>
-            <link>https://tv.naver.com/v/39073193</link>
-            <guid>https://tv.naver.com/v/39073193</guid>
-            <pubDate>Tue, 15 Aug 2023 02:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[2:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_205/77z2M_1692064503113uvelY_JPEG/cover_0011545812_001_20230815105008767.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
