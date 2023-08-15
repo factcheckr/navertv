@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Aug 2023 09:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Aug 2023 10:18:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스브스뉴스] 우리가 야한 걸 볼 수 있는 건 20세기 이 혁명 덕분이다?]]></title>
+            <link>https://tv.naver.com/v/39087248</link>
+            <guid>https://tv.naver.com/v/39087248</guid>
+            <pubDate>Tue, 15 Aug 2023 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[13:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_124/ggzYj_1692094115946FqoGH_JPEG/cover_0001081709_001_20230815190219352.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] '박정희 생가' 찾은 박근혜 전 대통령…4달 만에 공개 외출 재개]]></title>
             <link>https://tv.naver.com/v/39084616</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Aug 2023 01:08:13 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230815_199/7ur5k_1692060520931szswO_JPEG/cover_0001081584_001_20230815094737726.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["불자를 기독교 단식원에…" 대원이 본 잼버리 '땜질 운영']]></title>
-            <link>https://tv.naver.com/v/39071964</link>
-            <guid>https://tv.naver.com/v/39071964</guid>
-            <pubDate>Tue, 15 Aug 2023 01:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_278/Qs0t0_16920605124260sunv_JPEG/cover_0001081585_001_20230815094727363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
