@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 02:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 03:18:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]군산상고 명성 그대로…군산상일고, 역전의 명수]]></title>
+            <link>https://tv.naver.com/v/39106714</link>
+            <guid>https://tv.naver.com/v/39106714</guid>
+            <pubDate>Wed, 16 Aug 2023 03:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230816_62/W1nsn_16921537031906DT0J_PNG/cover_0000255664_001_20230816113901513.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[단독]‘SNS 논란’ 판사…대법원도 나섰다]]></title>
             <link>https://tv.naver.com/v/39092106</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Aug 2023 10:18:02 GMT</pubDate>
             <content:encoded><![CDATA[2:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230815_218/x8Vpv_1692094426378D9kTD_JPEG/cover_0000255621_001_20230815191227686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“도둑놈이 나쁜 놈이라네”…김태우, 조국에 직격탄]]></title>
-            <link>https://tv.naver.com/v/39087517</link>
-            <guid>https://tv.naver.com/v/39087517</guid>
-            <pubDate>Tue, 15 Aug 2023 10:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[7:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230815_259/TgJEZ_1692094540995WFnw7_JPEG/cover_0000255620_001_20230815191214713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
