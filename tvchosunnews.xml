@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Aug 2023 10:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 11:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[8월 16일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/39128751</link>
+            <guid>https://tv.naver.com/v/39128751</guid>
+            <pubDate>Wed, 16 Aug 2023 11:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230816_252/fn1na_1692184002804OYJwR_JPEG/cover_2023081690185_thumb_080112_20230816200603437.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국방위, '채상병 사건' 관련 회의 여당 불참 속 파행]]></title>
             <link>https://tv.naver.com/v/39121052</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 15 Aug 2023 23:17:01 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230816_252/2dD6b_1692139610856hoyHs_JPEG/cover_2023081690011_thumb_074207_20230816074601744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[8월 임시국회 첫날부터 '잼버리 공방'에 파행 위기]]></title>
-            <link>https://tv.naver.com/v/39101527</link>
-            <guid>https://tv.naver.com/v/39101527</guid>
-            <pubDate>Tue, 15 Aug 2023 23:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230816_12/Y0ozG_1692139320482HFvQR_JPEG/cover_2023081690009_thumb_073954_20230816074114307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
