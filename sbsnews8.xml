@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 16:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 17:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/39182075</link>
+            <guid>https://tv.naver.com/v/39182075</guid>
+            <pubDate>Thu, 17 Aug 2023 17:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_264/HjBNn_1692289285567R2Jum_JPEG/cover_0001082372_001_20230818012101116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 장기간 이어지는 무더위…곳곳 요란한 소나기]]></title>
             <link>https://tv.naver.com/v/39182054</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Aug 2023 13:18:52 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230817_166/dpQ3v_169227641281758dqT_JPEG/cover_0001082327_001_20230817214555887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 물놀이 사망 사고…해변보다 하천 · 계곡에서 더 많다]]></title>
-            <link>https://tv.naver.com/v/39173883</link>
-            <guid>https://tv.naver.com/v/39173883</guid>
-            <pubDate>Thu, 17 Aug 2023 13:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_67/GeLkH_1692276427850w1T6L_JPEG/cover_0001082328_001_20230817214544655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
