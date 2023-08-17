@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 06:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 07:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/39158024</link>
+            <guid>https://tv.naver.com/v/39158024</guid>
+            <pubDate>Thu, 17 Aug 2023 07:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_18/53Ta1_1692253904717cLX7J_JPEG/cover_cover_20230817152819_20_845_1335916_1080_7_20230817153101152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] '철창 인생 20년' 사순이, 자유 만끽 1시간 만에 사살…이대로 괜찮나]]></title>
             <link>https://tv.naver.com/v/39155282</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Aug 2023 23:17:26 GMT</pubDate>
             <content:encoded><![CDATA[1:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230817_300/ghAJ4_1692226785061dcH7y_JPEG/cover_cover_20230817075626_20_605_1335885_1080_7_20230817075901147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['4쿼터의 사나이' KGC 고찬혁 "한일전은 모두 이기겠다"]]></title>
-            <link>https://tv.naver.com/v/39142122</link>
-            <guid>https://tv.naver.com/v/39142122</guid>
-            <pubDate>Wed, 16 Aug 2023 23:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_177/cM212_1692226239878AY32E_JPEG/cover_cover_20230817074432_20_605_1335884_1080_7_20230817074901150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
