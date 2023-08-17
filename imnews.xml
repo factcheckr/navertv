@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 01:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 02:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["항명? 국민 무서운 줄 몰라요? 이게 도대체 무슨 나라에요?" [현장영상]]]></title>
+            <link>https://tv.naver.com/v/39146561</link>
+            <guid>https://tv.naver.com/v/39146561</guid>
+            <pubDate>Thu, 17 Aug 2023 02:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[4:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_108/qJu93_1692238362884wJc2c_JPEG/cover_cover_joo230817_vo1_20230817111102249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 폭염 이어져‥강한 소나기 유의]]></title>
             <link>https://tv.naver.com/v/39143927</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Aug 2023 23:16:11 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230817_134/v6v9S_1692226453936GPMK1_JPEG/cover_cover_today_20230817_065525_2_19_Large_20230817075400512.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 여자친구 은밀한 사진 유포‥1조 6천억 원 배상 판결]]></title>
-            <link>https://tv.naver.com/v/39142201</link>
-            <guid>https://tv.naver.com/v/39142201</guid>
-            <pubDate>Wed, 16 Aug 2023 23:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_190/KsbcB_1692226445439t0wrs_JPEG/cover_cover_today_20230817_065525_2_18_Large_20230817075351973.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
