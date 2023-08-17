@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 20:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 21:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[422회_태풍과 산사태 대처요령]]></title>
+            <link>https://tv.naver.com/v/39184874</link>
+            <guid>https://tv.naver.com/v/39184874</guid>
+            <pubDate>Thu, 17 Aug 2023 21:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[15:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_98/00UGD_1692306521084U6rja_JPEG/cover_cover_20230818055548_20_849_1335975_1080_7_20230818060001160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 뇌사자, 돼지 신장 달고 32일째 생존…역대 최장 기록]]></title>
             <link>https://tv.naver.com/v/39171350</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 17 Aug 2023 11:15:07 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230817_6/MSzqd_1692267843019UF9jP_JPEG/cover_cover_20230817191936_20_552_1335941_1080_7_20230817192301135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명, 영장 청구 시점 지정 "비회기 때 청구하라"]]></title>
-            <link>https://tv.naver.com/v/39168208</link>
-            <guid>https://tv.naver.com/v/39168208</guid>
-            <pubDate>Thu, 17 Aug 2023 11:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230817_103/rBuMt_1692267749204qfJWF_JPEG/cover_cover_20230817191735_20_552_1335940_1080_7_20230817192101145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
