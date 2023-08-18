@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 19:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 20:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장연결] 한미일 정상 공동기자회견…尹 "한미일 협력의 새로운 장"]]></title>
+            <link>https://tv.naver.com/v/39222980</link>
+            <guid>https://tv.naver.com/v/39222980</guid>
+            <pubDate>Fri, 18 Aug 2023 20:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[24:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230819_271/KHYLE_1692388973046F4Av0_JPEG/cover_cover_MYH20230819001400641_20230819045203405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[속보] 윤대통령, 캠프데이비드서 한일 양자회담]]></title>
             <link>https://tv.naver.com/v/39222725</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Aug 2023 12:30:27 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_260/WBdjN_1692360359735BoEUu_JPEG/cover_cover_MYH20230818018500641_20230818210501903.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 해병대 수사단장 징계위 출석…"외압 알리려 출연"]]></title>
-            <link>https://tv.naver.com/v/39214139</link>
-            <guid>https://tv.naver.com/v/39214139</guid>
-            <pubDate>Fri, 18 Aug 2023 12:30:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_63/zJ6dU_1692360002409T1Muv_JPEG/cover_cover_MYH20230818018400641_20230818205901892.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
