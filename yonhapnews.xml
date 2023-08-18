@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 21:15:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 22:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 18 Aug 2023 05:16:33 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_24/9Tm7i_16923350219522k53X_JPEG/1692334471180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 생활쓰레기 수거 시장 공략하는 강성진 커버링 대표]]></title>
+            <link>https://tv.naver.com/v/39196796</link>
+            <guid>https://tv.naver.com/v/39196796</guid>
+            <pubDate>Fri, 18 Aug 2023 22:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[8:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_19/VFluZ_1692334297416FNJaw_JPEG/1692334178300.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['거수경례' 중국 국방 반긴 루카셴코 "힘은 항상 존경받아"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 16 Aug 2023 08:21:27 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230816_293/OJehw_1692174028821e4DyI_JPEG/1692174015490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI 제작 음란물 계속 나오지만 처벌은 마땅치 않아]]></title>
-            <link>https://tv.naver.com/v/39121374</link>
-            <guid>https://tv.naver.com/v/39121374</guid>
-            <pubDate>Wed, 16 Aug 2023 08:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[4:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230816_167/nE1LB_1692172965807Tc12P_JPEG/1692170713604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
