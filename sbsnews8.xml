@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Aug 2023 09:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Aug 2023 10:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[8뉴스 예고] 오늘 밤 한미일 정상회의 등]]></title>
+            <link>https://tv.naver.com/v/39210363</link>
+            <guid>https://tv.naver.com/v/39210363</guid>
+            <pubDate>Fri, 18 Aug 2023 10:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_191/Luriu_1692352124750KXhDc_JPEG/cover_0001082607_001_20230818184801149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[일단가봐] 이게 쓰레기장이야 주차장이야…도심 주차난이 날로 심해지는 이유]]></title>
+            <link>https://tv.naver.com/v/39209559</link>
+            <guid>https://tv.naver.com/v/39209559</guid>
+            <pubDate>Fri, 18 Aug 2023 10:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[4:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_12/OLilv_1692350637703aUdCI_JPEG/cover_0001082601_001_20230818182101108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] "특별 치안 기간이라더니"…관악 성폭행 피해자 가족 분통]]></title>
             <link>https://tv.naver.com/v/39208893</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 18 Aug 2023 08:20:12 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_232/nCxyT_1692343038490eNuzW_JPEG/cover_0001082413_001_20230818161623369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] 중국 '타이완 침공' 연상하는 고강도 실전 훈련 공개…육·해·공군 동원에 주력 전투 장비까지 출격]]></title>
-            <link>https://tv.naver.com/v/39204215</link>
-            <guid>https://tv.naver.com/v/39204215</guid>
-            <pubDate>Fri, 18 Aug 2023 08:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_26/U0QYT_1692343042796LBKAe_JPEG/cover_0001082566_001_20230818161601136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로포폴 쌓아 두고 맞았다…"수십 명 맞을 양"]]></title>
-            <link>https://tv.naver.com/v/39204164</link>
-            <guid>https://tv.naver.com/v/39204164</guid>
-            <pubDate>Fri, 18 Aug 2023 08:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[12:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_99/wF5OQ_1692343251437NOrls_JPEG/cover_0001082565_001_20230818161455612.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
