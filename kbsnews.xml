@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 08:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 09:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] “나는 악하다” 영국 신생아실 간호사, 아기 7명 살해]]></title>
+            <link>https://tv.naver.com/v/39235772</link>
+            <guid>https://tv.naver.com/v/39235772</guid>
+            <pubDate>Sat, 19 Aug 2023 09:13:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230819_57/J6J90_1692436387270jbpci_JPEG/cover_0011548734_001_20230819181212814.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 내일도 소나기…폭염, 열대야 계속]]></title>
             <link>https://tv.naver.com/v/39234244</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Aug 2023 23:15:39 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230819_55/wyO1H_1692399289882W4Xk2_JPEG/cover_0011548653_001_20230819075436687.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘완도 전복’ 소비부진에 가격 하락…어민들 ‘시름’]]></title>
-            <link>https://tv.naver.com/v/39223641</link>
-            <guid>https://tv.naver.com/v/39223641</guid>
-            <pubDate>Fri, 18 Aug 2023 23:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230819_187/PBzFJ_1692399322043F9Dhe_JPEG/cover_0011548652_001_20230819075427764.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
