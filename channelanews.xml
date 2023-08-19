@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 01:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 02:18:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한미일 정상, 기자회견장 입장…‘미-한-일’ 순서로 정상발언 예정]]></title>
+            <link>https://tv.naver.com/v/39225755</link>
+            <guid>https://tv.naver.com/v/39225755</guid>
+            <pubDate>Sat, 19 Aug 2023 02:18:31 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230819_59/7zARS_1692411443382ve1RV_JPEG/cover_0000255867_001_20230819111701666.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“식당 예약하듯 영장 요구”…한동훈, 이재명 또 직격]]></title>
             <link>https://tv.naver.com/v/39214642</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 18 Aug 2023 12:31:05 GMT</pubDate>
             <content:encoded><![CDATA[4:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230818_130/KkNN5_1692357423968jV22o_JPEG/cover_0000255842_001_20230818201454193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한미일 정상회의, 5시간 뒤 시작…경비 강화된 캠프 데이비드]]></title>
-            <link>https://tv.naver.com/v/39212949</link>
-            <guid>https://tv.naver.com/v/39212949</guid>
-            <pubDate>Fri, 18 Aug 2023 12:31:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230818_190/8EfUY_1692357347348WSVxJ_JPEG/cover_0000255840_001_20230818201445307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
