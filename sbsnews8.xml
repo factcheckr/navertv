@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 05:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 06:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 동대문 아파트 경쟁률 79대 1…'청약 과열' 우려]]></title>
+            <link>https://tv.naver.com/v/39252916</link>
+            <guid>https://tv.naver.com/v/39252916</guid>
+            <pubDate>Sun, 20 Aug 2023 06:19:21 GMT</pubDate>
+            <content:encoded><![CDATA[1:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_109/Qnwf4_1692508874055WEwXx_JPEG/cover_0001082913_001_20230820142001134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] "오염수 방류 시점 정할 때 됐다"…최종 절차 돌입]]></title>
             <link>https://tv.naver.com/v/39252529</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Aug 2023 12:28:13 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230819_227/6Gtdn_16924480720014mncv_JPEG/cover_0001082800_001_20230819212711779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["오염수 방류 시점 정할 때 됐다"…최종 절차 돌입]]></title>
-            <link>https://tv.naver.com/v/39240437</link>
-            <guid>https://tv.naver.com/v/39240437</guid>
-            <pubDate>Sat, 19 Aug 2023 12:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230819_120/FNVM1_1692448089029DuYE5_JPEG/cover_0001082791_001_20230819212701120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
