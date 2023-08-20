@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 06:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 07:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 메시, 꼴찌팀 이끌고 7전 전승…컵대회 우승]]></title>
+            <link>https://tv.naver.com/v/39254868</link>
+            <guid>https://tv.naver.com/v/39254868</guid>
+            <pubDate>Sun, 20 Aug 2023 07:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_284/3me6i_1692513906697bGTRB_JPEG/cover_0011548925_001_20230820154401132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] 대부분 지역에 폭염특보…곳곳 강한 소나기]]></title>
             <link>https://tv.naver.com/v/39250702</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 19 Aug 2023 14:13:29 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230819_245/8ofgt_1692451821500Ys4Nc_JPEG/cover_0011548760_001_20230819222931689.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선·최원종 ‘머그샷’ 공개 거부에…“의무화 해야” vs “무죄추정 반해” [주말엔 전문K]]]></title>
-            <link>https://tv.naver.com/v/39242023</link>
-            <guid>https://tv.naver.com/v/39242023</guid>
-            <pubDate>Sat, 19 Aug 2023 14:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[4:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230819_46/kk3Cv_1692451848834UCJCJ_JPEG/cover_0011548758_001_20230819222918626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
