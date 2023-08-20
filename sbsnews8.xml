@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 20:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 21:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/39271434</link>
+            <guid>https://tv.naver.com/v/39271434</guid>
+            <pubDate>Sun, 20 Aug 2023 21:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_238/ASNxl_1692565785463zNAh7_JPEG/cover_0001083018_001_20230821060901113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["과고 이미지 실추" 선배맘의 메일…영재 자퇴엔 학폭?]]></title>
             <link>https://tv.naver.com/v/39266156</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Aug 2023 04:19:15 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230820_98/nmOjP_1692501877089iKkBW_JPEG/cover_0001082892_001_20230820122401115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기재부, '중국경제 상황반' 가동…모니터링 수위↑]]></title>
-            <link>https://tv.naver.com/v/39250838</link>
-            <guid>https://tv.naver.com/v/39250838</guid>
-            <pubDate>Sun, 20 Aug 2023 04:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_159/iUKqf_1692501741851mtnVJ_JPEG/cover_0001082891_001_20230820122201114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
