@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Aug 2023 04:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Aug 2023 05:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] "오염수 방류 시점 정할 때 됐다"…최종 절차 돌입]]></title>
+            <link>https://tv.naver.com/v/39252529</link>
+            <guid>https://tv.naver.com/v/39252529</guid>
+            <pubDate>Sun, 20 Aug 2023 05:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_10/vPHQI_16925077870155sSUU_JPEG/cover_0001082906_001_20230820140201156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[D리포트] 러, 우크라 후방 도심 한복판 공습…140여 명 사상]]></title>
+            <link>https://tv.naver.com/v/39252005</link>
+            <guid>https://tv.naver.com/v/39252005</guid>
+            <pubDate>Sun, 20 Aug 2023 05:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_260/vzI0l_16925059965354VjPS_JPEG/cover_0001082894_001_20230820133201595.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 대부분 '폭염특보'…내륙 강한 소나기]]></title>
             <link>https://tv.naver.com/v/39250858</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 19 Aug 2023 12:28:13 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230819_120/FNVM1_1692448089029DuYE5_JPEG/cover_0001082791_001_20230819212701120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 빌보드 싱글 '톱10' 비영어곡 중 한국어 노래 2위]]></title>
-            <link>https://tv.naver.com/v/39240415</link>
-            <guid>https://tv.naver.com/v/39240415</guid>
-            <pubDate>Sat, 19 Aug 2023 12:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230819_148/EMOLs_16924479914884clxa_JPEG/cover_0001082795_001_20230819212610914.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동대문 아파트 경쟁률 79대 1…'청약 과열' 우려]]></title>
-            <link>https://tv.naver.com/v/39240372</link>
-            <guid>https://tv.naver.com/v/39240372</guid>
-            <pubDate>Sat, 19 Aug 2023 12:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230819_287/Wo7xc_1692447927095yvs4f_JPEG/cover_0001082792_001_20230819212411023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
