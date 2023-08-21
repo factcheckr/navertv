@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 07:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 08:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]짜릿짜릿, 나이트 레이스]]></title>
+            <link>https://tv.naver.com/v/39291162</link>
+            <guid>https://tv.naver.com/v/39291162</guid>
+            <pubDate>Mon, 21 Aug 2023 08:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_9/CBkTt_1692602657887vSgUa_JPEG/cover_0000256003_001_20230821162301460.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[尹, 정상회담 전 바이든과 어깨동무하며 산책]]></title>
             <link>https://tv.naver.com/v/39283741</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 20 Aug 2023 12:28:35 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230820_165/Mbv1O_1692530726828EhjTe_JPEG/cover_0000255962_001_20230820202501484.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충무공 행사에 ‘다나카’?]]></title>
-            <link>https://tv.naver.com/v/39260653</link>
-            <guid>https://tv.naver.com/v/39260653</guid>
-            <pubDate>Sun, 20 Aug 2023 11:13:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230820_224/K0Iyx_1692527303224yusiK_JPEG/cover_0000255947_001_20230820192710950.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
