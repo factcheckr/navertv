@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 20:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 21:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/39311897</link>
+            <guid>https://tv.naver.com/v/39311897</guid>
+            <pubDate>Mon, 21 Aug 2023 21:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230822_235/pbujN_1692652423152t5Xdx_JPEG/cover_0001083355_001_20230822061301108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/39309625</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Aug 2023 13:20:43 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230821_217/Ah0JT_16926237468793cIo3_JPEG/cover_0001083209_001_20230821221513707.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령 "한미일 협력, 국민 위험 줄고 기회 커질 것"]]></title>
-            <link>https://tv.naver.com/v/39304229</link>
-            <guid>https://tv.naver.com/v/39304229</guid>
-            <pubDate>Mon, 21 Aug 2023 13:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_257/2QNVC_1692623746788HahXo_JPEG/cover_0001083282_001_20230821221425782.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
