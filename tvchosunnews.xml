@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 04:21:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 05:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[티조 Clip] "정쟁 소재 찾다가 선 넘는 범법행위 관여"]]></title>
+            <link>https://tv.naver.com/v/39324530</link>
+            <guid>https://tv.naver.com/v/39324530</guid>
+            <pubDate>Tue, 22 Aug 2023 05:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230822_81/DCEW8_1692681178096ugCWI_JPEG/cover_2023082290110_thumb_020705_20230822141106543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[티조 Clip] 지하철·버스 통합권 나온다…1년에 21만6천원 환급]]></title>
             <link>https://tv.naver.com/v/39318189</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Aug 2023 13:21:39 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230821_223/vLTM1_1692622333205rkcUy_JPEG/cover_2023082190233_thumb_094912_20230821215129152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태풍 가고 더 뜨거워진 바다…수온 4도 올라 물고기 폐사]]></title>
-            <link>https://tv.naver.com/v/39303294</link>
-            <guid>https://tv.naver.com/v/39303294</guid>
-            <pubDate>Mon, 21 Aug 2023 13:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_253/GUJxd_1692622348872L5pc8_JPEG/cover_2023082190231_thumb_094829_20230821215122091.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
