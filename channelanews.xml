@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 03:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 04:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日, 24일 오염수 방류 시작…원전 사고 12년 만]]></title>
+            <link>https://tv.naver.com/v/39320454</link>
+            <guid>https://tv.naver.com/v/39320454</guid>
+            <pubDate>Tue, 22 Aug 2023 04:20:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230822_212/wg5YO_1692674723175oFIIK_JPEG/cover_0000256066_001_20230822122401555.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대출 인증 서비스 간소화…금융당국은 제동]]></title>
             <link>https://tv.naver.com/v/39302028</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 21 Aug 2023 11:15:08 GMT</pubDate>
             <content:encoded><![CDATA[16:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230821_85/TqEqo_1692616208707pT8SG_JPEG/cover_0000256013_001_20230821200301839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명, 명절 선물·집안 제사도 세금으로?]]></title>
-            <link>https://tv.naver.com/v/39299469</link>
-            <guid>https://tv.naver.com/v/39299469</guid>
-            <pubDate>Mon, 21 Aug 2023 11:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[7:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230821_76/1zcv0_16926159256031EQr1_JPEG/cover_0000256014_001_20230821200216872.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
