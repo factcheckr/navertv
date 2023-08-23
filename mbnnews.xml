@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 05:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 06:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D뉴스] 日 기시다의 넘치는(?) 배려…"오염수 방류, 정상회의 뒤로 미뤄"]]></title>
+            <link>https://tv.naver.com/v/39367396</link>
+            <guid>https://tv.naver.com/v/39367396</guid>
+            <pubDate>Wed, 23 Aug 2023 06:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_285/WCuk9_1692770641017pVRju_JPEG/cover_cover_20230823150036_20_868_1336390_1080_7_20230823150301124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 날리자마자 추락한 육군 드론…"중국산이 국산 둔갑"]]></title>
             <link>https://tv.naver.com/v/39364405</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 22 Aug 2023 23:16:51 GMT</pubDate>
             <content:encoded><![CDATA[1:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_227/qqrVJ_169274520918500NPR_JPEG/cover_cover_20230823075652_20_605_1336357_1080_7_20230823075901130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]오늘 전국 비…중부·호남·제주 집중호우 주의]]></title>
-            <link>https://tv.naver.com/v/39352655</link>
-            <guid>https://tv.naver.com/v/39352655</guid>
-            <pubDate>Tue, 22 Aug 2023 23:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_23/fRWuu_1692745070210Aa1er_JPEG/cover_cover_20230823075512_20_605_1336356_1080_7_20230823075702971.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
