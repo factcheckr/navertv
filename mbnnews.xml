@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 06:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 07:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/39414581</link>
+            <guid>https://tv.naver.com/v/39414581</guid>
+            <pubDate>Thu, 24 Aug 2023 07:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230824_111/52BcB_1692858815618yuvHQ_JPEG/cover_cover_20230824152939_20_845_1336507_1080_7_20230824153301156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] '푸틴 반기' 끝은 비행기 추락사…덤덤한 바이든 "놀랍지 않다"]]></title>
             <link>https://tv.naver.com/v/39409631</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Aug 2023 01:09:05 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230824_292/LatpV_1692832652501UUVmJ_JPEG/cover_cover_20230824081206_20_605_1336473_1080_7_20230824081701117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] 스크린에서 만나는 서태지…'데뷔 25주년 콘서트' 실황 개봉]]></title>
-            <link>https://tv.naver.com/v/39397273</link>
-            <guid>https://tv.naver.com/v/39397273</guid>
-            <pubDate>Wed, 23 Aug 2023 23:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230824_49/4jQ2p_1692832541492XU57X_JPEG/cover_cover_20230824081100_20_605_1336472_1080_7_20230824081501189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
