@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Aug 2023 05:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Aug 2023 06:22:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Thu, 24 Aug 2023 05:16:26 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230824_185/mYM03_1692853809621vgUlV_JPEG/cover_0000256215_001_20230824140938361.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[檢, 이재명 5번째 소환 통보…출석일 놓고 신경전]]></title>
+            <link>https://tv.naver.com/v/39410239</link>
+            <guid>https://tv.naver.com/v/39410239</guid>
+            <pubDate>Thu, 24 Aug 2023 06:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[22:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230824_216/MdHja_1692854240073FXn0P_JPEG/cover_0000256214_001_20230824140901482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨]영동·남해안 집중호우…서울 등 서쪽 곳곳 소강]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 23 Aug 2023 11:14:48 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230823_238/VXb0A_1692789245262mitdr_JPEG/cover_0000256189_001_20230823201310883.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코로나 검사비 본인 부담…먹는 치료제 약값 지원 지속]]></title>
-            <link>https://tv.naver.com/v/39381439</link>
-            <guid>https://tv.naver.com/v/39381439</guid>
-            <pubDate>Wed, 23 Aug 2023 11:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230823_243/pImr9_1692789243835TWs0H_JPEG/cover_0000256190_001_20230823201301536.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
