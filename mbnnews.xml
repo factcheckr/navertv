@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Aug 2023 06:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 07:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/39458632</link>
+            <guid>https://tv.naver.com/v/39458632</guid>
+            <pubDate>Fri, 25 Aug 2023 07:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230825_100/pEjZm_1692945578742vKW8c_JPEG/cover_cover_20230825153645_20_845_1336607_1080_7_20230825153901135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 목 조른 최윤종 "살해 생각 없었다"…8년 전에는 '탈영']]></title>
             <link>https://tv.naver.com/v/39446679</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 24 Aug 2023 23:18:11 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230825_169/HIRO0_1692915832011sUpj5_JPEG/cover_cover_20230825071909_20_605_1336571_1080_7_20230825072301129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝 오늘] '해병대 사건' 수사심의위 첫 회의 /  국회 여가위 잼버리 질의 / '보호 출산제' 심사·의결]]></title>
-            <link>https://tv.naver.com/v/39441376</link>
-            <guid>https://tv.naver.com/v/39441376</guid>
-            <pubDate>Thu, 24 Aug 2023 23:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230825_127/xGXfg_1692915698456mO3W3_JPEG/cover_cover_20230825071722_20_605_1336570_1080_7_20230825072101128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
