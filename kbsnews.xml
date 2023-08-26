@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 21:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 22:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“원전 앞바다 생선 삼중수소 미검출”…어민 피해 우려 확산]]></title>
+            <link>https://tv.naver.com/v/39507423</link>
+            <guid>https://tv.naver.com/v/39507423</guid>
+            <pubDate>Sat, 26 Aug 2023 22:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_216/RkHtN_1693088034214wPbf8_JPEG/cover_0011553583_001_20230827071301903.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스9 날씨] 내일 차츰 흐려져 오전부터 제주, 남부에 비]]></title>
             <link>https://tv.naver.com/v/39501293</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Aug 2023 13:17:17 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230826_225/BPEr9_16930556854056oL8q_JPEG/cover_0011553558_001_20230826221433938.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[홍천·양구서 교통사고 잇따라…2명 숨져]]></title>
-            <link>https://tv.naver.com/v/39500407</link>
-            <guid>https://tv.naver.com/v/39500407</guid>
-            <pubDate>Sat, 26 Aug 2023 13:17:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_143/EWC4g_1693055682328nG7kg_JPEG/cover_0011553557_001_20230826221426487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
