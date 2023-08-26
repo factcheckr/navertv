@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 08:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 09:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 충북-제천고속도로 2중 추돌사고…3명 부상]]></title>
+            <link>https://tv.naver.com/v/39494125</link>
+            <guid>https://tv.naver.com/v/39494125</guid>
+            <pubDate>Sat, 26 Aug 2023 09:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_16/IdJW8_1693040526071uOX3V_JPEG/cover_0001084791_001_20230826180101126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[30초 만에 털렸다…겁 없는 10대 새벽 침입자들 [D리포트]]]></title>
             <link>https://tv.naver.com/v/39492845</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 25 Aug 2023 23:17:04 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230826_114/7mzbj_1693002446296rvxuJ_JPEG/cover_0001084693_001_20230826072609784.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] '최고 32도' 다시 찾아온 무더위…서쪽 안개 주의]]></title>
-            <link>https://tv.naver.com/v/39483227</link>
-            <guid>https://tv.naver.com/v/39483227</guid>
-            <pubDate>Fri, 25 Aug 2023 23:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_251/bGQmz_1693002336614bbYqS_JPEG/cover_0001084692_001_20230826072501115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
