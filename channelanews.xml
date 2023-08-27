@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Aug 2023 05:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Aug 2023 06:21:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]‘반국가세력’은 누구? “종전선언 노래 불렀다”]]></title>
+            <link>https://tv.naver.com/v/39513150</link>
+            <guid>https://tv.naver.com/v/39513150</guid>
+            <pubDate>Sun, 27 Aug 2023 06:21:06 GMT</pubDate>
+            <content:encoded><![CDATA[23:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230827_71/KnCpK_16931165663306Lpfl_JPEG/cover_0000256402_001_20230827150101490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앞으로 뉴스]이동관 위원장 취임식…‘공영방송 이사진’ 논의]]></title>
             <link>https://tv.naver.com/v/39511823</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 26 Aug 2023 10:17:59 GMT</pubDate>
             <content:encoded><![CDATA[5:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230826_235/eULfm_1693044843188sWJXF_JPEG/cover_0000256364_001_20230826191124486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찌푸린 눈썹, 입술 꾹…트럼프 ‘분노의 머그샷’]]></title>
-            <link>https://tv.naver.com/v/39495781</link>
-            <guid>https://tv.naver.com/v/39495781</guid>
-            <pubDate>Sat, 26 Aug 2023 10:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[3:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230826_63/gfs4A_1693044762413Kwno8_JPEG/cover_0000256363_001_20230826191114207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
