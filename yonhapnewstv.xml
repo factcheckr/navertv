@@ -1,8 +1,251 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/yonhapnewstv/clips</id>
-    <title>연합뉴스TV ─ 네이버TV</title>
-    <updated>2023-08-28T13:22:11.263Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/yonhapnewstv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>연합뉴스TV ─ 네이버TV</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 28 Aug 2023 14:15:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감사원 75주년…"잼버리 파행 무사안일 엄단"]]></title>
+            <link>https://tv.naver.com/v/39569698</link>
+            <guid>https://tv.naver.com/v/39569698</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_58/1IibT_1693232009062UWCGv_JPEG/cover_cover_MYH20230828024600641_20230828231301967.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양향자 신당 '한국의 희망' 창당…"기득권 타파"]]></title>
+            <link>https://tv.naver.com/v/39569519</link>
+            <guid>https://tv.naver.com/v/39569519</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_37/Pud2g_1693231766810HIYxL_JPEG/cover_cover_MYH20230828024500641_20230828230902029.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[생활날씨] 모레까지 많고 강한 비…내일 중부 집중호우]]></title>
+            <link>https://tv.naver.com/v/39568470</link>
+            <guid>https://tv.naver.com/v/39568470</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_232/5cLDi_1693230270616BCP7C_JPEG/cover_cover_MYH20230828024400641_20230828224404212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[본격화 된 달 남극 탐사 경쟁…남극의 매력과 가치는?]]></title>
+            <link>https://tv.naver.com/v/39568432</link>
+            <guid>https://tv.naver.com/v/39568432</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_171/A8Yzc_1693230248024Dmvk6_JPEG/cover_cover_MYH20230828024300641_20230828224301838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기상이변이 경제 변수로…엘니뇨 지속시 식량가격 7%↑]]></title>
+            <link>https://tv.naver.com/v/39568385</link>
+            <guid>https://tv.naver.com/v/39568385</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_160/azZTl_1693230194699FtKFN_JPEG/cover_cover_MYH20230828024200641_20230828224204413.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['창원 간첩단 사건' 재판 시작…"공소사실 부인"]]></title>
+            <link>https://tv.naver.com/v/39568242</link>
+            <guid>https://tv.naver.com/v/39568242</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_28/iriQc_1693229973395So0SM_JPEG/cover_cover_MYH20230828024100641_20230828223902052.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한인권단체 협의체 첫 출범…"정부의 정책 파트너"]]></title>
+            <link>https://tv.naver.com/v/39568196</link>
+            <guid>https://tv.naver.com/v/39568196</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_296/5uQrJ_16932299486004uqk6_JPEG/cover_cover_MYH20230828024000641_20230828223803974.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영업비밀 유출 전 삼바 직원…법정서 혐의 부인]]></title>
+            <link>https://tv.naver.com/v/39567778</link>
+            <guid>https://tv.naver.com/v/39567778</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_243/NONA3_1693229378373ApMGP_JPEG/cover_cover_MYH20230828023500641_20230828222909555.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['스쿨버스' 논란 일단 봉합…"원칙 어겨" 비판도]]></title>
+            <link>https://tv.naver.com/v/39567770</link>
+            <guid>https://tv.naver.com/v/39567770</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_17/vaXSt_1693229401304dRpNC_JPEG/cover_cover_MYH20230828023400641_20230828222901783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장애인 수영선수들 상습 폭행 지도자…집행유예 석방]]></title>
+            <link>https://tv.naver.com/v/39567604</link>
+            <guid>https://tv.naver.com/v/39567604</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_4/uOSve_1693229128449vVyzK_JPEG/cover_cover_MYH20230828023200641_20230828222502159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인천 교동도서 신원미상 남성 시신 발견…조사 중]]></title>
+            <link>https://tv.naver.com/v/39567454</link>
+            <guid>https://tv.naver.com/v/39567454</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_281/ZG1uY_1693228947586RqnyH_JPEG/cover_cover_MYH20230828022900641_20230828222203799.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충남 서산 스쿨존 '민식이법 놀이' 10대 포착]]></title>
+            <link>https://tv.naver.com/v/39567390</link>
+            <guid>https://tv.naver.com/v/39567390</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_116/zSKW3_1693228882098CNNH3_JPEG/cover_cover_MYH20230828022800641_20230828222101765.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[용산 아파트서 경찰 추락사…일행 마약투약 정황]]></title>
+            <link>https://tv.naver.com/v/39567344</link>
+            <guid>https://tv.naver.com/v/39567344</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_137/FSeMA_1693228830165hMufH_JPEG/cover_cover_MYH20230828022700641_20230828222004032.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[검찰, '경남은행 횡령 공모' 증권사 직원 구속영장]]></title>
+            <link>https://tv.naver.com/v/39567210</link>
+            <guid>https://tv.naver.com/v/39567210</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_116/NmHq9_1693228648974fgkAS_JPEG/cover_cover_MYH20230828022600641_20230828221701841.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['범죄·비극' 반복 온라인 커뮤니티…"자율규제 한계"]]></title>
+            <link>https://tv.naver.com/v/39567167</link>
+            <guid>https://tv.naver.com/v/39567167</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_41/59SoS_1693228620554hdI6u_JPEG/cover_cover_MYH20230828022500641_20230828221604027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기시다 "中 수입금지 따른 수산업자 보호책 발표"]]></title>
+            <link>https://tv.naver.com/v/39566498</link>
+            <guid>https://tv.naver.com/v/39566498</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_193/09SdB_1693227746597hqedu_JPEG/cover_cover_MYH20230828021900641_20230828220204388.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[군, 홍범도 흉상만 이전 가능성…"육사 설치 부적절"]]></title>
+            <link>https://tv.naver.com/v/39566439</link>
+            <guid>https://tv.naver.com/v/39566439</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_140/MW5MK_169322769054232gQe_JPEG/cover_cover_MYH20230828022400641_20230828220101779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명 "9월 셋째주 출석"…검찰, 4일 재통보]]></title>
+            <link>https://tv.naver.com/v/39566340</link>
+            <guid>https://tv.naver.com/v/39566340</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_24/fdP6x_1693227605571RPTIz_JPEG/cover_cover_MYH20230828022300641_20230828215902054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민주, '정기국회 전략 점검' 워크숍…"정권 폭주 막을 것"]]></title>
+            <link>https://tv.naver.com/v/39566246</link>
+            <guid>https://tv.naver.com/v/39566246</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_120/DewZC_1693227495402vCVYk_JPEG/cover_cover_MYH20230828022200641_20230828215701824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여 연찬회서도 '수도권 위기론'…"인재 십고초려"]]></title>
+            <link>https://tv.naver.com/v/39566095</link>
+            <guid>https://tv.naver.com/v/39566095</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_51/btCMI_1693227340339yepUm_JPEG/cover_cover_MYH20230828022100641_20230828215404044.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤대통령 "해경이 바다 안전하게 지켜줄 때 신해양강국 발전"]]></title>
+            <link>https://tv.naver.com/v/39565883</link>
+            <guid>https://tv.naver.com/v/39565883</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_247/Jfhb6_1693227036110FM9K2_JPEG/cover_cover_MYH20230828022000641_20230828215004061.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이시각헤드라인] 8월 28일 뉴스투나잇1부]]></title>
+            <link>https://tv.naver.com/v/39565566</link>
+            <guid>https://tv.naver.com/v/39565566</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_174/o7Zwo_1693226623308D10Kb_JPEG/cover_cover_MYH20230828021800641_20230828214301851.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 모레까지 국지성 호우…시간당 30~50㎜ 물벼락]]></title>
+            <link>https://tv.naver.com/v/39564898</link>
+            <guid>https://tv.naver.com/v/39564898</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_224/49dsr_16932257833961nhuh_JPEG/cover_cover_MYH20230828021700641_20230828212901900.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기후위기, 건강에 직결…고령층·야외노동자 더 취약]]></title>
+            <link>https://tv.naver.com/v/39564857</link>
+            <guid>https://tv.naver.com/v/39564857</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_282/BI5gt_1693225755907IQd2b_JPEG/cover_cover_MYH20230828021600641_20230828212803985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씬속뉴스]우크라, 해상드론 이어 '자폭 수중 드론' 개발…흑해서 전쟁 판도 바꿀까]]></title>
+            <link>https://tv.naver.com/v/39564639</link>
+            <guid>https://tv.naver.com/v/39564639</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_166/g7IbI_1693225477243VGbzJ_JPEG/cover_cover_MYH20230828021500640_20230828212404207.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['피프티피프티' 전속계약 유효…가처분 신청 기각]]></title>
+            <link>https://tv.naver.com/v/39564220</link>
+            <guid>https://tv.naver.com/v/39564220</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_292/cZChX_16932249859641PDSt_JPEG/cover_cover_MYH20230828021400641_20230828211603839.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잼버리 해명 미루는 여성가족부…"양해 부탁"]]></title>
+            <link>https://tv.naver.com/v/39564017</link>
+            <guid>https://tv.naver.com/v/39564017</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_263/N1KBz_1693224755611djBgY_JPEG/cover_cover_MYH20230828021200641_20230828211203823.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['2차 우기' 이번 주 잦은 비…태풍 3개 동시 북상]]></title>
+            <link>https://tv.naver.com/v/39563889</link>
+            <guid>https://tv.naver.com/v/39563889</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_250/RTiX4_1693224606781gUchy_JPEG/cover_cover_MYH20230828021100641_20230828210901807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼬리무는 '흉기소지' 소동…"처벌규정 필요"]]></title>
+            <link>https://tv.naver.com/v/39563628</link>
+            <guid>https://tv.naver.com/v/39563628</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_246/EM57Z_16932242556935i2ae_JPEG/cover_cover_MYH20230828021000641_20230828210306307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[묻지마 범죄에 무관용…CCTV·정신응급 대응센터 강화]]></title>
+            <link>https://tv.naver.com/v/39563386</link>
+            <guid>https://tv.naver.com/v/39563386</guid>
+            <pubDate>Mon, 28 Aug 2023 14:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_261/yLIng_1693223944213VH6NB_JPEG/cover_cover_MYH20230828020900641_20230828205804439.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
