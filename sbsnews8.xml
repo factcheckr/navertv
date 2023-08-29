@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Aug 2023 20:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2023 21:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/39623175</link>
+            <guid>https://tv.naver.com/v/39623175</guid>
+            <pubDate>Tue, 29 Aug 2023 21:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_159/unSJ6_1693343563000RNDcw_JPEG/cover_0001085606_001_20230830061201159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/39618304</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Aug 2023 13:20:37 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230829_145/VmlBd_1693313953239JRaqD_JPEG/cover_0001085545_001_20230829215811750.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 대낮 지하철 에스컬레이터서 무차별 폭행…"교도소 가려고"]]></title>
-            <link>https://tv.naver.com/v/39611045</link>
-            <guid>https://tv.naver.com/v/39611045</guid>
-            <pubDate>Tue, 29 Aug 2023 13:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230829_152/eIp27_1693313948071bDz9u_JPEG/cover_0001085546_001_20230829215801141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
