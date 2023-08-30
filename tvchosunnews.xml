@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 09:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 10:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신동욱 앵커의 시선] 홍범도와 정율성]]></title>
+            <link>https://tv.naver.com/v/39650475</link>
+            <guid>https://tv.naver.com/v/39650475</guid>
+            <pubDate>Wed, 30 Aug 2023 10:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_1/uwYYg_1693390357178W7T9x_JPEG/cover_2023082990229_thumb_070637_20230830191101506.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사건파일24] "사형 집행 시설 점검"]]></title>
             <link>https://tv.naver.com/v/39648290</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Aug 2023 01:10:39 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_41/vWDNG_1693350985127g54MU_JPEG/cover_2023083090017_thumb_081220_20230830081610429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강변북로 달리던 스타렉스 엔진 화재…"수리 미루던 중 화재"]]></title>
-            <link>https://tv.naver.com/v/39624278</link>
-            <guid>https://tv.naver.com/v/39624278</guid>
-            <pubDate>Wed, 30 Aug 2023 01:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[0:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_53/gi60Q_1693350977990kuvE8_JPEG/cover_2023083090015_thumb_081140_20230830081603291.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
