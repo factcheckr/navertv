@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 20:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 21:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북, 단거리 탄도미사일 2발 발사…계룡대 사정권]]></title>
+            <link>https://tv.naver.com/v/39666781</link>
+            <guid>https://tv.naver.com/v/39666781</guid>
+            <pubDate>Wed, 30 Aug 2023 21:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_123/FTsBy_169343003664370Din_JPEG/cover_0001085913_001_20230831061301095.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/39666765</link>
+            <guid>https://tv.naver.com/v/39666765</guid>
+            <pubDate>Wed, 30 Aug 2023 21:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_184/GXQrQ_16934297822017MVD6_JPEG/cover_0001085912_001_20230831060901146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 중부 오전 중 비 그쳐…경남 모레까지 50~200mm 비]]></title>
             <link>https://tv.naver.com/v/39666444</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 30 Aug 2023 13:20:57 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_40/hWz5E_1693399997519AUNhb_JPEG/cover_0001085862_001_20230830215222546.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가족 · 연인까지 동원…'클럽 마약' 34만 명분 밀반입]]></title>
-            <link>https://tv.naver.com/v/39657405</link>
-            <guid>https://tv.naver.com/v/39657405</guid>
-            <pubDate>Wed, 30 Aug 2023 13:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_167/j4DVr_1693399992141CTxdF_JPEG/cover_0001085864_001_20230830215212957.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시간당 40mm 폭우…고립된 소떼 구출 작전]]></title>
-            <link>https://tv.naver.com/v/39657372</link>
-            <guid>https://tv.naver.com/v/39657372</guid>
-            <pubDate>Wed, 30 Aug 2023 13:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_188/ejNg7_1693399989391iliD3_JPEG/cover_0001085865_001_20230830215140055.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

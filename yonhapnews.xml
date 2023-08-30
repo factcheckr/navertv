@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 20:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 21:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 30 Aug 2023 08:21:35 GMT</pubDate>
             <content:encoded><![CDATA[2:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_82/XfWCc_1693383414886VhrMp_JPEG/1693383388931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["아직도 시행 안 됐나"…국회에 갇힌 구하라법]]></title>
+            <link>https://tv.naver.com/v/39644712</link>
+            <guid>https://tv.naver.com/v/39644712</guid>
+            <pubDate>Wed, 30 Aug 2023 21:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[5:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_116/5nCGE_16933827200563lQTk_JPEG/1693382688018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김건희 여사 "인간과 동물은 공존…불법 개식용 절대 없어져야"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 28 Aug 2023 08:23:37 GMT</pubDate>
             <content:encoded><![CDATA[2:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230828_169/YiYWI_1693209398847xmCT6_JPEG/1693209365279.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트럼프 '머그샷 굿즈' 팔아 돈방석…단숨에 100억 모금]]></title>
-            <link>https://tv.naver.com/v/39551843</link>
-            <guid>https://tv.naver.com/v/39551843</guid>
-            <pubDate>Mon, 28 Aug 2023 08:23:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230828_179/7QGPt_1693208616982XPE4K_JPEG/1693208597789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
