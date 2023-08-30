@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 06:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 07:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/39639577</link>
+            <guid>https://tv.naver.com/v/39639577</guid>
+            <pubDate>Wed, 30 Aug 2023 07:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_236/DEueu_1693377218474P0x8L_JPEG/cover_cover_20230830152938_20_845_1336985_1080_7_20230830153301135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] "사과가 썩었잖아"…대낮 마트 흉기 난동 40대 '황당 이유']]></title>
             <link>https://tv.naver.com/v/39629350</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 29 Aug 2023 23:16:19 GMT</pubDate>
             <content:encoded><![CDATA[0:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_224/mOA0d_1693350093920HuoWV_JPEG/cover_cover_20230830075717_20_605_1336949_1080_7_20230830080101142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]"석 달 만에 두 배라니!" 유가 인상 반대 시위]]></title>
-            <link>https://tv.naver.com/v/39624067</link>
-            <guid>https://tv.naver.com/v/39624067</guid>
-            <pubDate>Tue, 29 Aug 2023 23:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_77/6nLxO_1693349988245zjut7_JPEG/cover_cover_20230830075540_20_605_1336948_1080_7_20230830075901136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
