@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 20:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 21:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[육사 “홍범도 장군 흉상 외부 적절한 장소로 이전”]]></title>
+            <link>https://tv.naver.com/v/39713035</link>
+            <guid>https://tv.naver.com/v/39713035</guid>
+            <pubDate>Thu, 31 Aug 2023 21:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[2:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_293/0JzeE_1693516319253IsCR3_JPEG/cover_0011557364_001_20230901061103589.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태화루 옆 스카이워크…볼거리? 경관훼손?]]></title>
             <link>https://tv.naver.com/v/39711739</link>
@@ -45,7 +53,7 @@
             <guid>https://tv.naver.com/v/39707412</guid>
             <pubDate>Thu, 31 Aug 2023 15:17:16 GMT</pubDate>
             <content:encoded><![CDATA[0:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_133/adMqR_1693494621132I5XGS_JPEG/cover_0011557338_001_20230901000956508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_254/HSMHF_1693514136441WdNyz_JPEG/cover_0011557338_001_20230901000956508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITX-마음, 내일부터 태백·영동선 운행]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Aug 2023 15:17:16 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230831_190/rU545_169349271355674pSz_JPEG/cover_0011557311_001_20230831233815515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 건설공사액 늘었지만 지역업체 비중 감소]]></title>
-            <link>https://tv.naver.com/v/39706047</link>
-            <guid>https://tv.naver.com/v/39706047</guid>
-            <pubDate>Thu, 31 Aug 2023 15:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_72/phthN_1693492704722y8GXU_JPEG/cover_0011557310_001_20230831233808022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
