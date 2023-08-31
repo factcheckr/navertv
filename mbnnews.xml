@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 06:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 07:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/39685242</link>
+            <guid>https://tv.naver.com/v/39685242</guid>
+            <pubDate>Thu, 31 Aug 2023 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_167/hLWHK_1693463255455XSDvJ_JPEG/cover_cover_20230831152346_20_845_1337086_1080_7_20230831152701153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 기시다 후쿠시마산 회 먹방 응원 "씹는 맛 좋네"]]></title>
             <link>https://tv.naver.com/v/39682801</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Aug 2023 23:17:34 GMT</pubDate>
             <content:encoded><![CDATA[1:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230831_39/ubuGW_1693435310445ETBGS_JPEG/cover_cover_20230831073808_20_605_1337053_1080_7_20230831074101151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1조 원대 도박조직 총책, 필리핀서 2년 만에 강제송환]]></title>
-            <link>https://tv.naver.com/v/39667263</link>
-            <guid>https://tv.naver.com/v/39667263</guid>
-            <pubDate>Wed, 30 Aug 2023 23:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_282/zxvzf_1693435049366jWFBD_JPEG/cover_cover_20230831073412_20_605_1337052_1080_7_20230831073701168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
