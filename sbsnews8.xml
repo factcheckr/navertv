@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 20:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 21:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 서울 금천구 독산동에서 '음주운전' 4중 추돌 사고…2명 부상]]></title>
+            <link>https://tv.naver.com/v/39754308</link>
+            <guid>https://tv.naver.com/v/39754308</guid>
+            <pubDate>Fri, 01 Sep 2023 21:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_184/jAoYr_1693601786157PdMsP_JPEG/cover_0001086497_001_20230902055601139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방글라데시 간 한국인 뎅기열로 사망…동남아 여행 주의]]></title>
             <link>https://tv.naver.com/v/39748246</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Sep 2023 13:20:17 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230901_4/SkMTz_1693574365563u1aLU_JPEG/cover_0001086480_001_20230901221901143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클로징]]></title>
-            <link>https://tv.naver.com/v/39746102</link>
-            <guid>https://tv.naver.com/v/39746102</guid>
-            <pubDate>Fri, 01 Sep 2023 13:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[0:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_126/3d3sm_1693574311481ju22h_JPEG/cover_0001086482_001_20230901221819753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
