@@ -4,9 +4,33 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 08:22:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 09:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]‘둠칫둠칫’ 패딩 입고 댄스파티]]></title>
+            <link>https://tv.naver.com/v/39736969</link>
+            <guid>https://tv.naver.com/v/39736969</guid>
+            <pubDate>Fri, 01 Sep 2023 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_208/PZWly_1693558747520lsGBC_JPEG/cover_0000256776_001_20230901175801610.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독]외상 술 달라며 80대 노인 폭행…옷 갈아입고 발뺌]]></title>
+            <link>https://tv.naver.com/v/39736716</link>
+            <guid>https://tv.naver.com/v/39736716</guid>
+            <pubDate>Fri, 01 Sep 2023 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_171/kgmzq_1693558345595E5nCC_JPEG/cover_0000256775_001_20230901175201566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[李 “무기한 단식” 선언에…與 “곡기 끊을 게 아니라 정치 관둬야”]]></title>
+            <link>https://tv.naver.com/v/39736365</link>
+            <guid>https://tv.naver.com/v/39736365</guid>
+            <pubDate>Fri, 01 Sep 2023 09:17:42 GMT</pubDate>
+            <content:encoded><![CDATA[7:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_41/P0mTm_1693558083807wSPlm_JPEG/cover_0000256756_001_20230901174501501.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘김남국 제명안’ 부결에 내분…“李 지시” vs “지시 못 해”]]></title>
             <link>https://tv.naver.com/v/39725625</link>
@@ -14,14 +38,6 @@
             <pubDate>Fri, 01 Sep 2023 05:17:07 GMT</pubDate>
             <content:encoded><![CDATA[6:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230901_250/ATFD8_1693545410238kL7TL_JPEG/cover_0000256757_001_20230901141425554.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[李 “무기한 단식” 선언에…野 “곡기 끊을 게 아니라 정치 관둬야”]]></title>
-            <link>https://tv.naver.com/v/39725613</link>
-            <guid>https://tv.naver.com/v/39725613</guid>
-            <pubDate>Fri, 01 Sep 2023 06:24:05 GMT</pubDate>
-            <content:encoded><![CDATA[7:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_187/3DxlW_1693545430811Jw9ti_JPEG/cover_0000256756_001_20230901141411980.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“촛불 들어달라”…SNS에 글 올린 이재명]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 31 Aug 2023 11:15:22 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230831_192/IoT9W_1693480389151yoTWY_JPEG/cover_0000256719_001_20230831201201551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“교류 있었다” 2심도 50년 잠적 친모 승소]]></title>
-            <link>https://tv.naver.com/v/39698036</link>
-            <guid>https://tv.naver.com/v/39698036</guid>
-            <pubDate>Thu, 31 Aug 2023 11:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_62/gjkZb_1693480344670ksA1z_JPEG/cover_0000256718_001_20230831201111669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추석 엿새 황금 연휴 확정…곳곳 반값 할인]]></title>
-            <link>https://tv.naver.com/v/39698025</link>
-            <guid>https://tv.naver.com/v/39698025</guid>
-            <pubDate>Thu, 31 Aug 2023 11:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_286/4JH4H_1693480337055u2b7G_JPEG/cover_0000256717_001_20230831201101478.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
