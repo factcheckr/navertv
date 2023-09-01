@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 03:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 04:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D뉴스] 고교 과학동아리의 발칙한 실험…33km 상공서 지구 찍었다]]></title>
+            <link>https://tv.naver.com/v/39723163</link>
+            <guid>https://tv.naver.com/v/39723163</guid>
+            <pubDate>Fri, 01 Sep 2023 04:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_79/JJNe4_1693541994376HLUWj_JPEG/cover_cover_20230901131542_20_868_1337202_1080_7_20230901131901131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재명, 무기한 단식 돌입…여당 "뜬금없는 방탄 단식"]]></title>
             <link>https://tv.naver.com/v/39719816</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Aug 2023 23:18:10 GMT</pubDate>
             <content:encoded><![CDATA[0:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230901_43/RW7aB_1693523593795jcdbL_JPEG/cover_cover_20230901080834_20_605_1337169_1080_7_20230901081301157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 서울 낮 최고 30도…남부 내일까지 강하고 많은 비]]></title>
-            <link>https://tv.naver.com/v/39714139</link>
-            <guid>https://tv.naver.com/v/39714139</guid>
-            <pubDate>Thu, 31 Aug 2023 23:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_71/eYOiv_1693523391475kadhD_JPEG/cover_cover_20230901080656_20_605_1337168_1080_7_20230901080903293.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
