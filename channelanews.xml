@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 23:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 01:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명, 일정상 4일 검찰 출석 힘들 듯]]></title>
+            <link>https://tv.naver.com/v/39714315</link>
+            <guid>https://tv.naver.com/v/39714315</guid>
+            <pubDate>Fri, 01 Sep 2023 01:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_87/Znl9S_1693524406021gddhT_JPEG/cover_0000256673_001_20230901082501481.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]육사 ‘한미동맹 공원’ 추진…‘10대 영웅’ 거론]]></title>
             <link>https://tv.naver.com/v/39699190</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Aug 2023 11:15:22 GMT</pubDate>
             <content:encoded><![CDATA[6:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230831_22/MVwSw_1693478462880AITkw_JPEG/cover_0000256704_001_20230831193825005.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘김남국 방탄’ 입김 있었나…비명 “이재명이 지시”]]></title>
-            <link>https://tv.naver.com/v/39696781</link>
-            <guid>https://tv.naver.com/v/39696781</guid>
-            <pubDate>Thu, 31 Aug 2023 11:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[8:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230831_220/p3hIv_1693478483203yKbIg_JPEG/cover_0000256703_001_20230831193801632.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
