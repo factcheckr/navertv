@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 21:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 22:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Fri, 01 Sep 2023 03:17:55 GMT</pubDate>
             <content:encoded><![CDATA[2:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230901_223/tjN3X_1693535741824ik9Bb_JPEG/1693535344696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] '환골탈태'로 돌파구 만든 김봉기 엔라이즈 대표]]></title>
+            <link>https://tv.naver.com/v/39718085</link>
+            <guid>https://tv.naver.com/v/39718085</guid>
+            <pubDate>Fri, 01 Sep 2023 22:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[10:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_142/2tV8v_1693533909047aGbbj_JPEG/1693533875723.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아에서 첫 판다 출산…중국서 데려온 커플 '2세']]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 30 Aug 2023 08:21:35 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230830_228/klepT_1693381204136OUGrV_JPEG/1693380663451.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 상무장관 "기업들 '중국 너무 위험해 투자 불가' 토로"]]></title>
-            <link>https://tv.naver.com/v/39640316</link>
-            <guid>https://tv.naver.com/v/39640316</guid>
-            <pubDate>Wed, 30 Aug 2023 07:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230830_200/L8KTM_169337795931433Plu_JPEG/1693377940644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
