@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 01:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 02:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['항명' 박정훈 대령 영장 기각‥무리한 수사 역풍]]></title>
+            <link>https://tv.naver.com/v/39756659</link>
+            <guid>https://tv.naver.com/v/39756659</guid>
+            <pubDate>Sat, 02 Sep 2023 02:19:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_266/P3nhE_169361879526423PeD_JPEG/cover_cover_desk_20230901_195626_1_6_Large_20230902103901783.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[접경지 마을 찾은 7명의 외국인 감독]]></title>
             <link>https://tv.naver.com/v/39755530</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Sep 2023 12:31:26 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230901_100/pDFT9_169356845832182gXH_JPEG/cover_cover_desk_20230901_200841_1_11_Large_20230901204005543.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포츠 영상] 이승우 시즌 7호골 '득점력 물 올랐네!']]></title>
-            <link>https://tv.naver.com/v/39742383</link>
-            <guid>https://tv.naver.com/v/39742383</guid>
-            <pubDate>Fri, 01 Sep 2023 12:31:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230901_239/K0qKu_1693568217281xlD69_JPEG/cover_cover_desk_20230901_203046_1_22_Large_20230901203415447.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
