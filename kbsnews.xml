@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 10:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 11:14:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 내일 전국 대부분 비…높은 너울 주의]]></title>
-            <link>https://tv.naver.com/v/39768236</link>
-            <guid>https://tv.naver.com/v/39768236</guid>
-            <pubDate>Sat, 02 Sep 2023 10:15:26 GMT</pubDate>
+            <title><![CDATA[스쿨존 뺑소니 보행자 사망…잡고보니 만취 운전자]]></title>
+            <link>https://tv.naver.com/v/39769533</link>
+            <guid>https://tv.naver.com/v/39769533</guid>
+            <pubDate>Sat, 02 Sep 2023 11:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_164/WLhpe_1693653055446i66Yu_JPEG/cover_0011557816_001_20230902201008499.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[7시 날씨] 내일 전국 대부분 비…높은 너울 주의]]></title>
+            <link>https://tv.naver.com/v/39768490</link>
+            <guid>https://tv.naver.com/v/39768490</guid>
+            <pubDate>Sat, 02 Sep 2023 11:12:43 GMT</pubDate>
             <content:encoded><![CDATA[1:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_285/Dv4BE_1693649670607OQPfu_JPEG/cover_0011558284_001_20230902191400285.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_169/j60kR_1693650332405cUplM_JPEG/cover_0011558284_001_20230902192504185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고액 관세 체납자 249명 공개…징수율 0.02%]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Sep 2023 01:06:59 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230902_30/hFach_1693615133914jQVq7_JPEG/cover_0011558210_001_20230902093807617.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[합참 “북한, 서해상으로 순항미사일 수 발 발사”]]></title>
-            <link>https://tv.naver.com/v/39755807</link>
-            <guid>https://tv.naver.com/v/39755807</guid>
-            <pubDate>Sat, 02 Sep 2023 01:06:59 GMT</pubDate>
-            <content:encoded><![CDATA[0:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_16/JZm8X_1693615036648Bi9Jy_JPEG/cover_0011558209_001_20230902093704112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
