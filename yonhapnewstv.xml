@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 19:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 20:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 614회]]></title>
+            <link>https://tv.naver.com/v/39778911</link>
+            <guid>https://tv.naver.com/v/39778911</guid>
+            <pubDate>Sat, 02 Sep 2023 20:16:34 GMT</pubDate>
+            <content:encoded><![CDATA[30:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_191/qjF0y_16936856338712wG8p_JPEG/cover_cover_MYH20230901020400641_20230903050101776.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['더 내고 늦게 받을까'…국민연금 개편 '갈등의 서막' [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/39772512</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Sep 2023 07:14:52 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230902_268/oOfm8_1693636949386cHeXy_JPEG/cover_cover_MYH20230902007900641_20230902154204128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['음주 벤츠' 차량 3대 연달아 들이받아…2명 경상]]></title>
-            <link>https://tv.naver.com/v/39763296</link>
-            <guid>https://tv.naver.com/v/39763296</guid>
-            <pubDate>Sat, 02 Sep 2023 07:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_226/LmlIX_1693636897310C9HT5_JPEG/cover_cover_MYH20230902007800641_20230902154101809.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
