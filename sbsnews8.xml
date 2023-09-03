@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Sep 2023 10:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Sep 2023 11:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[월요일 '공교육 멈춤의 날'…집단 행동 자제 촉구한 정부]]></title>
+            <link>https://tv.naver.com/v/39795909</link>
+            <guid>https://tv.naver.com/v/39795909</guid>
+            <pubDate>Sun, 03 Sep 2023 11:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_267/Wln39_1693739370162oyQdQ_JPEG/cover_0001086736_001_20230903200801141.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[1분핫뉴스] '테슬라 상폐' 공수표 날린 머스크, 결국 550억 '벌금 폭탄']]></title>
             <link>https://tv.naver.com/v/39789865</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Sep 2023 12:28:07 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230902_273/wbR5M_1693655970023vqKM8_JPEG/cover_0001086621_001_20230902205908757.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전반 1분 만에 결승골!…FC서울, 수원 꺾었다]]></title>
-            <link>https://tv.naver.com/v/39770767</link>
-            <guid>https://tv.naver.com/v/39770767</guid>
-            <pubDate>Sat, 02 Sep 2023 12:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230902_136/qUV3C_1693655856107qGr8B_JPEG/cover_0001086619_001_20230902205701108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
