@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 07:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 08:23:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프레스룸 LIVE] 공교육 멈춤의 날…전국서 서이초 교사 추모행사]]></title>
+            <link>https://tv.naver.com/v/39830787</link>
+            <guid>https://tv.naver.com/v/39830787</guid>
+            <pubDate>Mon, 04 Sep 2023 08:23:57 GMT</pubDate>
+            <content:encoded><![CDATA[17:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230904_9/KK9O5_1693815261953MsCU7_JPEG/cover_cover_20230904162441_20_812_1337372_1080_7_20230904170601196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김주하 AI]]></title>
             <link>https://tv.naver.com/v/39826536</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Sep 2023 23:16:49 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230904_259/NWI04_1693782222783QsIMj_JPEG/cover_cover_20230904075844_20_605_1337339_1080_7_20230904080301125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]서거 1주기, 여왕이 사랑한 웰시 코기 총집합]]></title>
-            <link>https://tv.naver.com/v/39810177</link>
-            <guid>https://tv.naver.com/v/39810177</guid>
-            <pubDate>Sun, 03 Sep 2023 23:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230904_98/JCCXj_1693782112501z3ISq_JPEG/cover_cover_20230904075735_20_605_1337337_1080_7_20230904080101145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
