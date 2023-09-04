@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 06:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 07:17:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/39826536</link>
+            <guid>https://tv.naver.com/v/39826536</guid>
+            <pubDate>Mon, 04 Sep 2023 07:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230904_121/Q8OCN_1693809940958bJwLh_JPEG/cover_cover_20230904154233_20_845_1337371_1080_7_20230904154501416.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스돋보기] 민주당 오염수 총공세 이유는?…국힘은 오늘부터 민생투어]]></title>
             <link>https://tv.naver.com/v/39816677</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Sep 2023 23:16:49 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230904_98/JCCXj_1693782112501z3ISq_JPEG/cover_cover_20230904075735_20_605_1337337_1080_7_20230904080101145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]오전까지 중부 비…오후~밤 내륙 소나기]]></title>
-            <link>https://tv.naver.com/v/39810163</link>
-            <guid>https://tv.naver.com/v/39810163</guid>
-            <pubDate>Sun, 03 Sep 2023 23:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230904_223/vo94I_1693781993249sb05n_JPEG/cover_cover_20230904075616_20_605_1337336_1080_7_20230904075907024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
