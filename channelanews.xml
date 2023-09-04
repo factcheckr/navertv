@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 02:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 03:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]아시안게임 4연패 도전…구본길 “중국 텃세는 이렇게”]]></title>
+            <link>https://tv.naver.com/v/39816337</link>
+            <guid>https://tv.naver.com/v/39816337</guid>
+            <pubDate>Mon, 04 Sep 2023 03:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230904_168/HXzYq_1693795992346JS2bk_PNG/cover_0000256925_001_20230904115201540.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[사건을 보다]경찰 추락사 부른 ‘투약 모임’ 우후죽순?]]></title>
             <link>https://tv.naver.com/v/39813182</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Sep 2023 05:16:53 GMT</pubDate>
             <content:encoded><![CDATA[6:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230903_159/HSr7V_1693716725744ebkK7_JPEG/cover_0000256865_001_20230903134918947.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[황교안 단식 때 “출퇴근 단식” 조롱…정청래, 李 단식은 “나도 같이”]]></title>
-            <link>https://tv.naver.com/v/39784805</link>
-            <guid>https://tv.naver.com/v/39784805</guid>
-            <pubDate>Sun, 03 Sep 2023 05:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[9:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230903_180/itFJE_1693716759177EnR0S_JPEG/cover_0000256862_001_20230903134901491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
