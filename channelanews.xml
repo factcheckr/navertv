@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Sep 2023 12:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Sep 2023 13:21:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장 카메라]“집 밖은 싫어요”…고립 택한 54만 명]]></title>
+            <link>https://tv.naver.com/v/39842863</link>
+            <guid>https://tv.naver.com/v/39842863</guid>
+            <pubDate>Mon, 04 Sep 2023 13:21:40 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230904_287/uXwq8_1693831123014qJebs_JPEG/cover_0000256981_001_20230904213701473.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]이재명, 단식 CCTV/ 윤 대통령-오세훈, 비슷한 듯 다른?]]></title>
             <link>https://tv.naver.com/v/39841402</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 04 Sep 2023 11:15:19 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230904_73/cBPjU_1693825855350x8mXb_JPEG/cover_0000256979_001_20230904200938837.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시 ‘임옥상 조형물 철거’ 두고 정의연과 대치]]></title>
-            <link>https://tv.naver.com/v/39839064</link>
-            <guid>https://tv.naver.com/v/39839064</guid>
-            <pubDate>Mon, 04 Sep 2023 11:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230904_211/Cb7jo_16938258480073fmKu_JPEG/cover_0000256980_001_20230904200930049.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
