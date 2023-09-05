@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Sep 2023 13:21:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 14:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 28.6도…내일 22~28도]]></title>
+            <link>https://tv.naver.com/v/39897068</link>
+            <guid>https://tv.naver.com/v/39897068</guid>
+            <pubDate>Tue, 05 Sep 2023 14:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_35/vijS1_1693923274867artUP_JPEG/cover_0011560214_001_20230905231410491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘사격 곽윤기’ 송종호 “금메달 2개 따겠다!”]]></title>
             <link>https://tv.naver.com/v/39893942</link>
@@ -157,7 +165,7 @@
             <guid>https://tv.naver.com/v/39893649</guid>
             <pubDate>Tue, 05 Sep 2023 13:20:16 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_266/5bb3m_1693919409137XMWrA_JPEG/cover_0011560195_001_20230905220832818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_298/v0gWw_1693923004684Piwd1_JPEG/cover_0011560195_001_20230905220832818.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘수산물 방사능 검사’ 유튜브 ‘경남TV’로 생중계]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Sep 2023 13:20:16 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230905_4/qccYB_1693919231062trxHs_JPEG/cover_0011560137_001_20230905220620978.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4대강 보 존치 공청회…환경단체 반발·점거, 경찰 강제해산]]></title>
-            <link>https://tv.naver.com/v/39893476</link>
-            <guid>https://tv.naver.com/v/39893476</guid>
-            <pubDate>Tue, 05 Sep 2023 13:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230905_147/Gepdd_1693919233379ua2QT_JPEG/cover_0011560136_001_20230905220609262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
