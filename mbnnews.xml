@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 08:22:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 09:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김명준의 뉴스파이터 오프닝 - 안팎에서 새는 혈세]]></title>
+            <link>https://tv.naver.com/v/39984707</link>
+            <guid>https://tv.naver.com/v/39984707</guid>
+            <pubDate>Thu, 07 Sep 2023 09:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_270/amjlg_1694078136414PeXbl_JPEG/cover_cover_20230907181051_20_673_1337710_1080_7_20230907181501163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸 LIVE] "선처 기대 말라" MZ조폭 분노한 검사 롤스로이스男 담당한다]]></title>
             <link>https://tv.naver.com/v/39979376</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Sep 2023 23:17:26 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230907_77/lLKng_16940410685668QdS4_JPEG/cover_cover_20230907075246_20_605_1337677_1080_7_20230907075701131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]아침 선선, 낮더위 여전…출근길 안개 주의]]></title>
-            <link>https://tv.naver.com/v/39956661</link>
-            <guid>https://tv.naver.com/v/39956661</guid>
-            <pubDate>Wed, 06 Sep 2023 23:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_130/RiQpx_1694040941590h37CW_JPEG/cover_cover_20230907075103_20_605_1337676_1080_7_20230907075501129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
