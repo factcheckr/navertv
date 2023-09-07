@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 20:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 21:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/40002731</link>
+            <guid>https://tv.naver.com/v/40002731</guid>
+            <pubDate>Thu, 07 Sep 2023 21:14:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_185/n5D3E_1694121042474YKcie_JPEG/cover_0001088072_001_20230908061001147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[80% 짓고서 "분양"…선분양 찾던 건설사들 달라진 이유]]></title>
             <link>https://tv.naver.com/v/40002461</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Sep 2023 15:18:16 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230907_84/xbnbw_1694098003849GNMVk_JPEG/cover_0001088019_001_20230907234533409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] '라떼 갑질' 2년 후 복직…동료들은 "네가 가해자"]]></title>
-            <link>https://tv.naver.com/v/39998322</link>
-            <guid>https://tv.naver.com/v/39998322</guid>
-            <pubDate>Thu, 07 Sep 2023 15:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_138/mrtEk_1694097991511L8gvz_JPEG/cover_0001088016_001_20230907234523409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
