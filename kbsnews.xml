@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 05:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 06:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“신문법 위반 시 ‘뉴스타파’ 발행정지 명령 등 검토”]]></title>
+            <link>https://tv.naver.com/v/39973852</link>
+            <guid>https://tv.naver.com/v/39973852</guid>
+            <pubDate>Thu, 07 Sep 2023 06:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_143/rVEL9_1694067151226mGqjn_JPEG/cover_0011561561_001_20230907151215150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 더위 계속…아침·저녁엔 선선]]></title>
             <link>https://tv.naver.com/v/39970422</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Sep 2023 04:20:03 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230907_204/b9dXF_1694057305439cLkQD_JPEG/cover_0011561476_001_20230907122809684.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 “북·중·러 밀착 경계…북-러 군사 협력 강화 우려”]]></title>
-            <link>https://tv.naver.com/v/39965409</link>
-            <guid>https://tv.naver.com/v/39965409</guid>
-            <pubDate>Thu, 07 Sep 2023 04:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230907_206/mW8S5_1694057292336se0EN_JPEG/cover_0011561475_001_20230907122714838.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
