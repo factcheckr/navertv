@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 21:15:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 22:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 08 Sep 2023 03:17:33 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_141/BBSny_1694141362503ajqph_JPEG/1694141334028.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 최현웅 씨드앤 대표…최적 온도 유지하고 과도한 냉난방 방지]]></title>
+            <link>https://tv.naver.com/v/40008689</link>
+            <guid>https://tv.naver.com/v/40008689</guid>
+            <pubDate>Fri, 08 Sep 2023 22:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[11:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_239/3vNPE_1694139227428nAfiU_JPEG/1694139213945.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북, 첫 '전술핵공격잠수함' 건조…"수중에서 핵 공격 가능"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Sep 2023 09:17:12 GMT</pubDate>
             <content:encoded><![CDATA[3:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230906_238/qj7gE_1693989144505dbWqK_JPEG/1693989125267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시진핑 트위터 있었나?…'시의 순간들' 계정 등장에 중국 '시끌']]></title>
-            <link>https://tv.naver.com/v/39931942</link>
-            <guid>https://tv.naver.com/v/39931942</guid>
-            <pubDate>Wed, 06 Sep 2023 09:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[2:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230906_58/j9AA6_1693989086525YlpRJ_JPEG/1693989021304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
