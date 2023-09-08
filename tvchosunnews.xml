@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 09:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 10:19:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사건파일24] 김만배 '허위 인터뷰' 논란 일파만파]]></title>
+            <link>https://tv.naver.com/v/40030306</link>
+            <guid>https://tv.naver.com/v/40030306</guid>
+            <pubDate>Fri, 08 Sep 2023 10:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_11/6KkFx_1694166696607c255l_JPEG/cover_2023090890135_thumb_064546_20230908185101503.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한동훈 "욕설 의원이 누굴 가르치려?"…안민석과 대정부질문서 충돌]]></title>
             <link>https://tv.naver.com/v/40024989</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Sep 2023 23:17:48 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_282/76Ybx_1694126820153D7vtD_JPEG/cover_2023090890005_thumb_074130_20230908074601601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 8일 '뉴스 퍼레이드' 오프닝]]></title>
-            <link>https://tv.naver.com/v/40003367</link>
-            <guid>https://tv.naver.com/v/40003367</guid>
-            <pubDate>Thu, 07 Sep 2023 23:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_61/lvtmH_1694126493424K6fAV_JPEG/cover_2023090890003_thumb_073858_20230908074103402.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
