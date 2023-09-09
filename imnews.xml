@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 22:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 23:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["헉! 무슨 범퍼카야? 사람 친다!"‥골목길서 광란의 폭주]]></title>
+            <link>https://tv.naver.com/v/40069898</link>
+            <guid>https://tv.naver.com/v/40069898</guid>
+            <pubDate>Sat, 09 Sep 2023 23:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_210/tcILR_1694297927995jDBj4_JPEG/cover_cover_pth23091001_20230910071805834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전국 가끔 구름 많고 제주 오후부터 비]]></title>
             <link>https://tv.naver.com/v/40069885</link>
@@ -208,12 +216,12 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_261/o8LDv_16942379800615cVS6_JPEG/cover_cover_today_20230909_070627_1_4_Large_20230909143905505.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MBC뉴스] - 이재명, 5번째 출석‥"정치검찰로 진실]]></title>
+            <title><![CDATA[[MBC뉴스] 이재명, 5번째 출석‥"정치검찰로 진실 못 가둬"]]></title>
             <link>https://tv.naver.com/v/40048562</link>
             <guid>https://tv.naver.com/v/40048562</guid>
             <pubDate>Sat, 09 Sep 2023 04:18:57 GMT</pubDate>
             <content:encoded><![CDATA[8:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_153/nE5Z5_1694229970488IgVRL_JPEG/7c19d8b4-4ec0-11ee-9416-48df379cca40_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_246/PPACd_1694297705968UlQOj_PNG/1694297701291.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 주말 쾌청‥서쪽 중심 늦더위]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Sep 2023 04:18:57 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_239/m8Kf1_169422981808568a58_JPEG/cover_cover_noon_20230909_121815_1_3_Large_20230909122318842.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모로코 '규모 6.8' 지진‥"최소 296명 사망"]]></title>
-            <link>https://tv.naver.com/v/40048516</link>
-            <guid>https://tv.naver.com/v/40048516</guid>
-            <pubDate>Sat, 09 Sep 2023 04:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_1/8oCV8_1694229811406KFfw8_JPEG/cover_cover_noon_20230909_121815_1_2_Large_20230909122310799.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
