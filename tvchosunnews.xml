@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 06:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 07:15:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 09 Sep 2023 06:21:08 GMT</pubDate>
             <content:encoded><![CDATA[7:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_151/CK8LU_16942403478921PN03_JPEG/cover_2023090990033_thumb_031218_20230909151601491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명, 5번째 검찰 출석…건강이 조사 변수?]]></title>
+            <link>https://tv.naver.com/v/40052790</link>
+            <guid>https://tv.naver.com/v/40052790</guid>
+            <pubDate>Sat, 09 Sep 2023 07:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[44:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_234/i1TnP_16942410197073kzv6_JPEG/cover_2023090990027_thumb_030934_20230909151121262.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대전서 또 초등교사 숨져…"4년간 악성 민원 시달렸다"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Sep 2023 12:32:16 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_290/J1HAV_1694176010422pEKuF_JPEG/cover_2023090890164_thumb_092249_20230908212610990.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초등교사 또 극단 선택…가족·동료 "악성 민원 시달렸다"]]></title>
-            <link>https://tv.naver.com/v/40035641</link>
-            <guid>https://tv.naver.com/v/40035641</guid>
-            <pubDate>Fri, 08 Sep 2023 12:32:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_7/CRYS2_16941760249894931s_JPEG/cover_2023090890162_thumb_092129_20230908212601585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
