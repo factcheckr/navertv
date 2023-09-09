@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Sep 2023 23:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 01:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스토리] 시골로 간 MZ들]]></title>
+            <link>https://tv.naver.com/v/40045594</link>
+            <guid>https://tv.naver.com/v/40045594</guid>
+            <pubDate>Sat, 09 Sep 2023 01:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[24:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_94/KKn7c_1694217266930b2uhg_JPEG/cover_0001088403_001_20230909084101136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["중국, 전현직 미군 고용해 군사 정보 빼내"]]></title>
             <link>https://tv.naver.com/v/40045291</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Sep 2023 15:14:39 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230908_215/Wypx5_1694185027483oxmOU_JPEG/cover_0001088206_001_20230908235601155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D리포트] "화웨이 폰에 하이닉스 칩"…논란 속 주가 큰 폭 하락]]></title>
-            <link>https://tv.naver.com/v/40040875</link>
-            <guid>https://tv.naver.com/v/40040875</guid>
-            <pubDate>Fri, 08 Sep 2023 15:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230908_221/GlCac_16941850092012wV4E_JPEG/cover_0001088253_001_20230908235527661.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
