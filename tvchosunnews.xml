@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 06:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 07:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 10 Sep 2023 06:21:10 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230910_109/NLlJL_16943266176052Ojlb_JPEG/cover_2023091090012_thumb_031031_20230910151601648.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이재명, 11시간 만에 귀가…신문조서에 서명 거부]]></title>
+            <link>https://tv.naver.com/v/40076366</link>
+            <guid>https://tv.naver.com/v/40076366</guid>
+            <pubDate>Sun, 10 Sep 2023 07:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[48:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_197/xqQJm_1694327562520JvosC_JPEG/cover_2023091090010_thumb_030751_20230910151201624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["정치검찰, 범죄 조작" 비판한 이재명, 농성장 복귀]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Sep 2023 06:21:08 GMT</pubDate>
             <content:encoded><![CDATA[0:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_34/d60jP_1694240193054e5wLO_JPEG/cover_2023090990035_thumb_031407_20230909151611807.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잇따른 교사 비극…교권회복 위한 대책은?]]></title>
-            <link>https://tv.naver.com/v/40052890</link>
-            <guid>https://tv.naver.com/v/40052890</guid>
-            <pubDate>Sat, 09 Sep 2023 06:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[7:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_151/CK8LU_16942403478921PN03_JPEG/cover_2023090990033_thumb_031218_20230909151601491.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

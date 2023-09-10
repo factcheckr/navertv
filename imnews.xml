@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 06:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 07:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 케인 한 마디에 토트넘 팬들 극대노?!]]></title>
+            <link>https://tv.naver.com/v/40077995</link>
+            <guid>https://tv.naver.com/v/40077995</guid>
+            <pubDate>Sun, 10 Sep 2023 07:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_77/7uK1H_1694329505466hitvk_JPEG/cover_cover_230910_harrykane_thumb_640_20230910160405597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이재명 조사 중단‥검찰 "12일 재소환 통보"]]></title>
             <link>https://tv.naver.com/v/40073015</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Sep 2023 12:28:17 GMT</pubDate>
             <content:encoded><![CDATA[2:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230909_226/O9211_1694259544756AXHhW_JPEG/cover_cover_desk_20230909_202108_1_9_Large_20230909203806558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스데스크] 단식 10일차 이재명 8시간 조사‥"정치검찰]]></title>
-            <link>https://tv.naver.com/v/40061143</link>
-            <guid>https://tv.naver.com/v/40061143</guid>
-            <pubDate>Sat, 09 Sep 2023 12:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[33:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230909_273/e1PRN_1694259369938PMVy5_JPEG/f0181e59-4f04-11ee-8382-505dacfbaa5c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
