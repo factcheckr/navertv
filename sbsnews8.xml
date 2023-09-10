@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Sep 2023 20:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2023 21:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사망자 2,100명 넘어…마지막 골든타임 앞두고 구조 총력]]></title>
+            <link>https://tv.naver.com/v/40096756</link>
+            <guid>https://tv.naver.com/v/40096756</guid>
+            <pubDate>Sun, 10 Sep 2023 21:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_287/vY0SM_1694380341197F1uyb_JPEG/cover_0001088675_001_20230911061101136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/40096751</link>
+            <guid>https://tv.naver.com/v/40096751</guid>
+            <pubDate>Sun, 10 Sep 2023 21:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_268/4aCEE_16943802404337seG6_JPEG/cover_0001088674_001_20230911061001136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[민주당 "정치사냥 중단하라"…국힘 "단식쇼로 수사 방해"]]></title>
             <link>https://tv.naver.com/v/40090758</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 10 Sep 2023 06:20:22 GMT</pubDate>
             <content:encoded><![CDATA[1:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230910_10/PAww3_16943266775838q3gW_JPEG/cover_0001088604_001_20230910151701110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] '최고 30도' 낮더위 여전…경기·강원 곳곳 소나기]]></title>
-            <link>https://tv.naver.com/v/40073123</link>
-            <guid>https://tv.naver.com/v/40073123</guid>
-            <pubDate>Sun, 10 Sep 2023 03:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_206/gk1CK_1694315671704o4RVW_JPEG/cover_0001088575_001_20230910121401139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[G20 정상회의 마지막 날…우크라 지원 확대 등 설명 예정]]></title>
-            <link>https://tv.naver.com/v/40073089</link>
-            <guid>https://tv.naver.com/v/40073089</guid>
-            <pubDate>Sun, 10 Sep 2023 03:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230910_227/ieaEa_1694315577646vlHK2_JPEG/cover_0001088574_001_20230910121201145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
