@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 01:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 02:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["여긴 무슨 일로 오셨‥어어?!" 경찰도 깜짝 놀란 '최악의 선택']]></title>
+            <link>https://tv.naver.com/v/40100696</link>
+            <guid>https://tv.naver.com/v/40100696</guid>
+            <pubDate>Mon, 11 Sep 2023 02:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_64/jDtsm_1694396647019KtwPm_JPEG/cover_cover_Y230911-16_20230911104302531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[희귀곰 사살에 분노한 이탈리아 시민들]]></title>
             <link>https://tv.naver.com/v/40099395</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Sep 2023 01:10:51 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230911_151/b7sdo_1694391297162eMes3_JPEG/cover_cover_today_20230911_073739_2_22_Large_20230911091437380.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 싱가포르서 중국발 여객기 비상착륙]]></title>
-            <link>https://tv.naver.com/v/40098463</link>
-            <guid>https://tv.naver.com/v/40098463</guid>
-            <pubDate>Mon, 11 Sep 2023 01:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_181/NPTe4_1694391261273voLrI_JPEG/cover_cover_today_20230911_072612_2_19_Large_20230911091409992.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
