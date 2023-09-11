@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 17:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 18:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[광주관광공사 초대 사장 공모에 5명 지원]]></title>
+            <link>https://tv.naver.com/v/40144903</link>
+            <guid>https://tv.naver.com/v/40144903</guid>
+            <pubDate>Mon, 11 Sep 2023 18:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230912_66/FiTVT_1694454317664O8UUB_JPEG/cover_0011544589_001_20230912024506315.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘원전교부세’ 신설 촉구 서명 마무리…134만 명 동참]]></title>
+            <link>https://tv.naver.com/v/40144810</link>
+            <guid>https://tv.naver.com/v/40144810</guid>
+            <pubDate>Mon, 11 Sep 2023 18:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230912_117/r5ovL_1694453841555esnQf_JPEG/cover_0011536493_001_20230912023703118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생활임금 인상, 적용 실태 점검 촉구]]></title>
+            <link>https://tv.naver.com/v/40144788</link>
+            <guid>https://tv.naver.com/v/40144788</guid>
+            <pubDate>Mon, 11 Sep 2023 18:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230912_280/DTL3R_1694453721207K6QFe_JPEG/cover_0011563933_001_20230912023504277.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울산, 주유소 휘발유·경유 가격 9주 연속 상승]]></title>
             <link>https://tv.naver.com/v/40142749</link>
@@ -222,30 +246,6 @@
             <pubDate>Mon, 11 Sep 2023 15:17:43 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230911_218/j2ef3_1694443878730VDouL_JPEG/cover_0011563991_001_20230911235104174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조선-철강업체, 후판 가격 놓고 치열한 협상전]]></title>
-            <link>https://tv.naver.com/v/40140839</link>
-            <guid>https://tv.naver.com/v/40140839</guid>
-            <pubDate>Mon, 11 Sep 2023 15:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_223/6Ne1P_1694443857377Nwimi_JPEG/cover_0011563990_001_20230911235032878.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“울산 아파트 매매가격지수 6개월 연속 상승”]]></title>
-            <link>https://tv.naver.com/v/40140827</link>
-            <guid>https://tv.naver.com/v/40140827</guid>
-            <pubDate>Mon, 11 Sep 2023 15:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_150/lYLik_1694443835958CCf1k_JPEG/cover_0011563988_001_20230911235018724.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘원전교부세 신설 촉구’ 주민 서명부 국회에 전달]]></title>
-            <link>https://tv.naver.com/v/40140821</link>
-            <guid>https://tv.naver.com/v/40140821</guid>
-            <pubDate>Mon, 11 Sep 2023 15:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_160/PPaUN_1694443828579g5fmW_JPEG/cover_0011563987_001_20230911235011287.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
