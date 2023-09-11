@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Sep 2023 06:23:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 07:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건] 오늘의 주요 뉴스]]></title>
+            <link>https://tv.naver.com/v/40117085</link>
+            <guid>https://tv.naver.com/v/40117085</guid>
+            <pubDate>Mon, 11 Sep 2023 07:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[4:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_59/QLsPO_1694416311000LMmME_JPEG/cover_0011563633_001_20230911161009928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[직원에 “엎드려 뻗쳐” “살 빼라” 강요…더케이텍, 형사입건·과태료 부과]]></title>
             <link>https://tv.naver.com/v/40112210</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Sep 2023 04:20:06 GMT</pubDate>
             <content:encoded><![CDATA[1:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230911_68/ayUzN_1694403150755K92TR_JPEG/cover_0011563534_001_20230911123209951.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“냉장고, 현금으로 싸게” “재고는 단 2개!”…400여 명 넘어갔다]]></title>
-            <link>https://tv.naver.com/v/40105152</link>
-            <guid>https://tv.naver.com/v/40105152</guid>
-            <pubDate>Mon, 11 Sep 2023 04:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230911_214/uUzMN_16944030618299eiJ7_JPEG/cover_0011563533_001_20230911123020069.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
