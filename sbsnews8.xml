@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 20:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 21:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/40192591</link>
+            <guid>https://tv.naver.com/v/40192591</guid>
+            <pubDate>Tue, 12 Sep 2023 21:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_216/cNC0D_1694553047137vfbV1_JPEG/cover_0001089287_001_20230913061001135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방탄열차 계속 북으로…"오늘 푸틴과 정상 회담"]]></title>
             <link>https://tv.naver.com/v/40191697</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Sep 2023 13:21:06 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230912_176/Y8ljA_1694523764385jsFXV_JPEG/cover_0001089243_001_20230912220122825.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["'의문사' 고래, 몸속에 사람 100배 환경호르몬 축적"]]></title>
-            <link>https://tv.naver.com/v/40182244</link>
-            <guid>https://tv.naver.com/v/40182244</guid>
-            <pubDate>Tue, 12 Sep 2023 13:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230912_277/iRBg2_16945237802238R8fB_JPEG/cover_0001089247_001_20230912220112422.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
