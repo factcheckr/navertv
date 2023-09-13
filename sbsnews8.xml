@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 20:17:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 21:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/40239677</link>
+            <guid>https://tv.naver.com/v/40239677</guid>
+            <pubDate>Wed, 13 Sep 2023 21:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_237/ged9k_16946395007137H8e2_JPEG/cover_0001089615_001_20230914061101111.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소폭 개각…국방 신원식 · 문체 유인촌 · 여가 김행]]></title>
+            <link>https://tv.naver.com/v/40239446</link>
+            <guid>https://tv.naver.com/v/40239446</guid>
+            <pubDate>Wed, 13 Sep 2023 21:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_103/gdWuy_1694636756147EvEuX_JPEG/cover_0001089601_001_20230914052501143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 강서구 개화터널서 SUV 음주 사고…'면허 취소 수치']]></title>
             <link>https://tv.naver.com/v/40238187</link>
@@ -94,14 +110,6 @@
             <pubDate>Wed, 13 Sep 2023 16:20:27 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230914_170/h3JyJ_16946202646304eXn9_JPEG/cover_0001089602_001_20230914005001108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소폭 개각… 국방 신원식 · 문체 유인촌 · 여가 김행]]></title>
-            <link>https://tv.naver.com/v/40236907</link>
-            <guid>https://tv.naver.com/v/40236907</guid>
-            <pubDate>Wed, 13 Sep 2023 16:20:27 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_117/6Uah7_16946202012473RT60_JPEG/cover_0001089601_001_20230914004908981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다음 일정은…전투기 공장과 '핵잠' 조선소]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Sep 2023 13:20:57 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230913_215/YbDh3_1694610742007R10z1_JPEG/cover_0001089574_001_20230913221111889.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교섭 결렬…14일부터 나흘간 철도 파업]]></title>
-            <link>https://tv.naver.com/v/40230789</link>
-            <guid>https://tv.naver.com/v/40230789</guid>
-            <pubDate>Wed, 13 Sep 2023 13:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_145/LjRUt_1694610744664YyF8c_JPEG/cover_0001089575_001_20230913221101226.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
