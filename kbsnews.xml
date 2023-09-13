@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Sep 2023 13:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 14:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 낮 최고 26.4도…내일까지 10~60㎜ 비]]></title>
+            <link>https://tv.naver.com/v/40233683</link>
+            <guid>https://tv.naver.com/v/40233683</guid>
+            <pubDate>Wed, 13 Sep 2023 14:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_126/chCLd_1694614542240GXb2B_JPEG/cover_0011565676_001_20230913231506882.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“부산 청년 예산 5년간 7천억 원…효과 의문”]]></title>
             <link>https://tv.naver.com/v/40230780</link>
@@ -205,7 +213,7 @@
             <guid>https://tv.naver.com/v/40230520</guid>
             <pubDate>Wed, 13 Sep 2023 13:20:36 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_84/GTemu_1694610398727bEyQJ_JPEG/cover_0011565651_001_20230913220612629.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_247/UqYZN_1694612589182li6lO_JPEG/cover_0011565651_001_20230913220612629.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원주 부론산단사업 26일 착공…15년 만에 첫 삽]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Sep 2023 13:20:36 GMT</pubDate>
             <content:encoded><![CDATA[0:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230913_293/OYWbN_1694610326408E3gUV_JPEG/cover_0011565647_001_20230913220506304.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공급 이어지는 원주지역 아파트 미분양 급증]]></title>
-            <link>https://tv.naver.com/v/40230456</link>
-            <guid>https://tv.naver.com/v/40230456</guid>
-            <pubDate>Wed, 13 Sep 2023 13:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_19/B5Gup_1694610348476StKLR_JPEG/cover_0011565646_001_20230913220459145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
