@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 05:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 06:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미리보기] 9층시사국 : 당신의 부모님은 안녕하십니까? 外]]></title>
+            <link>https://tv.naver.com/v/40256418</link>
+            <guid>https://tv.naver.com/v/40256418</guid>
+            <pubDate>Thu, 14 Sep 2023 06:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_14/AGFux_16946701040497r9W3_JPEG/cover_0011566155_001_20230914144106562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 밤늦게부터 전국으로 비 확대]]></title>
             <link>https://tv.naver.com/v/40254802</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Sep 2023 04:19:22 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230914_284/MAMt5_1694662090323xTpBQ_JPEG/cover_0011566086_001_20230914122705169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, ‘대장동 인터뷰 의혹’ 뉴스타파·JTBC 압수수색]]></title>
-            <link>https://tv.naver.com/v/40249289</link>
-            <guid>https://tv.naver.com/v/40249289</guid>
-            <pubDate>Thu, 14 Sep 2023 04:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_125/aJC8P_1694661844567AgDic_JPEG/cover_0011566084_001_20230914122306438.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
