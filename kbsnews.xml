@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Sep 2023 20:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Sep 2023 21:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[철도노조 총파업 개시…열차 운행 차질]]></title>
+            <link>https://tv.naver.com/v/40287083</link>
+            <guid>https://tv.naver.com/v/40287083</guid>
+            <pubDate>Thu, 14 Sep 2023 21:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_246/SKgmH_1694725935044TCCv2_JPEG/cover_0011566620_001_20230915061104515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“문화유산도 산업”…세계 국가유산 산업전 열려]]></title>
             <link>https://tv.naver.com/v/40284289</link>
@@ -45,7 +53,7 @@
             <guid>https://tv.naver.com/v/40282825</guid>
             <pubDate>Thu, 14 Sep 2023 15:18:12 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_59/WijHz_16947041234273HQqK_JPEG/cover_0011566597_001_20230915000815221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_26/cVJ0A_16947235068131BwjV_JPEG/cover_0011566597_001_20230915000815221.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산불 피해 산주 한전 상대 일부 승소…9억 8천여만 원 배상]]></title>
@@ -61,7 +69,7 @@
             <guid>https://tv.naver.com/v/40282810</guid>
             <pubDate>Thu, 14 Sep 2023 15:18:12 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_259/bGnxt_16947041039028zqhg_JPEG/cover_0011566595_001_20230915000801326.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_273/VYWRs_1694723484280JUY8I_JPEG/cover_0011566595_001_20230915000801326.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제48회 정선아리랑제 개막…17일까지 열려]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Sep 2023 15:18:12 GMT</pubDate>
             <content:encoded><![CDATA[0:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230914_102/Q5P9C_1694701870042zjxAG_JPEG/cover_0011566570_001_20230914233050834.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[철도노조 파업으로 철도 운행 10~20% 감축]]></title>
-            <link>https://tv.naver.com/v/40281132</link>
-            <guid>https://tv.naver.com/v/40281132</guid>
-            <pubDate>Thu, 14 Sep 2023 15:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230914_160/KhfuC_1694701863757OHehE_JPEG/cover_0011566569_001_20230914233043502.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
