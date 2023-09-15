@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 21:15:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 22:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Fri, 15 Sep 2023 07:16:20 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230915_96/0IqNy_1694761351189qPiOo_JPEG/1694761153551.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 세계 최경량 산소호흡기 개발 백종태 우리웰 대표]]></title>
+            <link>https://tv.naver.com/v/40305757</link>
+            <guid>https://tv.naver.com/v/40305757</guid>
+            <pubDate>Fri, 15 Sep 2023 22:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[9:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_54/Zf9PW_1694761059174ddesH_JPEG/1694761027464.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라 "북, 러에 이미 탄약 공급 중…한달반 전 선적 시작"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Sep 2023 03:17:35 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230913_11/ywC4K_1694579290313z3ahf_JPEG/1694579287731.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[야외 결혼 파티가 한 마을 통째로 구했다…모로코의 기적]]></title>
-            <link>https://tv.naver.com/v/40200354</link>
-            <guid>https://tv.naver.com/v/40200354</guid>
-            <pubDate>Wed, 13 Sep 2023 03:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230913_63/4iSbN_1694573752035U5ebD_JPEG/1694573564712.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
