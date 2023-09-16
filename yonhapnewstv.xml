@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 06:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 07:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 남부 호우특보 확대…전남해안 200㎜↑ 호우]]></title>
+            <link>https://tv.naver.com/v/40340041</link>
+            <guid>https://tv.naver.com/v/40340041</guid>
+            <pubDate>Sat, 16 Sep 2023 07:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_91/P6yXl_1694847080632kyhOT_JPEG/cover_cover_MYH20230916007900641_20230916155005355.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[울산 주물공장 용광로 쇳물 분출…작업자 1명 사망]]></title>
             <link>https://tv.naver.com/v/40339121</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Sep 2023 04:19:32 GMT</pubDate>
             <content:encoded><![CDATA[1:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230916_57/4mPpZ_1694835536484KObrU_JPEG/cover_cover_MYH20230916004700641_20230916123804430.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해 HUG가 갚아준 전세금 1.6조…회수 15%뿐]]></title>
-            <link>https://tv.naver.com/v/40335127</link>
-            <guid>https://tv.naver.com/v/40335127</guid>
-            <pubDate>Sat, 16 Sep 2023 04:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_236/VEvrs_16948352043862vo6q_JPEG/cover_cover_MYH20230916004500641_20230916123301869.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
