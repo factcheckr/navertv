@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 05:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 06:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]희대의 대선 공작? ‘조우형’을 알아야 풀린다]]></title>
+            <link>https://tv.naver.com/v/40338667</link>
+            <guid>https://tv.naver.com/v/40338667</guid>
+            <pubDate>Sat, 16 Sep 2023 06:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[19:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_262/DE7ki_1694844563959XBtQM_JPEG/cover_0000257797_001_20230916150101482.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상]아시안게임 D-8 “나는 대한민국 국가대표다”]]></title>
             <link>https://tv.naver.com/v/40334628</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Sep 2023 11:15:29 GMT</pubDate>
             <content:encoded><![CDATA[9:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230915_78/skgG7_1694774390689CB0GL_JPEG/cover_0000257766_001_20230915193601573.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“표결 때 50명만 남기자”…이재명 체포안 부결 작전?]]></title>
-            <link>https://tv.naver.com/v/40315906</link>
-            <guid>https://tv.naver.com/v/40315906</guid>
-            <pubDate>Fri, 15 Sep 2023 11:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[9:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_121/zqGra_1694774389130UBjCH_JPEG/cover_0000257765_001_20230915193546064.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
