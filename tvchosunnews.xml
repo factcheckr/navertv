@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 01:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 02:21:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스야?!] 선생님은 공익제보자?]]></title>
+            <link>https://tv.naver.com/v/40333080</link>
+            <guid>https://tv.naver.com/v/40333080</guid>
+            <pubDate>Sat, 16 Sep 2023 02:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[7:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_235/aMIMM_1694830130353amqp4_PNG/cover_2023061090084_thumb_110152_20230916110603443.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[文정부 국토부 "협조 안하면 예산·조직 날려버리겠다"]]></title>
             <link>https://tv.naver.com/v/40323881</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Sep 2023 11:15:21 GMT</pubDate>
             <content:encoded><![CDATA[3:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230915_203/Ge954_1694776351806s3cxt_JPEG/cover_2023091490224_thumb_080828_20230915201101487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[박정훈 앵커의 한마디] 그때는 맞고 지금은 틀리다]]></title>
-            <link>https://tv.naver.com/v/40316746</link>
-            <guid>https://tv.naver.com/v/40316746</guid>
-            <pubDate>Fri, 15 Sep 2023 11:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_255/7LcCf_1694775448294QS2Y0_JPEG/cover_2023091590174_thumb_075412_20230915195634001.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
