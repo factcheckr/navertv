@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Sep 2023 02:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Sep 2023 03:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]아시안게임 D-8 “나는 대한민국 국가대표다”]]></title>
+            <link>https://tv.naver.com/v/40334628</link>
+            <guid>https://tv.naver.com/v/40334628</guid>
+            <pubDate>Sat, 16 Sep 2023 03:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_261/K0Klx_1694833991594V4noO_JPEG/cover_0000257793_001_20230916121101491.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[여랑야랑]신원식 ‘싸움꾼 후보자?’ / 하루에 시장 두 번 / 흉기 난동, 연달아 두 번]]></title>
             <link>https://tv.naver.com/v/40317710</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Sep 2023 11:15:29 GMT</pubDate>
             <content:encoded><![CDATA[9:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230915_121/zqGra_1694774389130UBjCH_JPEG/cover_0000257765_001_20230915193546064.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 단식 16일째…최측근 “눈 흐릿, 한계 넘긴 듯”]]></title>
-            <link>https://tv.naver.com/v/40315893</link>
-            <guid>https://tv.naver.com/v/40315893</guid>
-            <pubDate>Fri, 15 Sep 2023 11:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[13:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230915_67/wEhXy_1694774504025v8MpQ_JPEG/cover_0000257764_001_20230915193528637.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
