@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 20:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 21:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/40385076</link>
+            <guid>https://tv.naver.com/v/40385076</guid>
+            <pubDate>Sun, 17 Sep 2023 21:13:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_195/AReT6_1694985046779boTDC_JPEG/cover_0001090478_001_20230918061001139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["북러 군사협력 UN 결의 위반…핵공격 시 북 정권 종말"]]></title>
             <link>https://tv.naver.com/v/40380442</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Sep 2023 04:19:21 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230917_174/ActN4_1694922002987kobkx_JPEG/cover_0001090385_001_20230917123901128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스브스뉴스] 지지율 떨어졌다고 나라 이름 바꾸는 인도 총리?]]></title>
-            <link>https://tv.naver.com/v/40360020</link>
-            <guid>https://tv.naver.com/v/40360020</guid>
-            <pubDate>Sun, 17 Sep 2023 02:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[4:26]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_91/8pTjp_1694916350556A0q8B_JPEG/cover_0001090367_001_20230917110301123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
