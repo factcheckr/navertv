@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Sep 2023 05:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 06:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]“윤석열이 그냥 봐줬지”, ‘김만배 녹취록’ 진실은?]]></title>
+            <link>https://tv.naver.com/v/40364866</link>
+            <guid>https://tv.naver.com/v/40364866</guid>
+            <pubDate>Sun, 17 Sep 2023 06:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[27:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230917_102/vu9Ls_1694931144874sawKo_JPEG/cover_0000257858_001_20230917150201588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 전략무기 시찰한 김정은…가장 탐내는 무기는?]]></title>
             <link>https://tv.naver.com/v/40362759</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Sep 2023 11:13:50 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230916_135/KoPO4_16948624167865ssmR_JPEG/cover_0000257818_001_20230916200523538.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“우리도 진수했다”…김정은, 쇼이구 장관에 핵잠수함 자랑]]></title>
-            <link>https://tv.naver.com/v/40347058</link>
-            <guid>https://tv.naver.com/v/40347058</guid>
-            <pubDate>Sat, 16 Sep 2023 11:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230916_57/2EVND_1694862390044qgYH8_JPEG/cover_0000257817_001_20230916200514037.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
