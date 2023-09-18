@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 01:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 02:24:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBC 중계방송] 국회 교섭단체 대표연설, 박광온 더불어민]]></title>
+            <link>https://tv.naver.com/v/40389441</link>
+            <guid>https://tv.naver.com/v/40389441</guid>
+            <pubDate>Mon, 18 Sep 2023 02:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[56:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_97/g12XU_1695001870544rHamz_JPEG/b54dd886-55c5-11ee-bae1-505dac8c38f5_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[집중취재M] '학대 피해서 나왔는데'‥쉼터 괴롭힘에 다시 무너지는 청소년들]]></title>
             <link>https://tv.naver.com/v/40387964</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Sep 2023 23:16:24 GMT</pubDate>
             <content:encoded><![CDATA[0:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230918_287/H6lrd_1694991760775FEXzr_JPEG/cover_cover_today_20230918_072813_2_28_Large_20230918080224868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문화연예 플러스] "30분 한다더니 10분 공연"‥지코 팬 분통]]></title>
-            <link>https://tv.naver.com/v/40385881</link>
-            <guid>https://tv.naver.com/v/40385881</guid>
-            <pubDate>Sun, 17 Sep 2023 23:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230918_216/32Ohg_1694991753274IEueD_JPEG/cover_cover_today_20230918_072647_2_27_Large_20230918080215925.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
