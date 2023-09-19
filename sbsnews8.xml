@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Sep 2023 20:19:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 21:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/40485083</link>
+            <guid>https://tv.naver.com/v/40485083</guid>
+            <pubDate>Tue, 19 Sep 2023 21:14:55 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_249/Gb2Y5_1695158022506IIB41_JPEG/cover_0001091096_001_20230920061301119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[체포동의안 국회로…총리 해임안과 내일 표결]]></title>
             <link>https://tv.naver.com/v/40484049</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Sep 2023 13:20:39 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230919_208/Tt1n0_1695128467373ukDw0_JPEG/cover_0001091057_001_20230919215932405.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신유빈 항저우 입성…"만리장성 넘을게요"]]></title>
-            <link>https://tv.naver.com/v/40473155</link>
-            <guid>https://tv.naver.com/v/40473155</guid>
-            <pubDate>Tue, 19 Sep 2023 13:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230919_260/LUq3A_1695128437874e3oRd_JPEG/cover_0001091065_001_20230919215921985.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
