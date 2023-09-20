@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 18:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 19:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상]윤석열 대통령 유엔총회 기조연설]]></title>
+            <link>https://tv.naver.com/v/40535728</link>
+            <guid>https://tv.naver.com/v/40535728</guid>
+            <pubDate>Wed, 20 Sep 2023 19:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[15:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_154/V6gqm_1695236264819g0QVT_JPEG/cover_0000258137_001_20230921035101586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차 19대 들이받은 음주 차량…실탄 6발 쏴 검거]]></title>
             <link>https://tv.naver.com/v/40523027</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 20 Sep 2023 11:15:32 GMT</pubDate>
             <content:encoded><![CDATA[10:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230920_90/fX4Xs_1695206863053zcogs_JPEG/cover_0000258103_001_20230920194320110.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“李에 대북송금 17차례 보고”…검찰 “무기징역도 가능”]]></title>
-            <link>https://tv.naver.com/v/40517293</link>
-            <guid>https://tv.naver.com/v/40517293</guid>
-            <pubDate>Wed, 20 Sep 2023 11:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[11:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_110/pxfFt_1695206901500OJoTf_JPEG/cover_0000258102_001_20230920194301483.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
