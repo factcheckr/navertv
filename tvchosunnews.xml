@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 03:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 04:21:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 주유소에 불 붙인 남성…마약 간이검사 '양성']]></title>
+            <link>https://tv.naver.com/v/40496549</link>
+            <guid>https://tv.naver.com/v/40496549</guid>
+            <pubDate>Wed, 20 Sep 2023 04:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[1:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_100/57ugj_1695183417391voAUo_JPEG/cover_2023092090073_thumb_011143_20230920131603338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["이재명, 텔레그램으로 변론요지서 보내며 '허위증언' 종용"]]></title>
             <link>https://tv.naver.com/v/40487823</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Sep 2023 15:19:06 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230919_50/BVjXF_1695133334983KrXAU_JPEG/cover_2023091990209_thumb_111823_20230919232119884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인터넷 최대속도 50% 안되면 요금감면?…사용자 85% '모른다']]></title>
-            <link>https://tv.naver.com/v/40477001</link>
-            <guid>https://tv.naver.com/v/40477001</guid>
-            <pubDate>Tue, 19 Sep 2023 15:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230919_185/ZO4ui_16951333281342wCQ7_JPEG/cover_2023091990215_thumb_111823_20230919232111879.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
