@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 06:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 07:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/40503615</link>
+            <guid>https://tv.naver.com/v/40503615</guid>
+            <pubDate>Wed, 20 Sep 2023 07:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_87/0xKIo_16951918648768cxgO_JPEG/cover_cover_20230920153221_20_845_1338822_1080_7_20230920153701145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정치와이드] 이재명 손잡고 단식 만류한 문 전 대통령…평가는?]]></title>
             <link>https://tv.naver.com/v/40497500</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Sep 2023 23:17:25 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230920_39/9Ngfj_1695164991408snf89_JPEG/cover_cover_20230920080549_20_605_1338795_1080_7_20230920080903173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 20일 굿모닝 MBN 클로징]]></title>
-            <link>https://tv.naver.com/v/40486198</link>
-            <guid>https://tv.naver.com/v/40486198</guid>
-            <pubDate>Tue, 19 Sep 2023 23:17:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230920_188/iq03b_1695164594082Brs8u_JPEG/cover_cover_20230920075921_20_605_1338790_1080_7_20230920080301128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
