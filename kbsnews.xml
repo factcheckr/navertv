@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 05:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 06:23:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 대전 신협 강도, 베트남 출국 30일 만에 송환…“죄송합니다”]]></title>
+            <link>https://tv.naver.com/v/40552499</link>
+            <guid>https://tv.naver.com/v/40552499</guid>
+            <pubDate>Thu, 21 Sep 2023 06:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_52/3tjXz_1695275880579uHyTW_PNG/cover_0011570905_001_20230921145714378.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 강원 영동 오전까지 비 조금…해안가 강한 바람]]></title>
+            <link>https://tv.naver.com/v/40551596</link>
+            <guid>https://tv.naver.com/v/40551596</guid>
+            <pubDate>Thu, 21 Sep 2023 06:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_199/u8MS4_1695274957173AJr5p_JPEG/cover_0011570757_001_20230921144205224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 밤부터 기온 크게 내려가요]]></title>
             <link>https://tv.naver.com/v/40549961</link>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 21 Sep 2023 04:19:54 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230921_278/8VxV4_16952670520693Oiia_JPEG/cover_0011570832_001_20230921123005784.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추경호 경제부총리 “고금리 장기화 가능성 주시…9월 위기설 근거 없어”]]></title>
-            <link>https://tv.naver.com/v/40544964</link>
-            <guid>https://tv.naver.com/v/40544964</guid>
-            <pubDate>Thu, 21 Sep 2023 04:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_55/qgqcR_16952665683392AvRa_JPEG/cover_0011570828_001_20230921122224827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 연준 금리 동결…파월 “고금리 더 오래 간다”]]></title>
-            <link>https://tv.naver.com/v/40544957</link>
-            <guid>https://tv.naver.com/v/40544957</guid>
-            <pubDate>Thu, 21 Sep 2023 04:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_261/fErBC_1695266596889WijJx_JPEG/cover_0011570827_001_20230921122215222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
