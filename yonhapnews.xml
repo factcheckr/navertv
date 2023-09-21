@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 21:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 22:16:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Thu, 21 Sep 2023 05:16:55 GMT</pubDate>
             <content:encoded><![CDATA[2:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230921_273/WH0m0_1695272028937zISWm_JPEG/1695271739946.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스타트업 발언대] 서울대 학내 소셜벤처 시공간 오주상 대표]]></title>
+            <link>https://tv.naver.com/v/40548205</link>
+            <guid>https://tv.naver.com/v/40548205</guid>
+            <pubDate>Thu, 21 Sep 2023 22:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[9:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_240/eSIWa_16952712377299bd3g_JPEG/1695271207018.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스라엘 주유엔 대사, 이란대통령 면전 '히잡의문사' 기습시위]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 19 Sep 2023 09:17:35 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230919_167/WMsV3_1695112311911kX5qK_JPEG/1695112294679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나 누군지 몰라?"…담배 피우고 '손가락욕' 진상관객에 미 시끌]]></title>
-            <link>https://tv.naver.com/v/40461624</link>
-            <guid>https://tv.naver.com/v/40461624</guid>
-            <pubDate>Tue, 19 Sep 2023 09:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230919_129/FPDj4_16951122714022S4wF_JPEG/1695112256532.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
