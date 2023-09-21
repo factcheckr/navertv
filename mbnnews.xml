@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 07:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 08:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] 이재명 신상 대신 '병상 발언' "최선을 다하면...바꿀 수 있다"_뉴플리_민지숙]]></title>
+            <link>https://tv.naver.com/v/40558938</link>
+            <guid>https://tv.naver.com/v/40558938</guid>
+            <pubDate>Thu, 21 Sep 2023 08:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[21:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_257/XJDSE_1695283704520pgFeB_JPEG/cover_cover_20230921165142_20_812_1338944_1080_7_20230921165701152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김주하 AI]]></title>
             <link>https://tv.naver.com/v/40554921</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Sep 2023 01:11:01 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230921_166/DY102_1695255962527LVgXO_JPEG/cover_cover_20230920195238_20_552_1338865_1080_7_20230921092503459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9월 21일 굿모닝 MBN 클로징]]></title>
-            <link>https://tv.naver.com/v/40537296</link>
-            <guid>https://tv.naver.com/v/40537296</guid>
-            <pubDate>Wed, 20 Sep 2023 23:17:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_153/pJHgE_1695251472893LnA2a_JPEG/cover_cover_20230921080547_20_605_1338908_1080_7_20230921081101148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
