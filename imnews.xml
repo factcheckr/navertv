@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 01:11:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 02:24:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤 대통령 "가짜뉴스 못 막으면 자유민주주의 위협"]]></title>
+            <link>https://tv.naver.com/v/40586962</link>
+            <guid>https://tv.naver.com/v/40586962</guid>
+            <pubDate>Fri, 22 Sep 2023 02:22:58 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_152/js8we_1695347114218h2vOo_JPEG/cover_cover_joo230922_n3_20230922104502050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 큰 일교차 조심‥주말 쾌청한 하늘]]></title>
             <link>https://tv.naver.com/v/40585095</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Sep 2023 22:15:25 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_89/FXZHK_1695333954311DWeWK_JPEG/cover_cover_today_20230922_065158_2_16_Large_20230922070517511.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대법원, '계곡살인' 이은해 무기징역 확정]]></title>
-            <link>https://tv.naver.com/v/40582729</link>
-            <guid>https://tv.naver.com/v/40582729</guid>
-            <pubDate>Thu, 21 Sep 2023 22:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[0:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_49/B6kHz_1695333926088ui17U_JPEG/cover_cover_today_20230922_065032_2_15_Large_20230922070509542.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
