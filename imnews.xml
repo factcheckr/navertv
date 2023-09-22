@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 14:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 15:18:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] [항저우AG] 동료도 기자도 빵! 터트린 이강인]]></title>
+            <link>https://tv.naver.com/v/40618746</link>
+            <guid>https://tv.naver.com/v/40618746</guid>
+            <pubDate>Fri, 22 Sep 2023 15:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[5:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_123/l2d7z_1695392760741c7523_JPEG/cover_cover_230922_Lee_thumb_640_20230922232404246.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뉴스데스크 클로징]]></title>
             <link>https://tv.naver.com/v/40618219</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Sep 2023 08:21:07 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_142/YmM1z_1695369486064PCK3s_JPEG/cover_cover_joo230922_vo6_20230922165702039.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[뉴스외전 경제 '쏙'] 연준 파월은 왜 강력한 긴축 의지 드러냈을까?]]></title>
-            <link>https://tv.naver.com/v/40602326</link>
-            <guid>https://tv.naver.com/v/40602326</guid>
-            <pubDate>Fri, 22 Sep 2023 08:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[19:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_144/uj50B_1695367942837OOjHu_JPEG/cover_cover_14news_20230922_154214_1_14_Large_20230922162805040.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
