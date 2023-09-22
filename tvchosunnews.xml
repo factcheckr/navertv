@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 10:20:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 11:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[9월 22일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/40610933</link>
+            <guid>https://tv.naver.com/v/40610933</guid>
+            <pubDate>Fri, 22 Sep 2023 11:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_51/O0HSL_1695380203056TrEB5_JPEG/cover_2023092290157_thumb_075048_20230922195601581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[씨박스] 119 구조대 눈앞에서 폭우에 떠내려간 여성]]></title>
             <link>https://tv.naver.com/v/40605100</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 21 Sep 2023 13:21:55 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230921_74/bvrbs_169530104411974C3l_JPEG/cover_2023092190224_thumb_095017_20230921215601615.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[티조 Clip] 계속된 민주당 고성에 국회의장 '대폭발']]></title>
-            <link>https://tv.naver.com/v/40570057</link>
-            <guid>https://tv.naver.com/v/40570057</guid>
-            <pubDate>Thu, 21 Sep 2023 12:34:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230921_177/7Ej2o_1695298015565LWcnW_JPEG/cover_2023092190239_thumb_090140_20230921210601586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
