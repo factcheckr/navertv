@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 12:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 13:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명, 단식 24일 차에 결국 중단..."의료진이 강력 권고"]]></title>
+            <link>https://tv.naver.com/v/40642411</link>
+            <guid>https://tv.naver.com/v/40642411</guid>
+            <pubDate>Sat, 23 Sep 2023 13:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_215/xEMB1_1695473898102HA2oj_JPEG/cover_cover_202309232147197837_t_20230923215702065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해병대, 서울수복 기념행사 개최..."자유·평화 의미 되새겨"]]></title>
             <link>https://tv.naver.com/v/40641737</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Sep 2023 09:15:47 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230923_201/Q233Y_1695460406837FOutJ_JPEG/cover_cover_202309231620135371_t_20230923181301681.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해병대 예비역, '채 상병 사건' 진실 규명 촉구]]></title>
-            <link>https://tv.naver.com/v/40637033</link>
-            <guid>https://tv.naver.com/v/40637033</guid>
-            <pubDate>Sat, 23 Sep 2023 09:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_224/fUseE_1695460280573aD81S_JPEG/cover_cover_202309231620360504_t_20230923181101917.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
