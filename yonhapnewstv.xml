@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 19:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 20:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 617회]]></title>
+            <link>https://tv.naver.com/v/40648536</link>
+            <guid>https://tv.naver.com/v/40648536</guid>
+            <pubDate>Sat, 23 Sep 2023 20:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[30:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230924_261/57UoF_1695499986506zXdNB_JPEG/cover_cover_MYH20230922015700641_20230924050101713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라, 사흘 연속 크림반도 공격…러 흑해함대 본부에 미사일]]></title>
             <link>https://tv.naver.com/v/40641835</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 23 Sep 2023 09:15:28 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230923_165/kNjgr_1695459053219gnwBd_JPEG/cover_cover_MYH20230923009100641_20230923175003845.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[헤이!월드] 헬리콥터로 대형 나초를 콕콕! 치즈가 쭈~욱! 外]]></title>
-            <link>https://tv.naver.com/v/40636477</link>
-            <guid>https://tv.naver.com/v/40636477</guid>
-            <pubDate>Sat, 23 Sep 2023 09:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[11:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_27/c6WHZ_1695459292235HIFoU_JPEG/cover_cover_MYH20230923008900641_20230923174701928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
