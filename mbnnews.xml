@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 08:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 09:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스와이드] 이재명, 24일간의 단식 중단…"법원 출석 등 외부일정 소화"]]></title>
+            <link>https://tv.naver.com/v/40635749</link>
+            <guid>https://tv.naver.com/v/40635749</guid>
+            <pubDate>Sat, 23 Sep 2023 09:16:14 GMT</pubDate>
+            <content:encoded><![CDATA[59:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_247/eX9rC_16954573141530c5yF_JPEG/cover_cover_20230923170403_20_675_1339101_1080_7_20230923171601148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스와이드] 여야 모두 사활 걸었다…강서구청장 재보궐 전망]]></title>
             <link>https://tv.naver.com/v/40635723</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Sep 2023 11:15:14 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_150/hhh4w_1695378705834iD9xp_JPEG/cover_cover_20230922192705_20_552_1339065_1080_7_20230922193101180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[41개국 양자회담·2개 연합 오만찬…엑스포 유치 '강행군']]></title>
-            <link>https://tv.naver.com/v/40610062</link>
-            <guid>https://tv.naver.com/v/40610062</guid>
-            <pubDate>Fri, 22 Sep 2023 11:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_232/bDNRw_1695378604833iE5qO_JPEG/cover_cover_20230922192519_20_552_1339064_1080_7_20230922192901145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
