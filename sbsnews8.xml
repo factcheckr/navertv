@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 02:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 03:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D리포트] 탈출 조종사 구조 요청 전화 공개]]></title>
+            <link>https://tv.naver.com/v/40628368</link>
+            <guid>https://tv.naver.com/v/40628368</guid>
+            <pubDate>Sat, 23 Sep 2023 03:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_290/VGMdo_1695438332414I3v6t_JPEG/cover_0001092096_001_20230923120401149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스브스뉴스] 정장만 고집하던 국가대표 단복, 이번엔 싹 바뀐 이유?]]></title>
             <link>https://tv.naver.com/v/40627134</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Sep 2023 13:20:49 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_292/ZkTn7_1695387934201YW9l4_JPEG/cover_0001091981_001_20230922220422103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[26일 이재명 영장심사…검찰, 증거 인멸 우려 강조할 듯]]></title>
-            <link>https://tv.naver.com/v/40615760</link>
-            <guid>https://tv.naver.com/v/40615760</guid>
-            <pubDate>Fri, 22 Sep 2023 13:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_227/qRigP_16953879560101wNX1_JPEG/cover_0001091982_001_20230922220411718.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
