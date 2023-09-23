@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 23:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 01:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스토리] 한류 중심, 이젠 '웹툰']]></title>
+            <link>https://tv.naver.com/v/40624834</link>
+            <guid>https://tv.naver.com/v/40624834</guid>
+            <pubDate>Sat, 23 Sep 2023 01:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[24:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_98/uM2mH_16954265942696Efe8_JPEG/cover_0001092049_001_20230923083801168.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[황당 오심에 발목 잡힌 SSG…1루심 징계]]></title>
             <link>https://tv.naver.com/v/40624621</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Sep 2023 13:20:49 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_177/p7uGc_1695387919239pCrAc_JPEG/cover_0001091984_001_20230922220401169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['페트병 사건' 학부모 직장에 근조 화환…대기 발령 조치]]></title>
-            <link>https://tv.naver.com/v/40615733</link>
-            <guid>https://tv.naver.com/v/40615733</guid>
-            <pubDate>Fri, 22 Sep 2023 13:20:49 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_240/3ZUjk_1695387886789uzKYO_JPEG/cover_0001091985_001_20230922220341990.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
