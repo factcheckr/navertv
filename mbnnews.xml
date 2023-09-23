@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Sep 2023 20:17:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Sep 2023 21:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[438회_추석 연휴 안전사고 예방요령]]></title>
+            <link>https://tv.naver.com/v/40648638</link>
+            <guid>https://tv.naver.com/v/40648638</guid>
+            <pubDate>Sat, 23 Sep 2023 21:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[15:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230924_174/H6V4Y_1695502223700CjaRD_JPEG/cover_cover_20230924053752_20_849_1339124_1080_7_20230924054201192.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨]내일도 완연한 초가을…전국 맑고 일교차 커]]></title>
             <link>https://tv.naver.com/v/40639890</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Sep 2023 12:33:28 GMT</pubDate>
             <content:encoded><![CDATA[1:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_275/B1hhN_1695383012835ObL6J_JPEG/cover_cover_20230922201553_20_552_1339084_1080_7_20230922204301144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['윤관석 발부'·'이성만 기각' 유창훈 부장판사…"유달리 꼼꼼"]]></title>
-            <link>https://tv.naver.com/v/40612517</link>
-            <guid>https://tv.naver.com/v/40612517</guid>
-            <pubDate>Fri, 22 Sep 2023 12:33:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_96/HrTNb_1695382927535pVuU5_JPEG/cover_cover_20230922191702_20_552_1339061_1080_7_20230922204101166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
