@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 07:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 08:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이재명, 24일째에 '단식 중단'…득과 실은?]]></title>
+            <link>https://tv.naver.com/v/40659303</link>
+            <guid>https://tv.naver.com/v/40659303</guid>
+            <pubDate>Sun, 24 Sep 2023 08:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[41:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230924_164/coFhm_1695542208151YUrtl_JPEG/cover_2023092490009_thumb_043544_20230924164101480.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송파·김포 등 3곳서 일가족 5명 동시 사망…경찰, 타살 혐의점 조사]]></title>
             <link>https://tv.naver.com/v/40657827</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 22 Sep 2023 13:21:39 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230922_140/g0d4e_1695388021390VPMEa_JPEG/cover_2023092290211_thumb_100403_20230922220610624.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['구속기로' 이재명 26일 영장심사…檢, 증거기록 700쪽 준비]]></title>
-            <link>https://tv.naver.com/v/40615844</link>
-            <guid>https://tv.naver.com/v/40615844</guid>
-            <pubDate>Fri, 22 Sep 2023 13:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230922_178/y6s1x_1695388024439OD9sa_JPEG/cover_2023092290179_thumb_100041_20230922220601548.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
