@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Sep 2023 02:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Sep 2023 03:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20230923_200/GSVR9_1695464603634EzlSy_JPEG/cover_0000258297_001_20230923192216703.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[‘한동훈·유창훈 동기설’ 제기한 김의겸 “취재에 구멍…”]]></title>
-            <link>https://tv.naver.com/v/40638744</link>
-            <guid>https://tv.naver.com/v/40638744</guid>
-            <pubDate>Sat, 23 Sep 2023 11:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[6:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_153/chewn_1695464704350L7i6x_JPEG/cover_0000258295_001_20230923192203410.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[구속 기로에 선 이재명…영장심사 당일 출석할 듯]]></title>
             <link>https://tv.naver.com/v/40638734</link>
             <guid>https://tv.naver.com/v/40638734</guid>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 23 Sep 2023 07:15:12 GMT</pubDate>
             <content:encoded><![CDATA[27:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230923_250/eNYd9_1695451183960R3BNl_JPEG/cover_0000258287_001_20230923152901530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘의 영상]‘목표는 금메달 3개’…모레부터 메달 사냥]]></title>
+            <link>https://tv.naver.com/v/40632962</link>
+            <guid>https://tv.naver.com/v/40632962</guid>
+            <pubDate>Sun, 24 Sep 2023 03:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230923_97/gGM30_169545024307673pHD_JPEG/cover_0000258290_001_20230923152301517.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
