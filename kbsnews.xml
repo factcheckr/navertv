@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 20:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 21:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구속 기로에 선 이재명…오늘 오전 10시 구속심사]]></title>
+            <link>https://tv.naver.com/v/40718787</link>
+            <guid>https://tv.naver.com/v/40718787</guid>
+            <pubDate>Mon, 25 Sep 2023 21:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[2:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_32/bgayb_1695676367747ylQgN_JPEG/cover_0011573284_001_20230926061201146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스초대석] 가야 고분군 세계유산 등재…고령의 역할은?]]></title>
             <link>https://tv.naver.com/v/40718391</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Sep 2023 15:18:04 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_29/nrpN2_1695653904887Yh822_JPEG/cover_0011573241_001_20230925235808358.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산 주유소 휘발유·경유 가격 11주 연속 상승]]></title>
-            <link>https://tv.naver.com/v/40713913</link>
-            <guid>https://tv.naver.com/v/40713913</guid>
-            <pubDate>Mon, 25 Sep 2023 15:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_197/BmRSN_1695653895558Onl9s_JPEG/cover_0011573240_001_20230925235801216.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
