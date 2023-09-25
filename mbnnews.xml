@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 06:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 07:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/40691614</link>
+            <guid>https://tv.naver.com/v/40691614</guid>
+            <pubDate>Mon, 25 Sep 2023 07:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_219/LxBRZ_16956234934809F9iF_JPEG/cover_cover_20230925152621_20_845_1339209_1080_7_20230925153101149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 흑인 소녀만 '쏙' 빼고 메달 수여…체조대회 인종차별 논란]]></title>
             <link>https://tv.naver.com/v/40687440</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 24 Sep 2023 23:16:57 GMT</pubDate>
             <content:encoded><![CDATA[0:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_176/LYls2_16955971029082TIIe_JPEG/cover_cover_20230925080840_20_605_1339172_1080_7_20230925081101123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]환경단체 '페인트 시위', 이번엔 베를린 마라톤?]]></title>
-            <link>https://tv.naver.com/v/40676298</link>
-            <guid>https://tv.naver.com/v/40676298</guid>
-            <pubDate>Sun, 24 Sep 2023 23:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_226/Zuja7_1695596750683EBIvh_JPEG/cover_cover_20230925080255_20_605_1339171_1080_7_20230925080503209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
