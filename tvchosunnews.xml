@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 14:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 15:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[신동욱 앵커의 시선] 십자가를 밟아라]]></title>
+            <link>https://tv.naver.com/v/40712283</link>
+            <guid>https://tv.naver.com/v/40712283</guid>
+            <pubDate>Mon, 25 Sep 2023 15:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_48/QkNOH_1695651482536197Xy_JPEG/cover_2023092590238_thumb_111055_20230925231616259.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[9월 25일 '뉴스 9' 클로징]]></title>
             <link>https://tv.naver.com/v/40712277</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Sep 2023 05:17:04 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_257/05nwj_1695616310359B6SlP_JPEG/cover_2023092590110_thumb_012719_20230925133101492.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['화폭에 담긴 일상·풍경'…국립아시아문화전당 가을철 새 전시회]]></title>
-            <link>https://tv.naver.com/v/40677706</link>
-            <guid>https://tv.naver.com/v/40677706</guid>
-            <pubDate>Mon, 25 Sep 2023 01:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_278/9nL4s_1695602519465fGr4l_JPEG/cover_2023092590058_thumb_093555_20230925094101576.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
