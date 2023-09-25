@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 07:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 08:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘송파 일가족 사망’ 2명은 타살 정황…오늘 부검]]></title>
+            <link>https://tv.naver.com/v/40695401</link>
+            <guid>https://tv.naver.com/v/40695401</guid>
+            <pubDate>Mon, 25 Sep 2023 08:23:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_63/jjR8H_1695627960045orxtb_JPEG/cover_0000258417_001_20230925164501492.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[조국 “요직에 검찰 출신들”…尹 정부 직격]]></title>
             <link>https://tv.naver.com/v/40687663</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 24 Sep 2023 11:14:18 GMT</pubDate>
             <content:encoded><![CDATA[14:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230924_128/B1MeF_1695551527833DBJlU_JPEG/cover_0000258354_001_20230924192601587.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[또 사과 없는 김의겸]]></title>
-            <link>https://tv.naver.com/v/40663354</link>
-            <guid>https://tv.naver.com/v/40663354</guid>
-            <pubDate>Sun, 24 Sep 2023 11:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230924_298/H978h_1695551161398lM5Rl_JPEG/cover_0000258365_001_20230924192459880.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
