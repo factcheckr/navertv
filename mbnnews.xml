@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 08:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 09:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스특보] 건군 75주년 국군의 날 시가행진]]></title>
+            <link>https://tv.naver.com/v/40744036</link>
+            <guid>https://tv.naver.com/v/40744036</guid>
+            <pubDate>Tue, 26 Sep 2023 09:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:02:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_27/b47u6_1695717672528NnY6v_JPEG/cover_cover_20230926172607_20_673_1339324_1080_7_20230926173601187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸 LIVE] 민주당 새 원내대표 선거…누가 선출되도 당은 폭풍전야?]]></title>
             <link>https://tv.naver.com/v/40741255</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Sep 2023 23:17:31 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230926_193/7lEPa_1695683387992zNH2Y_JPEG/cover_cover_20230926080515_20_605_1339287_1080_7_20230926080903480.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]상하이 개방형 관광버스, 시민들과 작별하다]]></title>
-            <link>https://tv.naver.com/v/40720131</link>
-            <guid>https://tv.naver.com/v/40720131</guid>
-            <pubDate>Mon, 25 Sep 2023 23:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_260/P81iB_1695683264656ApPhY_JPEG/cover_cover_20230926080325_20_605_1339286_1080_7_20230926080702984.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

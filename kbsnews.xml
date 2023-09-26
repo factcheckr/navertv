@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 08:22:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 09:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수술하다 5명 사상…“전원 요청도 묵살”]]></title>
+            <link>https://tv.naver.com/v/40743302</link>
+            <guid>https://tv.naver.com/v/40743302</guid>
+            <pubDate>Tue, 26 Sep 2023 09:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_163/UlLax_1695716508859KfD3g_JPEG/cover_0011573095_001_20230926172101107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스5 날씨] 내일까지 전국 비 조금…연휴 대체로 맑아]]></title>
             <link>https://tv.naver.com/v/40743235</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 26 Sep 2023 02:22:51 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230926_142/7JIJP_1695690766071ni0uU_JPEG/cover_0011573479_001_20230926101201157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비명·친명 또 충돌…오늘 민주당 운명의 날]]></title>
-            <link>https://tv.naver.com/v/40722391</link>
-            <guid>https://tv.naver.com/v/40722391</guid>
-            <pubDate>Tue, 26 Sep 2023 02:22:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_185/TE7RA_1695690719466932HD_JPEG/cover_0011573464_001_20230926101112116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
