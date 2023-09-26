@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 06:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 07:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["어이구 큰일났다! 시동이 안 꺼져!" 188㎞/h 전기택시 질주에 '공황']]></title>
+            <link>https://tv.naver.com/v/40738365</link>
+            <guid>https://tv.naver.com/v/40738365</guid>
+            <pubDate>Tue, 26 Sep 2023 07:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[2:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_92/dSwOu_1695710549618kaAh3_JPEG/cover_cover_joo230926_vo3_1_20230926154102209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경찰, 내년 3월까지 '청소년 도박' 특별 단속]]></title>
             <link>https://tv.naver.com/v/40735008</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Sep 2023 23:16:22 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230926_279/SNlnL_1695682705197HrxIs_JPEG/cover_cover_today_20230926_072530_2_22_Large_20230926075809092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] '30년 도피' 마피아 두목 숨져]]></title>
-            <link>https://tv.naver.com/v/40719988</link>
-            <guid>https://tv.naver.com/v/40719988</guid>
-            <pubDate>Mon, 25 Sep 2023 23:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230926_69/mZw8h_1695682701969P1BHu_JPEG/cover_cover_today_20230926_072407_2_21_Large_20230926075759868.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
