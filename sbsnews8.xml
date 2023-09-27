@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 21:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 22:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울→부산 9시간 50분…낮 11시~12시 정체 가장 극심]]></title>
+            <link>https://tv.naver.com/v/40802203</link>
+            <guid>https://tv.naver.com/v/40802203</guid>
+            <pubDate>Wed, 27 Sep 2023 22:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_9/8K1Lx_1695852664080ggFFS_JPEG/cover_0001093301_001_20230928071001155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['황금연휴'는 다른 세상 얘기…'5인 미만' 언제까지 예외로?]]></title>
             <link>https://tv.naver.com/v/40796519</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 07:15:51 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_40/76I5t_1695797853338PPeRw_JPEG/cover_0001093202_001_20230927155601148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주산 고기가 아니었다고?…별점 높았던 맛집의 배신]]></title>
-            <link>https://tv.naver.com/v/40781743</link>
-            <guid>https://tv.naver.com/v/40781743</guid>
-            <pubDate>Wed, 27 Sep 2023 07:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_131/7FuJ4_1695797686287FNOgd_JPEG/cover_0001093063_001_20230927155401109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
