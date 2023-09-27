@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 20:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 21:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[본격 추석연휴 첫 날…이 시각 고속도로 상황]]></title>
+            <link>https://tv.naver.com/v/40802021</link>
+            <guid>https://tv.naver.com/v/40802021</guid>
+            <pubDate>Wed, 27 Sep 2023 21:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_6/sbK5C_1695849229314W7TsE_JPEG/cover_0011574565_001_20230928061303613.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[총선 앞둔 정치권, 추석 민심잡기 잰걸음]]></title>
             <link>https://tv.naver.com/v/40799588</link>
@@ -141,7 +149,7 @@
             <guid>https://tv.naver.com/v/40798321</guid>
             <pubDate>Wed, 27 Sep 2023 15:18:03 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_162/kd4rL_16958271060578AR5t_JPEG/cover_0011574534_001_20230928000131164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_147/K88QY_1695847464740jMmxc_JPEG/cover_0011574534_001_20230928000131164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강릉 출신 민족저항시인 ‘심연수’ 시 전시회 개최]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 15:18:03 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_100/Qy14r_1695825610342phcB4_JPEG/cover_0011574519_001_20230927233901167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이라크 결혼식장 덮친 화마…110여 명 사망, 150여 명 부상]]></title>
-            <link>https://tv.naver.com/v/40797650</link>
-            <guid>https://tv.naver.com/v/40797650</guid>
-            <pubDate>Wed, 27 Sep 2023 15:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[1:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_45/KL1my_1695825489269FH9LL_JPEG/cover_0011574520_001_20230927233709592.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

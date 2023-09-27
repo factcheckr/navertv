@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 20:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 21:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Wed, 27 Sep 2023 07:16:16 GMT</pubDate>
             <content:encoded><![CDATA[2:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_240/geIp6_1695796783231WtGA8_JPEG/1695796566697.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[땅도 없고 돈도 없고, LH는 제 코가 석잔데…공급 늘릴수 있나?]]></title>
+            <link>https://tv.naver.com/v/40780308</link>
+            <guid>https://tv.naver.com/v/40780308</guid>
+            <pubDate>Wed, 27 Sep 2023 21:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[3:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_214/YftJW_1695795795516dBd2G_JPEG/1695794922050.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["그때도 지금도 임영웅" 팬들이 말하는 그의 매력]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 25 Sep 2023 08:22:36 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230925_95/t79pC_1695627866036AwajD_JPEG/1695627296015.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국으로 미국으로…미-멕시코 국경 중남미 이민자들 급증]]></title>
-            <link>https://tv.naver.com/v/40693979</link>
-            <guid>https://tv.naver.com/v/40693979</guid>
-            <pubDate>Mon, 25 Sep 2023 08:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230925_292/4RpJu_16956261693675aLUR_JPEG/1695626116409.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
