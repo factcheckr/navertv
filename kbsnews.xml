@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 10:19:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 11:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스7 날씨] 내일 아침까지 가끔 비…내일 오후부터 맑아져]]></title>
+            <link>https://tv.naver.com/v/40790000</link>
+            <guid>https://tv.naver.com/v/40790000</guid>
+            <pubDate>Wed, 27 Sep 2023 11:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_32/9Dma4_1695810145444D7lJ5_JPEG/cover_0011574362_001_20230927192201163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신원식 “9.19 군사 합의, 효력 정지 추진”]]></title>
             <link>https://tv.naver.com/v/40789714</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 04:19:58 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_137/RWymP_16957858576433Pu5b_JPEG/cover_0011574249_001_20230927123701134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘자녀 입시 비리’ 정경심 전 교수, 가석방 출소]]></title>
-            <link>https://tv.naver.com/v/40773431</link>
-            <guid>https://tv.naver.com/v/40773431</guid>
-            <pubDate>Wed, 27 Sep 2023 04:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_120/OtUr8_1695785779709HMp7e_JPEG/cover_0011574247_001_20230927123601127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
