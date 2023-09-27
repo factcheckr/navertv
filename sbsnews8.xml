@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 07:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 08:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌D리포트] 백악관 '퍼스트 독' 또 경호원 물어]]></title>
+            <link>https://tv.naver.com/v/40785558</link>
+            <guid>https://tv.naver.com/v/40785558</guid>
+            <pubDate>Wed, 27 Sep 2023 08:22:16 GMT</pubDate>
+            <content:encoded><![CDATA[1:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_241/MHAjU_1695802519520PNBIi_JPEG/cover_0001093214_001_20230927171403171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["교장 부검하자" 강남 A초 학부모 단톡방…결국 "폐쇄합니다" [스브스픽]]]></title>
             <link>https://tv.naver.com/v/40781983</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 01:10:46 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230927_246/qFPqg_1695772058968Avu0C_JPEG/cover_0001093033_001_20230927084601133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["가격이 중앙선 넘네"…'한문철 매직쉴드' 바람막이 논란]]></title>
-            <link>https://tv.naver.com/v/40766105</link>
-            <guid>https://tv.naver.com/v/40766105</guid>
-            <pubDate>Wed, 27 Sep 2023 01:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230927_114/HsngH_1695771933167r151L_JPEG/cover_0001093048_001_20230927084501160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
