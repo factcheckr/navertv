@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 21:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 22:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울→부산 6시간…귀성길 정체 저녁 8시쯤 해소]]></title>
+            <link>https://tv.naver.com/v/40823464</link>
+            <guid>https://tv.naver.com/v/40823464</guid>
+            <pubDate>Thu, 28 Sep 2023 22:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230929_271/ryVRA_1695939114903bBJnB_JPEG/cover_0001093475_001_20230929071101130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전남 가거도 인근서 89톤 어선 화재…12명 대피]]></title>
             <link>https://tv.naver.com/v/40823268</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 23:16:23 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230928_122/8LfeE_1695853708821l7BPQ_JPEG/cover_0001093307_001_20230928072701145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주 아파트서 불…9명 연기 흡입 · 30여 명 긴급 대피]]></title>
-            <link>https://tv.naver.com/v/40802340</link>
-            <guid>https://tv.naver.com/v/40802340</guid>
-            <pubDate>Wed, 27 Sep 2023 23:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_14/VEOP7_1695853572029upf26_JPEG/cover_0001093306_001_20230928072509736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
