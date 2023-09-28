@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 20:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 21:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전남 가거도 인근서 89톤 어선 화재…12명 대피]]></title>
+            <link>https://tv.naver.com/v/40823268</link>
+            <guid>https://tv.naver.com/v/40823268</guid>
+            <pubDate>Thu, 28 Sep 2023 21:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230929_82/KBsmB_1695935545882Vands_JPEG/cover_0001093473_001_20230929061201159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추석 연휴 첫날, 한낮 가장 붐볐다…전국 569만 대 이동]]></title>
             <link>https://tv.naver.com/v/40822259</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 23:16:23 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230928_14/VEOP7_1695853572029upf26_JPEG/cover_0001093306_001_20230928072509736.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북, 핵무력 정책 헌법 명시…김정은 "반미 연대 강화"]]></title>
-            <link>https://tv.naver.com/v/40802289</link>
-            <guid>https://tv.naver.com/v/40802289</guid>
-            <pubDate>Wed, 27 Sep 2023 23:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_278/brD9D_1695853285969gzn63_JPEG/cover_0001093305_001_20230928072101148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
