@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 07:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 08:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[제보] 경북 포항서 아파트 화재…주민 수십 명 대피]]></title>
+            <link>https://tv.naver.com/v/40811483</link>
+            <guid>https://tv.naver.com/v/40811483</guid>
+            <pubDate>Thu, 28 Sep 2023 08:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_79/W5Ziy_1695888453010sqBSI_PNG/cover_0011574676_001_20230928170703150.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[점차 맑아져…보름달 구름 사이로 볼 수 있어요 [오후날씨 꿀팁]]]></title>
             <link>https://tv.naver.com/v/40805361</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 27 Sep 2023 23:16:02 GMT</pubDate>
             <content:encoded><![CDATA[2:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230928_240/rkIGt_16958563535037BCmE_JPEG/cover_0011574575_001_20230928081144552.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 이재명 “전쟁 아닌 정치로”…친명체제 강화하나?]]></title>
-            <link>https://tv.naver.com/v/40802673</link>
-            <guid>https://tv.naver.com/v/40802673</guid>
-            <pubDate>Wed, 27 Sep 2023 23:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_263/1b4iH_16958563543739Sexl_JPEG/cover_0011574574_001_20230928081133713.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
