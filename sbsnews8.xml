@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Sep 2023 21:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Sep 2023 22:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[연휴 셋째 날 오전부터 귀경길 혼잡…"오후 4시쯤 정체 절정"]]></title>
+            <link>https://tv.naver.com/v/40841402</link>
+            <guid>https://tv.naver.com/v/40841402</guid>
+            <pubDate>Fri, 29 Sep 2023 22:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230930_1/D3hwX_16960255180059BTSc_JPEG/cover_0001093693_001_20230930071101115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 구름 사이 뜬 보름달…내일 전국 비 "안전 운전"]]></title>
             <link>https://tv.naver.com/v/40838160</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 28 Sep 2023 23:17:10 GMT</pubDate>
             <content:encoded><![CDATA[1:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230929_183/Wqr6k_1695939588863G39xv_JPEG/cover_0001093478_001_20230929071901136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울→부산 6시간…귀성길 정체 저녁 8시쯤 해소]]></title>
-            <link>https://tv.naver.com/v/40823464</link>
-            <guid>https://tv.naver.com/v/40823464</guid>
-            <pubDate>Thu, 28 Sep 2023 22:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230929_271/ryVRA_1695939114903bBJnB_JPEG/cover_0001093475_001_20230929071101130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
