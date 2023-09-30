@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 15:16:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 16:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[귀경길 정체 대부분 풀려…오늘 정체 오전 10시부터]]></title>
+            <link>https://tv.naver.com/v/40860456</link>
+            <guid>https://tv.naver.com/v/40860456</guid>
+            <pubDate>Sat, 30 Sep 2023 16:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231001_130/jP09J_1696087428912OT0pt_JPEG/cover_0011575162_001_20231001002301110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강진군-백종원, ‘지역상생발전 양해각서’ 체결]]></title>
             <link>https://tv.naver.com/v/40857101</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Sep 2023 13:17:18 GMT</pubDate>
             <content:encoded><![CDATA[0:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230930_254/M7dZx_1696078343782PMnT7_JPEG/cover_0011575131_001_20230930215208793.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산청전통의약엑스포 오늘 하루 10만 5천 명 입장]]></title>
-            <link>https://tv.naver.com/v/40856526</link>
-            <guid>https://tv.naver.com/v/40856526</guid>
-            <pubDate>Sat, 30 Sep 2023 13:17:18 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230930_177/u1V88_169607833557351Gw9_JPEG/cover_0011575130_001_20230930215201151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
