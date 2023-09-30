@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Sep 2023 06:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Sep 2023 07:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]출근 시간대 ‘무인사진관’ 성폭행…촬영 부스 안에서 범행]]></title>
+            <link>https://tv.naver.com/v/40847592</link>
+            <guid>https://tv.naver.com/v/40847592</guid>
+            <pubDate>Sat, 30 Sep 2023 07:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230930_77/0WpjT_1696056419828q2HDQ_JPEG/cover_0000258307_001_20230930154601659.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘온라인 차례’에 ‘디지털 병풍’까지…바뀌는 추석 풍경]]></title>
             <link>https://tv.naver.com/v/40834705</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 28 Sep 2023 12:34:32 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230928_161/S6ykE_1695901557485ufaua_JPEG/cover_0000258645_001_20230928204501510.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[4천만의 대이동…한때 서울~부산 10시간]]></title>
-            <link>https://tv.naver.com/v/40815159</link>
-            <guid>https://tv.naver.com/v/40815159</guid>
-            <pubDate>Thu, 28 Sep 2023 12:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230928_281/eemyO_1695900036964AgFBf_JPEG/cover_0000258624_001_20230928201911252.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
