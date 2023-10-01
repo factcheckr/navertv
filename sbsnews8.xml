@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 Oct 2023 07:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Oct 2023 08:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 저렴해 직구하고 5초 만에 뚫렸다…"혹시 우리집 캠도?"]]></title>
+            <link>https://tv.naver.com/v/40872321</link>
+            <guid>https://tv.naver.com/v/40872321</guid>
+            <pubDate>Sun, 01 Oct 2023 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231001_70/mzVr6_1696147955947nHghL_JPEG/cover_0001093936_001_20231001171110014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자막뉴스] "오 마이갓" 폭우 쏟아진 뉴욕…물 잠긴 공항에 맨발 이동]]></title>
+            <link>https://tv.naver.com/v/40872316</link>
+            <guid>https://tv.naver.com/v/40872316</guid>
+            <pubDate>Sun, 01 Oct 2023 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231001_33/pm7tg_1696147946538WPJLo_JPEG/cover_0001093934_001_20231001171101100.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[글로벌D리포트] '셧다운' 피한 미국…45일 임시 예산안 통과]]></title>
             <link>https://tv.naver.com/v/40870473</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 30 Sep 2023 02:20:48 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230930_81/lSmtZ_1696039157812t3I6Q_JPEG/cover_0001093695_001_20230930105801154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, 하원의장 주도 임시예산안 부결…정부 셧다운 초읽기]]></title>
-            <link>https://tv.naver.com/v/40841514</link>
-            <guid>https://tv.naver.com/v/40841514</guid>
-            <pubDate>Fri, 29 Sep 2023 23:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230930_145/vKoWF_16960275255747tmBL_JPEG/cover_0001093696_001_20230930074501160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 전국 곳곳 가끔 비…대부분 5~10mm]]></title>
-            <link>https://tv.naver.com/v/40841422</link>
-            <guid>https://tv.naver.com/v/40841422</guid>
-            <pubDate>Fri, 29 Sep 2023 23:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230930_209/iCGMW_1696025907805nS2bj_JPEG/cover_0001093697_001_20230930071801147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
