@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 07:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 08:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]수영 황금세대 귀국 현장]]></title>
+            <link>https://tv.naver.com/v/40894959</link>
+            <guid>https://tv.naver.com/v/40894959</guid>
+            <pubDate>Mon, 02 Oct 2023 08:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231002_191/x6trJ_1696232994116fjthB_JPEG/cover_0000258782_001_20231002164901484.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘의 영상]막강 LoL 대표팀의 위엄…무실세트 전승]]></title>
+            <link>https://tv.naver.com/v/40894928</link>
+            <guid>https://tv.naver.com/v/40894928</guid>
+            <pubDate>Mon, 02 Oct 2023 08:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231002_115/2bj6r_1696232933194yEPM7_JPEG/cover_0000258781_001_20231002164801576.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[인천발 사우디아항공 수하물 대량 분실]]></title>
             <link>https://tv.naver.com/v/40892027</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 30 Sep 2023 12:30:01 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230930_200/WeApw_16960727375792GwUD_JPEG/cover_0000258714_001_20230930201801580.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[7층 벽 에어컨 줄에 매달린 이유?…“기억 안 나”]]></title>
-            <link>https://tv.naver.com/v/40853903</link>
-            <guid>https://tv.naver.com/v/40853903</guid>
-            <pubDate>Sat, 30 Sep 2023 12:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230930_165/VeB5r_1696072706671mHg0x_JPEG/cover_0000258715_001_20230930201712843.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독]성매매 수배 중 미성년자 성매매]]></title>
-            <link>https://tv.naver.com/v/40853900</link>
-            <guid>https://tv.naver.com/v/40853900</guid>
-            <pubDate>Sat, 30 Sep 2023 12:30:01 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230930_109/7eKQM_1696072677989U9COg_JPEG/cover_0000258716_001_20230930201704208.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
