@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Oct 2023 08:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 09:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 02 Oct 2023 08:23:58 GMT</pubDate>
             <content:encoded><![CDATA[9:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231002_88/ErcIp_1696234511086GbPWP_JPEG/cover_cover_20231002170557_20_675_1339579_1080_7_20231002170926786.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['동행'일까 '숙청'일까…복귀 후 이재명의 선택은?]]></title>
+            <link>https://tv.naver.com/v/40895535</link>
+            <guid>https://tv.naver.com/v/40895535</guid>
+            <pubDate>Mon, 02 Oct 2023 09:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[29:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231002_65/B6iZJ_16962351125138wRMj_JPEG/cover_cover_20231002170336_20_675_1339578_1080_7_20231002170901193.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영수회담 제의 놓고 與 "방탄" vs 野 "불통"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 30 Sep 2023 12:30:10 GMT</pubDate>
             <content:encoded><![CDATA[1:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20230930_251/Ygeqm_16960729125965VI8K_JPEG/cover_cover_20230930201815_20_906_1339540_1080_7_20230930202103130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기름진 추석 음식 '나쁜 콜레스테롤'높일라…누적되면 심혈관질환으로]]></title>
-            <link>https://tv.naver.com/v/40853843</link>
-            <guid>https://tv.naver.com/v/40853843</guid>
-            <pubDate>Sat, 30 Sep 2023 12:30:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230930_261/XqfT7_1696072575143g7qnT_JPEG/cover_cover_20230930201036_20_906_1339539_1080_7_20230930201501198.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
