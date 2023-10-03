@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 11:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 12:35:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[노벨 물리학상에 아고스티니·크라우스·륄리에 등 3인]]></title>
+            <link>https://tv.naver.com/v/40933157</link>
+            <guid>https://tv.naver.com/v/40933157</guid>
+            <pubDate>Tue, 03 Oct 2023 12:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231003_71/9Ik0K_169633183789710Rqx_JPEG/cover_cover_202310031933353280_t_20231003201701652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경부고속도로 북대구IC 근처에서 추돌사고...한때 정체 극심]]></title>
             <link>https://tv.naver.com/v/40932806</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Oct 2023 08:22:56 GMT</pubDate>
             <content:encoded><![CDATA[1:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231003_106/nbnHS_1696318557888zH13v_JPEG/cover_cover_202310031633258860_t_20231003163513307.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전라선 열차 예매율 99% 넘어...고속도로는 '원활']]></title>
-            <link>https://tv.naver.com/v/40925365</link>
-            <guid>https://tv.naver.com/v/40925365</guid>
-            <pubDate>Tue, 03 Oct 2023 08:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231003_123/zVEtn_1696318560268k18TS_JPEG/cover_cover_202310031632030908_t_20231003163501485.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
