@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 21:15:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 22:16:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 4일 굿모닝MBN 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/40944814</link>
+            <guid>https://tv.naver.com/v/40944814</guid>
+            <pubDate>Tue, 03 Oct 2023 22:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231004_194/ZNjPJ_1696370882889R11rY_JPEG/cover_cover_20231004070204_20_605_1339654_1080_7_20231004070701164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[442회_독감과 축제 안전사고 예방요령]]></title>
             <link>https://tv.naver.com/v/40944507</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 03 Oct 2023 09:18:21 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231003_2/Judsr_1696323825513XlC8V_JPEG/cover_cover_20231003175652_20_673_1339620_1080_7_20231003180301132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김명준의 뉴스파이터 오프닝 - 토닥토닥]]></title>
-            <link>https://tv.naver.com/v/40928832</link>
-            <guid>https://tv.naver.com/v/40928832</guid>
-            <pubDate>Tue, 03 Oct 2023 09:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231003_1/x7BWe_1696323691923rOAEE_JPEG/cover_cover_20231003175533_20_673_1339619_1080_7_20231003180101129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
