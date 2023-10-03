@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Oct 2023 04:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Oct 2023 05:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 추락 영상 입수, 포천 고모리 저수지에 민간 헬기 추락]]></title>
+            <link>https://tv.naver.com/v/40919746</link>
+            <guid>https://tv.naver.com/v/40919746</guid>
+            <pubDate>Tue, 03 Oct 2023 05:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231003_84/Gjjkf_1696309594411xwJDN_JPEG/cover_0001094337_001_20231003140601152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 포천 고모리 저수지에 민간 헬기 추락…탑승자 1명 수색 중]]></title>
             <link>https://tv.naver.com/v/40918038</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 02 Oct 2023 07:15:55 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231002_283/kSy8H_1696228165576J5C1s_JPEG/cover_0001093824_001_20231002152801145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["그 한우가 맞아?"…백화점서 주문했는데 '기름 덩어리']]></title>
-            <link>https://tv.naver.com/v/40891198</link>
-            <guid>https://tv.naver.com/v/40891198</guid>
-            <pubDate>Tue, 03 Oct 2023 03:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231002_212/f06D6_1696225439865fKevj_JPEG/cover_0001093995_001_20231002144314017.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
