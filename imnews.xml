@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Oct 2023 05:17:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Oct 2023 06:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밥 먹다 라이터 꺼내더니‥순식간에 불바다]]></title>
+            <link>https://tv.naver.com/v/41002313</link>
+            <guid>https://tv.naver.com/v/41002313</guid>
+            <pubDate>Thu, 05 Oct 2023 06:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_34/0wl7e_1696484248039kHHiy_JPEG/cover_cover_joo231005_14_20231005143701471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["창가에 처녀 귀신이"‥포항 '귀신 소동' 내막]]></title>
             <link>https://tv.naver.com/v/40998752</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 04 Oct 2023 23:17:13 GMT</pubDate>
             <content:encoded><![CDATA[1:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_125/kCX8i_16964599721537KWvl_JPEG/cover_cover_today_20231005_072007_2_19_Large_1_20231005075230524.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이 시각 세계] 미국 볼티모어 모건 주립대 총격‥4명 부상]]></title>
-            <link>https://tv.naver.com/v/40989292</link>
-            <guid>https://tv.naver.com/v/40989292</guid>
-            <pubDate>Wed, 04 Oct 2023 23:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_257/USlQg_1696459941983pakGx_JPEG/cover_cover_today_20231005_064927_2_15_Large_20231005075205065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
