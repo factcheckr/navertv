@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 05:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 06:24:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 이균용 대법원장 후보자 임명동의안 부결…찬성 118 반대 175 기권 2]]></title>
+            <link>https://tv.naver.com/v/41048815</link>
+            <guid>https://tv.naver.com/v/41048815</guid>
+            <pubDate>Fri, 06 Oct 2023 06:22:43 GMT</pubDate>
+            <content:encoded><![CDATA[2:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_245/FQuOi_1696571578057l37Fe_JPEG/cover_0011577510_001_20231006145216172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 오늘 아침 대관령에 첫얼음…내일 평년기온 회복]]></title>
             <link>https://tv.naver.com/v/41044389</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 03:17:23 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_209/EwETv_1696559420650zwrTz_JPEG/cover_0011577440_001_20231006113001160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구·경북 구름 많고 일교차 커…대구 낮 22도]]></title>
-            <link>https://tv.naver.com/v/41040359</link>
-            <guid>https://tv.naver.com/v/41040359</guid>
-            <pubDate>Fri, 06 Oct 2023 03:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_154/Rqxe1_1696559306536NtEAy_JPEG/cover_0011577437_001_20231006112801159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
