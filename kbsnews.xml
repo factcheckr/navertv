@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 15:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 16:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주민들이 만든 ‘구절초 마을’…이번 주말 첫 ‘구절초 축제’]]></title>
+            <link>https://tv.naver.com/v/41074163</link>
+            <guid>https://tv.naver.com/v/41074163</guid>
+            <pubDate>Fri, 06 Oct 2023 16:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_296/Y1UMb_1696606006812Hs5v9_JPEG/cover_0011577702_001_20231007002601135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“밀폐공간 전수조사”…‘말뿐인’ 특별대책?]]></title>
             <link>https://tv.naver.com/v/41073928</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 15:18:22 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_233/ARxrS_16966033198478PEGu_JPEG/cover_0011577761_001_20231006234113824.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[월드 이슈] ‘자유’ 사라진 홍콩 영화]]></title>
-            <link>https://tv.naver.com/v/41072917</link>
-            <guid>https://tv.naver.com/v/41072917</guid>
-            <pubDate>Fri, 06 Oct 2023 15:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[6:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_7/yp6q3_16966033985383gx4a_JPEG/cover_0011577760_001_20231006234101167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
