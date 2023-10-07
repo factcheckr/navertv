@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 20:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 21:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[444회_심혈관 질환과 산불 예방요령]]></title>
+            <link>https://tv.naver.com/v/41103252</link>
+            <guid>https://tv.naver.com/v/41103252</guid>
+            <pubDate>Sat, 07 Oct 2023 21:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[14:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231008_176/XDbLD_16967125166704OoIo_JPEG/cover_cover_20231008054650_20_849_1340007_1080_7_20231008055401185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10월 7일 MBN 뉴스센터 클로징]]></title>
             <link>https://tv.naver.com/v/41093871</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 12:35:24 GMT</pubDate>
             <content:encoded><![CDATA[13:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_287/Ot76D_16965920854304C5ft_JPEG/cover_cover_20231006202209_20_536_1339969_1080_7_20231006202801180.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[정치와이드] 대법원장 임명동의안 35년 만에 '부결'…공석 장기화, 시각은?]]></title>
-            <link>https://tv.naver.com/v/41064639</link>
-            <guid>https://tv.naver.com/v/41064639</guid>
-            <pubDate>Fri, 06 Oct 2023 12:35:24 GMT</pubDate>
-            <content:encoded><![CDATA[11:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_215/mACXN_1696591943141PppXe_JPEG/cover_cover_20231006202026_20_536_1339968_1080_7_20231006202601222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
