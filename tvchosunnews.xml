@@ -4,9 +4,25 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 05:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 06:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 7일 '뉴스현장' 클로징]]></title>
+            <link>https://tv.naver.com/v/41085541</link>
+            <guid>https://tv.naver.com/v/41085541</guid>
+            <pubDate>Sat, 07 Oct 2023 06:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_65/v5seE_1696659376415QOrAX_JPEG/cover_2023100790025_thumb_031144_20231007151609310.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 동해안·남해안·제주 '비'…큰 일교차 주의]]></title>
+            <link>https://tv.naver.com/v/41085536</link>
+            <guid>https://tv.naver.com/v/41085536</guid>
+            <pubDate>Sat, 07 Oct 2023 06:21:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_1/JpBL5_16966593918270YhJc_JPEG/cover_2023100790023_thumb_031129_20231007151601567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강서 사전투표 이틀째, 오후 1시 투표율 15.34%…여야 지도부 총출동]]></title>
             <link>https://tv.naver.com/v/41083951</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 05:16:50 GMT</pubDate>
             <content:encoded><![CDATA[1:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_98/cxUGF_1696566106487Evf43_JPEG/cover_2023100690079_thumb_011711_20231006132101495.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김행 청문회 막판 파행…위원장이 "자료제공 못 하면 사퇴해야"]]></title>
-            <link>https://tv.naver.com/v/41043022</link>
-            <guid>https://tv.naver.com/v/41043022</guid>
-            <pubDate>Fri, 06 Oct 2023 04:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_159/oB0dK_1696563716930sWeu3_JPEG/cover_2023100690005_thumb_123847_20231006124123329.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명, '대장동·위례 의혹' 첫 재판 출석…묵묵부답]]></title>
-            <link>https://tv.naver.com/v/41043014</link>
-            <guid>https://tv.naver.com/v/41043014</guid>
-            <pubDate>Fri, 06 Oct 2023 04:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_23/4kWE9_1696563722618CH12P_JPEG/cover_2023100690068_thumb_123800_20231006124116144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
