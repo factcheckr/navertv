@@ -4,9 +4,25 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 13:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 14:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] '부상투혼' 안세영, 여자 배드민턴 개인전 금메달…2관왕]]></title>
+            <link>https://tv.naver.com/v/41097276</link>
+            <guid>https://tv.naver.com/v/41097276</guid>
+            <pubDate>Sat, 07 Oct 2023 14:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_153/hKjZM_1696687653194nmD3o_JPEG/cover_cover_MYH20231007012400038_20231007230701852.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[속보] 한국축구, 일본 2대1로 꺾고 금메달…3연패 달성]]></title>
+            <link>https://tv.naver.com/v/41097230</link>
+            <guid>https://tv.naver.com/v/41097230</guid>
+            <pubDate>Sat, 07 Oct 2023 14:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_273/PjvnM_169668783689747ABy_JPEG/cover_cover_MYH20231007012300038_20231007230501869.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[탄소중립 잠시 '감속' 유럽…탄소무역장벽은 높게 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/41095697</link>
@@ -230,22 +246,6 @@
             <pubDate>Sat, 07 Oct 2023 09:15:14 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231007_49/tXVZA_1696666800020Tm9Qc_JPEG/cover_cover_MYH20231007008900641_20231007171901703.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 팬과 하나된 스타들…활기 가득한 부산영화제]]></title>
-            <link>https://tv.naver.com/v/41088427</link>
-            <guid>https://tv.naver.com/v/41088427</guid>
-            <pubDate>Sat, 07 Oct 2023 08:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_73/Xmc22_16966664563888qyJB_JPEG/cover_cover_MYH20231007008800641_20231007171301714.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울불꽃축제에 100만명 운집 예상…안전 합동점검]]></title>
-            <link>https://tv.naver.com/v/41088335</link>
-            <guid>https://tv.naver.com/v/41088335</guid>
-            <pubDate>Sat, 07 Oct 2023 08:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[2:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_130/0xuWp_1696666298272g8LRp_JPEG/cover_cover_MYH20231007008700641_20231007171002849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
