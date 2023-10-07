@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 22:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 23:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["아저씨, 이거 한 모금 드세요!" '긴급상황' 경찰이 떠먹인 건?]]></title>
+            <link>https://tv.naver.com/v/41103799</link>
+            <guid>https://tv.naver.com/v/41103799</guid>
+            <pubDate>Sat, 07 Oct 2023 23:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231008_140/tIy1l_1696717173198fsPe9_JPEG/cover_cover_SY20231008-01_20231008071901604.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영동·충남·남부 '가을비'‥서울 21도·부산 22도]]></title>
             <link>https://tv.naver.com/v/41103766</link>
@@ -37,7 +45,7 @@
             <guid>https://tv.naver.com/v/41099624</guid>
             <pubDate>Sat, 07 Oct 2023 16:19:48 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231008_227/gn68P_1696716814042fUshy_JPEG/cover_cover_231007_jwyint-mbig_640_20231008003301459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231008_70/vZsou_1696717963504JH5O4_JPEG/cover_cover_231007_jwyint-mbig_640_20231008003301459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[엠빅뉴스] [항저우AG] 금메달 확정 직후 태극기 휘날린 그라운드]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 23:16:58 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231007_230/UVsjd_1696631603428lbPFv_JPEG/cover_cover_today_20231007_071424_1_11_Large_20231007073310923.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이란 인권운동가 모하마디 노벨평화상 수상]]></title>
-            <link>https://tv.naver.com/v/41077777</link>
-            <guid>https://tv.naver.com/v/41077777</guid>
-            <pubDate>Fri, 06 Oct 2023 23:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_45/3S2mo_1696631608138klN8v_JPEG/cover_cover_today_20231007_071317_1_10_Large_20231007073302991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
