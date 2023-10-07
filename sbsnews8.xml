@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 07:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Oct 2023 08:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 전직 경찰이 총기 난사…영화 방불케 한 총격전]]></title>
+            <link>https://tv.naver.com/v/41088189</link>
+            <guid>https://tv.naver.com/v/41088189</guid>
+            <pubDate>Sat, 07 Oct 2023 08:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[2:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231007_147/Fau3p_1696666014331FmM3M_JPEG/cover_0001095456_001_20231007170510110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 우크라이나군 상륙 작전 영상 공개…크림반도 공방전 가열]]></title>
             <link>https://tv.naver.com/v/41086877</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 06 Oct 2023 13:21:16 GMT</pubDate>
             <content:encoded><![CDATA[1:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231006_277/7SXDD_1696596319285rs2as_JPEG/cover_0001095297_001_20231006214414849.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1등급? 2등급?…정작 소비자는 모르는 돼지고기 등급제]]></title>
-            <link>https://tv.naver.com/v/41068048</link>
-            <guid>https://tv.naver.com/v/41068048</guid>
-            <pubDate>Fri, 06 Oct 2023 13:21:16 GMT</pubDate>
-            <content:encoded><![CDATA[2:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_43/ZIZAb_16965963351631EFnd_JPEG/cover_0001095299_001_20231006214401143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
