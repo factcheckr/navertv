@@ -4,9 +4,17 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Oct 2023 23:17:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 01:16:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[리빙톡] 어느 날 갑자기 변한 목소리…○○○○이라고?]]></title>
+            <link>https://tv.naver.com/v/41039414</link>
+            <guid>https://tv.naver.com/v/41039414</guid>
+            <pubDate>Sun, 08 Oct 2023 01:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231006_221/FOMap_1696557977905VGOSQ_JPEG/1696557953580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하마스, 대대적 공격…이스라엘 "전쟁상황" 보복 나서]]></title>
             <link>https://tv.naver.com/v/41092603</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 05 Oct 2023 03:17:35 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231005_78/oqTTL_1696473211503AHKvI_JPEG/1696473034097.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도 히말라야 홍수…10명 사망, 군인 23명 등 80여명 실종]]></title>
-            <link>https://tv.naver.com/v/40994295</link>
-            <guid>https://tv.naver.com/v/40994295</guid>
-            <pubDate>Thu, 05 Oct 2023 03:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231005_51/1n5ti_1696472870381KES0k_JPEG/1696472829779.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
