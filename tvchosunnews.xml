@@ -4,9 +4,25 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Oct 2023 13:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Oct 2023 14:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 9일 '뉴스 9' 클로징]]></title>
+            <link>https://tv.naver.com/v/41157534</link>
+            <guid>https://tv.naver.com/v/41157534</guid>
+            <pubDate>Mon, 09 Oct 2023 14:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[0:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_259/g1K0K_1696857981331678eV_JPEG/cover_2023100990186_thumb_102055_20231009222609544.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 밤사이 중부 중심 비…화요일 아침부터 맑아져]]></title>
+            <link>https://tv.naver.com/v/41157529</link>
+            <guid>https://tv.naver.com/v/41157529</guid>
+            <pubDate>Mon, 09 Oct 2023 14:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_111/QfhvT_1696857988895qy3jf_JPEG/cover_2023100990184_thumb_102036_20231009222601591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대구에 노란사과·강원에 빨간사과…기후 맞춤형 사과 시범재배]]></title>
             <link>https://tv.naver.com/v/41157107</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 09 Oct 2023 08:23:47 GMT</pubDate>
             <content:encoded><![CDATA[5:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231009_267/qAyMB_1696838296093MyxHh_JPEG/cover_2023100990077_thumb_045315_20231009165601563.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 9일 '뉴스현장' 클로징]]></title>
-            <link>https://tv.naver.com/v/41141363</link>
-            <guid>https://tv.naver.com/v/41141363</guid>
-            <pubDate>Mon, 09 Oct 2023 07:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_97/qWAMg_1696833071060pr4nf_JPEG/cover_2023100990081_thumb_032910_20231009153103580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 대체로 흐린 한글날…중부 중심 '비']]></title>
-            <link>https://tv.naver.com/v/41140730</link>
-            <guid>https://tv.naver.com/v/41140730</guid>
-            <pubDate>Mon, 09 Oct 2023 06:24:28 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_290/O4SyY_1696832184921x6qtA_JPEG/cover_2023100990079_thumb_031454_20231009151603274.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
