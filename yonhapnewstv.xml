@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 21:17:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 22:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨클릭] 전국 쾌청한 가을 하늘…당분간 큰 일교차 유의]]></title>
+            <link>https://tv.naver.com/v/41213074</link>
+            <guid>https://tv.naver.com/v/41213074</guid>
+            <pubDate>Tue, 10 Oct 2023 22:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_195/QFxdv_1696975660938Isf5q_JPEG/cover_cover_MYH20231011000900641_20231011070701603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[행안부 국감에서 '이태원 참사' 책임 공방]]></title>
             <link>https://tv.naver.com/v/41212728</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 10 Oct 2023 12:33:32 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231010_169/tDa1w_1696940005769zVHkD_JPEG/cover_cover_MYH20231010022900641_20231010211301940.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내일 법무부 국정감사…이재명 수사 등 공방전 예상]]></title>
-            <link>https://tv.naver.com/v/41198935</link>
-            <guid>https://tv.naver.com/v/41198935</guid>
-            <pubDate>Tue, 10 Oct 2023 12:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_298/4fxGV_16969399545560NFnf_JPEG/cover_cover_MYH20231010022800641_20231010211211712.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
