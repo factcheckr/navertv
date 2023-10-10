@@ -4,9 +4,25 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 03:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 04:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 서울대 신입생 40%, '이곳' 출신이 싹쓸이]]></title>
+            <link>https://tv.naver.com/v/41175715</link>
+            <guid>https://tv.naver.com/v/41175715</guid>
+            <pubDate>Tue, 10 Oct 2023 04:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_244/wcW1x_16969114086996akPq_JPEG/cover_2023101090085_thumb_011306_20231010131601541.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티조 Clip] 尹 "이스라엘 사태, 대외경제 불안 요인 커져"]]></title>
+            <link>https://tv.naver.com/v/41175084</link>
+            <guid>https://tv.naver.com/v/41175084</guid>
+            <pubDate>Tue, 10 Oct 2023 04:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_40/cOl6r_1696910499704sTocz_JPEG/cover_2023101090083_thumb_010000_20231010130101467.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈분석] '그놈 목소리' 공개…보이스피싱 수법은?]]></title>
             <link>https://tv.naver.com/v/41167136</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 09 Oct 2023 13:23:23 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231009_121/nmcrC_1696856224115ODGed_JPEG/cover_2023100990164_thumb_095135_20231009215610268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["중앙지검입니다. 공문 받으셨죠?"…보이스피싱 '그놈 목소리' 12명 공개]]></title>
-            <link>https://tv.naver.com/v/41156102</link>
-            <guid>https://tv.naver.com/v/41156102</guid>
-            <pubDate>Mon, 09 Oct 2023 13:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_127/X0n68_1696856203298O0173_JPEG/cover_2023100990162_thumb_095058_20231009215601835.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["보증금 떼이고 쫓겨나면 어쩌나"…수원 전세사기 의혹 확산, 피해액 70억 넘었다]]></title>
-            <link>https://tv.naver.com/v/41155898</link>
-            <guid>https://tv.naver.com/v/41155898</guid>
-            <pubDate>Mon, 09 Oct 2023 13:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_247/sCfMe_16968559426700g4nh_JPEG/cover_2023100990160_thumb_094921_20231009215128305.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
