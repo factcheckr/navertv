@@ -4,9 +4,25 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 10:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 11:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[르포] 수천발 로켓에 삶의 터전 '박살'…가자지구 10㎞ 반경까지 근접 취재]]></title>
+            <link>https://tv.naver.com/v/41196090</link>
+            <guid>https://tv.naver.com/v/41196090</guid>
+            <pubDate>Tue, 10 Oct 2023 11:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_42/3qMIx_1696936456081xfsGu_JPEG/cover_0000362621_001_20231010201201531.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["협상 없다" 이스라엘 지상군 투입 임박…하마스 "공습 땐 인질 처형"]]></title>
+            <link>https://tv.naver.com/v/41195509</link>
+            <guid>https://tv.naver.com/v/41195509</guid>
+            <pubDate>Tue, 10 Oct 2023 11:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_127/Gnm8W_1696935604726sqngs_JPEG/cover_0000362620_001_20231010195901453.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['콜록콜록' 1년 내내 독감 유행 중…이유는 '면역빚' 때문? [5키]]]></title>
             <link>https://tv.naver.com/v/41191480</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 10 Oct 2023 02:23:50 GMT</pubDate>
             <content:encoded><![CDATA[1:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231010_230/9YOT7_1696902330214hWyLq_JPEG/cover_0000362553_001_20231010104501404.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[밀착카메라] '플라스틱 스무디' 20대 임산부 유산…카페 업주 만나보니]]></title>
-            <link>https://tv.naver.com/v/41156570</link>
-            <guid>https://tv.naver.com/v/41156570</guid>
-            <pubDate>Mon, 09 Oct 2023 13:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[3:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_284/9AIX1_1696856835133ohB7I_JPEG/cover_0000362499_001_20231009220529936.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 세금 들여 개설한 청와대 유튜브…'구독자 7명']]></title>
-            <link>https://tv.naver.com/v/41156562</link>
-            <guid>https://tv.naver.com/v/41156562</guid>
-            <pubDate>Mon, 09 Oct 2023 13:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231009_128/ybWPx_1696856798535NFDYH_JPEG/cover_0000362488_001_20231009220520375.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
