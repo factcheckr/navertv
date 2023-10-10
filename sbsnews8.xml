@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 20:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 21:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/41212737</link>
+            <guid>https://tv.naver.com/v/41212737</guid>
+            <pubDate>Tue, 10 Oct 2023 21:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_68/6Z4DU_16969722951856Czat_JPEG/cover_0001096227_001_20231011061101139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['가정폭력' 때문에 옮겼는데…분통 부른 제도 현실]]></title>
             <link>https://tv.naver.com/v/41212439</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 10 Oct 2023 13:21:55 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231010_74/B5NIN_1696941979813KT3fA_JPEG/cover_0001096165_001_20231010214401122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["손잡자"는 이재명 대표…비명계 "말 아닌 행동으로"]]></title>
-            <link>https://tv.naver.com/v/41200612</link>
-            <guid>https://tv.naver.com/v/41200612</guid>
-            <pubDate>Tue, 10 Oct 2023 13:21:55 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231010_113/twNZu_1696941892301fjBgY_JPEG/cover_0001096160_001_20231010214332585.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
