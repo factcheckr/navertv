@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 09:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 10:20:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가짜뉴스의 기준은?]]></title>
+            <link>https://tv.naver.com/v/41241193</link>
+            <guid>https://tv.naver.com/v/41241193</guid>
+            <pubDate>Wed, 11 Oct 2023 10:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[2:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_231/RTO8i_1697016772439Tc8R0_JPEG/cover_cover_desk_20231010_200256_1_10_Large_20231011183203933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[와글와글] 교사에 항의한 학부모‥아이 항문에 x 묻어있어서]]></title>
             <link>https://tv.naver.com/v/41240381</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 11 Oct 2023 07:16:02 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231011_195/Hh8Zw_1697006024646zSfhU_JPEG/cover_cover_14news_20231011_152656_1_8_Large_20231011153329566.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검찰, 윤석열 명예훼손 사건 민주당 보좌관 등 압수수색]]></title>
-            <link>https://tv.naver.com/v/41231330</link>
-            <guid>https://tv.naver.com/v/41231330</guid>
-            <pubDate>Wed, 11 Oct 2023 07:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231011_40/6PM9y_16970060185122Y0qa_JPEG/cover_cover_14news_20231011_152620_1_7_Large_20231011153323323.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
