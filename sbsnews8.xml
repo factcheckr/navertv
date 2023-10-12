@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 20:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 21:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/41316329</link>
+            <guid>https://tv.naver.com/v/41316329</guid>
+            <pubDate>Thu, 12 Oct 2023 21:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_88/dPzwG_1697145039101WdQyr_JPEG/cover_0001096881_001_20231013061001161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/41313118</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 Oct 2023 13:21:28 GMT</pubDate>
             <content:encoded><![CDATA[2:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_25/sM27B_1697115921772zRBbK_JPEG/cover_0001096826_001_20231012220413058.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복사하고 수정테이프로 고치고…고객 몰래 만든 계좌 '1,622개']]></title>
-            <link>https://tv.naver.com/v/41304566</link>
-            <guid>https://tv.naver.com/v/41304566</guid>
-            <pubDate>Thu, 12 Oct 2023 13:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_284/P6z0N_1697115903794cc3kg_JPEG/cover_0001096827_001_20231012220401127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 20:17:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 21:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[446회_강풍과 낙석 사고 예방법]]></title>
+            <link>https://tv.naver.com/v/41316252</link>
+            <guid>https://tv.naver.com/v/41316252</guid>
+            <pubDate>Thu, 12 Oct 2023 21:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[14:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_191/K8HTE_1697144722774sKXbi_JPEG/cover_cover_20231013055413_20_849_1340403_1080_7_20231013055801171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미, 이스라엘 해역에 항모 추가 투입 검토…푸틴 "갈등 부추겨"]]></title>
             <link>https://tv.naver.com/v/41303212</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 12 Oct 2023 11:16:30 GMT</pubDate>
             <content:encoded><![CDATA[1:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231012_284/UWi9l_1697106364248dJ0ab_JPEG/cover_cover_20231012191831_20_552_1340370_1080_7_20231012192501167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박영수 "청탁도 돈 받은 적도 없어"…법정서 '50억 클럽' 부인]]></title>
-            <link>https://tv.naver.com/v/41296679</link>
-            <guid>https://tv.naver.com/v/41296679</guid>
-            <pubDate>Thu, 12 Oct 2023 11:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231012_57/7iIGN_1697106237328P82vk_JPEG/cover_cover_20231012191726_20_552_1340369_1080_7_20231012192301159.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
