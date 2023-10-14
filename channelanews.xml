@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 05:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 06:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]총성 울린 ‘뺏지 전쟁’, 여기 뺏으면 151석?]]></title>
+            <link>https://tv.naver.com/v/41370735</link>
+            <guid>https://tv.naver.com/v/41370735</guid>
+            <pubDate>Sat, 14 Oct 2023 06:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[31:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_186/w5qXY_16972644939393vsOt_JPEG/cover_0000259573_001_20231014150901476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]홍익표, 비명계에 “통합 노력하겠다”…강성 당원은 ‘징계 제출’]]></title>
             <link>https://tv.naver.com/v/41351823</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Oct 2023 11:15:41 GMT</pubDate>
             <content:encoded><![CDATA[10:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231013_23/EHxaX_1697195487081RezN8_JPEG/cover_0000259534_001_20231013200534082.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘강서 보선’ 이긴 민주당…한동훈만 때리기 전략?]]></title>
-            <link>https://tv.naver.com/v/41349844</link>
-            <guid>https://tv.naver.com/v/41349844</guid>
-            <pubDate>Fri, 13 Oct 2023 11:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[7:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_215/dmktj_1697195291356i3veU_JPEG/cover_0000259533_001_20231013200521107.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
