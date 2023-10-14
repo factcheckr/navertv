@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 01:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 02:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 프랑스 학교서 교사 흉기 피살…용의자 “신은 위대하다”]]></title>
+            <link>https://tv.naver.com/v/41365786</link>
+            <guid>https://tv.naver.com/v/41365786</guid>
+            <pubDate>Sat, 14 Oct 2023 02:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_275/5wW5B_1697249912952vUSpt_PNG/cover_0011581934_001_20231014111801165.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김포골드라인 실신자 발생!…비용 아끼려 이용객수 적게 추산? [창+]]]></title>
+            <link>https://tv.naver.com/v/41365583</link>
+            <guid>https://tv.naver.com/v/41365583</guid>
+            <pubDate>Sat, 14 Oct 2023 02:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[7:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_163/YpFnU_1697249577008f19sH_PNG/cover_0011581906_001_20231014111001169.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[크랩] 인천 마스코트 자리까지 차지한 물범 이 영상 보면 납득됨]]></title>
+            <link>https://tv.naver.com/v/41365503</link>
+            <guid>https://tv.naver.com/v/41365503</guid>
+            <pubDate>Sat, 14 Oct 2023 02:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_151/6jQFz_1697249355389teFvu_JPEG/cover_0011581933_001_20231014110601214.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[930 날씨] 전국 대부분 가끔 비…중부·전북 우박 주의]]></title>
             <link>https://tv.naver.com/v/41364517</link>
@@ -78,14 +102,6 @@
             <pubDate>Sat, 14 Oct 2023 01:08:56 GMT</pubDate>
             <content:encoded><![CDATA[1:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231014_128/wSAym_1697242350033axUx0_JPEG/cover_0011581876_001_20231014091201173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[창+] 김포골드라인 실신자 발생!…비용 아끼려 이용객수 적게 추산?]]></title>
-            <link>https://tv.naver.com/v/41364089</link>
-            <guid>https://tv.naver.com/v/41364089</guid>
-            <pubDate>Sat, 14 Oct 2023 01:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[7:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_97/k6Y7k_1697241946269ONhWi_PNG/cover_0011581906_001_20231014090301120.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[북한 영상] 과일군 과수원]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 13 Oct 2023 23:16:22 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231014_139/uhXNZ_1697235410134iE4Xp_JPEG/cover_0011581884_001_20231014071601160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인천항 140년 만에 개방…오늘 시민의날 행사 개최]]></title>
-            <link>https://tv.naver.com/v/41363039</link>
-            <guid>https://tv.naver.com/v/41363039</guid>
-            <pubDate>Fri, 13 Oct 2023 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_183/DULbA_1697235165942IyHz3_JPEG/cover_0011581883_001_20231014071201162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[없애고 쫓아내고…공공 놀이터에서도 밀려나는 아이들]]></title>
-            <link>https://tv.naver.com/v/41363033</link>
-            <guid>https://tv.naver.com/v/41363033</guid>
-            <pubDate>Fri, 13 Oct 2023 22:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_46/7TjKp_1697235062690NEswN_JPEG/cover_0011581882_001_20231014071011301.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
