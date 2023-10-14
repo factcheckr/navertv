@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 20:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 21:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[447회_날씨 전망과 산악사고 예방요령]]></title>
+            <link>https://tv.naver.com/v/41391050</link>
+            <guid>https://tv.naver.com/v/41391050</guid>
+            <pubDate>Sat, 14 Oct 2023 21:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[14:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_256/vyahw_1697316343076VcbM4_JPEG/cover_cover_20231015053507_20_849_1340550_1080_7_20231015053901151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스추적] 북러 정상회담 전에 무기 거래…로켓 기술 전수?]]></title>
             <link>https://tv.naver.com/v/41379770</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Oct 2023 13:23:11 GMT</pubDate>
             <content:encoded><![CDATA[8:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231013_204/KDllP_1697202898948TjnfA_JPEG/cover_cover_20231013202836_20_536_1340516_1080_7_20231013221001170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["24시간 안에 떠나라" 가자 주민에 대피 통보…"며칠 내 대규모 작전"]]></title>
-            <link>https://tv.naver.com/v/41351711</link>
-            <guid>https://tv.naver.com/v/41351711</guid>
-            <pubDate>Fri, 13 Oct 2023 12:34:53 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231013_274/0mvOc_1697198564177H3XXN_JPEG/cover_cover_20231013205703_20_552_1340476_1080_7_20231013210101153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
