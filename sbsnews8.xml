@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 10:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 11:14:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["24시간 이내 대피는 비현실적" 비난에 '연장'…2시간 뒤 마감]]></title>
+            <link>https://tv.naver.com/v/41378923</link>
+            <guid>https://tv.naver.com/v/41378923</guid>
+            <pubDate>Sat, 14 Oct 2023 11:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_10/QR0Lj_16972816068577Sc8e_JPEG/cover_0001097316_001_20231014200501151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 한국인 163명 이스라엘서 대피…오늘 밤 한국 도착]]></title>
             <link>https://tv.naver.com/v/41376826</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Oct 2023 23:16:42 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231014_268/krkHV_1697236217904dAgx2_JPEG/cover_0001097202_001_20231014072911955.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[각국 이스라엘 탈출 러시…우리 국민 태운 항공편 인천 도착]]></title>
-            <link>https://tv.naver.com/v/41363083</link>
-            <guid>https://tv.naver.com/v/41363083</guid>
-            <pubDate>Fri, 13 Oct 2023 23:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_186/cBO6Q_1697236031282D8foj_JPEG/cover_0001097203_001_20231014072601299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
