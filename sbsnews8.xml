@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 04:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 05:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 내릴 때 교통카드 안 찍었더니 '누적 216억'…서울시 수익으로]]></title>
+            <link>https://tv.naver.com/v/41369326</link>
+            <guid>https://tv.naver.com/v/41369326</guid>
+            <pubDate>Sat, 14 Oct 2023 05:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_147/Di8YP_1697260160578R94FT_JPEG/cover_0001097267_001_20231014140801138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 수도권 · 강원 중심 비구름…밤부터 서서히 그쳐]]></title>
             <link>https://tv.naver.com/v/41367286</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 13 Oct 2023 20:18:34 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231014_216/HYUYh_1697227397076ktkFV_JPEG/cover_0001097148_001_20231014050201202.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자국민 구출 행렬…이스라엘로 각국 전세기 투입]]></title>
-            <link>https://tv.naver.com/v/41362599</link>
-            <guid>https://tv.naver.com/v/41362599</guid>
-            <pubDate>Fri, 13 Oct 2023 20:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_68/aBduF_1697227336012jmNDp_JPEG/cover_0001097126_001_20231014050114810.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
