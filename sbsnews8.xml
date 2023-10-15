@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 07:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 08:20:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] 수시로 사이렌 울리는 이스라엘 현지 상황]]></title>
+            <link>https://tv.naver.com/v/41401664</link>
+            <guid>https://tv.naver.com/v/41401664</guid>
+            <pubDate>Sun, 15 Oct 2023 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[1:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_295/6Rnh6_1697357293981IfYXu_PNG/cover_0001097432_001_20231015170701113.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[딥빽] "하마스 지지 안 해"…팔레스타인 자치정부, 하마스에 선 긋는 이유?]]></title>
             <link>https://tv.naver.com/v/41396062</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 14 Oct 2023 12:29:42 GMT</pubDate>
             <content:encoded><![CDATA[1:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231014_90/F88RO_1697284695380E7HUE_JPEG/cover_0001097328_001_20231014205601136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D리포트] 한국인 163명 이스라엘서 대피…오늘 밤 한국 도착]]></title>
-            <link>https://tv.naver.com/v/41376826</link>
-            <guid>https://tv.naver.com/v/41376826</guid>
-            <pubDate>Sat, 14 Oct 2023 10:16:28 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231014_28/KotAa_1697276686910e1vFU_JPEG/cover_0001097283_001_20231014184401178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
