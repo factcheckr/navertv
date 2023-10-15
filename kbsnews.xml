@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 16:21:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 17:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[“제주지역 수산물 방사능 검사 적합”]]></title>
+            <link>https://tv.naver.com/v/41418077</link>
+            <guid>https://tv.naver.com/v/41418077</guid>
+            <pubDate>Sun, 15 Oct 2023 17:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_136/EKJ4Z_1697389284560TKF3x_JPEG/cover_0011579656_001_20231016020103740.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[늦깎이 학생들의 특별한 한글 전시회]]></title>
             <link>https://tv.naver.com/v/41417219</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 15 Oct 2023 13:17:51 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231015_56/m6GPj_16973755470285KYBG_JPEG/cover_0011582265_001_20231015221208991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[면세유값 상승세 지속…기름값 걱정에 농민 시름]]></title>
-            <link>https://tv.naver.com/v/41411399</link>
-            <guid>https://tv.naver.com/v/41411399</guid>
-            <pubDate>Sun, 15 Oct 2023 13:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_240/zz41f_1697375573548AoWsh_JPEG/cover_0011582264_001_20231015221201162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
