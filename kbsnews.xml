@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 Oct 2023 15:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Oct 2023 16:21:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늦깎이 학생들의 특별한 한글 전시회]]></title>
+            <link>https://tv.naver.com/v/41417219</link>
+            <guid>https://tv.naver.com/v/41417219</guid>
+            <pubDate>Sun, 15 Oct 2023 16:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_239/9Ch5j_1697385779522TxeR9_JPEG/cover_0011582237_001_20231016010203106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[9층시사국] 중국발 화웨이 쇼크 外]]></title>
             <link>https://tv.naver.com/v/41414641</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 15 Oct 2023 13:17:51 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231015_240/zz41f_1697375573548AoWsh_JPEG/cover_0011582264_001_20231015221201162.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대전 수술실 CCTV 설치율 83.5%…‘전국 최저’]]></title>
-            <link>https://tv.naver.com/v/41411270</link>
-            <guid>https://tv.naver.com/v/41411270</guid>
-            <pubDate>Sun, 15 Oct 2023 13:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231015_276/mzQSj_1697375320251jrlcX_JPEG/cover_0011582263_001_20231015220822602.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
