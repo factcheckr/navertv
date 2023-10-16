@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 06:25:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 07:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/41438209</link>
+            <guid>https://tv.naver.com/v/41438209</guid>
+            <pubDate>Mon, 16 Oct 2023 07:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_50/9vpzY_16974383764797oqFO_JPEG/cover_cover_20231016153511_20_845_1340642_1080_7_20231016153901173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구급차로 이송된 가수 김태우가 내린 곳은 공연장 [D뉴스]]]></title>
             <link>https://tv.naver.com/v/41432065</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 16 Oct 2023 01:14:14 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231016_184/Sjn5b_16974167952706prnu_JPEG/cover_cover_20231016093607_20_605_1340612_1080_7_20231016093901148.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이란 '전쟁 개입' 경고…"가자지구 공격 안 멈추면 통제불능 될 수도"]]></title>
-            <link>https://tv.naver.com/v/41421766</link>
-            <guid>https://tv.naver.com/v/41421766</guid>
-            <pubDate>Mon, 16 Oct 2023 01:14:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_276/pIN0d_1697416668092w2gxL_JPEG/cover_cover_20231016093445_20_605_1340611_1080_7_20231016093701134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
