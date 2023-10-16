@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 03:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 04:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 오늘 찬 바람 불며 서늘…동해안 비 조금]]></title>
+            <link>https://tv.naver.com/v/41429372</link>
+            <guid>https://tv.naver.com/v/41429372</guid>
+            <pubDate>Mon, 16 Oct 2023 04:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_83/OqTXo_1697428077966x40fw_JPEG/cover_cover_MYH20231016008300641_20231016124701764.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여, 사무총장 등 인선 단행…"당정관계서 주도적 역할"]]></title>
             <link>https://tv.naver.com/v/41427935</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 15 Oct 2023 23:16:47 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231016_76/7Y7qm_1697411001842LlPkh_JPEG/cover_cover_MYH20231016004700641_20231016080301840.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이시각헤드라인] 10월 16일 라이브투데이1부]]></title>
-            <link>https://tv.naver.com/v/41420333</link>
-            <guid>https://tv.naver.com/v/41420333</guid>
-            <pubDate>Sun, 15 Oct 2023 23:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[1:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_184/dE0p6_1697410895442oDOFG_JPEG/cover_cover_MYH20231016004600641_20231016080101753.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
