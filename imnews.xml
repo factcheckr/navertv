@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 14:18:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 15:19:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 베트남 기자들에게 직접 한국 축구 물어봤습니다]]></title>
+            <link>https://tv.naver.com/v/41464003</link>
+            <guid>https://tv.naver.com/v/41464003</guid>
+            <pubDate>Mon, 16 Oct 2023 15:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[6:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_243/t6TOL_1697468157743vJXxx_JPEG/cover_cover_231016_vnint_2300_final_640_20231016235403970.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] "이러려고 집권했나" 울먹인 이준석 "尹대통령 안 바뀌면 총선 패배"]]></title>
             <link>https://tv.naver.com/v/41456033</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 16 Oct 2023 11:15:01 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231016_143/q944h_1697453440263A0BEF_JPEG/cover_cover_desk_20231016_194647_1_3_Large_20231016195003847.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[냉동 차량이 영안실로‥"사망자 60% 여성·어린이"]]></title>
-            <link>https://tv.naver.com/v/41451133</link>
-            <guid>https://tv.naver.com/v/41451133</guid>
-            <pubDate>Mon, 16 Oct 2023 11:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[2:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231016_98/DpoXh_1697453274507rpC8B_JPEG/cover_cover_desk_20231016_194420_1_2_Large_20231016194702178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
