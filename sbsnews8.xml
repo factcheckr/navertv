@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 04:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 05:17:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] '온라인 사기' 중국인 4천여 명, 미얀마서 이송]]></title>
+            <link>https://tv.naver.com/v/41483413</link>
+            <guid>https://tv.naver.com/v/41483413</guid>
+            <pubDate>Tue, 17 Oct 2023 05:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_165/JVMyp_1697517960406tLiYG_JPEG/cover_0001098017_001_20231017134501145.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] 사회초년생 모아 코로나19 정부 지원금 가로챈 일당 체포]]></title>
             <link>https://tv.naver.com/v/41482027</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 17 Oct 2023 01:11:33 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231017_244/vUSrQ_1697502941482arxfw_JPEG/cover_0001097883_001_20231017093508351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교통카드 충전 뒤 돈 뽑아온다더니…700만 원 먹튀한 남성]]></title>
-            <link>https://tv.naver.com/v/41471107</link>
-            <guid>https://tv.naver.com/v/41471107</guid>
-            <pubDate>Tue, 17 Oct 2023 01:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231017_180/Y2A3b_1697498927575zdKIK_JPEG/cover_0001097884_001_20231017082811796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
