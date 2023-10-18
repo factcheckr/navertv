@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 06:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 07:18:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/41543231</link>
+            <guid>https://tv.naver.com/v/41543231</guid>
+            <pubDate>Wed, 18 Oct 2023 07:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_89/RufJ3_1697611183901T4AJn_JPEG/cover_cover_20231018153707_20_845_1340858_1080_7_20231018153901140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸LIVE-LIVE스테이션] "하마스 포탄에 한글"…하마스 전술에서 북한이 보인다?]]></title>
             <link>https://tv.naver.com/v/41534817</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 18 Oct 2023 01:12:30 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231018_152/tFCIk_16975879321785YFd7_JPEG/cover_cover_20231018090835_20_605_1340828_1080_7_20231018091101156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] 아마존 강, 120여 년 만에 최저 수위…가뭄에 배도 못 다녀]]></title>
-            <link>https://tv.naver.com/v/41525802</link>
-            <guid>https://tv.naver.com/v/41525802</guid>
-            <pubDate>Wed, 18 Oct 2023 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231018_127/VwpdP_1697587301902DhEpQ_JPEG/cover_cover_20231018085806_20_605_1340826_1080_7_20231018090101144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
