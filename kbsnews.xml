@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 05:17:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 06:24:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이창용, ‘영끌족’에 경고…“1%대 금리 기대 마라” [현장영상]]]></title>
+            <link>https://tv.naver.com/v/41593841</link>
+            <guid>https://tv.naver.com/v/41593841</guid>
+            <pubDate>Thu, 19 Oct 2023 06:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_124/kRo5I_1697696209506iPlev_PNG/cover_0011585184_001_20231019151601131.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 전국 곳곳 비…내일, 쌀쌀해요]]></title>
             <link>https://tv.naver.com/v/41590077</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 19 Oct 2023 04:20:21 GMT</pubDate>
             <content:encoded><![CDATA[2:12]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231019_293/E3nR4_1697686610161paKgi_JPEG/cover_0011585116_001_20231019123601140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오후날씨 꿀팁] 전국 곳곳 비…내일부터 쌀쌀해져요]]></title>
-            <link>https://tv.naver.com/v/41584987</link>
-            <guid>https://tv.naver.com/v/41584987</guid>
-            <pubDate>Thu, 19 Oct 2023 04:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231019_277/i3s08_1697685826936banB8_JPEG/cover_0011585115_001_20231019122319800.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
