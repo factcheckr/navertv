@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 06:22:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 07:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 21 Oct 2023 06:21:42 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231021_293/TKK0N_16978692932468mj4D_JPEG/cover_2023102190019_thumb_031626_20231021152112887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이선균 마약 투약 의혹에 영화계 등 '초비상']]></title>
+            <link>https://tv.naver.com/v/41683313</link>
+            <guid>https://tv.naver.com/v/41683313</guid>
+            <pubDate>Sat, 21 Oct 2023 07:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[10:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_143/1eu0v_1697869505154Q0i5I_JPEG/cover_2023102190017_thumb_031535_20231021152101465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경찰, 이선균 마약 의혹 내사…"재벌3세·가수 지망생도"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 20 Oct 2023 12:33:30 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_89/b5BN8_1697803920390K7gHO_JPEG/cover_2023102090177_thumb_090715_20231020211111671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[파월 "물가 여전히 높다" 발언에 美 국채금리 16년만에 5% 돌파]]></title>
-            <link>https://tv.naver.com/v/41663551</link>
-            <guid>https://tv.naver.com/v/41663551</guid>
-            <pubDate>Fri, 20 Oct 2023 12:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_281/4Ltvi_1697803952629L7Rrh_JPEG/cover_2023102090175_thumb_090645_20231020211103164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
