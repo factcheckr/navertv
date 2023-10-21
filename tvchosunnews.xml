@@ -4,9 +4,33 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 05:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Oct 2023 06:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 21일 '뉴스현장' 클로징]]></title>
+            <link>https://tv.naver.com/v/41683320</link>
+            <guid>https://tv.naver.com/v/41683320</guid>
+            <pubDate>Sat, 21 Oct 2023 06:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_167/brQVK_1697869286408gVraJ_JPEG/cover_2023102190021_thumb_031725_20231021152120123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 설악산·광덕산 첫눈…일요일 아침까지 반짝 추위]]></title>
+            <link>https://tv.naver.com/v/41683318</link>
+            <guid>https://tv.naver.com/v/41683318</guid>
+            <pubDate>Sat, 21 Oct 2023 06:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[0:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_293/TKK0N_16978692932468mj4D_JPEG/cover_2023102190019_thumb_031626_20231021152112887.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경찰, 이선균 마약 의혹 내사…"재벌3세·가수 지망생도"]]></title>
+            <link>https://tv.naver.com/v/41683182</link>
+            <guid>https://tv.naver.com/v/41683182</guid>
+            <pubDate>Sat, 21 Oct 2023 06:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_97/6fwtA_1697869016865MxB7l_JPEG/cover_2023102190015_thumb_031145_20231021151601593.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[10월 20일 '뉴스 9' 클로징]]></title>
             <link>https://tv.naver.com/v/41665773</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 20 Oct 2023 12:33:30 GMT</pubDate>
             <content:encoded><![CDATA[2:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231020_281/4Ltvi_1697803952629L7Rrh_JPEG/cover_2023102090175_thumb_090645_20231020211103164.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 20일 '뉴스 9' 헤드라인]]></title>
-            <link>https://tv.naver.com/v/41663374</link>
-            <guid>https://tv.naver.com/v/41663374</guid>
-            <pubDate>Fri, 20 Oct 2023 12:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[1:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_174/TE2Lu_1697803615127eDQ4e_JPEG/cover_2023102090173_thumb_090433_20231020210605066.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10월 20일 '뉴스 9' 예고]]></title>
-            <link>https://tv.naver.com/v/41661023</link>
-            <guid>https://tv.naver.com/v/41661023</guid>
-            <pubDate>Fri, 20 Oct 2023 11:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_155/Yx2BB_1697799700207FRyYu_JPEG/cover_2023102090160_thumb_075702_20231020200103124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[씨박스] 비판 현수막 내리고 민생 속으로]]></title>
-            <link>https://tv.naver.com/v/41660595</link>
-            <guid>https://tv.naver.com/v/41660595</guid>
-            <pubDate>Fri, 20 Oct 2023 11:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231020_51/uKgv5_1697799143250yCILq_JPEG/cover_2023102090158_thumb_074744_20231020195127696.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
