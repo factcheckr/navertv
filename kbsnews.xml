@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Oct 2023 23:16:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 01:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[7시 날씨] 낮부터 추위 누그러져…강원 동해안 건조주의보]]></title>
+            <link>https://tv.naver.com/v/41705035</link>
+            <guid>https://tv.naver.com/v/41705035</guid>
+            <pubDate>Sun, 22 Oct 2023 01:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_264/ak6Ov_1697933248115RW0yk_JPEG/cover_0011586635_001_20231022090701110.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조폭 자금에 인수된 어느 회사 이야기 [창+]]]></title>
+            <link>https://tv.naver.com/v/41704996</link>
+            <guid>https://tv.naver.com/v/41704996</guid>
+            <pubDate>Sun, 22 Oct 2023 01:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[13:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_96/NCtnh_1697933193037e9V5v_PNG/cover_0011586656_001_20231022090217431.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[통영 해상 어선 전복…1명 구조·1명 사망]]></title>
             <link>https://tv.naver.com/v/41704530</link>
@@ -14,14 +30,6 @@
             <pubDate>Sat, 21 Oct 2023 23:15:38 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231022_189/r8pWb_1697928614316UxFWV_JPEG/cover_0011586634_001_20231022075001163.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[광장 날씨] 낮부터 추위 누그러져…강원 동해안 건조주의보]]></title>
-            <link>https://tv.naver.com/v/41704294</link>
-            <guid>https://tv.naver.com/v/41704294</guid>
-            <pubDate>Sat, 21 Oct 2023 22:14:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_156/17whx_1697926385159frp92_JPEG/cover_0011586635_001_20231022071238067.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국민의힘, 오늘 ‘김기현 2기’ 첫 고위당정]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 21 Oct 2023 13:17:57 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231021_132/rIQMj_1697894128696MrEOG_JPEG/cover_0011586594_001_20231021221515586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[충청지역 휘발윳값 소폭 하락세…국제유가 변동성 커져]]></title>
-            <link>https://tv.naver.com/v/41695137</link>
-            <guid>https://tv.naver.com/v/41695137</guid>
-            <pubDate>Sat, 21 Oct 2023 13:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_153/HCBS3_1697894127232CydGy_JPEG/cover_0011586593_001_20231021221508671.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
