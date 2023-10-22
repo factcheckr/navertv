@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 04:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 05:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12시 날씨] 청명한 가을…강원 동해안 건조주의보]]></title>
+            <link>https://tv.naver.com/v/41709552</link>
+            <guid>https://tv.naver.com/v/41709552</guid>
+            <pubDate>Sun, 22 Oct 2023 05:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[1:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_226/4wbcT_1697949387262H9Oa2_JPEG/cover_0011586695_001_20231022133601222.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[올해 말라리아 환자 700명 넘어…12년 만에 최다]]></title>
             <link>https://tv.naver.com/v/41707901</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 21 Oct 2023 14:13:33 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231021_69/Wn4yH_1697894665415pJakt_JPEG/cover_0011586602_001_20231021222411402.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악으로 하나되는 ‘라운드 뮤직 페스티벌’]]></title>
-            <link>https://tv.naver.com/v/41695480</link>
-            <guid>https://tv.naver.com/v/41695480</guid>
-            <pubDate>Sat, 21 Oct 2023 14:13:33 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_272/AQ2Qc_1697894704610GjNIG_JPEG/cover_0011586601_001_20231021222403530.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
