@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 20:17:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 21:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/41733584</link>
+            <guid>https://tv.naver.com/v/41733584</guid>
+            <pubDate>Sun, 22 Oct 2023 21:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_147/Kwr3J_1698009042798J2EQu_JPEG/cover_0001099471_001_20231023061001170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울 동대문구 한때 탁한 수돗물…주민 불편]]></title>
             <link>https://tv.naver.com/v/41733306</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 22 Oct 2023 04:19:25 GMT</pubDate>
             <content:encoded><![CDATA[2:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231022_246/BRQJP_1697947709626CFhwS_JPEG/cover_0001099275_001_20231022130710096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 낮부터 추위 누그러져…동해안 건조주의보]]></title>
-            <link>https://tv.naver.com/v/41708147</link>
-            <guid>https://tv.naver.com/v/41708147</guid>
-            <pubDate>Sun, 22 Oct 2023 04:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_79/PlFsy_1697945192924hvDus_JPEG/cover_0001099385_001_20231022122601144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
