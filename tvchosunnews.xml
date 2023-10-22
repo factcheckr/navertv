@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Oct 2023 06:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 07:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 22 Oct 2023 06:21:40 GMT</pubDate>
             <content:encoded><![CDATA[12:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231022_173/Ot9dz_16979556973103jfF1_JPEG/cover_2023102290019_thumb_031121_20231022151601611.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['김기현 2기' 지도부 첫 고위당정…의미는?]]></title>
+            <link>https://tv.naver.com/v/41712092</link>
+            <guid>https://tv.naver.com/v/41712092</guid>
+            <pubDate>Sun, 22 Oct 2023 07:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[45:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231022_41/9GFwi_1697955988851BMPLd_JPEG/cover_2023102290015_thumb_030801_20231022151101477.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[120년 역사 中칭따오 맥주 공장서 원료에 방뇨 영상 '발칵']]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 21 Oct 2023 10:17:57 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231021_224/ERHga_1697882806628Mg0mI_JPEG/cover_2023102190034_thumb_070339_20231021190614154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹, 연일 반성·소통·민생 강조…민심 수습 돌파구 될까?]]></title>
-            <link>https://tv.naver.com/v/41685941</link>
-            <guid>https://tv.naver.com/v/41685941</guid>
-            <pubDate>Sat, 21 Oct 2023 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[49:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231021_226/zqzzo_1697875968701K5iQd_JPEG/cover_2023102190013_thumb_044846_20231021165201562.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
