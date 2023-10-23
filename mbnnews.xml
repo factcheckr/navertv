@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 06:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 07:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/41752209</link>
+            <guid>https://tv.naver.com/v/41752209</guid>
+            <pubDate>Mon, 23 Oct 2023 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_185/oeQfx_1698043412101VyhE5_JPEG/cover_cover_20231023153857_20_845_1341256_1080_7_20231023154301174.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸LIVE-이슈ZIP] 與 "형식없이 만나자" vs 野 "3자회담 해야"…돌아온 이재명, 당 단합 강조]]></title>
             <link>https://tv.naver.com/v/41742262</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 Oct 2023 01:12:30 GMT</pubDate>
             <content:encoded><![CDATA[1:56]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231023_206/pZJ2C_1698018117814u61ip_JPEG/cover_cover_20231023083214_20_605_1341221_1080_7_20231023084101127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]마드리드 도심 한가운데 때 아닌 '양떼' 행진]]></title>
-            <link>https://tv.naver.com/v/41734638</link>
-            <guid>https://tv.naver.com/v/41734638</guid>
-            <pubDate>Mon, 23 Oct 2023 01:12:30 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231023_218/ZXL1B_1698017984260z8wB0_JPEG/cover_cover_20231023083104_20_605_1341220_1080_7_20231023083901139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
