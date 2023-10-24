@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 06:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 07:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/41806862</link>
+            <guid>https://tv.naver.com/v/41806862</guid>
+            <pubDate>Tue, 24 Oct 2023 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_201/XPMUr_1698129941095DIEH2_JPEG/cover_cover_20231024154210_20_845_1341367_1080_7_20231024154501146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한인 4명, 동해 속초서 귀순 의사 표시…군 "신병 확보" [D뉴스]]]></title>
             <link>https://tv.naver.com/v/41797741</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 24 Oct 2023 01:12:01 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231024_63/Dl3Xs_1698103896224bHJY4_JPEG/cover_cover_20231024082733_20_605_1341335_1080_7_20231024083101178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] '국민 삐약이' 신유빈의 따뜻한 마음…16살부터 기부]]></title>
-            <link>https://tv.naver.com/v/41786775</link>
-            <guid>https://tv.naver.com/v/41786775</guid>
-            <pubDate>Tue, 24 Oct 2023 01:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_95/qxh3P_1698103774122nJ8Ao_JPEG/cover_cover_20231024082556_20_605_1341334_1080_7_20231024082901138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
