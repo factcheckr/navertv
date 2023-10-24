@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 01:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 02:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 24 Oct 2023 01:12:01 GMT</pubDate>
             <content:encoded><![CDATA[6:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231024_246/8M3to_1698109884624gzCAr_JPEG/cover_cover_20231024100420_20_606_1341354_1080_7_20231024100712590.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[與 혁신위원장에 인요한…"와이프-아이 빼고 다 바꿔야"]]></title>
+            <link>https://tv.naver.com/v/41788742</link>
+            <guid>https://tv.naver.com/v/41788742</guid>
+            <pubDate>Tue, 24 Oct 2023 02:25:24 GMT</pubDate>
+            <content:encoded><![CDATA[26:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_2/4zBoe_1698110269293iExno_JPEG/cover_cover_20231024095638_20_606_1341352_1080_7_20231024100413928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마약 혐의 배우 이선균, 이젠 피의자 신분]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 23 Oct 2023 23:18:46 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231024_176/RVYPA_1698101027344mQaPK_JPEG/cover_cover_20231024074111_20_605_1341319_1080_7_20231024074301138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["왕이, 이번 주 미국 방문"…다음 달 미중 정상회담 조율]]></title>
-            <link>https://tv.naver.com/v/41786157</link>
-            <guid>https://tv.naver.com/v/41786157</guid>
-            <pubDate>Mon, 23 Oct 2023 23:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231024_33/f16Hd_1698100925331JVhFI_JPEG/cover_cover_20231024073732_20_605_1341318_1080_7_20231024074101137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
