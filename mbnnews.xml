@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 06:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 07:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/41863349</link>
+            <guid>https://tv.naver.com/v/41863349</guid>
+            <pubDate>Wed, 25 Oct 2023 07:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_170/P463o_1698215863421LHkcy_JPEG/cover_cover_20231025153425_20_845_1341484_1080_7_20231025153701244.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸LIVE-이슈ZIP] 천하람 '與 인요한 혁신위' 거절…"26일 인선 발표"]]></title>
             <link>https://tv.naver.com/v/41854500</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Oct 2023 01:11:42 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231025_27/NKKOB_1698194413331wKCaJ_JPEG/cover_cover_20231025093624_20_689_1341450_1080_7_20231025093901158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["탄소섬유 시장 선점"…경북 구미시, 글로벌 기업 공장 증설]]></title>
-            <link>https://tv.naver.com/v/41845235</link>
-            <guid>https://tv.naver.com/v/41845235</guid>
-            <pubDate>Wed, 25 Oct 2023 01:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_177/NwgkL_1698194171710PVwDv_JPEG/cover_cover_20231025093126_20_689_1341449_1080_7_20231025093501178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
