@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 06:23:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 07:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/41919682</link>
+            <guid>https://tv.naver.com/v/41919682</guid>
+            <pubDate>Thu, 26 Oct 2023 07:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:26]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_221/V8efU_16983029886759PpvY_JPEG/cover_cover_20231026154514_20_845_1341595_1080_7_20231026154901131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸LIVE-이슈ZIP] 통합 강조한 '인요한 혁신위'…비윤까지 통합 가능할까?]]></title>
             <link>https://tv.naver.com/v/41909337</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Oct 2023 23:18:37 GMT</pubDate>
             <content:encoded><![CDATA[1:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231026_291/12bMj_1698275272725hicts_JPEG/cover_cover_20231026080325_20_605_1341560_1080_7_20231026080701135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]500년 전 소녀가 눈 앞에, 잉카 시대 미라 복원]]></title>
-            <link>https://tv.naver.com/v/41899626</link>
-            <guid>https://tv.naver.com/v/41899626</guid>
-            <pubDate>Wed, 25 Oct 2023 23:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[0:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_178/Ic2nX_1698275139142widNj_JPEG/cover_cover_20231026080102_20_605_1341559_1080_7_20231026080501197.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
