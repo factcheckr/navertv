@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 03:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 04:21:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전모 씨, ‘남현희 스토킹’ 혐의로 오늘 체포…5시간 반 만에 석방]]></title>
+            <link>https://tv.naver.com/v/41911038</link>
+            <guid>https://tv.naver.com/v/41911038</guid>
+            <pubDate>Thu, 26 Oct 2023 04:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_230/835kh_1698294023224n7Pth_JPEG/cover_0000260367_001_20231026131901481.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[여의도 복판서 깊이 2.5m ‘싱크홀’…행인 1명 다쳐]]></title>
             <link>https://tv.naver.com/v/41883491</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Oct 2023 11:15:08 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231025_210/XClwT_1698230010100FT8FH_JPEG/cover_0000260318_001_20231025193224100.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[조민 장학금 802만 원…서울대 “입학 취소 후 환수”]]></title>
-            <link>https://tv.naver.com/v/41876911</link>
-            <guid>https://tv.naver.com/v/41876911</guid>
-            <pubDate>Wed, 25 Oct 2023 11:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[7:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231025_221/LwzWJ_1698230123279SGP3y_JPEG/cover_0000260316_001_20231025193211119.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
