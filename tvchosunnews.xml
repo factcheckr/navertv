@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 10:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 11:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10월 26일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/41933379</link>
+            <guid>https://tv.naver.com/v/41933379</guid>
+            <pubDate>Thu, 26 Oct 2023 11:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_10/2z03X_1698317807954gOwyu_JPEG/cover_2023102690147_thumb_075041_20231026195601565.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대법 "'제국의 위안부' 박유하 무죄…명예훼손 아냐"]]></title>
             <link>https://tv.naver.com/v/41926103</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 25 Oct 2023 23:18:18 GMT</pubDate>
             <content:encoded><![CDATA[0:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231026_56/tIKVq_1698273691635j5mI9_JPEG/cover_2023102690011_thumb_073914_20231026074115641.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기버스 노사협상 타결에 파업 철회…오늘 정상운행]]></title>
-            <link>https://tv.naver.com/v/41899384</link>
-            <guid>https://tv.naver.com/v/41899384</guid>
-            <pubDate>Wed, 25 Oct 2023 23:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[1:43]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_20/uTThl_1698273718014xoJYH_JPEG/cover_2023102690009_thumb_073735_20231026074105099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
