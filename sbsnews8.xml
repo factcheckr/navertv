@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Oct 2023 02:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Oct 2023 03:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/41907938</link>
+            <guid>https://tv.naver.com/v/41907938</guid>
+            <pubDate>Thu, 26 Oct 2023 03:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_56/SHlE5_1698289848396a33Da_JPEG/cover_0001100618_001_20231026121003931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비머pick] CCTV에 담긴 가자지구 폭격 순간…"하루 704명 숨져"]]></title>
+            <link>https://tv.naver.com/v/41905734</link>
+            <guid>https://tv.naver.com/v/41905734</guid>
+            <pubDate>Thu, 26 Oct 2023 03:17:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_172/KCQq1_1698287050462JQt9S_JPEG/cover_0001100598_001_20231026112303392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[1분핫뉴스] '남현희 재혼 상대' 20대 여성 전청조, 스토킹 혐의 체포]]></title>
             <link>https://tv.naver.com/v/41903758</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 25 Oct 2023 22:16:03 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231026_203/LNE3R_1698271464173n8nbf_JPEG/cover_0001100412_001_20231026070325204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이번엔 '4대강' 방문한 MB…총선 앞두고 존재감?]]></title>
-            <link>https://tv.naver.com/v/41899048</link>
-            <guid>https://tv.naver.com/v/41899048</guid>
-            <pubDate>Wed, 25 Oct 2023 22:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_291/SwVtH_1698271456331aDkdJ_JPEG/cover_0001100410_001_20231026070301132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[참사, 다시는 없도록…10.29km 동행한 유가족들]]></title>
-            <link>https://tv.naver.com/v/41899041</link>
-            <guid>https://tv.naver.com/v/41899041</guid>
-            <pubDate>Wed, 25 Oct 2023 22:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231026_46/9dSPH_1698271451532O2wou_JPEG/cover_0001100408_001_20231026070201143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
