@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 20:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 21:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[453회_기상 전망과 화재 예방대책]]></title>
+            <link>https://tv.naver.com/v/42026392</link>
+            <guid>https://tv.naver.com/v/42026392</guid>
+            <pubDate>Sat, 28 Oct 2023 21:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[14:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_216/kMeFJ_1698526037623iQuMU_JPEG/cover_cover_20231029053647_20_849_1341785_1080_7_20231029054001156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영상 속으로 - 100대 명품숲 강원 동해 두타계곡 숲길]]></title>
             <link>https://tv.naver.com/v/42019153</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Oct 2023 12:33:07 GMT</pubDate>
             <content:encoded><![CDATA[13:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231027_28/uczGv_1698406679368qaDoU_JPEG/cover_cover_20231027202556_20_536_1341748_1080_7_20231027203001157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혁신위 '사면' 제안에 이준석 "반대" 외친 속내는? [뉴스와이드]]]></title>
-            <link>https://tv.naver.com/v/41985294</link>
-            <guid>https://tv.naver.com/v/41985294</guid>
-            <pubDate>Fri, 27 Oct 2023 12:33:07 GMT</pubDate>
-            <content:encoded><![CDATA[18:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231027_183/7rabb_16984067130391fKvi_JPEG/cover_cover_20231027202254_20_536_1341747_1080_7_20231027202801185.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
