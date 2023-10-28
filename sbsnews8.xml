@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 08:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 09:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 이태원 참사 1주기 앞두고 현장 찾은 이상민 행안부 장관…"안전 만전 기울여달라"]]></title>
+            <link>https://tv.naver.com/v/42011936</link>
+            <guid>https://tv.naver.com/v/42011936</guid>
+            <pubDate>Sat, 28 Oct 2023 09:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_292/q6E0x_1698482592721xkO7c_JPEG/cover_0001101253_001_20231028174201175.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D리포트] 내일 새벽 4시 34분 '부분 월식' 달 귀퉁이 사라져]]></title>
             <link>https://tv.naver.com/v/42008694</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Oct 2023 23:15:54 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231028_269/onJ10_16984450910778SX0b_JPEG/cover_0001101161_001_20231028071701146.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이스라엘 '가자 지상전' 확대 돌입…전역 통신 두절]]></title>
-            <link>https://tv.naver.com/v/41998912</link>
-            <guid>https://tv.naver.com/v/41998912</guid>
-            <pubDate>Fri, 27 Oct 2023 22:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_269/fyCGS_1698444480171pNE0C_JPEG/cover_0001101160_001_20231028070701108.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
