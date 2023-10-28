@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Oct 2023 05:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Oct 2023 06:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]“尹 대선 보도 왜곡” JTBC 스스로 인정, 왜?]]></title>
+            <link>https://tv.naver.com/v/42007154</link>
+            <guid>https://tv.naver.com/v/42007154</guid>
+            <pubDate>Sat, 28 Oct 2023 06:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[26:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_88/tpx8V_1698473801717tnGWz_JPEG/cover_0000260493_001_20231028150501768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독 인터뷰]남현희 “전 씨가 모두 주도…악몽을 꾸는 것 같아”]]></title>
             <link>https://tv.naver.com/v/41987976</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 27 Oct 2023 12:32:57 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231027_258/pm7lU_16984061384087hhlv_JPEG/cover_0000260473_001_20231027202720412.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[민주 지도부 “탕평 인사”…비명 “공천 학살 가시화”]]></title>
-            <link>https://tv.naver.com/v/41985182</link>
-            <guid>https://tv.naver.com/v/41985182</guid>
-            <pubDate>Fri, 27 Oct 2023 12:32:57 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231027_162/0IRwZ_1698405993266Vbzxm_JPEG/cover_0000260465_001_20231027202530558.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
