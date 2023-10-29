@@ -4,16 +4,24 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 04:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 05:16:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[날씨] 쾌청한 가을, 큰 일교차 주의]]></title>
-            <link>https://tv.naver.com/v/42030495</link>
-            <guid>https://tv.naver.com/v/42030495</guid>
-            <pubDate>Sun, 29 Oct 2023 03:16:51 GMT</pubDate>
+            <title><![CDATA[[제보] 김포발 제주행 에어서울, 조류 충돌로 긴급 회항]]></title>
+            <link>https://tv.naver.com/v/42033060</link>
+            <guid>https://tv.naver.com/v/42033060</guid>
+            <pubDate>Sun, 29 Oct 2023 05:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[1:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_55/JGbzF_1698555982236NUvYz_JPEG/cover_0011591350_001_20231029140601142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12시 날씨] 쾌청한 가을, 큰 일교차 주의]]></title>
+            <link>https://tv.naver.com/v/42032963</link>
+            <guid>https://tv.naver.com/v/42032963</guid>
+            <pubDate>Sun, 29 Oct 2023 05:15:07 GMT</pubDate>
             <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_119/FTZB9_1698549270826c4yrX_JPEG/cover_0011591340_001_20231029121401151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_9/hVLIk_1698555809631BrFdc_JPEG/cover_0011591340_001_20231029140301182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘마약 혐의’ 이선균 “가족에 미안”…혐의 진술은 거부]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 28 Oct 2023 14:13:51 GMT</pubDate>
             <content:encoded><![CDATA[2:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231028_60/mFQ6g_1698499928280C92L3_JPEG/cover_0011591192_001_20231028223100843.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“책임은 있는 사람에 딱딱 물어야”…참사 1년, 누가 책임졌나?]]></title>
-            <link>https://tv.naver.com/v/42019485</link>
-            <guid>https://tv.naver.com/v/42019485</guid>
-            <pubDate>Sat, 28 Oct 2023 14:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231028_176/0wzvl_1698499912855ScENu_JPEG/cover_0011591188_001_20231028223048928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
