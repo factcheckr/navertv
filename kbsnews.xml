@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 Oct 2023 20:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Oct 2023 21:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이스라엘, “전쟁 2단계” 본격 지상전…이란 “선 넘었다” 경고]]></title>
+            <link>https://tv.naver.com/v/42055327</link>
+            <guid>https://tv.naver.com/v/42055327</guid>
+            <pubDate>Sun, 29 Oct 2023 21:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_276/UUePu_1698614026148Pg8Dt_JPEG/cover_0011591505_001_20231030061301135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨와 생활] 추석 앞두고 벌초·성묘, 벌쏘임 주의해야!]]></title>
             <link>https://tv.naver.com/v/42054461</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 29 Oct 2023 13:18:30 GMT</pubDate>
             <content:encoded><![CDATA[3:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231029_270/bSK7y_1698585037841li5AF_JPEG/cover_0011591412_001_20231029220906283.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤 대통령, 추도식 대신 추도 예배서 “깊은 위로”…야 “거짓된 반성”]]></title>
-            <link>https://tv.naver.com/v/42046610</link>
-            <guid>https://tv.naver.com/v/42046610</guid>
-            <pubDate>Sun, 29 Oct 2023 13:18:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231029_281/Tsfaq_16985849970831fgEw_JPEG/cover_0011591411_001_20231029220855827.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
