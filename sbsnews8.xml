@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 14:17:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 15:19:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인천 교차로서 5중 추돌사고…5명 경상]]></title>
+            <link>https://tv.naver.com/v/42100563</link>
+            <guid>https://tv.naver.com/v/42100563</guid>
+            <pubDate>Mon, 30 Oct 2023 15:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[0:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_3/V0oex_1698676517270VvNdH_JPEG/cover_0001101756_001_20231030233501117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] KF-21 첫 생산량 감축…가격 경쟁력 어쩌나]]></title>
             <link>https://tv.naver.com/v/42096744</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Oct 2023 13:21:08 GMT</pubDate>
             <content:encoded><![CDATA[0:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_287/iyF9i_16986703396421aJaC_JPEG/cover_0001101745_001_20231030215210567.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 한낮 포근하지만 큰 일교차…오전까지 짙은 안개]]></title>
-            <link>https://tv.naver.com/v/42094643</link>
-            <guid>https://tv.naver.com/v/42094643</guid>
-            <pubDate>Mon, 30 Oct 2023 13:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_72/XaDnZ_1698670356167h4duk_JPEG/cover_0001101744_001_20231030215201139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
