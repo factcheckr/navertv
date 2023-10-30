@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 20:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 21:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/42106546</link>
+            <guid>https://tv.naver.com/v/42106546</guid>
+            <pubDate>Mon, 30 Oct 2023 21:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_207/kO5fn_1698700115669tfqBY_JPEG/cover_0001101778_001_20231031060801149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[경남 첫 의심신고…접종 속도전에 부상 속출]]></title>
             <link>https://tv.naver.com/v/42106354</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Oct 2023 13:21:07 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_111/89Jz6_1698670926766hho8X_JPEG/cover_0001101722_001_20231030220021270.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["병원 지하에 땅굴" 입 연 하마스 특수부대원…영상 공개]]></title>
-            <link>https://tv.naver.com/v/42095182</link>
-            <guid>https://tv.naver.com/v/42095182</guid>
-            <pubDate>Mon, 30 Oct 2023 13:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_217/hkFBX_1698670903168vSP0v_JPEG/cover_0001101731_001_20231030220001268.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
