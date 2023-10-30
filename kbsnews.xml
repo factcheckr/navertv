@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Oct 2023 13:22:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Oct 2023 14:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 22.6도…내일도 맑고 9~23도]]></title>
+            <link>https://tv.naver.com/v/42098819</link>
+            <guid>https://tv.naver.com/v/42098819</guid>
+            <pubDate>Mon, 30 Oct 2023 14:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[0:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_147/Es43Y_1698674608902yV4kj_JPEG/cover_0011592282_001_20231030230301264.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[집행유예 기간 중 또 음주운전…경찰, 차량 압수]]></title>
             <link>https://tv.naver.com/v/42096106</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 30 Oct 2023 13:20:45 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231030_172/cbs6k_1698671104803cHtNo_JPEG/cover_0011592252_001_20231030220446318.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강원도 옥수수연구소, 대표 연구기관 지정…현판식 개최]]></title>
-            <link>https://tv.naver.com/v/42095512</link>
-            <guid>https://tv.naver.com/v/42095512</guid>
-            <pubDate>Mon, 30 Oct 2023 13:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[0:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231030_141/ckLOh_1698671098563ca5cQ_JPEG/cover_0011592251_001_20231030220437573.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
