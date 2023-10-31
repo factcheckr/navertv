@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 06:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 07:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/42128033</link>
+            <guid>https://tv.naver.com/v/42128033</guid>
+            <pubDate>Tue, 31 Oct 2023 07:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_198/OwEta_1698735704024DT5Lr_JPEG/cover_cover_20231031155803_20_845_1341980_1080_7_20231031160101124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김명준의 뉴스파이터-임신 믿을 수밖에 없는 이유?…신체 일부 이식 믿은 남현희]]></title>
             <link>https://tv.naver.com/v/42120612</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 Oct 2023 01:12:41 GMT</pubDate>
             <content:encoded><![CDATA[0:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231031_63/FCwbj_1698708699990b10lV_JPEG/cover_cover_20231031082716_20_605_1341951_1080_7_20231031083103356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] 엄정화 "미용에 30억? 나쁜 인간들"…사칭 계정 주의보]]></title>
-            <link>https://tv.naver.com/v/42107882</link>
-            <guid>https://tv.naver.com/v/42107882</guid>
-            <pubDate>Tue, 31 Oct 2023 01:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231031_277/fHSyt_1698708576181RDeRt_JPEG/cover_cover_20231031082548_20_605_1341950_1080_7_20231031082901169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
