@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 03:19:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 04:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프레스룸LIVE-이슈ZIP] 자세 낮춘 윤석열 대통령…민주당 일부 의원 등 돌리고 '노룩 악수']]></title>
+            <link>https://tv.naver.com/v/42167793</link>
+            <guid>https://tv.naver.com/v/42167793</guid>
+            <pubDate>Wed, 01 Nov 2023 04:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[13:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_142/mDIu2_1698808819785roSfJ_JPEG/cover_cover_20231101120918_20_812_1342086_1080_7_20231101121401140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸LIVE-LIVE PICK] 박지윤·최동석 파경 / 박태환, 과실치상 혐의 수사 / 초·중생 수십 명이 또래 폭행]]></title>
             <link>https://tv.naver.com/v/42167651</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 31 Oct 2023 23:17:29 GMT</pubDate>
             <content:encoded><![CDATA[0:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231101_142/KQKow_1698793298686EGPpK_JPEG/cover_cover_20231101075816_20_605_1342050_1080_7_20231101080101142.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]여전한 아픔과 그리움, 스탈린 치하 희생자 추모]]></title>
-            <link>https://tv.naver.com/v/42160079</link>
-            <guid>https://tv.naver.com/v/42160079</guid>
-            <pubDate>Tue, 31 Oct 2023 23:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_6/3T1qs_1698793187436sk7PD_JPEG/cover_cover_20231101075620_20_605_1342049_1080_7_20231101075901128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
