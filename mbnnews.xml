@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 06:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 07:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/42178551</link>
+            <guid>https://tv.naver.com/v/42178551</guid>
+            <pubDate>Wed, 01 Nov 2023 07:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_52/vjGJG_1698820418068VO5kN_JPEG/cover_cover_20231101152934_20_845_1342089_1080_7_20231101153301152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엑스포 최전선에서③…대통령 특사 "부산은 자유의 보루"]]></title>
             <link>https://tv.naver.com/v/42171636</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Nov 2023 01:17:04 GMT</pubDate>
             <content:encoded><![CDATA[2:02]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231101_249/MNn4C_16987960913903Yuzl_JPEG/cover_cover_20231101084534_20_605_1342057_1080_7_20231101084701204.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 1일 굿모닝 MBN 클로징]]></title>
-            <link>https://tv.naver.com/v/42160161</link>
-            <guid>https://tv.naver.com/v/42160161</guid>
-            <pubDate>Tue, 31 Oct 2023 23:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231101_120/LYvzN_1698793510464zYV6U_JPEG/cover_cover_20231101080206_20_605_1342052_1080_7_20231101080501173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
