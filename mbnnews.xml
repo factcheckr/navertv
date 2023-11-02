@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 07:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 08:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프레스룸LIVE][단독] 전청조 피해자 녹취 입수 "'투자금, 남현희에게 달라고 해라' 얘기"]]></title>
+            <link>https://tv.naver.com/v/42237210</link>
+            <guid>https://tv.naver.com/v/42237210</guid>
+            <pubDate>Thu, 02 Nov 2023 08:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[27:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_189/krmXm_1698910703619tWqbX_JPEG/cover_cover_20231102160503_20_812_1342191_1080_7_20231102162803224.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김주하 AI]]></title>
             <link>https://tv.naver.com/v/42233342</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 01 Nov 2023 23:18:23 GMT</pubDate>
             <content:encoded><![CDATA[0:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231102_75/FpoOB_1698879911509krUGR_JPEG/cover_cover_20231102075903_20_605_1342159_1080_7_20231102080501147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]이례적인 고온 현상, 서울 한낮 24도…충북·남부 짙은 안개]]></title>
-            <link>https://tv.naver.com/v/42214307</link>
-            <guid>https://tv.naver.com/v/42214307</guid>
-            <pubDate>Wed, 01 Nov 2023 23:18:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_184/u7u8D_1698879831202owGzk_JPEG/cover_cover_20231102075749_20_605_1342158_1080_7_20231102080301167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
