@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 20:19:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 21:16:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/42268450</link>
+            <guid>https://tv.naver.com/v/42268450</guid>
+            <pubDate>Thu, 02 Nov 2023 21:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_159/RSvUL_1698959433682BW4Ou_JPEG/cover_0001102776_001_20231103061001161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강원 양구서 산불…산림청, 야간 진화 돌입]]></title>
             <link>https://tv.naver.com/v/42267448</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Nov 2023 16:23:16 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231103_278/gnG39_1698939688555jJIyi_JPEG/cover_0001102730_001_20231103004001152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성장앨범 예약했는데…유명 사진관 휴업에 수백 명 발 동동 [D리포트]]]></title>
-            <link>https://tv.naver.com/v/42263292</link>
-            <guid>https://tv.naver.com/v/42263292</guid>
-            <pubDate>Thu, 02 Nov 2023 16:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_210/AWY8e_1698939304567LQvy3_PNG/cover_0001102714_001_20231103003401137.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
