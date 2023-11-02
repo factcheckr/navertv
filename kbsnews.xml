@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 06:22:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 07:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건] 오늘의 주요 뉴스]]></title>
+            <link>https://tv.naver.com/v/42235995</link>
+            <guid>https://tv.naver.com/v/42235995</guid>
+            <pubDate>Thu, 02 Nov 2023 07:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_274/gH8kQ_1698909123413a9yA5_JPEG/cover_0011594517_001_20231102161001152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보기] 9층시사국 : 슬기로운 의사 증원 外]]></title>
+            <link>https://tv.naver.com/v/42233994</link>
+            <guid>https://tv.naver.com/v/42233994</guid>
+            <pubDate>Thu, 02 Nov 2023 07:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_82/3HIjv_1698907228898nV3tC_JPEG/cover_0011594505_001_20231102154001239.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[택시 기본요금 들썩…5천 원 시대 오나?]]></title>
+            <link>https://tv.naver.com/v/42232887</link>
+            <guid>https://tv.naver.com/v/42232887</guid>
+            <pubDate>Thu, 02 Nov 2023 07:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[2:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_255/9Qu1x_1698906119300w5jsl_JPEG/cover_0011594496_001_20231102152103486.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘사기 혐의’ 전청조 구속영장 신청…“피해 규모 19억 원”]]></title>
             <link>https://tv.naver.com/v/42232551</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 02 Nov 2023 04:19:58 GMT</pubDate>
             <content:encoded><![CDATA[1:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231102_206/TEWor_16988965593138o4xX_JPEG/cover_0011594425_001_20231102124201172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘세월호 구조 실패’ 해경 지휘부 무죄 확정…참사 9년만]]></title>
-            <link>https://tv.naver.com/v/42224063</link>
-            <guid>https://tv.naver.com/v/42224063</guid>
-            <pubDate>Thu, 02 Nov 2023 04:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_120/JuGAg_1698896388572K8Egw_JPEG/cover_0011594424_001_20231102123901140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 도쿄전력, 후쿠시마 오염수 3차 해양 방류 개시]]></title>
-            <link>https://tv.naver.com/v/42224001</link>
-            <guid>https://tv.naver.com/v/42224001</guid>
-            <pubDate>Thu, 02 Nov 2023 04:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_128/yjGev_1698896247155c5X6r_JPEG/cover_0011594423_001_20231102123701144.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미 연준 기준금리 2회 연속 동결…“시장 금리 주목”]]></title>
-            <link>https://tv.naver.com/v/42223953</link>
-            <guid>https://tv.naver.com/v/42223953</guid>
-            <pubDate>Thu, 02 Nov 2023 04:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_133/FiJDG_16988962223393cviM_JPEG/cover_0011594422_001_20231102123601143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
