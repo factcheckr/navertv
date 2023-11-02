@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 19:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 20:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전북 현대, 오늘 인천과 FA컵 4강전 홈경기]]></title>
+            <link>https://tv.naver.com/v/42268088</link>
+            <guid>https://tv.naver.com/v/42268088</guid>
+            <pubDate>Thu, 02 Nov 2023 20:17:51 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_26/Dck7E_1698953359690MmA4m_JPEG/cover_0011593524_001_20231103042902928.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘수륙양용버스’ 3년 만에 광안리 뜬다]]></title>
             <link>https://tv.naver.com/v/42264201</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Nov 2023 15:17:00 GMT</pubDate>
             <content:encoded><![CDATA[0:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231102_163/aJjwn_1698936992455jDYFU_JPEG/cover_0011594906_001_20231102235616312.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차, 10월 세계시장 판매량 37만여 대…9.6%↑]]></title>
-            <link>https://tv.naver.com/v/42261461</link>
-            <guid>https://tv.naver.com/v/42261461</guid>
-            <pubDate>Thu, 02 Nov 2023 15:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_4/8ELIX_1698936979070vWHsO_JPEG/cover_0011594904_001_20231102235601173.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
