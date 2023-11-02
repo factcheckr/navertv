@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 12:33:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 13:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 02 Nov 2023 12:32:27 GMT</pubDate>
             <content:encoded><![CDATA[0:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231102_135/lm1aQ_1698926679564cYaaM_JPEG/cover_cover_desk_20231102_205139_1_30_Large_20231102210102115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스데스크 클로징]]></title>
+            <link>https://tv.naver.com/v/42251888</link>
+            <guid>https://tv.naver.com/v/42251888</guid>
+            <pubDate>Thu, 02 Nov 2023 13:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[0:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_17/EfckC_1698926417535jghuy_JPEG/cover_cover_desk_20231102_205301_1_32_Large_20231102210012702.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 서울, 116년 만에 최고 기온 경신‥비와도 늦더위, 주말 비바람 대비]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 02 Nov 2023 11:13:54 GMT</pubDate>
             <content:encoded><![CDATA[2:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231102_3/6Coew_1698922551023zbdFI_JPEG/cover_cover_desk_20231102_195211_1_3_Large_20231102195502597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세월호 유족 9년 기다렸는데‥"사법부는 국민을 지켜주지 않았다"]]></title>
-            <link>https://tv.naver.com/v/42248680</link>
-            <guid>https://tv.naver.com/v/42248680</guid>
-            <pubDate>Thu, 02 Nov 2023 11:13:54 GMT</pubDate>
-            <content:encoded><![CDATA[2:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231102_243/WBJfI_1698922440176gSWyN_JPEG/cover_cover_desk_20231102_195006_1_2_Large_20231102195302024.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
