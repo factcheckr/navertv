@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Nov 2023 21:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 22:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 김기현 대표 "김포시, 서울 편입 당론으로 추진"]]></title>
+            <link>https://tv.naver.com/v/42321958</link>
+            <guid>https://tv.naver.com/v/42321958</guid>
+            <pubDate>Fri, 03 Nov 2023 22:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[5:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_20/VbGAV_1699048785234nU1wV_JPEG/cover_0000365110_001_20231104065803652.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국내 불송환 확신하는 박왕열 "내가 입 열면 검사 여럿 옷 벗어"]]></title>
             <link>https://tv.naver.com/v/42311729</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Nov 2023 11:15:14 GMT</pubDate>
             <content:encoded><![CDATA[2:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231103_79/p3UTB_1699009491742psMiJ_JPEG/cover_0000365788_001_20231103200401516.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아버지·누나 이름으로…유아인, 수면제 1150정 불법처방]]></title>
-            <link>https://tv.naver.com/v/42303627</link>
-            <guid>https://tv.naver.com/v/42303627</guid>
-            <pubDate>Fri, 03 Nov 2023 11:15:14 GMT</pubDate>
-            <content:encoded><![CDATA[6:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_224/vbwKQ_16990073733693gSIi_JPEG/cover_0000365770_001_20231103192701431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
