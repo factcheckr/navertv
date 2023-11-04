@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 16:21:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 17:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네팔 북서부 규모 5.6 강진...최소 143명 사망]]></title>
+            <link>https://tv.naver.com/v/42348859</link>
+            <guid>https://tv.naver.com/v/42348859</guid>
+            <pubDate>Sat, 04 Nov 2023 17:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[2:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_12/DPmyp_1699117802785XV3FU_JPEG/cover_cover_202311050206334479_t_20231105020901739.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포항, 전북 꺾고 10년 만에 통산 5번째 FA컵 우승]]></title>
             <link>https://tv.naver.com/v/42346893</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Nov 2023 14:15:17 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_28/3CYc9_1699104279636Ph5dY_JPEG/cover_cover_202311042151434124_t_20231104222342497.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구치소 수감자 병원에서 도주...아직 행방 묘연]]></title>
-            <link>https://tv.naver.com/v/42343183</link>
-            <guid>https://tv.naver.com/v/42343183</guid>
-            <pubDate>Sat, 04 Nov 2023 14:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_114/PRqaa_1699104250053PJrG6_JPEG/cover_cover_202311042151130535_t_20231104222331434.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
