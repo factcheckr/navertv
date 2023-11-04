@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Nov 2023 20:17:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Nov 2023 21:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[456회_기상 전망과 전동킥보드 화재 대책]]></title>
+            <link>https://tv.naver.com/v/42350723</link>
+            <guid>https://tv.naver.com/v/42350723</guid>
+            <pubDate>Sat, 04 Nov 2023 21:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[15:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_291/KuNBi_1699131601374Bfoj5_JPEG/cover_cover_20231105054833_20_849_1342386_1080_7_20231105055201196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스추적] "전제조건 충족해야" / 불출마 요구 당내 파장]]></title>
             <link>https://tv.naver.com/v/42341111</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 03 Nov 2023 12:33:38 GMT</pubDate>
             <content:encoded><![CDATA[13:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231103_195/1Y6EI_1699014075509JaEoi_JPEG/cover_cover_20231103210341_20_536_1342355_1080_7_20231103211401189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대사면 이어 친윤 험지행 요구한 국민의힘 혁신위…의도는?  [뉴스와이드]]]></title>
-            <link>https://tv.naver.com/v/42308097</link>
-            <guid>https://tv.naver.com/v/42308097</guid>
-            <pubDate>Fri, 03 Nov 2023 12:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[26:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_165/hsSmQ_1699013720323yBhk1_JPEG/cover_cover_20231103205830_20_536_1342354_1080_7_20231103210501195.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
