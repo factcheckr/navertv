@@ -4,9 +4,25 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 09:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 10:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[11월 5일 '뉴스 7' 헤드라인]]></title>
+            <link>https://tv.naver.com/v/42365566</link>
+            <guid>https://tv.naver.com/v/42365566</guid>
+            <pubDate>Sun, 05 Nov 2023 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_71/7FB4W_1699179096552YDmiv_JPEG/cover_2023110590033_thumb_070526_20231105191101492.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["한국은 IT 기술의 선두 주자"…'미디어 테크쇼' 고양서 개막]]></title>
+            <link>https://tv.naver.com/v/42364084</link>
+            <guid>https://tv.naver.com/v/42364084</guid>
+            <pubDate>Sun, 05 Nov 2023 10:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_115/khnlX_1699176110128e8dCK_JPEG/cover_2023110590014_thumb_061908_20231105182101483.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정부·지자체, 빈대 퇴치 대책 마련은?]]></title>
             <link>https://tv.naver.com/v/42358736</link>
@@ -30,14 +46,6 @@
             <pubDate>Sun, 05 Nov 2023 07:15:04 GMT</pubDate>
             <content:encoded><![CDATA[0:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231105_47/AoQ6y_1699165302603BS5Rp_JPEG/cover_2023110590016_thumb_031627_20231105152109626.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["한국은 IT 기술의 선두 주자"…'미디어 테크쇼' 고양서 개막]]></title>
-            <link>https://tv.naver.com/v/42358718</link>
-            <guid>https://tv.naver.com/v/42358718</guid>
-            <pubDate>Sun, 05 Nov 2023 07:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_121/F7A1q_1699165312545hN43f_JPEG/cover_2023110590014_thumb_031605_20231105152101532.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['병원서 도주' 김길수, 이틀째 추적…택시비 지불한 여성 신원 파악]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Nov 2023 06:21:05 GMT</pubDate>
             <content:encoded><![CDATA[5:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_105/60fdn_1699076288146wIirY_JPEG/cover_2023110490014_thumb_023156_20231104143601581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 4일 '뉴스현장' 클로징]]></title>
-            <link>https://tv.naver.com/v/42328233</link>
-            <guid>https://tv.naver.com/v/42328233</guid>
-            <pubDate>Sat, 04 Nov 2023 05:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_177/09sKR_1699074377942VO1mV_JPEG/cover_2023110490018_thumb_020343_20231104140611828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

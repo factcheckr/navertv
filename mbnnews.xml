@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 09:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 10:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sun, 05 Nov 2023 08:20:13 GMT</pubDate>
             <content:encoded><![CDATA[19:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231105_16/NfcuH_1699171653032xxC9k_JPEG/cover_cover_20231105165335_20_813_1342390_1080_7_20231105165801357.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인요한 국민의힘 혁신위원장 [시사스페셜-정운갑의 집중분석]]]></title>
-            <link>https://tv.naver.com/v/42361562</link>
-            <guid>https://tv.naver.com/v/42361562</guid>
-            <pubDate>Sun, 05 Nov 2023 08:20:13 GMT</pubDate>
-            <content:encoded><![CDATA[32:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_278/ngUpx_1699172187600BgjYd_JPEG/cover_cover_20231105165059_20_813_1342389_1080_7_20231105165601165.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[456회_기상 전망과 전동킥보드 화재 대책]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 04 Nov 2023 08:20:33 GMT</pubDate>
             <content:encoded><![CDATA[11:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_48/nZP9d_1699085039754M18tb_JPEG/cover_cover_20231104165526_20_675_1342360_1080_7_20231104165902931.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 내일 충청·남부 비…일~월, 폭우 대비]]></title>
+            <link>https://tv.naver.com/v/42313436</link>
+            <guid>https://tv.naver.com/v/42313436</guid>
+            <pubDate>Sun, 05 Nov 2023 10:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231103_158/utDiy_1699020342132xvF6v_JPEG/cover_cover_20231103200431_20_552_1342348_1080_7_20231103230501125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
