@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 05:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 06:21:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이만 있으면 가족으로 인정, 프랑스의 새로운 발걸음 [창+]]]></title>
+            <link>https://tv.naver.com/v/42358103</link>
+            <guid>https://tv.naver.com/v/42358103</guid>
+            <pubDate>Sun, 05 Nov 2023 06:20:24 GMT</pubDate>
+            <content:encoded><![CDATA[9:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_43/rftfO_1699164291246sL1Bs_PNG/cover_0011595999_001_20231105150101131.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[12시 날씨] 전국 비바람…밤 사이 집중호우·강풍 주의]]></title>
             <link>https://tv.naver.com/v/42355654</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Nov 2023 20:16:21 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231105_135/UBEPC_1699126038113lu2Ss_JPEG/cover_0011430680_001_20231105042701124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달빛철도특별법, 헌정 사상 최다 의원 서명]]></title>
-            <link>https://tv.naver.com/v/42350424</link>
-            <guid>https://tv.naver.com/v/42350424</guid>
-            <pubDate>Sat, 04 Nov 2023 20:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_71/NlzLa_1699125988477L2OH7_JPEG/cover_0011541922_001_20231105042609006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
