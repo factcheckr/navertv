@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 06:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 07:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]비틀스의 마지막 곡 ‘나우 앤 덴’…AI로 음성 복원 되다]]></title>
+            <link>https://tv.naver.com/v/42358818</link>
+            <guid>https://tv.naver.com/v/42358818</guid>
+            <pubDate>Sun, 05 Nov 2023 07:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_93/SohX4_1699165512095ejKMq_JPEG/cover_0000261019_001_20231105152401556.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[동앵과 뉴스터디]“영남 스타 수도권으로” 발칵 뒤집힌 국민의힘]]></title>
             <link>https://tv.naver.com/v/42358374</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 04 Nov 2023 12:30:20 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231104_110/A5PHy_1699096886393XgQEy_JPEG/cover_0000260992_001_20231104202012533.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[OPEN 인터뷰]‘일타’ 정승제의 고백  “외모 관리, 일부러 안 해”]]></title>
-            <link>https://tv.naver.com/v/42339330</link>
-            <guid>https://tv.naver.com/v/42339330</guid>
-            <pubDate>Sat, 04 Nov 2023 12:30:20 GMT</pubDate>
-            <content:encoded><![CDATA[3:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231104_46/rCgE6_1699096904343Vdixf_JPEG/cover_0000260993_001_20231104202001656.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
