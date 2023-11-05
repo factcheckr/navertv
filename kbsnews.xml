@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Nov 2023 20:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Nov 2023 21:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오전에 전국 곳곳 강한 비…강풍 주의 [출근길 날씨]]]></title>
+            <link>https://tv.naver.com/v/42381312</link>
+            <guid>https://tv.naver.com/v/42381312</guid>
+            <pubDate>Sun, 05 Nov 2023 21:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231106_222/yd92r_16992185822332jW3D_JPEG/cover_0011596127_001_20231106060905648.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[9층시사국] 슬기로운 의사 증원 外]]></title>
             <link>https://tv.naver.com/v/42375836</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 05 Nov 2023 13:18:07 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231105_220/t2oPc_16991896199139hCTH_JPEG/cover_0011596094_001_20231105220607863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[편의점 종업원·손님 폭행 20대 영장 신청]]></title>
-            <link>https://tv.naver.com/v/42372252</link>
-            <guid>https://tv.naver.com/v/42372252</guid>
-            <pubDate>Sun, 05 Nov 2023 13:18:07 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231105_188/JOLTE_1699189419275tsWCI_JPEG/cover_0011596090_001_20231105220322875.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
