@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 13:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 14:16:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 16.3도…내일 5~15도 예상]]></title>
+            <link>https://tv.naver.com/v/42484765</link>
+            <guid>https://tv.naver.com/v/42484765</guid>
+            <pubDate>Tue, 07 Nov 2023 14:15:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_201/529qJ_1699366050067fwjJs_JPEG/cover_0011597746_001_20231107230701121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대전시 민선 8기 정책자문단 출범]]></title>
             <link>https://tv.naver.com/v/42481244</link>
@@ -93,7 +101,7 @@
             <guid>https://tv.naver.com/v/42481129</guid>
             <pubDate>Tue, 07 Nov 2023 13:19:55 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_284/2IYrn_16993629148065Kch8_JPEG/cover_0011597727_001_20231107221122805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_244/Yl8NX_1699364269070YU78a_JPEG/cover_0011597727_001_20231107221122805.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차량 20대를 한 번에…블랙박스 메모리카드까지 떼갔다]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 07 Nov 2023 13:19:55 GMT</pubDate>
             <content:encoded><![CDATA[0:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231107_134/jSCgX_1699362567790R3pd1_JPEG/cover_0011597710_001_20231107220910377.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘순천만 잡월드’ 방문객 감소…위탁운영 중단 통보]]></title>
-            <link>https://tv.naver.com/v/42480963</link>
-            <guid>https://tv.naver.com/v/42480963</guid>
-            <pubDate>Tue, 07 Nov 2023 13:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231107_263/AzDzn_1699362581150lbw7X_JPEG/cover_0011597709_001_20231107220901022.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
