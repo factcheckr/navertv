@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 20:19:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 21:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/42617490</link>
+            <guid>https://tv.naver.com/v/42617490</guid>
+            <pubDate>Thu, 09 Nov 2023 21:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_226/DPHyE_1699564177525GP0p7_JPEG/cover_0001104664_001_20231110060901107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 비구름 물러가고 기온 '뚝'…체감온도는 영하권]]></title>
+            <link>https://tv.naver.com/v/42617062</link>
+            <guid>https://tv.naver.com/v/42617062</guid>
+            <pubDate>Thu, 09 Nov 2023 21:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_14/Ujv6d_16995623767684BPyx_JPEG/cover_0001104658_001_20231110053901131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결국 야당 단독 처리…여, 필리버스터 철회]]></title>
             <link>https://tv.naver.com/v/42612016</link>
@@ -78,14 +94,6 @@
             <pubDate>Thu, 09 Nov 2023 17:15:00 GMT</pubDate>
             <content:encoded><![CDATA[3:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_15/L5b3f_1699547271863rSKQY_JPEG/cover_0001104657_001_20231110012609043.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 비구름 물러가고 기온 뚝…체감온도는 영하권]]></title>
-            <link>https://tv.naver.com/v/42611949</link>
-            <guid>https://tv.naver.com/v/42611949</guid>
-            <pubDate>Thu, 09 Nov 2023 17:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_212/bs0uL_1699547200115Ovud9_JPEG/cover_0001104658_001_20231110012601151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클로징]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Nov 2023 13:20:30 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_99/2kiiT_1699535328886Fo0p1_JPEG/cover_0001104628_001_20231109220741327.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["어, 요구르트가 왜 며칠째 그대로지?" 이웃 신고로 발견]]></title>
-            <link>https://tv.naver.com/v/42602038</link>
-            <guid>https://tv.naver.com/v/42602038</guid>
-            <pubDate>Thu, 09 Nov 2023 13:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_217/OaE4L_1699535344773ld4LN_JPEG/cover_0001104629_001_20231109220731806.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
