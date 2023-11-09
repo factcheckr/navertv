@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 06:22:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 07:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[D뉴스] 전청조 보자마자 "뭘 봐?"…살벌했던 첫 대질]]></title>
+            <link>https://tv.naver.com/v/42577817</link>
+            <guid>https://tv.naver.com/v/42577817</guid>
+            <pubDate>Thu, 09 Nov 2023 07:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[1:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_61/Q6527_1699512596339Mj0SI_JPEG/cover_cover_20231109154544_20_868_1342795_1080_7_20231109154911023.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸LIVE-오!궁금] 싸늘했던 6시간…대질 조사로 만난 남현희-전청조]]></title>
             <link>https://tv.naver.com/v/42573201</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Nov 2023 01:13:46 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231109_201/KbbIE_1699486892394MNxjz_JPEG/cover_cover_20231109083735_20_605_1342761_1080_7_20231109084101156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] 브래드 피트, 27세 연하 여친과 공개석상 등장]]></title>
-            <link>https://tv.naver.com/v/42556118</link>
-            <guid>https://tv.naver.com/v/42556118</guid>
-            <pubDate>Thu, 09 Nov 2023 01:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231109_232/8udZA_1699486778026MDqPk_JPEG/cover_cover_20231109083609_20_605_1342760_1080_7_20231109083901132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
