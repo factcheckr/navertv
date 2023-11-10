@@ -4,9 +4,33 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 05:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 06:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이 시각 세계] 유명 유튜버 꿈꾸던 소년, 공습 사망 후 꿈 이뤄]]></title>
+            <link>https://tv.naver.com/v/42636969</link>
+            <guid>https://tv.naver.com/v/42636969</guid>
+            <pubDate>Fri, 10 Nov 2023 06:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_231/gbLdr_16995953602947r6bR_JPEG/cover_cover_joo231110_1_20231110144902172.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엠빅뉴스] 게릴라 반군이 납치했던 디아즈 아버지 12일 만의 생환 스토리!]]></title>
+            <link>https://tv.naver.com/v/42636437</link>
+            <guid>https://tv.naver.com/v/42636437</guid>
+            <pubDate>Fri, 10 Nov 2023 06:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_283/Mmcn2_1699594966653mWzX6_JPEG/cover_cover_231110_diaz_thumb_640_20231110144004525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["형사는 보살‥누가 현장서 뛰겠나?"‥김길수 잡고도 포상 누락 '자괴감']]></title>
+            <link>https://tv.naver.com/v/42635312</link>
+            <guid>https://tv.naver.com/v/42635312</guid>
+            <pubDate>Fri, 10 Nov 2023 06:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_160/YCMWg_1699593917404SN5zS_JPEG/cover_cover_joo231110_vo4_20231110142404465.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오후 6시 종료‥"수능 이후 전면 파업할 수도"]]></title>
             <link>https://tv.naver.com/v/42634454</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 10 Nov 2023 03:17:30 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_294/WzzIr_1699583399646gtYwv_JPEG/cover_cover_0930_20231110_093904_1_4_Large_20231110112921856.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["매일 4시간 교전 중지 합의"‥인질 영상 또 공개]]></title>
-            <link>https://tv.naver.com/v/42625710</link>
-            <guid>https://tv.naver.com/v/42625710</guid>
-            <pubDate>Fri, 10 Nov 2023 03:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_66/SCegG_1699583405758lV7fk_JPEG/cover_cover_0930_20231110_093720_1_3_Large_20231110112915126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['이동관 탄핵안' 강행에‥'토론 철회'로 저지]]></title>
-            <link>https://tv.naver.com/v/42625702</link>
-            <guid>https://tv.naver.com/v/42625702</guid>
-            <pubDate>Fri, 10 Nov 2023 03:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_180/Ne1Q1_1699583399211BSfY8_JPEG/cover_cover_0930_20231110_093510_1_2_Large_20231110112908528.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오후 6시 파업 종료‥이 시각 신도림역]]></title>
-            <link>https://tv.naver.com/v/42625697</link>
-            <guid>https://tv.naver.com/v/42625697</guid>
-            <pubDate>Fri, 10 Nov 2023 03:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_42/4cD4U_1699583383216EU3n6_JPEG/cover_cover_0930_20231110_093228_1_1_Large_20231110112901953.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
