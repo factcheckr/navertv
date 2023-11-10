@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 22:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 23:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스한판 11월 2주] 남현희, 13시간 경찰 조사…전청조와 첫 대질 신문]]></title>
+            <link>https://tv.naver.com/v/42672345</link>
+            <guid>https://tv.naver.com/v/42672345</guid>
+            <pubDate>Fri, 10 Nov 2023 23:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[16:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_163/81l6f_1699657188120BAJjG_JPEG/cover_cover_MYH20231110021500641_20231111075101846.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[프로농구 정관장 3연승…DB에 시즌 첫 패배 안겨]]></title>
             <link>https://tv.naver.com/v/42666231</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Nov 2023 12:32:12 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_273/rNE56_16996179279841PeNh_JPEG/cover_cover_MYH20231110020800032_20231110210403675.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하마스 "이스라엘군, 가자 최대 병원 공습…13명 사망"]]></title>
-            <link>https://tv.naver.com/v/42658375</link>
-            <guid>https://tv.naver.com/v/42658375</guid>
-            <pubDate>Fri, 10 Nov 2023 12:32:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_236/PTPfZ_16996177583776co1M_JPEG/cover_cover_MYH20231110020700641_20231110210203899.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
