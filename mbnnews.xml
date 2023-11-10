@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 02:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 03:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[프레스룸LIVE-앵커브리핑] '노란봉투법' 통과에 반발 / 지하철 전면 파업 예고 / 전청조 검찰 송치]]></title>
+            <link>https://tv.naver.com/v/42627542</link>
+            <guid>https://tv.naver.com/v/42627542</guid>
+            <pubDate>Fri, 10 Nov 2023 03:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_58/rn9ia_1699585535250IWwXa_JPEG/cover_cover_20231110115948_20_812_1342891_1080_7_20231110120501139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['출마설' 조국, 평산마을서 책 사인회]]></title>
             <link>https://tv.naver.com/v/42623217</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 09 Nov 2023 23:18:42 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_121/RwU0y_1699571511709ynsug_JPEG/cover_cover_20231110080748_20_605_1342857_1080_7_20231110081101140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[굿모닝월드]속 엘프들의 합창 콘서트]]></title>
-            <link>https://tv.naver.com/v/42619219</link>
-            <guid>https://tv.naver.com/v/42619219</guid>
-            <pubDate>Thu, 09 Nov 2023 23:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_269/8ncuo_1699571386658Df0F9_JPEG/cover_cover_20231110080552_20_605_1342856_1080_7_20231110080901143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
