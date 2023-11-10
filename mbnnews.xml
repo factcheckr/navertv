@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 07:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 08:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI]]></title>
+            <link>https://tv.naver.com/v/42644179</link>
+            <guid>https://tv.naver.com/v/42644179</guid>
+            <pubDate>Fri, 10 Nov 2023 08:21:48 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_225/zZLPo_1699601856716YTKiv_JPEG/cover_cover_20231110163302_20_845_1342904_1080_7_20231110163701157.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 유명 유튜버 꿈꿨는데…공습 사망 후 소원 이룬 소년]]></title>
             <link>https://tv.naver.com/v/42632849</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Nov 2023 01:13:34 GMT</pubDate>
             <content:encoded><![CDATA[1:42]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_176/2S7y4_1699574524733iApO6_JPEG/cover_cover_20231110085552_20_605_1342870_1080_7_20231110090101150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김두관 "장수가 앞장서야" 이재명 험지출마 두고 당 내홍 격화]]></title>
-            <link>https://tv.naver.com/v/42620141</link>
-            <guid>https://tv.naver.com/v/42620141</guid>
-            <pubDate>Fri, 10 Nov 2023 01:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_43/11Ukw_1699574397466mlwqT_JPEG/cover_cover_20231110085422_20_605_1342869_1080_7_20231110085901147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
