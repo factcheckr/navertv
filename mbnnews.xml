@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 20:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 21:15:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[459회_우박 피해와 해양사고 예방요령]]></title>
+            <link>https://tv.naver.com/v/42702381</link>
+            <guid>https://tv.naver.com/v/42702381</guid>
+            <pubDate>Sat, 11 Nov 2023 21:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[14:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_255/xQ6ZZ_1699735709189X42is_JPEG/cover_cover_20231112053704_20_849_1342985_1080_7_20231112054101127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN 뉴스센터] 11월 11일 클로징]]></title>
             <link>https://tv.naver.com/v/42689677</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Nov 2023 12:32:50 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_267/fFSXn_16996173830338nHNr_JPEG/cover_cover_20231110205250_20_552_1342954_1080_7_20231110205501189.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['울산판 전청조', 피해자 7명에 피해액만 약 30억 원 [뉴스와이드]]]></title>
-            <link>https://tv.naver.com/v/42657419</link>
-            <guid>https://tv.naver.com/v/42657419</guid>
-            <pubDate>Fri, 10 Nov 2023 12:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[16:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_275/Sv5Jl_1699616779368yTNL4_JPEG/cover_cover_20231110203052_20_536_1342951_1080_7_20231110203801166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
