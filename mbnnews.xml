@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 08:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 09:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[뉴스와이드] 이준석의 길…인요한 곁으로·신당 창당·무소속 출마]]></title>
+            <link>https://tv.naver.com/v/42684654</link>
+            <guid>https://tv.naver.com/v/42684654</guid>
+            <pubDate>Sat, 11 Nov 2023 09:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[17:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_273/xrlHT_16996909964305XEpt_JPEG/cover_cover_20231111171024_20_675_1342963_1080_7_20231111171601178.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스와이드] 한동훈-민주당의 끝없는 입씨름]]></title>
             <link>https://tv.naver.com/v/42684608</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 10 Nov 2023 11:15:45 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_9/mDNJ3_16996128137328NlFT_JPEG/cover_cover_20231110193525_20_552_1342928_1080_7_20231110193901121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제보M] "진짜 사랑하는 줄 알았다"…변종 스캠 범죄 주의보]]></title>
-            <link>https://tv.naver.com/v/42654915</link>
-            <guid>https://tv.naver.com/v/42654915</guid>
-            <pubDate>Fri, 10 Nov 2023 11:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_299/nr2zn_1699612707451Qi81I_JPEG/cover_cover_20231110193245_20_552_1342927_1080_7_20231110193701138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
