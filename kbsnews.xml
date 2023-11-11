@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 21:15:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 22:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[양대 노총 11만명 서울 도심 집결…“노란봉투법 즉각 시행”]]></title>
+            <link>https://tv.naver.com/v/42702834</link>
+            <guid>https://tv.naver.com/v/42702834</guid>
+            <pubDate>Sat, 11 Nov 2023 22:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_57/mIedz_1699740833622rbjmz_JPEG/cover_0011600533_001_20231112071301112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[9층시사국] 청년 마약 탈출기 外]]></title>
             <link>https://tv.naver.com/v/42696255</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Nov 2023 13:17:51 GMT</pubDate>
             <content:encoded><![CDATA[0:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_273/ECgn3_1699707672058gJBVA_JPEG/cover_0011600474_001_20231111220101116.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청주기상지청 “10월 강수량 평년보다 적어”]]></title>
-            <link>https://tv.naver.com/v/42692962</link>
-            <guid>https://tv.naver.com/v/42692962</guid>
-            <pubDate>Sat, 11 Nov 2023 13:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_239/ibq0H_1699707629763e6qCt_JPEG/cover_0011600493_001_20231111220015382.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
