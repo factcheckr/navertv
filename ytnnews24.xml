@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 13:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 14:14:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['해빙 상징' 美 오케스트라, 50년 만에 베이징서 공연]]></title>
+            <link>https://tv.naver.com/v/42694864</link>
+            <guid>https://tv.naver.com/v/42694864</guid>
+            <pubDate>Sat, 11 Nov 2023 14:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[0:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_67/f32cM_1699710561934t9MEC_JPEG/cover_cover_202311111554070387_t_20231111224902140.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['정한용 맹활약'...대한항공, 4연승·2위로 껑충]]></title>
             <link>https://tv.naver.com/v/42691700</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Nov 2023 09:15:25 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_56/2gbE4_1699691266185gWrcl_JPEG/cover_cover_202311111725081410_t_20231111172701896.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['어제가 제일 싸다'...빗나가버린 한은의 물가 예측 [Y녹취록]]]></title>
-            <link>https://tv.naver.com/v/42684728</link>
-            <guid>https://tv.naver.com/v/42684728</guid>
-            <pubDate>Sat, 11 Nov 2023 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_159/3ekmB_1699690780613fQd2R_JPEG/cover_cover_202311111716031775_t_20231111171901844.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
