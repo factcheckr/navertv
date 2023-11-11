@@ -4,9 +4,25 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 11:14:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 12:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[MBN 뉴스센터] 11월 11일 클로징]]></title>
+            <link>https://tv.naver.com/v/42689677</link>
+            <guid>https://tv.naver.com/v/42689677</guid>
+            <pubDate>Sat, 11 Nov 2023 12:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[0:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_217/syfwh_1699701462950EHjIj_JPEG/cover_cover_20231111201420_20_906_1342983_1080_7_20231111201701170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨]내일도 초겨울 추위…서울 아침 체감온도 '-5도']]></title>
+            <link>https://tv.naver.com/v/42689622</link>
+            <guid>https://tv.naver.com/v/42689622</guid>
+            <pubDate>Sat, 11 Nov 2023 12:30:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_185/wNED9_1699701342520zByv4_JPEG/cover_cover_20231111201216_20_906_1342982_1080_7_20231111201501160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오는 15일 미중 정상회담…관계 정상화와 북러 관계 논의]]></title>
             <link>https://tv.naver.com/v/42689500</link>
@@ -230,22 +246,6 @@
             <pubDate>Fri, 10 Nov 2023 12:32:50 GMT</pubDate>
             <content:encoded><![CDATA[16:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231110_275/Sv5Jl_1699616779368yTNL4_JPEG/cover_cover_20231110203052_20_536_1342951_1080_7_20231110203801166.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[총선 앞 목소리 키우는 조국-추미애-송영길…민주당에 득? 독? [뉴스와이드]]]></title>
-            <link>https://tv.naver.com/v/42657145</link>
-            <guid>https://tv.naver.com/v/42657145</guid>
-            <pubDate>Fri, 10 Nov 2023 12:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[27:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_284/vA0Lq_1699616669345V01Qr_JPEG/cover_cover_20231110202557_20_536_1342947_1080_7_20231110203201156.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[與 '필리버스터 취소' vs 野 '탄핵안 철회'…한방씩 먹였다? [뉴스와이드]]]></title>
-            <link>https://tv.naver.com/v/42657090</link>
-            <guid>https://tv.naver.com/v/42657090</guid>
-            <pubDate>Fri, 10 Nov 2023 12:32:50 GMT</pubDate>
-            <content:encoded><![CDATA[13:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231110_170/4pS46_1699616340125a9oTH_JPEG/cover_cover_20231110202356_20_536_1342946_1080_7_20231110203001169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
