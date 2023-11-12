@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 06:22:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 07:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 노숙인과 웬 춤을? 잠실역에 나타난 스파이더맨]]></title>
+            <link>https://tv.naver.com/v/42712508</link>
+            <guid>https://tv.naver.com/v/42712508</guid>
+            <pubDate>Sun, 12 Nov 2023 07:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_151/DREtL_1699771838004ObTiz_JPEG/cover_0001105185_001_20231112155001132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[계속되는 물가 부담…정부, 28개 농식품 값 '매일 점검']]></title>
             <link>https://tv.naver.com/v/42708420</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Nov 2023 13:18:12 GMT</pubDate>
             <content:encoded><![CDATA[0:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_165/ATVP6_1699706305807TaCzv_JPEG/cover_0001105080_001_20231111213801150.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 일요일도 추워요…제주 · 호남 서해안 눈 비 소식]]></title>
-            <link>https://tv.naver.com/v/42692189</link>
-            <guid>https://tv.naver.com/v/42692189</guid>
-            <pubDate>Sat, 11 Nov 2023 13:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_296/9lMXm_1699706263918brknI_JPEG/cover_0001105081_001_20231111213701112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
