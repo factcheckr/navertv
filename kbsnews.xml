@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 03:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 04:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12시 뉴스 날씨] 전국 대체로 맑고, 초겨울 추위 계속…낮에도 찬 바람]]></title>
+            <link>https://tv.naver.com/v/42706734</link>
+            <guid>https://tv.naver.com/v/42706734</guid>
+            <pubDate>Sun, 12 Nov 2023 04:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_157/S3lQi_1699759107023k5mjR_JPEG/cover_0011600585_001_20231112121801155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알시파 병원, 미숙아 등 사망자 속출…이슬람 지도자들 휴전 촉구]]></title>
             <link>https://tv.naver.com/v/42706696</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Nov 2023 13:17:51 GMT</pubDate>
             <content:encoded><![CDATA[0:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_96/iXlsI_1699708211074HDBuT_JPEG/cover_0011600505_001_20231111221001186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘산불 예방’ 지리산 26개 탐방로 한 달간 통제]]></title>
-            <link>https://tv.naver.com/v/42693215</link>
-            <guid>https://tv.naver.com/v/42693215</guid>
-            <pubDate>Sat, 11 Nov 2023 13:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_123/I7HzH_1699708100885tsH6H_JPEG/cover_0011600504_001_20231111220801152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
