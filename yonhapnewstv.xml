@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 11:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 12:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[연합뉴스TV 스페셜 특집] 301회 : 가짜뉴스 - AI의 공습 1부]]></title>
+            <link>https://tv.naver.com/v/42720456</link>
+            <guid>https://tv.naver.com/v/42720456</guid>
+            <pubDate>Sun, 12 Nov 2023 12:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[24:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_264/EhF8x_1699787709023bAYAQ_JPEG/cover_cover_MYH20231110021100641_20231112200102045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[일요와이드] 여야, 이동관 탄핵안 대치…'이준석 신당' 양당 구도 흔들까]]></title>
             <link>https://tv.naver.com/v/42718934</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 12 Nov 2023 07:16:14 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231112_88/Ueu7b_1699771974964bC41T_JPEG/cover_cover_MYH20231112009700641_20231112155202208.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG "통합우승까지 1승" vs KT "대반격 시작"]]></title>
-            <link>https://tv.naver.com/v/42712479</link>
-            <guid>https://tv.naver.com/v/42712479</guid>
-            <pubDate>Sun, 12 Nov 2023 07:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_245/RAs3F_1699771839505n9Lsf_JPEG/cover_cover_MYH20231112009600641_20231112154901789.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
