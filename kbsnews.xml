@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Nov 2023 07:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Nov 2023 08:20:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OECD “한국 의사 소득, 노동자 평균의 최대 6.8배”]]></title>
+            <link>https://tv.naver.com/v/42715347</link>
+            <guid>https://tv.naver.com/v/42715347</guid>
+            <pubDate>Sun, 12 Nov 2023 08:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[2:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_192/52E79_1699777065387vc8EU_JPEG/cover_0011600608_001_20231112171701120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[첨단 무인전 시대, 우리 ‘유령함대’는?…정승균 전 잠수함 사령관에게 듣다 [현장영상]]]></title>
             <link>https://tv.naver.com/v/42709192</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 11 Nov 2023 13:17:51 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231111_165/SX0rm_1699708286374YUsEB_JPEG/cover_0011600507_001_20231111221108386.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춘천·원주·속초 도로 3곳 ‘교통사고 다발’]]></title>
-            <link>https://tv.naver.com/v/42693344</link>
-            <guid>https://tv.naver.com/v/42693344</guid>
-            <pubDate>Sat, 11 Nov 2023 13:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231111_68/jZhRL_1699708280628V6ykQ_JPEG/cover_0011600506_001_20231111221101128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
