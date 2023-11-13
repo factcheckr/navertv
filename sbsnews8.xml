@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 02:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 03:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 초겨울 추위 절정…화요일 낮부터는 기온 오름세]]></title>
+            <link>https://tv.naver.com/v/42745682</link>
+            <guid>https://tv.naver.com/v/42745682</guid>
+            <pubDate>Mon, 13 Nov 2023 03:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_147/dJSMG_1699845408289Lt1Fw_JPEG/cover_0001105396_001_20231113121601128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/42745243</link>
+            <guid>https://tv.naver.com/v/42745243</guid>
+            <pubDate>Mon, 13 Nov 2023 03:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[0:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_290/yWVB3_1699844919429Valun_JPEG/cover_0001105393_001_20231113120801128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[비머pick] 이란의 하마스 공개 지지…꿈쩍 않는 이스라엘]]></title>
+            <link>https://tv.naver.com/v/42743534</link>
+            <guid>https://tv.naver.com/v/42743534</guid>
+            <pubDate>Mon, 13 Nov 2023 03:17:56 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_297/bhqmj_16998429178808aFYv_JPEG/cover_0001105381_001_20231113113401114.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자막뉴스] "대통령이 신뢰 없는 장본인"…이준석 '신당 합류' 여당 의원 묻자]]></title>
             <link>https://tv.naver.com/v/42743086</link>
@@ -222,30 +246,6 @@
             <pubDate>Sun, 12 Nov 2023 22:15:19 GMT</pubDate>
             <content:encoded><![CDATA[2:27]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231113_91/iGsIL_1699827251430YPQO4_JPEG/cover_0001105268_001_20231113071301122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 찬바람 불며 추위 절정…내일 낮부터 누그러져]]></title>
-            <link>https://tv.naver.com/v/42736541</link>
-            <guid>https://tv.naver.com/v/42736541</guid>
-            <pubDate>Sun, 12 Nov 2023 22:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[1:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_126/IXBze_1699825053938X4m6U_JPEG/cover_0001105265_001_20231113063701123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밤사이 기온 뚝…'서울 -3도' 출근길 추위 절정]]></title>
-            <link>https://tv.naver.com/v/42736520</link>
-            <guid>https://tv.naver.com/v/42736520</guid>
-            <pubDate>Sun, 12 Nov 2023 22:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_55/GAHzg_1699824970672TQS4c_JPEG/cover_0001105253_001_20231113063510273.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["몇 달째 안 팔려요"…고금리·대출 규제 속 '관망 심리']]></title>
-            <link>https://tv.naver.com/v/42736519</link>
-            <guid>https://tv.naver.com/v/42736519</guid>
-            <pubDate>Sun, 12 Nov 2023 22:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_68/HBRGx_16998249637430kLwc_JPEG/cover_0001105263_001_20231113063501121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
