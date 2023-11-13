@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 01:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 02:28:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[티조 Clip] 윤석열 대통령 "과거 영광 재현하자"]]></title>
+            <link>https://tv.naver.com/v/42741914</link>
+            <guid>https://tv.naver.com/v/42741914</guid>
+            <pubDate>Mon, 13 Nov 2023 02:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[1:41]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_223/XiVsn_1699840900570CgddL_JPEG/cover_2023111390053_thumb_105746_20231113110101539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[네트워크 초대석] 김재욱 칠곡군수 "호국마케팅으로 지역 경제 활성화"]]></title>
             <link>https://tv.naver.com/v/42739027</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 12 Nov 2023 11:14:31 GMT</pubDate>
             <content:encoded><![CDATA[1:53]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231112_288/PaBRD_1699784838345JuX24_JPEG/cover_2023111290061_thumb_072450_20231112192601591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최태원 "재산분할 위해 논란 야기"↔노소영 "가정 깨면 벌 받아야"]]></title>
-            <link>https://tv.naver.com/v/42719154</link>
-            <guid>https://tv.naver.com/v/42719154</guid>
-            <pubDate>Sun, 12 Nov 2023 11:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231112_50/wxxGN_16997845495248TnHx_JPEG/cover_2023111290055_thumb_071755_20231112192126212.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
