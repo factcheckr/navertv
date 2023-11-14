@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 06:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 07:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건] 오늘의 주요 뉴스]]></title>
+            <link>https://tv.naver.com/v/42820128</link>
+            <guid>https://tv.naver.com/v/42820128</guid>
+            <pubDate>Tue, 14 Nov 2023 07:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_220/wwfHz_1699946070966DhhHW_JPEG/cover_0011601983_001_20231114161301122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고속도로서 질식사할 뻔한 여성…트럭 운전사가 살렸다 [현장영상]]]></title>
             <link>https://tv.naver.com/v/42816010</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 14 Nov 2023 04:19:44 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231114_168/U8dPl_16999329211244ql5x_JPEG/cover_0011601878_001_20231114123501115.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바이든 “병원 보호돼야”…백악관 “3살 아기도 인질, 협상 진행 중”]]></title>
-            <link>https://tv.naver.com/v/42805644</link>
-            <guid>https://tv.naver.com/v/42805644</guid>
-            <pubDate>Tue, 14 Nov 2023 04:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[1:57]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_168/Tnw3t_1699932896780lDQBg_JPEG/cover_0011601877_001_20231114123401131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
