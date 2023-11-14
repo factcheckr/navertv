@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 08:22:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 09:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]다시 뛴다, 클린스만호]]></title>
+            <link>https://tv.naver.com/v/42826154</link>
+            <guid>https://tv.naver.com/v/42826154</guid>
+            <pubDate>Tue, 14 Nov 2023 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231114_202/9hN6C_16999518004897nYA5_JPEG/cover_0000261651_001_20231114174101532.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[‘험지 출마’ 압박에…장제원 “서울 가지 않겠다”]]></title>
             <link>https://tv.naver.com/v/42814325</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 13 Nov 2023 12:33:32 GMT</pubDate>
             <content:encoded><![CDATA[0:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231113_121/7k00C_16998769828473sJll_JPEG/cover_0000261612_001_20231113210233813.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[이재명 ‘위증 교사’ 재판 따로 한다]]></title>
-            <link>https://tv.naver.com/v/42776581</link>
-            <guid>https://tv.naver.com/v/42776581</guid>
-            <pubDate>Mon, 13 Nov 2023 12:33:32 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231113_162/JkqeR_1699877041424YVbOW_JPEG/cover_0000261586_001_20231113210224091.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
