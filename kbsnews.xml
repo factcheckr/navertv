@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 13:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 14:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 건조주의보 속 낮 최고 15.2도…내일 5~15도]]></title>
+            <link>https://tv.naver.com/v/42902796</link>
+            <guid>https://tv.naver.com/v/42902796</guid>
+            <pubDate>Wed, 15 Nov 2023 14:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_211/nEQ65_1700057002269HqpdI_JPEG/cover_0011603207_001_20231115230301143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전세 사기 피해 원스톱 지원 상담·지원 강화]]></title>
             <link>https://tv.naver.com/v/42899851</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Nov 2023 13:21:14 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231115_94/04ydH_1700053637658BM7cn_JPEG/cover_0011603177_001_20231115220700362.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구경북 고액·상습 체납자 886명 공개]]></title>
-            <link>https://tv.naver.com/v/42899478</link>
-            <guid>https://tv.naver.com/v/42899478</guid>
-            <pubDate>Wed, 15 Nov 2023 13:21:14 GMT</pubDate>
-            <content:encoded><![CDATA[0:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231115_203/A9mKK_1700053634395mwqBp_JPEG/cover_0011603176_001_20231115220653200.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
