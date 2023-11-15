@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 16:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 17:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/42909678</link>
+            <guid>https://tv.naver.com/v/42909678</guid>
+            <pubDate>Wed, 15 Nov 2023 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[0:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_160/AWEP9_1700065824716b2ClD_JPEG/cover_0001106248_001_20231116013001196.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 서쪽 지역을 중심으로 '비' 내려…돌풍과 번개 동반]]></title>
+            <link>https://tv.naver.com/v/42909649</link>
+            <guid>https://tv.naver.com/v/42909649</guid>
+            <pubDate>Wed, 15 Nov 2023 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_202/DP3gn_1700065777200SDLSP_JPEG/cover_0001106247_001_20231116012901101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[나이트라인 초대석] '영원한 디바' 엄정화…20여 년 만 단독 콘서트]]></title>
+            <link>https://tv.naver.com/v/42909598</link>
+            <guid>https://tv.naver.com/v/42909598</guid>
+            <pubDate>Wed, 15 Nov 2023 17:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[6:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_135/ge0MY_1700065829822e6WHL_JPEG/cover_0001106246_001_20231116012724051.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["하마스 거점" 병원 급습…"인질 징후 없어"]]></title>
             <link>https://tv.naver.com/v/42909100</link>
@@ -222,30 +246,6 @@
             <pubDate>Wed, 15 Nov 2023 16:23:24 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_229/ZUDjG_17000631259419vXux_JPEG/cover_0001106218_001_20231116004411210.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구겨진 지폐 속 흰 가루…통영서 불법체류 중 마약 유통]]></title>
-            <link>https://tv.naver.com/v/42908079</link>
-            <guid>https://tv.naver.com/v/42908079</guid>
-            <pubDate>Wed, 15 Nov 2023 16:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[1:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_90/xJ8VO_1700063109178Q4aPw_JPEG/cover_0001106223_001_20231116004401135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오세훈 "10년 걸쳐 단계적 확장…농어촌전형 폐지 유예"]]></title>
-            <link>https://tv.naver.com/v/42908054</link>
-            <guid>https://tv.naver.com/v/42908054</guid>
-            <pubDate>Wed, 15 Nov 2023 16:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_37/yOLUz_17000630772817DDeS_JPEG/cover_0001106221_001_20231116004321151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이순신 장군 마지막 해전 '노량'…극장가 활기 찾을까]]></title>
-            <link>https://tv.naver.com/v/42908047</link>
-            <guid>https://tv.naver.com/v/42908047</guid>
-            <pubDate>Wed, 15 Nov 2023 16:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[2:18]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_111/HJ74Y_1700063075483cV9mv_JPEG/cover_0001106225_001_20231116004311462.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
