@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 20:19:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 21:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4년 만에 ‘노마스크 수능’…이 시각 수험장]]></title>
+            <link>https://tv.naver.com/v/42912629</link>
+            <guid>https://tv.naver.com/v/42912629</guid>
+            <pubDate>Wed, 15 Nov 2023 21:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[2:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_155/7c7QQ_1700082827984Ch6P8_JPEG/cover_0011603280_001_20231116061301136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정선군 김연섭 농가, 올해 과수 부문 ‘최고농업기술명인’ 선정]]></title>
             <link>https://tv.naver.com/v/42907395</link>
@@ -21,7 +29,7 @@
             <guid>https://tv.naver.com/v/42907392</guid>
             <pubDate>Wed, 15 Nov 2023 16:23:09 GMT</pubDate>
             <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_275/sWtRN_1700062170701ggvu1_JPEG/cover_0011603252_001_20231116002908125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_222/ceOFv_17000820450191jeek_JPEG/cover_0011603252_001_20231116002908125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[동해 구 상수시설 노후시설 정비…내년 상반기 준공]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 15 Nov 2023 15:18:13 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_172/acJco_1700060704692OWg5i_JPEG/cover_0011603226_001_20231116000437096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 시각 소방청 상황실]]></title>
-            <link>https://tv.naver.com/v/42906254</link>
-            <guid>https://tv.naver.com/v/42906254</guid>
-            <pubDate>Wed, 15 Nov 2023 15:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[1:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_195/ggrBR_1700060708050LVajc_JPEG/cover_0011603225_001_20231116000430186.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
