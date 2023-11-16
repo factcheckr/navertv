@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 22:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 23:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_177/SPlhs_1700133516928hc0CS_JPEG/cover_0000261838_001_20231116201651226.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[한국 야구대표팀, 호주에 승부치기 ‘진땀 승’]]></title>
-            <link>https://tv.naver.com/v/42951532</link>
-            <guid>https://tv.naver.com/v/42951532</guid>
-            <pubDate>Thu, 16 Nov 2023 12:34:18 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_21/IWS52_1700133475882P570P_JPEG/cover_0000261840_001_20231116201632737.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[[날씨]내일 전국 비·눈…영하권 추위에 찬바람]]></title>
             <link>https://tv.naver.com/v/42951520</link>
             <guid>https://tv.naver.com/v/42951520</guid>
@@ -246,6 +238,14 @@
             <pubDate>Thu, 16 Nov 2023 12:34:18 GMT</pubDate>
             <content:encoded><![CDATA[2:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_22/Ud5tU_1700133444951Un2S3_JPEG/cover_0000261813_001_20231116201605749.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신당론 띄우더니…이준석은 양치기 소년?]]></title>
+            <link>https://tv.naver.com/v/42951491</link>
+            <guid>https://tv.naver.com/v/42951491</guid>
+            <pubDate>Thu, 16 Nov 2023 23:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[12:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_171/toCQu_1700133657470lxkeg_JPEG/cover_0000261809_001_20231116201548014.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
