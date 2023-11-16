@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Nov 2023 09:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Nov 2023 10:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] LG 우승 기념 세일 드디어 나왔다!]]></title>
+            <link>https://tv.naver.com/v/42947072</link>
+            <guid>https://tv.naver.com/v/42947072</guid>
+            <pubDate>Thu, 16 Nov 2023 10:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_18/VASLP_1700127939001aiJbi_JPEG/cover_cover_231116_LG_sale_thumb_mbic_640_20231116184502351.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[현장영상] "아름다운 차량" 화기애애 작별‥기자회견에선 "그는 독재자"]]></title>
             <link>https://tv.naver.com/v/42945245</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 16 Nov 2023 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231116_23/W2MJU_1700103961145WFWjp_JPEG/cover_cover_noon_20231116_114145_1_6_Large_20231116120548253.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자녀 학원비도 부담‥자영업자들 4년째 "줄이겠다"]]></title>
-            <link>https://tv.naver.com/v/42922216</link>
-            <guid>https://tv.naver.com/v/42922216</guid>
-            <pubDate>Thu, 16 Nov 2023 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[2:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231116_40/f4Jya_1700103996697OOiUI_JPEG/cover_cover_noon_20231116_114102_1_5_Large_20231116120539411.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
