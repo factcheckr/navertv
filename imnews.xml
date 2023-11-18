@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 22:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 23:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 18 Nov 2023 22:15:03 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231119_94/XL3Ou_17003455389744t50q_JPEG/cover_cover_jsh231119_01_20231119071204129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC뉴스] '정부24' 임시 재개‥한덕수 "국민 불편 송구"]]></title>
+            <link>https://tv.naver.com/v/43052586</link>
+            <guid>https://tv.naver.com/v/43052586</guid>
+            <pubDate>Sat, 18 Nov 2023 23:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[9:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231119_258/fTj0A_1700345530752Dq2xA_PNG/1700345526238.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[주택 화재가 산불로‥달리던 차에서 불]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Nov 2023 01:13:23 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231118_202/ISFmr_1700269410256UDEAO_JPEG/cover_cover_jsh231118_13_20231118100301862.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수능 영어 듣기평가 중 울린 휴대전화 소음‥주인은 시험 감독관]]></title>
-            <link>https://tv.naver.com/v/43023410</link>
-            <guid>https://tv.naver.com/v/43023410</guid>
-            <pubDate>Sat, 18 Nov 2023 01:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[2:12]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_16/DsYAD_1700268517985unoEC_JPEG/cover_cover_jsh231118_12_20231118094804296.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
