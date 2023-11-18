@@ -4,9 +4,33 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 11:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 12:30:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 내일 추위 누그러져…서울 한낮 14도]]></title>
+            <link>https://tv.naver.com/v/43040373</link>
+            <guid>https://tv.naver.com/v/43040373</guid>
+            <pubDate>Sat, 18 Nov 2023 12:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_250/nXEgF_1700307225455ATTp7_JPEG/cover_cover_20231118201518_20_906_1343573_1080_7_20231118203301143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBN 뉴스센터] 11월 18일 클로징]]></title>
+            <link>https://tv.naver.com/v/43040015</link>
+            <guid>https://tv.naver.com/v/43040015</guid>
+            <pubDate>Sat, 18 Nov 2023 12:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_219/Vc0h4_1700306506639AAYjY_JPEG/cover_cover_20231118201812_20_906_1343574_1080_7_20231118202101121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["가자 남부 공습에 26명 사망"…이스라엘, 연료 반입 허용]]></title>
+            <link>https://tv.naver.com/v/43039837</link>
+            <guid>https://tv.naver.com/v/43039837</guid>
+            <pubDate>Sat, 18 Nov 2023 12:30:29 GMT</pubDate>
+            <content:encoded><![CDATA[1:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_75/1Ix4E_1700306182378qHhQ3_JPEG/cover_cover_20231118200946_20_906_1343571_1080_7_20231118201501152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[중국 개방 45년] '중국 경제 엔진' 광둥성을 가다]]></title>
             <link>https://tv.naver.com/v/43039714</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 17 Nov 2023 12:33:36 GMT</pubDate>
             <content:encoded><![CDATA[1:18]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231117_116/OSO3D_17002199069399d3C8_JPEG/cover_cover_20231117192127_20_552_1343520_1080_7_20231117201724744.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준석 "비대위원장 되면 120석"…의도는? [뉴스와이드]]]></title>
-            <link>https://tv.naver.com/v/43006827</link>
-            <guid>https://tv.naver.com/v/43006827</guid>
-            <pubDate>Fri, 17 Nov 2023 12:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[22:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_8/G9vkO_1700220500373Loj2u_JPEG/cover_cover_20231117201111_20_536_1343539_1080_7_20231117201701182.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김기현-인요한, 25일 만에 긴급 면담…무슨 얘기 오갔나? [뉴스와이드]]]></title>
-            <link>https://tv.naver.com/v/43006748</link>
-            <guid>https://tv.naver.com/v/43006748</guid>
-            <pubDate>Fri, 17 Nov 2023 12:33:36 GMT</pubDate>
-            <content:encoded><![CDATA[29:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_212/R0HFL_1700220661671bu76g_JPEG/cover_cover_20231117200727_20_536_1343538_1080_7_20231117201501188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독해는 전광석화, 그림엔 쩔쩔, 22번 '불가능'…챗GPT 수능 낙제점]]></title>
-            <link>https://tv.naver.com/v/43006527</link>
-            <guid>https://tv.naver.com/v/43006527</guid>
-            <pubDate>Fri, 17 Nov 2023 11:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[1:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231117_89/B4caS_17002194170216xtte_JPEG/cover_cover_20231117194739_20_552_1343532_1080_7_20231117200901131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
