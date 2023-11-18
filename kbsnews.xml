@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Nov 2023 01:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Nov 2023 02:28:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[930 날씨] 찬바람 불며 추워요! 강풍 주의]]></title>
+            <link>https://tv.naver.com/v/43023729</link>
+            <guid>https://tv.naver.com/v/43023729</guid>
+            <pubDate>Sat, 18 Nov 2023 02:27:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_90/fvN4U_1700270005406o6VvL_JPEG/cover_0011604970_001_20231118101301113.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘꼰대 정치’에 ‘아웃사이더’를 자처한 사람들 [창+]]]></title>
             <link>https://tv.naver.com/v/43023684</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 17 Nov 2023 22:16:12 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231118_92/mV2Q9_1700257617273YIWXu_JPEG/cover_0011604930_001_20231118064610363.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘마이코플라스마 폐렴’ 환자 3주 만에 2배 증가…대부분 아동]]></title>
-            <link>https://tv.naver.com/v/43022128</link>
-            <guid>https://tv.naver.com/v/43022128</guid>
-            <pubDate>Fri, 17 Nov 2023 22:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[1:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_80/evRYP_1700257598914XuAmj_JPEG/cover_0011604929_001_20231118064601154.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
