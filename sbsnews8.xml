@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 08:21:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 09:16:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 새벽에 가게 난입해 돈 훔쳐 달아난 외국인…경찰 추적 중]]></title>
+            <link>https://tv.naver.com/v/43065475</link>
+            <guid>https://tv.naver.com/v/43065475</guid>
+            <pubDate>Sun, 19 Nov 2023 09:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[1:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231119_151/2rnNl_1700383020783ilfdm_JPEG/cover_0001107151_001_20231119173602991.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동전 던지기로 시장 뽑은 미국 "이래서 한 표도 중요" [글로벌D리포트]]]></title>
             <link>https://tv.naver.com/v/43064651</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 18 Nov 2023 12:29:38 GMT</pubDate>
             <content:encoded><![CDATA[2:29]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231118_292/715aB_1700309934507R0DIr_JPEG/cover_0001107053_001_20231118211719431.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 내륙 중심 영하권 추위…낮에는 추위 풀려요]]></title>
-            <link>https://tv.naver.com/v/43041628</link>
-            <guid>https://tv.naver.com/v/43041628</guid>
-            <pubDate>Sat, 18 Nov 2023 12:29:38 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231118_85/6xXa7_1700309866977M9tDv_JPEG/cover_0001107050_001_20231118211709729.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
