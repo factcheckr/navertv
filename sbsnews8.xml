@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Nov 2023 20:18:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2023 21:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/43083682</link>
+            <guid>https://tv.naver.com/v/43083682</guid>
+            <pubDate>Sun, 19 Nov 2023 21:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[0:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_196/CcVk0_1700428183148rgEkE_JPEG/cover_0001107210_001_20231120060901121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CCTV 밑 취객 폰 노린 절도범…스크린도어에 딱 걸렸다]]></title>
             <link>https://tv.naver.com/v/43083282</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 19 Nov 2023 04:20:00 GMT</pubDate>
             <content:encoded><![CDATA[1:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231119_279/iyi7R_1700366189314iukmh_JPEG/cover_0001107133_001_20231119125601149.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소 럼피스킨 확진 사례 105건으로 늘어…청주 · 고창서 추가]]></title>
-            <link>https://tv.naver.com/v/43057168</link>
-            <guid>https://tv.naver.com/v/43057168</guid>
-            <pubDate>Sun, 19 Nov 2023 04:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231119_84/ykQc6_1700366065024y4DJX_JPEG/cover_0001107132_001_20231119125401338.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
