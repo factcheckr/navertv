@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Nov 2023 09:19:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Nov 2023 10:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원희룡, ‘이재명 지역구’서 맞대결 검토]]></title>
+            <link>https://tv.naver.com/v/43116629</link>
+            <guid>https://tv.naver.com/v/43116629</guid>
+            <pubDate>Mon, 20 Nov 2023 10:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_167/oat3H_1700475358643CInlI_JPEG/cover_0000262046_001_20231120191501497.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[국민의힘, 한동훈 필두로 “슈퍼 빅텐트”]]></title>
+            <link>https://tv.naver.com/v/43116245</link>
+            <guid>https://tv.naver.com/v/43116245</guid>
+            <pubDate>Mon, 20 Nov 2023 10:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_2/KSEyW_1700475020253Qda41_JPEG/cover_0000262045_001_20231120190901475.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상]KT 허훈, 빛 바랜 코트 복귀전]]></title>
             <link>https://tv.naver.com/v/43103972</link>
@@ -230,22 +246,6 @@
             <pubDate>Sun, 19 Nov 2023 11:14:23 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231119_205/LKwHG_1700392241385rzrD1_JPEG/cover_0000262004_001_20231119200928511.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[“페이커 대관식 보자”…‘롤드컵’ 결승 응원 열기]]></title>
-            <link>https://tv.naver.com/v/43069964</link>
-            <guid>https://tv.naver.com/v/43069964</guid>
-            <pubDate>Sun, 19 Nov 2023 11:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231119_135/8PrR0_1700392233776O3vNj_JPEG/cover_0000262005_001_20231119200919519.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]내일 맑고 강추위 없어…출근길 짙은 안개 유의]]></title>
-            <link>https://tv.naver.com/v/43069958</link>
-            <guid>https://tv.naver.com/v/43069958</guid>
-            <pubDate>Sun, 19 Nov 2023 11:14:23 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231119_289/FSQCm_1700392175790Uwiyf_JPEG/cover_0000262006_001_20231119200910551.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
