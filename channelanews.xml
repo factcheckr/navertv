@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 06:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 07:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]2023 롤드컵, e스포츠 사상 첫 거리응원]]></title>
+            <link>https://tv.naver.com/v/43164851</link>
+            <guid>https://tv.naver.com/v/43164851</guid>
+            <pubDate>Tue, 21 Nov 2023 07:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[1:18]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_188/bIGsX_1700548927823bSXMJ_JPEG/cover_0000262118_001_20231121153801549.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[與 혁신위 ‘이상민 초청특강’…거취 논의 주목]]></title>
             <link>https://tv.naver.com/v/43162179</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 06:23:46 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231120_272/xAKoh_1700481654814FIA3L_JPEG/cover_0000262073_001_20231120205911446.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘꼼수 제품’ 빠진 ‘꼼수 가격 인상’ 조사]]></title>
-            <link>https://tv.naver.com/v/43122609</link>
-            <guid>https://tv.naver.com/v/43122609</guid>
-            <pubDate>Tue, 21 Nov 2023 06:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[1:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231120_30/hlf24_1700481638396IYurm_JPEG/cover_0000262074_001_20231120205901588.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
