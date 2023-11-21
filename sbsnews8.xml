@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 20:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 21:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[풀영상] 윤석열 대통령 영국 의회 연설…수교 140주년 국빈 방문]]></title>
+            <link>https://tv.naver.com/v/43200509</link>
+            <guid>https://tv.naver.com/v/43200509</guid>
+            <pubDate>Tue, 21 Nov 2023 21:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[16:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_256/iONgL_1700600724693Aielt_JPEG/cover_0001107913_001_20231122055901132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/43198135</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 13:22:47 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231121_154/9gGsO_1700570562439tfaHy_JPEG/cover_0001107818_001_20231121214132065.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["지도교수에 한 달간 폭행당했다" 증거 영상 내민 전공의]]></title>
-            <link>https://tv.naver.com/v/43186152</link>
-            <guid>https://tv.naver.com/v/43186152</guid>
-            <pubDate>Tue, 21 Nov 2023 13:22:47 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_188/SUeug_17005705573289ImY4_JPEG/cover_0001107819_001_20231121214122170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

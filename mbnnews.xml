@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 20:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 21:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[463회_빈대 피해와 호흡기 질환 예방요령]]></title>
+            <link>https://tv.naver.com/v/43200515</link>
+            <guid>https://tv.naver.com/v/43200515</guid>
+            <pubDate>Tue, 21 Nov 2023 21:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[15:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_82/LJGJt_1700600889817uj1j5_JPEG/cover_cover_20231122055515_20_849_1343831_1080_7_20231122060001254.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[뉴스특보] 윤석열 대통령 영국 국빈 환영식]]></title>
             <link>https://tv.naver.com/v/43194860</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 10:27:10 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231121_131/6V6iQ_1700562006846SnOH5_JPEG/cover_cover_20231121191606_20_552_1343798_1080_7_20231121191901155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한, 일본에 위성 발사 계획 통보…"내일 새벽 가능성"]]></title>
-            <link>https://tv.naver.com/v/43178440</link>
-            <guid>https://tv.naver.com/v/43178440</guid>
-            <pubDate>Tue, 21 Nov 2023 10:27:10 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_112/6HypF_1700561883039IXXDK_JPEG/cover_cover_20231121191356_20_552_1343797_1080_7_20231121191701123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
