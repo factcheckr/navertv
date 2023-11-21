@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Nov 2023 19:15:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Nov 2023 20:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] "황의조 투입한 이유?" 클린스만 대답은..]]></title>
+            <link>https://tv.naver.com/v/43200174</link>
+            <guid>https://tv.naver.com/v/43200174</guid>
+            <pubDate>Tue, 21 Nov 2023 20:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[9:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_37/FI9iC_1700597737351ksjLT_JPEG/cover_cover_231122_klinsman_thumb_640_20231122051204303.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한, 석 달 만에 재발사‥어떻게 가능했나]]></title>
             <link>https://tv.naver.com/v/43193594</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 21 Nov 2023 11:15:21 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231121_197/SYcMe_1700564883427TrCYb_JPEG/cover_cover_desk_20231121_200302_1_10_Large_20231121200701987.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제보는 MBC] 바람에 '와르르' 무너진 아파트 거푸집‥불안한 입주예정자들]]></title>
-            <link>https://tv.naver.com/v/43180949</link>
-            <guid>https://tv.naver.com/v/43180949</guid>
-            <pubDate>Tue, 21 Nov 2023 11:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[2:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231121_266/KadmX_1700564643082bcvhA_JPEG/cover_cover_desk_20231121_195833_1_8_Large_20231121200301997.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
