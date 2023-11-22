@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 20:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 21:15:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IAEA “북한 영변 핵시설 경수로 시운전 정황 포착”]]></title>
+            <link>https://tv.naver.com/v/43259390</link>
+            <guid>https://tv.naver.com/v/43259390</guid>
+            <pubDate>Wed, 22 Nov 2023 21:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_19/rqZYF_1700687572555Pw0WU_JPEG/cover_0011607804_001_20231123061201131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“현존 최강 이지스함” 정조대왕함 위용 드러내]]></title>
             <link>https://tv.naver.com/v/43256082</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Nov 2023 15:17:29 GMT</pubDate>
             <content:encoded><![CDATA[0:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231122_285/4q3vF_1700664203688ftpct_JPEG/cover_0011607764_001_20231122234308258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대미포조선, 디지털생산혁신센터 개소]]></title>
-            <link>https://tv.naver.com/v/43252515</link>
-            <guid>https://tv.naver.com/v/43252515</guid>
-            <pubDate>Wed, 22 Nov 2023 15:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[0:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_147/ifKBP_1700664195148y8r9b_JPEG/cover_0011607763_001_20231122234301143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
