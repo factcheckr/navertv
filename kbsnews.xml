@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 05:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 06:24:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[현장영상] ‘불법 촬영 혐의’ 황의조 감싼 클린스만 “추측 믿지 않아”]]></title>
+            <link>https://tv.naver.com/v/43218686</link>
+            <guid>https://tv.naver.com/v/43218686</guid>
+            <pubDate>Wed, 22 Nov 2023 06:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[0:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_86/jWDOI_1700631629214VTnGr_JPEG/cover_0011607384_001_20231122144001135.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오후날씨 꿀팁] 밤 늦게 경기·강원 비…내일, 오후부터 찬 바람]]></title>
             <link>https://tv.naver.com/v/43216963</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 22 Nov 2023 04:20:51 GMT</pubDate>
             <content:encoded><![CDATA[1:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231122_207/IkSPt_1700623836258HDupG_JPEG/cover_0011607329_001_20231122123001170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유엔 “북한 강력 규탄…안보리 결의 준수 촉구”]]></title>
-            <link>https://tv.naver.com/v/43211269</link>
-            <guid>https://tv.naver.com/v/43211269</guid>
-            <pubDate>Wed, 22 Nov 2023 04:20:51 GMT</pubDate>
-            <content:encoded><![CDATA[0:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231122_201/h5QFE_1700623397346SxR8L_JPEG/cover_0011607327_001_20231122122301151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
