@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 06:23:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건] 오늘의 주요 뉴스]]></title>
+            <link>https://tv.naver.com/v/43283597</link>
+            <guid>https://tv.naver.com/v/43283597</guid>
+            <pubDate>Thu, 23 Nov 2023 07:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[4:46]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_267/xIWqa_1700723623741TyGB9_JPEG/cover_0011608252_001_20231123161201152.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조달청 나라장터 한때 접속 차질]]></title>
             <link>https://tv.naver.com/v/43279797</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Nov 2023 04:20:17 GMT</pubDate>
             <content:encoded><![CDATA[2:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_136/nBlPT_1700711533445yDElk_JPEG/cover_0011608165_001_20231123125119373.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기후는 말한다] 이상 기온에 낙엽도 초록색]]></title>
-            <link>https://tv.naver.com/v/43271604</link>
-            <guid>https://tv.naver.com/v/43271604</guid>
-            <pubDate>Thu, 23 Nov 2023 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_95/aK8wN_1700711500339ICCfI_JPEG/cover_0011608164_001_20231123125110137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
