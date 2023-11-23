@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 08:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 09:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[엠빅뉴스] '23년 원클럽맨' 김강민 뜻하지 않은 깜짝 이적..]]></title>
+            <link>https://tv.naver.com/v/43288705</link>
+            <guid>https://tv.naver.com/v/43288705</guid>
+            <pubDate>Thu, 23 Nov 2023 09:17:17 GMT</pubDate>
+            <content:encoded><![CDATA[4:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_267/PLFuu_1700728193398E2E7z_JPEG/cover_cover_231123_Kimkangmin_thumb_640_20231123172804045.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[코스피, 외국인 매수세에 소폭 상승‥2500선 지켜]]></title>
             <link>https://tv.naver.com/v/43287645</link>
@@ -24,20 +32,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_180/8gCgH_1700726791934R0CEb_JPEG/cover_cover_5news_20231123_170232_1_7_Large_20231123170612267.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[MBC 5시뉴스] 밤사이 전국적 한파특보‥이 시각 기상센터]]></title>
-            <link>https://tv.naver.com/v/43287225</link>
-            <guid>https://tv.naver.com/v/43287225</guid>
-            <pubDate>Thu, 23 Nov 2023 08:21:21 GMT</pubDate>
-            <content:encoded><![CDATA[9:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_167/AbfYe_1700726773143gUDpG_JPEG/07d704d8-89d7-11ee-88f6-a0369ffddb8c_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[방문진 지역 프로그램 대상에 MBC경남 '어른 김장하']]></title>
             <link>https://tv.naver.com/v/43287220</link>
             <guid>https://tv.naver.com/v/43287220</guid>
             <pubDate>Thu, 23 Nov 2023 08:21:21 GMT</pubDate>
             <content:encoded><![CDATA[0:30]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_253/qKnsZ_1700726780469m9eXY_JPEG/cover_cover_5news_20231123_170147_1_6_Large_20231123170604557.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MBC 5시뉴스] 밤사이 전국적 한파특보‥이 시각 기상센터]]></title>
+            <link>https://tv.naver.com/v/43287225</link>
+            <guid>https://tv.naver.com/v/43287225</guid>
+            <pubDate>Thu, 23 Nov 2023 08:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[9:51]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_6/KDw4H_1700729708252ONi2k_PNG/1700729705471.png?type=f194_109_blend" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA['위안부 2차 소송' 항소심서 승소‥"일본 배상해야"]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Nov 2023 07:16:03 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_44/1mTb7_1700721068506xttOY_JPEG/cover_cover_14news_20231123_152150_1_8_Large_20231123153022981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해병대, 백령도 일대 방어훈련‥K-9 자주포 등 투입]]></title>
-            <link>https://tv.naver.com/v/43280667</link>
-            <guid>https://tv.naver.com/v/43280667</guid>
-            <pubDate>Thu, 23 Nov 2023 07:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[0:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_62/QT7ts_1700721032770Mf2Jf_JPEG/cover_cover_14news_20231123_152055_1_7_Large_20231123153016761.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
