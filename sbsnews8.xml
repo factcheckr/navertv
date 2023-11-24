@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 18:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 19:14:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 서울 화곡동 도로에서 상수도관 파열…2시간여 만에 수리 완료]]></title>
+            <link>https://tv.naver.com/v/43373099</link>
+            <guid>https://tv.naver.com/v/43373099</guid>
+            <pubDate>Fri, 24 Nov 2023 19:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[0:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_267/syYFF_1700853140277ObUFf_JPEG/cover_0001108957_001_20231125041201143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[1층서 난 불 14층 옥상까지 '활활'…외벽 타고 치솟았다]]></title>
             <link>https://tv.naver.com/v/43365784</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 13:20:43 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_188/VSOHF_1700830587016Xt0Ri_JPEG/cover_0001108932_001_20231124215603083.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] '서울 -6도' 토요일 추위 절정…동해안 대기 건조]]></title>
-            <link>https://tv.naver.com/v/43361640</link>
-            <guid>https://tv.naver.com/v/43361640</guid>
-            <pubDate>Fri, 24 Nov 2023 13:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_86/tnWWS_1700830546312LJe26_JPEG/cover_0001108940_001_20231124215503006.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
