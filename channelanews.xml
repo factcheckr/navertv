@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 07:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 08:22:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상]김하성 “안 벗겨질 헬멧 제작 중”]]></title>
+            <link>https://tv.naver.com/v/43346309</link>
+            <guid>https://tv.naver.com/v/43346309</guid>
+            <pubDate>Fri, 24 Nov 2023 08:22:14 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_186/8fdLb_1700812826472INJHP_JPEG/cover_0000262354_001_20231124165801578.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“12월 초까지 거취 결정”…이상민, 헤어질 결심 굳혔나?]]></title>
             <link>https://tv.naver.com/v/43335117</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 23 Nov 2023 11:15:17 GMT</pubDate>
             <content:encoded><![CDATA[1:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231123_198/ywlRG_1700737865125YDYJc_JPEG/cover_0000262305_001_20231123200949964.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[수갑 푼 뒤 지키지도 않아…‘탈주’ 김길수 허술한 감시]]></title>
-            <link>https://tv.naver.com/v/43298502</link>
-            <guid>https://tv.naver.com/v/43298502</guid>
-            <pubDate>Thu, 23 Nov 2023 11:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231123_98/K0l2T_1700737840643oH8yF_JPEG/cover_0000262307_001_20231123200930990.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
