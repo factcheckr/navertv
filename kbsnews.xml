@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 20:18:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 21:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말 날씨] 올가을 최고 추위…전국 대부분 영하권]]></title>
+            <link>https://tv.naver.com/v/43373918</link>
+            <guid>https://tv.naver.com/v/43373918</guid>
+            <pubDate>Fri, 24 Nov 2023 21:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[1:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_287/YlGN4_1700860246323Ghh3A_JPEG/cover_0011609423_001_20231125061001147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨와 생활] 일교차 커지면서 뇌졸중 위험 ‘쑥’]]></title>
             <link>https://tv.naver.com/v/43369183</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 15:17:12 GMT</pubDate>
             <content:encoded><![CDATA[0:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_195/Z4cFS_1700837718697ei11k_JPEG/cover_0011609390_001_20231124235501125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘비위 의혹’ 생활폐기물업체 대표 숨진 채 발견]]></title>
-            <link>https://tv.naver.com/v/43367281</link>
-            <guid>https://tv.naver.com/v/43367281</guid>
-            <pubDate>Fri, 24 Nov 2023 15:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[0:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_102/muEbF_1700837564541rwEfd_JPEG/cover_0011609389_001_20231124235223054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
