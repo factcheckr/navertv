@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 05:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 06:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 인요한 만난 원희룡 "저는 말에 책임지는 사람…희생 마다하지 않겠다"]]></title>
+            <link>https://tv.naver.com/v/43383784</link>
+            <guid>https://tv.naver.com/v/43383784</guid>
+            <pubDate>Sat, 25 Nov 2023 06:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[12:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_47/vc592_1700891328577WY5B3_JPEG/cover_0001109034_001_20231125144201158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[스브스픽] '정부혁신, 디지털플랫폼정부와 함께'…'부끄러움은 국민 몫인가요']]></title>
             <link>https://tv.naver.com/v/43382865</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 13:20:43 GMT</pubDate>
             <content:encoded><![CDATA[1:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_84/NS8iC_17008311126091MnxE_JPEG/cover_0001108662_001_20231124220413354.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스브스픽] "연쇄살인마 유영철이 변했다…돌연 교도관에 복종"]]></title>
-            <link>https://tv.naver.com/v/43362092</link>
-            <guid>https://tv.naver.com/v/43362092</guid>
-            <pubDate>Fri, 24 Nov 2023 13:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_231/7Bh7z_17008310929633Nf1F_JPEG/cover_0001108753_001_20231124220405021.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
