@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 08:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 09:16:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정부, 행정망 먹통 원인 '장비 불량'으로 결론…"해킹 아냐"]]></title>
+            <link>https://tv.naver.com/v/43390469</link>
+            <guid>https://tv.naver.com/v/43390469</guid>
+            <pubDate>Sat, 25 Nov 2023 09:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[1:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_299/jY6JY_1700903323974aCWb1_JPEG/cover_0000368490_001_20231125180801525.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 전국 낮에도 기온 '뚝'…하늘은 대체로 맑아]]></title>
             <link>https://tv.naver.com/v/43379405</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 11:15:05 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_6/veOvz_170082412389662FaN_JPEG/cover_0000368420_001_20231124200801476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['먹통 사태' 중 출장 갔던 이상민…귀국 후 회의서 "원인 찾아야"]]></title>
-            <link>https://tv.naver.com/v/43356344</link>
-            <guid>https://tv.naver.com/v/43356344</guid>
-            <pubDate>Fri, 24 Nov 2023 11:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_236/z9WlA_1700823884144Y3JHe_JPEG/cover_0000368419_001_20231124200401490.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
