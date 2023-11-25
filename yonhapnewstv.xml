@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 19:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 20:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 626회]]></title>
+            <link>https://tv.naver.com/v/43407241</link>
+            <guid>https://tv.naver.com/v/43407241</guid>
+            <pubDate>Sat, 25 Nov 2023 20:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[30:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_258/FUDnE_1700943374740UUCfu_JPEG/cover_cover_MYH20231124016100641_20231126050101655.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이주민이 매년 수십만 명이라면…'혐오' 세력 판칠까 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/43398019</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Nov 2023 07:15:17 GMT</pubDate>
             <content:encoded><![CDATA[2:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231125_213/Svivt_1700895148359Jcu9G_JPEG/cover_cover_MYH20231125008500641_20231125155101735.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기 화성시 100만 인구 코앞…'백만화성축제' 개최]]></title>
-            <link>https://tv.naver.com/v/43385804</link>
-            <guid>https://tv.naver.com/v/43385804</guid>
-            <pubDate>Sat, 25 Nov 2023 07:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_160/ErBbu_17008950943701GuDO_JPEG/cover_cover_MYH20231125008400641_20231125154901918.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
