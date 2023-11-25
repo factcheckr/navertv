@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 21:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 22:15:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클로징]]></title>
+            <link>https://tv.naver.com/v/43407481</link>
+            <guid>https://tv.naver.com/v/43407481</guid>
+            <pubDate>Sat, 25 Nov 2023 22:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_169/fc9IC_1700947034952U1OKf_JPEG/cover_0001109102_001_20231126061708679.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[날씨] 아침 기온 영하권…화요일부터 본격적 초겨울 추위]]></title>
+            <link>https://tv.naver.com/v/43407479</link>
+            <guid>https://tv.naver.com/v/43407479</guid>
+            <pubDate>Sat, 25 Nov 2023 22:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_211/CH7Oi_1700947046197u5PMi_JPEG/cover_0001109101_001_20231126061701107.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["부산은 준비됐다" D-2 총력 유치전]]></title>
+            <link>https://tv.naver.com/v/43407476</link>
+            <guid>https://tv.naver.com/v/43407476</guid>
+            <pubDate>Sat, 25 Nov 2023 22:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_3/kHibd_1700946964238aaKtw_JPEG/cover_0001109100_001_20231126061501129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미뤄진 인질 석방…카타르 "장애물 극복됐다"]]></title>
             <link>https://tv.naver.com/v/43407469</link>
@@ -222,30 +246,6 @@
             <pubDate>Sat, 25 Nov 2023 05:15:45 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231125_233/Yliz7_1700888918363BfN6m_JPEG/cover_0001109020_001_20231125140801132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1분핫뉴스] 서이초 사건 '혐의없음' 경찰…정보공개까지 미뤄 '논란']]></title>
-            <link>https://tv.naver.com/v/43380517</link>
-            <guid>https://tv.naver.com/v/43380517</guid>
-            <pubDate>Sat, 25 Nov 2023 04:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_107/abI8g_1700884122380j5Y8W_JPEG/cover_0001109012_001_20231125124801132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기 시흥 월곶어시장서 화재…점포 17곳 전소]]></title>
-            <link>https://tv.naver.com/v/43379896</link>
-            <guid>https://tv.naver.com/v/43379896</guid>
-            <pubDate>Sat, 25 Nov 2023 04:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_174/BJZ0J_1700882906935gbA0B_JPEG/cover_0001109010_001_20231125122801131.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 11월 최저기온 경신…중부 중심 낮 5도 아래 머물러]]></title>
-            <link>https://tv.naver.com/v/43379865</link>
-            <guid>https://tv.naver.com/v/43379865</guid>
-            <pubDate>Sat, 25 Nov 2023 04:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_11/lbLDZ_1700882859816tfYQV_JPEG/cover_0001109009_001_20231125122701118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
