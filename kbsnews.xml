@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 01:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 02:25:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[오늘의 영상] 화려한 미국의 추수감사절 퍼레이드! 퍼레이드의 메인은 ‘풍선’ 이라고?]]></title>
+            <link>https://tv.naver.com/v/43377040</link>
+            <guid>https://tv.naver.com/v/43377040</guid>
+            <pubDate>Sat, 25 Nov 2023 02:24:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_110/0ykxH_1700876138214IwKPl_JPEG/cover_0011609415_001_20231125103501133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[930 날씨] 올가을 들어 가장 추운 아침…영남 내륙 한파 특보]]></title>
             <link>https://tv.naver.com/v/43376069</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 23:16:40 GMT</pubDate>
             <content:encoded><![CDATA[2:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231125_131/ooN0f_1700864393712flWyD_JPEG/cover_0011609448_001_20231125071901127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북, 위성 발사 성공…ICBM 기술도 완성 단계?]]></title>
-            <link>https://tv.naver.com/v/43374395</link>
-            <guid>https://tv.naver.com/v/43374395</guid>
-            <pubDate>Fri, 24 Nov 2023 22:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_113/YfRXx_1700864112802eMlS9_JPEG/cover_0011609446_001_20231125071427749.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
