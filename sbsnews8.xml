@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Nov 2023 23:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 01:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특별기획] 조선중앙텔레비죤 1부 익숙하고도 낯선]]></title>
+            <link>https://tv.naver.com/v/43375370</link>
+            <guid>https://tv.naver.com/v/43375370</guid>
+            <pubDate>Sat, 25 Nov 2023 01:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[35:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_80/qgYL3_1700871097269XW2Hk_JPEG/cover_0001108988_001_20231125085601126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] 서울 화곡동 도로에서 상수도관 파열…2시간여 만에 수리 완료]]></title>
             <link>https://tv.naver.com/v/43374783</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 24 Nov 2023 13:20:43 GMT</pubDate>
             <content:encoded><![CDATA[2:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231124_160/sQUvv_17008310289163ORIQ_JPEG/cover_0001108912_001_20231124220211787.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2030 부산엑스포 유치 총력전…"역대 최대 지원 패키지"]]></title>
-            <link>https://tv.naver.com/v/43361991</link>
-            <guid>https://tv.naver.com/v/43361991</guid>
-            <pubDate>Fri, 24 Nov 2023 13:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231124_203/TkGtu_1700831028705Isjeu_JPEG/cover_0001108914_001_20231124220201932.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
