@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Nov 2023 05:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Nov 2023 06:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[1분핫뉴스] 한밤중 최대 규모 드론 공격…공포에 떤 키이우 시민들]]></title>
+            <link>https://tv.naver.com/v/43414634</link>
+            <guid>https://tv.naver.com/v/43414634</guid>
+            <pubDate>Sun, 26 Nov 2023 06:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231126_223/3CONW_1700977007969T6EY7_JPEG/cover_0001109179_001_20231126143601109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] '서울 낮 7도' 예년 기온 회복…동해안 건조주의보]]></title>
             <link>https://tv.naver.com/v/43411567</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 25 Nov 2023 13:18:15 GMT</pubDate>
             <content:encoded><![CDATA[1:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231125_255/9DA5J_1700917493173dG8dV_JPEG/cover_0001109054_001_20231125220401130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[승부 가른 김연경 절묘한 서브…흥국생명 7연승]]></title>
-            <link>https://tv.naver.com/v/43398070</link>
-            <guid>https://tv.naver.com/v/43398070</guid>
-            <pubDate>Sat, 25 Nov 2023 13:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231125_63/W9wov_1700917369694r0eEM_JPEG/cover_0001109080_001_20231125220225362.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
