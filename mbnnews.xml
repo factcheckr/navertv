@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 06:24:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 07:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커가 전하는 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/43458984</link>
+            <guid>https://tv.naver.com/v/43458984</guid>
+            <pubDate>Mon, 27 Nov 2023 07:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_255/ZkcF2_1701067295207DaQFO_JPEG/cover_cover_20231127153753_20_845_1344288_1080_7_20231127154101130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 게임업계 발칵 뒤집어 놓은 이 '손모양' 뭐기에]]></title>
             <link>https://tv.naver.com/v/43450820</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Nov 2023 01:15:52 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_75/sbfGg_1701045964511XOGHX_JPEG/cover_cover_20231127093931_20_605_1344255_1080_7_20231127094501138.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한동훈 이어 대구 찾아간 이준석 "대구 의원 50% 이상 물갈이"]]></title>
-            <link>https://tv.naver.com/v/43440386</link>
-            <guid>https://tv.naver.com/v/43440386</guid>
-            <pubDate>Mon, 27 Nov 2023 01:15:52 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_17/NOKHq_1701045847257wRmmU_JPEG/cover_cover_20231127093830_20_605_1344254_1080_7_20231127094301127.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
