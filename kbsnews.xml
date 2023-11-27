@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 20:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 21:16:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 2030 엑스포 운명의 날]]></title>
+            <link>https://tv.naver.com/v/43495728</link>
+            <guid>https://tv.naver.com/v/43495728</guid>
+            <pubDate>Mon, 27 Nov 2023 21:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_33/ZMM0V_1701119363123deKQX_JPEG/cover_0011610684_001_20231128060901124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오늘의 영상] 찰칵찰칵! 웃음 터지는 야생의 순간들]]></title>
             <link>https://tv.naver.com/v/43490705</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Nov 2023 15:18:34 GMT</pubDate>
             <content:encoded><![CDATA[1:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_247/EvbMG_1701096838497OMlg8_JPEG/cover_0011610640_001_20231127235316471.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검·경 고위직 출신 동시 압수수색…‘백현동 수사무마’ 금품수수 의혹]]></title>
-            <link>https://tv.naver.com/v/43487888</link>
-            <guid>https://tv.naver.com/v/43487888</guid>
-            <pubDate>Mon, 27 Nov 2023 15:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_137/kujiC_1701096837346cfqlR_JPEG/cover_0011610639_001_20231127235308981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
