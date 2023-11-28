@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 06:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 07:17:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사건파일24] 2030 엑스포 개최지 '운명의 날']]></title>
+            <link>https://tv.naver.com/v/43517778</link>
+            <guid>https://tv.naver.com/v/43517778</guid>
+            <pubDate>Tue, 28 Nov 2023 07:16:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_141/BI4TM_1701152836010wz71J_JPEG/cover_2023112890087_thumb_032126_20231128152606084.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 국회 본관, 8시간동안 불법침입에 '무방비'…회의실 활보 파악하고도 '쉬쉬']]></title>
             <link>https://tv.naver.com/v/43514189</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 27 Nov 2023 13:22:11 GMT</pubDate>
             <content:encoded><![CDATA[1:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231127_29/l9ZCG_17010901033330NBPW_JPEG/cover_2023112790206_thumb_095534_20231127220110507.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신동욱 앵커의 시선] 그들을 누가 말리랴]]></title>
-            <link>https://tv.naver.com/v/43480985</link>
-            <guid>https://tv.naver.com/v/43480985</guid>
-            <pubDate>Mon, 27 Nov 2023 13:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231127_34/IfT8p_1701089885335NPkU5_JPEG/cover_2023112790204_thumb_095309_20231127215610188.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
