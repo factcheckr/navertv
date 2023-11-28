@@ -4,9 +4,25 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 17:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 18:23:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[부산 엑스포 위해 ‘정부·기업인’ 함께 뛰었다]]></title>
+            <link>https://tv.naver.com/v/43553115</link>
+            <guid>https://tv.naver.com/v/43553115</guid>
+            <pubDate>Tue, 28 Nov 2023 18:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[13:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_230/OwmIn_1701193624329EJRrv_JPEG/cover_0000262637_001_20231129024201597.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2030 엑스포 개최지는 사우디 리야드]]></title>
+            <link>https://tv.naver.com/v/43552734</link>
+            <guid>https://tv.naver.com/v/43552734</guid>
+            <pubDate>Tue, 28 Nov 2023 18:22:56 GMT</pubDate>
+            <content:encoded><![CDATA[8:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_258/RyYXv_1701192098409A9Hhc_JPEG/cover_0000262638_001_20231129021801528.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[한덕수 “부산 엑스포 위해 노력해준 기업·시민에 감사”]]></title>
             <link>https://tv.naver.com/v/43552611</link>
@@ -230,22 +246,6 @@
             <pubDate>Tue, 28 Nov 2023 11:15:46 GMT</pubDate>
             <content:encoded><![CDATA[1:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231128_111/7gQb8_1701169767173GdUiD_JPEG/cover_0000262628_001_20231128200820961.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨]내일 더 추워져…강원·경북 한파주의보]]></title>
-            <link>https://tv.naver.com/v/43535027</link>
-            <guid>https://tv.naver.com/v/43535027</guid>
-            <pubDate>Tue, 28 Nov 2023 11:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[0:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_265/Gzsgl_1701169723928exhOz_JPEG/cover_0000262631_001_20231128200812242.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[성남 백현동 유치원 앞 ‘이완용 비석’ 논란]]></title>
-            <link>https://tv.naver.com/v/43535018</link>
-            <guid>https://tv.naver.com/v/43535018</guid>
-            <pubDate>Tue, 28 Nov 2023 11:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231128_89/HvQyu_17011697615955FcjS_JPEG/cover_0000262607_001_20231128200801586.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
