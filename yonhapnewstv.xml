@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 19:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 20:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[속보] 경북 경주시 동남동쪽 19KM 지역 규모 4.3 지진 발생]]></title>
+            <link>https://tv.naver.com/v/43613435</link>
+            <guid>https://tv.naver.com/v/43613435</guid>
+            <pubDate>Wed, 29 Nov 2023 20:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231130_244/Usg42_1701288735544N3yr1_JPEG/cover_cover_MYH20231130000100038_20231130051203442.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안성 칠장사 화재…조계종 전 총무원장 '자승' 입적]]></title>
             <link>https://tv.naver.com/v/43606454</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Nov 2023 12:33:13 GMT</pubDate>
             <content:encoded><![CDATA[0:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231129_115/ZjwDA_1701258938936fQ1ne_JPEG/cover_cover_MYH20231129020600641_20231129205510695.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법원, '울산시장 선거개입' 유죄 인정…송철호 등 줄줄이 실형]]></title>
-            <link>https://tv.naver.com/v/43596442</link>
-            <guid>https://tv.naver.com/v/43596442</guid>
-            <pubDate>Wed, 29 Nov 2023 12:33:13 GMT</pubDate>
-            <content:encoded><![CDATA[2:38]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_211/Az8fe_1701258990821pEHgk_JPEG/cover_cover_MYH20231129020500641_20231129205501894.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
