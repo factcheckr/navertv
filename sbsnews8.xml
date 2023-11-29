@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 20:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 21:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[경북 경주서 규모 4.0 지진…올해 두 번째로 큰 규모]]></title>
+            <link>https://tv.naver.com/v/43614026</link>
+            <guid>https://tv.naver.com/v/43614026</guid>
+            <pubDate>Wed, 29 Nov 2023 21:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[2:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231130_266/XsGjj_1701292522954ylOBc_JPEG/cover_0001110263_001_20231130061401161.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/43613955</link>
+            <guid>https://tv.naver.com/v/43613955</guid>
+            <pubDate>Wed, 29 Nov 2023 21:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[1:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231130_205/eYWZZ_1701292114975hfJan_JPEG/cover_0001110262_001_20231130060801143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[추위 절정…서울 체감 영하 14도]]></title>
             <link>https://tv.naver.com/v/43609936</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 29 Nov 2023 12:32:58 GMT</pubDate>
             <content:encoded><![CDATA[2:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231129_40/klypo_17012608778329RKEu_JPEG/cover_0001110212_001_20231129212642908.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월 한 달 동안 중도상환수수료 '면제'…개선안 마련]]></title>
-            <link>https://tv.naver.com/v/43598168</link>
-            <guid>https://tv.naver.com/v/43598168</guid>
-            <pubDate>Wed, 29 Nov 2023 12:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:02]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_28/MWmAf_1701260855131426Gk_JPEG/cover_0001110213_001_20231129212632948.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["고객님 '공격 투자형' 나오셔야 돼요"…규제 강화에 '꼼수'?]]></title>
-            <link>https://tv.naver.com/v/43598152</link>
-            <guid>https://tv.naver.com/v/43598152</guid>
-            <pubDate>Wed, 29 Nov 2023 12:32:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_200/YdcDN_1701260883007NV3bD_JPEG/cover_0001110214_001_20231129212622577.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
