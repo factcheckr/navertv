@@ -4,9 +4,17 @@
         <title>뉴스는 YTN ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 18:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 19:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] 북극발 한파 절정, 주말까지 강추위...서해안 많은 눈]]></title>
+            <link>https://tv.naver.com/v/43669904</link>
+            <guid>https://tv.naver.com/v/43669904</guid>
+            <pubDate>Thu, 30 Nov 2023 19:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[1:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_33/X00qM_1701370907967UBliA_JPEG/cover_cover_202312010354205412_t_20231201040101572.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리카드, 대한항공 누르고 선두 복귀...현대건설 4연승]]></title>
             <link>https://tv.naver.com/v/43669191</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 30 Nov 2023 16:24:02 GMT</pubDate>
             <content:encoded><![CDATA[0:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_42/EG6Eh_1701358878573ezC93_JPEG/cover_cover_202312010038190182_t_20231201004101880.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상] '이재명 측근' 김용 법정구속...사법리스크 재부상]]></title>
-            <link>https://tv.naver.com/v/43665428</link>
-            <guid>https://tv.naver.com/v/43665428</guid>
-            <pubDate>Thu, 30 Nov 2023 16:24:02 GMT</pubDate>
-            <content:encoded><![CDATA[0:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_212/KbMJt_1701358769181uIsoM_JPEG/cover_cover_202312010035466823_t_20231201003901680.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
