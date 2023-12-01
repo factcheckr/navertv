@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 13:22:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 14:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 오늘 낮 최고 5.7도…내일 -1~10도]]></title>
+            <link>https://tv.naver.com/v/43716556</link>
+            <guid>https://tv.naver.com/v/43716556</guid>
+            <pubDate>Fri, 01 Dec 2023 14:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[0:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_207/YUc7Z_1701439880964QR3lK_JPEG/cover_0011614014_001_20231201231101123.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대전·세종·충남지역 유일 생존 애국지사 이일남 선생 별세]]></title>
             <link>https://tv.naver.com/v/43714070</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 13:21:06 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_131/cUDMs_17014361594465iGu0_JPEG/cover_0011613986_001_20231201220903187.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 한라산 일출 예약 시작…접속자 몰리며 또 먹통]]></title>
-            <link>https://tv.naver.com/v/43713657</link>
-            <guid>https://tv.naver.com/v/43713657</guid>
-            <pubDate>Fri, 01 Dec 2023 13:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[0:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_152/M1Uqk_17014361500325djG0_JPEG/cover_0011613985_001_20231201220852476.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
