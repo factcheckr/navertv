@@ -4,7 +4,7 @@
         <title>연합뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 21:15:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 22:15:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Fri, 01 Dec 2023 08:22:40 GMT</pubDate>
             <content:encoded><![CDATA[1:50]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_133/VHwgt_1701418544690yq7nu_JPEG/1701418252515.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 중고차 수출액 5조원 육박하는데…업계는 '구멍가게' 수준?]]></title>
+            <link>https://tv.naver.com/v/43699144</link>
+            <guid>https://tv.naver.com/v/43699144</guid>
+            <pubDate>Sat, 02 Dec 2023 22:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[5:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_201/NtHC9_17014181022104U6U0_JPEG/1701417296583.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[활주로 지나쳐 '풍덩'…미 초계기, 산호초 위에 착륙?]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 29 Nov 2023 08:22:21 GMT</pubDate>
             <content:encoded><![CDATA[4:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231129_208/4a0pj_1701244335707eKXYN_JPEG/1701243234644.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['선원 없는 중국화물선' 가거도 해상서 침몰…밀입국 여부 조사]]></title>
-            <link>https://tv.naver.com/v/43575720</link>
-            <guid>https://tv.naver.com/v/43575720</guid>
-            <pubDate>Wed, 29 Nov 2023 06:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231129_17/j2BqU_1701238391769pTdGM_JPEG/1701238374964.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
