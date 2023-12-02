@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 20:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 21:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 627회]]></title>
+            <link>https://tv.naver.com/v/43753453</link>
+            <guid>https://tv.naver.com/v/43753453</guid>
+            <pubDate>Sat, 02 Dec 2023 21:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[30:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231203_131/ajDpz_1701548271078pSWAd_JPEG/cover_cover_MYH20231201014700641_20231203050101650.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[단독] 가방 빼앗으려 흉기로 여성 찔러…30대 강도 검거]]></title>
             <link>https://tv.naver.com/v/43745001</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Dec 2023 06:21:33 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231202_230/ejQxj_1701494493869Rt12x_JPEG/cover_cover_MYH20231202006100641_20231202142108874.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[처리시한 넘긴 예산안…여야 '네탓' 공방]]></title>
-            <link>https://tv.naver.com/v/43731146</link>
-            <guid>https://tv.naver.com/v/43731146</guid>
-            <pubDate>Sat, 02 Dec 2023 06:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_241/dEyFH_1701494493688qiIyq_JPEG/cover_cover_MYH20231202006000641_20231202142101768.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
