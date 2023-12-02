@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 04:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 05:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국 첫 정찰위성 발사 성공…北위성보다 해상도 100배 성능]]></title>
+            <link>https://tv.naver.com/v/43730996</link>
+            <guid>https://tv.naver.com/v/43730996</guid>
+            <pubDate>Sat, 02 Dec 2023 05:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_123/ZrIZB_1701494219662gwPVk_JPEG/cover_2023120290007_thumb_021120_20231202141601560.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['스위스 로잔 사무실' 설치 두고 대한체육회·문체부 충돌]]></title>
             <link>https://tv.naver.com/v/43727823</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 11:15:54 GMT</pubDate>
             <content:encoded><![CDATA[6:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_206/3KkXq_1701429208158zIxTm_JPEG/cover_2023120190144_thumb_080705_20231201201101508.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월 1일 '뉴스 9' 예고]]></title>
-            <link>https://tv.naver.com/v/43707939</link>
-            <guid>https://tv.naver.com/v/43707939</guid>
-            <pubDate>Fri, 01 Dec 2023 11:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[1:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_255/0FURg_17014285101649tuMz_JPEG/cover_2023120190136_thumb_075901_20231201200103392.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Dec 2023 04:21:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 05:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 정찰위성도 메이드 인 코리아? 첫 정찰위성 1호는 성공적]]></title>
+            <link>https://tv.naver.com/v/43730954</link>
+            <guid>https://tv.naver.com/v/43730954</guid>
+            <pubDate>Sat, 02 Dec 2023 05:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_184/EJWOj_1701494081022byGL1_JPEG/cover_0001110989_001_20231202141401366.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 낮 동안 추위 누그러져…서울 낮 최고 7도]]></title>
             <link>https://tv.naver.com/v/43728475</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 13:21:25 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_40/Vw0ce_1701436230816IuxuR_JPEG/cover_0001110777_001_20231201220909345.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[스브스픽] 전기차 구역 '알박기' 신고했더니…"부모한테 배웠냐" 조롱]]></title>
-            <link>https://tv.naver.com/v/43713662</link>
-            <guid>https://tv.naver.com/v/43713662</guid>
-            <pubDate>Fri, 01 Dec 2023 13:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[1:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_9/l1EuU_1701436177189rTTup_JPEG/cover_0001110794_001_20231201220901104.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
