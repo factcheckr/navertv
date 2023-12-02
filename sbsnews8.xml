@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 23:18:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 01:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[특별 기획] 조선중앙텔레비죤 2부 판도라의 상자인가]]></title>
+            <link>https://tv.naver.com/v/43724732</link>
+            <guid>https://tv.naver.com/v/43724732</guid>
+            <pubDate>Sat, 02 Dec 2023 01:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[35:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_289/bM0LC_170147561970912xCO_JPEG/cover_0001110941_001_20231202085301096.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA['블프'인데 오히려 더 비싸다고?…'변칙 세일' 처벌 못 하나]]></title>
             <link>https://tv.naver.com/v/43724207</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Dec 2023 13:21:25 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231201_232/Fnsjg_1701435145774zeBLD_JPEG/cover_0001110859_001_20231201215043773.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세금 깎아 10년 전 출고가 되는 '소주', 식당서도 내릴까]]></title>
-            <link>https://tv.naver.com/v/43712644</link>
-            <guid>https://tv.naver.com/v/43712644</guid>
-            <pubDate>Fri, 01 Dec 2023 13:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[2:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231201_125/rNHEH_1701435114250FbbmP_JPEG/cover_0001110867_001_20231201215011711.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
