@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 05:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 06:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[동앵과 뉴스터디]한동훈 전격해부① 학창시절부터 검사까지]]></title>
+            <link>https://tv.naver.com/v/43761762</link>
+            <guid>https://tv.naver.com/v/43761762</guid>
+            <pubDate>Sun, 03 Dec 2023 06:21:21 GMT</pubDate>
+            <content:encoded><![CDATA[18:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231203_129/zj4jY_1701583741711Ui8xb_JPEG/cover_0000262943_001_20231203150201579.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[앞으로 뉴스]전국법관대표회의서 판사 SNS 사용 논의]]></title>
             <link>https://tv.naver.com/v/43759912</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Dec 2023 10:17:48 GMT</pubDate>
             <content:encoded><![CDATA[2:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231202_171/WGDGa_1701512120110d6oiD_JPEG/cover_0000262905_001_20231202191343777.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘안방이야?’ 지하철 바닥에 드러눕고 사진 찍고…]]></title>
-            <link>https://tv.naver.com/v/43739737</link>
-            <guid>https://tv.naver.com/v/43739737</guid>
-            <pubDate>Sat, 02 Dec 2023 10:17:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_278/TQHVM_1701512103737WwBme_JPEG/cover_0000262903_001_20231202191334081.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
