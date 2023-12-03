@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Dec 2023 03:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Dec 2023 04:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[스트레이트 예고] 위기의 카카오 왕국-탐욕과 폭로]]></title>
+            <link>https://tv.naver.com/v/43758722</link>
+            <guid>https://tv.naver.com/v/43758722</guid>
+            <pubDate>Sun, 03 Dec 2023 04:19:48 GMT</pubDate>
+            <content:encoded><![CDATA[0:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231203_282/IcCpK_17015761434810kPPR_JPEG/cover_cover_jsh231203_21_20231203130203742.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 기온 오름세‥동해안 건조주의보 계속]]></title>
             <link>https://tv.naver.com/v/43757760</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 02 Dec 2023 12:29:11 GMT</pubDate>
             <content:encoded><![CDATA[2:26]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231202_39/rmErs_1701516411362Xmk0y_JPEG/cover_cover_desk_20231202_201752_1_8_Large_20231202202607276.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[지구한바퀴] 도루묵 대신 난류성어종‥빠르게 변하는 해양생물 분포도]]></title>
-            <link>https://tv.naver.com/v/43741836</link>
-            <guid>https://tv.naver.com/v/43741836</guid>
-            <pubDate>Sat, 02 Dec 2023 12:29:11 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231202_45/7JnMG_1701516436954cx4h7_JPEG/cover_cover_desk_20231202_201527_1_7_Large_20231202202557863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
