@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 06:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 07:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건] 오늘의 주요 뉴스]]></title>
+            <link>https://tv.naver.com/v/43807381</link>
+            <guid>https://tv.naver.com/v/43807381</guid>
+            <pubDate>Mon, 04 Dec 2023 07:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_192/xh73d_1701674062391sSgQJ_JPEG/cover_0011614932_001_20231204161215664.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인도네시아 마라피 화산 폭발로 등산객 11명 사망·12명 실종 [현장영상]]]></title>
+            <link>https://tv.naver.com/v/43804949</link>
+            <guid>https://tv.naver.com/v/43804949</guid>
+            <pubDate>Mon, 04 Dec 2023 07:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[1:10]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_131/ne86d_1701671984044G97lp_PNG/cover_0011614916_001_20231204153901116.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[‘고체연료’ 우주발사체 3차 시험 성공…민간위성 탑재]]></title>
             <link>https://tv.naver.com/v/43803228</link>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 04 Dec 2023 04:20:47 GMT</pubDate>
             <content:encoded><![CDATA[1:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231204_21/FkIrW_1701661775299ISHKT_JPEG/cover_0011614702_001_20231204124901120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[환경부, 오늘부터 차량 배출가스 집중 단속]]></title>
-            <link>https://tv.naver.com/v/43795459</link>
-            <guid>https://tv.naver.com/v/43795459</guid>
-            <pubDate>Mon, 04 Dec 2023 04:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_278/5uBpJ_1701661547068hGYL0_JPEG/cover_0011614849_001_20231204124529586.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고용부, 편의점 현장 지도…“노동 질서 점검”]]></title>
-            <link>https://tv.naver.com/v/43795451</link>
-            <guid>https://tv.naver.com/v/43795451</guid>
-            <pubDate>Mon, 04 Dec 2023 04:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[0:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_48/djwhq_1701661536716F5zw2_JPEG/cover_0011614848_001_20231204124520126.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
