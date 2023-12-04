@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 05:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 06:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SM-2 함대공 유도탄 첫 실사격…북 "위성운용실 임무 착수"]]></title>
+            <link>https://tv.naver.com/v/43799842</link>
+            <guid>https://tv.naver.com/v/43799842</guid>
+            <pubDate>Mon, 04 Dec 2023 06:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[1:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_61/uHKYu_1701667082515nupe3_JPEG/cover_cover_20231204085801_20_605_1344872_1080_7_20231204141702756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SM-2 유도탄 국내서 첫 실사격…북 "위성운용실 가동"]]></title>
             <link>https://tv.naver.com/v/43799733</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 03 Dec 2023 23:18:01 GMT</pubDate>
             <content:encoded><![CDATA[0:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231204_61/Wvb6r_17016450955621SU84_JPEG/cover_cover_20231204080759_20_605_1344864_1080_7_20231204081101134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월 4일 굿모닝 MBN 클로징]]></title>
-            <link>https://tv.naver.com/v/43786201</link>
-            <guid>https://tv.naver.com/v/43786201</guid>
-            <pubDate>Sun, 03 Dec 2023 23:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[0:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231204_79/tJJnp_17016449513667m3U9_JPEG/cover_cover_20231204080555_20_605_1344863_1080_7_20231204080901129.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
