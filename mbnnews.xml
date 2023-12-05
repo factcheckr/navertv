@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 06:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 07:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커가 전하는 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/43865474</link>
+            <guid>https://tv.naver.com/v/43865474</guid>
+            <pubDate>Tue, 05 Dec 2023 07:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_91/FlFIV_1701759931863VnePM_JPEG/cover_cover_20231205160157_20_845_1345015_1080_7_20231205160501125.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["어디 쓰이는지 몰라서요"…캠페인 시작됐지만 연말 기부 '주춤']]></title>
             <link>https://tv.naver.com/v/43861783</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 05 Dec 2023 01:16:31 GMT</pubDate>
             <content:encoded><![CDATA[1:45]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231205_257/tyVzT_1701738133190u0Qj1_JPEG/cover_cover_20231205095622_20_605_1344985_1080_7_20231205100102574.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[때렸지만 폭행 아니라더니…학폭 가해자 처벌에 2년 반 걸려]]></title>
-            <link>https://tv.naver.com/v/43846106</link>
-            <guid>https://tv.naver.com/v/43846106</guid>
-            <pubDate>Tue, 05 Dec 2023 01:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[2:34]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_264/lqPl4_1701738025960hLlNj_JPEG/cover_cover_20231205095455_20_605_1344984_1080_7_20231205095901128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

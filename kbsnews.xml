@@ -4,9 +4,33 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Dec 2023 06:24:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Dec 2023 07:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미리보기] 시사기획 창 : 홍범도와 홍범도]]></title>
+            <link>https://tv.naver.com/v/43865998</link>
+            <guid>https://tv.naver.com/v/43865998</guid>
+            <pubDate>Tue, 05 Dec 2023 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_245/O0TUC_1701760425474vnzlL_JPEG/cover_0011613715_001_20231205161306269.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사사건건] 오늘의 주요 뉴스]]></title>
+            <link>https://tv.naver.com/v/43865737</link>
+            <guid>https://tv.naver.com/v/43865737</guid>
+            <pubDate>Tue, 05 Dec 2023 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[4:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_195/Yakre_1701760250147w751v_JPEG/cover_0011615854_001_20231205160901119.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[현장영상] “한 생명에 충실했을 뿐인데 하늘은 왜 너를”…임성철 소방장 영결식]]></title>
+            <link>https://tv.naver.com/v/43863347</link>
+            <guid>https://tv.naver.com/v/43863347</guid>
+            <pubDate>Tue, 05 Dec 2023 07:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_14/cFOS9_1701757835050nlL43_PNG/cover_0011615836_001_20231205153001163.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[조희대 대법원장 후보자 인사청문회]]></title>
             <link>https://tv.naver.com/v/43862806</link>
@@ -222,30 +246,6 @@
             <pubDate>Tue, 05 Dec 2023 04:20:43 GMT</pubDate>
             <content:encoded><![CDATA[1:55]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231205_291/rFjpt_1701747238021QA5fg_JPEG/cover_0011615751_001_20231205123310795.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가자 남부 공격 확대…유엔 “이미 과밀”]]></title>
-            <link>https://tv.naver.com/v/43853566</link>
-            <guid>https://tv.naver.com/v/43853566</guid>
-            <pubDate>Tue, 05 Dec 2023 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_125/0q1ha_1701747246930LXKdQ_JPEG/cover_0011615750_001_20231205123301112.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오후날씨 꿀팁] 오후에 포근…내일 오후부터 비 조금]]></title>
-            <link>https://tv.naver.com/v/43853440</link>
-            <guid>https://tv.naver.com/v/43853440</guid>
-            <pubDate>Tue, 05 Dec 2023 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_287/9E1Ci_1701747081257OB6cN_JPEG/cover_0011615749_001_20231205123101122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중부 일부 초미세먼지 ‘나쁨’, 내일은 전국 고농도 미세먼지]]></title>
-            <link>https://tv.naver.com/v/43853277</link>
-            <guid>https://tv.naver.com/v/43853277</guid>
-            <pubDate>Tue, 05 Dec 2023 04:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231205_205/TULQb_17017469227669EeCL_JPEG/cover_0011615748_001_20231205122803299.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
