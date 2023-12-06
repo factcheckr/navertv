@@ -4,9 +4,25 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 06:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 07:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사사건건] 오늘의 주요 뉴스]]></title>
+            <link>https://tv.naver.com/v/43922272</link>
+            <guid>https://tv.naver.com/v/43922272</guid>
+            <pubDate>Wed, 06 Dec 2023 07:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[5:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_199/Bj8Az_1701846693815s4jdT_JPEG/cover_0011616713_001_20231206160921804.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘아내 살해 혐의’ 변호사, 영장심사 출석 [현장영상]]]></title>
+            <link>https://tv.naver.com/v/43920666</link>
+            <guid>https://tv.naver.com/v/43920666</guid>
+            <pubDate>Wed, 06 Dec 2023 07:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[1:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_208/DOPQy_1701845199569o6Vvj_JPEG/cover_0011616703_001_20231206154601136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한은 “소품용 위조 지폐·상품권 유통 주의보”]]></title>
             <link>https://tv.naver.com/v/43918898</link>
@@ -230,22 +246,6 @@
             <pubDate>Wed, 06 Dec 2023 04:21:22 GMT</pubDate>
             <content:encoded><![CDATA[1:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231206_222/1PHS3_1701834004509YVx57_JPEG/cover_0011616615_001_20231206123910863.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이지리아서 군용 드론이 민간인 오폭…최소 85명 숨져]]></title>
-            <link>https://tv.naver.com/v/43909986</link>
-            <guid>https://tv.naver.com/v/43909986</guid>
-            <pubDate>Wed, 06 Dec 2023 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[1:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_227/dCXsu_1701834008382HJXd5_JPEG/cover_0011616614_001_20231206123901134.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“셀프 채용·채점 개입”…공직유관단체 비리 적발]]></title>
-            <link>https://tv.naver.com/v/43909899</link>
-            <guid>https://tv.naver.com/v/43909899</guid>
-            <pubDate>Wed, 06 Dec 2023 04:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[0:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_74/4yFpb_1701833850986QBdEu_JPEG/cover_0011616613_001_20231206123710892.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
