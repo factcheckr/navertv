@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Dec 2023 07:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 08:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커가 전하는 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/43924456</link>
+            <guid>https://tv.naver.com/v/43924456</guid>
+            <pubDate>Wed, 06 Dec 2023 08:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[1:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_209/Trbbl_1701848376491C6bh8_JPEG/cover_cover_20231206163516_20_845_1345122_1080_7_20231206163901139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[프레스룸LIVE-이슈ZIP] 이낙연은 '탈당' 시사-이재명은 '통합' 시사…'명낙회동' 가능할까?]]></title>
             <link>https://tv.naver.com/v/43911726</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 06 Dec 2023 01:16:32 GMT</pubDate>
             <content:encoded><![CDATA[4:08]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231206_20/BaLU0_1701818932576W7xbA_JPEG/cover_cover_20231205191149_20_552_1345027_1080_7_20231206082701132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] 캥거루, 생포 시도한 경찰관에 '강펀치']]></title>
-            <link>https://tv.naver.com/v/43900268</link>
-            <guid>https://tv.naver.com/v/43900268</guid>
-            <pubDate>Tue, 05 Dec 2023 23:18:38 GMT</pubDate>
-            <content:encoded><![CDATA[0:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231206_32/qeE4n_1701817896719sJ3OL_JPEG/cover_cover_20231206080542_20_605_1345085_1080_7_20231206081101130.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
