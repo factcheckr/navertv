@@ -4,9 +4,17 @@
         <title>JTBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 09:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 10:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 하이파이브하다가 핸드볼 반칙?…가장 이상한 페널티킥]]></title>
+            <link>https://tv.naver.com/v/44043821</link>
+            <guid>https://tv.naver.com/v/44043821</guid>
+            <pubDate>Fri, 08 Dec 2023 10:18:39 GMT</pubDate>
+            <content:encoded><![CDATA[1:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_75/rIUBX_17020305075597P73X_JPEG/cover_0000370091_001_20231208191401509.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[결국 손잡은 금태섭·류호정…'제3지대' 공동 신당 창당 선언 [현장영상]]]></title>
             <link>https://tv.naver.com/v/44039036</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 07 Dec 2023 12:33:17 GMT</pubDate>
             <content:encoded><![CDATA[4:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231207_122/sWQPs_1701949307216H6uoU_JPEG/cover_0000369966_001_20231207204001540.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구슬만한 우박이 '후두둑'…"전쟁 난 줄" 부산 시민 화들짝]]></title>
-            <link>https://tv.naver.com/v/43995146</link>
-            <guid>https://tv.naver.com/v/43995146</guid>
-            <pubDate>Thu, 07 Dec 2023 12:33:17 GMT</pubDate>
-            <content:encoded><![CDATA[1:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231207_178/YNOcW_1701949021600341wu_JPEG/cover_0000369965_001_20231207203601492.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
