@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 22:17:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 23:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간 뉴스한판 12월 1주] 500만 관객 돌파 '서울의 봄' 등]]></title>
+            <link>https://tv.naver.com/v/44062855</link>
+            <guid>https://tv.naver.com/v/44062855</guid>
+            <pubDate>Fri, 08 Dec 2023 23:17:40 GMT</pubDate>
+            <content:encoded><![CDATA[16:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231209_297/gL2uY_1702076365490ugeKn_JPEG/cover_cover_MYH20231208020900641_20231209075101686.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[쇼트트랙 월드컵 가격 논란…"비싸서 못봐요"]]></title>
             <link>https://tv.naver.com/v/44054978</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Dec 2023 12:33:00 GMT</pubDate>
             <content:encoded><![CDATA[2:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231208_163/E55E4_1702036310252URs9q_JPEG/cover_cover_MYH20231208019200641_20231208205003160.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['서울 6곳 우세' 분석에 뒤집힌 여당…"용산에 도끼상소해야"]]></title>
-            <link>https://tv.naver.com/v/44047688</link>
-            <guid>https://tv.naver.com/v/44047688</guid>
-            <pubDate>Fri, 08 Dec 2023 12:33:00 GMT</pubDate>
-            <content:encoded><![CDATA[2:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_60/Fmp8i_1702036164928jfH2F_JPEG/cover_cover_MYH20231208019100641_20231208204804041.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
