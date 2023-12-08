@@ -4,9 +4,33 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 10:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 11:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[12월 8일 '뉴스 9' 예고]]></title>
+            <link>https://tv.naver.com/v/44045629</link>
+            <guid>https://tv.naver.com/v/44045629</guid>
+            <pubDate>Fri, 08 Dec 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_112/CN9vM_1702033020192wvB6X_JPEG/cover_2023120890119_thumb_075438_20231208195606369.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 송영길도 '묵비권 전략', 왜?]]></title>
+            <link>https://tv.naver.com/v/44045137</link>
+            <guid>https://tv.naver.com/v/44045137</guid>
+            <pubDate>Fri, 08 Dec 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[5:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_103/Rk6XP_1702032496583ViuRp_JPEG/cover_2023120890121_thumb_074227_20231208194609429.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[씨박스] 불리한 증언 쏟아지자, 이재명측 "허위발언이라도 처벌 안돼"]]></title>
+            <link>https://tv.naver.com/v/44045127</link>
+            <guid>https://tv.naver.com/v/44045127</guid>
+            <pubDate>Fri, 08 Dec 2023 11:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:47]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_24/KWv7R_1702032456464ngsC9_JPEG/cover_2023120890122_thumb_074044_20231208194601591.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[티조 Clip] 與 '서울 6석' 분석에 발칵]]></title>
             <link>https://tv.naver.com/v/44037606</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 07 Dec 2023 13:23:05 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231207_127/6IYrp_1701954450546cz9VH_JPEG/cover_2023120790238_thumb_100356_20231207220625155.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월 7일 '뉴스 9' 클로징]]></title>
-            <link>https://tv.naver.com/v/44000073</link>
-            <guid>https://tv.naver.com/v/44000073</guid>
-            <pubDate>Thu, 07 Dec 2023 13:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[0:10]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231207_149/GB1mX_1701954387467G3gST_JPEG/cover_2023120790246_thumb_100042_20231207220617403.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 8일 초봄처럼 포근해요…동해안 건조·강풍 주의]]></title>
-            <link>https://tv.naver.com/v/44000067</link>
-            <guid>https://tv.naver.com/v/44000067</guid>
-            <pubDate>Thu, 07 Dec 2023 13:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[1:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231207_295/ox5Lt_1701954400398VlHbB_JPEG/cover_2023120790244_thumb_100027_20231207220610288.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[신동욱 앵커의 시선] 안타깝습니다]]></title>
-            <link>https://tv.naver.com/v/44000054</link>
-            <guid>https://tv.naver.com/v/44000054</guid>
-            <pubDate>Thu, 07 Dec 2023 13:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[3:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231207_196/LkvME_1701954459751acHsK_JPEG/cover_2023120790242_thumb_100011_20231207220601584.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
