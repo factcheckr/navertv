@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 06:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 07:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김주하 AI 앵커가 전하는 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/44032262</link>
+            <guid>https://tv.naver.com/v/44032262</guid>
+            <pubDate>Fri, 08 Dec 2023 07:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_184/OUvKm_1702018065009rIeco_JPEG/cover_cover_20231208154346_20_845_1345357_1080_7_20231208154708249.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[D뉴스] 유모차 끌던 경찰의 촉으로 대학생 장학금 지켰다]]></title>
             <link>https://tv.naver.com/v/44025534</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 08 Dec 2023 01:16:31 GMT</pubDate>
             <content:encoded><![CDATA[1:54]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231208_182/aRwRK_1701994316805j94MI_JPEG/cover_cover_20231208085927_20_605_1345325_1080_7_20231208091103601.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자산 줄고 부채 늘고…가구당 빚 9천만 원 안고 산다]]></title>
-            <link>https://tv.naver.com/v/44012766</link>
-            <guid>https://tv.naver.com/v/44012766</guid>
-            <pubDate>Fri, 08 Dec 2023 01:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[1:59]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_189/SM9XA_17019942128774pOMS_JPEG/cover_cover_20231208085828_20_605_1345324_1080_7_20231208090903035.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
