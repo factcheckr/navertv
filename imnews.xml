@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 01:14:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 02:27:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231208_252/Nu2XN_1702035555771uK8sS_JPEG/cover_cover_desk_20231208_203216_1_25_Large_20231208203910203.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[날씨] 12월 역대 최고 기온 경신‥주말 아침 기온도 기록적일 듯, 새벽 수도권 이슬비]]></title>
-            <link>https://tv.naver.com/v/44047289</link>
-            <guid>https://tv.naver.com/v/44047289</guid>
-            <pubDate>Fri, 08 Dec 2023 12:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_15/Q6SiB_1702035568102Rh3xB_JPEG/cover_cover_desk_20231208_203151_1_24_Large_20231208203902403.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[뉴스데스크] 중국, 요소 이어 인산이암모늄 수출 통제‥다음 또 있나?]]></title>
             <link>https://tv.naver.com/v/44047170</link>
             <guid>https://tv.naver.com/v/44047170</guid>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 08 Dec 2023 12:32:34 GMT</pubDate>
             <content:encoded><![CDATA[1:40]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231208_62/tW9at_1702035369448Cu6VY_JPEG/cover_cover_desk_20231208_202856_1_22_Large_20231208203404425.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤 대통령, 조희대 대법원장 임명]]></title>
+            <link>https://tv.naver.com/v/44046938</link>
+            <guid>https://tv.naver.com/v/44046938</guid>
+            <pubDate>Sat, 09 Dec 2023 02:26:38 GMT</pubDate>
+            <content:encoded><![CDATA[0:25]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_83/raBNt_1702035024459p7DP0_JPEG/cover_cover_desk_20231208_202507_1_20_Large_20231208203012933.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
