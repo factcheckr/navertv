@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 13:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 14:15:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[9층시사국] 로봇과 일할 준비되셨습니까?]]></title>
+            <link>https://tv.naver.com/v/44087601</link>
+            <guid>https://tv.naver.com/v/44087601</guid>
+            <pubDate>Sat, 09 Dec 2023 14:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[16:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231209_52/BKgR7_17021311661362rLWP_PNG/cover_0011619110_001_20231209230601128.png?type=f194_109_blend" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[강원 동해안 조업 부진…오징어·도루묵 급감]]></title>
             <link>https://tv.naver.com/v/44085709</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Dec 2023 13:17:58 GMT</pubDate>
             <content:encoded><![CDATA[0:25]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231209_141/0C2Ik_1702127302664PUhOM_JPEG/cover_0011619043_001_20231209220805539.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국서 18세 한인 청년 검사 임용]]></title>
-            <link>https://tv.naver.com/v/44085374</link>
-            <guid>https://tv.naver.com/v/44085374</guid>
-            <pubDate>Sat, 09 Dec 2023 13:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231209_248/dtbiR_17021272855123CKtu_JPEG/cover_0011619039_001_20231209220754828.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
