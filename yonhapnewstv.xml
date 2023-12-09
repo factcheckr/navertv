@@ -4,9 +4,17 @@
         <title>연합뉴스TV ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 20:17:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 21:14:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[바로보는TV 옴부즈맨] 628회]]></title>
+            <link>https://tv.naver.com/v/44093873</link>
+            <guid>https://tv.naver.com/v/44093873</guid>
+            <pubDate>Sat, 09 Dec 2023 21:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[30:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_288/RKz36_1702153056917LlIPq_JPEG/cover_cover_MYH20231208013000641_20231210050101698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오픈AI 내 실패한 쿠데타…미래의 불행일까 행운일까 [탐사보도 뉴스프리즘]]]></title>
             <link>https://tv.naver.com/v/44085096</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Dec 2023 06:21:38 GMT</pubDate>
             <content:encoded><![CDATA[0:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231209_105/8KJMu_1702102887161ySM5M_JPEG/cover_cover_MYH20231209009300641_20231209152101698.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[흉기 협박하다 도주…중국 국적 불법체류자 검거]]></title>
-            <link>https://tv.naver.com/v/44071661</link>
-            <guid>https://tv.naver.com/v/44071661</guid>
-            <pubDate>Sat, 09 Dec 2023 06:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[0:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231209_162/JWq9p_1702102645276DJcz2_JPEG/cover_cover_MYH20231209009400641_20231209151701777.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
