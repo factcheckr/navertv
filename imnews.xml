@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 09:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 10:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Sat, 09 Dec 2023 04:19:58 GMT</pubDate>
             <content:encoded><![CDATA[8:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231209_151/gyDsp_1702092369417aV5ga_JPEG/8f3b4c5b-9642-11ee-b320-a0369ffabecc_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["'비핵화 의무' 재확인‥'가짜뉴스' 공조 강화"]]></title>
-            <link>https://tv.naver.com/v/44067001</link>
-            <guid>https://tv.naver.com/v/44067001</guid>
-            <pubDate>Sat, 09 Dec 2023 04:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231209_145/fcN6c_1702092400576nveNY_JPEG/cover_cover_noon_20231209_121903_1_3_Large_20231209122604252.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['위안부 피해자 승소' 2차 판결 확정‥일본 무대응]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Fri, 08 Dec 2023 15:18:17 GMT</pubDate>
             <content:encoded><![CDATA[2:23]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231208_233/Hh3YU_1702046214773jVGh2_JPEG/cover_cover_joo231208_d2_20231208233604781.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['수원 전세사기' 정 씨 일가 송치, 변제 계획 질문엔 묵묵부답]]></title>
+            <link>https://tv.naver.com/v/44050627</link>
+            <guid>https://tv.naver.com/v/44050627</guid>
+            <pubDate>Sat, 09 Dec 2023 10:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231208_267/8PHw9_1702040083902kyFcf_JPEG/cover_cover_desk_20231208_200030_1_9_Large_20231208215404719.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
