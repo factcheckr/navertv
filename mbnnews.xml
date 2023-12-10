@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 13:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 14:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오타니, LA 다저스 초특급 계약…10년간 9,240억 원]]></title>
+            <link>https://tv.naver.com/v/44118818</link>
+            <guid>https://tv.naver.com/v/44118818</guid>
+            <pubDate>Sun, 10 Dec 2023 14:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[2:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_227/1gG7s_17022154186392pIoc_JPEG/cover_cover_20231210223035_20_906_1345465_1080_7_20231210223501124.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MBN뉴스센터 날씨]내일~모레 전국 많은 비…강원 산지 최고 30cm↑ 폭설]]></title>
             <link>https://tv.naver.com/v/44113515</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Dec 2023 12:30:52 GMT</pubDate>
             <content:encoded><![CDATA[1:57]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231209_188/PmSRp_1702120563426MWok6_JPEG/cover_cover_20231209200808_20_906_1345434_1080_7_20231209201501132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동남아 홀린 K-딸기, '스마트' 컨테이너로 수출 날개]]></title>
-            <link>https://tv.naver.com/v/44081225</link>
-            <guid>https://tv.naver.com/v/44081225</guid>
-            <pubDate>Sat, 09 Dec 2023 11:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[1:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231209_48/w5rDW_1702120458740tPPg9_JPEG/cover_cover_20231209200646_20_906_1345433_1080_7_20231209201301158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
