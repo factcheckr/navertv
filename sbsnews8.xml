@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 05:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 06:21:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자막뉴스] 내년, 지구 역사상 가장 덥다…"기후목표 1.5도 뚫릴 듯"]]></title>
+            <link>https://tv.naver.com/v/44102943</link>
+            <guid>https://tv.naver.com/v/44102943</guid>
+            <pubDate>Sun, 10 Dec 2023 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[1:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_231/KvyI3_1702189144632sTMOU_JPEG/cover_0001113139_001_20231210151801143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 서울 낮 15도 '포근'…강원 영동·제주 비]]></title>
             <link>https://tv.naver.com/v/44098219</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Dec 2023 13:18:14 GMT</pubDate>
             <content:encoded><![CDATA[0:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231209_16/uuc91_1702125688291vjpBd_JPEG/cover_0001113040_001_20231209214103209.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[D리포트] '삐뽀삐뽀 119 소아과' 하정훈 국힘 인재 영입에…"정치할 생각 없다"]]></title>
-            <link>https://tv.naver.com/v/44083607</link>
-            <guid>https://tv.naver.com/v/44083607</guid>
-            <pubDate>Sat, 09 Dec 2023 12:30:04 GMT</pubDate>
-            <content:encoded><![CDATA[1:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231209_76/LzM8H_17021246263599os06_JPEG/cover_0001112990_001_20231209212301101.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
