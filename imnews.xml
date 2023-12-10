@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 04:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 05:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍준표 "검찰정치 그만‥당과 나라에 바람직 안해"]]></title>
+            <link>https://tv.naver.com/v/44100594</link>
+            <guid>https://tv.naver.com/v/44100594</guid>
+            <pubDate>Sun, 10 Dec 2023 05:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[2:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_104/U8YiF_1702184399309C4ePt_JPEG/cover_cover_k231210-19_1_20231210135901981.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 오늘도 포근해‥영동·제주 차츰 비]]></title>
             <link>https://tv.naver.com/v/44097859</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 09 Dec 2023 12:29:56 GMT</pubDate>
             <content:encoded><![CDATA[2:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231209_26/AwQ4y_1702121762662fJSaf_JPEG/cover_cover_desk_20231209_200027_1_1_Large_20231209203511884.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[언덕 장애물 있어도 배달 '척척'‥'인증 로봇' 거리로]]></title>
-            <link>https://tv.naver.com/v/44081986</link>
-            <guid>https://tv.naver.com/v/44081986</guid>
-            <pubDate>Sat, 09 Dec 2023 12:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231209_8/qhvmw_1702121758207BWy2B_JPEG/cover_cover_desk_20231209_201932_1_9_Large_20231209203502054.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
