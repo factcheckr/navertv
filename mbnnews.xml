@@ -4,7 +4,7 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Dec 2023 08:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Dec 2023 09:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sun, 10 Dec 2023 08:21:05 GMT</pubDate>
             <content:encoded><![CDATA[21:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231210_261/zXB5G_1702195956912HMMlD_JPEG/cover_cover_20231210165514_20_813_1345442_1080_7_20231210170001356.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이준석 전 국민의힘 대표 [시사스페셜-정운갑의 집중분석]]]></title>
-            <link>https://tv.naver.com/v/44106297</link>
-            <guid>https://tv.naver.com/v/44106297</guid>
-            <pubDate>Sun, 10 Dec 2023 08:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[29:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231210_125/HvxBs_170219586037563rb9_JPEG/cover_cover_20231210165239_20_813_1345441_1080_7_20231210165801167.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[471회_미세먼지와 산불 피해 예방요령]]></title>
@@ -246,6 +238,14 @@
             <pubDate>Sat, 09 Dec 2023 09:16:25 GMT</pubDate>
             <content:encoded><![CDATA[9:21]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231209_174/R4Yf3_1702111075704slw3J_JPEG/cover_cover_20231209172822_20_675_1345413_1080_7_20231209173401179.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[뉴스와이드] 국민의힘 구원투수 한동훈?…총선 이끄나?]]></title>
+            <link>https://tv.naver.com/v/44076457</link>
+            <guid>https://tv.naver.com/v/44076457</guid>
+            <pubDate>Sun, 10 Dec 2023 09:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[11:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231209_69/EFspJ_17021110631349TOIy_JPEG/cover_cover_20231209172635_20_675_1345412_1080_7_20231209173201139.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
