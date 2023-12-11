@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 07:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 08:23:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김명준의 뉴스파이터 오프닝 - 올해의 사자성어?]]></title>
+            <link>https://tv.naver.com/v/44155264</link>
+            <guid>https://tv.naver.com/v/44155264</guid>
+            <pubDate>Mon, 11 Dec 2023 08:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_167/hbTIo_1702283005334yNdW8_JPEG/cover_cover_20231211172010_20_673_1345525_1080_7_20231211172301171.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김주하 AI 앵커가 전하는 주요뉴스]]></title>
             <link>https://tv.naver.com/v/44148123</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Dec 2023 01:16:44 GMT</pubDate>
             <content:encoded><![CDATA[1:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231211_38/mZKhf_1702252565377kNjSK_JPEG/cover_cover_20231211085113_20_605_1345493_1080_7_20231211085501143.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터넷 와글와글] 영국 국왕·왕세자 '극과 극' 성탄 사진 공개]]></title>
-            <link>https://tv.naver.com/v/44129361</link>
-            <guid>https://tv.naver.com/v/44129361</guid>
-            <pubDate>Mon, 11 Dec 2023 01:16:44 GMT</pubDate>
-            <content:encoded><![CDATA[0:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_293/bBuCz_1702251452800Khwfr_JPEG/cover_cover_20231211083357_20_605_1345492_1080_7_20231211083701151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
