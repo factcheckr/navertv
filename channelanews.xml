@@ -4,7 +4,7 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 12:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 13:22:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,14 +152,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231211_255/6gVtA_17022930022305ghfx_JPEG/cover_0000263503_001_20231211200850875.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[김범수 “카카오 이름도 바꿀 각오”…돌파구 될까]]></title>
-            <link>https://tv.naver.com/v/44163799</link>
-            <guid>https://tv.naver.com/v/44163799</guid>
-            <pubDate>Mon, 11 Dec 2023 11:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[1:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_181/tMrgJ_1702292981006nEYM1_JPEG/cover_0000263504_001_20231211200841439.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[신혼부부 ‘최저’…집 있으면 더 낳았다]]></title>
             <link>https://tv.naver.com/v/44163789</link>
             <guid>https://tv.naver.com/v/44163789</guid>
@@ -246,6 +238,14 @@
             <pubDate>Mon, 11 Dec 2023 11:16:50 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231211_275/mE8nW_17022928570799Deav_JPEG/cover_0000263485_001_20231211200652517.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘제2연평해전 주역’ 이희완 보훈부 차관 취임]]></title>
+            <link>https://tv.naver.com/v/44163708</link>
+            <guid>https://tv.naver.com/v/44163708</guid>
+            <pubDate>Mon, 11 Dec 2023 13:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[1:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_240/ON7nk_17022928695447PfcN_JPEG/cover_0000263484_001_20231211200643223.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
