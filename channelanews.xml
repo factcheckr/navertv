@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 13:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 14:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김범수 “카카오 이름도 바꿀 각오”…돌파구 될까]]></title>
+            <link>https://tv.naver.com/v/44172646</link>
+            <guid>https://tv.naver.com/v/44172646</guid>
+            <pubDate>Mon, 11 Dec 2023 14:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[1:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_9/QTxx2_17023009847335DgxM_JPEG/cover_0000263504_001_20231211222201571.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[총선 ‘김기현 체제’로…친윤·초선 지원사격]]></title>
             <link>https://tv.naver.com/v/44163970</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Dec 2023 11:16:50 GMT</pubDate>
             <content:encoded><![CDATA[1:20]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231211_275/mE8nW_17022928570799Deav_JPEG/cover_0000263485_001_20231211200652517.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘제2연평해전 주역’ 이희완 보훈부 차관 취임]]></title>
-            <link>https://tv.naver.com/v/44163708</link>
-            <guid>https://tv.naver.com/v/44163708</guid>
-            <pubDate>Mon, 11 Dec 2023 13:22:35 GMT</pubDate>
-            <content:encoded><![CDATA[1:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_240/ON7nk_17022928695447PfcN_JPEG/cover_0000263484_001_20231211200643223.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

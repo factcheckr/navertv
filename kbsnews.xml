@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 13:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 14:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[울산 내일까지 30~80mm 비…강풍 등 주의]]></title>
+            <link>https://tv.naver.com/v/44175204</link>
+            <guid>https://tv.naver.com/v/44175204</guid>
+            <pubDate>Mon, 11 Dec 2023 14:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[0:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_281/qgTkM_1702303233479N2SiO_JPEG/cover_0011620079_001_20231211230001153.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북부산림청, 보호수 2그루 생육환경 개선]]></title>
             <link>https://tv.naver.com/v/44172535</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 11 Dec 2023 13:21:29 GMT</pubDate>
             <content:encoded><![CDATA[1:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231211_82/qcmNj_1702300538546YIhMI_JPEG/cover_0011619955_001_20231211221454901.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조희대 대법원장 취임…‘재판 지연’ 해법 모색]]></title>
-            <link>https://tv.naver.com/v/44172072</link>
-            <guid>https://tv.naver.com/v/44172072</guid>
-            <pubDate>Mon, 11 Dec 2023 13:21:29 GMT</pubDate>
-            <content:encoded><![CDATA[1:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231211_214/GNGwK_17023005329881ALF6_JPEG/cover_0011619954_001_20231211221442999.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
