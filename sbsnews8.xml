@@ -4,9 +4,25 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 20:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 21:16:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/44248193</link>
+            <guid>https://tv.naver.com/v/44248193</guid>
+            <pubDate>Tue, 12 Dec 2023 21:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[1:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_94/jvOjU_1702415498005o9pFQ_JPEG/cover_0001113894_001_20231213061101092.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얼었던 하천 녹고 스키장 '난감'…겨울 축제 어쩌나]]></title>
+            <link>https://tv.naver.com/v/44248092</link>
+            <guid>https://tv.naver.com/v/44248092</guid>
+            <pubDate>Tue, 12 Dec 2023 21:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[2:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_237/9iFuc_1702414391442heVsw_JPEG/cover_0001113846_001_20231213055201136.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/44244401</link>
@@ -184,14 +200,6 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20231212_86/r7Rgb_1702384603429RTmT5_JPEG/cover_0001113845_001_20231212213501109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[얼었던 하천 녹고 스키장 '난감'…겨울 축제 어쩌나]]></title>
-            <link>https://tv.naver.com/v/44231514</link>
-            <guid>https://tv.naver.com/v/44231514</guid>
-            <pubDate>Tue, 12 Dec 2023 13:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_149/Oiido_1702384564977BDshN_JPEG/cover_0001113846_001_20231212213434669.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA['12·12' 육군본부 지키다 전사…44년 지나도 여전한 슬픔]]></title>
             <link>https://tv.naver.com/v/44231498</link>
             <guid>https://tv.naver.com/v/44231498</guid>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Dec 2023 13:20:59 GMT</pubDate>
             <content:encoded><![CDATA[2:00]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231212_156/BkCBu_1702384480065XI9sj_JPEG/cover_0001113853_001_20231212213312474.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[같은 번호로 5만 장 샀는데 '400억' 당첨…중국 '들썩']]></title>
-            <link>https://tv.naver.com/v/44231397</link>
-            <guid>https://tv.naver.com/v/44231397</guid>
-            <pubDate>Tue, 12 Dec 2023 13:20:59 GMT</pubDate>
-            <content:encoded><![CDATA[2:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_132/TjZIU_1702384473678BlpnS_JPEG/cover_0001113854_001_20231212213301120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
