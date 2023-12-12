@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 11:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 12:33:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아는기자]장제원은 왜 지금? 김기현은 왜 장고?]]></title>
+            <link>https://tv.naver.com/v/44226691</link>
+            <guid>https://tv.naver.com/v/44226691</guid>
+            <pubDate>Tue, 12 Dec 2023 12:33:44 GMT</pubDate>
+            <content:encoded><![CDATA[5:02]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_85/NgAnl_1702379745390F8KhN_JPEG/cover_0000263564_001_20231212201242158.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[단독]김기현, 대표 유지냐 울산 5선이냐…결단 임박]]></title>
             <link>https://tv.naver.com/v/44226686</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Dec 2023 11:15:37 GMT</pubDate>
             <content:encoded><![CDATA[2:16]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231212_24/7cGVZ_1702378243694yG86e_JPEG/cover_0000263557_001_20231212194917103.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김민석 “사쿠라” 꺼내자…“김민새” 직격]]></title>
-            <link>https://tv.naver.com/v/44225279</link>
-            <guid>https://tv.naver.com/v/44225279</guid>
-            <pubDate>Tue, 12 Dec 2023 11:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[8:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_296/2bn6b_170237840293527Mjm_JPEG/cover_0000263554_001_20231212194901526.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
