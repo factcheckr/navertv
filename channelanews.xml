@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 08:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 09:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상]우회전하던 SUV 자전거 들이받아…초등생 중상]]></title>
+            <link>https://tv.naver.com/v/44278944</link>
+            <guid>https://tv.naver.com/v/44278944</guid>
+            <pubDate>Wed, 13 Dec 2023 09:18:19 GMT</pubDate>
+            <content:encoded><![CDATA[0:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_62/IIgEl_17024580812594ybXF_JPEG/cover_0000263621_001_20231213180101491.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[장제원 불출마에…‘이재명 희생’ 압박 나선 비명계]]></title>
             <link>https://tv.naver.com/v/44266232</link>
@@ -238,14 +246,6 @@
             <pubDate>Tue, 12 Dec 2023 11:15:37 GMT</pubDate>
             <content:encoded><![CDATA[1:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231212_160/5fINV_1702379414227VnQuh_JPEG/cover_0000263580_001_20231212200901524.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTS 지민·정국 입대…병역 논란 셀프 종료]]></title>
-            <link>https://tv.naver.com/v/44226458</link>
-            <guid>https://tv.naver.com/v/44226458</guid>
-            <pubDate>Tue, 12 Dec 2023 11:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231212_193/cCEGV_1702379414770RN3RS_JPEG/cover_0000263582_001_20231212200840677.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
