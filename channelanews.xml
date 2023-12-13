@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Dec 2023 12:34:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Dec 2023 13:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[아는기자]이정후 1484억 ‘특급 대우’, 왜?]]></title>
+            <link>https://tv.naver.com/v/44292673</link>
+            <guid>https://tv.naver.com/v/44292673</guid>
+            <pubDate>Wed, 13 Dec 2023 13:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[3:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_134/Sthv6_1702472632078o215B_JPEG/cover_0000263651_001_20231213220201786.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[동물 카페서 ‘쓰다듬기’ 못 한다]]></title>
             <link>https://tv.naver.com/v/44287327</link>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Dec 2023 11:16:10 GMT</pubDate>
             <content:encoded><![CDATA[1:59]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231213_31/MtpyA_1702465695458JJXfQ_JPEG/cover_0000263649_001_20231213200656988.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘꼼수 인상’ 없앤다…용량 몰래 줄이면 과태료]]></title>
-            <link>https://tv.naver.com/v/44286359</link>
-            <guid>https://tv.naver.com/v/44286359</guid>
-            <pubDate>Wed, 13 Dec 2023 11:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[2:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231213_89/jBvZQ_1702465673660XPyn4_JPEG/cover_0000263652_001_20231213200647507.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
