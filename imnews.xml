@@ -4,7 +4,7 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 12:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 13:22:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 14 Dec 2023 12:32:42 GMT</pubDate>
             <content:encoded><![CDATA[2:10]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231214_25/WlouS_1702557048659pkghD_JPEG/cover_cover_SY20231214-43_20231214213004622.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴스데스크 클로징]]></title>
+            <link>https://tv.naver.com/v/44345207</link>
+            <guid>https://tv.naver.com/v/44345207</guid>
+            <pubDate>Thu, 14 Dec 2023 13:21:55 GMT</pubDate>
+            <content:encoded><![CDATA[0:08]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231214_18/QTJgw_1702558801274tpIiT_JPEG/cover_cover_desk_20231214_205316_1_30_Large_20231214210013421.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[날씨] 전국 곳곳 비바람‥내일 더 강한 비, 밤사이 강원 폭설]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 14 Dec 2023 11:15:07 GMT</pubDate>
             <content:encoded><![CDATA[2:05]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231214_13/WbQeX_1702551281149E26Tk_JPEG/cover_cover_desk_20231214_194954_1_2_Large_20231214195404796.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국민의힘, '비대위 체제' 전환 결정‥또 '윤심' 위원장?]]></title>
-            <link>https://tv.naver.com/v/44341774</link>
-            <guid>https://tv.naver.com/v/44341774</guid>
-            <pubDate>Thu, 14 Dec 2023 11:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[2:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231214_86/abiWR_1702551117392o3I23_JPEG/cover_cover_desk_20231214_194757_1_1_Large_20231214195102258.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
