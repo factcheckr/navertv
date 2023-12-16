@@ -4,9 +4,17 @@
         <title>채널A뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 03:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 04:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독]경복궁 담벼락 스프레이 낙서 범행 영상]]></title>
+            <link>https://tv.naver.com/v/44419029</link>
+            <guid>https://tv.naver.com/v/44419029</guid>
+            <pubDate>Sat, 16 Dec 2023 04:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[1:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231216_26/gT0rf_1702698823935n1h7g_JPEG/cover_0000263810_001_20231216125301514.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[감기약 부작용 보상 받는다…의약품 피해구제 어떻게?]]></title>
             <link>https://tv.naver.com/v/44403187</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Dec 2023 11:16:14 GMT</pubDate>
             <content:encoded><![CDATA[2:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231215_60/xm84U_1702638579415tyBoq_JPEG/cover_0000263789_001_20231215200809715.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[집집마다 독감…환자수 5년 새 최대치]]></title>
-            <link>https://tv.naver.com/v/44398276</link>
-            <guid>https://tv.naver.com/v/44398276</guid>
-            <pubDate>Fri, 15 Dec 2023 11:16:14 GMT</pubDate>
-            <content:encoded><![CDATA[1:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_182/KRW45_1702638545577RNapD_JPEG/cover_0000263790_001_20231215200800262.jpeg?type=f194_109_blend" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
