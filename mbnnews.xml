@@ -4,9 +4,17 @@
         <title>MBN 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 20:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 21:15:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[474회_노로바이러스 감염과 화재 예방법]]></title>
+            <link>https://tv.naver.com/v/44444993</link>
+            <guid>https://tv.naver.com/v/44444993</guid>
+            <pubDate>Sat, 16 Dec 2023 21:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[14:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231217_292/5vKxr_1702760024256q1XhV_JPEG/cover_cover_20231217053840_20_849_1346037_1080_7_20231217054601170.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이스라엘군, 가자지구서 자국민 인질 3명 실수로 사살]]></title>
             <link>https://tv.naver.com/v/44437737</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 15 Dec 2023 12:33:18 GMT</pubDate>
             <content:encoded><![CDATA[10:58]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231215_277/SRDte_1702639058900g5i1Q_JPEG/cover_cover_20231215200648_20_536_1345999_1080_7_20231215201201158.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[尹 귀국길에 안 보인 김기현, 11일과 15일 사이 무슨 일이? [뉴스와이드]]]></title>
-            <link>https://tv.naver.com/v/44398375</link>
-            <guid>https://tv.naver.com/v/44398375</guid>
-            <pubDate>Fri, 15 Dec 2023 12:33:18 GMT</pubDate>
-            <content:encoded><![CDATA[21:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231215_168/y2lZg_17026392159119tJm9_JPEG/cover_cover_20231215200520_20_536_1345998_1080_7_20231215201001169.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
