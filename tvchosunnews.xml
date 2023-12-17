@@ -4,7 +4,7 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 06:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 07:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sun, 17 Dec 2023 06:21:45 GMT</pubDate>
             <content:encoded><![CDATA[12:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231217_103/08Frf_1702793872730ELtx4_JPEG/cover_2023121790026_thumb_030935_20231217151201580.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한동훈, 與 비대위원장 후보로 급부상…당 내에선 '갑론을박']]></title>
+            <link>https://tv.naver.com/v/44452904</link>
+            <guid>https://tv.naver.com/v/44452904</guid>
+            <pubDate>Sun, 17 Dec 2023 07:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[44:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231217_3/t4xKX_1702794608384P2FU6_JPEG/cover_2023121790022_thumb_030605_20231217151101459.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경복궁 담장에 44ｍ짜리 '스프레이 낙서'…용의자 추적중]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Dec 2023 07:15:54 GMT</pubDate>
             <content:encoded><![CDATA[12:49]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231216_1/2L4JR_17027077231364IaXU_JPEG/cover_2023121690033_thumb_031122_20231216151601603.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[날씨] 전국 대부분 한파특보…서쪽 중심 대설]]></title>
-            <link>https://tv.naver.com/v/44422699</link>
-            <guid>https://tv.naver.com/v/44422699</guid>
-            <pubDate>Sat, 16 Dec 2023 06:21:31 GMT</pubDate>
-            <content:encoded><![CDATA[0:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231216_12/8FR40_1702707111983tHKy0_JPEG/cover_2023121690035_thumb_030927_20231216151125235.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
