@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 15:17:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 16:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[합참 “북한, 동해상으로 단거리탄도미사일 발사”]]></title>
+            <link>https://tv.naver.com/v/44474514</link>
+            <guid>https://tv.naver.com/v/44474514</guid>
+            <pubDate>Sun, 17 Dec 2023 16:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[1:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_278/3Rw2y_1702829800603Ap20i_JPEG/cover_0011624065_001_20231218011601151.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한파 속 30cm 넘는 눈…전북 서해안 대설특보]]></title>
             <link>https://tv.naver.com/v/44468662</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Dec 2023 13:18:26 GMT</pubDate>
             <content:encoded><![CDATA[0:31]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231217_226/8dAyJ_17028175982104uGL3_JPEG/cover_0011624026_001_20231217215301137.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구미 아파트서 불…주민 대피, 1명 부상]]></title>
-            <link>https://tv.naver.com/v/44466752</link>
-            <guid>https://tv.naver.com/v/44466752</guid>
-            <pubDate>Sun, 17 Dec 2023 13:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[0:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231217_282/9ODpk_1702817552141XxHKr_JPEG/cover_0011624025_001_20231217215217027.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
