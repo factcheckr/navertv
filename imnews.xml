@@ -4,9 +4,17 @@
         <title>MBC뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 07:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 08:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["윤대통령 아바타는 안 된다" 한동훈 반대 나선 홍준표]]></title>
+            <link>https://tv.naver.com/v/44455534</link>
+            <guid>https://tv.naver.com/v/44455534</guid>
+            <pubDate>Sun, 17 Dec 2023 08:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231217_104/eX26k_1702798335992LPHjj_JPEG/cover_cover_h2023121703_20231217163101988.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[날씨] 올겨울 최강 한파‥충남·전북·제주 '눈']]></title>
             <link>https://tv.naver.com/v/44448385</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Dec 2023 12:29:57 GMT</pubDate>
             <content:encoded><![CDATA[2:06]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231216_92/Y6Y0V_17027267065443WOEy_JPEG/cover_cover_desk_20231216_200458_1_4_Large_20231216203740365.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울-12도, 철원-17도 최강 한파, 서해안 20cm 폭설 더 온다]]></title>
-            <link>https://tv.naver.com/v/44433249</link>
-            <guid>https://tv.naver.com/v/44433249</guid>
-            <pubDate>Sat, 16 Dec 2023 12:29:57 GMT</pubDate>
-            <content:encoded><![CDATA[2:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231216_6/nHlzp_1702726682862YEwdq_JPEG/cover_cover_h2023121614_20231216203721400.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
