@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 02:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 03:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[날씨] '북극한파'에 종일 영하권 강추위…서해안 대설특보]]></title>
+            <link>https://tv.naver.com/v/44448503</link>
+            <guid>https://tv.naver.com/v/44448503</guid>
+            <pubDate>Sun, 17 Dec 2023 03:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[1:34]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231217_59/9nDwI_1702782884926Dtwx0_JPEG/cover_0001115072_001_20231217121401132.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클로징]]></title>
             <link>https://tv.naver.com/v/44445972</link>
@@ -238,14 +246,6 @@
             <pubDate>Sat, 16 Dec 2023 08:20:07 GMT</pubDate>
             <content:encoded><![CDATA[8:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231216_189/zigPw_1702713002313qFWz6_JPEG/cover_0001114962_001_20231216164601163.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["원하는 식감 아니야"…소금빵 반죽 100개 폐기 갑론을박]]></title>
-            <link>https://tv.naver.com/v/44425517</link>
-            <guid>https://tv.naver.com/v/44425517</guid>
-            <pubDate>Sat, 16 Dec 2023 08:20:07 GMT</pubDate>
-            <content:encoded><![CDATA[1:31]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231216_22/evcyl_1702712144532lazwR_JPEG/cover_0001114788_001_20231216163509588.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
