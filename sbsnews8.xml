@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Dec 2023 20:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Dec 2023 21:15:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모닝와이드] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/44477531</link>
+            <guid>https://tv.naver.com/v/44477531</guid>
+            <pubDate>Sun, 17 Dec 2023 21:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[0:59]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_34/oMXOw_1702847257409zrsoY_JPEG/cover_0001115164_001_20231218060701106.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밤길 마주쳐도 쫓아와 어슬렁…일본도 멧돼지 출몰 공포]]></title>
             <link>https://tv.naver.com/v/44476890</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Dec 2023 04:21:00 GMT</pubDate>
             <content:encoded><![CDATA[0:48]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231217_281/1EHk2_1702783230721C1UUY_JPEG/cover_0001115074_001_20231217122001120.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[눈길 사고 잇따라…빙판길 달리던 시내버스, 가로등 '쿵']]></title>
-            <link>https://tv.naver.com/v/44448608</link>
-            <guid>https://tv.naver.com/v/44448608</guid>
-            <pubDate>Sun, 17 Dec 2023 04:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[1:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231217_198/ADfjh_1702783204046dOWB4_JPEG/cover_0001115073_001_20231217121901089.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
