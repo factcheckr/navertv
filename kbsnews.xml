@@ -4,9 +4,17 @@
         <title>KBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 16:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 17:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어제 단거리, 오늘은 장거리…연이은 발사, 의도는?]]></title>
+            <link>https://tv.naver.com/v/44530089</link>
+            <guid>https://tv.naver.com/v/44530089</guid>
+            <pubDate>Mon, 18 Dec 2023 17:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231219_243/2geEs_1702918172297oHxUW_JPEG/cover_0011624924_001_20231219014901128.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동해시, 공모 선정 ‘송정지구 도시재생’ 본격 추진]]></title>
             <link>https://tv.naver.com/v/44529478</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 18 Dec 2023 15:18:26 GMT</pubDate>
             <content:encoded><![CDATA[2:13]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231219_290/lL2tb_1702912083967anDaq_JPEG/cover_0011624931_001_20231219000703693.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5분도 안 돼 ‘활활’…제보 영상으로 본 화재 순간]]></title>
-            <link>https://tv.naver.com/v/44527098</link>
-            <guid>https://tv.naver.com/v/44527098</guid>
-            <pubDate>Mon, 18 Dec 2023 15:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[2:08]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231219_222/En4by_1702912068441WROMO_JPEG/cover_0011624930_001_20231219000655756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
