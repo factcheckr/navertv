@@ -4,9 +4,17 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 04:22:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 05:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[영상] 달리는 구호품 트럭에 아이들까지 매달렸다…굶주린 가자지구 주민들의 '처절한 약탈']]></title>
+            <link>https://tv.naver.com/v/44492508</link>
+            <guid>https://tv.naver.com/v/44492508</guid>
+            <pubDate>Mon, 18 Dec 2023 05:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[2:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_263/ZFtEW_1702876464410TWKUD_JPEG/cover_0001115356_001_20231218141301099.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인천 18층 호텔에서 큰불…투숙객 150여 명 대피]]></title>
             <link>https://tv.naver.com/v/44489048</link>
@@ -238,14 +246,6 @@
             <pubDate>Mon, 18 Dec 2023 02:30:43 GMT</pubDate>
             <content:encoded><![CDATA[1:38]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231218_145/3Ftfw_1702862626872XRHuq_JPEG/cover_0001115254_001_20231218102301117.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북, 장거리 탄도미사일 1발 발사…연이틀 도발]]></title>
-            <link>https://tv.naver.com/v/44481106</link>
-            <guid>https://tv.naver.com/v/44481106</guid>
-            <pubDate>Mon, 18 Dec 2023 02:30:43 GMT</pubDate>
-            <content:encoded><![CDATA[1:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_218/m0iXx_1702862398720bgIUk_JPEG/cover_0001115251_001_20231218101901109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
