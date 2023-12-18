@@ -4,9 +4,17 @@
         <title>TV조선 뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 05:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 06:24:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[티조 Clip] 경찰, '경복궁 낙서 테러' 용의자 3명 신원 특정]]></title>
+            <link>https://tv.naver.com/v/44496692</link>
+            <guid>https://tv.naver.com/v/44496692</guid>
+            <pubDate>Mon, 18 Dec 2023 06:24:24 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_281/EpYJl_17028801942939HsJO_JPEG/cover_2023121890123_thumb_031333_20231218151603691.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[송영길, 영장실질심사 출석…"겸손하고 성실하게 소명할 것"]]></title>
             <link>https://tv.naver.com/v/44487856</link>
@@ -238,14 +246,6 @@
             <pubDate>Sun, 17 Dec 2023 11:14:27 GMT</pubDate>
             <content:encoded><![CDATA[3:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231217_85/8oNEa_1702810968513Ekauo_JPEG/cover_2023121790106_thumb_075915_20231217200109756.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김명우 앵커의 생각] 이제 그만 하시지요]]></title>
-            <link>https://tv.naver.com/v/44462462</link>
-            <guid>https://tv.naver.com/v/44462462</guid>
-            <pubDate>Sun, 17 Dec 2023 11:14:27 GMT</pubDate>
-            <content:encoded><![CDATA[1:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231217_135/E1L8Z_17028109043513CptL_JPEG/cover_2023121790112_thumb_075631_20231217200101487.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
