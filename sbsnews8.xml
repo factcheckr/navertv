@@ -4,9 +4,33 @@
         <title>SBS뉴스 ─ 네이버TV</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 02:31:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 03:19:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12뉴스] 오늘의 주요뉴스]]></title>
+            <link>https://tv.naver.com/v/44486004</link>
+            <guid>https://tv.naver.com/v/44486004</guid>
+            <pubDate>Mon, 18 Dec 2023 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[0:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_38/OhLTU_1702869283989aM15U_JPEG/cover_0001115316_001_20231218121401118.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[청주] 일반 4배 크기 '슈퍼 가지' 개발 성공]]></title>
+            <link>https://tv.naver.com/v/44484901</link>
+            <guid>https://tv.naver.com/v/44484901</guid>
+            <pubDate>Mon, 18 Dec 2023 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[1:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_201/i2qtw_1702867882131W6vpx_JPEG/cover_0000258250_001_20231218115101122.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수통·모포, 역사 속으로…군 급식은 '뷔페식'으로 바뀐다]]></title>
+            <link>https://tv.naver.com/v/44484047</link>
+            <guid>https://tv.naver.com/v/44484047</guid>
+            <pubDate>Mon, 18 Dec 2023 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[2:00]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_79/DFs4y_1702866734575a89Bv_JPEG/cover_0001115181_001_20231218113101133.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[영상] '돈 봉투 의혹' 구속 기로 놓인 송영길…"겸손하고 성실하게 소명할 것"]]></title>
             <link>https://tv.naver.com/v/44483003</link>
@@ -102,14 +126,6 @@
             <pubDate>Mon, 18 Dec 2023 02:30:43 GMT</pubDate>
             <content:encoded><![CDATA[1:51]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231218_218/m0iXx_1702862398720bgIUk_JPEG/cover_0001115251_001_20231218101901109.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수통·모포, 역사 속으로…군 급식은 '뷔페식'으로 바뀐다]]></title>
-            <link>https://tv.naver.com/v/44481069</link>
-            <guid>https://tv.naver.com/v/44481069</guid>
-            <pubDate>Mon, 18 Dec 2023 02:30:43 GMT</pubDate>
-            <content:encoded><![CDATA[2:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_299/LkPA8_1702862296370z6hbg_JPEG/cover_0001115181_001_20231218101713581.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[정치쇼] 이용호 "한동훈 세몰이? 그분들이 혁신의 대상"]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Mon, 18 Dec 2023 01:15:37 GMT</pubDate>
             <content:encoded><![CDATA[2:09]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20231218_117/xFgQv_1702858149638AIMX1_JPEG/cover_0001113356_001_20231218090801121.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[친절한 경제] 부자들 자산도 줄었다…내년 유망한 투자처는?]]></title>
-            <link>https://tv.naver.com/v/44479186</link>
-            <guid>https://tv.naver.com/v/44479186</guid>
-            <pubDate>Mon, 18 Dec 2023 01:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[5:00]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_31/2cbjL_17028575677556ppvi_JPEG/cover_0001115211_001_20231218085701147.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["이민자, 미국 피에 독 푼다"…트럼프 '혐오 발언' 또 논란]]></title>
-            <link>https://tv.naver.com/v/44478868</link>
-            <guid>https://tv.naver.com/v/44478868</guid>
-            <pubDate>Mon, 18 Dec 2023 01:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20231218_106/b9FH6_17028562824407ujDt_JPEG/cover_0001115172_001_20231218083701105.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
